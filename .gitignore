@@ -1,0 +1,26 @@
+# Database — too large for git (208 MB)
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node
+node_modules/
+package-lock.json
+
+# Intermediate analysis files
+employer_review_needed.json
+llm_batch_*.json
+llm_classify_*.json
+fec_run_log.txt
+score_distribution.png
+
+# OS
+.DS_Store
+Thumbs.db
