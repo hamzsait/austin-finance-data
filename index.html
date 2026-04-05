@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Austin Campaign Finance</title>
+  <style>
+    :root {
+      --bg: #0f1117; --surface: #1a1d27; --surface2: #22263a;
+      --border: #2d3148; --text: #e2e8f0; --muted: #94a3b8;
+      --accent: #4f8ef7;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: system-ui, sans-serif; min-height: 100vh; }
+
+    header {
+      padding: 48px 24px 32px;
+      max-width: 900px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; }
+    header h1 span { color: var(--accent); }
+    header p { margin-top: 10px; color: var(--muted); font-size: 15px; max-width: 560px; line-height: 1.6; }
+
+    main { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+
+    h2 { font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+         color: var(--muted); margin-bottom: 16px; }
+
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-bottom: 48px; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s, background 0.15s;
+      display: block;
+    }
+    .card:hover { border-color: var(--accent); background: var(--surface2); }
+    .card.disabled { opacity: 0.45; cursor: not-allowed; pointer-events: none; }
+
+    .card-name { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+    .card-meta { font-size: 12px; color: var(--muted); margin-bottom: 12px; }
+    .card-stats { display: flex; gap: 16px; }
+    .stat-val { font-size: 18px; font-weight: 700; color: var(--accent); }
+    .stat-lbl { font-size: 11px; color: var(--muted); margin-top: 1px; }
+
+    .badge {
+      display: inline-block; font-size: 10px; font-weight: 600;
+      letter-spacing: 0.05em; text-transform: uppercase;
+      padding: 2px 7px; border-radius: 4px; margin-left: 8px;
+      vertical-align: middle;
+    }
+    .badge-live { background: #14532d; color: #4ade80; }
+    .badge-soon { background: #1e293b; color: #64748b; }
+
+    footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px;
+             border-top: 1px solid var(--border); }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Austin <span>Campaign Finance</span></h1>
+  <p>Who funds Austin's city council candidates? Explore donation histories, industry breakdowns, and donor networks for every race.</p>
+</header>
+
+<main>
+  <h2>City Council Profiles</h2>
+  <div class="grid">
+
+    <a class="card" href="profile_qadri_v2.html">
+      <div class="card-name">Zo Qadri <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 9 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$382K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">1,707</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">84.7%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Kirk Watson <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">Mayor · 2023 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$3.2M</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">10K+</div><div class="stat-lbl">Records</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Celia Israel <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 9 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$755K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">6,484</div><div class="stat-lbl">Records</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Mike Siegel <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 7 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$279K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Mackenzie Kelly <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 6 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$240K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Ashika Ganguly <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 9 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$177K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Vanessa Fuentes <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 2 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$169K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Jose Velasquez <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 3 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$160K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Paige Ellis <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 8 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$146K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Carmen Llanes-Pulido <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 2 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$122K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+  </div>
+
+  <h2>About This Project</h2>
+  <p style="color:var(--muted);font-size:14px;line-height:1.7;max-width:620px">
+    Data sourced from the Austin City Clerk's campaign finance records and cross-referenced with FEC federal filings.
+    Industry classifications are derived from employer identities, occupation records, and public information.
+    All source data is public record.
+  </p>
+</main>
+
+<footer>
+  Data from <a href="https://www.austintexas.gov/department/city-clerk" target="_blank">Austin City Clerk</a> &
+  <a href="https://www.fec.gov" target="_blank">FEC</a> ·
+  Updated April 2026
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,257 @@
+"""
+Fuzzy-match the 208 LLM-classified names that didn't match DB canonical_names exactly.
+"""
+import sqlite3, sys, io
+from rapidfuzz import process, fuzz
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+conn = sqlite3.connect("austin_finance.db")
+cur = conn.cursor()
+
+# Load all unclassified canonical names from DB
+cur.execute("SELECT canonical_name FROM employer_identities WHERE industry IS NULL")
+db_names = [r[0] for r in cur.fetchall()]
+
+# These are the LLM results that didn't match exactly
+not_found = [
+  ("Cicero Group", "Consulting / PR", None),
+  ("Compact Power Inc", "Energy / Environment", None),
+  ("Dykema", "Legal", None),
+  ("Endeavor", "Real Estate", "real-estate-development"),
+  ("Frost Arnett", "Finance", None),
+  ("Globalstar", "Technology", None),
+  ("JMFA", "Finance", None),
+  ("LeBlanc & Associates", "Consulting / PR", None),
+  ("Life Science Austin", "Nonprofit", None),
+  ("Line 204", "Consulting / PR", "political-consulting"),
+  ("Lockwood Andrews & Newnam", "Engineering", None),
+  ("Lyndall & Associates", "Consulting / PR", None),
+  ("MDG Medical", "Healthcare", None),
+  ("MTX Group", "Technology", None),
+  ("Marek Brothers Construction", "Construction", None),
+  ("Milestone Community Builders", "Construction", "homebuilders|real-estate-development"),
+  ("Mithun", "Architecture", None),
+  ("NGP VAN", "Technology", "progressive-money|political-consulting"),
+  ("New Media Investment Group", "Media", None),
+  ("Norwood Capital", "Finance", "real-estate-development"),
+  ("O'Connell Robertson", "Architecture", None),
+  ("Older Adults Technology Services", "Nonprofit", None),
+  ("Ondas Holdings", "Technology", None),
+  ("Parker Lane Holdings", "Real Estate", "real-estate-development"),
+  ("Performa", "Consulting / PR", None),
+  ("Philanthropic Collaborative", "Nonprofit", None),
+  ("Plaza Companies", "Real Estate", "real-estate-development|multifamily-housing"),
+  ("Quarles & Brady", "Legal", None),
+  ("RAB Lighting", "Engineering", None),
+  ("Rapid Response", "Consulting / PR", "political-consulting"),
+  ("Reed International", "Real Estate", "real-estate-development"),
+  ("Rigney Bradley", "Real Estate", "real-estate-development"),
+  ("River City Youth Foundation", "Nonprofit", None),
+  ("Roc Nation", "Hospitality / Entertainment", None),
+  ("Rodgers Townsend", "Consulting / PR", None),
+  ("Ross Stores", "Retail", None),
+  ("SFAI", "Finance", None),
+  ("SHW Group", "Architecture", None),
+  ("Saber Power Services", "Energy / Environment", None),
+  ("SeatGeek", "Technology", "hospitality-entertainment"),
+  ("Sendero", "Consulting / PR", None),
+  ("Simply Banking", "Finance", None),
+  ("SitusAMC", "Finance", "real-estate-development"),
+  ("Skanska", "Construction", "real-estate-development"),
+  ("Slate Real Estate", "Real Estate", "real-estate-development"),
+  ("Smart Data Solutions", "Technology", None),
+  ("Sooner Investment", "Finance", None),
+  ("Specialty Consultants", "Consulting / PR", None),
+  ("Spectrum (Charter)", "Technology", None),
+  ("Sport Court", "Retail", None),
+  ("Star Taxi", "Transportation", None),
+  ("Sterling Commerce", "Technology", None),
+  ("Stony Creek Builders", "Construction", "homebuilders"),
+  ("Susman Godfrey", "Legal", None),
+  ("Symantec", "Technology", None),
+  ("TBC Corp", "Retail", None),
+  ("TDIndustries", "Construction", None),
+  ("TXU Energy", "Energy / Environment", "fossil-fuel-advocacy"),
+  ("Texas Conservation Alliance", "Nonprofit", "progressive-money"),
+  ("Texas Rio Grande Legal Aid", "Nonprofit", "progressive-money"),
+  ("Texas Society of CPAs", "Finance", None),
+  ("Third Coast Infrastructure", "Engineering", None),
+  ("Tolunay-Wong Engineers", "Engineering", None),
+  ("Tom Brown", "Energy / Environment", "fossil-fuel-advocacy|energy-mineral-rights"),
+  ("Translucent Energy", "Energy / Environment", None),
+  ("Transplace", "Transportation", None),
+  ("ULI Austin", "Nonprofit", "real-estate-development|urbanist|yimby"),
+  ("University Federal Credit Union", "Finance", None),
+  ("Vision Service Plan", "Healthcare", None),
+  ("Volterra", "Technology", None),
+  ("Watershed Protection", "Government", None),
+  ("Weil Gotshal", "Legal", None),
+  ("William Lyon Homes", "Construction", "homebuilders"),
+  ("XO Group", "Media", None),
+  ("Yardi Systems", "Technology", "real-estate-development"),
+  ("Zonda Media", "Media", "real-estate-development"),
+  ("Zoosk", "Technology", None),
+  ("Zinc Collective", "Consulting / PR", None),
+  ("ACFE", "Nonprofit", None),
+  ("ADCA", "Nonprofit", None),
+  ("ATKINS", "Engineering", None),
+  ("AvecMode", "Retail", None),
+  ("BSWH", "Healthcare", None),
+  ("Cardiotexas", "Healthcare", None),
+  ("Catapult", "Technology", "tech-startup-ecosystem"),
+  ("CivicSmart", "Technology", "urbanist|transit-trails"),
+  ("Civitas Analytics", "Technology", "political-consulting"),
+  ("Coalition for the Homeless", "Nonprofit", "homelessness-services"),
+  ("Cognitect", "Technology", "tech-startup-ecosystem"),
+  ("Comply365", "Technology", None),
+  ("Consolidated Electrical Distributors", "Construction", None),
+  ("Control Southern", "Engineering", None),
+  ("Corgan", "Architecture", None),
+  ("Crane Worldwide Logistics", "Transportation", None),
+  ("Cruz Construction", "Construction", None),
+  ("Denton Navarro Rocha Bernal & Zech PC", "Legal", None),
+  ("Distributed Power Alliance", "Energy / Environment", None),
+  ("Doggett Heavy Machinery", "Construction", None),
+  ("Drenner & Stewert", "Legal", "real-estate-development|urbanist|yimby"),
+  ("Earnest Research", "Technology", None),
+  ("East Austin College Prep", "Education", None),
+  ("East Texas Communities Foundation", "Nonprofit", None),
+  ("Education Service Center Region 13", "Education", None),
+  ("Empire Engineering", "Engineering", None),
+  ("Fast Forward", "Nonprofit", "tech-startup-ecosystem"),
+  ("Fathom", "Technology", "tech-startup-ecosystem"),
+  ("FireFighter Benefit Trust", "Labor", None),
+  ("Foodways Texas", "Nonprofit", None),
+  ("Foundation Partners Group", "Finance", None),
+  ("Fusion Texas", "Nonprofit", "progressive-money"),
+  ("GPRS", "Engineering", None),
+  ("GSC Enterprises", "Construction", None),
+  ("Geophysical Survey", "Engineering", "energy-mineral-rights"),
+  ("Greta James Consulting", "Consulting / PR", None),
+  ("Guardian Property Advisors", "Real Estate", None),
+  ("Gulf States Toyota", "Retail", None),
+  ("HEB Central Market", "Retail", None),
+  ("HEB Grocery", "Retail", None),
+  ("HMT Tank", "Engineering", None),
+  ("HOK", "Architecture", None),
+  ("Hunter Industries", "Engineering", None),
+  ("Hustle", "Technology", "tech-startup-ecosystem|political-consulting"),
+  ("ICI Homes", "Construction", "homebuilders|real-estate-development"),
+  ("INX Software", "Technology", None),
+  ("Indigo Agriculture", "Technology", None),
+  ("Influence Design Forum", "Architecture", None),
+  ("Infrastructure Associates", "Engineering", None),
+  ("Integrated Marketing Solutions", "Consulting / PR", None),
+  ("International Leadership of Texas", "Education", "conservative-policy"),
+  ("Iron Mountain", "Technology", None),
+  ("Istrouma Baptist Church", "Nonprofit", None),
+  ("Miro", "Technology", None),
+  ("NortonRoseFulbright US LLP", "Legal", None),
+  ("Ntirety", "Technology", None),
+  ("ONCOR", "Energy / Environment", None),
+  ("OpenText", "Technology", None),
+  ("Osborn & Bennett", "Legal", None),
+  ("Oscar Health", "Healthcare", None),
+  ("Palantir", "Technology", None),
+  ("Parker Electric", "Construction", None),
+  ("Parsons", "Engineering", None),
+  ("Ping Identity", "Technology", None),
+  ("PlanetScale", "Technology", "tech-startup-ecosystem"),
+  ("Potomac Strategy", "Consulting / PR", "political-consulting"),
+  ("Republic Services", "Energy / Environment", None),
+  ("Responsive Education Solutions", "Education", None),
+  ("Rise Against Hunger", "Nonprofit", None),
+  ("Robert Half", "Consulting / PR", None),
+  ("Rodriguez Consulting", "Consulting / PR", None),
+  ("SailPoint Technologies", "Technology", None),
+  ("SalesLoft", "Technology", None),
+  ("Sandalwood Dental", "Healthcare", None),
+  ("Secure Justice", "Nonprofit", "progressive-money"),
+  ("Sharing Life Community Outreach", "Nonprofit", "homelessness-services"),
+  ("Shift Capital", "Finance", "real-estate-development"),
+  ("Silicon Hills News", "Media", "tech-startup-ecosystem"),
+  ("Software AG", "Technology", None),
+  ("Sophos", "Technology", None),
+  ("StantonStreet", "Technology", None),
+  ("Statewide Research", "Consulting / PR", None),
+  ("Stonegate Capital", "Finance", None),
+  ("Sutherland Global", "Consulting / PR", None),
+  ("SwimRight Academy", "Education", None),
+  ("TNRIS", "Government", None),
+  ("TPC Consulting", "Consulting / PR", None),
+  ("Talend", "Technology", None),
+  ("Tapestry", "Retail", None),
+  ("Tavistock Group", "Finance", "real-estate-development"),
+  ("Taylor Electric", "Construction", None),
+  ("Texas 2036", "Nonprofit", None),
+  ("Texas Advanced Computing Center", "Technology", "higher-education"),
+  ("Texas Association of Mutual Insurance Companies", "Finance", None),
+  ("Texas Commission on Jail Standards", "Government", None),
+  ("Texas Land Conservancy", "Nonprofit", None),
+  ("Texas Performing Arts", "Hospitality / Entertainment", "hospitality-entertainment"),
+  ("Texas Public Radio", "Media", None),
+  ("Texas State Library", "Government", None),
+  ("Texas Trees Foundation", "Nonprofit", None),
+  ("Texas Watch", "Nonprofit", "tort-reform"),
+  ("The Domain", "Real Estate", "luxury-real-estate"),
+  ("The Family Place", "Nonprofit", None),
+  ("The Nature Conservancy", "Nonprofit", None),
+  ("Third Coast Percussion", "Hospitality / Entertainment", "hospitality-entertainment"),
+  ("TierPoint", "Technology", None),
+  ("Tito's Vodka", "Retail", None),
+  ("Tolleson Wealth Management", "Finance", None),
+  ("Travelers", "Finance", None),
+  ("Turner Construction", "Construction", None),
+  ("Turquoise Life", "Healthcare", None),
+  ("UCHealth", "Healthcare", None),
+  ("Uber", "Transportation", None),
+  ("Under Armour", "Retail", None),
+  ("United Educators", "Education", None),
+  ("United Healthcare", "Healthcare", None),
+  ("University of North Texas", "Education", "higher-education"),
+  ("Urbanuity", "Consulting / PR", "urbanist"),
+  ("Valero", "Energy / Environment", "fossil-fuel-advocacy"),
+  ("Velocity Credit Union", "Finance", None),
+  ("Visa Inc", "Finance", None),
+  ("Vista Realty", "Real Estate", None),
+  ("Vizient Inc", "Healthcare", None),
+  ("WPX Energy", "Energy / Environment", "fossil-fuel-advocacy|energy-mineral-rights"),
+  ("Warmington Residential", "Real Estate", "homebuilders|multifamily-housing"),
+  ("Whitley Penn", "Finance", None),
+  ("William Charles Construction", "Construction", None),
+  ("XO Communications", "Technology", None),
+  ("Zara", "Retail", None),
+]
+
+THRESHOLD = 88
+updated = 0
+no_match = []
+
+for name, industry, tags in not_found:
+    result = process.extractOne(name, db_names, scorer=fuzz.WRatio, score_cutoff=THRESHOLD)
+    if result:
+        matched_name, score, _ = result
+        cur.execute("""
+            UPDATE employer_identities SET industry=?, interest_tags=?
+            WHERE canonical_name=? AND industry IS NULL
+        """, (industry, tags, matched_name))
+        if cur.rowcount:
+            updated += 1
+            if score < 95:
+                print(f"  [{score:.0f}] '{name}' -> '{matched_name}' ({industry})")
+    else:
+        no_match.append(name)
+
+conn.commit()
+print(f"\nFuzzy-matched & updated: {updated}")
+print(f"No match found: {len(no_match)}")
+
+cur.execute("SELECT SUM(record_count) FROM employer_identities WHERE industry IS NOT NULL")
+cr = cur.fetchone()[0] or 0
+cur.execute("SELECT SUM(record_count) FROM employer_identities")
+total = cur.fetchone()[0]
+cur.execute("SELECT COUNT(*) FROM employer_identities WHERE industry IS NOT NULL")
+classified = cur.fetchone()[0]
+print(f"\nTotal classified: {classified:,}")
+print(f"Record coverage: {cr:,} / {total:,} = {cr/total*100:.1f}%")
+conn.close()
