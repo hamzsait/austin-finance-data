@@ -909,14 +909,7 @@
 
 <script>
 // ── Slug: only thing hardcoded per-profile ────────────────────────────────────
-// Override this in copies: const PROFILE_SLUG = 'qadri';
-// Or derive from filename automatically if not set:
-(function() {
-  if (typeof PROFILE_SLUG === 'undefined') {
-    const m = window.location.pathname.match(/profile_([^/.]+)/);
-    window.PROFILE_SLUG = m ? m[1] : 'qadri';
-  }
-})();
+const PROFILE_SLUG = 'qadri';
 
 // ── Globals populated after fetch ────────────────────────────────────────────
 let INTEREST_GROUPS = [];
