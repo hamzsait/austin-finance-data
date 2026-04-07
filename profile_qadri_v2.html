@@ -532,6 +532,214 @@
     transition:all 0.15s;
   }
   .sort-btn.active { background:var(--accent); color:#fff; border-color:var(--accent); }
+
+  /* ── Cycle nav tabs ── */
+  #cycleNav {
+    display: none;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    padding: 12px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  #cycleNav .cycle-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-right: 4px;
+  }
+  .cycle-tab {
+    padding: 4px 13px;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: var(--surface2);
+    color: var(--muted);
+    transition: all 0.15s;
+    font-weight: 500;
+  }
+  .cycle-tab:hover { color: var(--text); border-color: var(--muted); }
+  .cycle-tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  /* ── Cycle comparison panel ── */
+  #cycleComparison {
+    display: none;
+    margin-bottom: 20px;
+  }
+  .comparison-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+  }
+  .comparison-header {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .comparison-title {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .comparison-subtitle {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .comparison-grid {
+    display: grid;
+    grid-template-columns: 220px 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+  @media (max-width: 700px) {
+    .comparison-grid { grid-template-columns: 1fr; }
+  }
+
+  /* Big delta number */
+  .delta-block {
+    background: var(--surface2);
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid var(--border);
+  }
+  .delta-number {
+    font-size: 38px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .delta-number.positive { color: #ef4444; }
+  .delta-number.negative { color: #34d399; }
+  .delta-number.neutral  { color: var(--muted); }
+  .delta-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 4px;
+  }
+  .delta-sub {
+    font-size: 11px;
+    color: var(--muted);
+    line-height: 1.4;
+  }
+  .delta-cycles {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+  }
+  .delta-cycle-val {
+    text-align: center;
+  }
+  .delta-cycle-val .val { font-size: 18px; font-weight: 700; color: var(--text); }
+  .delta-cycle-val .lbl { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; margin-top: 2px; }
+
+  /* Side-by-side industry bars */
+  .cmp-section-title {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 12px;
+  }
+  .cmp-col-head {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
+  }
+  .cmp-col-sub {
+    font-size: 10px;
+    color: var(--muted);
+    font-weight: 400;
+  }
+  .cmp-bar-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 7px;
+    font-size: 12px;
+  }
+  .cmp-bar-label {
+    width: 120px;
+    flex-shrink: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: var(--muted);
+    font-size: 11px;
+  }
+  .cmp-bar-wrap {
+    flex: 1;
+    background: var(--surface2);
+    border-radius: 2px;
+    height: 6px;
+    overflow: hidden;
+  }
+  .cmp-bar-fill {
+    height: 100%;
+    border-radius: 2px;
+    transition: width 0.5s ease;
+  }
+  .cmp-bar-pct {
+    width: 38px;
+    text-align: right;
+    font-size: 11px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .cmp-bar-row.highlight .cmp-bar-label { color: var(--text); font-weight: 600; }
+
+  /* Key movers table */
+  .movers-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    margin-top: 4px;
+  }
+  .movers-table th {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    color: var(--muted);
+    text-align: left;
+    padding: 5px 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .movers-table th:not(:first-child) { text-align: right; }
+  .movers-table td {
+    padding: 6px 8px;
+    border-bottom: 1px solid rgba(46,51,71,0.5);
+    vertical-align: middle;
+  }
+  .movers-table tr:last-child td { border-bottom: none; }
+  .movers-table .td-ind { font-weight: 500; color: var(--text); }
+  .movers-table .td-num { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+  .movers-table .td-delta { text-align: right; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .movers-table .td-delta.grew { color: #ef4444; }
+  .movers-table .td-delta.shrank { color: #34d399; }
+  .movers-table tr.mover-highlight td { background: rgba(239,68,68,0.04); }
+  .movers-table tr.mover-highlight .td-ind { color: #ef4444; }
 </style>
 </head>
 <body>
@@ -587,6 +795,66 @@
           Interest group classification based on donor employer records.<br><br>
           Last updated: <span id="heroUpdated">—</span>
         </div>
+      </div>
+    </div>
+
+    <!-- ── Cycle nav tabs (shown when cycles.length > 1) ── -->
+    <div id="cycleNav">
+      <span class="cycle-label">View by cycle:</span>
+      <!-- tabs injected by JS -->
+    </div>
+
+    <!-- ── Cycle comparison panel (shown when cycles.length >= 2) ── -->
+    <div id="cycleComparison">
+      <div class="comparison-card">
+        <div class="comparison-header">
+          <span class="comparison-title">Cycle Comparison</span>
+          <span class="comparison-subtitle" id="cmpSubtitle"></span>
+        </div>
+        <div class="comparison-grid">
+
+          <!-- Delta block -->
+          <div>
+            <div class="delta-block">
+              <div class="delta-number" id="cmpDeltaNumber"></div>
+              <div class="delta-label">Employer-affiliated funding</div>
+              <div class="delta-sub">share of total raised from identified employers</div>
+              <div class="delta-cycles" id="cmpDeltaCycles"></div>
+            </div>
+          </div>
+
+          <!-- Cycle A bars -->
+          <div>
+            <div class="cmp-section-title">Top industries by cycle</div>
+            <div class="cmp-col-head" id="cmpColHeadA"></div>
+            <div id="cmpBarsA"></div>
+          </div>
+
+          <!-- Cycle B bars -->
+          <div>
+            <div class="cmp-section-title">&nbsp;</div>
+            <div class="cmp-col-head" id="cmpColHeadB"></div>
+            <div id="cmpBarsB"></div>
+          </div>
+
+        </div>
+
+        <!-- Key movers -->
+        <div id="cmpMoversWrap" style="margin-top:20px;padding-top:16px;border-top:1px solid var(--border);display:none">
+          <div class="cmp-section-title" style="margin-bottom:8px">Key industry shifts (&gt;3 ppt change)</div>
+          <table class="movers-table">
+            <thead>
+              <tr>
+                <th>Industry</th>
+                <th id="cmpMoversHeadA"></th>
+                <th id="cmpMoversHeadB"></th>
+                <th>Change</th>
+              </tr>
+            </thead>
+            <tbody id="cmpMoversTbody"></tbody>
+          </table>
+        </div>
+
       </div>
     </div>
 
@@ -715,7 +983,16 @@
 </div>
 
 <script>
+// ── Slug: only thing hardcoded per-profile ────────────────────────────────────
 const PROFILE_SLUG = 'qadri';
+// Override this in copies: const PROFILE_SLUG = 'watson';
+// Or derive from filename automatically if not set:
+(function() {
+  if (typeof PROFILE_SLUG === 'undefined') {
+    const m = window.location.pathname.match(/profile_([^/.]+)/);
+    window.PROFILE_SLUG = m ? m[1] : 'qadri';
+  }
+})();
 
 // ── Globals populated after fetch ────────────────────────────────────────────
 let INTEREST_GROUPS = [];
@@ -723,6 +1000,9 @@ let BY_YEAR = [];
 let NOTABLE_FIRMS = [];
 let TOP_DONORS = [];
 let ALL_DONATIONS = [];
+let CYCLES = [];           // cycle data from JSON
+let ACTIVE_CYCLE = -1;     // -1 = all time, 0+ = cycle index
+let _FULL_DATA = null;     // stashed original data for "all time" restore
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function fmt(n) {
@@ -1023,7 +1303,22 @@ function renderHero(data) {
 let _drawerData = [], _sortCol = 1, _sortAsc = false, _query = "";
 
 function openDrawer(filterFn, title, color) {
-  _drawerData = ALL_DONATIONS.filter(filterFn);
+  // If a cycle is active, pre-filter donations to that cycle's year range
+  let donorPool = ALL_DONATIONS;
+  if (ACTIVE_CYCLE >= 0 && CYCLES[ACTIVE_CYCLE]) {
+    const cyc = CYCLES[ACTIVE_CYCLE];
+    const startY = cyc.year_range ? parseInt(cyc.year_range.split('\u2013')[0]) : null;
+    const endRaw = cyc.year_range ? cyc.year_range.split('\u2013')[1] : null;
+    const endY = (endRaw && endRaw !== 'present') ? parseInt(endRaw) : null;
+    donorPool = ALL_DONATIONS.filter(d => {
+      if (!d[1]) return false;
+      const yr = parseInt((d[1]||'').slice(0,4));
+      if (startY && yr < startY) return false;
+      if (endY   && yr > endY)   return false;
+      return true;
+    });
+  }
+  _drawerData = donorPool.filter(filterFn);
   _sortCol = 1; _sortAsc = false; _query = "";
   const total = _drawerData.reduce((s, d) => s + (d[2] || 0), 0);
   const titleEl = document.getElementById("drawerTitle");
@@ -1093,6 +1388,212 @@ document.getElementById("drawerSortSel").addEventListener("change", e => {
 });
 document.addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(); });
 
+// ── Cycle comparison rendering ────────────────────────────────────────────────
+function renderCycleComparison(cycles) {
+  if (!cycles || cycles.length < 2) return;
+  const c0 = cycles[0];
+  const c1 = cycles[cycles.length - 1];  // compare first vs most recent
+
+  // Don't show comparison if the later cycle has no data yet
+  if (!c1.hero.total_raised || c1.hero.total_raised === 0) return;
+
+  document.getElementById('cycleComparison').style.display = 'block';
+
+  // Subtitle
+  document.getElementById('cmpSubtitle').textContent =
+    `${c0.label} (${c0.year_range}) vs. ${c1.label} (${c1.year_range})`;
+
+  // Delta block
+  const delta = c1.hero.employer_affiliated_pct - c0.hero.employer_affiliated_pct;
+  const sign = delta >= 0 ? '+' : '';
+  const deltaEl = document.getElementById('cmpDeltaNumber');
+  deltaEl.textContent = `${sign}${delta.toFixed(1)} pts`;
+  deltaEl.className = 'delta-number ' + (delta > 0.5 ? 'positive' : delta < -0.5 ? 'negative' : 'neutral');
+
+  document.getElementById('cmpDeltaCycles').innerHTML = `
+    <div class="delta-cycle-val">
+      <div class="val">${c0.hero.employer_affiliated_pct}%</div>
+      <div class="lbl">${c0.label}</div>
+    </div>
+    <div style="color:var(--muted);font-size:20px;align-self:center">→</div>
+    <div class="delta-cycle-val">
+      <div class="val">${c1.hero.employer_affiliated_pct}%</div>
+      <div class="lbl">${c1.label}</div>
+    </div>`;
+
+  // Column headers
+  document.getElementById('cmpColHeadA').innerHTML =
+    `${c0.label} <span class="cmp-col-sub">${c0.year_range}</span>`;
+  document.getElementById('cmpColHeadB').innerHTML =
+    `${c1.label} <span class="cmp-col-sub">${c1.year_range}</span>`;
+
+  // Build industry pct maps for both cycles (exclude noise)
+  function igPctMap(cycle) {
+    const noisy = new Set(['Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified']);
+    const total = cycle.hero.total_raised || 1;
+    const map = {};
+    cycle.interest_groups.forEach(ig => {
+      if (!noisy.has(ig.label)) map[ig.label] = ig.total / total * 100;
+    });
+    return map;
+  }
+
+  const mapA = igPctMap(c0);
+  const mapB = igPctMap(c1);
+
+  // Top 5 industries by combined total
+  const allInds = [...new Set([...Object.keys(mapA), ...Object.keys(mapB)])];
+  const noisy = new Set(['Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified']);
+  const rankedInds = allInds
+    .filter(i => !noisy.has(i))
+    .sort((a, b) => ((mapA[b]||0) + (mapB[b]||0)) - ((mapA[a]||0) + (mapB[a]||0)))
+    .slice(0, 5);
+
+  const maxPct = Math.max(...rankedInds.flatMap(i => [mapA[i]||0, mapB[i]||0]), 1);
+
+  function renderCmpBars(containerId, map, highlightInds) {
+    const el = document.getElementById(containerId);
+    el.innerHTML = '';
+    rankedInds.forEach(ind => {
+      const pct = map[ind] || 0;
+      const isHighlight = highlightInds.has(ind);
+      const color = (CYCLES[0]?.interest_groups || INTEREST_GROUPS).find(g => g.label === ind)?.color || '#94a3b8';
+      const row = document.createElement('div');
+      row.className = 'cmp-bar-row' + (isHighlight ? ' highlight' : '');
+      row.innerHTML = `
+        <div class="cmp-bar-label" title="${ind}">${ind}</div>
+        <div class="cmp-bar-wrap"><div class="cmp-bar-fill" style="width:${(pct/maxPct*100).toFixed(1)}%;background:${color}"></div></div>
+        <div class="cmp-bar-pct" style="color:${isHighlight ? color : 'var(--muted)'}">${pct.toFixed(1)}%</div>`;
+      el.appendChild(row);
+    });
+  }
+
+  // Find highlight industries (grew > 3 ppt from c0 to c1)
+  const grewInds = new Set(rankedInds.filter(i => (mapB[i]||0) - (mapA[i]||0) > 3));
+  renderCmpBars('cmpBarsA', mapA, new Set());
+  renderCmpBars('cmpBarsB', mapB, grewInds);
+
+  // Key movers (>3 ppt change in either direction)
+  const allMovers = allInds
+    .filter(i => !noisy.has(i))
+    .map(i => ({ ind: i, a: mapA[i]||0, b: mapB[i]||0, delta: (mapB[i]||0)-(mapA[i]||0) }))
+    .filter(m => Math.abs(m.delta) > 3)
+    .sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta));
+
+  const moversWrap = document.getElementById('cmpMoversWrap');
+  if (allMovers.length > 0) {
+    moversWrap.style.display = 'block';
+    document.getElementById('cmpMoversHeadA').textContent = c0.label;
+    document.getElementById('cmpMoversHeadB').textContent = c1.label;
+    const tbody = document.getElementById('cmpMoversTbody');
+    tbody.innerHTML = '';
+    allMovers.forEach(m => {
+      const sign = m.delta >= 0 ? '+' : '';
+      const cls = m.delta > 0 ? 'grew' : 'shrank';
+      const tr = document.createElement('tr');
+      if (m.delta > 3) tr.className = 'mover-highlight';
+      tr.innerHTML = `
+        <td class="td-ind">${m.ind}</td>
+        <td class="td-num">${m.a.toFixed(1)}%</td>
+        <td class="td-num">${m.b.toFixed(1)}%</td>
+        <td class="td-delta ${cls}">${sign}${m.delta.toFixed(1)} ppt</td>`;
+      tbody.appendChild(tr);
+    });
+  } else {
+    moversWrap.style.display = 'none';
+  }
+}
+
+// ── Cycle nav rendering ───────────────────────────────────────────────────────
+function renderCycleNav(cycles) {
+  const nav = document.getElementById('cycleNav');
+  // Only show nav if there are 2+ cycles with actual data
+  const populated = cycles ? cycles.filter(c => c.hero.total_raised > 0) : [];
+  if (!cycles || populated.length < 2) {
+    nav.style.display = 'none';
+    return;
+  }
+  nav.style.display = 'flex';
+
+  // Clear existing tabs (keep the label span)
+  const label = nav.querySelector('.cycle-label');
+  nav.innerHTML = '';
+  if (label) nav.appendChild(label);
+  else {
+    const lbl = document.createElement('span');
+    lbl.className = 'cycle-label';
+    lbl.textContent = 'View by cycle:';
+    nav.appendChild(lbl);
+  }
+
+  // "All Time" tab
+  const allBtn = document.createElement('button');
+  allBtn.className = 'cycle-tab active';
+  allBtn.dataset.cycle = '-1';
+  allBtn.textContent = 'All Time';
+  allBtn.onclick = () => switchCycle(-1);
+  nav.appendChild(allBtn);
+
+  // Per-cycle tabs
+  cycles.forEach((c, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'cycle-tab';
+    btn.dataset.cycle = i;
+    btn.textContent = `${c.label} (${c.year_range})`;
+    btn.onclick = () => switchCycle(i);
+    nav.appendChild(btn);
+  });
+}
+
+function switchCycle(idx) {
+  ACTIVE_CYCLE = idx;
+
+  // Update tab active state
+  document.querySelectorAll('.cycle-tab').forEach(btn => {
+    btn.classList.toggle('active', parseInt(btn.dataset.cycle) === idx);
+  });
+
+  if (idx === -1) {
+    // Restore all-time data
+    INTEREST_GROUPS = _FULL_DATA.interest_groups;
+    NOTABLE_FIRMS   = _FULL_DATA.notable_firms;
+    TOP_DONORS      = _FULL_DATA.top_donors;
+    // Restore hero stats
+    updateHeroStats(_FULL_DATA.hero, _FULL_DATA.meta);
+    document.getElementById('igHint').textContent =
+      `All time · ${fmt(_FULL_DATA.hero.total_raised)} total · person-level industry`;
+  } else {
+    const cyc = CYCLES[idx];
+    INTEREST_GROUPS = cyc.interest_groups;
+    NOTABLE_FIRMS   = cyc.notable_firms;
+    TOP_DONORS      = cyc.top_donors;
+    updateHeroStats(cyc.hero, _FULL_DATA.meta);
+    document.getElementById('igHint').textContent =
+      `${cyc.label} · ${cyc.year_range} · ${fmt(cyc.hero.total_raised)} total`;
+  }
+
+  renderDonut();
+  renderBars('total');
+  renderFirms();
+  renderTopDonors();
+}
+
+function updateHeroStats(hero, meta) {
+  document.getElementById('heroTotalRaised').textContent = fmt(hero.total_raised);
+  document.getElementById('heroUniqueDonors').textContent = hero.unique_donors.toLocaleString();
+  document.getElementById('heroContributions').textContent = hero.total_contributions.toLocaleString();
+  document.getElementById('donutHint').textContent =
+    `employer-affiliated donors · ${hero.employer_affiliated_pct}% of total raised`;
+
+  const topIG = INTEREST_GROUPS.find(g => g.label === hero.top_industry);
+  if (topIG) {
+    const pct = (topIG.total / hero.total_raised * 100).toFixed(1);
+    document.getElementById('heroTopIndustryPct').textContent = pct + '%';
+    document.getElementById('heroTopIndustryPct').style.color = topIG.color || 'var(--c-realestate)';
+    document.getElementById('heroTopIndustryLbl').textContent = hero.top_industry + ' Money';
+  }
+}
+
 // ── Main render ───────────────────────────────────────────────────────────────
 function renderAll(data, allDonations) {
   // Populate globals
@@ -1101,6 +1602,9 @@ function renderAll(data, allDonations) {
   NOTABLE_FIRMS  = data.notable_firms;
   TOP_DONORS     = data.top_donors;
   ALL_DONATIONS  = allDonations;
+  CYCLES         = data.cycles || [];
+  ACTIVE_CYCLE   = -1;
+  _FULL_DATA     = data;
 
   renderHero(data);
   renderYearBars();
@@ -1108,6 +1612,10 @@ function renderAll(data, allDonations) {
   renderBars('total');
   renderFirms();
   renderTopDonors();
+
+  // Cycles
+  renderCycleNav(CYCLES);
+  renderCycleComparison(CYCLES);
 
   // Show content, hide loading
   document.getElementById('loadingOverlay').style.display = 'none';
