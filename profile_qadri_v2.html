@@ -600,146 +600,91 @@
   }
   .comparison-grid {
     display: grid;
-    grid-template-columns: 220px 1fr 1fr;
-    gap: 20px;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
     align-items: start;
   }
   @media (max-width: 700px) {
     .comparison-grid { grid-template-columns: 1fr; }
   }
 
-  /* Big delta number */
-  .delta-block {
-    background: var(--surface2);
-    border-radius: 8px;
-    padding: 16px;
-    text-align: center;
-    border: 1px solid var(--border);
-  }
-  .delta-number {
-    font-size: 38px;
-    font-weight: 800;
-    letter-spacing: -1px;
-    line-height: 1;
-    margin-bottom: 6px;
-  }
-  .delta-number.positive { color: #ef4444; }
-  .delta-number.negative { color: #34d399; }
-  .delta-number.neutral  { color: var(--muted); }
-  .delta-label {
-    font-size: 12px;
+  .cmp-col-head {
+    font-size: 13px;
     font-weight: 600;
     color: var(--text);
     margin-bottom: 4px;
   }
-  .delta-sub {
-    font-size: 11px;
-    color: var(--muted);
-    line-height: 1.4;
-  }
-  .delta-cycles {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 12px;
-    padding-top: 10px;
-    border-top: 1px solid var(--border);
-  }
-  .delta-cycle-val {
-    text-align: center;
-  }
-  .delta-cycle-val .val { font-size: 18px; font-weight: 700; color: var(--text); }
-  .delta-cycle-val .lbl { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; margin-top: 2px; }
-
-  /* Side-by-side industry bars */
-  .cmp-section-title {
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 0.6px;
-    text-transform: uppercase;
-    color: var(--muted);
-    margin-bottom: 12px;
-  }
-  .cmp-col-head {
-    font-size: 11px;
-    font-weight: 600;
-    color: var(--text);
-    margin-bottom: 8px;
-    padding-bottom: 6px;
-    border-bottom: 1px solid var(--border);
-  }
   .cmp-col-sub {
-    font-size: 10px;
+    font-size: 11px;
     color: var(--muted);
     font-weight: 400;
   }
-  .cmp-bar-row {
+  /* Legend row */
+  .cmp-legend {
     display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 7px;
-    font-size: 12px;
+    gap: 14px;
+    margin-bottom: 14px;
+    margin-top: 6px;
+    font-size: 11px;
+    color: var(--muted);
   }
-  .cmp-bar-label {
-    width: 120px;
+  .cmp-legend-dot {
+    display: inline-block;
+    width: 9px; height: 9px;
+    border-radius: 50%;
+    margin-right: 5px;
     flex-shrink: 0;
+    vertical-align: middle;
+  }
+  /* Grouped bars per industry */
+  .cmp-ind-group {
+    margin-bottom: 11px;
+    padding-bottom: 11px;
+    border-bottom: 1px solid rgba(46,51,71,0.35);
+  }
+  .cmp-ind-group:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .cmp-ind-group.cmp-grew .cmp-ind-name { color: var(--text); }
+  .cmp-ind-name {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--muted);
+    margin-bottom: 5px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    color: var(--muted);
-    font-size: 11px;
   }
-  .cmp-bar-wrap {
+  .cmp-cycle-row {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-bottom: 3px;
+  }
+  .cmp-cycle-row:last-child { margin-bottom: 0; }
+  .cmp-cycle-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .cmp-bar-track {
     flex: 1;
     background: var(--surface2);
-    border-radius: 2px;
-    height: 6px;
+    border-radius: 3px;
+    height: 9px;
     overflow: hidden;
   }
   .cmp-bar-fill {
     height: 100%;
-    border-radius: 2px;
-    transition: width 0.5s ease;
+    border-radius: 3px;
+    transition: width 0.6s ease;
   }
-  .cmp-bar-pct {
-    width: 38px;
+  .cmp-bar-val {
+    width: 46px;
     text-align: right;
     font-size: 11px;
     font-weight: 600;
     flex-shrink: 0;
+    font-variant-numeric: tabular-nums;
   }
-  .cmp-bar-row.highlight .cmp-bar-label { color: var(--text); font-weight: 600; }
-
-  /* Key movers table */
-  .movers-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 12px;
-    margin-top: 4px;
-  }
-  .movers-table th {
-    font-size: 10px;
-    font-weight: 600;
-    letter-spacing: 0.4px;
-    text-transform: uppercase;
-    color: var(--muted);
-    text-align: left;
-    padding: 5px 8px;
-    border-bottom: 1px solid var(--border);
-  }
-  .movers-table th:not(:first-child) { text-align: right; }
-  .movers-table td {
-    padding: 6px 8px;
-    border-bottom: 1px solid rgba(46,51,71,0.5);
-    vertical-align: middle;
-  }
-  .movers-table tr:last-child td { border-bottom: none; }
-  .movers-table .td-ind { font-weight: 500; color: var(--text); }
-  .movers-table .td-num { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
-  .movers-table .td-delta { text-align: right; font-weight: 700; font-variant-numeric: tabular-nums; }
-  .movers-table .td-delta.grew { color: #ef4444; }
-  .movers-table .td-delta.shrank { color: #34d399; }
-  .movers-table tr.mover-highlight td { background: rgba(239,68,68,0.04); }
-  .movers-table tr.mover-highlight .td-ind { color: #ef4444; }
 </style>
 </head>
 <body>
@@ -813,46 +758,26 @@
         </div>
         <div class="comparison-grid">
 
-          <!-- Delta block -->
+          <!-- % share chart -->
           <div>
-            <div class="delta-block">
-              <div class="delta-number" id="cmpDeltaNumber"></div>
-              <div class="delta-label">Employer-affiliated funding</div>
-              <div class="delta-sub">share of total raised from identified employers</div>
-              <div class="delta-cycles" id="cmpDeltaCycles"></div>
+            <div class="cmp-col-head">Share of fundraising <span class="cmp-col-sub">% of cycle total</span></div>
+            <div class="cmp-legend">
+              <span><span class="cmp-legend-dot" id="legendDotA"></span><span id="legendLabelA"></span></span>
+              <span><span class="cmp-legend-dot" id="legendDotB"></span><span id="legendLabelB"></span></span>
             </div>
+            <div id="cmpPctBars"></div>
           </div>
 
-          <!-- Cycle A bars -->
+          <!-- Raw $ chart -->
           <div>
-            <div class="cmp-section-title">Top industries by cycle</div>
-            <div class="cmp-col-head" id="cmpColHeadA"></div>
-            <div id="cmpBarsA"></div>
+            <div class="cmp-col-head">Total raised from industry <span class="cmp-col-sub">raw dollars</span></div>
+            <div class="cmp-legend">
+              <span><span class="cmp-legend-dot" id="legendDotA2"></span><span id="legendLabelA2"></span></span>
+              <span><span class="cmp-legend-dot" id="legendDotB2"></span><span id="legendLabelB2"></span></span>
+            </div>
+            <div id="cmpDollarBars"></div>
           </div>
 
-          <!-- Cycle B bars -->
-          <div>
-            <div class="cmp-section-title">&nbsp;</div>
-            <div class="cmp-col-head" id="cmpColHeadB"></div>
-            <div id="cmpBarsB"></div>
-          </div>
-
-        </div>
-
-        <!-- Key movers -->
-        <div id="cmpMoversWrap" style="margin-top:20px;padding-top:16px;border-top:1px solid var(--border);display:none">
-          <div class="cmp-section-title" style="margin-bottom:8px">Key industry shifts (&gt;3 ppt change)</div>
-          <table class="movers-table">
-            <thead>
-              <tr>
-                <th>Industry</th>
-                <th id="cmpMoversHeadA"></th>
-                <th id="cmpMoversHeadB"></th>
-                <th>Change</th>
-              </tr>
-            </thead>
-            <tbody id="cmpMoversTbody"></tbody>
-          </table>
         </div>
 
       </div>
@@ -984,8 +909,7 @@
 
 <script>
 // ── Slug: only thing hardcoded per-profile ────────────────────────────────────
-const PROFILE_SLUG = 'qadri';
-// Override this in copies: const PROFILE_SLUG = 'watson';
+// Override this in copies: const PROFILE_SLUG = 'qadri';
 // Or derive from filename automatically if not set:
 (function() {
   if (typeof PROFILE_SLUG === 'undefined') {
@@ -1392,116 +1316,95 @@ document.addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(
 function renderCycleComparison(cycles) {
   if (!cycles || cycles.length < 2) return;
   const c0 = cycles[0];
-  const c1 = cycles[cycles.length - 1];  // compare first vs most recent
-
-  // Don't show comparison if the later cycle has no data yet
+  const c1 = cycles[cycles.length - 1];
   if (!c1.hero.total_raised || c1.hero.total_raised === 0) return;
 
   document.getElementById('cycleComparison').style.display = 'block';
-
-  // Subtitle
   document.getElementById('cmpSubtitle').textContent =
     `${c0.label} (${c0.year_range}) vs. ${c1.label} (${c1.year_range})`;
 
-  // Delta block
-  const delta = c1.hero.employer_affiliated_pct - c0.hero.employer_affiliated_pct;
-  const sign = delta >= 0 ? '+' : '';
-  const deltaEl = document.getElementById('cmpDeltaNumber');
-  deltaEl.textContent = `${sign}${delta.toFixed(1)} pts`;
-  deltaEl.className = 'delta-number ' + (delta > 0.5 ? 'positive' : delta < -0.5 ? 'negative' : 'neutral');
+  // Cycle colors: initial run gets muted slate, reelection gets industry's own color
+  const COLOR_INITIAL = '#475569';
 
-  document.getElementById('cmpDeltaCycles').innerHTML = `
-    <div class="delta-cycle-val">
-      <div class="val">${c0.hero.employer_affiliated_pct}%</div>
-      <div class="lbl">${c0.label}</div>
-    </div>
-    <div style="color:var(--muted);font-size:20px;align-self:center">→</div>
-    <div class="delta-cycle-val">
-      <div class="val">${c1.hero.employer_affiliated_pct}%</div>
-      <div class="lbl">${c1.label}</div>
-    </div>`;
-
-  // Column headers
-  document.getElementById('cmpColHeadA').innerHTML =
-    `${c0.label} <span class="cmp-col-sub">${c0.year_range}</span>`;
-  document.getElementById('cmpColHeadB').innerHTML =
-    `${c1.label} <span class="cmp-col-sub">${c1.year_range}</span>`;
-
-  // Build industry pct maps for both cycles (exclude noise)
-  function igPctMap(cycle) {
-    const noisy = new Set(['Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified']);
-    const total = cycle.hero.total_raised || 1;
-    const map = {};
-    cycle.interest_groups.forEach(ig => {
-      if (!noisy.has(ig.label)) map[ig.label] = ig.total / total * 100;
-    });
-    return map;
+  function getIndColor(ind) {
+    return INTEREST_GROUPS.find(g => g.label === ind)?.color || '#94a3b8';
   }
 
-  const mapA = igPctMap(c0);
-  const mapB = igPctMap(c1);
+  // Wire up legend labels
+  const NOISE = new Set(['Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified']);
+  ['legendLabelA','legendLabelA2'].forEach(id => document.getElementById(id).textContent = c0.label);
+  ['legendLabelB','legendLabelB2'].forEach(id => document.getElementById(id).textContent = c1.label);
+  ['legendDotA','legendDotA2'].forEach(id => document.getElementById(id).style.background = COLOR_INITIAL);
+  // legendDotB uses Real Estate color as representative (vivid reelection tone)
+  ['legendDotB','legendDotB2'].forEach(id => document.getElementById(id).style.background = '#f59e0b');
 
-  // Top 5 industries by combined total
-  const allInds = [...new Set([...Object.keys(mapA), ...Object.keys(mapB)])];
-  const noisy = new Set(['Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified']);
-  const rankedInds = allInds
-    .filter(i => !noisy.has(i))
-    .sort((a, b) => ((mapA[b]||0) + (mapB[b]||0)) - ((mapA[a]||0) + (mapB[a]||0)))
-    .slice(0, 5);
+  // Build raw $ maps
+  function rawMap(cycle) {
+    const m = {};
+    cycle.interest_groups.forEach(ig => { if (!NOISE.has(ig.label)) m[ig.label] = ig.total; });
+    return m;
+  }
+  const rawA = rawMap(c0);
+  const rawB = rawMap(c1);
+  const totalA = c0.hero.total_raised || 1;
+  const totalB = c1.hero.total_raised || 1;
 
-  const maxPct = Math.max(...rankedInds.flatMap(i => [mapA[i]||0, mapB[i]||0]), 1);
+  // All industries sorted by reelection amount desc, min $500 in either cycle
+  const allInds = [...new Set([...Object.keys(rawA), ...Object.keys(rawB)])]
+    .filter(i => !NOISE.has(i) && ((rawA[i]||0) + (rawB[i]||0)) >= 500)
+    .sort((a, b) => (rawB[b]||0) - (rawB[a]||0));
 
-  function renderCmpBars(containerId, map, highlightInds) {
+  // Grew = reelection share jumped >3 ppt
+  const grewInds = new Set(allInds.filter(i =>
+    ((rawB[i]||0)/totalB - (rawA[i]||0)/totalA) * 100 > 3
+  ));
+
+  function renderGrouped(containerId, getValA, getValB, formatVal) {
+    const maxVal = Math.max(...allInds.map(i => Math.max(getValA(i), getValB(i))), 1);
     const el = document.getElementById(containerId);
     el.innerHTML = '';
-    rankedInds.forEach(ind => {
-      const pct = map[ind] || 0;
-      const isHighlight = highlightInds.has(ind);
-      const color = (CYCLES[0]?.interest_groups || INTEREST_GROUPS).find(g => g.label === ind)?.color || '#94a3b8';
-      const row = document.createElement('div');
-      row.className = 'cmp-bar-row' + (isHighlight ? ' highlight' : '');
-      row.innerHTML = `
-        <div class="cmp-bar-label" title="${ind}">${ind}</div>
-        <div class="cmp-bar-wrap"><div class="cmp-bar-fill" style="width:${(pct/maxPct*100).toFixed(1)}%;background:${color}"></div></div>
-        <div class="cmp-bar-pct" style="color:${isHighlight ? color : 'var(--muted)'}">${pct.toFixed(1)}%</div>`;
-      el.appendChild(row);
+    allInds.forEach(ind => {
+      const vA = getValA(ind);
+      const vB = getValB(ind);
+      const pctA = (vA / maxVal * 100).toFixed(1);
+      const pctB = (vB / maxVal * 100).toFixed(1);
+      const indColor = getIndColor(ind);
+      const grew = grewInds.has(ind);
+
+      const group = document.createElement('div');
+      group.className = 'cmp-ind-group' + (grew ? ' cmp-grew' : '');
+      group.innerHTML =
+        `<div class="cmp-ind-name">${ind}</div>` +
+        `<div class="cmp-cycle-row">` +
+          `<div class="cmp-cycle-dot" style="background:${COLOR_INITIAL}"></div>` +
+          `<div class="cmp-bar-track"><div class="cmp-bar-fill" style="width:${pctA}%;background:${COLOR_INITIAL}"></div></div>` +
+          `<div class="cmp-bar-val" style="color:${COLOR_INITIAL}">${formatVal(vA)}</div>` +
+        `</div>` +
+        `<div class="cmp-cycle-row">` +
+          `<div class="cmp-cycle-dot" style="background:${indColor}"></div>` +
+          `<div class="cmp-bar-track"><div class="cmp-bar-fill" style="width:${pctB}%;background:${indColor}"></div></div>` +
+          `<div class="cmp-bar-val" style="color:${grew ? indColor : 'var(--muted)'}">${formatVal(vB)}</div>` +
+        `</div>`;
+      el.appendChild(group);
     });
   }
 
-  // Find highlight industries (grew > 3 ppt from c0 to c1)
-  const grewInds = new Set(rankedInds.filter(i => (mapB[i]||0) - (mapA[i]||0) > 3));
-  renderCmpBars('cmpBarsA', mapA, new Set());
-  renderCmpBars('cmpBarsB', mapB, grewInds);
-
-  // Key movers (>3 ppt change in either direction)
-  const allMovers = allInds
-    .filter(i => !noisy.has(i))
-    .map(i => ({ ind: i, a: mapA[i]||0, b: mapB[i]||0, delta: (mapB[i]||0)-(mapA[i]||0) }))
-    .filter(m => Math.abs(m.delta) > 3)
-    .sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta));
-
-  const moversWrap = document.getElementById('cmpMoversWrap');
-  if (allMovers.length > 0) {
-    moversWrap.style.display = 'block';
-    document.getElementById('cmpMoversHeadA').textContent = c0.label;
-    document.getElementById('cmpMoversHeadB').textContent = c1.label;
-    const tbody = document.getElementById('cmpMoversTbody');
-    tbody.innerHTML = '';
-    allMovers.forEach(m => {
-      const sign = m.delta >= 0 ? '+' : '';
-      const cls = m.delta > 0 ? 'grew' : 'shrank';
-      const tr = document.createElement('tr');
-      if (m.delta > 3) tr.className = 'mover-highlight';
-      tr.innerHTML = `
-        <td class="td-ind">${m.ind}</td>
-        <td class="td-num">${m.a.toFixed(1)}%</td>
-        <td class="td-num">${m.b.toFixed(1)}%</td>
-        <td class="td-delta ${cls}">${sign}${m.delta.toFixed(1)} ppt</td>`;
-      tbody.appendChild(tr);
-    });
-  } else {
-    moversWrap.style.display = 'none';
+  function fmtMoney(v) {
+    if (v >= 1000) return '$' + (v / 1000).toFixed(0) + 'K';
+    return v > 0 ? '$' + Math.round(v) : '—';
   }
+
+  renderGrouped('cmpPctBars',
+    i => (rawA[i]||0) / totalA * 100,
+    i => (rawB[i]||0) / totalB * 100,
+    v => v > 0 ? v.toFixed(1) + '%' : '—'
+  );
+
+  renderGrouped('cmpDollarBars',
+    i => rawA[i] || 0,
+    i => rawB[i] || 0,
+    fmtMoney
+  );
 }
 
 // ── Cycle nav rendering ───────────────────────────────────────────────────────
