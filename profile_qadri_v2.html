@@ -749,40 +749,6 @@
       <!-- tabs injected by JS -->
     </div>
 
-    <!-- ── Cycle comparison panel (shown when cycles.length >= 2) ── -->
-    <div id="cycleComparison">
-      <div class="comparison-card">
-        <div class="comparison-header">
-          <span class="comparison-title">Cycle Comparison</span>
-          <span class="comparison-subtitle" id="cmpSubtitle"></span>
-        </div>
-        <div class="comparison-grid">
-
-          <!-- % share chart -->
-          <div>
-            <div class="cmp-col-head">Share of fundraising <span class="cmp-col-sub">% of cycle total</span></div>
-            <div class="cmp-legend">
-              <span><span class="cmp-legend-dot" id="legendDotA"></span><span id="legendLabelA"></span></span>
-              <span><span class="cmp-legend-dot" id="legendDotB"></span><span id="legendLabelB"></span></span>
-            </div>
-            <div id="cmpPctBars"></div>
-          </div>
-
-          <!-- Raw $ chart -->
-          <div>
-            <div class="cmp-col-head">Total raised from industry <span class="cmp-col-sub">raw dollars</span></div>
-            <div class="cmp-legend">
-              <span><span class="cmp-legend-dot" id="legendDotA2"></span><span id="legendLabelA2"></span></span>
-              <span><span class="cmp-legend-dot" id="legendDotB2"></span><span id="legendLabelB2"></span></span>
-            </div>
-            <div id="cmpDollarBars"></div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
     <!-- ── Row 1: Year bars + Donut ── -->
     <div class="grid-2" style="margin-bottom:20px">
 
@@ -819,6 +785,39 @@
         <button class="sort-btn" onclick="renderBars('label',this)">A–Z</button>
       </div>
       <div id="igBars"></div>
+    </div>
+
+    <!-- ── Cycle comparison panel (shown when cycles.length >= 2) ── -->
+    <div id="cycleComparison">
+      <div class="comparison-card">
+        <div class="comparison-header">
+          <span class="comparison-title">Cycle Comparison</span>
+          <span class="comparison-subtitle" id="cmpSubtitle"></span>
+        </div>
+        <div class="comparison-grid">
+
+          <!-- % share chart -->
+          <div>
+            <div class="cmp-col-head">Share of fundraising <span class="cmp-col-sub">% of cycle total</span></div>
+            <div class="cmp-legend">
+              <span><span class="cmp-legend-dot" id="legendDotA"></span><span id="legendLabelA"></span></span>
+              <span><span class="cmp-legend-dot" id="legendDotB"></span><span id="legendLabelB"></span></span>
+            </div>
+            <div id="cmpPctBars"></div>
+          </div>
+
+          <!-- Raw $ chart -->
+          <div>
+            <div class="cmp-col-head">Total raised from industry <span class="cmp-col-sub">raw dollars</span></div>
+            <div class="cmp-legend">
+              <span><span class="cmp-legend-dot" id="legendDotA2"></span><span id="legendLabelA2"></span></span>
+              <span><span class="cmp-legend-dot" id="legendDotB2"></span><span id="legendLabelB2"></span></span>
+            </div>
+            <div id="cmpDollarBars"></div>
+          </div>
+
+        </div>
+      </div>
     </div>
 
     <!-- ── Row 3: Notable firms + Top donors ── -->
