@@ -415,6 +415,13 @@
     .hero { grid-template-columns: 1fr; }
     .hero-right { display: none; }
     .ig-label { width: 110px; }
+    #cycleNav { padding: 8px 10px; gap: 4px; }
+    #cycleNav .cycle-label { display: none; }
+    .cycle-tab { padding: 5px 10px; font-size: 11px; }
+    #partisanSection .card-title { font-size: 14px; }
+    #partisanBar { height: 32px; }
+    #partisanBarLabels { flex-direction: column; gap: 2px; align-items: center; font-size: 11px; }
+    #fecPanel { width: 100vw; max-width: 100vw; }
   }
 
   /* ── Clickable rows ── */
@@ -897,8 +904,8 @@
 </footer>
 
 <!-- Partisan lean drill-down panel -->
-<div class="drawer-backdrop" id="fecBackdrop" onclick="closeFecPanel()" style="display:none"></div>
-<div id="fecPanel" style="display:none;position:fixed;top:0;right:0;width:520px;max-width:90vw;height:100vh;background:var(--card);border-left:1px solid var(--border);z-index:1001;overflow-y:auto;box-shadow:-4px 0 24px rgba(0,0,0,0.4)">
+<div id="fecBackdrop" onclick="closeFecPanel()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:1000"></div>
+<div id="fecPanel" style="display:none;position:fixed;top:0;right:0;width:520px;max-width:90vw;height:100vh;background:#0f1724;border-left:1px solid var(--border);z-index:1001;overflow-y:auto;box-shadow:-4px 0 24px rgba(0,0,0,0.4)">
   <div id="fecTitleBar" style="padding:14px 20px;display:flex;justify-content:space-between;align-items:center">
     <div id="fecTitle" style="font-weight:600;font-size:15px"></div>
     <button onclick="closeFecPanel()" style="background:none;border:none;color:var(--muted);font-size:20px;cursor:pointer">&#x2715;</button>
@@ -1634,13 +1641,12 @@ function showPartisanBucket(label, minLean, maxLean, color) {
   document.getElementById('fecTitleBar').style.borderBottom = `3px solid ${color}`;
 
   let html = `<div style="padding:4px 0 12px;color:var(--muted);font-size:12px">${donors.length} donors with FEC partisan lean ${minLean.toFixed(1)}–${maxLean >= 1 ? '1.0' : maxLean.toFixed(1)}</div>`;
-  html += `<table style="width:100%;font-size:13px;border-collapse:collapse">
+  html += `<div style="overflow-x:auto"><table style="width:100%;font-size:13px;border-collapse:collapse;min-width:320px">
     <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
-      <th style="text-align:left;padding:6px 8px">Donor</th>
-      <th style="text-align:right;padding:6px 8px">Lean</th>
-      <th style="text-align:right;padding:6px 8px">FEC Dem</th>
-      <th style="text-align:right;padding:6px 8px">FEC Rep</th>
-      <th style="text-align:right;padding:6px 8px">Local $</th>
+      <th style="text-align:left;padding:6px 6px">Donor</th>
+      <th style="text-align:right;padding:6px 6px">Lean</th>
+      <th style="text-align:right;padding:6px 6px">Dem</th>
+      <th style="text-align:right;padding:6px 6px">Rep</th>
     </tr></thead><tbody>`;
 
   donors.forEach(d => {
@@ -1649,14 +1655,13 @@ function showPartisanBucket(label, minLean, maxLean, color) {
                  onmouseenter="this.style.background='rgba(255,255,255,0.04)'"
                  onmouseleave="this.style.background=''"
                  onclick="showDonorFEC('${d.id}','${d.name.replace(/'/g,"\\'")}',${d.lean})">
-      <td style="padding:6px 8px">${d.name}</td>
-      <td style="text-align:right;padding:6px 8px;color:${leanColor};font-weight:600">${(d.lean*100).toFixed(0)}%</td>
-      <td style="text-align:right;padding:6px 8px;color:#3b82f6">${fmt(d.dem)}</td>
-      <td style="text-align:right;padding:6px 8px;color:#ef4444">${fmt(d.rep)}</td>
-      <td style="text-align:right;padding:6px 8px">${fmt(d.local)}</td>
+      <td style="padding:6px 6px;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${d.name}</td>
+      <td style="text-align:right;padding:6px 6px;color:${leanColor};font-weight:600">${(d.lean*100).toFixed(0)}%</td>
+      <td style="text-align:right;padding:6px 6px;color:#3b82f6;font-size:12px">${fmt(d.dem)}</td>
+      <td style="text-align:right;padding:6px 6px;color:#ef4444;font-size:12px">${fmt(d.rep)}</td>
     </tr>`;
   });
-  html += '</tbody></table>';
+  html += '</tbody></table></div>';
   body.innerHTML = html;
   openFecPanel();
 }
