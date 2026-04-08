@@ -424,6 +424,28 @@
     #fecPanel { width: 100vw; max-width: 100vw; }
   }
 
+  /* ── Summary cards ── */
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s;
+    display: block;
+    color: var(--text);
+  }
+  .summary-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .sc-icon { font-size: 18px; margin-bottom: 4px; }
+  .sc-val { font-size: 20px; font-weight: 700; line-height: 1.2; }
+  .sc-lbl { font-size: 11px; color: var(--muted); margin-top: 2px; text-transform: uppercase; letter-spacing: 0.3px; }
+  @media (max-width: 700px) {
+    #summaryCards > div { grid-template-columns: repeat(2, 1fr); }
+    .sc-val { font-size: 16px; }
+    .sc-icon { font-size: 15px; }
+    .summary-card { padding: 10px 12px; }
+  }
+
   /* ── Clickable rows ── */
   .ig-row { cursor: pointer; border-radius: 4px; transition: background 0.12s; }
   .ig-row:hover { background: var(--surface2); }
@@ -756,8 +778,45 @@
       <!-- tabs injected by JS -->
     </div>
 
+    <!-- ── Jump-to summary cards ── -->
+    <div id="summaryCards" style="display:none;margin-bottom:20px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px">
+
+        <a href="#yearBarsSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F4C8;</div>
+          <div class="sc-val" id="scRaised"></div>
+          <div class="sc-lbl">Total Raised</div>
+        </a>
+
+        <a href="#igSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F3E2;</div>
+          <div class="sc-val" id="scAffiliated"></div>
+          <div class="sc-lbl">Employer-Affiliated</div>
+        </a>
+
+        <a href="#igSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F465;</div>
+          <div class="sc-val" id="scDonors"></div>
+          <div class="sc-lbl">Individual Donors</div>
+        </a>
+
+        <a href="#firmsSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F4BC;</div>
+          <div class="sc-val" id="scFirms"></div>
+          <div class="sc-lbl">Firms (3+ Donors)</div>
+        </a>
+
+        <a href="#partisanSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F5F3;</div>
+          <div class="sc-val" id="scPartisan"></div>
+          <div class="sc-lbl">FEC Partisan Lean</div>
+        </a>
+
+      </div>
+    </div>
+
     <!-- ── Row 1: Year bars + Donut ── -->
-    <div class="grid-2" style="margin-bottom:20px">
+    <div id="yearBarsSection" class="grid-2" style="margin-bottom:20px">
 
       <!-- Fundraising by year -->
       <div class="card">
@@ -780,7 +839,7 @@
     </div>
 
     <!-- ── Row 2: Interest group breakdown (full width) ── -->
-    <div class="card" style="margin-bottom:20px">
+    <div id="igSection" class="card" style="margin-bottom:20px">
       <div class="card-title">
         Funding by Category
         <span class="hint" id="igHint">2022 – present</span>
@@ -857,7 +916,7 @@
     </div>
 
     <!-- ── Row 3: Notable firms + Top donors ── -->
-    <div class="grid-2" style="margin-bottom:20px">
+    <div id="firmsSection" class="grid-2" style="margin-bottom:20px">
 
       <!-- Notable firms -->
       <div class="card">
@@ -1709,6 +1768,29 @@ function showDonorFEC(donorId, donorName, lean) {
   body.innerHTML = html;
 }
 
+function renderSummaryCards(data) {
+  const section = document.getElementById('summaryCards');
+  const hero = data.hero;
+  const pl = data.partisan_lean;
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+
+  document.getElementById('scRaised').textContent = fmt(hero.total_raised);
+  document.getElementById('scAffiliated').textContent = hero.employer_affiliated_pct + '%';
+  document.getElementById('scDonors').textContent = hero.unique_donors.toLocaleString();
+  document.getElementById('scFirms').textContent = (data.notable_firms || []).length;
+
+  if (pl && pl.matched_donors) {
+    const leanPct = (pl.weighted_lean * 100).toFixed(0);
+    const leanLabel = pl.weighted_lean >= 0.6 ? 'D' : (pl.weighted_lean <= 0.4 ? 'R' : 'M');
+    const leanColor = pl.weighted_lean >= 0.6 ? '#3b82f6' : (pl.weighted_lean <= 0.4 ? '#ef4444' : '#a78bfa');
+    document.getElementById('scPartisan').innerHTML = `<span style="color:${leanColor}">${leanPct}% Dem</span>`;
+  } else {
+    document.getElementById('scPartisan').textContent = '—';
+  }
+
+  section.style.display = '';
+}
+
 function renderAll(data, allDonations) {
   // Populate globals
   INTEREST_GROUPS = data.interest_groups;
@@ -1733,6 +1815,9 @@ function renderAll(data, allDonations) {
 
   // Partisan lean
   renderPartisanLean(data.partisan_lean);
+
+  // Summary cards
+  renderSummaryCards(data);
 
   // Show content, hide loading
   document.getElementById('loadingOverlay').style.display = 'none';
