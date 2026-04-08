@@ -45,12 +45,13 @@ INDUSTRY_COLORS = {
     "Not Employed":             "#6b7280",
     "Self-Employed":            "#78716c",
     "Student":                  "#38bdf8",
+    "Family":                   "#f43f5e",
     "Unknown / Unclassified":   "#1f2937",
     "Unknown":                  "#1f2937",
 }
 
-NOISE_INDUSTRIES = {"Not Employed", "Self-Employed", "Student", "Unknown", "Unknown / Unclassified"}
-NO_DONUT = {"Not Employed", "Self-Employed", "Student", "Unknown / Unclassified"}
+NOISE_INDUSTRIES = {"Not Employed", "Self-Employed", "Student", "Unknown", "Unknown / Unclassified", "Family"}
+NO_DONUT = {"Not Employed", "Self-Employed", "Student", "Unknown / Unclassified", "Family"}
 
 # Industries that roll up into "Retail / Media / Other" in the profile
 OTHER_INDS = {"Retail", "Media", "Architecture", "Transportation", "Entertainment",
@@ -59,32 +60,32 @@ OTHER_INDS = {"Retail", "Media", "Architecture", "Transportation", "Entertainmen
 # Election cycle definitions per candidate slug
 # Each cycle: label, start_year (None = beginning of time), end_year (None = present)
 CANDIDATE_CYCLES = {
-    # Districts 1,3,5,8,9 — elected 2022, reelection 2026
-    'qadri':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2023},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2024, 'end_year': None}],
-    'siegel':       [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2023},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2024, 'end_year': None}],
-    'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2023},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2024, 'end_year': None}],
-    'harpermadison':[{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2023},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2024, 'end_year': None}],
-    'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2023},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2024, 'end_year': None}],
-    'ellis':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2023},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2024, 'end_year': None}],
-    # Districts 2,4,6,10 — elected 2024, reelection 2028
-    'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2028, 'start_year': 2026, 'end_year': None}],
-    'fuentes':      [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2028, 'start_year': 2026, 'end_year': None}],
-    'velasquez':    [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2028, 'start_year': 2026, 'end_year': None}],
-    'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2028, 'start_year': 2026, 'end_year': None}],
-    'kelly':        [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2028, 'start_year': 2026, 'end_year': None}],
-    'guerrero':     [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2028, 'start_year': 2026, 'end_year': None}],
+    # Districts 1,3,5,8,9 — elected 2022, midterm 4-year cycles, reelection 2026
+    'qadri':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'siegel':       [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'harpermadison':[{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'ellis':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    # Districts 2,4,6,10 — elected 2024, midterm 4-year cycles, reelection 2028
+    'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'fuentes':      [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'velasquez':    [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'kelly':        [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'guerrero':     [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     # Mayor
     'watson':       [{'label': 'Term 1',       'election_year': 2022, 'start_year': None, 'end_year': 2025},
                      {'label': 'Reelection',   'election_year': 2026, 'start_year': 2026, 'end_year': None}],
@@ -565,6 +566,115 @@ def generate(candidate_fragment: str, output_dir: str = "."):
 
     all_donations = [list(r) for r in all_donation_rows]
 
+    # ── Partisan lean (FEC data) ─────────────────────────────────────────────
+    partisan_rows = cur.execute(f"""
+        SELECT di.fec_partisan_lean,
+               SUM(CAST(cf.contribution_amount AS REAL)) as amount
+        FROM donor_identities di
+        JOIN campaign_finance cf ON cf.donor_id = di.donor_id
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        WHERE {BASE_WHERE} AND di.fec_partisan_lean IS NOT NULL
+        GROUP BY di.donor_id
+    """, base_params).fetchall()
+
+    partisan_lean = None
+    if partisan_rows:
+        buckets = [
+            {"label": "Strong D",  "min": 0.9, "max": 1.01, "donors": 0, "total": 0},
+            {"label": "Lean D",    "min": 0.6, "max": 0.9,  "donors": 0, "total": 0},
+            {"label": "Mixed",     "min": 0.4, "max": 0.6,  "donors": 0, "total": 0},
+            {"label": "Lean R",    "min": 0.1, "max": 0.4,  "donors": 0, "total": 0},
+            {"label": "Strong R",  "min": -0.01, "max": 0.1, "donors": 0, "total": 0},
+        ]
+        total_dem_donors = 0
+        total_rep_donors = 0
+        total_mixed_donors = 0
+        total_lean_amount = 0
+        weighted_lean_sum = 0
+
+        for lean, amt in partisan_rows:
+            amt = amt or 0
+            for b in buckets:
+                if b["min"] <= lean < b["max"]:
+                    b["donors"] += 1
+                    b["total"] += round(amt, 2)
+                    break
+            if lean >= 0.6:
+                total_dem_donors += 1
+            elif lean <= 0.4:
+                total_rep_donors += 1
+            else:
+                total_mixed_donors += 1
+            if amt > 0:
+                weighted_lean_sum += lean * amt
+                total_lean_amount += amt
+
+        weighted_avg = round(weighted_lean_sum / total_lean_amount, 3) if total_lean_amount > 0 else None
+        # Per-donor detail for drill-down
+        donor_details = cur.execute(f"""
+            SELECT di.donor_id, di.canonical_name, di.fec_partisan_lean,
+                   di.fec_total_dem, di.fec_total_rep, di.fec_total_other,
+                   di.fec_total_donations,
+                   SUM(CAST(cf.contribution_amount AS REAL)) as local_total
+            FROM donor_identities di
+            JOIN campaign_finance cf ON cf.donor_id = di.donor_id
+            LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+            WHERE {BASE_WHERE} AND di.fec_partisan_lean IS NOT NULL
+            GROUP BY di.donor_id
+            ORDER BY (di.fec_total_dem + di.fec_total_rep) DESC
+        """, base_params).fetchall()
+
+        donors_list = []
+        donor_ids_with_fec = []
+        for d in donor_details:
+            donors_list.append({
+                "id": d[0], "name": d[1], "lean": round(d[2], 3),
+                "dem": round(d[3] or 0, 0), "rep": round(d[4] or 0, 0),
+                "other": round(d[5] or 0, 0), "fec_n": d[6] or 0,
+                "local": round(d[7] or 0, 0),
+            })
+            donor_ids_with_fec.append(d[0])
+
+        # Committee-level aggregates per donor
+        donor_committees = {}
+        if donor_ids_with_fec:
+            placeholders = ",".join("?" * len(donor_ids_with_fec))
+            comm_rows = cur.execute(f"""
+                SELECT fcr.donor_id, fcc.committee_name, fcc.classification,
+                       SUM(fcr.contribution_amount) as total, COUNT(*) as n
+                FROM fec_contributions_raw fcr
+                LEFT JOIN fec_committee_cache fcc ON fcc.committee_id = fcr.committee_id
+                WHERE fcr.donor_id IN ({placeholders})
+                  AND fcr.contribution_amount > 0
+                GROUP BY fcr.donor_id, fcr.committee_id
+                ORDER BY total DESC
+            """, donor_ids_with_fec).fetchall()
+            for row in comm_rows:
+                did = row[0]
+                if did not in donor_committees:
+                    donor_committees[did] = []
+                donor_committees[did].append({
+                    "name": row[1] or "Unknown Committee",
+                    "party": row[2] or "Other",
+                    "total": round(row[3], 0),
+                    "n": row[4],
+                })
+
+        partisan_lean = {
+            "matched_donors": len(partisan_rows),
+            "total_donors": unique_donors,
+            "dem_donors": total_dem_donors,
+            "rep_donors": total_rep_donors,
+            "mixed_donors": total_mixed_donors,
+            "weighted_lean": weighted_avg,
+            "buckets": buckets,
+            "donors": donors_list,
+            "donor_committees": donor_committees,
+        }
+        print(f"  Partisan lean: {len(partisan_rows)} donors matched, "
+              f"D={total_dem_donors} R={total_rep_donors} M={total_mixed_donors}, "
+              f"weighted={weighted_avg}")
+
     # ── Election cycles ───────────────────────────────────────────────────────
     cycles = []
     if slug in CANDIDATE_CYCLES:
@@ -595,6 +705,7 @@ def generate(candidate_fragment: str, output_dir: str = "."):
         "notable_firms": notable_firms,
         "top_donors": top_donors,
         "cycles": cycles,
+        "partisan_lean": partisan_lean,
     }
     data_path = os.path.join(output_dir, f"{slug}_data.json")
     with open(data_path, "w", encoding="utf-8") as f:
