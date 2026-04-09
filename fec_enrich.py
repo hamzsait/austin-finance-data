@@ -18,7 +18,10 @@ from datetime import datetime, timezone
 import requests
 from rapidfuzz import fuzz
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+try:
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+except (ValueError, AttributeError):
+    pass
 
 # ── Config ─────────────────────────────────────────────────────────────────────
 DB           = "austin_finance.db"

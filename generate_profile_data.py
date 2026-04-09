@@ -675,6 +675,77 @@ def generate(candidate_fragment: str, output_dir: str = "."):
               f"D={total_dem_donors} R={total_rep_donors} M={total_mixed_donors}, "
               f"weighted={weighted_avg}")
 
+    # ── Israel/Palestine donor spectrum ──────────────────────────────────────
+    ip_spectrum = None
+    ip_rows = cur.execute(f"""
+        SELECT di.donor_id, di.canonical_name, di.ip_spectrum, di.ip_tier,
+               di.ip_total, di.ip_committees,
+               SUM(CAST(cf.contribution_amount AS REAL)) as local_total,
+               di.fec_partisan_lean
+        FROM donor_identities di
+        JOIN campaign_finance cf ON cf.donor_id = di.donor_id
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        WHERE {BASE_WHERE} AND di.ip_spectrum IS NOT NULL
+        GROUP BY di.donor_id
+        ORDER BY di.ip_total DESC
+    """, base_params).fetchall()
+
+    if ip_rows:
+        # Build committee name lookup
+        comm_names = {}
+        for cid, cname in cur.execute("SELECT committee_id, committee_name FROM fec_committee_cache WHERE ip_category IS NOT NULL").fetchall():
+            comm_names[cid] = cname
+
+        categories = {}
+        donors_by_cat = {}
+        for row in ip_rows:
+            cat = row[2]
+            if cat not in categories:
+                categories[cat] = {"donors": 0, "ip_total": 0, "local_total": 0}
+                donors_by_cat[cat] = []
+            categories[cat]["donors"] += 1
+            categories[cat]["ip_total"] += row[4] or 0
+            categories[cat]["local_total"] += row[6] or 0
+            comm_list = []
+            if row[5]:
+                for cid in row[5].split(","):
+                    comm_list.append({"id": cid.strip(), "name": comm_names.get(cid.strip(), cid.strip())})
+            donors_by_cat[cat].append({
+                "name": row[1], "tier": row[3],
+                "ip_total": round(row[4] or 0, 0),
+                "local_total": round(row[6] or 0, 0),
+                "partisan_lean": round(row[7], 3) if row[7] is not None else None,
+                "committees": comm_list,
+            })
+
+        # Order: hawkish first, then liberal zionist, then pro-palestine
+        cat_order = ["hawkish_proisrael", "liberal_zionist", "pro_palestine"]
+        cat_labels = {
+            "hawkish_proisrael": "Pro-Israel (AIPAC-aligned)",
+            "liberal_zionist": "Liberal Zionist",
+            "pro_palestine": "Pro-Palestine",
+        }
+
+        spectrum_list = []
+        for cat in cat_order:
+            if cat in categories:
+                spectrum_list.append({
+                    "key": cat,
+                    "label": cat_labels.get(cat, cat),
+                    "donors": categories[cat]["donors"],
+                    "ip_total": round(categories[cat]["ip_total"], 0),
+                    "local_total": round(categories[cat]["local_total"], 0),
+                    "donor_list": donors_by_cat[cat],
+                })
+
+        ip_spectrum = {
+            "total_flagged": len(ip_rows),
+            "categories": spectrum_list,
+        }
+        for s in spectrum_list:
+            print(f"  IP spectrum: {s['label']}: {s['donors']} donors, "
+                  f"${s['ip_total']:,.0f} federal, ${s['local_total']:,.0f} local")
+
     # ── Election cycles ───────────────────────────────────────────────────────
     cycles = []
     if slug in CANDIDATE_CYCLES:
@@ -706,6 +777,7 @@ def generate(candidate_fragment: str, output_dir: str = "."):
         "top_donors": top_donors,
         "cycles": cycles,
         "partisan_lean": partisan_lean,
+        "ip_spectrum": ip_spectrum,
     }
     data_path = os.path.join(output_dir, f"{slug}_data.json")
     with open(data_path, "w", encoding="utf-8") as f:
