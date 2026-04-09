@@ -886,6 +886,14 @@
       </div>
     </div>
 
+    <!-- ── Israel/Palestine Donor Spectrum ── -->
+    <div id="ipSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Israel-Palestine Donor Spectrum
+        <span class="hint" id="ipHint">based on FEC donations to affiliated committees</span>
+      </div>
+      <div id="ipContent"></div>
+    </div>
+
     <!-- ── Partisan Lean (FEC data) ── -->
     <div id="partisanSection" class="card" style="display:none;margin-bottom:20px">
       <div class="card-title">Federal Partisan Lean
@@ -1602,6 +1610,67 @@ function updateHeroStats(hero, meta) {
 }
 
 // ── Main render ───────────────────────────────────────────────────────────────
+// ── Israel/Palestine spectrum ────────────────────────────────────────────────
+function renderIPSpectrum(ip) {
+  const section = document.getElementById('ipSection');
+  if (!ip || !ip.total_flagged) { section.style.display = 'none'; return; }
+  section.style.display = '';
+
+  document.getElementById('ipHint').textContent =
+    `${ip.total_flagged} donors with Israel/Palestine-related federal committee donations`;
+
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+  const catColors = {
+    'hawkish_proisrael': '#1d4ed8',
+    'liberal_zionist': '#7c3aed',
+    'pro_palestine': '#059669',
+  };
+  const catIcons = {
+    'hawkish_proisrael': '\u{1F3DB}',
+    'liberal_zionist': '\u{2696}',
+    'pro_palestine': '\u{1F54A}',
+  };
+
+  let html = '';
+  ip.categories.forEach(cat => {
+    const color = catColors[cat.key] || '#666';
+    const icon = catIcons[cat.key] || '';
+    html += `<div style="margin-bottom:16px">`;
+    html += `<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+      <span style="font-size:16px">${icon}</span>
+      <span style="font-weight:700;font-size:14px;color:${color}">${cat.label}</span>
+      <span style="font-size:12px;color:var(--muted)">${cat.donors} donor${cat.donors !== 1 ? 's' : ''} &middot; ${fmt(cat.ip_total)} federal &middot; ${fmt(cat.local_total)} local to this candidate</span>
+    </div>`;
+
+    html += `<div style="overflow-x:auto"><table style="width:100%;font-size:12px;border-collapse:collapse">
+      <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
+        <th style="text-align:left;padding:4px 8px">Donor</th>
+        <th style="text-align:right;padding:4px 8px">Federal $</th>
+        <th style="text-align:right;padding:4px 8px">Local $</th>
+        <th style="text-align:left;padding:4px 8px">Committees</th>
+      </tr></thead><tbody>`;
+
+    cat.donor_list.forEach(d => {
+      const tierBadge = d.tier === 1 ? '<span style="background:#ef4444;color:#fff;font-size:9px;padding:1px 5px;border-radius:3px;margin-left:4px">DIRECT</span>' : '';
+      const leanDot = d.partisan_lean != null
+        ? `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${d.partisan_lean >= 0.6 ? '#3b82f6' : (d.partisan_lean <= 0.4 ? '#ef4444' : '#a78bfa')};margin-right:4px" title="Partisan lean: ${(d.partisan_lean*100).toFixed(0)}%"></span>`
+        : '';
+      const commNames = d.committees.map(c => c.name).join(', ');
+      html += `<tr style="border-bottom:1px solid var(--border);cursor:pointer"
+                   onmouseenter="this.style.background='rgba(255,255,255,0.03)'"
+                   onmouseleave="this.style.background=''">
+        <td style="padding:5px 8px;white-space:nowrap">${leanDot}${d.name}${tierBadge}</td>
+        <td style="text-align:right;padding:5px 8px;color:${color};font-weight:600">${fmt(d.ip_total)}</td>
+        <td style="text-align:right;padding:5px 8px">${fmt(d.local_total)}</td>
+        <td style="padding:5px 8px;font-size:11px;color:var(--muted);max-width:220px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${commNames}">${commNames}</td>
+      </tr>`;
+    });
+    html += '</tbody></table></div></div>';
+  });
+
+  document.getElementById('ipContent').innerHTML = html;
+}
+
 let _PARTISAN_DATA = null;
 
 function renderPartisanLean(pl) {
@@ -1812,6 +1881,9 @@ function renderAll(data, allDonations) {
   // Cycles
   renderCycleNav(CYCLES);
   renderCycleComparison(CYCLES);
+
+  // Israel/Palestine spectrum
+  renderIPSpectrum(data.ip_spectrum);
 
   // Partisan lean
   renderPartisanLean(data.partisan_lean);
