@@ -1,0 +1,1566 @@
+{
+  "generated": "2026-04-08",
+  "methodology": "This data identifies Austin campaign donors who ALSO donated to AIPAC PAC, United Democracy Project, or other pro-Israel committees at the federal level. The local dollar amounts shown are what these donors gave to Austin council campaigns \u2014 NOT money from AIPAC or any pro-Israel committee directly.",
+  "members": [
+    {
+      "name": "Kirk Watson",
+      "district": "Mayor (At-Large)",
+      "recipient_key": "Watson, Kirk P.",
+      "total_from_ip_donors": 26335.0,
+      "total_hawkish": 17385.0,
+      "total_liberal_zionist": 8950.0,
+      "total_federal_ip": 1262019.55,
+      "donor_count": 27,
+      "donors": [
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 1800.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Sherman, Lynn",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 1750.0,
+          "federal_ip_total": 16.66,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "O'Connell, Patrick",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 1400.0,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 5,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Frachtman, Sherrie",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1350.0,
+          "federal_ip_total": 4000.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Epstein, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1350.0,
+          "federal_ip_total": 406600.0,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Dochen, Sandy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 1350.0,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Frachtman, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1350.0,
+          "federal_ip_total": 39500.0,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Novik, Jay",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 3,
+          "local_total": 1350.0,
+          "federal_ip_total": 25800.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            }
+          ]
+        },
+        {
+          "name": "Ferdman, David",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1300.0,
+          "federal_ip_total": 31500.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Greenblum, J Bradley",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1300.0,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Kress, Barnett",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1000.0,
+          "federal_ip_total": 12400.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Shaw, Stuart",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 3,
+          "local_total": 900.0,
+          "federal_ip_total": 100.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            }
+          ]
+        },
+        {
+          "name": "Lubetzky, Daniel",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 900.0,
+          "federal_ip_total": 6600.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Tackett, Larkin",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 900.0,
+          "federal_ip_total": 200.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 900.0,
+          "federal_ip_total": 9833.33,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Waxler, Mel",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 900.0,
+          "federal_ip_total": 500.0,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Saad, Yigal",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 885.0,
+          "federal_ip_total": 27030.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Newman, JP",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 850.0,
+          "federal_ip_total": 3000.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Hurt, Brett",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 850.0,
+          "federal_ip_total": 26577.78,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Lieberman, Nora",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 700.0,
+          "federal_ip_total": 20751.78,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Stein, Brad",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 700.0,
+          "federal_ip_total": 11000.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Rudy, Deborah",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 523220.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00710848",
+              "name": "DMFI PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Prywes, Joshua",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 32800.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Webberman, Amy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 2000.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Kunik, Burton",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 400.0,
+          "federal_ip_total": 800.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 400.0,
+          "federal_ip_total": 11450.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Levy, Michael",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 400.0,
+          "federal_ip_total": 37300.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zohaib Qadri",
+      "district": "District 9",
+      "recipient_key": "Qadri, Zohaib",
+      "total_from_ip_donors": 3900.0,
+      "total_hawkish": 2250.0,
+      "total_liberal_zionist": 1650.0,
+      "total_federal_ip": 489721.76,
+      "donor_count": 10,
+      "donors": [
+        {
+          "name": "Epstein, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 406600.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Lieberman, Nora",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 20751.78,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Adler, Steve",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 100.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 450.0,
+          "federal_ip_total": 9833.33,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Stein, Brad",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 11000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Lubetzky, Daniel",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 13200.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Sherman, Lynn",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 16.66,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Smullen, Lily",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 200.0,
+          "federal_ip_total": 1179.99,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Dochen, Sandy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 100.0,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paige Ellis",
+      "district": "District 8",
+      "recipient_key": "Ellis, Paige",
+      "total_from_ip_donors": 3699.74,
+      "total_hawkish": 1200.0,
+      "total_liberal_zionist": 2499.74,
+      "total_federal_ip": 56673.33,
+      "donor_count": 5,
+      "donors": [
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 1221.37,
+          "federal_ip_total": 9833.33,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Adler, Steve",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 3,
+          "local_total": 1200.0,
+          "federal_ip_total": 100.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Suzanne",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 778.37,
+          "federal_ip_total": 9250.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 50.0,
+          "federal_ip_total": 11450.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marc Duchen",
+      "district": "District 10",
+      "recipient_key": "Duchen, Marc",
+      "total_from_ip_donors": 3384.5,
+      "total_hawkish": 2480.0,
+      "total_liberal_zionist": 904.5,
+      "total_federal_ip": 105527.78,
+      "donor_count": 8,
+      "donors": [
+        {
+          "name": "Levy, Michael",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1350.0,
+          "federal_ip_total": 37300.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Ozer, Robert",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 554.5,
+          "federal_ip_total": 12050.0,
+          "num_local_donations": 4,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Lubin, Susan",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 2000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Lubetzky, Daniel",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 400.0,
+          "federal_ip_total": 13200.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "O'Connell, Patrick",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 200.0,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Hurt, Brett",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 180.0,
+          "federal_ip_total": 26577.78,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Dochen, Sandy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 150.0,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Kress, Barnett",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 100.0,
+          "federal_ip_total": 12400.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ryan Alter",
+      "district": "District 5",
+      "recipient_key": "Alter, Ryan",
+      "total_from_ip_donors": 3058.53,
+      "total_hawkish": 1802.95,
+      "total_liberal_zionist": 1255.58,
+      "total_federal_ip": 101425.11,
+      "donor_count": 6,
+      "donors": [
+        {
+          "name": "Prywes, Joshua",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 1300.0,
+          "federal_ip_total": 32800.0,
+          "num_local_donations": 3,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 900.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Lieberman, Nora",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 20751.78,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 250.0,
+          "federal_ip_total": 9833.33,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Dochen, Sandy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 105.58,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Stein, Brad",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 52.95,
+          "federal_ip_total": 11000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mackenzie Kelly",
+      "district": "District 6",
+      "recipient_key": "Kelly, Mackenzie",
+      "total_from_ip_donors": 2650.0,
+      "total_hawkish": 2250.0,
+      "total_liberal_zionist": 400.0,
+      "total_federal_ip": 486101.78,
+      "donor_count": 7,
+      "donors": [
+        {
+          "name": "Epstein, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 406600.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Prywes, Joshua",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 32800.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Shaw, Stuart",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 100.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            }
+          ]
+        },
+        {
+          "name": "Lubetzky, Daniel",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 13200.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "DiLeo, Tracy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 400.0,
+          "federal_ip_total": 250.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Lieberman, Nora",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 250.0,
+          "federal_ip_total": 20751.78,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Kress, Barnett",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 200.0,
+          "federal_ip_total": 12400.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Fuentes",
+      "district": "District 2",
+      "recipient_key": "Fuentes, Vanessa",
+      "total_from_ip_donors": 1960.84,
+      "total_hawkish": 850.0,
+      "total_liberal_zionist": 1110.84,
+      "total_federal_ip": 446773.33,
+      "donor_count": 5,
+      "donors": [
+        {
+          "name": "Epstein, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 406600.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Winkelman, Marc",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 2,
+          "local_total": 450.0,
+          "federal_ip_total": 9833.33,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00306670",
+              "name": "NATIONAL JEWISH DEMOCRATIC COUNCIL POLITICAL ACTION COMMITTEE",
+              "category": "liberal_zionist"
+            },
+            {
+              "id": "C00573253",
+              "name": "BEND THE ARC JEWISH ACTION INC. PAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Nelson, Elizabeth",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 400.0,
+          "federal_ip_total": 3300.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Dochen, Sandy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 210.84,
+          "federal_ip_total": 1000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leslie Pool",
+      "district": "District 7",
+      "recipient_key": "Pool, Leslie",
+      "total_from_ip_donors": 1850.0,
+      "total_hawkish": 800.0,
+      "total_liberal_zionist": 1050.0,
+      "total_federal_ip": 444940.0,
+      "donor_count": 4,
+      "donors": [
+        {
+          "name": "Epstein, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 800.0,
+          "federal_ip_total": 406600.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 450.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "DiLeo, Tracy",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 400.0,
+          "federal_ip_total": 250.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Ozer, Robert",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 200.0,
+          "federal_ip_total": 12050.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jose Velasquez",
+      "district": "District 3",
+      "recipient_key": "Velasquez, Jose",
+      "total_from_ip_donors": 1750.0,
+      "total_hawkish": 850.0,
+      "total_liberal_zionist": 900.0,
+      "total_federal_ip": 433440.0,
+      "donor_count": 3,
+      "donors": [
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 900.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Epstein, Robert",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 450.0,
+          "federal_ip_total": 406600.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            },
+            {
+              "id": "C00799031",
+              "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+              "category": "aipac_direct"
+            }
+          ]
+        },
+        {
+          "name": "Kunik, Burton",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 400.0,
+          "federal_ip_total": 800.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00699470",
+              "name": "PRO-ISRAEL AMERICA PAC",
+              "category": "proisrael_hawkish"
+            },
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jose 'Chito' Vela",
+      "district": "District 4",
+      "recipient_key": "Vela, Jose \"Chito\", III",
+      "total_from_ip_donors": 1077.0,
+      "total_hawkish": 400.0,
+      "total_liberal_zionist": 677.0,
+      "total_federal_ip": 26140.0,
+      "donor_count": 2,
+      "donors": [
+        {
+          "name": "Albert, David",
+          "spectrum": "liberal_zionist",
+          "spectrum_label": "Liberal Zionist",
+          "tier": 3,
+          "local_total": 677.0,
+          "federal_ip_total": 26040.0,
+          "num_local_donations": 2,
+          "committees": [
+            {
+              "id": "C00441949",
+              "name": "JSTREETPAC",
+              "category": "liberal_zionist"
+            }
+          ]
+        },
+        {
+          "name": "Adler, Steve",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 3,
+          "local_total": 400.0,
+          "federal_ip_total": 100.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00345132",
+              "name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+              "category": "proisrael_hawkish"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Natasha Harper-Madison",
+      "district": "District 1",
+      "recipient_key": "Harper-Madison, Natasha N.",
+      "total_from_ip_donors": 105.58,
+      "total_hawkish": 105.58,
+      "total_liberal_zionist": 0.0,
+      "total_federal_ip": 11000.0,
+      "donor_count": 1,
+      "donors": [
+        {
+          "name": "Stein, Brad",
+          "spectrum": "hawkish_proisrael",
+          "spectrum_label": "AIPAC-aligned / Hawkish Pro-Israel",
+          "tier": 1,
+          "local_total": 105.58,
+          "federal_ip_total": 11000.0,
+          "num_local_donations": 1,
+          "committees": [
+            {
+              "id": "C00797670",
+              "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+              "category": "aipac_direct"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
