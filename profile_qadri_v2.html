@@ -338,6 +338,135 @@
   .amount-cell { font-weight: 700; text-align: right; }
   .count-cell { text-align: right; color: var(--muted); font-size: 12px; }
 
+  /* ── Civic affiliations section ── */
+  .civic-methodology {
+    background: rgba(79,142,247,0.06);
+    border: 1px solid rgba(79,142,247,0.2);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--muted);
+  }
+  .civic-methodology strong { color: var(--text); }
+  .civic-stats {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .civic-stat {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    text-align: center;
+  }
+  .civic-stat-value {
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 1.1;
+  }
+  .civic-stat-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+  .civic-cat-block {
+    margin-bottom: 22px;
+  }
+  .civic-cat-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+  }
+  .civic-cat-title {
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .civic-cat-count {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .civic-cat-desc {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 12px;
+    font-style: italic;
+  }
+  .civic-donor {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+  }
+  .civic-donor-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .civic-donor-name {
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .civic-donor-right {
+    text-align: right;
+    font-size: 12px;
+    color: var(--muted);
+    flex-shrink: 0;
+  }
+  .civic-donor-amount {
+    font-weight: 700;
+    color: var(--text);
+    font-size: 14px;
+  }
+  .civic-org-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .civic-org-item {
+    font-size: 12px;
+    line-height: 1.5;
+    padding-left: 12px;
+    border-left: 2px solid var(--border);
+  }
+  .civic-org-name {
+    font-weight: 600;
+    color: var(--text);
+  }
+  .civic-org-role {
+    color: var(--muted);
+  }
+  .civic-org-source {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 11px;
+    margin-left: 6px;
+    white-space: nowrap;
+  }
+  .civic-org-source:hover { text-decoration: underline; }
+
+  @media (max-width: 700px) {
+    .civic-stats { grid-template-columns: repeat(2, 1fr); }
+    .civic-donor-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+    .civic-donor-right { text-align: left; }
+  }
+
   /* ── Year chart ── */
   .year-bars {
     display: flex;
@@ -892,6 +1021,16 @@
         <span class="hint" id="ipHint">based on FEC donations to affiliated committees</span>
       </div>
       <div id="ipContent"></div>
+    </div>
+
+    <!-- ── Verified Organizational Affiliations ── -->
+    <div id="civicSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Verified Organizational Affiliations
+        <span class="hint" id="civicHint">board memberships and named roles from public sources</span>
+      </div>
+      <div class="civic-methodology" id="civicMethodology"></div>
+      <div id="civicStats" class="civic-stats"></div>
+      <div id="civicContent"></div>
     </div>
 
     <!-- ── Partisan Lean (FEC data) ── -->
@@ -1671,6 +1810,120 @@ function renderIPSpectrum(ip) {
   document.getElementById('ipContent').innerHTML = html;
 }
 
+// ── Verified civic affiliations ──────────────────────────────────────────────
+function renderCivicAffiliations(ca) {
+  const section = document.getElementById('civicSection');
+  if (!ca || !ca.total_donors_with_affiliations) {
+    section.style.display = 'none';
+    return;
+  }
+  section.style.display = '';
+
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+  // Header hint
+  document.getElementById('civicHint').textContent =
+    `${ca.total_donors_with_affiliations} donors with documented public roles`;
+
+  // Methodology note
+  document.getElementById('civicMethodology').innerHTML =
+    '<strong>How to read this:</strong> Each entry below is a verified public organizational role ' +
+    '&mdash; board memberships, named funds, honorary awards, or senior staff positions documented in ' +
+    'publicly available sources (annual reports, press releases, IRS filings). ' +
+    '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> ' +
+    'Categories like &ldquo;Jewish civic&rdquo; refer to organizational affiliation, not personal identity. ' +
+    'AIPAC-direct roles are listed separately from broader Jewish civic and liberal Zionist involvement.';
+
+  // Stats strip
+  const stats = [
+    { label: 'Donors Total',     value: ca.total_donors_with_affiliations, color: '#4f8ef7' },
+    { label: 'Jewish Civic',     value: ca.total_jewish_civic,             color: '#a78bfa' },
+    { label: 'ADL Board/Honor',  value: ca.total_adl,                      color: '#6366f1' },
+    { label: 'AIPAC Direct',     value: ca.total_aipac_direct,             color: '#1d4ed8' },
+    { label: 'Oil & Gas',        value: ca.total_oil_gas,                  color: '#ef4444' },
+  ];
+  document.getElementById('civicStats').innerHTML = stats.map(s =>
+    `<div class="civic-stat">
+       <div class="civic-stat-value" style="color:${s.color}">${s.value}</div>
+       <div class="civic-stat-label">${s.label}</div>
+     </div>`
+  ).join('');
+
+  // Category blocks — ordered intentionally: distinct buckets, direct-ties first
+  const categories = [
+    {
+      key: 'aipac_direct',
+      title: 'AIPAC &amp; Direct Pro-Israel Lobbying Roles',
+      color: '#1d4ed8',
+      desc: 'Donors with documented AIPAC leadership, speaker, or board roles &mdash; or similar direct pro-Israel lobbying affiliations. This is the narrowest and most specific category.',
+    },
+    {
+      key: 'liberal_zionist',
+      title: 'Liberal Zionist Organizations',
+      color: '#7c3aed',
+      desc: 'Donors affiliated with two-state, dovish, or peace-oriented Zionist groups (J Street, OneVoice Movement, National Jewish Democratic Council, etc.).',
+    },
+    {
+      key: 'jewish_civic',
+      title: 'Jewish Civic &amp; Communal Organizations',
+      color: '#a78bfa',
+      desc: 'Board members, officers, honorees, and named-fund founders at local Jewish communal institutions (Shalom Austin / JCAA, Austin ADL, Texas Hillel, Dell JCC, temples, Jewish Foundation of Austin). Includes ADL board involvement. These organizations span a range of political positions.',
+    },
+    {
+      key: 'oil_gas',
+      title: 'Oil, Gas &amp; Energy Industry Ties',
+      color: '#ef4444',
+      desc: 'Donors employed by or with board/advisory roles at oil & gas majors, independents, energy law firms, and industry associations.',
+    },
+  ];
+
+  let html = '';
+  categories.forEach(cat => {
+    const donors = (ca.by_category && ca.by_category[cat.key]) || [];
+    if (!donors.length) return;
+
+    html += `<div class="civic-cat-block">
+      <div class="civic-cat-header">
+        <span class="civic-cat-title" style="color:${cat.color}">${cat.title}</span>
+        <span class="civic-cat-count">${donors.length} donor${donors.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="civic-cat-desc">${cat.desc}</div>`;
+
+    donors.forEach(d => {
+      const giftsLabel = d.gifts === 1 ? '1 gift' : `${d.gifts} gifts`;
+      html += `<div class="civic-donor" style="border-left-color:${cat.color}">
+        <div class="civic-donor-head">
+          <div class="civic-donor-name">${esc(d.donor_name)}</div>
+          <div class="civic-donor-right">
+            <span class="civic-donor-amount">${fmt(d.local_total)}</span>
+            &nbsp;local &middot; ${giftsLabel}
+          </div>
+        </div>
+        <ul class="civic-org-list">`;
+
+      d.organizations.forEach(org => {
+        const orgName = esc(org.org);
+        const role = esc(org.role);
+        const src = org.source && org.source.trim()
+          ? `<a class="civic-org-source" href="${esc(org.source)}" target="_blank" rel="noopener">source &#x2197;</a>`
+          : '';
+        html += `<li class="civic-org-item">
+          <span class="civic-org-name">${orgName}</span>
+          ${role ? `&mdash; <span class="civic-org-role">${role}</span>` : ''}
+          ${src}
+        </li>`;
+      });
+
+      html += '</ul></div>';
+    });
+    html += '</div>';
+  });
+
+  document.getElementById('civicContent').innerHTML = html;
+}
+
 let _PARTISAN_DATA = null;
 
 function renderPartisanLean(pl) {
@@ -1884,6 +2137,9 @@ function renderAll(data, allDonations) {
 
   // Israel/Palestine spectrum
   renderIPSpectrum(data.ip_spectrum);
+
+  // Verified civic affiliations (ADL, AIPAC, Shalom Austin, Oil & Gas, etc.)
+  renderCivicAffiliations(data.civic_affiliations);
 
   // Partisan lean
   renderPartisanLean(data.partisan_lean);

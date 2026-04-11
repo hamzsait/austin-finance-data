@@ -746,6 +746,239 @@ def generate(candidate_fragment: str, output_dir: str = "."):
             print(f"  IP spectrum: {s['label']}: {s['donors']} donors, "
                   f"${s['ip_total']:,.0f} federal, ${s['local_total']:,.0f} local")
 
+    # ── Verified civic affiliations ──────────────────────────────────────────
+    # Pulls organizational roles (board memberships, honors, employer ties)
+    # from the civic_affiliations table for donors to THIS candidate.
+    # Matches on last-name + first-name (with common nickname aliases).
+    civic_affiliations_payload = None
+    # Only proceed if the civic_affiliations table exists
+    has_civic_table = cur.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='civic_affiliations'"
+    ).fetchone() is not None
+
+    if has_civic_table:
+        # Common nicknames → canonical first names for matching
+        NICKNAME_ALIASES = {
+            "jeff": "jeffrey", "jeffrey": "jeff",
+            "rick": "richard", "richard": "rick", "ricky": "richard",
+            "dave": "david", "david": "dave",
+            "mike": "michael", "michael": "mike",
+            "bob": "robert", "robert": "bob", "rob": "robert",
+            "bill": "william", "william": "bill",
+            "chris": "christopher", "christopher": "chris",
+            "steve": "steven", "steven": "steve", "stephen": "steve",
+            "dan": "daniel", "daniel": "dan",
+            "tom": "thomas", "thomas": "tom",
+            "ed": "edward", "edward": "ed", "eddie": "edward",
+            "andy": "andrew", "andrew": "andy",
+            "val": "valerie", "valerie": "val",
+            "lil": "lily", "lily": "lillian",
+            "kim": "kimberly", "kimberly": "kim",
+            "laurie": "laura", "laura": "laurie",
+            "lauren": "laurence",
+        }
+
+        def name_key(canon_name):
+            """Return a comparable (last, first_normalized) tuple."""
+            if not canon_name or "," not in canon_name:
+                return None
+            last, first = canon_name.split(",", 1)
+            last = last.strip().lower()
+            first = first.strip().lower()
+            # Strip middle initial/name
+            first = first.split()[0] if first else ""
+            # Remove trailing period
+            first = first.rstrip(".")
+            return (last, first)
+
+        # Pull all Qadri donors with local totals
+        donor_rows = cur.execute(f"""
+            SELECT di.canonical_name,
+                   ROUND(SUM(COALESCE(cf.balanced_amount, cf.contribution_amount)), 0) as local_total,
+                   COUNT(*) as gift_count
+            FROM campaign_finance cf
+            JOIN donor_identities di ON cf.donor_id = di.donor_id
+            WHERE {BASE_WHERE}
+              AND di.canonical_name IS NOT NULL
+              AND di.canonical_name != ''
+            GROUP BY di.canonical_name
+        """, base_params).fetchall()
+
+        # Aggregate local totals per name_key
+        donor_totals = {}  # {(last, first): {name, total, gifts}}
+        for cname, total, gifts in donor_rows:
+            key = name_key(cname)
+            if not key:
+                continue
+            if key not in donor_totals or (total or 0) > donor_totals[key]["total"]:
+                donor_totals[key] = {"name": cname, "total": int(total or 0), "gifts": int(gifts or 0)}
+
+        # Also index by last-name + nickname-normalized-first for alias matching
+        donor_alias_index = {}  # {(last, alias_first): donor_key}
+        for key in donor_totals.keys():
+            last, first = key
+            donor_alias_index[(last, first)] = key
+            if first in NICKNAME_ALIASES:
+                donor_alias_index[(last, NICKNAME_ALIASES[first])] = key
+            # First initial fallback (only if first name has 2+ chars)
+            if len(first) >= 1:
+                donor_alias_index.setdefault((last, first[0]), key)
+
+        # Pull all civic_affiliations rows
+        ca_rows = cur.execute("""
+            SELECT canonical_name, organization, role, category, source_url, notes
+            FROM civic_affiliations
+            ORDER BY canonical_name
+        """).fetchall()
+
+        # Group by matched donor_key
+        donor_affils = {}  # {donor_key: {name, total, gifts, rows: [...]}}
+        for ca_name, org, role, category, source_url, notes in ca_rows:
+            ca_key = name_key(ca_name)
+            if not ca_key:
+                continue
+            # Try exact match first
+            matched = None
+            if ca_key in donor_totals:
+                matched = ca_key
+            else:
+                # Alias match
+                if ca_key in donor_alias_index:
+                    matched = donor_alias_index[ca_key]
+                else:
+                    last, first = ca_key
+                    # Nickname alias reverse lookup
+                    if first in NICKNAME_ALIASES:
+                        alt_first = NICKNAME_ALIASES[first]
+                        if (last, alt_first) in donor_totals:
+                            matched = (last, alt_first)
+                        elif (last, alt_first) in donor_alias_index:
+                            matched = donor_alias_index[(last, alt_first)]
+
+            if not matched:
+                continue
+
+            if matched not in donor_affils:
+                donor_affils[matched] = {
+                    "donor_name": donor_totals[matched]["name"],
+                    "local_total": donor_totals[matched]["total"],
+                    "gifts": donor_totals[matched]["gifts"],
+                    "categories": set(),
+                    "rows": [],
+                    "has_aipac_direct": False,
+                    "has_jewish_civic": False,
+                    "has_oil_gas": False,
+                    "has_pro_israel": False,
+                    "has_liberal_zionist": False,
+                    "has_adl": False,
+                }
+            cat = category or ""
+            donor_affils[matched]["categories"].add(cat)
+            donor_affils[matched]["rows"].append({
+                "org": org,
+                "role": role or "",
+                "category": cat,
+                "source": source_url or "",
+                "notes": notes or "",
+            })
+            if cat == "aipac_direct":
+                donor_affils[matched]["has_aipac_direct"] = True
+            if cat == "jewish_civic":
+                donor_affils[matched]["has_jewish_civic"] = True
+            if cat == "pro_israel":
+                donor_affils[matched]["has_pro_israel"] = True
+            if cat == "liberal_zionist":
+                donor_affils[matched]["has_liberal_zionist"] = True
+            if cat.startswith("oil_gas"):
+                donor_affils[matched]["has_oil_gas"] = True
+            # ADL detection via organization name (no dedicated ADL category)
+            if org and ("anti-defamation league" in org.lower() or "adl" in org.lower()):
+                donor_affils[matched]["has_adl"] = True
+
+        # Build bucket lists. A donor can appear in multiple buckets if they
+        # have roles in multiple categories — but each row only attaches to
+        # its own category inside that bucket.
+        def bucket_entry(d, row_filter):
+            """Build a donor entry with only rows matching row_filter()."""
+            rows = [r for r in d["rows"] if row_filter(r)]
+            if not rows:
+                return None
+            # Sort: primary/direct roles first (board member, chair, founder), then alphabetical
+            PRIORITY_KEYWORDS = ["chair", "founder", "president", "board", "director",
+                                 "trustee", "national", "namesake", "honoree"]
+            def row_priority(r):
+                role_lower = (r["role"] or "").lower()
+                for i, kw in enumerate(PRIORITY_KEYWORDS):
+                    if kw in role_lower:
+                        return (0, i, r["org"])
+                return (1, 99, r["org"])
+            rows.sort(key=row_priority)
+            return {
+                "donor_name": d["donor_name"],
+                "local_total": d["local_total"],
+                "gifts": d["gifts"],
+                "organizations": rows,
+            }
+
+        def sort_donors(entries):
+            """Sort donors by local_total desc, then name."""
+            return sorted(entries, key=lambda e: (-e["local_total"], e["donor_name"]))
+
+        # AIPAC-direct: only donors with an aipac_direct or pro_israel (AIPAC board) row
+        aipac_donors = []
+        for d in donor_affils.values():
+            if d["has_aipac_direct"] or d["has_pro_israel"]:
+                entry = bucket_entry(d, lambda r: r["category"] in ("aipac_direct", "pro_israel"))
+                if entry:
+                    aipac_donors.append(entry)
+
+        # Jewish civic (includes ADL, Shalom Austin, JCAA, Temple, Hillel, etc.)
+        jewish_civic_donors = []
+        for d in donor_affils.values():
+            entry = bucket_entry(d, lambda r: r["category"] == "jewish_civic")
+            if entry:
+                jewish_civic_donors.append(entry)
+
+        # Liberal Zionist (J Street, OneVoice, PeaceWorks, National Jewish Democratic Council)
+        liberal_zionist_donors = []
+        for d in donor_affils.values():
+            if d["has_liberal_zionist"]:
+                entry = bucket_entry(d, lambda r: r["category"] == "liberal_zionist")
+                if entry:
+                    liberal_zionist_donors.append(entry)
+
+        # Oil & Gas (all oil_gas_* categories)
+        oil_gas_donors = []
+        for d in donor_affils.values():
+            if d["has_oil_gas"]:
+                entry = bucket_entry(d, lambda r: r["category"].startswith("oil_gas"))
+                if entry:
+                    oil_gas_donors.append(entry)
+
+        # ADL-specific sub-count (donors with an ADL board/role affiliation)
+        adl_donors_count = sum(1 for d in donor_affils.values() if d["has_adl"])
+
+        civic_affiliations_payload = {
+            "total_donors_with_affiliations": len(donor_affils),
+            "total_jewish_civic": len(jewish_civic_donors),
+            "total_adl": adl_donors_count,
+            "total_aipac_direct": len(aipac_donors),
+            "total_liberal_zionist": len(liberal_zionist_donors),
+            "total_oil_gas": len(oil_gas_donors),
+            "by_category": {
+                "aipac_direct": sort_donors(aipac_donors),
+                "jewish_civic": sort_donors(jewish_civic_donors),
+                "liberal_zionist": sort_donors(liberal_zionist_donors),
+                "oil_gas": sort_donors(oil_gas_donors),
+            },
+        }
+        print(f"  Civic affiliations: {len(donor_affils)} donors matched")
+        print(f"    Jewish civic:    {len(jewish_civic_donors)}")
+        print(f"    ADL board/honor: {adl_donors_count}")
+        print(f"    AIPAC direct:    {len(aipac_donors)}")
+        print(f"    Liberal Zionist: {len(liberal_zionist_donors)}")
+        print(f"    Oil & Gas:       {len(oil_gas_donors)}")
+
     # ── Election cycles ───────────────────────────────────────────────────────
     cycles = []
     if slug in CANDIDATE_CYCLES:
@@ -778,6 +1011,7 @@ def generate(candidate_fragment: str, output_dir: str = "."):
         "cycles": cycles,
         "partisan_lean": partisan_lean,
         "ip_spectrum": ip_spectrum,
+        "civic_affiliations": civic_affiliations_payload,
     }
     data_path = os.path.join(output_dir, f"{slug}_data.json")
     with open(data_path, "w", encoding="utf-8") as f:
