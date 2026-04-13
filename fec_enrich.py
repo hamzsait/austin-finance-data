@@ -234,7 +234,7 @@ def api_get(session, url, params, rate_limiter, max_retries=8):
         key = _active_key()
         params["api_key"] = key
         try:
-            resp = session.get(url, params=params, timeout=30)
+            resp = session.get(url, params=params, timeout=60)
         except requests.exceptions.RequestException as e:
             if attempt < max_retries - 1:
                 time.sleep(2 ** attempt)
