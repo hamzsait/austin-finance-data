@@ -1941,8 +1941,15 @@ function renderPartisanLean(pl) {
   };
 
   // Hint
-  document.getElementById('partisanHint').textContent =
-    `${pl.matched_donors} of ${pl.total_donors} donors matched in FEC records`;
+  {
+    const tecOnly = pl.tec_only || 0;
+    const both = pl.both_sources || 0;
+    const extra = tecOnly + both > 0
+      ? ` (${both} with both FEC + Texas PAC history, ${tecOnly} Texas-only)`
+      : '';
+    document.getElementById('partisanHint').textContent =
+      `${pl.matched_donors} of ${pl.total_donors} donors matched in FEC + Texas PAC records${extra}`;
+  }
 
   // Build the bar segments (clickable)
   const bar = document.getElementById('partisanBar');
@@ -2020,7 +2027,7 @@ function showPartisanBucket(label, minLean, maxLean, color) {
   document.getElementById('fecTitle').textContent = `${label} Donors`;
   document.getElementById('fecTitleBar').style.borderBottom = `3px solid ${color}`;
 
-  let html = `<div style="padding:4px 0 12px;color:var(--muted);font-size:12px">${donors.length} donors with FEC partisan lean ${minLean.toFixed(1)}–${maxLean >= 1 ? '1.0' : maxLean.toFixed(1)}</div>`;
+  let html = `<div style="padding:4px 0 12px;color:var(--muted);font-size:12px">${donors.length} donors with combined FEC + Texas PAC lean ${minLean.toFixed(1)}–${maxLean >= 1 ? '1.0' : maxLean.toFixed(1)}</div>`;
   html += `<div style="overflow-x:auto"><table style="width:100%;font-size:13px;border-collapse:collapse;min-width:320px">
     <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
       <th style="text-align:left;padding:6px 6px">Donor</th>
@@ -2055,7 +2062,7 @@ function showDonorFEC(donorId, donorName, lean) {
   const partyColors = { Dem: '#3b82f6', Rep: '#ef4444', Other: '#a78bfa' };
 
   const body = document.getElementById('fecBody');
-  document.getElementById('fecTitle').textContent = donorName + ' — Federal Donations';
+  document.getElementById('fecTitle').textContent = donorName + ' — Federal + State Donation History';
   document.getElementById('fecTitleBar').style.borderBottom = `3px solid ${leanColor}`;
 
   // Group by party
@@ -2076,8 +2083,11 @@ function showDonorFEC(donorId, donorName, lean) {
     html += `<table style="width:100%;font-size:12px;border-collapse:collapse">`;
     list.sort((a, b) => b.total - a.total);
     list.forEach(c => {
+      const srcTag = c.source === 'TEC'
+        ? '<span style="display:inline-block;background:rgba(251,191,36,0.15);color:#fbbf24;border:1px solid rgba(251,191,36,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">TX STATE</span>'
+        : '<span style="display:inline-block;background:rgba(79,142,247,0.12);color:#4f8ef7;border:1px solid rgba(79,142,247,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">FEDERAL</span>';
       html += `<tr style="border-bottom:1px solid var(--border)">
-        <td style="padding:4px 8px">${c.name}</td>
+        <td style="padding:4px 8px">${srcTag}${c.name}</td>
         <td style="text-align:right;padding:4px 8px;color:${partyColors[party]}">${fmt(c.total)}</td>
         <td style="text-align:right;padding:4px 8px;color:var(--muted)">${c.n} gifts</td>
       </tr>`;

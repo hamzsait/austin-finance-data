@@ -570,19 +570,31 @@ def generate(candidate_fragment: str, output_dir: str = "."):
 
     all_donations = [list(r) for r in all_donation_rows]
 
-    # ── Partisan lean (FEC data) ─────────────────────────────────────────────
-    partisan_rows = cur.execute(f"""
-        SELECT di.fec_partisan_lean,
-               SUM(CAST(cf.contribution_amount AS REAL)) as amount
+    # ── Partisan lean (FEC + TEC combined) ───────────────────────────────────
+    # Pulls per-donor dem/rep/other totals from both the FEC donor history and
+    # the Texas Ethics Commission tracked-PAC giving. Combined lean =
+    # (fec_dem + tec_dem) / (fec_dem + fec_rep + tec_dem + tec_rep).
+    donor_rows = cur.execute(f"""
+        SELECT di.donor_id, di.canonical_name,
+               COALESCE(di.fec_total_dem, 0)   AS fec_dem,
+               COALESCE(di.fec_total_rep, 0)   AS fec_rep,
+               COALESCE(di.fec_total_other, 0) AS fec_other,
+               COALESCE(di.fec_total_donations, 0) AS fec_n,
+               COALESCE(di.tec_total_dem, 0)   AS tec_dem,
+               COALESCE(di.tec_total_rep, 0)   AS tec_rep,
+               COALESCE(di.tec_total_other, 0) AS tec_other,
+               COALESCE(di.tec_total_donations, 0) AS tec_n,
+               SUM(CAST(cf.contribution_amount AS REAL)) as local_total
         FROM donor_identities di
         JOIN campaign_finance cf ON cf.donor_id = di.donor_id
         LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
-        WHERE {BASE_WHERE} AND di.fec_partisan_lean IS NOT NULL
+        WHERE {BASE_WHERE}
+          AND (di.fec_partisan_lean IS NOT NULL OR COALESCE(di.tec_matched, 0) = 1)
         GROUP BY di.donor_id
     """, base_params).fetchall()
 
     partisan_lean = None
-    if partisan_rows:
+    if donor_rows:
         buckets = [
             {"label": "Strong D",  "min": 0.9, "max": 1.01, "donors": 0, "total": 0},
             {"label": "Lean D",    "min": 0.6, "max": 0.9,  "donors": 0, "total": 0},
@@ -596,8 +608,32 @@ def generate(candidate_fragment: str, output_dir: str = "."):
         total_lean_amount = 0
         weighted_lean_sum = 0
 
-        for lean, amt in partisan_rows:
-            amt = amt or 0
+        donors_list = []
+        donor_ids_matched = []
+        fec_only_count = 0
+        tec_only_count = 0
+        both_count = 0
+
+        for r in donor_rows:
+            did, name, fec_dem, fec_rep, fec_other, fec_n, \
+                tec_dem, tec_rep, tec_other, tec_n, local = r
+            combined_dem   = (fec_dem or 0)   + (tec_dem or 0)
+            combined_rep   = (fec_rep or 0)   + (tec_rep or 0)
+            combined_other = (fec_other or 0) + (tec_other or 0)
+            partisan_amount = combined_dem + combined_rep
+            if partisan_amount <= 0:
+                # Donor only gave to non-partisan (Other) PACs — skip from lean.
+                continue
+            lean = combined_dem / partisan_amount
+
+            if fec_n and tec_n:
+                both_count += 1
+            elif fec_n:
+                fec_only_count += 1
+            else:
+                tec_only_count += 1
+
+            amt = local or 0
             for b in buckets:
                 if b["min"] <= lean < b["max"]:
                     b["donors"] += 1
@@ -613,37 +649,30 @@ def generate(candidate_fragment: str, output_dir: str = "."):
                 weighted_lean_sum += lean * amt
                 total_lean_amount += amt
 
-        weighted_avg = round(weighted_lean_sum / total_lean_amount, 3) if total_lean_amount > 0 else None
-        # Per-donor detail for drill-down
-        donor_details = cur.execute(f"""
-            SELECT di.donor_id, di.canonical_name, di.fec_partisan_lean,
-                   di.fec_total_dem, di.fec_total_rep, di.fec_total_other,
-                   di.fec_total_donations,
-                   SUM(CAST(cf.contribution_amount AS REAL)) as local_total
-            FROM donor_identities di
-            JOIN campaign_finance cf ON cf.donor_id = di.donor_id
-            LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
-            WHERE {BASE_WHERE} AND di.fec_partisan_lean IS NOT NULL
-            GROUP BY di.donor_id
-            ORDER BY (di.fec_total_dem + di.fec_total_rep) DESC
-        """, base_params).fetchall()
-
-        donors_list = []
-        donor_ids_with_fec = []
-        for d in donor_details:
             donors_list.append({
-                "id": d[0], "name": d[1], "lean": round(d[2], 3),
-                "dem": round(d[3] or 0, 0), "rep": round(d[4] or 0, 0),
-                "other": round(d[5] or 0, 0), "fec_n": d[6] or 0,
-                "local": round(d[7] or 0, 0),
+                "id": did, "name": name, "lean": round(lean, 3),
+                "dem": round(combined_dem, 0),
+                "rep": round(combined_rep, 0),
+                "other": round(combined_other, 0),
+                "fec_n": fec_n or 0,
+                "tec_n": tec_n or 0,
+                "fec_dem": round(fec_dem or 0, 0),
+                "fec_rep": round(fec_rep or 0, 0),
+                "tec_dem": round(tec_dem or 0, 0),
+                "tec_rep": round(tec_rep or 0, 0),
+                "local": round(amt, 0),
             })
-            donor_ids_with_fec.append(d[0])
+            donor_ids_matched.append(did)
 
-        # Committee-level aggregates per donor
+        donors_list.sort(key=lambda d: -(d["dem"] + d["rep"]))
+        weighted_avg = round(weighted_lean_sum / total_lean_amount, 3) if total_lean_amount > 0 else None
+
+        # Committee-level aggregates per donor (FEC + TEC)
         donor_committees = {}
-        if donor_ids_with_fec:
-            placeholders = ",".join("?" * len(donor_ids_with_fec))
-            comm_rows = cur.execute(f"""
+        if donor_ids_matched:
+            placeholders = ",".join("?" * len(donor_ids_matched))
+            # FEC side
+            fec_comm_rows = cur.execute(f"""
                 SELECT fcr.donor_id, fcc.committee_name, fcc.classification,
                        SUM(fcr.contribution_amount) as total, COUNT(*) as n
                 FROM fec_contributions_raw fcr
@@ -652,31 +681,59 @@ def generate(candidate_fragment: str, output_dir: str = "."):
                   AND fcr.contribution_amount > 0
                 GROUP BY fcr.donor_id, fcr.committee_id
                 ORDER BY total DESC
-            """, donor_ids_with_fec).fetchall()
-            for row in comm_rows:
+            """, donor_ids_matched).fetchall()
+            for row in fec_comm_rows:
                 did = row[0]
-                if did not in donor_committees:
-                    donor_committees[did] = []
-                donor_committees[did].append({
+                donor_committees.setdefault(did, []).append({
                     "name": row[1] or "Unknown Committee",
                     "party": row[2] or "Other",
                     "total": round(row[3], 0),
                     "n": row[4],
+                    "source": "FEC",
+                })
+            # TEC side (state PACs)
+            TEC_LEAN = {
+                "00028135": "Rep", "00015555": "Rep", "00089881": "Rep",
+                "00061927": "Rep", "00015666": "Dem",
+                "00070864": "Other", "00015487": "Other", "00017303": "Other",
+                "00015700": "Other", "00035370": "Other",
+            }
+            tec_comm_rows = cur.execute(f"""
+                SELECT austin_donor_id, filer_name, filer_ident,
+                       SUM(CAST(contribution_amount AS REAL)) as total, COUNT(*) as n
+                FROM texas_contributions_raw
+                WHERE austin_donor_id IN ({placeholders})
+                  AND contribution_amount > 0
+                GROUP BY austin_donor_id, filer_ident
+                ORDER BY total DESC
+            """, donor_ids_matched).fetchall()
+            for row in tec_comm_rows:
+                did = row[0]
+                donor_committees.setdefault(did, []).append({
+                    "name": row[1] or "Unknown TX Committee",
+                    "party": TEC_LEAN.get(row[2], "Other"),
+                    "total": round(row[3], 0),
+                    "n": row[4],
+                    "source": "TEC",
                 })
 
         partisan_lean = {
-            "matched_donors": len(partisan_rows),
+            "matched_donors": len(donors_list),
             "total_donors": unique_donors,
             "dem_donors": total_dem_donors,
             "rep_donors": total_rep_donors,
             "mixed_donors": total_mixed_donors,
+            "fec_only": fec_only_count,
+            "tec_only": tec_only_count,
+            "both_sources": both_count,
             "weighted_lean": weighted_avg,
             "buckets": buckets,
             "donors": donors_list,
             "donor_committees": donor_committees,
         }
-        print(f"  Partisan lean: {len(partisan_rows)} donors matched, "
+        print(f"  Partisan lean (FEC+TEC): {len(donors_list)} donors, "
               f"D={total_dem_donors} R={total_rep_donors} M={total_mixed_donors}, "
+              f"FEC-only={fec_only_count} TEC-only={tec_only_count} both={both_count}, "
               f"weighted={weighted_avg}")
 
     # ── Israel/Palestine donor spectrum ──────────────────────────────────────
