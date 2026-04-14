@@ -932,12 +932,19 @@ def generate(candidate_fragment: str, output_dir: str = "."):
                 if entry:
                     aipac_donors.append(entry)
 
-        # Jewish civic (includes ADL, Shalom Austin, JCAA, Temple, Hillel, etc.)
-        jewish_civic_donors = []
+        # ADL (Anti-Defamation League) — split out as its own bucket. Matches any
+        # category=='jewish_civic' row whose org name contains ADL/Anti-Defamation League.
+        def is_adl_row(r):
+            org_lc = (r.get("org") or "").lower()
+            return r["category"] == "jewish_civic" and (
+                "anti-defamation" in org_lc or "adl" in org_lc
+            )
+        adl_donors = []
         for d in donor_affils.values():
-            entry = bucket_entry(d, lambda r: r["category"] == "jewish_civic")
-            if entry:
-                jewish_civic_donors.append(entry)
+            if d["has_adl"]:
+                entry = bucket_entry(d, is_adl_row)
+                if entry:
+                    adl_donors.append(entry)
 
         # Liberal Zionist (J Street, OneVoice, PeaceWorks, National Jewish Democratic Council)
         liberal_zionist_donors = []
@@ -960,20 +967,18 @@ def generate(candidate_fragment: str, output_dir: str = "."):
 
         civic_affiliations_payload = {
             "total_donors_with_affiliations": len(donor_affils),
-            "total_jewish_civic": len(jewish_civic_donors),
             "total_adl": adl_donors_count,
             "total_aipac_direct": len(aipac_donors),
             "total_liberal_zionist": len(liberal_zionist_donors),
             "total_oil_gas": len(oil_gas_donors),
             "by_category": {
                 "aipac_direct": sort_donors(aipac_donors),
-                "jewish_civic": sort_donors(jewish_civic_donors),
+                "adl": sort_donors(adl_donors),
                 "liberal_zionist": sort_donors(liberal_zionist_donors),
                 "oil_gas": sort_donors(oil_gas_donors),
             },
         }
         print(f"  Civic affiliations: {len(donor_affils)} donors matched")
-        print(f"    Jewish civic:    {len(jewish_civic_donors)}")
         print(f"    ADL board/honor: {adl_donors_count}")
         print(f"    AIPAC direct:    {len(aipac_donors)}")
         print(f"    Liberal Zionist: {len(liberal_zionist_donors)}")
