@@ -60,25 +60,29 @@ OTHER_INDS = {"Retail", "Media", "Architecture", "Transportation", "Entertainmen
 # Election cycle definitions per candidate slug
 # Each cycle: label, start_year (None = beginning of time), end_year (None = present)
 CANDIDATE_CYCLES = {
-    # Districts 1,3,5,8,9 — elected 2022, midterm 4-year cycles, reelection 2026
+    # Rule: a cycle ends at the election year and the next cycle starts the
+    # following January. Austin runs 4-year staggered terms.
+    # Districts 1,3,5,8,9 — last elected 2022, reelection 2026
     'qadri':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'siegel':       [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+    'velasquez':    [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+    'ellis':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'harpermadison':[{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'ellis':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+    'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    # Districts 2,4,6,10 — elected 2024, midterm 4-year cycles, reelection 2028
+    # Districts 2,4,6,7,10 — last elected 2024, reelection 2028
+    # Siegel is challenging D7 2026 (open/held seat); old money through 2024,
+    # current cycle 2025+.
+    'siegel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2025, 'end_year': None}],
     'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'fuentes':      [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'velasquez':    [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
