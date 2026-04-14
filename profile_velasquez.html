@@ -1833,13 +1833,12 @@ function renderCivicAffiliations(ca) {
     '&mdash; board memberships, named funds, honorary awards, or senior staff positions documented in ' +
     'publicly available sources (annual reports, press releases, IRS filings). ' +
     '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> ' +
-    'Categories like &ldquo;Jewish civic&rdquo; refer to organizational affiliation, not personal identity. ' +
-    'AIPAC-direct roles are listed separately from broader Jewish civic and liberal Zionist involvement.';
+    'Each category below refers to organizational affiliation, not personal identity. ' +
+    'AIPAC-direct roles are listed separately from ADL board involvement and liberal-Zionist organizational ties.';
 
   // Stats strip
   const stats = [
     { label: 'Donors Total',     value: ca.total_donors_with_affiliations, color: '#4f8ef7' },
-    { label: 'Jewish Civic',     value: ca.total_jewish_civic,             color: '#a78bfa' },
     { label: 'ADL Board/Honor',  value: ca.total_adl,                      color: '#6366f1' },
     { label: 'AIPAC Direct',     value: ca.total_aipac_direct,             color: '#1d4ed8' },
     { label: 'Oil & Gas',        value: ca.total_oil_gas,                  color: '#ef4444' },
@@ -1866,10 +1865,10 @@ function renderCivicAffiliations(ca) {
       desc: 'Donors affiliated with two-state, dovish, or peace-oriented Zionist groups (J Street, OneVoice Movement, National Jewish Democratic Council, etc.).',
     },
     {
-      key: 'jewish_civic',
-      title: 'Jewish Civic &amp; Communal Organizations',
-      color: '#a78bfa',
-      desc: 'Board members, officers, honorees, and named-fund founders at local Jewish communal institutions (Shalom Austin / JCAA, Austin ADL, Texas Hillel, Dell JCC, temples, Jewish Foundation of Austin). Includes ADL board involvement. These organizations span a range of political positions.',
+      key: 'adl',
+      title: 'Anti-Defamation League (ADL) Board &amp; Honor Roles',
+      color: '#6366f1',
+      desc: 'Donors with verified ADL national or regional board roles, True Colors / Golden Door honorees, and senior ADL staff. ADL combines civil-rights advocacy with explicit pro-Israel political positioning; included here for transparency as a named political organization.',
     },
     {
       key: 'oil_gas',
