@@ -82,7 +82,8 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2025, 'end_year': None}],
     'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'fuentes':      [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+    'fuentes':      [{'label': 'Initial Run',  'election_year': 2020, 'start_year': None, 'end_year': 2020},
+                     {'label': 'Re-election',  'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
@@ -364,7 +365,7 @@ def generate(candidate_fragment: str, output_dir: str = "."):
     # All queries use this same WHERE clause
     BASE_WHERE = """
         cf.recipient LIKE ?
-        AND cf.contribution_year >= 2022
+        AND cf.contribution_year >= 2019
         AND COALESCE(cf.balanced_amount, cf.contribution_amount) > 0
     """
     base_params = (f"%{candidate_fragment}%",)
