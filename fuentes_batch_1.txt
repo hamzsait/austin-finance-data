@@ -1,0 +1,150 @@
+Cofer, Rick	$850	attorney cofer connelly	Legal	Austin, TX, 78703
+Collier, Chad	$850	beef lone manager star		San Angelo, TX, 76901
+Smith, Nancy	$850	retired		Beaumont, TX, 77706
+Fuentes, Guadalupe	$850	associate store walmart	Retail	Brady, TX, 76825
+Bukowski, Sean	$850	bukowski firm law lawyer	Legal	Austin, TX, 78702
+Collier, Carla	$850	beef lone manager office star	Technology	San Angelo, TX, 76901
+Valdez Sanchez, Raquel	$850	bcl coo of texas	Nonprofit / Advocacy	Austin, TX, 78701
+Smith, Curtis	$850	employee house state texas	Government	Austin, TX, 78744
+Fitzpatrick, Dina	$850	director program pulicis sapient	Media	Denver, TX, 80221
+Canales, Erica	$850	business owner	Transportation	Edinburg, TX, 78539
+Fuentes, Adrian	$850	brady electric owner		Brady, TX, 76825
+Fuentes, Carlos	$850	employed not		Brady, TX, 76825
+Rios, Christopher	$850	banker fargo wells	Finance	Pflugerville, TX, 78660
+Joslove, Scott	$850	association ceo hotel lodging president texas	Hospitality / Events	Austin, TX, 78701
+Diaz, Ramiro	$750	avenue engineer fifth saks software	Retail	Austin, TX, 78744
+Ramirez, Rene	$700	government relations	Consulting / PR	Edinburg, TX, 78539
+Cotera, Martha	$700	consultant isd	Government	Austin, TX, 78704
+Mejia, Edith	$700	anderson carl charitable foundation grantmaker jo marie	Nonprofit / Advocacy	Austin, TX, 78746
+Aldrete, Elma	$650	director edward of operations s senior st technology university	Education	Austin, TX, 78704
+Morin, Lupe	$650	employed not		Austin, TX, 78745
+Terry, Sarah	$650	global recruiter smartworx		Houston, TX, 77008
+Hernandez, Laura	$650	consultant	Consulting / PR	Austin, TX, 78730
+Rios Valdez, Rosa	$650	bcl ceo	Nonprofit / Advocacy	Austin, TX, 78736
+Corona, Christina	$650	freescale manager program semiconductor sr technical	Technology	Austin, TX, 78749
+Woody, Susanna	$606	amd pm	Technology	Austin, TX, 78744
+Eckstein, Deece	$550	employed not	Government	Austin, TX, 78703
+Shipton, Patricia	$550	consultant	Government	Austin, TX, 78757
+Murphy, John	$512	employed not	Nonprofit / Advocacy	Austin, TX, 78701
+Perez, Justin	$500	director future now political regional	Education	Austin, TX, 78723
+Lungwitz, Kevin	$500	attorney firm law lungwitz the	Legal	Austin, TX, 78704
+Scott, Rachel	$475	retired		Austin, TX, 78744
+Dang, Loc	$450	attorney dang group law	Legal	Austin, TX, 78753
+Hughes, Craig	$450	oht partners principal	Real Estate	Austin, TX, 78746
+Harutunian, Kegham	$450	engineering harutunian president vice	Engineering	Austin, TX, 78714
+Loewy, Phil	$450	firm hr law loewy	Legal	Austin, TX, 78731
+King, David	$450	armbrust attorney brown	Real Estate	Austin, TX, 78756
+Marsh, William	$450	endeavor principal	Real Estate	Austin, TX, 78746
+Campos, Edward	$450	business owner	Self-Employed	Austin, TX, 78732
+Rife, Lynda	$450	involvement public rifeline	Consulting / PR	Austin, TX, 78745
+Whitt, Ashley	$450	employed not	Real Estate	Austin, TX, 78756
+Razian, Anoosh	$450	therapist	Healthcare	Austin, TX, 78702
+Lorenz, Sheridan	$450	philanthropist	Real Estate	Austin, TX, 78702
+Marcum, Kristin	$450	christian elizabeth firm pr president public relations	Consulting / PR	Austin, TX, 78750
+Whaling, Mark	$450	ceo properties rosemark	Real Estate	Austin, TX, 78735
+Cavazos, Perla	$450	administrator central deputy health	Healthcare	Austin, TX, 78702
+Grooms, Tyler	$450	estate group manifold principal real	Real Estate	Austin, TX, 78746
+Miller, William	$450	consultant hillco partners	Consulting / PR	Austin, TX, 78703
+Alam, Paige	$450	employed not	Real Estate	Austin, TX, 78746
+Beliveau, Emmett	$450	c3 coo presents	Entertainment	Austin, TX, 78703
+Bavishi, Ashay	$450	broadview capital director managing	Finance	Houston, TX, 77042
+Mitzner, Ira	$450	development estate real rida		Houston, TX, 77010
+greissing, connor	$450	brick estate real row	Real Estate	Austin, TX, 78703
+Pena, Jessica	$450	sales walmart	Retail	San Angelo, TX, 76904
+Epstein, Robert	$450	employed not	Technology	Austin, TX, 78791
+Eisman, Denise	$450	association austin hotel lodging president	Hospitality / Events	Pflugerville, TX, 78660
+Woods, Alice	$450	affordable developer development housing saigebrook	Real Estate	Austin, TX, 78704
+Sipes, Paige	$450	homemaker		Austin, TX, 78741
+Carlson, Patrick	$450	armbrust attorney brown	Real Estate	Austin, TX, 78703
+Sipes, Chris	$450	co estate founder real wayfinder	Real Estate	Austin, TX, 78741
+Hollingsworth, Wayne	$450	armbrust attorney brown	Real Estate	Austin, TX, 78746
+Hollingsworth, Desiree	$450	jewelry	Real Estate	Austin, TX, 78746
+Roark, Brian	$450	lawyer	Legal	Austin, TX, 78701
+Edgar, Handal	$450	computer engineer nvidia	Technology	Austin, TX, 78702
+Pastor, Laura	$450	endeavor estate evp group real	Real Estate	Austin, TX, 78732
+Payervand, Roozbeh	$450	self	Technology	Dallas, TX, 75209
+Kunik, Daryl	$450	founder principal topo	Real Estate	Austin, TX, 78704
+Gregorcyk, David	$450	construction journeyman president vice	Construction	Austin, TX, 78756
+Sethi, Pooja	$450	chief of staff state texas	Government	Austin, TX, 78731
+Cordero, Calista	$450	student		Austin, TX, 78731
+Peterson, Chris	$450	homebuilder homes rivendale	Construction	Austin, TX, 78746
+Burns, Kevin	$450	estate real urbanspace	Real Estate	Austin, TX, 78701
+Wilks, Van	$450	muscian		Austin, TX, 78764
+Piano, Gian Michael	$450	estate presidium real	Real Estate	Austin, TX, 78751
+Martin, Garrett	$450	chief executive officer	Construction	Austin, TX, 78763
+Trimble, Mike	$450	consultant hntb	Engineering	Austin, TX, 78744
+Levenson, Greg	$450	bank banking capital southwest	Finance	Albuquerque, NM, 87104
+Kitchen, Ann	$450	consultant	Government	Austin, TX, 78723
+North, Lisa	$450	da pools principal vida	Education	Austin, TX, 78747
+Cody, Madeleine	$450	employed not	Healthcare	Austin, TX, 78703
+Ellis, Chris	$450	endeavor estate evp group real	Real Estate	Austin, TX, 78746
+Gregory, Adam	$450	disposal president systems texas vice	Energy / Environment	Creedmoor, TX, 78610
+Moceri, Cioss	$450	estate group presidium real	Real Estate	Austin, TX, 78732
+Barlin, Peter	$450	3423 estate holdings real	Real Estate	Austin, TX, 78703
+Thurman, Trent	$450	austin professor ut	Education	Austin, TX, 78703
+Wolff, Leslie	$450	unemployed	Real Estate	Austin, TX, 78703
+Loewy, Adam	$450	attorney	Legal	Austin, TX, 78731
+Rose, Denise	$450	employed not	Real Estate	Austin, TX, 78702
+Russell, James	$450	director executive foundation lights of trail	Nonprofit / Advocacy	Austin, TX, 78704
+Hedrick, Thomas	$450	dillon investor joyce	Real Estate	Austin, TX, 78703
+Nassour, Jimmy	$450	attorney	Finance	Austin, TX, 78746
+Adler, Stephen	$450	mayor	Government	Austin, TX, 78701
+Marsh, Louisa	$450	caregiver primary	Education	Austin, TX, 78746
+Kazi, Fayez	$450	civilitude engineer	Engineering	Austin, TX, 78723
+Wahlberg, David	$450	attorney	Legal	Austin, TX, 78731
+Garza, Sarah	$450	at manager project t	Technology	Round Rock, TX, 78681
+Kumar, Hema	$450	homemaker	Construction	West Lake Hills, TX, 78746
+Whitt, Chris	$450	armbrust brown lawyer	Real Estate	Austin, TX, 78756
+DeBeauvoir, Dana	$450	retired	Government	Austin, TX, 78731
+Alam, Omar Jamil	$450	endeavor estate evp group real	Real Estate	Austin, TX, 78746
+Grooms, Katie	$450	professor southwestern university	Education	Austin, TX, 78746
+Davis, Darin	$450	capital club co founder	Finance	Austin, TX, 78738
+Leifer, Roger	$450	estate real	Real Estate	Miami Beach, FL, 33140
+Armstrong, Valerie	$450	community volunteer	Nonprofit / Advocacy	Austin, TX, 78701
+Esteves, Tara	$450	armbrust attorney brown	Real Estate	Austin, TX, 78704
+Older, Cory	$450	capital city developer partners river	Finance	Austin, TX, 78704
+Wolff, David	$450	attorney mwsw	Consulting / PR	Austin, TX, 78703
+Le, Lezlie	$450	developer development lt partners re	Construction	Austin, TX, 78752
+Cordero, Avery	$450	student		Austin, TX, 78731
+Lepore, Christopher	$450	estate real resources riverside	Real Estate	Austin, TX, 78746
+Reed, Kenley	$450	commercial estate presidium real	Real Estate	Austin, TX, 78751
+Poston, Bill	$450	box ceo launch		Austin, TX, 78701
+Deline, Steven	$450	unemployed	Engineering	Eugene, OR, 97405
+Phillips, Travis	$450	armbrust attorney brown	Real Estate	Austin, TX, 78701
+Harutunian, Vigain	$450	contractor engineers harutunian technical	Engineering	Austin, TX, 78714
+Bufkin, Benjamin	$450	endeavor estate real	Real Estate	Austin, TX, 78731
+Bavishi, Dipti	$450	physician	Healthcare	Houston, TX, 77042
+Hobbs, Jeff	$450	armbrust attorney brown	Real Estate	Austin, TX, 78756
+Hawkins, Mark	$450	armbrust attorney brown	Real Estate	Austin, TX, 78701
+Campos, Lorena	$450	affairs campos consulting government group	Consulting / PR	Austin, TX, 78702
+Taylor, Kimberly	$450	employed not	Real Estate	Austin, TX, 78726
+Flores, Maria Luisa	$450	attorney flores hendler law	Legal	Austin, TX, 78746
+Khanlari, Mahan	$450	studuent ut	Education	Austin, TX, 78705
+Taylor, Scott	$450	armbrust attorney brown	Real Estate	Austin, TX, 78726
+Forrest, Hugh	$450	event planner sxsw	Entertainment	Austin, TX, 78731
+Bekham, Kimberly	$450	armbrust attorney brown	Real Estate	Austin, TX, 78759
+Cobb, Gary	$450	attorney	Legal	Austin, TX, 78749
+Martinez, Debra	$450	amd assistant utive	Technology	Austin, TX, 78756
+Zavareh, Rahil	$450	company contractor hospitality	Construction	Austin, TX, 78701
+Scholl, Jennifer	$450	armbrust attorney brown	Real Estate	Austin, TX, 78731
+McGinnis, Wade	$450	barshop company estate oles real	Real Estate	Austin, TX, 78735
+McDaniel, Nathan	$450	manager proscalar	Government	Austin, TX, 78744
+Goll, Kurt	$450	jci president residential	Real Estate	Austin, TX, 78746
+Gottesman, Sandy	$450	estate real	Real Estate	Austin, TX, 78703
+Naranjo, Katie	$450	a care ceo health home pineywoods	Healthcare	Austin, TX, 78731
+Khataw, Ali	$450	encotech engineer	Engineering	Austin , TX, 78746
+McDaniel, Bailey	$450	austin counseling nutrition therapist	Healthcare	Austin, TX, 78744
+Ellis, Amy	$450	employed not	Real Estate	Austin, TX, 78746
+Gregorcyk, Jennifer	$450	apron food managing partner pr	Education	Austin, TX, 78756
+Williams, Mark	$450	retired	Education	Austin, TX, 78703
+Black, Michael	$450	hospitality	Hospitality / Events	Driftwood, TX, 78619
+Jordan, Frances	$450	consultant rifeline	Consulting / PR	Austin, TX, 78729
+Pielet, Uri	$450	brothers construction pielet		New York, TX, 10026
+Reese, Donald	$450	investments riverside	Real Estate	Austin, TX, 78746
+Crossley, Jay	$450	advocacy city farm nonprofit	Nonprofit / Advocacy	Austin, TX, 78752
+Bavishi, Anish	$450	broadview capital director managing	Finance	Houston, TX, 77042
+Hughes, Molly	$450	homemaker		Austin, TX, 78746
+Epstein, Aubrey	$450	employed not		Austin, TX, 78791
+Miller, Kristian	$450	endeavor estate evp group real	Real Estate	Austin, TX, 78746
+Valdez, Jerry	$450	consultant	Consulting / PR	Austin, TX, 78711
+Lepore, Melissa	$450	fly joe sales w	Construction	Austin, TX, 78746
