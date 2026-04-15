@@ -69,7 +69,8 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'ellis':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'harpermadison':[{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+    'harpermadison':[{'label': 'Initial Run',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
+                     {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
@@ -365,7 +366,7 @@ def generate(candidate_fragment: str, output_dir: str = "."):
     # All queries use this same WHERE clause
     BASE_WHERE = """
         cf.recipient LIKE ?
-        AND cf.contribution_year >= 2019
+        AND cf.contribution_year >= 2018
         AND COALESCE(cf.balanced_amount, cf.contribution_amount) > 0
     """
     base_params = (f"%{candidate_fragment}%",)
