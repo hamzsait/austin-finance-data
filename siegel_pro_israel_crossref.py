@@ -2,19 +2,23 @@
 Cross-reference Mike Siegel's donors against pro-Israel PAC donors.
 Fast version: fetches top N donors per committee and cross-references by name+zip.
 """
+import os
+import pathlib as _pathlib
 import requests
 import time
 import json
 import sys
 import io
 from collections import defaultdict
+from dotenv import load_dotenv
 
 try:
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 except (ValueError, AttributeError):
     pass
 
-API_KEY = "REDACTED_FEC_KEY_1"
+load_dotenv(_pathlib.Path(__file__).parent / ".env")
+API_KEY = os.getenv("FEC_API_KEY_1") or os.environ["FEC_API_KEY_1"]
 BASE = "https://api.open.fec.gov/v1"
 
 # How many pages per committee (100 per page)

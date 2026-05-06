@@ -12,11 +12,13 @@ Usage:
     python fec_enrich.py --reset      # clear fec_matched=1 flags (re-process all)
 """
 
-import sqlite3, re, sys, io, time, argparse, unicodedata
+import os, sqlite3, re, sys, io, time, argparse, unicodedata
+import pathlib as _pathlib
 from collections import deque
 from datetime import datetime, timezone
 import requests
 from rapidfuzz import fuzz
+from dotenv import load_dotenv
 
 try:
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
@@ -24,11 +26,11 @@ except (ValueError, AttributeError):
     pass
 
 # ── Config ─────────────────────────────────────────────────────────────────────
+load_dotenv(_pathlib.Path(__file__).parent / ".env")
 DB           = "austin_finance.db"
-FEC_API_KEYS = [
-    "REDACTED_FEC_KEY_1",
-    "REDACTED_FEC_KEY_2",
-]
+FEC_API_KEYS = [k for k in (os.getenv("FEC_API_KEY_1"), os.getenv("FEC_API_KEY_2")) if k]
+if not FEC_API_KEYS:
+    raise SystemExit("No FEC API keys in env. Set FEC_API_KEY_1 (and optionally FEC_API_KEY_2) in .env")
 FEC_API_KEY  = FEC_API_KEYS[0]  # kept for backward compat
 FEC_BASE     = "https://api.open.fec.gov/v1"
 TOP_N        = 2000
