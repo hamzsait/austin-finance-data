@@ -1,0 +1,500 @@
+Zaf, Tahir|77080|200|Self|Qadri, Zohaib|Houston, TX, 77080
+Yazen, Hamoudah|77904|200|Houston public media|Qadri, Zohaib|Victoria, TX, 77904
+Yacoub, Hayan|78733|200|Austin Regional Clinic|Qadri, Zohaib|Austin, TX, 78733
+Wright, Juanpablo|78757|200|Sailpoint|Siegel, Mike|Austin, TX, 78757
+Womack, Eva|78759|200|Retired|Qadri, Zohaib|Austin, TX, 78759
+Wittenbrook, Brian|78757|200|Apple Inc.|Siegel, Mike|Austin, TX, 78757-8238
+Wishnie, Jeffrey|97215|200|Zinc Collective|Qadri, Zohaib|Portland, OR, 97215
+Wimberley, Liza|78756|200|Self|Siegel, Mike|Austin, TX, 78756
+White, Kaiba|78741|200|Public Citizen|Siegel, Mike|Austin, TX, 78741
+Ward, Lorrayne|78702|200|Hazel Health|Siegel, Mike|Austin, TX, 78702
+Wandler, Annette|78757|200|Intel|Siegel, Mike|Austin, TX, 78757
+Vasquez, Alberto|78741|200|consultant|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78741
+Valenzuela, Candace|75287|200|Regional Administrator|Qadri, Zohaib|Dallas, TX, 75287
+Tetzlaff, Susanne|78731|200|Dr. Eric Tiblier/Cardiac Clniic|Qadri, Zohaib|Austin, TX, 78731
+Tamirisa, Padmini|78750|200|IBM|Qadri, Zohaib|Austin, TX, 78750
+Swan, Stephen|78738|200|Self Employed|Qadri, Zohaib|Austin, TX, 78738
+Stein, Jay|78759|200|Not Employed|Siegel, Mike|Austin, TX, 78759
+Smith, Jeremy|78723|200|Civitech|Qadri, Zohaib|Austin, TX, 78723
+Rosenthal, Courtney|78757|200|Commscope|Siegel, Mike|Austin, TX, 78757
+Roquemore, A.L.|78701|200|Not Employed|Qadri, Zohaib|Austin, TX, 78701
+Roa, Ruby|78704|200|Not Employed|Siegel, Mike|Austin, TX, 78704
+Riley, Walter|94618|200|self|Siegel, Mike|Oakland, CA, 94618
+Richard, Victor|78731|200|Self Employed|Qadri, Zohaib|Austin, TX, 78731
+Ric, Galvan|78251|200|Texas Freedom Network|Qadri, Zohaib|San Antonio, TX, 78251
+Reid, Mason|78741|200|Blue Victory Communnnications|Qadri, Zohaib|Austin, TX, 78741
+Pritchard, Caleb|78701|200|City of Austin|Qadri, Zohaib|Austin, TX, 78701
+Philips, Jerry|78746|200|Self|Qadri, Zohaib|Austin, TX, 78746
+Peterson, Michael|78758|200|Oracle America Inc.|Siegel, Mike|Austin, TX, 78758
+Orhan, Necip|78717|200|Raindrop Foundation|Qadri, Zohaib|Austin, TX, 78717
+Naveed, Klair|75062|200|Self employed|Qadri, Zohaib|Irving, TX, 75062
+Naranjo, Mary|78731|200|A Pineywoods home health care Inc|Qadri, Zohaib|Austin, TX, 78731
+Nalluri, Srikar|77389|200|University of Texas at Austin|Siegel, Mike|Spring, TX, 77389
+Najam, Mohammedy|77055|200|Infants and Children's Clinic|Qadri, Zohaib|Houston, TX, 77055
+Nachbar, Michael|78757|200|SHI International|Siegel, Mike|Austin, TX, 78757
+Mulugheta, Abel|75201|200|Self|Qadri, Zohaib|Dallas, TX, 75201
+Morton, Angela|78757|200|Not Employed|Siegel, Mike|Austin, TX, 78757
+Monning, William|93942|200|Self-employed|Siegel, Mike|Monterey, CA, 93942
+Mohamed, Sameer|78705|200|Merck & Co. Inc.|Qadri, Zohaib|Austin, TX, 78705
+Mock, Nelson|78757|200|Texas RioGrande Legal Aid|Siegel, Mike|Austin, TX, 78757
+Mehdy, Mona|78727|200|University of Texas at Austin|Siegel, Mike|Austin, TX, 78727
+Mccool, Kira|78703|200|Teladoc|Qadri, Zohaib|Austin, TX, 78703
+McKenzie, JoAnn|78731|200|Not Employed|Siegel, Mike|Austin, TX, 78731-6080
+Manzar, Aizaz|78717|200|aws|Siegel, Mike|Austin, TX, 78717
+Lindauer, Jared|78722|200|Lindauer Law Group PLLC|Qadri, Zohaib|Austin, TX, 78722
+Libal, Melissa|78731|200|Retired|Siegel, Mike|Austin, TX, 78731
+Lahr, Jeffrey|78704|200|Slate Real Estate Partners|Qadri, Zohaib|Austin, TX, 78704
+Kusin, Betsy|77096|200|Baylor College of Medicine|Siegel, Mike|Houston, TX, 77096
+Kumar, Naresh|78731|200|Not Employed|Qadri, Zohaib|Austin, TX, 78731
+Krausse, Jean|78731|200|Frontier Energy|Siegel, Mike|Austin, TX, 78731
+Kolko, Tom|78732|200|Not Employed|Qadri, Zohaib|Austin, TX, 78732
+Khan, Zeeshan|07001|200|HMHN|Qadri, Zohaib|Avenel, NJ, 07001
+Khan, Zafir|77077|200|Meta|Qadri, Zohaib|Houston, TX, 77077
+Keysor, Georgia|78757|200|Retired|Siegel, Mike|Austin, TX, 78757
+Kenny, Joseph|78723|200|Capital A Housing|Qadri, Zohaib|Austin, TX, 78723
+Jensen, Karyn|78757|200|Self-Employed|Siegel, Mike|Austin, TX, 78757
+Holcomb, Bennett|78739|200|Riverside|Qadri, Zohaib|Austin, TX, 78739
+Hill, Walter|78728|200|Closing Theory|Siegel, Mike|Austin, TX, 78728
+Hargrove, Mary|78759|200|Not Employed|Siegel, Mike|Austin, TX, 78759
+Hana, Moosa|76039|200|UT Southwestern|Qadri, Zohaib|Euless, TX, 76039
+Halpin, Margaret|78756|200|Texas CASA|Siegel, Mike|Austin, TX, 78756
+Garemko III, Michael|78749|200|Texas House of Representatives|Siegel, Mike|Austin, TX, 78749
+Ganguly, Ashika|78733|200|Transit Forward|Qadri, Zohaib|Austin, TX, 78733
+Foote, John|78723|200|Not Employed|Qadri, Zohaib|Austin, TX, 78723
+Fife, Carroll|94606|200|COO|Siegel, Mike|Oakland, CA, 94606
+Eder, Sam|78711|200|inKind|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78711
+Dunbar Ortiz, Roxanne|94109|200|Self|Siegel, Mike|San Francisco, CA, 94109
+Dreyfus, Mark|78701|200|md energy consulting llc|Qadri, Zohaib|Austin, TX, 78701
+Drenner, Cooper|78746|200|Wildhorn Capital|Qadri, Zohaib|Austin, TX, 78746
+Dowie, Anne|95472|200|Not Employed|Siegel, Mike|Sebastopol, CA, 95472
+Dougherty, Sheba|07748|200|Shore Simplicity|Qadri, Zohaib|Middletown, NJ, 07748
+Dison, Char|78751|200|Not Employed|Siegel, Mike|Austin, TX, 78751
+Dignan, Kathleen|78757|200|retired|Siegel, Mike|Austin, TX, 78757
+Dicarlo, Laura|78757|200|Austin ISD|Siegel, Mike|Austin, TX, 78757
+Debeauvoir, Dana|78722|200|Travis Counyt|Qadri, Zohaib|Austin, TX, 78722
+Dawer, Daniel|78757|200|Austin ISD|Siegel, Mike|Austin, TX, 78757
+Cuellar, Thomas|78757|200|OHT Partners|Siegel, Mike|Austin, TX, 78757
+Cotera, Martha|78704|200|ISD|Qadri, Zohaib|Austin, TX, 78704
+Cobb, Paul|94607|200|Not Employed|Siegel, Mike|Oakland, CA, 94607
+Castro, Nicole|78680|200|Metcalfe Wolff Stuart & Williams LLP|Qadri, Zohaib|Round Rock, TX, 78680
+Cakici, Sertac|78754|200|NV|Siegel, Mike|Austin, TX, 78754
+Buscaino, Joe|90732|200|Self|Qadri, Zohaib|Los Angeles, CA, 90732
+Brown, Robinson|94710|200|Retired|Siegel, Mike|Berkeley, CA, 94710
+Brown, E. Wayles|14850|200|Retired|Siegel, Mike|Ithaca, NY, 14850
+Brand, Jessica|78702|200|self|Qadri, Zohaib|Austin, TX, 78702
+Birring, Sameer|78723|200|Travis County Attorney's Office|Siegel, Mike|Austin, TX, 78723
+Bhagani, Faruk|77494|200|Oracle|Qadri, Zohaib|Katy, TX, 77494
+Beisner, Katharine|78757|200|FTC Solar|Siegel, Mike|Austin, TX, 78757
+Baltaji, Najad|78701|200|Apple|Qadri, Zohaib|Austin, TX, 78701
+Badran, Hazem|78726|200|TX DX Center|Qadri, Zohaib|Austin, TX, 78726
+Arevalo, Daniel|77006|200|Harris County Democratic Party|Qadri, Zohaib|Houston, TX, 77006
+Apodaca, Steven|78745|200|TSG Consulting|Qadri, Zohaib|Austin, TX, 78745
+Alt, Theresa|14850|200|Retired|Siegel, Mike|Ithaca, NY, 14850
+Abdullah, Masud|76116|200|Crayon Software Experts|Qadri, Zohaib|Fort Worth, TX, 76116
+Laura, Moser|77005|195|self|Qadri, Zohaib|Houston, TX, 77005
+Carroll, Rob|78757|195|Apple, Inc.|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78757-2734
+Korgel, Skyler|76085|187|Texas House of Representatives|Qadri, Zohaib|Weatherford, TX, 76085
+Oliver, Julie|78722|185|HCA|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78722
+Williams, Bradley|20009|183|Sierra Club|Qadri, Zohaib|Washington, DC, 20009
+Jessica, Rajs|78732|176|Titan|Qadri, Zohaib|Austin, TX, 78732
+Ullah, Rohail|77598|175|Not Employed|Qadri, Zohaib|Webster, TX, 77598
+Ryan, Nathan|78744|175|Toi Inc.|Qadri, Zohaib|Austin, TX, 78744
+Petersen, Susan|78757|175|Not Employed|Siegel, Mike|Austin, TX, 78757
+Pervez, Agwan|77006|175|Renewable Energy|Qadri, Zohaib|Houston, TX, 77006
+Nahas, Michael|78723|175|Self|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78723
+Kohli, Amrit|48220|175|Newcruit|Siegel, Mike|Ferndale, MI, 48220
+Hudson, Nicholas|78758|175|ACLU of Texas|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78758
+Graziani, Cate|78751|175|VOCAL-TX|Siegel, Mike|Austin, TX, 78751
+KEARNS, DIANE|78731|165|AT&T|Siegel, Mike|Austin, TX, 78731
+Skidmore, Danielle|78701|155|K Friese & Associates|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78701
+kumar, p|78759|150|UT Austin|Siegel, Mike|Austin, TX, 78759
+de Valpine, Eric|78704|150|Self Employed / Consultant & Partner|Qadri, Zohaib|Austin, TX, 78704
+Wilson, James Cole|78752|150|Texas House of Reps|Qadri, Zohaib|Austin, TX, 78752
+Vasquez, Skip|78741|150|consultant|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78741
+Treviño, Victoria|78756|150|self|Siegel, Mike|Austin, TX, 78756-3003
+Syed, Sanober|75240|150|Lions Gate|Qadri, Zohaib|Dallas, TX, 75240
+Spencer, Kelsey|78723|150|Austin Theatre Alliance|Siegel, Mike|Austin, TX, 78723
+Soltani, Paulette|78704|150|Vocal-tx|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78704
+Smith, Hank|78748|150|Atwell, LLC|Siegel, Mike|Austin, TX, 78748
+Singh, Dana|78731|150|Ssw|Siegel, Mike|Austin, TX, 78731
+Siegel, Victoria|11740|150|Professor|Siegel, Mike|Greenlawn, NY, 11740
+Satterfield, Jacob|19975|150|Friends of Doug Gansler|Qadri, Zohaib|Selbyville, DE, 19975
+Rockmore, Alicia|90048|150|Zinc Collective|Qadri, Zohaib|Los Angeles, CA, 90048
+Reiser, John|78701|150|Not Employed|Siegel, Mike|Austin, TX, 78701
+Raab, Kris|78757|150|CWA|Siegel, Mike|Austin, TX, 78757
+Powell, Adam|78757|150|Austin History Center Association|Qadri, Zohaib|Austin, TX, 78757
+Peticolas, Anne|78749|150|UT System|Siegel, Mike|Austin, TX, 78749
+Nevitt, Courtney|98501|150|Not Employed|Siegel, Mike|Olympia, WA, 98501
+Mills, Amber|90007|150|MOVE Texas|Qadri, Zohaib|Los Angeles, CA, 90007
+Mccarty, Jenneka|78757|150|Self|Siegel, Mike|Austin, TX, 78757
+Mayton, Emma Lea|78757|150|Retired|Siegel, Mike|Austin, TX, 78757
+Massey, Barry|78723|150|Chasesource|Qadri, Zohaib|Austin, TX, 78723
+Markham, Tyler|78741|150|Capital Area Food Bank of Texas|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78741
+Marissa, Hall|60091|150|American Institutes for Research|Qadri, Zohaib|Wilmette, IL, 60091
+Mallick, Abi|78723|150|Not Employed|Siegel, Mike|Austin, TX, 78723
+Lynch, Michele|78669|150|Metcalfe Wolff Stuart & Williams|Siegel, Mike,Qadri, Zohaib|Spicewood, TX, 78669
+Leon, Robin|78757|150|Aifs|Siegel, Mike|Austin, TX, 78757
+Kracht, Nicole|75070|150|Not employed|Qadri, Zohaib|Mckinney, TX, 75070
+Joseph, Christopher|78703|150|Riverside|Qadri, Zohaib|Austin, TX, 78703
+Hunt, Bruce|78756|150|University of Texas|Siegel, Mike|Austin, TX, 78756
+Hough, Cossy|78757|150|UT Austin|Siegel, Mike|Austin, TX, 78757
+Hellums, Mark|78759|150|Sachem inc|Siegel, Mike|Austin, TX, 78759
+Hassan, Sean|78757|150|TX Ed Partners|Qadri, Zohaib|Austin, TX, 78757
+Garza, Robert|78745|150|The Long Center|Qadri, Zohaib|Austin, TX, 78745
+Garza, Delia|78749|150|Travis County|Qadri, Zohaib|Austin, TX, 78749
+Dittmar, Christina|78704|150|Austin Community College|Qadri, Zohaib|Austin, TX, 78704
+D Gore, Sara|78756|150|University of Texas at Austin|Siegel, Mike|Austin, TX, 78756
+Cravey, Emma|78723|150|EarthShare Texas|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78723
+Cowles, Michael|78702|150|Equal Justice center|Siegel, Mike|Austin, TX, 78702
+Coldiron, Ron|78731|150|no more!|Siegel, Mike|Austin, TX, 78731
+Cannon, Tina|78704|150|Austin LGBT Chamber of Commerce|Qadri, Zohaib|Austin, TX, 78704
+Brooklynne, Mosley|66044|150|New Jersey State Democratic Committee|Qadri, Zohaib|Lawrence, KS, 66044
+Bolton, Richard|78758|150|Not Employed|Siegel, Mike|Austin, TX, 78758
+Baiza, Matthew|78250|150|NextGen America|Qadri, Zohaib|San Antonio, TX, 78250
+Alexander, Hannah|78723|150|Not Employed|Qadri, Zohaib|Austin, TX, 78723
+Abbyad, Chris|78735|150|UT austin|Siegel, Mike|Austin, TX, 78735
+Aarvig, Cindy|78602|150|IKEA|Siegel, Mike|Bastrop, TX, 78602
+Delaney, Davis|76051|147|Wilbanks CEASE Clinic|Qadri, Zohaib|Grapevine, TX, 76051
+syed, atheequr|75061|141|FlexEdge|Siegel, Mike|Irving, TX, 75061
+Kaya, Gultekin|78664|140|Harmony Public Schools|Qadri, Zohaib|Round Rock, TX, 78664
+Holly, Prendergast|78704|137|Beto for Texas|Qadri, Zohaib|Austin, TX, 78704
+Loy, Marcus|78750|135|Not Employed|Siegel, Mike|Austin, TX, 78750-3588
+Megan, Macias|78209|130|Texas organizing project|Qadri, Zohaib|San Antonio, TX, 78209
+McGiverin, Brian|78751|130|Austin community law center|Siegel, Mike|Austin, TX, 78751
+Lane, Emily|78727|130|TCEQ|Siegel, Mike|Austin, TX, 78727
+David, Voegtle|78725|130|The University of Texas at Austin|Qadri, Zohaib|Austin, TX, 78725
+Amerson, Kate|78751|130|Austin ISD|Siegel, Mike|Austin, TX, 78751
+Alaiyoubi, Samer|78665|130|Intel|Siegel, Mike|Round Rock, TX, 78665
+Kahle, Heidi|78751|129|Deloitte|Qadri, Zohaib|Austin, TX, 78751
+Yousafzai, Umer|78735|125|Apple|Siegel, Mike|Austin, TX, 78735
+Woods, Alice|78704|125|Saigebrook Development|Qadri, Zohaib|Austin, TX, 78704
+Wolaver, Joanna|78705|125|Employed|Qadri, Zohaib|Austin, TX, 78705
+Syed, Mukarram|78641|125|Amazon|Qadri, Zohaib|Leander, TX, 78641
+Smith, Dijaira|78756|125|Texas State Comptroller of Public Accounts|Siegel, Mike|Austin, TX, 78756
+Seifert, Claire|78723|125|CCS Fundraising|Qadri, Zohaib|Austin, TX, 78723
+Rizvi, Syeda|78660|125|Spring branch ISD|Qadri, Zohaib|Pflugerville, TX, 78660
+Rinaldi, Nina|78751|125|Shoal Creek Conservancy|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78751
+McKeen, Sarah|60622|125|Myself|Qadri, Zohaib|Chicago, IL, 60622
+Levinson, Adam|78701|125|Not Employed|Qadri, Zohaib|Austin, TX, 78701
+Hoke, Laura|78723|125|state of Texas|Qadri, Zohaib|Austin, TX, 78723
+Heathe Savoie, Seneca|78758|125|Texas freedom network|Siegel, Mike|Austin, TX, 78758
+Hartman, David|78703|125|Smith Robertson|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78703
+Gumbo, Judy|94702|125|Not Employed|Siegel, Mike|Berkeley, CA, 94702
+Cole, Wilson|78756|125|UT Austin|Qadri, Zohaib|Austin, TX, 78756
+Amenity J, Applewhite|78702|125|City of Austin|Qadri, Zohaib|Austin, TX, 78702
+Hairston, Andrew|78702|124|Texas Appleseed|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78702
+Yamna, Haider|77407|120|Not Employed|Qadri, Zohaib|Richmond, TX, 77407
+Wright, Matthew|78702|120|Self|Siegel, Mike|Austin, TX, 78702
+Rudow, Joshua|78723|120|City of Austin|Qadri, Zohaib|Austin, TX, 78723
+Bawany, Sara|75040|120|Facing Abuse in Community Environments|Qadri, Zohaib|Garland, TX, 75040
+John, McLees|60605|117|Not employed|Qadri, Zohaib|Chicago, IL, 60605
+Bhatt, Bhuvanesh|78210|116|Wolfram Research|Qadri, Zohaib,Siegel, Mike|San Antonio, TX, 78210
+westfall, jane|78704|115|Not Employed|Qadri, Zohaib|Austin, TX, 78704
+McClinton, Marcel|77043|115|Not Employed|Qadri, Zohaib|Houston, TX, 77043
+Dunne, Ian|78752|115|Civilitude|Qadri, Zohaib|Austin, TX, 78752
+Croissant, Adam|78758|115|Slalom Consulting|Siegel, Mike|Austin, TX, 78758
+Bradley, Paige|78704|115|City of Austin|Siegel, Mike|Austin, TX, 78704
+West, Grant|78746|110|Grant West|Siegel, Mike|Austin, TX, 78746
+Webb Carey, Isabel|78751|110|SCPG|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78751
+Smith, Richard|78751|110|Intel|Qadri, Zohaib|Austin, TX, 78751
+Nelson, Brenda|94605|110|Not Employed|Siegel, Mike|Oakland, CA, 94605
+Cuvillier, John|78748|110|UNITE HERE! Local 23|Siegel, Mike|Austin, TX, 78748
+Arn, Cody|78741|110|Stepstone Hospitality|Qadri, Zohaib|Austin, TX, 78741
+Allen, Kathryn|78756|110|Hilliard Shadowen LLP|Siegel, Mike|Austin, TX, 78756
+Reis, Bernardo|78726|109|ActBlue|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78726
+Zachary, Price|78757|107|Not Employed|Qadri, Zohaib|Austin, TX, 78757
+Goss, David|78704|107|Dell|Qadri, Zohaib|Austin, TX, 78704
+Hallmark, Chad|78703|106|OHT Partners, LLX|Siegel, Mike|Austin, TX, 78703
+Buchanan, Stephen|78731|106|United Properties|Siegel, Mike|Austin, TX, 78731
+Schrader, Kristi|29201|105|Richland County School District One|Qadri, Zohaib|Columbia, SC, 29201
+Marziani, Mimi|78704|105|Texas Civil Rights Project|Siegel, Mike|Austin, TX, 78704
+Gill, Malkit|78756|101|Not Employed|Siegel, Mike|Austin, TX, 78756
+lewinski, george|94705|100|Not Employed|Siegel, Mike|Berkeley, CA, 94705
+kazim, zain|78733|100|Amd|Siegel, Mike|Austin, TX, 78733
+jeffrey, wishnie|97215|100|Zinc Collective|Qadri, Zohaib|Portland, OR, 97215
+ewen, whitman|78745|100|Not Employed|Siegel, Mike|Austin, TX, 78745
+conlin, kathleen|78704|100|Not Employed|Qadri, Zohaib|Austin, TX, 78704
+Zehr, Erin|78757|100|Not Employed|Siegel, Mike|Austin, TX, 78757
+Zaidi, Danish|06511|100|Yale University|Qadri, Zohaib|New Haven, CT, 06511
+Zaidi, Afroz|18302|100|Not Employed|Qadri, Zohaib|Stroudsburg, PA, 18302
+Yousuf, Zaynah|77083|100|IZY Consultants LLC|Qadri, Zohaib|Houston, TX, 77083
+Youngdahl, Jay|77006|100|The Youngdahl Law Firm|Siegel, Mike|Houston, TX, 77006
+Yarnell, William|78701|100|Self|Qadri, Zohaib|Austin, TX, 78701
+Yancy, Max|78722|100|KOOP Radio 91.7 FM|Qadri, Zohaib|Austin, TX, 78722
+Y, Char|78751|100|Not Employed|Siegel, Mike|Austin, TX, 78751
+Wilson, Adam|78751|100|Griffin School|Qadri, Zohaib|Austin, TX, 78751
+Wickert, Julie|78757|100|H2O Partners Inc|Siegel, Mike|Austin, TX, 78757
+Whitehurst, Michael||100|Not employed|Siegel, Mike|Kyle, TX, 78640
+Wegmann, Jake|78757|100|University of Texas at Austin|Siegel, Mike|Austin, TX, 78757
+Wasserman, Steve|94708|100|Heyday|Siegel, Mike|Berkeley, CA, 94708
+Warford, Lucas D|78702|100|Luke Warford|Qadri, Zohaib|Austin, TX, 78702
+Warford, Lucas|78703|100|Self|Qadri, Zohaib|Austin, TX, 78703
+Walker, Adrian|78748|100|ClearBlade, Inc|Siegel, Mike|Austin, TX, 78748
+W WALKER, CLIFF|78701|100|Seeker Strategies|Qadri, Zohaib|Austin, TX, 78701
+Villalobos, Pedro|78745|100|Travis County Attorney’s Office|Qadri, Zohaib|Austin, TX, 78745
+Venkumahanti, Suresh|78701|100|Qualcomm|Siegel, Mike|Austin, TX, 78701
+Vela, Jose|78723|100|City of Austin|Qadri, Zohaib|Austin, TX, 78723
+Valenzuela, Angela|78704|100|University of Texas|Qadri, Zohaib|Austin, TX, 78704-4540
+Turner, David|90291|100|Turner|Siegel, Mike|Los Angeles County, CA, 90291
+Turk, Yasmin|78723|100|City of Austin|Qadri, Zohaib|Austin, TX, 78723
+Tsukahara, Roberta|78723|100|Not Employed|Qadri, Zohaib|Austin, TX, 78723
+Travers, Peter D|19129|100|Not Employed|Siegel, Mike|Philadelphia, PA, 19129
+Tran, Minh|78641|100|MEA Tran Enterprises|Qadri, Zohaib|Leander, TX, 78641
+Thomas, Sherine|78704|100|Travis county attorney office|Qadri, Zohaib|Austin, TX, 78704
+TIBLIER, ERIC|78705|100|ERIC TIBLIER MD PA|Qadri, Zohaib|Austin, TX, 78705
+Syed, Dan|75229|100|Sheppard Mullin|Qadri, Zohaib|Dallas, TX, 75229
+Swor, Amanda|78681|100|Drenner Group|Siegel, Mike,Qadri, Zohaib|Round Rock, TX, 78681
+Sun, Amy|78754|100|Daylight Labs Inc|Qadri, Zohaib|Austin, TX, 78754
+Strassburger, Trudy|78731|100|Travis County|Siegel, Mike|Austin, TX, 78731
+Strama, Thomas Mark|78731|100|UT|Qadri, Zohaib|Austin, TX, 78731
+Stevenson, Josiah|20009|100|Capital One Services LLC|Qadri, Zohaib|Washington, DC, 20009
+Sternfels, Melissa|77009|100|Conklin Sternfels Petty|Siegel, Mike|Houston, TX, 77009
+Stege, Suzanne|78731|100|Suzanne Stege|Siegel, Mike|Austin, TX, 78731
+Sokolic, Katherine|78723|100|Realty Austin|Qadri, Zohaib|Austin, TX, 78723
+Snelson, Karen|94803|100|Not employed|Siegel, Mike|El Sobrante, CA, 94803
+Smith, Emily|78701|100|City of Austin|Qadri, Zohaib|Austin, TX, 78701
+Smith, Curtis|78744|100|Texas House|Qadri, Zohaib|Austin, TX, 78744
+Slattery, James|78741|100|Texas Civil Rights Project|Qadri, Zohaib|Austin, TX, 78741
+Siddiqui, Sartaj|78641|100|JPS|Siegel, Mike|Leander, TX, 78641
+Shillington, Shawn|78703|100|Enverus|Qadri, Zohaib|Austin, TX, 78703
+Shahnawaz, Shahla|77099|100|Not Employed|Qadri, Zohaib|Houston, TX, 77099
+Sellers, Justin|78703|100|Comdata|Qadri, Zohaib|Austin, TX, 78703
+Schwart, Cynthia|78731|100|Garry Mauro|Qadri, Zohaib|Austin, TX, 78731
+Schulman, Miriam|90272|100|Not Employed|Qadri, Zohaib|Los Angeles, CA, 90272
+Schneider, Lisa|78752|100|Self|Siegel, Mike|Austin, TX, 78752
+Schear, Stephen|94610|100|Self|Siegel, Mike|Oakland, CA, 94610
+Saeed, Atif|78750|100|Tech|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78750
+Ruggero, Heather|78757|100|Not Employed|Siegel, Mike|Austin, TX, 78757
+Ronan, Daniel|78751|100|Austin History Center Association|Qadri, Zohaib|Austin, TX, 78751
+Ritts, Jim|78703|100|Austin Theatre Alliance|Qadri, Zohaib|Austin, TX, 78703
+Rhine, Barbara|94618|100|Not Employed|Siegel, Mike|Oakland, CA, 94618
+Reynolds, Cynthia|78704|100|self|Qadri, Zohaib|Austin, TX, 78704
+Reyes, Marina|78753|100|State of Texas|Siegel, Mike|Austin, TX, 78753
+Raza, Asma|63017|100|StL Medical Clinic|Qadri, Zohaib|Chesterfield, MO, 63017
+Rana, Haris|90015|100|Dignity health|Qadri, Zohaib|Fort Worth, CA, 90015
+Rajput, Sal|10550|100|Walison Corp.|Qadri, Zohaib|Mount Vernon, NY, 10550
+Qureshi, Nayeem|94517|100|Charles Schwab|Qadri, Zohaib|Clayton, CA, 94517
+Quindlen, Louis|94601|100|Peralta community college district|Siegel, Mike|Oakland, CA, 94601
+Quan, Jean|94602|100|Self employed|Siegel, Mike|Oakland, CA, 94602
+Powell, Golden Wade|78757|100|Travis County Parks|Siegel, Mike|Austin, TX, 78757
+Powell, Brian|78731|100|Stravaro LLC|Qadri, Zohaib|Austin, TX, 78731
+Popham, Jeffrey|78744|100|Choice Magazine Listening|Siegel, Mike|Austin, TX, 78744-4510
+Pillifant, Reid|78723|100|Haynes Boone|Siegel, Mike|Austin, TX, 78723
+Phenix, Linda|77042|100|Self-employed|Siegel, Mike|Houston, TX, 77042
+Perkins, Alexander|78701|100|LV Collective|Qadri, Zohaib|Austin, TX, 78701
+Perez, Justin|78723|100|UT Austin|Qadri, Zohaib|Austin, TX, 78723
+Palvino, TJ|78731|100|Self|Siegel, Mike|Austin, TX, 78731
+Padmanabha, Shweta|78613|100|SK Infotech|Qadri, Zohaib|Cedar Park, TX, 78613
+Ozair, Khan|77019|100|Alteryx|Qadri, Zohaib|Houston, TX, 77019
+Owen, Sean|78731|100|Databricks|Siegel, Mike|Austin, TX, 78731
+Osta, Luis|78746|100|Tarro|Qadri, Zohaib|Austin, TX, 78746
+Osama, Hassan|77901|100|Victoria Islamic Center|Qadri, Zohaib|Victoria, TX, 77901
+Olwell, Robert|78756|100|university of texas|Siegel, Mike|Austin, TX, 78756
+Olson, Kim|76068|100|Not Employed|Qadri, Zohaib|Wells, TX, 76068
+Odus, Evbagharu|77449|100|State of Texas|Qadri, Zohaib|Katy, TX, 77449
+Norris, Robert|78756|100|Not Employed|Siegel, Mike|Austin, TX, 78756
+Nirken, Howard|78701|100|Dubois Bryant & Campbell|Qadri, Zohaib|Austin, TX, 78701
+Nikore, Varun|22205|100|Red Fort Strategies|Qadri, Zohaib|Arlington, VA, 22205
+Neaves, Garrett|78748|100|NXP|Siegel, Mike|Austin, TX, 78748
+Nazor, Craig|78758|100|Not Employed|Siegel, Mike|Austin, TX, 78758-3762
+Nathani, Muhammed|77379|100|Kelsey Seybold|Qadri, Zohaib|Spring, TX, 77379
+Nath, Audrey|77019|100|Audrey Nath MD PLLC|Qadri, Zohaib|Houston, TX, 77019
+Nash, Max|92131|100|Sony Interactive Entertainment|Siegel, Mike|San Diego, CA, 92131
+Myra, Shaikh|78739|100|Life Time|Qadri, Zohaib|Austin, TX, 78739
+Murray, Ceci|60647|100|Songtradr Inc.|Siegel, Mike|Chicago, IL, 60647
+Muraj, Habeeba|78660|100|Real estate|Siegel, Mike|Pflugerville, TX, 78660
+Mouneimne, Mohamad|77094|100|Purifyou|Qadri, Zohaib|Houston, TX, 77094
+Mohammad, Saleem-Uddin|77498|100|Verizon|Qadri, Zohaib|Sugar Land, TX, 77498
+Mohammad, Farnaz|78746|100|Not Employed|Qadri, Zohaib|Austin, TX, 78746
+Michalka, Zachary|78702|100|Volusion|Siegel, Mike|Austin, TX, 78702
+Metzger, Luke|78702|100|Environment Texas|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78702
+Menefee, Christian|77004|100|Harris County|Qadri, Zohaib|Houston, TX, 77004
+McIntosh-Doty, Mikail|78757|100|Not Employed|Siegel, Mike|Austin, TX, 78757
+McHorse, Catherine|78731|100|Not Employed|Qadri, Zohaib|Austin, TX, 78731
+Maxwell, Nora|78704|100|Self Employed|Qadri, Zohaib|Austin, TX, 78704
+Matson, Elizabeth|95959|100|State of Ca|Siegel, Mike|Nevada City, CA, 95959
+Masood, Fahad|78754|100|Analog Devices|Siegel, Mike|Austin, TX, 78754
+Mashhood, Mohammad|77450|100|ADM|Qadri, Zohaib|Katy, TX, 77450
+Martin, John|94618|100|IHSS Alameda County|Siegel, Mike|Oakland, CA, 94618
+Mann, Christine|78641|100|HCA CareNow|Siegel, Mike|Leander, TX, 78641
+Malik, Shahbaz|78738|100|HCA Physician Services|Siegel, Mike|Austin, TX, 78738
+Malik, Sameer|10019|100|Deloitte|Qadri, Zohaib|Manhattan, NY, 10019
+Mahmoud, Ahmed|78681|100|DEDE Management Services, Inc.|Siegel, Mike|Round Rock, TX, 78681
+Madaninejad, Banafsheh|78748|100|ACC Bulbul Collective Progressives for Iranian Democracy|Siegel, Mike|Austin, TX, 78748
+Maas, William|78745|100|Maas Verde Landscape Restoration|Qadri, Zohaib|Austin, TX, 78745
+M Strama, Thomas|78731|100|UT Austin|Qadri, Zohaib|Austin, TX, 78731
+Lovelace, Paul|78757|100|Self|Siegel, Mike|Austin, TX, 78757
+Lockhart, Kurt|78721|100|Raise Your Hand Texas|Qadri, Zohaib|Austin, TX, 78721
+Liu, Fenyong|94708|100|University of California at Berkeley|Siegel, Mike|Berkeley, CA, 94708
+Lino, Mendiola|78701|100|Eversheds Sutherland|Qadri, Zohaib|Austin, TX, 78701
+Levy, Rose|78723|100|CWA|Siegel, Mike|Austin, TX, 78723
+Lee, Nicole|94619|100|Movement Strategy Center|Siegel, Mike|Oakland, CA, 94619
+Lee, Brandon|78751|100|Sysco|Siegel, Mike|Austin, TX, 78751
+Lau, Roger|02145|100|US Senate|Qadri, Zohaib|Somerville, MA, 02145
+Langley, Lynn|78704|100|Not Employed|Qadri, Zohaib|Austin, TX, 78704
+Langenhop, Mary Lou|43019|100|Not Employed|Siegel, Mike|Fredericktown, OH, 43019
+Lane, Andrew|78701|100|Maynard Nexsen|Qadri, Zohaib|Austin, TX, 78701
+Landuyt, Noel|78703|100|UT Austin|Qadri, Zohaib|Austin, TX, 78703
+Labyer, Cris|77803|100|Texas A&M University|Siegel, Mike|Bryan, TX, 77803
+Labossiere, Pierre|94605|100|State of California|Siegel, Mike|Oakland, CA, 94605
+Kureshi, Zulfi|78759|100|USAA|Qadri, Zohaib|Austin, TX, 78759
+Kumar, Mina|78704|100|Self|Qadri, Zohaib|Austin, TX, 78704
+Ku, Ruby|78702|100|Aunt Bertha|Qadri, Zohaib|Austin, TX, 78702
+Kraus, Ashlee|78641|100|Literacy Coalition of Central Texas|Siegel, Mike|Leander, TX, 78641
+Kranz, Gail|85712|100|Self|Siegel, Mike|Tucson, AZ, 85712
+Kralj, Elliot|78701|100|Retired|Siegel, Mike|Austin, TX, 78701
+Kraft-Stolar, Tamar|11215|100|Tides/WJP|Siegel, Mike|Brooklyn, NY, 11215
+Kolenc, Michael|77007|100|Self|Qadri, Zohaib|Houston, TX, 77007
+Koch, Terry|94108|100|self|Siegel, Mike|San Francisco, CA, 94108
+Knutson, Richard|94610|100|Not Employed|Siegel, Mike|Oakland, CA, 94610
+Kitchen, Ann|78723|100|Self|Qadri, Zohaib|Austin, TX, 78723
+Kingston, Philip|75206|100|Kingston PLLC|Siegel, Mike|Dallas, TX, 75206
+Khan, Mir Murtuza|78729|100|BSAM|Siegel, Mike|Austin, TX, 78729
+Kent, Joseph|10038|100|Arcadia|Qadri, Zohaib|New York, NY, 10038
+Kennedy-Smith, Mary|78752|100|Not Employed|Siegel, Mike|Austin, TX, 78752
+Kelly, Pat|78723|100|Remagine Labs|Qadri, Zohaib|Austin, TX, 78723
+Katz-Brown, Jason|94801|100|Airbnb Inc.|Qadri, Zohaib|Richmond, CA, 94801
+Kathy, Lansford|46203|100|Not Employed|Qadri, Zohaib|Indianapolis, IN, 46203
+Karsan, Demor|77079|100|Not Employed|Qadri, Zohaib|Houston, TX, 77079
+Kamal, Farah|78738|100|Not Employed|Siegel, Mike|Austin, TX, 78738
+Joshi, Aditi|78759|100|kings antiques|Qadri, Zohaib|Austin, TX, 78759
+Johnson, Elizabeth|94706|100|Siegel, Yee, Brunner and Mehta|Siegel, Mike|Albany, CA, 94706
+Javeed, Bora|77054|100|Walmart|Qadri, Zohaib|Houston, TX, 77054
+Jamison, Charles|78757|100|Not Employed|Siegel, Mike|Austin, TX, 78757-2111
+Jaffer, Sadaf|08540|100|Princeton University|Qadri, Zohaib|Princeton, NJ, 08540
+Jacqueline, Curatola|78758|100|Texas House of Representatives|Qadri, Zohaib|Austin, TX, 78758
+Jackson, Joyce|78751|100|Self|Qadri, Zohaib|Austin, TX, 78751
+Jabbar, Samira|78759|100|Indeed|Siegel, Mike|Austin, TX, 78759
+Ismail, Sana|78665|100|Dept|Siegel, Mike|Round Rock, TX, 78665
+Ishmael, Ralph|78705|100|Self|Qadri, Zohaib|Austin, TX, 78705
+Iqbal, Cyrus|77429|100|Baylor College of Medicine|Qadri, Zohaib|Cypress, TX, 77429
+Imtiaz, Rahi|75006|100|self|Qadri, Zohaib|Carrollton, TX, 75006
+Hussaini, Thana|78759|100|Office of the Attorney General|Qadri, Zohaib|Austin, TX, 78759
+Hurko, Matt|78741|100|Riverside|Qadri, Zohaib|Austin, TX, 78741
+Hollins, Christopher|77004|100|City Of Houston|Qadri, Zohaib|Houston, TX, 77004
+Hodge, Gregory|94607|100|Brotherhood of Elders Network|Siegel, Mike|Oakland, CA, 94607
+Herlich, Jamie|78748|100|Zach Theatre|Qadri, Zohaib|Austin, TX, 78748
+Henderson, Wallace|78704|100|Not Employed|Qadri, Zohaib|Austin, TX, 78704
+Henderson, Ross|78703|100|Soah|Qadri, Zohaib|Austin, TX, 78703
+Hena, Rafiq|75063|100|AllSource PPS|Qadri, Zohaib|Irving, TX, 75063
+Heimsath, Ben|78723|100|Heimsath Architects|Qadri, Zohaib|Austin, TX, 78723
+Hassan, Aijaz|78664|100|NAMCC|Qadri, Zohaib|Round Rock, TX, 78664
+Harrell, Clayton|78704|100|Q2|Qadri, Zohaib|Austin, TX, 78704
+Harper, Trina|91708|100|Not Employed|Siegel, Mike|Chino, CA, 91708
+Hanna, Sandra|78729|100|Not Employed|Siegel, Mike|Austin, TX, 78729
+Hancock, Alan|29203|100|Pine Gate Renewables|Qadri, Zohaib|Columbia, SC, 29203
+Hah, Allen|78722|100|University of Texas|Qadri, Zohaib|Austin, TX, 78722
+Gross, Theresa|78757|100|Retired|Siegel, Mike|Austin, TX, 78757
+Griffith, Victoria|94618|100|Not Employed|Siegel, Mike|Oakland, CA, 94618
+Goodwin, Vikki|78739|100|Goodwin & Goodwin Real Estate|Qadri, Zohaib|Austin, TX, 78739
+Gooding, Margaret|78723|100|Planned Parenthood of Greater Texas|Siegel, Mike|Austin, TX, 78723
+Gonzalez, Cutter|78704|100|Welcoming Neighbors Network|Qadri, Zohaib|Austin, TX, 78704
+Gonzales-Dholakia, Gloria|78730|100|Jeremiah Program|Qadri, Zohaib|Austin, TX, 78730
+Gillett, Chris|78701|100|Treaty Oak Clean Energy|Qadri, Zohaib|Austin, TX, 78701
+Gillespie, Don|78756|100|Subvrsive|Siegel, Mike|Austin, TX, 78756
+Geruso, April|78723|100|ADG Resilience Consulting LLC|Qadri, Zohaib|Austin, TX, 78723
+George, William|78749|100|Keysight|Siegel, Mike|Austin, TX, 78749
+Garretson, Sean|78703|100|Pegasus|Qadri, Zohaib|Austin, TX, 78703
+Garemko, Michael|78749|100|State Rep. John Bryant|Siegel, Mike|Austin, TX, 78749
+Garcia-Olano, Diego|78751|100|Meta AI|Siegel, Mike|Austin, TX, 78751
+Garcia, Emmanuel|78747|100|Seeker Strategies|Qadri, Zohaib|Austin, TX, 78747
+Gandhi, Sushma|78703|100|Arkeion Partners|Siegel, Mike|Austin, TX, 78703
+Gambill, Lauren|78723|100|Dell Children's Medical Hospital|Qadri, Zohaib|Austin, TX, 78723
+Gaebler, Helen|78705|100|UTexas|Qadri, Zohaib|Austin, TX, 78705
+Freund, Michael|94611|100|self|Siegel, Mike|Oakland, CA, 94611
+French, Valerie|78727|100|Chamberlain McHaney, PC|Siegel, Mike|Austin, TX, 78727
+Freeland, Joe|78723|100|Mathews & Freeland LLP|Qadri, Zohaib|Austin, TX, 78723
+Franco, Samuel|78741|100|Self|Qadri, Zohaib|Austin, TX, 78741
+Fowler, Kelley|78749|100|KFM Engineering & Design|Siegel, Mike|Austin, TX, 78749
+Fowler, Joseph|78738|100|Homebuilder|Siegel, Mike|The Hills, TX, 78738
+Figueroa, Sarah|78723|100|The Davis Group|Qadri, Zohaib|Austin, TX, 78723
+Feronti, Craig|75093|100|Self|Siegel, Mike|Plano, TX, 75093
+Farrell, Noreen|94114|100|Equal Rights Advocates|Siegel, Mike|San Francisco, CA, 94114
+FURQAN, AZHAR|75074|100|Azhar & Azhar Law Firm|Qadri, Zohaib|Plano, TX, 75074
+Escobar, Rony|77015|100|Harris County District Clerk|Qadri, Zohaib|Houston, TX, 77015
+Downing, Thomas|78748|100|Not Employed|Siegel, Mike|Austin, TX, 78748
+Dick, Daniel|78727|100|Gandhi For Texas|Qadri, Zohaib|Austin, TX, 78727
+DiPego, Gerald|93463|100|Not Employed|Siegel, Mike|Solvang, CA, 93463
+Delp, Bo|78723|100|Fair Shot Texas|Siegel, Mike|Austin, TX, 78723
+De Leon, Alan|77034|100|MOVE Texas|Siegel, Mike|Houston, TX, 77034
+Davis, Morgan|78756|100|Travis County District.Attorneys office|Qadri, Zohaib|Austin, TX, 78756
+Davis, Jill|78756|100|Not Employed|Siegel, Mike|Austin, TX, 78756
+Dasgupta, Sumit|78759|100|Not Employed|Qadri, Zohaib|Austin, TX, 78759
+Daphnis, Jonel|70116|100|self employed|Siegel, Mike|New Orleans, LA, 70116
+Dalia, Abdelhalim Kasseb|77584|100|Pyramids Pharmacy|Qadri, Zohaib|Pearland, TX, 77584
+Curry, John|78756|100|Escobedo Group|Siegel, Mike|Austin, TX, 78756
+Crow, Jeff|78757|100|GitLab|Qadri, Zohaib|Austin, TX, 78757
+Creamer, Henry|78759|100|Amazon|Qadri, Zohaib|Austin, TX, 78759
+Corum, Claudia|78749|100|Not Employed|Siegel, Mike|Austin, TX, 78749
+Coady, Lucy|78723|100|Evergreen Strategy Group|Qadri, Zohaib|Austin, TX, 78723
+Clay, Adrianne|78746|100|Primizie Catering|Qadri, Zohaib|Austin, TX, 78746
+Clark, cari|78703|100|Sotheby's|Siegel, Mike|Austin, TX, 78703
+Claire Somers, Susan|78758|100|The University of Texas at Austin|Siegel, Mike|Austin, TX, 78758
+Cash, Robert|78754|100|Citizens Trade Campaign|Siegel, Mike|Austin, TX, 78754
+Cardone, Anthony|78723|100|Zilliant|Qadri, Zohaib|Austin, TX, 78723
+Byrne, Dan|78701|100|Fritz Byrne, PLLC|Siegel, Mike|Austin, TX, 78701
+Byrne, Conor|78704|100|Austin Pickle Ranch|Qadri, Zohaib|Austin, TX, 78704
+Burridge, Anne|78717|100|Austin Opera|Qadri, Zohaib|Austin, TX, 78717
+Buhman, Lindsay|78702|100|UT McCombs School of Business|Siegel, Mike|Austin, TX, 78702
+Buhler, Gail|78704|100|Education Austin|Siegel, Mike|Austin, TX, 78704
+Brown, Rob|94710|100|Self|Siegel, Mike|Berkeley, CA, 94710
+Bronner, Alix|78701|100|Texas Pediatric Society|Qadri, Zohaib|Austin, TX, 78701
+Bronner, Ali|78702|100|Texas Pediatric Society|Qadri, Zohaib|Austin, TX, 78702
+Brekke, David|94618|100|Not Employed|Siegel, Mike|Oakland, CA, 94618
+Brand, Shelley|78757|100|Creative Tonic|Siegel, Mike|Austin, TX, 78757
+Braden, Al|78731|100|Not Employed|Qadri, Zohaib|Austin, TX, 78731
+Boardman, John|78705|100|Expedia|Qadri, Zohaib|Austin, TX, 78705
+Blizzard, Michael|78745|100|Self|Qadri, Zohaib|Austin, TX, 78745
+Blackburn, Benjamin|78767|100|Blackburn Betts PLLC|Qadri, Zohaib|Austin, TX, 78767
+Bharucha, Cyrus|92129|100|Asml|Siegel, Mike|San Diego, CA, 92129
+Berghammer, Darlene|78731|100|Not Employed|Siegel, Mike|Austin, TX, 78731
+Bennett, Richard|78741|100|Not Employed|Qadri, Zohaib|Austin, TX, 78741
+Bellomy, Lauren|78757|100|UT System|Siegel, Mike|Austin, TX, 78757
+Bell-Cleveland, Millicent|94619|100|retired|Siegel, Mike|Oakland, CA, 94619
+Beaudet, Annick|78704|100|Annick Beaudet|Qadri, Zohaib|Austin, TX, 78704
+Baraty, Brian|78722|100|Buurst|Qadri, Zohaib|Austin, TX, 78722
+Arndt, Timothy|78751|100|1st Choice Energy|Qadri, Zohaib|Austin, TX, 78751
+Appleton, Elizabeth|78702|100|University of Texas|Qadri, Zohaib|Austin, TX, 78702
+Anwar, Sophia|75056|100|State of texas|Qadri, Zohaib|The Colony, TX, 75056
+Ali-Sullivan, Aidan|94612|100|Waymo|Qadri, Zohaib|Oakland, CA, 94612
+Alam, Tareen|78704|100|ChannelFore|Qadri, Zohaib|Austin, TX, 78704
+AlKhateeb, Dina|78738|100|Not Employed|Siegel, Mike|Austin, TX, 78738
+Ahmed, Syed|77070|100|U.S. Dep't of Homeland Security|Qadri, Zohaib|Houston, TX, 77070
+Ahmed, Farah|78750|100|Self|Siegel, Mike|Austin, TX, 78750
+Ahmed, Ali|75042|100|H-E-B|Qadri, Zohaib|Garland, TX, 75042
+Ahmed Khan, Rumi|78732|100|Orlando Health|Qadri, Zohaib|Austin, TX, 78732
+Ahmad, Alaswad|77578|100|FBC|Qadri, Zohaib|Manvel, TX, 77578
+Ahlquist, Joseph|78757|100|Cisco Systems|Siegel, Mike|Austin, TX, 78757
+Abusali, Aminah|78653|100|Central Health|Qadri, Zohaib|Manor, TX, 78653
+Abedin, Shahreen|78749|100|Self|Qadri, Zohaib|Austin, TX, 78749
+Abbyad, Christine|78735|100|UT Austin|Siegel, Mike|Austin, TX, 78735
+Abbott, Sean|78749|100|Armbrust & Brown, PLLC|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78749
+Rice, Judah|78752|99|Zo For Austin|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78752
+McCartney, Mark|78704|96|ARM|Siegel, Mike|Austin, TX, 78704
+Breton, Peter|78746|95|CapMetro|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78746
+Gharakhanian, Stephanie|78758|94|Travis County|Siegel, Mike|Austin, TX, 78758
+Duhon, Kolby|78723|91|Travis county|Qadri, Zohaib,Siegel, Mike|Austin, TX, 78723
+Wajiha, Rizvi|78702|90|Not Employed|Qadri, Zohaib|Austin, TX, 78702
+Rashid, Naveera|78642|90|OneTrust|Qadri, Zohaib|Liberty Hill, TX, 78642
+Malik, Usama|78758|90|Austin Seminary|Qadri, Zohaib|Austin, TX, 78758
+Voellinger, Catina|78748|90|Ground Game Texas|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78748
+Anwar, Fawaz|75010|89|Matthew Dowd|Qadri, Zohaib|Carrollton, TX, 75010
+Khan, Abdur|77498|89|none|Qadri, Zohaib|Houston, TX, 77498
+Fischer, Huey Rey|78212|87|Jackson Walker LLP|Qadri, Zohaib|San Antonio, TX, 78212
+Williams, Elizabeth|88310|85|Not Employed|Siegel, Mike|Alamogordo, NM, 88310
+Jennifer, Ramos|78741|85|Travis County|Qadri, Zohaib|Austin, TX, 78741
+Drake, Daniel|94941|83|none|Siegel, Mike|Mill Valley, CA, 94941
+hatem, Natsheh|78739|82|Self|Qadri, Zohaib|Austin, TX, 78739
+Pastor, Laura|78732|82|Self|Qadri, Zohaib|Austin, TX, 78732
+Moody, Andrew|46220|82|US Army|Qadri, Zohaib|Indianapolis, IN, 46220
+Miller, Kris|78746|82||Qadri, Zohaib|Austin, TX, 78746
+Marsh, Louisa|78746|82|Self Employed|Qadri, Zohaib|Austin, TX, 78746
+Marsh, Jennifer|78703|82||Qadri, Zohaib|Austin, TX, 78703
+Ellis, Amy|78746|82||Qadri, Zohaib|Austin, TX, 78746
+Cody, Madeleine|78703|82|Not Employed|Qadri, Zohaib|Austin, TX, 78703
+Beach, Paul|19143|82|BronxCare Health System|Siegel, Mike|Philadelphia, PA, 19143
+Alam, Paige|78746|82||Qadri, Zohaib|Austin, TX, 78746
+Wall, Julie|78757|80|Not Employed|Siegel, Mike|Austin, TX, 78757
+Opp, Kevin|78746|80|MAP|Qadri, Zohaib|Austin, TX, 78746
+Logan, Martin|29445|80|Student|Qadri, Zohaib|Goose Creek, SC, 29445
+Hart, Mallory|78723|80|Travis County|Siegel, Mike,Qadri, Zohaib|Austin, TX, 78723

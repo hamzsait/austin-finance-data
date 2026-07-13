@@ -1,0 +1,100 @@
+Carranza, Susana|78701|850|Makel Engineering, Inc.|Chemical Engineer|Austin, TX, 78701
+Blue, Allen|90048|850|LinkedIn|Co-Founder|Los Angeles, CA, 90048
+Blackstock, Mary Alice|78704|850|Not Employed|Not Employed|Austin, TX, 78704
+Ahmed, Imad|78705|850|Self-employed|Consultant|Austin, TX, 78705
+Abdul, Abdi|78746|850|Austin charter services|Self employed|Austin, TX, 78746
+Yeager, Laura|78705|800|none|not employed|Austin, TX, 78705
+Siff, Ted|78701|800|Park Place Publications|Principal|Austin, TX, 78701
+Blair, Tanner|78723|800|Aliaro|Software Engineer|Austin, TX, 78723
+Sullivan, David|78703|750|The University of Texas at Austin|Research Associate|Austin, TX, 78703
+Sait, Esa|78741|750|Not Employed|Not Employed|Austin, TX, 78741
+Islam, Rashed|78732|750|HDR Engineering Inc.|Engineer|Austin, TX, 78732
+Garcia, Joe|78735|750|The Garcia Group|Self|Austin, TX, 78735
+Crossley, Jay|78752|750|Farm&City|Nonprofit Advocacy|Austin, TX, 78752
+Ajrami, Heidi|77905|750|Victoria College|Professor|Victoria, TX, 77905
+Imam, Taimeyah|78613|735|Unum|Consultant|Cedar Park, TX, 78613
+Floyd, John|77098|725|John T Floyd Law Firm|lawyer|Houston, TX, 77098
+Wu, Eugene|77081|700|Self Employed|Attorney / Texas State Rep. HD 137|Houston, TX, 77081
+Wallace, Brita|78704|700|Self real estate developer|Self real estate developer|Austin, TX, 78704
+Smith, Jacob|78745|700|Longleaf Consulting|Consultant|Austin, TX, 78745
+Shah, Fayyaz|78641|700|careerbuilder|Product manager|Leander, TX, 78641
+Schumann, Gary|78703|700|Self|Attorney|Austin, TX, 78703
+Rupani, Nasruddin|77036|700|Worlds Gold & Diamonds Inc|Business|Houston, TX, 77036
+Regina, Bailey|29229|700|Not Employed|Not Employed|Columbia, SC, 29229-8826
+Khawaja, Omar|77077|700|Law offices of Omar khawaja pllcp|Attorney|Houston, TX, 77077
+Khan, Afshan|78746|700|Self employed|Physician|Austin, TX, 78746
+Cofer, George|78746|700|hill country conservancy|CEO|Austin, TX, 78746
+Sait, Noor|78741|690|Schlumberger|Managing Director|Austin, TX, 78741
+Huynh, Jessica|78737|675|Travis County|Prosecutor|Austin, TX, 78737
+Eugene, Sepulveda|78705|675|Entrepreneurs Foundation|ceo|Austin, TX, 78705
+Mehdi, Syed|77408|655|Not Employed|Not Employed|Richmond, TX, 77408
+Trieu, Lily|78724|650|Asian Texans for Justice|Key Account Manager|Austin, TX, 78724
+Plummer, Letitia|77584|650|SELF|Dentist|Pearland, TX, 77584
+O'Connell, Jessica|20815|650|Not Employed|President|Chevy Chase, MD, 20815
+Lari, Waliya|78652|650|Asian American journalists association|Journalist|Manchaca, TX, 78652
+Kenda, Dawami|78723|650|Captial A|Principal|Austin, TX, 78723
+Gomez, Stephanie|77019|650|Uh|Student|Houston, TX, 77019
+Abrahim, Javed|77707|650|Riceland Healthcare|Not Employed|Beaumont, TX, 77707
+Siegel, Michael|78757|600|Ground Game Texas|Political Director|Austin, TX, 78757
+Siddiqi, Azra|78731|600|AT&T|Tax Policy Director|Austin, TX, 78731
+Pleuthner, Zain|75206|600|Not Employed|Not Employed|Dallas, TX, 75206
+O'Neal, Winston|78704|600|Winston O’Neal|Producer|Austin, TX, 78704
+Malik, Azhar|77904|600|VKD|MD|Victoria, TX, 77904
+Kazmi, Zain|78681|600|UT|Healthcare|Round Rock, TX, 78681
+Alaryan, Soubhi|78701|600|Not Employed|Not Employed|Austin, TX, 78701
+Ahluwalia, Saatvik|19144|600|Progress Texas|Digital Director|Philadelphia, PA, 19144
+Flores, Monica|78741|592|Idea Carver|Teacher|Austin, TX, 78741
+Kandalam, Arti|77479|587|Texas endovascular associates|Physician assistant|Sugar Land, TX, 77479
+Sabeera, Syeda|77375|582|Sonic Reference Laboratory|Not Employed|Tomball, TX, 77375
+Mehdi, Robina|77407|578|Fiducial business centers|Accounting|Richmond, TX, 77407
+Abdi, Mohammed|78746|575|Google|Sales|Austin, TX, 78746
+Sabbagh, Mohammed Hassan|78701|550|TOI|MD|Austin, TX, 78701
+Lasch, Megan|78731|550|O-SDA|Developer|Austin, TX, 78731
+Hatoum, Hind|78723|550|Not Employed|Not Employed|Austin, TX, 78723
+Hamilton, Latreshia|20015|550|U.S. House of Representatives|Attorney|Washingtonon, DC, 20015
+Boopalam, Aadhikesh|78705|550|Transport ATX LLC.|Business Owner|Austin, TX, 78705
+Ali, Rizvi|77479|550|Marsh USA|Marine Insurance|Sugarland, TX, 77479
+Abdi, Kareem|78746|550|Google|Sales|Austin, TX, 78746
+Sewell, Parker|78756|540|Deloitte|Consultant|Austin, TX, 78756
+Hesson, Shane|78733|527|endeavor real estate group|real estate|Austin, TX, 78733
+Kapadia, Anupama|78704|525|Community Care|Physician|Austin, TX, 78704
+Zubair, Khurram|19067|500|Capital health|Physician|Yardley, PA, 19067
+Wittstruck, Brendan|78751|500|Self|Urban Designer|Austin, TX, 78751
+Tabrizi, Saurah|78703|500|Self-Employed|Self-Employed|Austin, TX, 78703
+Seyar, Saima|77478|500|Self employed|Registered Interior designer|Sugar Land, TX, 77478
+Rocha, Charles|20003|500|solidarity|consultant|Washington, DC, 20003
+Munira, Bangee|77095|500|City of Houston|Chief of Staff|Houston, TX, 77095
+Moyer, William|78753|500|Civilitude|COO|Austin, TX, 78753
+Mermis, Jared|78739|500|Texas Global Equity|Managing Director|Austin, TX, 78739
+Contractor, Amatulla|77449|500|Not Employed|Not Employed|Katy, TX, 77449
+Choucair, Bassel|77584|500|UTH|IT|Pearland, TX, 77584
+Bell, Chris|77426|500|Patton Boggs|Lawyer|Chappell Hill, TX, 77426
+Nasrullah, Mohammed|77059|475|Not Employed|Project Manager|Houston, TX, 77059
+Huse, Kelsey|78705|475|realtor.com|Software Engineer|Austin, TX, 78705
+Burton, Charles|78704|470|Central Health|VP|Austin, TX, 78704
+moonesinghe, Jimol|78731|450|Not Employed|Not Employed|Austin, TX, 78731
+greissing, connor|78703|450|Brick Row|Real Estate|Austin, TX, 78703
+ferraro, Charles|78722|450|Self|Venue owner|Austin, TX, 78722
+Zavareh, Rahil|78701|450|Company|Hospitality|Austin, TX, 78701
+Zaman, Mona|77024|450|Law Office of Omar Khawaja|Manager|Houston, TX, 77024
+Yancy, Howard|78701|450|Zydeco|Real Estate|Austin, TX, 78701
+Xie, Selena|78721|450|ATCEMS|Paramedic|Austin, TX, 78721
+Winkelman, Marc|78744|450|Calendar Services Inc.|Executive|Austin, TX, 78744
+Wilson, Taylor|78730|450|Wilson Capital|Real Estate Developer|Austin, TX, 78730
+Wilson, Ross|78704|450|Self Employed|Architect|Austin, TX, 78704
+Wiley, Maria|78701|450|Not Employed|Not Employed|Austin, TX, 78701
+Whitt, Chris|78756|450|Armbrust & Brown PLLC|Lawyer|Austin, TX, 78756
+Whitt, Ashley|78756|450|Not Employed|Not Employed|Austin, TX, 78756
+Whitmire, John|77248|450|State of Texas|State Senator|Houston, TX, 77248
+Wheat, Brian|78721|450|Texas Legislative Council|Software developer|Austin, TX, 78721
+Whatley, Melba|78703|450|Clarite Holdings|investments|Austin, TX, 78703
+Welch, Parker|78731|450|City of Austin|Civil Engineer|Austin, TX, 78731
+Watson, Kirk|78751|450|City of Austin|Mayor|Austin, TX, 78751
+Wallis, Michelle|78723|450|APF|Non profit management|Austin, TX, 78723
+Wallace, Jonathan and Jana|78704|450|Not Employed|Not Employed|Austin, TX, 78704
+Vora, Manish|34638|450|Museum of Ice Cream|Business|Land O Lakes, FL, 34638
+Vohra, Faraz|78758|450|Shawarma Point|Founder|Austin, TX, 78758
+Vog, Wallace|78745|450|Retired|Retired|Austin, TX, 78745
+Turner, Scott|78731|450|Self|Home Builder|Austin, TX, 78731
+Tschoepe, Christian|78731|450|Zendesk|Software Developer|Austin, TX, 78731
+Tomlinson, Steven|78705|450|Seminary of the Southwest|assoc professor|Austin, TX, 78705

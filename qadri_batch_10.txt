@@ -1,0 +1,200 @@
+Lino, Mendiola|78701|100|Eversheds Sutherland|Lawyer|Austin, TX, 78701
+Lau, Roger|02145|100|US Senate|Congressional Aide|Somerville, MA, 02145
+Langley, Lynn|78704|100|Not Employed|Not Employed|Austin, TX, 78704
+Lane, Andrew|78701|100|Maynard Nexsen|Lawyer|Austin, TX, 78701
+Landuyt, Noel|78703|100|UT Austin|Administrator|Austin, TX, 78703
+Kureshi, Zulfi|78759|100|USAA|Product Mgmt Dir|Austin, TX, 78759
+Kumar, Mina|78704|100|Self|Consultant|Austin, TX, 78704
+Ku, Ruby|78702|100|Aunt Bertha|Director of Product|Austin, TX, 78702
+Kolenc, Michael|77007|100|Self|Consultant|Houston, TX, 77007
+Kitchen, Ann|78723|100|Self|Consultant|Austin, TX, 78723
+Kent, Joseph|10038|100|Arcadia|Senior Software Engineer|New York, NY, 10038
+Kelly, Pat|78723|100|Remagine Labs|CEO|Austin, TX, 78723
+Kaufman, Lisa|78731|100|Davis Kaufman|attorney|Austin, TX, 78731
+Katz-Brown, Jason|94801|100|Airbnb Inc.|Software engineer|Richmond, CA, 94801
+Kathy, Lansford|46203|100|Not Employed|Not Employed|Indianapolis, IN, 46203
+Kathleen, Clough|78644|100|Not Employed|Not Employed|Lockhart, TX, 78644
+Karsan, Demor|77079|100|Not Employed|Not Employed|Houston, TX, 77079
+Joshi, Aditi|78759|100|kings antiques|self employed|Austin, TX, 78759
+Javeed, Bora|77054|100|Walmart|Pharmacist|Houston, TX, 77054
+Jaffer, Sadaf|08540|100|Princeton University|Researcher|Princeton, NJ, 08540
+Jacqueline, Curatola|78758|100|Texas House of Representatives|Regional Canvassing Director|Austin, TX, 78758
+Jackson, Joyce|78751|100|Self|Database Administrator|Austin, TX, 78751
+Ishmael, Ralph|78705|100|Self|Lawyer|Austin, TX, 78705
+Iqbal, Cyrus|77429|100|Baylor College of Medicine|Physician|Cypress, TX, 77429
+Imtiaz, Rahi|75006|100|self|construction|Carrollton, TX, 75006
+Hussaini, Thana|78759|100|Office of the Attorney General|Attorney|Austin, TX, 78759
+Hurko, Matt|78741|100|Riverside|Real Estate Development|Austin, TX, 78741
+Hollins, Christopher|77004|100|City Of Houston|Controller|Houston, TX, 77004
+Herlich, Jamie|78748|100|Zach Theatre|Managing Director|Austin, TX, 78748
+Henderson, Wallace|78704|100|Not Employed|Not Employed|Austin, TX, 78704
+Henderson, Ross|78703|100|Soah|Alj|Austin, TX, 78703
+Hena, Rafiq|75063|100|AllSource PPS|Fellow|Irving, TX, 75063
+Heimsath, Ben|78723|100|Heimsath Architects|Architect|Austin, TX, 78723
+Hassan, Aijaz|78664|100|NAMCC|President|Round Rock, TX, 78664
+Hartnett, Lauren|78722|100|AusBos Social Housing|Mixed-Income Development|Austin, TX, 78722
+Harrell, Clayton|78704|100|Q2|Product Owner|Austin, TX, 78704
+Hancock, Alan|29203|100|Pine Gate Renewables|Senior Manager|Columbia, SC, 29203
+Hah, Allen|78722|100|University of Texas|Finance|Austin, TX, 78722
+Goodwin, Vikki|78739|100|Goodwin & Goodwin Real Estate|Real Estate Broker|Austin, TX, 78739
+Gonzalez, Cutter|78704|100|Welcoming Neighbors Network|Communications Strategist|Austin, TX, 78704
+Gonzales-Dholakia, Gloria|78730|100|Jeremiah Program|VP of Alumni & Public Policy|Austin, TX, 78730
+Gillett, Chris|78701|100|Treaty Oak Clean Energy|Market Analyst|Austin, TX, 78701
+Geruso, April|78723|100|ADG Resilience Consulting LLC|Principal|Austin, TX, 78723
+Garretson, Sean|78703|100|Pegasus|planner/developer|Austin, TX, 78703
+Garcia, Emmanuel|78747|100|Seeker Strategies|Co-Founder|Austin, TX, 78747
+Gambill, Lauren|78723|100|Dell Children's Medical Hospital|Pediatric Hospitalist|Austin, TX, 78723
+Gaebler, Helen|78705|100|UTexas|Research Attorney|Austin, TX, 78705
+Freeland, Joe|78723|100|Mathews & Freeland LLP|Attorney|Austin, TX, 78723
+Franco, Samuel|78741|100|Self|Consultant|Austin, TX, 78741
+Foerster, Sharon|78703|100|Not Employed|Not Employed|Austin, TX, 78703
+Figueroa, Sarah|78723|100|The Davis Group|Marketing|Austin, TX, 78723
+Fetonte, Barbara|78749|100|TWC|state worker|Austin, TX, 78749
+FURQAN, AZHAR|75074|100|Azhar & Azhar Law Firm|Attorney|Plano, TX, 75074
+Escobar, Rony|77015|100|Harris County District Clerk|Inventory Clerk|Houston, TX, 77015
+Eder, Sam|78711|100|InKind|Marketer|Austin, TX, 78711
+Dochen, Sandy|78731|100|Not Employed|Not Employed|Austin, TX, 78731
+Dick, Daniel|78727|100|Gandhi For Texas|Campaign Staffer|Austin, TX, 78727
+Davis, Morgan|78756|100|Travis County District.Attorneys office|Legal|Austin, TX, 78756
+Dasgupta, Sumit|78759|100|Not Employed|Not Employed|Austin, TX, 78759
+Dalia, Abdelhalim Kasseb|77584|100|Pyramids Pharmacy|Pharmacist|Pearland, TX, 77584
+Crow, Jeff|78757|100|GitLab|researcher|Austin, TX, 78757
+Creamer, Henry|78759|100|Amazon|Software Engineer|Austin, TX, 78759
+Cravey, Emma|78723|100|EarthShare Texas|Office Manager|Austin, TX, 78723
+Coady, Lucy|78723|100|Evergreen Strategy Group|Consultant|Austin, TX, 78723
+Clay, Adrianne|78746|100|Primizie Catering|Catering Manager|Austin, TX, 78746
+Castillo, Alycia|78702|100|Texas Civil Rights Project|Advocate|Austin, TX, 78702
+Cardone, Anthony|78723|100|Zilliant|Software Developer|Austin, TX, 78723
+Byrne, Conor|78704|100|Austin Pickle Ranch|Manager|Austin, TX, 78704
+Burridge, Anne|78717|100|Austin Opera|CEO|Austin, TX, 78717
+Bronner, Alix|78701|100|Texas Pediatric Society|Public Health Education Manager|Austin, TX, 78701
+Bronner, Ali|78702|100|Texas Pediatric Society|Public Health Manager|Austin, TX, 78702
+Bray, Timothy|78757|100|Not Employed|Not Employed|Austin, TX, 78757
+Braden, Al|78731|100|Not Employed|Not Employed|Austin, TX, 78731
+Boardman, John|78705|100|Expedia|Software developer|Austin, TX, 78705
+Blizzard, Michael|78745|100|Self|Producer|Austin, TX, 78745
+Blackburn, Benjamin|78767|100|Blackburn Betts PLLC|Attorney|Austin, TX, 78767
+Bennett, Richard|78741|100|Not Employed|Not Employed|Austin, TX, 78741
+Beaudet, Annick|78704|100|Annick Beaudet|consultant|Austin, TX, 78704
+Barrett, Tina|78756|100|self|self|Austin, TX, 78756
+Barg, Irl|78701|100|Not employed|Not employed|Austin, TX, 78701
+Baraty, Brian|78722|100|Buurst|Sales Manager|Austin, TX, 78722
+Bagh, Fares|78739|100|Not Employed|Not Employed|Austin, TX, 78739
+Arndt, Timothy|78751|100|1st Choice Energy|Owner|Austin, TX, 78751
+Appleton, Elizabeth|78702|100|University of Texas|Librarian|Austin, TX, 78702
+Anwar, Sophia|75056|100|State of texas|Chief of staff|The Colony, TX, 75056
+Ali-Sullivan, Aidan|94612|100|Waymo|Public Policy|Oakland, CA, 94612
+Alam, Tareen|78704|100|ChannelFore|Principal|Austin, TX, 78704
+Ahmed, Syed|77070|100|U.S. Dep't of Homeland Security|Immigration Officer|Houston, TX, 77070
+Ahmed, Ali|75042|100|H-E-B|Engineer|Garland, TX, 75042
+Ahmed Khan, Rumi|78732|100|Orlando Health|Physician|Austin, TX, 78732
+Ahmad, Alaswad|77578|100|FBC|Government|Manvel, TX, 77578
+Abusali, Aminah|78653|100|Central Health|Quality Program Specialist|Manor, TX, 78653
+Abedin, Shahreen|78749|100|Self|Communications Consultant|Austin, TX, 78749
+Bhatt, Bhuvanesh|78210|91|Wolfram Research|Software developer|San Antonio, TX, 78210
+Wajiha, Rizvi|78702|90|Not Employed|Not Employed|Austin, TX, 78702
+Rashid, Naveera|78642|90|OneTrust|Security Manager|Liberty Hill, TX, 78642
+Malik, Usama|78758|90|Austin Seminary|Student Program Coordinator|Austin, TX, 78758
+Anwar, Fawaz|75010|89|Matthew Dowd|Contractor|Carrollton, TX, 75010
+Khan, Abdur|77498|89|none|retired|Houston, TX, 77498
+Rice, Judah|78752|87|Zo For Austin|Policy and Communications Associate|Austin, TX, 78752
+Fischer, Huey Rey|78212|87|Jackson Walker LLP|Attorney|San Antonio, TX, 78212
+Duhon, Kolby|78723|86|Travis county|Court clerk|Austin, TX, 78723
+Jennifer, Ramos|78741|85|Travis County|Political Specialist|Austin, TX, 78741
+Hairston, Andrew|78702|84|Texas Appleseed|Project Director|Austin, TX, 78702
+hatem, Natsheh|78739|82|Self|Self emplyed|Austin, TX, 78739
+Pastor, Laura|78732|82|Self|Yoga Teacher|Austin, TX, 78732
+Moody, Andrew|46220|82|US Army|Soldier|Indianapolis, IN, 46220
+Miller, Kris|78746|82|||Austin, TX, 78746
+Marsh, Louisa|78746|82|Self Employed|Primary Caregiver|Austin, TX, 78746
+Marsh, Jennifer|78703|82|||Austin, TX, 78703
+Ellis, Amy|78746|82|||Austin, TX, 78746
+Cody, Madeleine|78703|82|Not Employed|Not Employed|Austin, TX, 78703
+Alam, Paige|78746|82|||Austin, TX, 78746
+Skidmore, Danielle|78701|80|Danielle Skidmore Consulting PLLC|Civil Engineer|Austin, TX, 78701
+Opp, Kevin|78746|80|MAP|Consultant|Austin, TX, 78746
+Oliver, Julie|78704|80|HCA|Division Controller|Austin, TX, 78704
+Logan, Martin|29445|80|Student|Student|Goose Creek, SC, 29445
+Gao, Connie|60647|80|ActBlue|Product Manager|Chicago, IL, 60647
+Syed, Bukhari|11360|75|New York City|City Employee|Bayside, NY, 11360
+Siddiqui, Shabab|20001|75|America Votes|National Data and Targeting Director|Washington, DC, 20001
+Sheets, Andrew|91303|75|Not Employed|Not Employed|Canoga Park, CA, 91303
+Saeed, Atif|78727|75|Amazon|Engineer|Austin, TX, 78727
+Reed, Emma|10583|75|Not Employed|Not Employed|Scarsdale, NY, 10583
+Ramsey, Nicholas|78701|75|ECPR Texas|Account Supervisor|Austin, TX, 78701
+Masood, Tariq|78733|75|AMD|Engineer|Austin, TX, 78733
+Lozano, Alesandra|94109|75|CACC|Voting Rights|San Francisco, CA, 94109
+Khan, Mariam|77479|75|GSD&M|Marketing Director|Sugar Land, TX, 77479
+Keshet, Daniel|78750|75|On Location|VP, Product Management|Austin, TX, 78750
+Ibrahim, Rashd|75231|75|King Country|Regional Organizing Director|Dallas, TX, 75231
+Hudson, Nicholas|78758|75|ACLU of Texas|Policy Strategist|Austin, TX, 78758
+Hook, Kristin|78212|75|Not Employed|Not Employed|San Antonio, TX, 78212
+Hartman, David|78703|75|Smith Robertson|Not Employed|Austin, TX, 78703
+Haider, Laghari|77007|75|HEAT Bootcamp|CEO|Houston, TX, 77007
+Guldager, Gloria|19038|75|Unitarian Universalist Association|Employer Liaison|Road Glenside, PA, 19038
+Graham, Larry|78757|75|Texas Gas Service|Public affairs|Austin, TX, 78757
+Gonzalez, Greg|78704|75|Not Employed|Real Estate|Austin, TX, 78704
+Gabriella, Zeidan|78723|75|Not Employed|Not Employed|Austin, TX, 78723
+Alsoudi, Obaida|77904|75|VISD|Teacher|Victoria, TX, 77904
+Ahmed, Farha|77479|75|Self|Atty|Sugar Land, TX, 77479
+Pena, Alejandro|78741|70|Texas AFT|Government Relations Specialist & Policy Analyst|Austin, TX, 78741
+Taha, Ali|77059|70|The advocates|Recruiter|Houston, TX, 77059
+Rauf, Manaal|76063|70|Not Employed|Not Employed|Mansfield, TX, 76063
+McArdle, Kathryn|78722|70|Civitech|Contractor|Austin, TX, 78722
+Killelea, Jacob|95062|70|Joby Aviation|Software Engineer|Santa Cruz, CA, 95062
+Gerbsch, Anna|30306|70|BattleAxe Digital|Digital Strategist|Atlanta, GA, 30306
+Reis, Bernardo|78726|67|ActBlue|State Outreach Associate|Austin, TX, 78726
+Chishtey, Maha|77498|65|Not Employed|Not Employed|Sugar Land, TX, 77498
+Bender, Jennie|78745|65|Made In|Trainer|Austin, TX, 78745
+Aron, Johnson|20002|65|Not Employed|Not Employed|Washington, DC, 20002
+Zubair, Sareena|19067|62|Danaher Lynch Services Foundation|Marketing Communications Associate|Yardley, PA, 19067
+Sinha, Reyhan|75093|60|TFN|Data Projects Manager|Plano, TX, 75093
+Marquez, Natalie|78552|60|Ground Game Texas|Server|Harlingen, TX, 78552
+Eshraghi, Selina|78733|60|Rosso & Flynn|Small Business Owner|Austin, TX, 78733
+Lopez, Ana|78723|55|Not Employed|Recruiting|Austin, TX, 78723
+Hart, Mallory|78723|55|Travis County|Project Manager|Austin, TX, 78723
+Roy, Woody|78744|54|AMD|Engineer|Austin, TX, 78744
+Rice, David|78704|51|Flow Studios|Media Producer|Austin, TX, 78704
+shereen, zaid|20009|50|NYC HHC|Logistics|Washington, DC, 20009
+Zaid, Shereen|20008|50|nyc hhc|logistics|Washington, DC, 20008
+Zaheer, Isra|78737|50|Self|Self Employed|Austin, TX, 78737
+Worthington, Matt|78744|50|Longevity Partners|Director, Data Science|Austin, TX, 78744
+Wojtewicz, Chrissy|78723|50|Thv|It|Austin, TX, 78723-4753
+Walker, Nathaniel|78752|50|Self|Lobbyist/ biz owner|Austin, TX, 78752
+Vormelker, Eric|78752|50|Texas Health and Human Services Commission|Technical Coordinator|Austin, TX, 78752
+Vawda, Sana|77041|50|Self|Counselor|Houston, TX, 77041
+Van Maanen, Cynthia|78704|50|Texas House of Representatives|Chief of Staff|Austin, TX, 78704
+Treiber, Andre|78660|50|Texas House of Representatives|Legislative Director|Austin, TX, 78660
+Toretto, Courtney|78736|50|Office of Congressman Lloyd Doggett|Outreach Coordinator|Austin, TX, 78736
+Thompson, Keira|34613|50|RLF|digital marketing|Brooksville, FL, 34613
+Taylor, May|78723|50|May Matson Taylor Ph.D. Psychologist|Psychologist|Austin, TX, 78723
+Tate, Kerry|78652|50|Not Employed|Not Employed|Manchaca, TX, 78652
+Tahir, Hassan|78660|50|Apple|Analyst|Pflugerville, TX, 78660
+Swor, Amanda|78681|50|Drenner Group|Director|Round Rock, TX, 78681
+Sweet, Catherine|65203|50|Not Employed|Not Employed|Columbia, MO, 65203
+Susan, Allison|77062|50|none|retired|Houston, TX, 77062
+Strub, Dan|78723|50|Austin Water|Business process analyst|Austin, TX, 78723
+Stone, Rachel|78702|50|GNDC|Lawyer|Austin, TX, 78702
+Soltani, Paulette|78704|50|Vocal-tx|Organizer|Austin, TX, 78704
+Smolen, Mark|78722|50|Not Employed|Not Employed|Austin, TX, 78722
+Simmons, Dedra|30815|50|Optimum Healthcare IT|Project Manager|Hephzibah, GA, 30815
+Shahid, Zainab|75039|50|TVA|Optometrist|Irving, TX, 75039
+Schulman, Peter|90027|50|Andrea Bowers|Artist Assistant|Los Angeles, CA, 90027
+Sari, Hakan|11726|50|Not Employed|Not Employed|Copiague, NY, 11726
+Samee, Ali|78736|50|Juniper Square Inc|Account Manager|Austin, TX, 78736
+Salem, M. Emad|76040|50|Sellstate Metro Realty|Realtor|Euless, TX, 76040
+Rizvi, Farhad|78751|50|Not Employed|Not Employed|Austin, TX, 78751
+Ray, John|78753|50|YouGov Blue|Polling director|Austin, TX, 78753
+Rashed, Shakeel|78732|50|Not Employed|Not Employed|Austin, TX, 78732
+Randolph, Barbara|78644|50|Not Employed|Not Employed|Lockhart, TX, 78644
+Rajs, Marc|78732|50|Blackbaud|Engineer|Austin, TX, 78732
+Quillen, Luke|29302|50|CRS|Consultant|Spartanburg, SC, 29302
+Qazi, Talal|76131|50|Nextep|IT Consultant|Fort Worth, TX, 76131
+Qazi, Saud|77024|50|QP|Sr. Analyst|Houston, TX, 77024
+Preece, Forrest|78701|50|self|free-lance writer|Austin, TX, 78701
+Pickard, Andrew|78757|50|Parker Hudson|Attorney|Austin, TX, 78757
+Peggy, Ugent|78703|50|Not Employed|Not Employed|Austin, TX, 78703
+Payan, Tony|77056|50|Rice University|Professor|Houston, TX, 77056
+Pardo, Jovita|78741|50|Attorney|Husch Blackwell LLP|Austin, TX, 78741
+Panzarella, Joseph|77019|50|Orsted|Data analyst|Houston, TX, 77019
+Pandit, Anaami|78613|50|Not Employed|Not Employed|Cedar Park, TX, 78613

@@ -1,0 +1,100 @@
+Syed, Sohail|77041|250|Self employed|Business|Cypress, TX, 77041
+Sultan, Usman|77339|250|Vital Foot & Ankle|Physician|Kingwood, TX, 77339
+Stern, Lonny|78745|250|Movability|Non-Profit|Austin, TX, 78745
+Soujani, Alinaghi|77079|250|Not Employed|Not Employed|Houston, TX, 77079
+Shere, Syed|77024|250|Self|Periodontist|Houston, TX, 77024
+Shay, Miya|77081|250|ABC13|Reporter|Houston, TX, 77081
+Sela, Melissa|78759|250|Not Employed|Not Employed|Austin, TX, 78759
+Schwartz, Cynthia|78731|250|Garry Mauro|Executive Assistant|Austin, TX, 78731
+Sana, Syed|75201|250|Nicholas Residential|Executive Vice President|Dallas, TX, 75201
+Samina, Salim|77494|250|UH|Professor|Katy, TX, 77494
+Salinas, James|78731|250|Texas House of Representatives|Legislative Director|Austin, TX, 78731
+Safady, Edward|78701|250|Prosperity Bank|Banker|Austin, TX, 78701
+Sabbagh, Sarah|98121|250|Amazon|Software development engineer|Seattle, WA, 98121
+Rogat, Edie|78703|250|Not Employed|Not Employed|Austin, TX, 78703
+Roessner, Judy|78746|250|Sixthriver Architects|Architect/Planner|Austin, TX, 78746
+Rizvi, Nausheen|77070|250|Enverus|Global Head of Corporate Development|Houston, TX, 77070
+Quan, Gordon|77056|250|Not Employed|Not Employed|Houston, TX, 77056
+Pollock, Ryan|78701|250|Big State Electric|electrician|Austin, TX, 78701
+Perez, Brittmarie|78746|250|Not Employed|Retired|Austin, TX, 78746
+Parvin, Mayukh|78732|250|HCA|Radiology Tech|Austin, TX, 78732
+Omar, Rachid|75087|250|Not Employed|Not Employed|Rockwall, TX, 75087
+Nisenson, Joshua|78745|250|Texas House Democratic Caucus|Communications Director|Austin, TX, 78745
+Natsheh, Hatem|78739|250|Self|Self emplyed|Austin, TX, 78739
+Nathani, Imran|77379|250|Self|Physician|Spring, TX, 77379
+Naranjo, Katie|78731|250|A Pineywoods home health care inc|CEO|Austin, TX, 78731
+Nabi, Rizwan|77034|250|Riz Energy|Chairman|Houston, TX, 77034
+Mubashir, Kamran|75013|250|Fundamental|Administrator|Allen, TX, 75013
+Mormon, David|78703|250|Caelus Energy LLC|Manager|Austin, TX, 78703
+Mohammed, Nasim|77581|250|Self|IT consultant|Pearland, TX, 77581
+Mohammed, Hindatu|78757|250|Allandale Veterinary Clinic|Veterinarian|Austin, TX, 78757
+Mills, Stephen|78731|250|Ballet Austin|Director|Austin, TX, 78731
+Michelle, Kleppe-Wellde|27608|250|Zinc Collective|Chief Strategy Officer|Raleigh, NC, 27608
+Menard, Brianna|78613|250|Texas House of Representatives|Chief of Staff|Cedar Park, TX, 78613
+Medicharla, Nagavalli|78729|250|Visa|IT Professional|Austin, TX, 78729
+McGuire, Ying|78701|250|NMSDC|Executive Management|Austin, TX, 78701
+McComb, Christopher|78751|250|AMC Design Group Inc.|Engineer|Austin, TX, 78751
+McComb, Angela|78751|250|Not Employed|Not Employed|Austin, TX, 78751
+Mauro, Kyle|78703|250|HillCo Partners|Consultant|Austin, TX, 78703
+Majeed, Halimah|78746|250|Not Employed|Not Employed|Austin, TX, 78746
+Mahmood, Alam|07095|250|Jersey heart center|Physician|Woodbridge, NJ, 07095
+Maebius, Andrew|78703|250|Riverside|Attorney|Austin, TX, 78703
+Linehan, Paul|78703|250|LSI|Land Planner|Austin, TX, 78703
+Limon, Lonnie|78704|250|Dieste Inc|Advertising|Austin, TX, 78704
+Leahy, Francesca|78704|250|Texas Blue Action|Organizer|Austin, TX, 78704
+Lal, Altaf|30345|250|Not Employed|Not Employed|Atlanta, GA, 30345
+Klein, Eric|78704|250|C3 Presents|Director|Austin, TX, 78704
+Kleberg, Jay|78704|250|Explore Ranches|Owner|Austin, TX, 78704
+Khan, Salwa|78723|250|Katie Kime Inc.|CFO|Austin, TX, 78723
+Khan, Maryum|77479|250|Capital One|Vice President|Sugar Land, TX, 77479
+Kenny, Conor|78723|250|Capital A Housing|Home builder|Austin, TX, 78723
+Kazmi, Syed|78641|250|Casco Bay Rehabilitation|Physician|Leander, TX, 78641
+Jawaid, Farooq|60611|250|Northern Trust Bank|Banking|Chicago, TX, 60611
+Javid, Sajal|77459|250|Alley Theatre|HR|Missouri City, TX, 77459
+Javed, Shahid|77024|250|Aimbridge|Supply Chain|Houston, TX, 77024
+Javed, Khadeja|77707|250|TetraTech|Project Manager|Beaumont, TX, 77707
+Izhar, Sohail|77479|250|Shell|Engineer|Sugar Land, TX, 77479
+Iqbal, Maliha|77389|250|Not Employed|Not Employed|Spring, TX, 77389
+Hussain, Mustafa|77479|250|Auto Thunder Sounds|Self employed|Sugar Land, TX, 77479
+Hatamleh, Fayez|77581|250|Fayez Law Group|Attorney|Pearland, TX, 77581
+Hassan, Lutfe|77074|250|Apex Group|Executive Director|Houston, TX, 77074
+Haque, Waqar|77057|250|Baylor|Physician|Houston, TX, 77057
+Hanif, Muhammad|77070|250|Not Employed|Not Employed|Houston, TX, 77070
+Hanafi, Anjum|78732|250|City of Austin|Planner|Austin, TX, 78732
+Halpern, Seth|78731|250|Embrace.ai|Software|Austin, TX, 78731
+Gregg, Aaron|78704|250|Balch & Bingham|Lawyer|Austin, TX, 78704
+Gottesman, Laura|78703|250|Gottesman Residential|Broker|Austin, TX, 78703
+Gonzales, Aaron|78705|250|Rubrik|Sales|Austin, TX, 78705
+Gomez, Cristina|78703|250|Self|Consultant|Austin, TX, 78703
+Glassco, Tim|78704|250|Cross Oak Group|Partner|Austin, TX, 78704
+Gillespie, Sharon|78703|250|Not Employed|part-time instructor|Austin, TX, 78703
+Ghwari, Fayez|77407|250|PH|Manager|Richmond, TX, 77407
+Felix, Lindsey|78731|250|Felix Media Solutions|CEO|Austin, TX, 78731
+Fear, Andrew|78613|250|Not Employed|Not Employed|Cedar Park, TX, 78613
+Farmahini, Brandon|78724|250|George P Johnson|Content project manager|Austin, TX, 78724
+Faizan, Haq|14221|250|SUNY College at Buffalo|Educator|Willimasville, NY, 14221
+Engineer, Habib|77024|250|Memorial Loop|Executive|Houston, TX, 77024
+Duval, Mark|78750|250|Gaacc|Manager|Austin, TX, 78750
+Durrani, Afaq|77024|250|None|Engineer (Retired)|Houston, TX, 77024
+Doggett, Robert|78756|250|TRLA|Executive Director|Austin, TX, 78756
+Dhillon, Rehman|77450|250|Shell|Analyst|Katy, TX, 77450
+DeBill, Valerie Merriam|78749|250|Not Employed|Not Employed|Austin, TX, 78749
+DeBeauvoir, Dana|78731|250|Not Employed|Not Employed|Austin, TX, 78731
+Coufal, Liz|78702|250|Valkyrie|VP|Austin, TX, 78702
+Cohen, Jessica|78741|250|Aspirus Inc|sr. network engineer|Austin, TX, 78741
+Cochinwala, Asif|77024|250|Asif Cochinwala|Physician|Houston, TX, 77024
+Chen, John|78702|250|Self|Real Estate|Austin, TX, 78702
+Cavazos, Perla|78702|250|Central Health|Deputy Administrator|Austin, TX, 78702
+Buchanon, Janelle|78701|250|Self Employed|Self Employed|Austin, TX, 78701
+Bryant, Randall|75201|250|Politics United Marketing|CEO|Dallas, TX, 75201
+Borenstein, Mark|78613|250|HDR|Engineer|Cedar Park, TX, 78613
+Bernhardt, Rebecca|78731|250|TX Physicians for Social Responsibility|Program Director|Austin, TX, 78731
+Benyousef, Fayruz|78738|250|FBC|Consultant|Austin, TX, 78738
+Beliveau, Catherine|78703|250|Not Employed|Not Employed|Austin, TX, 78703
+Baughman, Mary|78703|250|The University of Texas at Austin|Research Associate|Austin, TX, 78703
+Baaba, Masaud|77022|250|Tristar holdings inc|Businessman|Houston, TX, 77022
+Alyasin, Ahmad|77063|250|Optima Global Financial|Chairman and CEO|Houston, TX, 77063
+Ali, Iqbal|78731|250|Embark Energy|COO|Austin, TX, 78731
+Akhter, Sabrina|77479|250|Sunnova|Mgr financial reporting|Sugar Land, TX, 77479
+Agnew, Virginia|78703|250|Not Employed|Not Employed|Austin, TX, 78703
+Adnan, Rizvi|77479|250|Houston Methodist|Analyst|Sugar Land, TX, 77479

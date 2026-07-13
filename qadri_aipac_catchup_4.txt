@@ -1,0 +1,300 @@
+Syed, Sohail|77041|250|Self employed|Business|Cypress, TX, 77041
+Sultan, Usman|77339|250|Vital Foot & Ankle|Physician|Kingwood, TX, 77339
+Stern, Lonny|78745|250|Movability|Non-Profit|Austin, TX, 78745
+Soujani, Alinaghi|77079|250|Not Employed|Not Employed|Houston, TX, 77079
+Shere, Syed|77024|250|Self|Periodontist|Houston, TX, 77024
+Shay, Miya|77081|250|ABC13|Reporter|Houston, TX, 77081
+Sela, Melissa|78759|250|Not Employed|Not Employed|Austin, TX, 78759
+Schwartz, Cynthia|78731|250|Garry Mauro|Executive Assistant|Austin, TX, 78731
+Sana, Syed|75201|250|Nicholas Residential|Executive Vice President|Dallas, TX, 75201
+Samina, Salim|77494|250|UH|Professor|Katy, TX, 77494
+Salinas, James|78731|250|Texas House of Representatives|Legislative Director|Austin, TX, 78731
+Safady, Edward|78701|250|Prosperity Bank|Banker|Austin, TX, 78701
+Sabbagh, Sarah|98121|250|Amazon|Software development engineer|Seattle, WA, 98121
+Rogat, Edie|78703|250|Not Employed|Not Employed|Austin, TX, 78703
+Roessner, Judy|78746|250|Sixthriver Architects|Architect/Planner|Austin, TX, 78746
+Rizvi, Nausheen|77070|250|Enverus|Global Head of Corporate Development|Houston, TX, 77070
+Quan, Gordon|77056|250|Not Employed|Not Employed|Houston, TX, 77056
+Pollock, Ryan|78701|250|Big State Electric|electrician|Austin, TX, 78701
+Perez, Brittmarie|78746|250|Not Employed|Retired|Austin, TX, 78746
+Parvin, Mayukh|78732|250|HCA|Radiology Tech|Austin, TX, 78732
+Omar, Rachid|75087|250|Not Employed|Not Employed|Rockwall, TX, 75087
+Nisenson, Joshua|78745|250|Texas House Democratic Caucus|Communications Director|Austin, TX, 78745
+Natsheh, Hatem|78739|250|Self|Self emplyed|Austin, TX, 78739
+Nathani, Imran|77379|250|Self|Physician|Spring, TX, 77379
+Naranjo, Katie|78731|250|A Pineywoods home health care inc|CEO|Austin, TX, 78731
+Nabi, Rizwan|77034|250|Riz Energy|Chairman|Houston, TX, 77034
+Mubashir, Kamran|75013|250|Fundamental|Administrator|Allen, TX, 75013
+Mormon, David|78703|250|Caelus Energy LLC|Manager|Austin, TX, 78703
+Mohammed, Nasim|77581|250|Self|IT consultant|Pearland, TX, 77581
+Mohammed, Hindatu|78757|250|Allandale Veterinary Clinic|Veterinarian|Austin, TX, 78757
+Mills, Stephen|78731|250|Ballet Austin|Director|Austin, TX, 78731
+Michelle, Kleppe-Wellde|27608|250|Zinc Collective|Chief Strategy Officer|Raleigh, NC, 27608
+Menard, Brianna|78613|250|Texas House of Representatives|Chief of Staff|Cedar Park, TX, 78613
+Medicharla, Nagavalli|78729|250|Visa|IT Professional|Austin, TX, 78729
+McGuire, Ying|78701|250|NMSDC|Executive Management|Austin, TX, 78701
+McComb, Christopher|78751|250|AMC Design Group Inc.|Engineer|Austin, TX, 78751
+McComb, Angela|78751|250|Not Employed|Not Employed|Austin, TX, 78751
+Mauro, Kyle|78703|250|HillCo Partners|Consultant|Austin, TX, 78703
+Majeed, Halimah|78746|250|Not Employed|Not Employed|Austin, TX, 78746
+Mahmood, Alam|07095|250|Jersey heart center|Physician|Woodbridge, NJ, 07095
+Maebius, Andrew|78703|250|Riverside|Attorney|Austin, TX, 78703
+Linehan, Paul|78703|250|LSI|Land Planner|Austin, TX, 78703
+Limon, Lonnie|78704|250|Dieste Inc|Advertising|Austin, TX, 78704
+Leahy, Francesca|78704|250|Texas Blue Action|Organizer|Austin, TX, 78704
+Lal, Altaf|30345|250|Not Employed|Not Employed|Atlanta, GA, 30345
+Klein, Eric|78704|250|C3 Presents|Director|Austin, TX, 78704
+Kleberg, Jay|78704|250|Explore Ranches|Owner|Austin, TX, 78704
+Khan, Salwa|78723|250|Katie Kime Inc.|CFO|Austin, TX, 78723
+Khan, Maryum|77479|250|Capital One|Vice President|Sugar Land, TX, 77479
+Kenny, Conor|78723|250|Capital A Housing|Home builder|Austin, TX, 78723
+Kazmi, Syed|78641|250|Casco Bay Rehabilitation|Physician|Leander, TX, 78641
+Jawaid, Farooq|60611|250|Northern Trust Bank|Banking|Chicago, TX, 60611
+Javid, Sajal|77459|250|Alley Theatre|HR|Missouri City, TX, 77459
+Javed, Shahid|77024|250|Aimbridge|Supply Chain|Houston, TX, 77024
+Javed, Khadeja|77707|250|TetraTech|Project Manager|Beaumont, TX, 77707
+Izhar, Sohail|77479|250|Shell|Engineer|Sugar Land, TX, 77479
+Iqbal, Maliha|77389|250|Not Employed|Not Employed|Spring, TX, 77389
+Hussain, Mustafa|77479|250|Auto Thunder Sounds|Self employed|Sugar Land, TX, 77479
+Hatamleh, Fayez|77581|250|Fayez Law Group|Attorney|Pearland, TX, 77581
+Hassan, Lutfe|77074|250|Apex Group|Executive Director|Houston, TX, 77074
+Haque, Waqar|77057|250|Baylor|Physician|Houston, TX, 77057
+Hanif, Muhammad|77070|250|Not Employed|Not Employed|Houston, TX, 77070
+Hanafi, Anjum|78732|250|City of Austin|Planner|Austin, TX, 78732
+Halpern, Seth|78731|250|Embrace.ai|Software|Austin, TX, 78731
+Gregg, Aaron|78704|250|Balch & Bingham|Lawyer|Austin, TX, 78704
+Gottesman, Laura|78703|250|Gottesman Residential|Broker|Austin, TX, 78703
+Gonzales, Aaron|78705|250|Rubrik|Sales|Austin, TX, 78705
+Gomez, Cristina|78703|250|Self|Consultant|Austin, TX, 78703
+Glassco, Tim|78704|250|Cross Oak Group|Partner|Austin, TX, 78704
+Gillespie, Sharon|78703|250|Not Employed|part-time instructor|Austin, TX, 78703
+Ghwari, Fayez|77407|250|PH|Manager|Richmond, TX, 77407
+Felix, Lindsey|78731|250|Felix Media Solutions|CEO|Austin, TX, 78731
+Fear, Andrew|78613|250|Not Employed|Not Employed|Cedar Park, TX, 78613
+Farmahini, Brandon|78724|250|George P Johnson|Content project manager|Austin, TX, 78724
+Faizan, Haq|14221|250|SUNY College at Buffalo|Educator|Willimasville, NY, 14221
+Engineer, Habib|77024|250|Memorial Loop|Executive|Houston, TX, 77024
+Duval, Mark|78750|250|Gaacc|Manager|Austin, TX, 78750
+Durrani, Afaq|77024|250|None|Engineer (Retired)|Houston, TX, 77024
+Doggett, Robert|78756|250|TRLA|Executive Director|Austin, TX, 78756
+Dhillon, Rehman|77450|250|Shell|Analyst|Katy, TX, 77450
+DeBill, Valerie Merriam|78749|250|Not Employed|Not Employed|Austin, TX, 78749
+DeBeauvoir, Dana|78731|250|Not Employed|Not Employed|Austin, TX, 78731
+Coufal, Liz|78702|250|Valkyrie|VP|Austin, TX, 78702
+Cohen, Jessica|78741|250|Aspirus Inc|sr. network engineer|Austin, TX, 78741
+Cochinwala, Asif|77024|250|Asif Cochinwala|Physician|Houston, TX, 77024
+Chen, John|78702|250|Self|Real Estate|Austin, TX, 78702
+Cavazos, Perla|78702|250|Central Health|Deputy Administrator|Austin, TX, 78702
+Buchanon, Janelle|78701|250|Self Employed|Self Employed|Austin, TX, 78701
+Bryant, Randall|75201|250|Politics United Marketing|CEO|Dallas, TX, 75201
+Borenstein, Mark|78613|250|HDR|Engineer|Cedar Park, TX, 78613
+Bernhardt, Rebecca|78731|250|TX Physicians for Social Responsibility|Program Director|Austin, TX, 78731
+Benyousef, Fayruz|78738|250|FBC|Consultant|Austin, TX, 78738
+Beliveau, Catherine|78703|250|Not Employed|Not Employed|Austin, TX, 78703
+Baughman, Mary|78703|250|The University of Texas at Austin|Research Associate|Austin, TX, 78703
+Baaba, Masaud|77022|250|Tristar holdings inc|Businessman|Houston, TX, 77022
+Alyasin, Ahmad|77063|250|Optima Global Financial|Chairman and CEO|Houston, TX, 77063
+Ali, Iqbal|78731|250|Embark Energy|COO|Austin, TX, 78731
+Akhter, Sabrina|77479|250|Sunnova|Mgr financial reporting|Sugar Land, TX, 77479
+Agnew, Virginia|78703|250|Not Employed|Not Employed|Austin, TX, 78703
+Adnan, Rizvi|77479|250|Houston Methodist|Analyst|Sugar Land, TX, 77479
+Adair, Craig|78704|250|Open Road Renewables|project mgr|Austin, TX, 78704
+Smith, Brian|78728|235|joinunified.us|Sales|Austin, TX, 78728
+Riaz, Syed Kamran|77584|225|Rice University|Staff|Pearland, TX, 77584
+Riaz, Aisha|77584|225|HCA|Pharmacist|Pearland, TX, 77584
+Kaunain, Mehdi|08003|225|Comcast|Financial planning|Cherry Hill, NJ, 08003
+Mohammed, Ahmed|60457|220|Consulting|Consulting|Hickory Hills, IL, 60457
+Mehdi, Parissa|77469|220|EPIC|ClinDoc Analyst|Richmond, TX, 77469
+Brokaw, Steve|78751|215|Twocanoes Software Inc|Technical Writer|Austin, TX, 78751
+Jaime, Cassandra|78749|212|Vmware|Senior Product Manager|Austin, TX, 78749
+Deysarkar, Shion|78703|210|Datafiniti|CEO|Austin, TX, 78703
+Rivas, Steven|78704|209|Self-Employed|Consultant|Austin, TX, 78704
+sameena, karmally|75002|200|self|attorney|Allen, TX, 75002
+Zanjani, Navid|77007|200|Southern Blue Strategies|Consultant|Houston, TX, 77007
+Zaf, Tahir|77080|200|Self|Attorney|Houston, TX, 77080
+Yazen, Hamoudah|77904|200|Houston public media|Tech Assistant|Victoria, TX, 77904
+Yacoub, Hayan|78733|200|Austin Regional Clinic|Physician|Austin, TX, 78733
+Womack, Eva|78759|200|Retired|Retired|Austin, TX, 78759
+Wishnie, Jeffrey|97215|200|Zinc Collective|Managing director|Portland, OR, 97215
+Wallis, Colin|78723|200|APF|Nonprofit management|Austin, TX, 78723
+Walker, Heyden|78723|200|Black + Motal Architecture and Urban Design|Planner|Austin, TX, 78723
+Wald, Tom|78722|200|Red Line Parkway Initiative|Executive Director|Austin, TX, 78722
+Valenzuela, Candace|75287|200|Regional Administrator|Department of Housing and Urban Development|Dallas, TX, 75287
+Tetzlaff, Susanne|78731|200|Dr. Eric Tiblier/Cardiac Clniic|Practice manager|Austin, TX, 78731
+Tamirisa, Padmini|78750|200|IBM|Program Director|Austin, TX, 78750
+Swan, Stephen|78738|200|Self Employed|Investor|Austin, TX, 78738
+Smullen, Lily|78731|200|Not Employed|Not Employed|Austin, TX, 78731
+Smith, Jeremy|78723|200|Civitech|Technology|Austin, TX, 78723
+Sattar, Adnan|78746|200|Edtech Ventures|Entrepreneur|Austin, TX, 78746
+Roquemore, A.L.|78701|200|Not Employed|Not Employed|Austin, TX, 78701
+Richard, Victor|78731|200|Self Employed|IT Consultant|Austin, TX, 78731
+Ric, Galvan|78251|200|Texas Freedom Network|Campus Organizer|San Antonio, TX, 78251
+Reid, Mason|78741|200|Blue Victory Communnnications|Communications Consultant|Austin, TX, 78741
+Pritchard, Caleb|78701|200|City of Austin|Public Information Specialist|Austin, TX, 78701
+Philips, Jerry|78746|200|Self|Consultant|Austin, TX, 78746
+Orhan, Necip|78717|200|Raindrop Foundation|Executive Director|Austin, TX, 78717
+Naveed, Klair|75062|200|Self employed|Healthcare|Irving, TX, 75062
+Naranjo, Mary|78731|200|A Pineywoods home health care Inc|CEO|Austin, TX, 78731
+Najam, Mohammedy|77055|200|Infants and Children's Clinic|Physician|Houston, TX, 77055
+Mulugheta, Abel|75201|200|Self|Not employed|Dallas, TX, 75201
+Mohamed, Sameer|78705|200|Merck & Co. Inc.|Software Engineer|Austin, TX, 78705
+Mccool, Kira|78703|200|Teladoc|Product mgr|Austin, TX, 78703
+Lindauer, Jared|78722|200|Lindauer Law Group PLLC|Attorney|Austin, TX, 78722
+Lahr, Jeffrey|78704|200|Slate Real Estate Partners|Investor|Austin, TX, 78704
+Kumar, Naresh|78731|200|Not Employed|Not Employed|Austin, TX, 78731
+Kolko, Tom|78732|200|Not Employed|Not Employed|Austin, TX, 78732
+Khan, Zeeshan|07001|200|HMHN|IT Infrastructure Eng|Avenel, NJ, 07001
+Khan, Zafir|77077|200|Meta|Product Manager|Houston, TX, 77077
+Khan, Saira|78704|200|TRS|Lawyer|Austin, TX, 78704
+Kenny, Joseph|78723|200|Capital A Housing|Home builder|Austin, TX, 78723
+Kanawati, Diane|78750|200|Not Employed|Not Employed|Austin, TX, 78750
+Husain, Farooq|78720|200|Oracle|Senior Consulting Solutions Director|Austin, TX, 78720-2380
+Holcomb, Bennett|78739|200|Riverside|Partner|Austin, TX, 78739
+Hana, Moosa|76039|200|UT Southwestern|Medical Assistant|Euless, TX, 76039
+Ganguly, Ashika|78733|200|Transit Forward|Teacher|Austin, TX, 78733
+Foote, John|78723|200|Not Employed|Not Employed|Austin, TX, 78723
+Dreyfus, Mark|78701|200|md energy consulting llc|consultant|Austin, TX, 78701
+Drenner, Cooper|78746|200|Wildhorn Capital|Self Employed-Real Estate|Austin, TX, 78746
+Dougherty, Sheba|07748|200|Shore Simplicity|Small business owner|Middletown, NJ, 07748
+Debeauvoir, Dana|78722|200|Travis Counyt|County Clerk|Austin, TX, 78722
+Cotera, Martha|78704|200|ISD|Consultant|Austin, TX, 78704
+Castro, Nicole|78680|200|Metcalfe Wolff Stuart & Williams LLP|attorney|Round Rock, TX, 78680
+Buscaino, Joe|90732|200|Self|Consultant|Los Angeles, CA, 90732
+Brand, Jessica|78702|200|self|lawyer|Austin, TX, 78702
+Bhagani, Faruk|77494|200|Oracle|Sales Manager|Katy, TX, 77494
+Baltaji, Najad|78701|200|Apple|Engineer|Austin, TX, 78701
+Badran, Hazem|78726|200|TX DX Center|Healthcare|Austin, TX, 78726
+Arevalo, Daniel|77006|200|Harris County Democratic Party|Elections Coordinator|Houston, TX, 77006
+Apodaca, Steven|78745|200|TSG Consulting|Consultant|Austin, TX, 78745
+Alam, Bader|78704|200|Not Employed|Not Employed|Austin, TX, 78704
+Ahmed, Ammar|78735|200|Ascension|Physician|Austin, TX, 78735
+Abdullah, Masud|76116|200|Crayon Software Experts|Cloud Architect|Fort Worth, TX, 76116
+Laura, Moser|77005|195|self|writer|Houston, TX, 77005
+Korgel, Skyler|76085|187|Texas House of Representatives|Manufacturing Engineer|Weatherford, TX, 76085
+Williams, Bradley|20009|183|Sierra Club|Not Employed|Washington, DC, 20009
+Jessica, Rajs|78732|176|Titan|Recruiter|Austin, TX, 78732
+Ullah, Rohail|77598|175|Not Employed|Real estate agent|Webster, TX, 77598
+Ryan, Nathan|78744|175|Toi Inc.|CEO|Austin, TX, 78744
+Pervez, Agwan|77006|175|Renewable Energy|Project Manager|Houston, TX, 77006
+de Valpine, Eric|78704|150|Self Employed / Consultant & Partner|Foodshed Inventors|Austin, TX, 78704
+Wilson, James Cole|78752|150|Texas House of Reps|Lege Director|Austin, TX, 78752
+Terry, Kosobud|78749|150|Not Employed|Not Employed|Austin, TX, 78749
+Syed, Sanober|75240|150|Lions Gate|Broker|Dallas, TX, 75240
+Satterfield, Jacob|19975|150|Friends of Doug Gansler|Campaign Manager|Selbyville, DE, 19975
+Rockmore, Alicia|90048|150|Zinc Collective|President|Los Angeles, CA, 90048
+Powell, Adam|78757|150|Austin History Center Association|Executive Director|Austin, TX, 78757
+Mills, Amber|90007|150|MOVE Texas|Organizer|Los Angeles, CA, 90007
+Massey, Barry|78723|150|Chasesource|Consultant|Austin, TX, 78723
+Marissa, Hall|60091|150|American Institutes for Research|Research Associate|Wilmette, IL, 60091
+Kracht, Nicole|75070|150|Not employed|Not employed|Mckinney, TX, 75070
+Joseph, Christopher|78703|150|Riverside|Investor Developer|Austin, TX, 78703
+Hassan, Sean|78757|150|TX Ed Partners|Self-Employed|Austin, TX, 78757
+Garza, Robert|78745|150|The Long Center|Chief Program Officer|Austin, TX, 78745
+Garza, Delia|78749|150|Travis County|Attorney|Austin, TX, 78749
+Dittmar, Christina|78704|150|Austin Community College|Professor|Austin, TX, 78704
+Cannon, Tina|78704|150|Austin LGBT Chamber of Commerce|Government Relations|Austin, TX, 78704
+Brooklynne, Mosley|66044|150|New Jersey State Democratic Committee|Vice President Advocacy and Mobilization|Lawrence, KS, 66044
+Boyt, Jeb|78756|150|Texas Department of Insurance|Not Employed|Austin, TX, 78756
+Baiza, Matthew|78250|150|NextGen America|Texas State Director|San Antonio, TX, 78250
+Alexander, Hannah|78723|150|Not Employed|Not Employed|Austin, TX, 78723
+Delaney, Davis|76051|147|Wilbanks CEASE Clinic|Not Employed|Grapevine, TX, 76051
+Kaya, Gultekin|78664|140|Harmony Public Schools|Administrator|Round Rock, TX, 78664
+Holly, Prendergast|78704|137|Beto for Texas|Scheduling Manager|Austin, TX, 78704
+Megan, Macias|78209|130|Texas organizing project|Organizer|San Antonio, TX, 78209
+David, Voegtle|78725|130|The University of Texas at Austin|Software Engineer|Austin, TX, 78725
+Kahle, Heidi|78751|129|Deloitte|Consultant|Austin, TX, 78751
+Woods, Alice|78704|125|Saigebrook Development|Not Employed|Austin, TX, 78704
+Wolaver, Joanna|78705|125|Employed|Self|Austin, TX, 78705
+Syed, Mukarram|78641|125|Amazon|Sr PM|Leander, TX, 78641
+Seifert, Claire|78723|125|CCS Fundraising|Consultant|Austin, TX, 78723
+Schoenfield, Miriam|78722|125|UT Austin|Professor|Austin, TX, 78722
+Rizvi, Syeda|78660|125|Spring branch ISD|Teacher|Pflugerville, TX, 78660
+Nahas, Michael|78704|125|Not Employed|Not Employed|Austin, TX, 78704
+McKeen, Sarah|60622|125|Myself|Politics|Chicago, IL, 60622
+Levinson, Adam|78701|125|Not Employed|Not Employed|Austin, TX, 78701
+Hoke, Laura|78723|125|state of Texas|chief of staff|Austin, TX, 78723
+Cole, Wilson|78756|125|UT Austin|Program Assistant|Austin, TX, 78756
+Amenity J, Applewhite|78702|125|City of Austin|Web design|Austin, TX, 78702
+Yamna, Haider|77407|120|Not Employed|Not Employed|Richmond, TX, 77407
+Rudow, Joshua|78723|120|City of Austin|Planner|Austin, TX, 78723
+Bawany, Sara|75040|120|Facing Abuse in Community Environments|Social Worker|Garland, TX, 75040
+John, McLees|60605|117|Not employed|Not employed|Chicago, IL, 60605
+westfall, jane|78704|115|Not Employed|Not Employed|Austin, TX, 78704
+McClinton, Marcel|77043|115|Not Employed|Sales|Houston, TX, 77043
+Dunne, Ian|78752|115|Civilitude|Data Specialist|Austin, TX, 78752
+Smith, Richard|78751|110|Intel|Engineer|Austin, TX, 78751
+Arn, Cody|78741|110|Stepstone Hospitality|Hotelier|Austin, TX, 78741
+Zachary, Price|78757|107|Not Employed|Not Employed|Austin, TX, 78757
+Goss, David|78704|107|Dell|Sales|Austin, TX, 78704
+Schrader, Kristi|29201|105|Richland County School District One|Teacher|Columbia, SC, 29201
+jeffrey, wishnie|97215|100|Zinc Collective|Managing director|Portland, OR, 97215
+conlin, kathleen|78704|100|Not Employed|Not Employed|Austin, TX, 78704
+Zaidi, Danish|06511|100|Yale University|Doctor|New Haven, CT, 06511
+Zaidi, Afroz|18302|100|Not Employed|Not Employed|Stroudsburg, PA, 18302
+Yousuf, Zaynah|77083|100|IZY Consultants LLC|Consultant|Houston, TX, 77083
+Yarnell, William|78701|100|Self|Lobbyist|Austin, TX, 78701
+Yancy, Max|78722|100|KOOP Radio 91.7 FM|Volunteer & Events Coordinator|Austin, TX, 78722
+Wilson, Adam|78751|100|Griffin School|Educator|Austin, TX, 78751
+Whellan, Michael|78732|100|Armbrust & Brown, PLLC|Lawyer|Austin, TX, 78732
+Webb Carey, Isabel|78751|100|CoA|Policy Aide|Austin, TX, 78751
+Warford, Lucas D|78702|100|Luke Warford|Consultant|Austin, TX, 78702
+Warford, Lucas|78703|100|Self|Consultant|Austin, TX, 78703
+W WALKER, CLIFF|78701|100|Seeker Strategies|Co-founder|Austin, TX, 78701
+Villalobos, Pedro|78745|100|Travis County Attorney’s Office|Assistant County Attorney|Austin, TX, 78745
+Vela, Jose|78723|100|City of Austin|City Council Member|Austin, TX, 78723
+Vasquez, Skip|78741|100|Self employed|Consultant|Austin, TX, 78741
+Vasquez, Alberto|78741|100|consultant|Self employed|Austin, TX, 78741
+Valenzuela, Angela|78704|100|University of Texas|Professor|Austin, TX, 78704-4540
+Turk, Yasmin|78723|100|City of Austin|Consultant|Austin, TX, 78723
+Tsukahara, Roberta|78723|100|Not Employed|Not Employed|Austin, TX, 78723
+Tran, Minh|78641|100|MEA Tran Enterprises|Self|Leander, TX, 78641
+Thomas, Sherine|78704|100|Travis county attorney office|Attorney|Austin, TX, 78704
+TIBLIER, ERIC|78705|100|ERIC TIBLIER MD PA|PHYSICIAN|Austin, TX, 78705
+Syed, Dan|75229|100|Sheppard Mullin|Lawyer|Dallas, TX, 75229
+Sun, Amy|78754|100|Daylight Labs Inc|Founder|Austin, TX, 78754
+Strama, Thomas Mark|78731|100|UT|Professor|Austin, TX, 78731
+Stevenson, Josiah|20009|100|Capital One Services LLC|Senior Analyst|Washington, DC, 20009
+Sokolic, Katherine|78723|100|Realty Austin|Realtor|Austin, TX, 78723
+Smith, Emily|78701|100|City of Austin|Public Information Officer|Austin, TX, 78701
+Smith, Curtis|78744|100|Texas House|State Employee|Austin, TX, 78744
+Slattery, James|78741|100|Texas Civil Rights Project|Senior Staff Attorney|Austin, TX, 78741
+Shillington, Shawn|78703|100|Enverus|Attorney|Austin, TX, 78703
+Shahnawaz, Shahla|77099|100|Not Employed|Not Employed|Houston, TX, 77099
+Sellers, Justin|78703|100|Comdata|Sales|Austin, TX, 78703
+Schwart, Cynthia|78731|100|Garry Mauro|Executive Assistant|Austin, TX, 78731
+Schulman, Miriam|90272|100|Not Employed|Not Employed|Los Angeles, CA, 90272
+Ronan, Daniel|78751|100|Austin History Center Association|Museum Professional|Austin, TX, 78751
+Ritts, Jim|78703|100|Austin Theatre Alliance|CEO/Executive Director|Austin, TX, 78703
+Reynolds, Cynthia|78704|100|self|real estate|Austin, TX, 78704
+Raza, Asma|63017|100|StL Medical Clinic|Physician|Chesterfield, MO, 63017
+Rana, Haris|90015|100|Dignity health|Physician|Fort Worth, CA, 90015
+Rajput, Sal|10550|100|Walison Corp.|Manager|Mount Vernon, NY, 10550
+Qureshi, Nayeem|94517|100|Charles Schwab|Financial Consultant|Clayton, CA, 94517
+Powell, Brian|78731|100|Stravaro LLC|Software Engineer|Austin, TX, 78731
+Perkins, Alexander|78701|100|LV Collective|Developer|Austin, TX, 78701
+Perez, Justin|78723|100|UT Austin|Student|Austin, TX, 78723
+Padmanabha, Shweta|78613|100|SK Infotech|Consultant|Cedar Park, TX, 78613
+Ozair, Khan|77019|100|Alteryx|Engineer|Houston, TX, 77019
+Osta, Luis|78746|100|Tarro|Software Engineer|Austin, TX, 78746
+Osama, Hassan|77901|100|Victoria Islamic Center|Minster|Victoria, TX, 77901
+Ortega, Randy|78758|100|Travis County and City of Austin|Attorney and Judge|Austin, TX, 78758
+Olson, Kim|76068|100|Not Employed|Not Employed|Wells, TX, 76068
+Odus, Evbagharu|77449|100|State of Texas|Chief of Staff|Katy, TX, 77449
+Nirken, Howard|78701|100|Dubois Bryant & Campbell|Attorney|Austin, TX, 78701
+Nikore, Varun|22205|100|Red Fort Strategies|Consultant|Arlington, VA, 22205
+Nathani, Muhammed|77379|100|Kelsey Seybold|Physician|Spring, TX, 77379
+Nath, Audrey|77019|100|Audrey Nath MD PLLC|Neurologist|Houston, TX, 77019
+Myra, Shaikh|78739|100|Life Time|Yoga teacher|Austin, TX, 78739
+Mouneimne, Mohamad|77094|100|Purifyou|Business Owner|Houston, TX, 77094
+Mohammad, Saleem-Uddin|77498|100|Verizon|IT Professional|Sugar Land, TX, 77498
+Mohammad, Farnaz|78746|100|Not Employed|Not Employed|Austin, TX, 78746
+Mitchell, Kathleen|78702|100|Equity Action|Research|Austin, TX, 78702
+Menefee, Christian|77004|100|Harris County|Attorney|Houston, TX, 77004
+McHorse, Catherine|78731|100|Not Employed|Not Employed|Austin, TX, 78731
+Maxwell, Nora|78704|100|Self Employed|IT Consultant|Austin, TX, 78704
+Mashhood, Mohammad|77450|100|ADM|IT manager|Katy, TX, 77450
+Markham, Tyler|78741|100|Capital Area Food Bank of Texas|Agency Retail Coordinator|Austin, TX, 78741
+Malik, Sameer|10019|100|Deloitte|Consultant|Manhattan, NY, 10019
+Maas, William|78745|100|Maas Verde Landscape Restoration|Landscape construction|Austin, TX, 78745
+M Strama, Thomas|78731|100|UT Austin|Professor|Austin, TX, 78731
+Lockhart, Kurt|78721|100|Raise Your Hand Texas|Data Insights Manager|Austin, TX, 78721
