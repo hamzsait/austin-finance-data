@@ -21,6 +21,7 @@ avoid collisions like "Alter" (Ryan vs Alison) or "Vela" (matches "Velasquez").
 
 import argparse
 import os
+import re
 
 # generate_profile_data reconfigures sys.stdout to UTF-8 on import; importing it
 # once here is enough (re-wrapping stdout again closes the shared buffer under GC).
@@ -42,18 +43,27 @@ ROSTER = [
 
 
 def make_profile_html(slug: str) -> str:
-    """Copy profile_template.html to profile_{slug}.html with PROFILE_SLUG injected."""
+    """Copy profile_template.html to profile_{slug}.html with PROFILE_SLUG injected.
+
+    The template (the rich 2191-line layout with the Israel-Palestine spectrum and
+    Verified Organizational Affiliations sections) declares PROFILE_SLUG on one
+    line; we rewrite that line for this candidate.
+    """
     with open(TEMPLATE, "r", encoding="utf-8") as f:
         html = f.read()
 
-    marker = "// Override this in copies: const PROFILE_SLUG = 'watson';"
-    if marker not in html:
-        raise RuntimeError("Template slug marker not found — did profile_template.html change?")
-    html = html.replace(marker, f"const PROFILE_SLUG = '{slug}';")
+    new_html, n = re.subn(
+        r"const PROFILE_SLUG = '[^']*';",
+        f"const PROFILE_SLUG = '{slug}';",
+        html,
+        count=1,
+    )
+    if n != 1:
+        raise RuntimeError("PROFILE_SLUG line not found in profile_template.html")
 
     out_path = os.path.join(ROOT, f"profile_{slug}.html")
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(new_html)
     return out_path
 
 
@@ -66,11 +76,17 @@ def fmt_money(n: int) -> str:
     return f"${n}"
 
 
-def build_one(entry: dict):
+def build_one(entry: dict, html_only: bool = False):
     slug = entry["slug"]
     print("=" * 78)
-    print(f"BUILD  {entry['display']}  ({entry['district']})  slug={slug}")
+    print(f"{'RENDER' if html_only else 'BUILD '}  {entry['display']}  ({entry['district']})  slug={slug}")
     print("=" * 78)
+
+    if html_only:
+        # Re-render HTML from the current template only; JSON already exported.
+        html_path = make_profile_html(slug)
+        print(f"Rendered: {html_path}")
+        return entry, None
 
     data_payload, _ = gpd.generate(entry["recipient"], ROOT, slug_override=slug)
     html_path = make_profile_html(slug)
@@ -103,29 +119,34 @@ def main():
     p.add_argument("--all-remaining", action="store_true", help="Build every candidate in ROSTER")
     p.add_argument("--slug", help="Build one candidate from ROSTER by slug")
     p.add_argument("--recipient", help="Ad-hoc: exact recipient string (requires --slug)")
+    p.add_argument("--html-only", action="store_true",
+                   help="Re-render profile HTML from the template only; skip JSON export")
     args = p.parse_args()
 
     if args.recipient:
         if not args.slug:
             p.error("--recipient requires --slug")
         build_one({"slug": args.slug, "recipient": args.recipient,
-                   "display": args.slug.title(), "district": "?", "race": "?"})
+                   "display": args.slug.title(), "district": "?", "race": "?"}, args.html_only)
         return
 
     if args.slug:
         entry = next((e for e in ROSTER if e["slug"] == args.slug), None)
         if not entry:
             p.error(f"slug '{args.slug}' not in ROSTER: {[e['slug'] for e in ROSTER]}")
-        build_one(entry)
+        build_one(entry, args.html_only)
         return
 
     if args.all_remaining:
-        results = [build_one(e) for e in ROSTER]
-        print("\n\n#### SUMMARY — all remaining incumbents built ####")
+        results = [build_one(e, args.html_only) for e in ROSTER]
+        print("\n\n#### SUMMARY — all remaining incumbents ####")
         for entry, hero in results:
-            print(f"  {entry['display']:20} {entry['district']:12} "
-                  f"${hero['total_raised']:>10,}  {hero['unique_donors']:>5} donors  "
-                  f"{hero['employer_affiliated_pct']}% empl")
+            if hero is None:
+                print(f"  {entry['display']:20} {entry['district']:12}  (HTML re-rendered)")
+            else:
+                print(f"  {entry['display']:20} {entry['district']:12} "
+                      f"${hero['total_raised']:>10,}  {hero['unique_donors']:>5} donors  "
+                      f"{hero['employer_affiliated_pct']}% empl")
         return
 
     p.error("nothing to do: pass --all-remaining, --slug, or --recipient")

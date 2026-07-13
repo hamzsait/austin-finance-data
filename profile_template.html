@@ -338,6 +338,135 @@
   .amount-cell { font-weight: 700; text-align: right; }
   .count-cell { text-align: right; color: var(--muted); font-size: 12px; }
 
+  /* ── Civic affiliations section ── */
+  .civic-methodology {
+    background: rgba(79,142,247,0.06);
+    border: 1px solid rgba(79,142,247,0.2);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--muted);
+  }
+  .civic-methodology strong { color: var(--text); }
+  .civic-stats {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .civic-stat {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    text-align: center;
+  }
+  .civic-stat-value {
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 1.1;
+  }
+  .civic-stat-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+  .civic-cat-block {
+    margin-bottom: 22px;
+  }
+  .civic-cat-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+  }
+  .civic-cat-title {
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .civic-cat-count {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .civic-cat-desc {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 12px;
+    font-style: italic;
+  }
+  .civic-donor {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+  }
+  .civic-donor-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .civic-donor-name {
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .civic-donor-right {
+    text-align: right;
+    font-size: 12px;
+    color: var(--muted);
+    flex-shrink: 0;
+  }
+  .civic-donor-amount {
+    font-weight: 700;
+    color: var(--text);
+    font-size: 14px;
+  }
+  .civic-org-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .civic-org-item {
+    font-size: 12px;
+    line-height: 1.5;
+    padding-left: 12px;
+    border-left: 2px solid var(--border);
+  }
+  .civic-org-name {
+    font-weight: 600;
+    color: var(--text);
+  }
+  .civic-org-role {
+    color: var(--muted);
+  }
+  .civic-org-source {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 11px;
+    margin-left: 6px;
+    white-space: nowrap;
+  }
+  .civic-org-source:hover { text-decoration: underline; }
+
+  @media (max-width: 700px) {
+    .civic-stats { grid-template-columns: repeat(2, 1fr); }
+    .civic-donor-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+    .civic-donor-right { text-align: left; }
+  }
+
   /* ── Year chart ── */
   .year-bars {
     display: flex;
@@ -415,6 +544,35 @@
     .hero { grid-template-columns: 1fr; }
     .hero-right { display: none; }
     .ig-label { width: 110px; }
+    #cycleNav { padding: 8px 10px; gap: 4px; }
+    #cycleNav .cycle-label { display: none; }
+    .cycle-tab { padding: 5px 10px; font-size: 11px; }
+    #partisanSection .card-title { font-size: 14px; }
+    #partisanBar { height: 32px; }
+    #partisanBarLabels { flex-direction: column; gap: 2px; align-items: center; font-size: 11px; }
+    #fecPanel { width: 100vw; max-width: 100vw; }
+  }
+
+  /* ── Summary cards ── */
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s;
+    display: block;
+    color: var(--text);
+  }
+  .summary-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .sc-icon { font-size: 18px; margin-bottom: 4px; }
+  .sc-val { font-size: 20px; font-weight: 700; line-height: 1.2; }
+  .sc-lbl { font-size: 11px; color: var(--muted); margin-top: 2px; text-transform: uppercase; letter-spacing: 0.3px; }
+  @media (max-width: 700px) {
+    #summaryCards > div { grid-template-columns: repeat(2, 1fr); }
+    .sc-val { font-size: 16px; }
+    .sc-icon { font-size: 15px; }
+    .summary-card { padding: 10px 12px; }
   }
 
   /* ── Clickable rows ── */
@@ -690,10 +848,10 @@
 <body>
 
 <nav>
-  <a class="logo" href="#">Austin <span>Finance</span></a>
+  <a class="logo" href="index.html">Austin <span>Finance</span></a>
   <div class="breadcrumb">
     <span class="sep">›</span>
-    <a href="#">Candidates</a>
+    <a href="index.html">Candidates</a>
     <span class="sep">›</span>
     <span id="navCandidateName">Loading…</span>
   </div>
@@ -749,8 +907,45 @@
       <!-- tabs injected by JS -->
     </div>
 
+    <!-- ── Jump-to summary cards ── -->
+    <div id="summaryCards" style="display:none;margin-bottom:20px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px">
+
+        <a href="#yearBarsSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F4C8;</div>
+          <div class="sc-val" id="scRaised"></div>
+          <div class="sc-lbl">Total Raised</div>
+        </a>
+
+        <a href="#igSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F3E2;</div>
+          <div class="sc-val" id="scAffiliated"></div>
+          <div class="sc-lbl">Employer-Affiliated</div>
+        </a>
+
+        <a href="#igSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F465;</div>
+          <div class="sc-val" id="scDonors"></div>
+          <div class="sc-lbl">Individual Donors</div>
+        </a>
+
+        <a href="#firmsSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F4BC;</div>
+          <div class="sc-val" id="scFirms"></div>
+          <div class="sc-lbl">Firms (3+ Donors)</div>
+        </a>
+
+        <a href="#partisanSection" class="summary-card" style="text-decoration:none">
+          <div class="sc-icon">&#x1F5F3;</div>
+          <div class="sc-val" id="scPartisan"></div>
+          <div class="sc-lbl">FEC Partisan Lean</div>
+        </a>
+
+      </div>
+    </div>
+
     <!-- ── Row 1: Year bars + Donut ── -->
-    <div class="grid-2" style="margin-bottom:20px">
+    <div id="yearBarsSection" class="grid-2" style="margin-bottom:20px">
 
       <!-- Fundraising by year -->
       <div class="card">
@@ -773,7 +968,7 @@
     </div>
 
     <!-- ── Row 2: Interest group breakdown (full width) ── -->
-    <div class="card" style="margin-bottom:20px">
+    <div id="igSection" class="card" style="margin-bottom:20px">
       <div class="card-title">
         Funding by Category
         <span class="hint" id="igHint">2022 – present</span>
@@ -820,8 +1015,55 @@
       </div>
     </div>
 
+    <!-- ── Israel/Palestine Donor Spectrum ── -->
+    <div id="ipSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Israel-Palestine Donor Spectrum
+        <span class="hint" id="ipHint">based on FEC donations to affiliated committees</span>
+      </div>
+      <div id="ipContent"></div>
+    </div>
+
+    <!-- ── Verified Organizational Affiliations ── -->
+    <div id="civicSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Verified Organizational Affiliations
+        <span class="hint" id="civicHint">board memberships and named roles from public sources</span>
+      </div>
+      <div class="civic-methodology" id="civicMethodology"></div>
+      <div id="civicStats" class="civic-stats"></div>
+      <div id="civicContent"></div>
+    </div>
+
+    <!-- ── Partisan Lean (FEC data) ── -->
+    <div id="partisanSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Federal Partisan Lean
+        <span class="hint" id="partisanHint">based on FEC donation history</span>
+      </div>
+      <div style="display:flex;gap:24px;align-items:flex-start;flex-wrap:wrap">
+        <!-- Lean bar -->
+        <div style="flex:1;min-width:280px">
+          <div style="display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-bottom:6px">
+            <span>Republican</span><span>Democrat</span>
+          </div>
+          <div id="partisanBar" style="height:28px;border-radius:4px;overflow:hidden;display:flex;position:relative;background:var(--surface)"></div>
+          <div id="partisanBarLabels" style="display:flex;justify-content:space-between;font-size:11px;margin-top:4px"></div>
+          <div id="partisanWeighted" style="text-align:center;margin-top:10px;font-size:13px;color:var(--muted)"></div>
+        </div>
+        <!-- Bucket breakdown -->
+        <div style="min-width:200px">
+          <table style="width:100%;font-size:12px;border-collapse:collapse" id="partisanBuckets">
+            <thead><tr style="color:var(--muted)">
+              <th style="text-align:left;padding:2px 8px">Bucket</th>
+              <th style="text-align:right;padding:2px 8px">Donors</th>
+              <th style="text-align:right;padding:2px 8px">Amount</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
     <!-- ── Row 3: Notable firms + Top donors ── -->
-    <div class="grid-2" style="margin-bottom:20px">
+    <div id="firmsSection" class="grid-2" style="margin-bottom:20px">
 
       <!-- Notable firms -->
       <div class="card">
@@ -867,6 +1109,16 @@
   Austin Finance Transparency Project · Not affiliated with any campaign
 </footer>
 
+<!-- Partisan lean drill-down panel -->
+<div id="fecBackdrop" onclick="closeFecPanel()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:1000"></div>
+<div id="fecPanel" style="display:none;position:fixed;top:0;right:0;width:520px;max-width:90vw;height:100vh;background:#0f1724;border-left:1px solid var(--border);z-index:1001;overflow-y:auto;box-shadow:-4px 0 24px rgba(0,0,0,0.4)">
+  <div id="fecTitleBar" style="padding:14px 20px;display:flex;justify-content:space-between;align-items:center">
+    <div id="fecTitle" style="font-weight:600;font-size:15px"></div>
+    <button onclick="closeFecPanel()" style="background:none;border:none;color:var(--muted);font-size:20px;cursor:pointer">&#x2715;</button>
+  </div>
+  <div id="fecBody" style="padding:0 20px 20px"></div>
+</div>
+
 <div class="drawer-backdrop" id="drawerBackdrop" onclick="closeDrawer()"></div>
 <div class="drawer" id="drawer">
   <div class="drawer-header">
@@ -908,14 +1160,7 @@
 
 <script>
 // ── Slug: only thing hardcoded per-profile ────────────────────────────────────
-// Override this in copies: const PROFILE_SLUG = 'watson';
-// Or derive from filename automatically if not set:
-(function() {
-  if (typeof PROFILE_SLUG === 'undefined') {
-    const m = window.location.pathname.match(/profile_([^/.]+)/);
-    window.PROFILE_SLUG = m ? m[1] : 'qadri';
-  }
-})();
+const PROFILE_SLUG = '__SLUG__';
 
 // ── Globals populated after fetch ────────────────────────────────────────────
 let INTEREST_GROUPS = [];
@@ -1428,9 +1673,12 @@ function renderCycleNav(cycles) {
     nav.appendChild(lbl);
   }
 
+  // Default to the last (most recent) cycle
+  const defaultCycleIdx = populated.length - 1;
+
   // "All Time" tab
   const allBtn = document.createElement('button');
-  allBtn.className = 'cycle-tab active';
+  allBtn.className = 'cycle-tab';
   allBtn.dataset.cycle = '-1';
   allBtn.textContent = 'All Time';
   allBtn.onclick = () => switchCycle(-1);
@@ -1440,11 +1688,15 @@ function renderCycleNav(cycles) {
   cycles.forEach((c, i) => {
     const btn = document.createElement('button');
     btn.className = 'cycle-tab';
+    if (i === defaultCycleIdx) btn.classList.add('active');
     btn.dataset.cycle = i;
     btn.textContent = `${c.label} (${c.year_range})`;
     btn.onclick = () => switchCycle(i);
     nav.appendChild(btn);
   });
+
+  // Auto-switch to the current cycle on load
+  switchCycle(defaultCycleIdx);
 }
 
 function switchCycle(idx) {
@@ -1497,6 +1749,379 @@ function updateHeroStats(hero, meta) {
 }
 
 // ── Main render ───────────────────────────────────────────────────────────────
+// ── Israel/Palestine spectrum ────────────────────────────────────────────────
+function renderIPSpectrum(ip) {
+  const section = document.getElementById('ipSection');
+  if (!ip || !ip.total_flagged) { section.style.display = 'none'; return; }
+  section.style.display = '';
+
+  document.getElementById('ipHint').textContent =
+    `${ip.total_flagged} donors with Israel/Palestine-related federal committee donations`;
+
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+  const catColors = {
+    'hawkish_proisrael': '#1d4ed8',
+    'liberal_zionist': '#7c3aed',
+    'pro_palestine': '#059669',
+  };
+  const catIcons = {
+    'hawkish_proisrael': '\u{1F3DB}',
+    'liberal_zionist': '\u{2696}',
+    'pro_palestine': '\u{1F54A}',
+  };
+
+  let html = '';
+  ip.categories.forEach(cat => {
+    const color = catColors[cat.key] || '#666';
+    const icon = catIcons[cat.key] || '';
+    html += `<div style="margin-bottom:16px">`;
+    html += `<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+      <span style="font-size:16px">${icon}</span>
+      <span style="font-weight:700;font-size:14px;color:${color}">${cat.label}</span>
+      <span style="font-size:12px;color:var(--muted)">${cat.donors} donor${cat.donors !== 1 ? 's' : ''} &middot; ${fmt(cat.ip_total)} federal &middot; ${fmt(cat.local_total)} local to this candidate</span>
+    </div>`;
+
+    html += `<div style="overflow-x:auto"><table style="width:100%;font-size:12px;border-collapse:collapse">
+      <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
+        <th style="text-align:left;padding:4px 8px">Donor</th>
+        <th style="text-align:right;padding:4px 8px">Federal $</th>
+        <th style="text-align:right;padding:4px 8px">Local $</th>
+        <th style="text-align:left;padding:4px 8px">Committees</th>
+      </tr></thead><tbody>`;
+
+    cat.donor_list.forEach(d => {
+      const tierBadge = d.tier === 1 ? '<span style="background:#ef4444;color:#fff;font-size:9px;padding:1px 5px;border-radius:3px;margin-left:4px">DIRECT</span>' : '';
+      const leanDot = d.partisan_lean != null
+        ? `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${d.partisan_lean >= 0.6 ? '#3b82f6' : (d.partisan_lean <= 0.4 ? '#ef4444' : '#a78bfa')};margin-right:4px" title="Partisan lean: ${(d.partisan_lean*100).toFixed(0)}%"></span>`
+        : '';
+      const commNames = d.committees.map(c => c.name).join(', ');
+      html += `<tr style="border-bottom:1px solid var(--border);cursor:pointer"
+                   onmouseenter="this.style.background='rgba(255,255,255,0.03)'"
+                   onmouseleave="this.style.background=''">
+        <td style="padding:5px 8px;white-space:nowrap">${leanDot}${d.name}${tierBadge}</td>
+        <td style="text-align:right;padding:5px 8px;color:${color};font-weight:600">${fmt(d.ip_total)}</td>
+        <td style="text-align:right;padding:5px 8px">${fmt(d.local_total)}</td>
+        <td style="padding:5px 8px;font-size:11px;color:var(--muted);max-width:220px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${commNames}">${commNames}</td>
+      </tr>`;
+    });
+    html += '</tbody></table></div></div>';
+  });
+
+  document.getElementById('ipContent').innerHTML = html;
+}
+
+// ── Verified civic affiliations ──────────────────────────────────────────────
+function renderCivicAffiliations(ca) {
+  const section = document.getElementById('civicSection');
+  if (!ca || !ca.total_donors_with_affiliations) {
+    section.style.display = 'none';
+    return;
+  }
+  section.style.display = '';
+
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+  // Header hint
+  document.getElementById('civicHint').textContent =
+    `${ca.total_donors_with_affiliations} donors with documented public roles`;
+
+  // Methodology note
+  document.getElementById('civicMethodology').innerHTML =
+    '<strong>How to read this:</strong> Each entry below is a verified public organizational role ' +
+    '&mdash; board memberships, named funds, honorary awards, or senior staff positions documented in ' +
+    'publicly available sources (annual reports, press releases, IRS filings). ' +
+    '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> ' +
+    'Each category below refers to organizational affiliation, not personal identity. ' +
+    'AIPAC-direct roles are listed separately from ADL board involvement and liberal-Zionist organizational ties.';
+
+  // Stats strip
+  const stats = [
+    { label: 'Donors Total',     value: ca.total_donors_with_affiliations, color: '#4f8ef7' },
+    { label: 'ADL Board/Honor',  value: ca.total_adl,                      color: '#6366f1' },
+    { label: 'AIPAC Direct',     value: ca.total_aipac_direct,             color: '#1d4ed8' },
+    { label: 'Oil & Gas',        value: ca.total_oil_gas,                  color: '#ef4444' },
+  ];
+  document.getElementById('civicStats').innerHTML = stats.map(s =>
+    `<div class="civic-stat">
+       <div class="civic-stat-value" style="color:${s.color}">${s.value}</div>
+       <div class="civic-stat-label">${s.label}</div>
+     </div>`
+  ).join('');
+
+  // Category blocks — ordered intentionally: distinct buckets, direct-ties first
+  const categories = [
+    {
+      key: 'aipac_direct',
+      title: 'AIPAC &amp; Direct Pro-Israel Lobbying Roles',
+      color: '#1d4ed8',
+      desc: 'Donors with documented AIPAC leadership, speaker, or board roles &mdash; or similar direct pro-Israel lobbying affiliations. This is the narrowest and most specific category.',
+    },
+    {
+      key: 'liberal_zionist',
+      title: 'Liberal Zionist Organizations',
+      color: '#7c3aed',
+      desc: 'Donors affiliated with two-state, dovish, or peace-oriented Zionist groups (J Street, OneVoice Movement, National Jewish Democratic Council, etc.).',
+    },
+    {
+      key: 'adl',
+      title: 'Anti-Defamation League (ADL) Board &amp; Honor Roles',
+      color: '#6366f1',
+      desc: 'Donors with verified ADL national or regional board roles, True Colors / Golden Door honorees, and senior ADL staff. ADL combines civil-rights advocacy with explicit pro-Israel political positioning; included here for transparency as a named political organization.',
+    },
+    {
+      key: 'oil_gas',
+      title: 'Oil, Gas &amp; Energy Industry Ties',
+      color: '#ef4444',
+      desc: 'Donors employed by or with board/advisory roles at oil & gas majors, independents, energy law firms, and industry associations.',
+    },
+  ];
+
+  let html = '';
+  categories.forEach(cat => {
+    const donors = (ca.by_category && ca.by_category[cat.key]) || [];
+    if (!donors.length) return;
+
+    html += `<div class="civic-cat-block">
+      <div class="civic-cat-header">
+        <span class="civic-cat-title" style="color:${cat.color}">${cat.title}</span>
+        <span class="civic-cat-count">${donors.length} donor${donors.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="civic-cat-desc">${cat.desc}</div>`;
+
+    donors.forEach(d => {
+      const giftsLabel = d.gifts === 1 ? '1 gift' : `${d.gifts} gifts`;
+      html += `<div class="civic-donor" style="border-left-color:${cat.color}">
+        <div class="civic-donor-head">
+          <div class="civic-donor-name">${esc(d.donor_name)}</div>
+          <div class="civic-donor-right">
+            <span class="civic-donor-amount">${fmt(d.local_total)}</span>
+            &nbsp;local &middot; ${giftsLabel}
+          </div>
+        </div>
+        <ul class="civic-org-list">`;
+
+      d.organizations.forEach(org => {
+        const orgName = esc(org.org);
+        const role = esc(org.role);
+        const src = org.source && org.source.trim()
+          ? `<a class="civic-org-source" href="${esc(org.source)}" target="_blank" rel="noopener">source &#x2197;</a>`
+          : '';
+        html += `<li class="civic-org-item">
+          <span class="civic-org-name">${orgName}</span>
+          ${role ? `&mdash; <span class="civic-org-role">${role}</span>` : ''}
+          ${src}
+        </li>`;
+      });
+
+      html += '</ul></div>';
+    });
+    html += '</div>';
+  });
+
+  document.getElementById('civicContent').innerHTML = html;
+}
+
+let _PARTISAN_DATA = null;
+
+function renderPartisanLean(pl) {
+  const section = document.getElementById('partisanSection');
+  if (!pl || !pl.matched_donors) { section.style.display = 'none'; return; }
+  section.style.display = '';
+  _PARTISAN_DATA = pl;
+
+  const pct = n => (n * 100).toFixed(1) + '%';
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+
+  const colors = {
+    'Strong R': '#ef4444', 'Lean R': '#f87171',
+    'Mixed': '#a78bfa',
+    'Lean D': '#60a5fa', 'Strong D': '#3b82f6',
+  };
+
+  // Hint
+  {
+    const tecOnly = pl.tec_only || 0;
+    const both = pl.both_sources || 0;
+    const extra = tecOnly + both > 0
+      ? ` (${both} with both FEC + Texas PAC history, ${tecOnly} Texas-only)`
+      : '';
+    document.getElementById('partisanHint').textContent =
+      `${pl.matched_donors} of ${pl.total_donors} donors matched in FEC + Texas PAC records${extra}`;
+  }
+
+  // Build the bar segments (clickable)
+  const bar = document.getElementById('partisanBar');
+  bar.innerHTML = '';
+  const total = pl.matched_donors;
+  const ordered = [...pl.buckets].reverse();
+  ordered.forEach(b => {
+    if (b.donors === 0) return;
+    const seg = document.createElement('div');
+    const w = (b.donors / total * 100);
+    seg.style.cssText = `width:${w}%;background:${colors[b.label] || '#666'};display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff;min-width:${w > 5 ? 0 : 20}px;cursor:pointer;transition:opacity 0.15s`;
+    if (w > 8) seg.textContent = b.donors;
+    seg.title = `${b.label}: ${b.donors} donors — click to view`;
+    seg.onmouseenter = () => seg.style.opacity = '0.8';
+    seg.onmouseleave = () => seg.style.opacity = '1';
+    seg.onclick = () => showPartisanBucket(b.label, b.min, b.max, colors[b.label]);
+    bar.appendChild(seg);
+  });
+
+  // Labels
+  const labels = document.getElementById('partisanBarLabels');
+  labels.innerHTML = `
+    <span style="color:#ef4444;font-weight:600">${pl.rep_donors} Rep-leaning (${pct(pl.rep_donors/total)})</span>
+    <span style="color:#a78bfa">${pl.mixed_donors} Mixed</span>
+    <span style="color:#3b82f6;font-weight:600">${pl.dem_donors} Dem-leaning (${pct(pl.dem_donors/total)})</span>
+  `;
+
+  // Weighted average
+  const wt = document.getElementById('partisanWeighted');
+  if (pl.weighted_lean != null) {
+    const leanPct = (pl.weighted_lean * 100).toFixed(1);
+    wt.innerHTML = `Dollar-weighted partisan lean: <strong style="color:${pl.weighted_lean >= 0.6 ? '#3b82f6' : (pl.weighted_lean <= 0.4 ? '#ef4444' : '#a78bfa')}">${leanPct}% Dem</strong> &nbsp;|&nbsp; <span style="font-size:12px">Click a segment to explore donors</span>`;
+  }
+
+  // Bucket table (clickable rows)
+  const tbody = document.querySelector('#partisanBuckets tbody');
+  tbody.innerHTML = '';
+  pl.buckets.forEach(b => {
+    const tr = document.createElement('tr');
+    tr.style.cssText = 'border-top:1px solid var(--border);cursor:pointer;transition:background 0.15s';
+    tr.onmouseenter = () => tr.style.background = 'rgba(255,255,255,0.03)';
+    tr.onmouseleave = () => tr.style.background = '';
+    tr.onclick = () => showPartisanBucket(b.label, b.min, b.max, colors[b.label]);
+    const c = colors[b.label] || '#666';
+    tr.innerHTML = `
+      <td style="padding:3px 8px"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${c};margin-right:6px"></span>${b.label}</td>
+      <td style="text-align:right;padding:3px 8px">${b.donors}</td>
+      <td style="text-align:right;padding:3px 8px">${fmt(b.total)}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function openFecPanel() {
+  document.getElementById('fecBackdrop').style.display = '';
+  document.getElementById('fecPanel').style.display = '';
+}
+function closeFecPanel() {
+  document.getElementById('fecBackdrop').style.display = 'none';
+  document.getElementById('fecPanel').style.display = 'none';
+}
+
+let _fecBucketHistory = null; // for back button
+
+function showPartisanBucket(label, minLean, maxLean, color) {
+  const pl = _PARTISAN_DATA;
+  if (!pl) return;
+  const donors = pl.donors.filter(d => d.lean >= minLean && d.lean < maxLean);
+  donors.sort((a, b) => (b.dem + b.rep) - (a.dem + a.rep));
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+
+  _fecBucketHistory = { label, minLean, maxLean, color };
+
+  const body = document.getElementById('fecBody');
+  document.getElementById('fecTitle').textContent = `${label} Donors`;
+  document.getElementById('fecTitleBar').style.borderBottom = `3px solid ${color}`;
+
+  let html = `<div style="padding:4px 0 12px;color:var(--muted);font-size:12px">${donors.length} donors with combined FEC + Texas PAC lean ${minLean.toFixed(1)}–${maxLean >= 1 ? '1.0' : maxLean.toFixed(1)}</div>`;
+  html += `<div style="overflow-x:auto"><table style="width:100%;font-size:13px;border-collapse:collapse;min-width:320px">
+    <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
+      <th style="text-align:left;padding:6px 6px">Donor</th>
+      <th style="text-align:right;padding:6px 6px">Lean</th>
+      <th style="text-align:right;padding:6px 6px">Dem</th>
+      <th style="text-align:right;padding:6px 6px">Rep</th>
+    </tr></thead><tbody>`;
+
+  donors.forEach(d => {
+    const leanColor = d.lean >= 0.6 ? '#3b82f6' : (d.lean <= 0.4 ? '#ef4444' : '#a78bfa');
+    html += `<tr style="border-bottom:1px solid var(--border);cursor:pointer"
+                 onmouseenter="this.style.background='rgba(255,255,255,0.04)'"
+                 onmouseleave="this.style.background=''"
+                 onclick="showDonorFEC('${d.id}','${d.name.replace(/'/g,"\\'")}',${d.lean})">
+      <td style="padding:6px 6px;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${d.name}</td>
+      <td style="text-align:right;padding:6px 6px;color:${leanColor};font-weight:600">${(d.lean*100).toFixed(0)}%</td>
+      <td style="text-align:right;padding:6px 6px;color:#3b82f6;font-size:12px">${fmt(d.dem)}</td>
+      <td style="text-align:right;padding:6px 6px;color:#ef4444;font-size:12px">${fmt(d.rep)}</td>
+    </tr>`;
+  });
+  html += '</tbody></table></div>';
+  body.innerHTML = html;
+  openFecPanel();
+}
+
+function showDonorFEC(donorId, donorName, lean) {
+  const pl = _PARTISAN_DATA;
+  const comms = (pl.donor_committees || {})[donorId] || [];
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+  const leanPct = (lean * 100).toFixed(1);
+  const leanColor = lean >= 0.6 ? '#3b82f6' : (lean <= 0.4 ? '#ef4444' : '#a78bfa');
+  const partyColors = { Dem: '#3b82f6', Rep: '#ef4444', Other: '#a78bfa' };
+
+  const body = document.getElementById('fecBody');
+  document.getElementById('fecTitle').textContent = donorName + ' — Federal + State Donation History';
+  document.getElementById('fecTitleBar').style.borderBottom = `3px solid ${leanColor}`;
+
+  // Group by party
+  const byParty = { Dem: [], Rep: [], Other: [] };
+  comms.forEach(c => { (byParty[c.party] || byParty.Other).push(c); });
+
+  let html = `<div style="padding:4px 0 12px;font-size:13px">
+    Partisan lean: <strong style="color:${leanColor}">${leanPct}% Dem</strong> &nbsp;|&nbsp;
+    <a href="#" onclick="event.preventDefault();if(_fecBucketHistory)showPartisanBucket(_fecBucketHistory.label,_fecBucketHistory.minLean,_fecBucketHistory.maxLean,_fecBucketHistory.color)" style="color:var(--accent)">Back to bucket</a>
+  </div>`;
+
+  for (const party of ['Dem', 'Rep', 'Other']) {
+    const list = byParty[party];
+    if (!list.length) continue;
+    const partyTotal = list.reduce((s, c) => s + c.total, 0);
+    const partyLabel = party === 'Dem' ? 'Democratic' : (party === 'Rep' ? 'Republican' : 'Other/Non-partisan');
+    html += `<div style="margin:12px 0 6px;font-weight:600;color:${partyColors[party]}">${partyLabel} — ${fmt(partyTotal)}</div>`;
+    html += `<table style="width:100%;font-size:12px;border-collapse:collapse">`;
+    list.sort((a, b) => b.total - a.total);
+    list.forEach(c => {
+      const srcTag = c.source === 'TEC'
+        ? '<span style="display:inline-block;background:rgba(251,191,36,0.15);color:#fbbf24;border:1px solid rgba(251,191,36,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">TX STATE</span>'
+        : '<span style="display:inline-block;background:rgba(79,142,247,0.12);color:#4f8ef7;border:1px solid rgba(79,142,247,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">FEDERAL</span>';
+      html += `<tr style="border-bottom:1px solid var(--border)">
+        <td style="padding:4px 8px">${srcTag}${c.name}</td>
+        <td style="text-align:right;padding:4px 8px;color:${partyColors[party]}">${fmt(c.total)}</td>
+        <td style="text-align:right;padding:4px 8px;color:var(--muted)">${c.n} gifts</td>
+      </tr>`;
+    });
+    html += '</table>';
+  }
+
+  if (!comms.length) html += '<div style="color:var(--muted);padding:12px">No committee-level detail available for this donor.</div>';
+  body.innerHTML = html;
+}
+
+function renderSummaryCards(data) {
+  const section = document.getElementById('summaryCards');
+  const hero = data.hero;
+  const pl = data.partisan_lean;
+  const fmt = n => '$' + Math.round(n).toLocaleString();
+
+  document.getElementById('scRaised').textContent = fmt(hero.total_raised);
+  document.getElementById('scAffiliated').textContent = hero.employer_affiliated_pct + '%';
+  document.getElementById('scDonors').textContent = hero.unique_donors.toLocaleString();
+  document.getElementById('scFirms').textContent = (data.notable_firms || []).length;
+
+  if (pl && pl.matched_donors) {
+    const leanPct = (pl.weighted_lean * 100).toFixed(0);
+    const leanLabel = pl.weighted_lean >= 0.6 ? 'D' : (pl.weighted_lean <= 0.4 ? 'R' : 'M');
+    const leanColor = pl.weighted_lean >= 0.6 ? '#3b82f6' : (pl.weighted_lean <= 0.4 ? '#ef4444' : '#a78bfa');
+    document.getElementById('scPartisan').innerHTML = `<span style="color:${leanColor}">${leanPct}% Dem</span>`;
+  } else {
+    document.getElementById('scPartisan').textContent = '—';
+  }
+
+  section.style.display = '';
+}
+
 function renderAll(data, allDonations) {
   // Populate globals
   INTEREST_GROUPS = data.interest_groups;
@@ -1518,6 +2143,18 @@ function renderAll(data, allDonations) {
   // Cycles
   renderCycleNav(CYCLES);
   renderCycleComparison(CYCLES);
+
+  // Israel/Palestine spectrum
+  renderIPSpectrum(data.ip_spectrum);
+
+  // Verified civic affiliations (ADL, AIPAC, Shalom Austin, Oil & Gas, etc.)
+  renderCivicAffiliations(data.civic_affiliations);
+
+  // Partisan lean
+  renderPartisanLean(data.partisan_lean);
+
+  // Summary cards
+  renderSummaryCards(data);
 
   // Show content, hide loading
   document.getElementById('loadingOverlay').style.display = 'none';
