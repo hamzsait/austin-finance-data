@@ -74,6 +74,16 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    # District 4 — Vela: special election 2022, re-elected 2024, reelection 2028
+    'vela':         [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'Re-election',  'election_year': 2024, 'start_year': 2023, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    # District 6 — Laine: first elected 2024, reelection 2028
+    'laine':        [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    # District 10 — Duchen: first elected 2024, reelection 2028
+    'duchen':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     # Districts 2,4,6,7,10 — last elected 2024, reelection 2028
@@ -337,7 +347,7 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
     }
 
 
-def generate(candidate_fragment: str, output_dir: str = "."):
+def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str = None):
     conn = sqlite3.connect(DB_PATH, timeout=120)
     conn.execute("PRAGMA journal_mode=WAL")
     cur = conn.cursor()
@@ -355,8 +365,10 @@ def generate(candidate_fragment: str, output_dir: str = "."):
     if len(matches) > 1:
         print(f"  Also matched: {[r[0] for r in matches[1:]]}")
 
-    # Build slug from the fragment (not the full name)
-    slug = slugify(candidate_fragment)
+    # Build slug from the fragment (not the full name), unless overridden.
+    # An explicit slug lets callers pass an exact recipient string as the
+    # fragment (for disambiguation) while keeping a clean slug.
+    slug = slug_override if slug_override else slugify(candidate_fragment)
 
     # Try to get a clean display name from canonical_name form
     # recipient is typically "Lastname, Firstname M." — build a nicer version
@@ -1141,12 +1153,15 @@ def generate(candidate_fragment: str, output_dir: str = "."):
 
 def main():
     parser = argparse.ArgumentParser(description="Generate profile JSON for a campaign finance candidate")
-    parser.add_argument("--candidate", required=True, help="Candidate name fragment (e.g. 'Qadri')")
+    parser.add_argument("--candidate", required=True, help="Candidate name fragment (e.g. 'Qadri'). "
+                        "Pass an exact recipient string to disambiguate (e.g. 'Alter, Ryan').")
+    parser.add_argument("--slug", default=None, help="Override the output slug (e.g. 'alter'). "
+                        "Defaults to a slugified candidate fragment.")
     parser.add_argument("--output-dir", default="C:/Users/Hamza Sait/Electoral/austin-finance-data",
                         help="Output directory for JSON files")
     args = parser.parse_args()
 
-    generate(args.candidate, args.output_dir)
+    generate(args.candidate, args.output_dir, slug_override=args.slug)
 
 
 if __name__ == "__main__":
