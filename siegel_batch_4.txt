@@ -1,0 +1,200 @@
+Davis, Jill|78756|100|Not Employed|Not Employed|Austin, TX, 78756
+Daphnis, Jonel|70116|100|self employed|physician|New Orleans, LA, 70116
+Curry, John|78756|100|Escobedo Group|Architect|Austin, TX, 78756
+Corum, Claudia|78749|100|Not Employed|Not Employed|Austin, TX, 78749
+Cofer, Hanna|78745|100|The Trail Conservancy|Nonprofit|Austin, TX, 78745
+Clark, cari|78703|100|Sotheby's|Realtor|Austin, TX, 78703
+Claire Somers, Susan|78758|100|The University of Texas at Austin|Academic Advisor|Austin, TX, 78758
+Cash, Robert|78754|100|Citizens Trade Campaign|Director|Austin, TX, 78754
+Byrne, Dan|78701|100|Fritz Byrne, PLLC|Attorney|Austin, TX, 78701
+Buhman, Lindsay|78702|100|UT McCombs School of Business|Business Analyst|Austin, TX, 78702
+Buhler, Gail|78704|100|Education Austin|Organizer|Austin, TX, 78704
+Brown, Rob|94710|100|Self|Developer|Berkeley, CA, 94710
+Brekke, David|94618|100|Not Employed|Not Employed|Oakland, CA, 94618
+Brand, Shelley|78757|100|Creative Tonic|Marketing|Austin, TX, 78757
+Bharucha, Cyrus|92129|100|Asml|Patently attorney|San Diego, CA, 92129
+Berghammer, Darlene|78731|100|Not Employed|Not Employed|Austin, TX, 78731
+Bellomy, Lauren|78757|100|UT System|Attorney|Austin, TX, 78757
+Bell-Cleveland, Millicent|94619|100|retired|Retired|Oakland, CA, 94619
+Baqai, Maheen|78735|100|Compass RE Texas, LLC|Realtor|Austin, TX, 78735
+AlKhateeb, Dina|78738|100|Not Employed|Not Employed|Austin, TX, 78738
+Ahmed, Farah|78750|100|Self|Attorney|Austin, TX, 78750
+Ahlquist, Joseph|78757|100|Cisco Systems|Customer Success Manager|Austin, TX, 78757
+Abbyad, Christine|78735|100|UT Austin|nurse|Austin, TX, 78735
+McCartney, Mark|78704|96|ARM|engineer|Austin, TX, 78704
+Gharakhanian, Stephanie|78758|94|Travis County|Attorney|Austin, TX, 78758
+Williams, Elizabeth|88310|85|Not Employed|Not Employed|Alamogordo, NM, 88310
+Drake, Daniel|94941|83|none|not employed|Mill Valley, CA, 94941
+Beach, Paul|19143|82|BronxCare Health System|family physician|Philadelphia, PA, 19143
+Voellinger, Catina|78748|81|Ground Game Texas|COO|Austin, TX, 78748
+Wall, Julie|78757|80|Not Employed|Not Employed|Austin, TX, 78757
+Burchsted, Sandy|78732|80|Not employed|Not employed|Austin, TX, 78732
+Randall, Haines|78750|79|Not Employed|Not Employed|Austin, TX, 78750-3566
+Matson, Samantha|16441|77|self|horse breeder|Waterford, PA, 16441
+White, Cliff|78754|75|RetailMeNot|iOS Engineering Manager|Austin, TX, 78754
+Whellan, Michael|78731|75|Armbrust & Brown, PLLC|Attorney|Austin, TX, 78731
+Thompson, Gail|78759|75|Retired|Retired|Austin, TX, 78759
+Skidmore, Danielle|78701|75|K Friese & Associates|Civil Engineer|Austin, TX, 78701
+Sieh, Andrea|78759|75|ADCA|RDH|Austin, TX, 78759-7016
+Salling, Lauren|78757|75|RRISD|Speech therapist|Austin, TX, 78757
+Rosenthal, Oren|78759|75|Khoros|Data Analyst|Austin, TX, 78759
+Ouyang, Kevin|19403|75|General Motors|Data Scientist|Audubon, PA, 19403
+Maddox, Cory|78717|75|Not Employed|Not Employed|Austin, TX, 78717
+Ladov, Rachel|78757|75|Self employed|Therapist|Austin, TX, 78757-1806
+Hoke, Julia|78757|75|Self|Psychologist|Austin, TX, 78757
+Epstein, Kathryn|94606|75|Fielding university|Professor|Oakland, CA, 94606
+Drake, Kerry|78757|75|AACNS|Teacher|Austin, TX, 78757
+Cobb, Gay Plair|94607|75|Oakland PIC, Inc.|CEO|Oakland, CA, 94607
+Breton, Peter|78746|75|CapMetro|Community Engagement Coordinator|Austin, TX, 78746
+Blazer, Emily|78757|75|Teacher Retirement System|retired systems analyst|Austin, TX, 78757
+Blackard, Patrick M|78681|75|Self|Videographer|Round Rock, TX, 78681
+Alam, Bader|78704|75|Full Frame Growth Partners|Investor|Austin, TX, 78704
+Abbott, Sean|78749|75|Armbrust & Brown, PLLC|Attorney|Austin, TX, 78749
+Padilla, Celeste|78757|70|none|self|Austin, TX, 78757
+Krishna, Karna|01760|70|Rutgers University|Graduate Assistant|Natick, MA, 01760
+Connolly, Joao Paulo|78722|70|Not Employed|Not Employed|Austin, TX, 78722
+Bingham, Pam|78723|70|Not Employed|Not Employed|Austin, TX, 78723
+Zaidi, Asif|78717|69|n/a|SW Engr|Austin, TX, 78717
+McElroy, Jim|78757|65|Health and Human Svcs Dept|Financial Analyst|Austin, TX, 78757
+Clayton, Tucker|76550|65|Trade Justice Ed Fund|Organizer|Lampasas, TX, 76550
+A Ward, Travis|78751|65|Liaison Creative + Marketing|Video Editor/Videographer|Austin, TX, 78751
+Mccartney, Mark|78767|64|Intel|engineer|Austin, TX, 78767
+Al-Bedaiwi, Mohammad|78681|63|Visa|Sr manager|Round Rock, TX, 78681
+Smith, Paul|78757|60|Lake Austin Spa Resort|Fitness Professional|Austin, TX, 78757
+Pierre Dell, Austin|78752|60|Sealed air|Packaging designer|Austin, TX, 78752
+Noyola, Eva|78757|55|UT Austin|Scientist|Austin, TX, 78757-3027
+Echegaray, Wellington|78728|55|Sada|Project manager|Austin, TX, 78728-4416
+Valentine, Shane|78757|53|HDR Inc.|Environmental Scientist|Austin, TX, 78757
+Johnson, Ryan|78757|53|HNTB|Planner III|Austin, TX, 78757
+Koeninger, Sara|78703|52|Not Employed|Not Employed|Austin, TX, 78703
+Zighelboim Awni, Jane|91307|50|LA Junkies Inc|Treasurer|West Hills, CA, 91307
+Zamer, Ahmad|78737|50|Not Employed|Not Employed|Austin, TX, 78737
+Woodell, Amy|78757|50|Not employed|Not employed|Austin, TX, 78757
+Wildenthal, Lora|77008|50|Rice University|professor|Houston, TX, 77008
+Whitsitt, Stephen J|90266|50|Not Employed|Not Employed|Manhattan Beach, CA, 90266
+Weills, Christopher|94704|50|Ultimate Sports Guide|Receptionist|Berkeley, CA, 94704
+Wang, Shenghao|78750|50|Shenghao Wang|Lawyer|Austin, TX, 78750
+Wallace, Diane|90266|50|Not Employed|Not Employed|Manhattan Beach, CA, 90266
+W Steiner, Jack|78728|50|Dealerware|Salesforce Administrator|Austin, TX, 78728
+Vasquez, Skip|78741|50|consultant|Self employed|Austin, TX, 78741
+Varela-Broxson, Kim|78660|50|Nnaf|IT director|Pflugerville, TX, 78660
+Tullos, Allen|78526|50|Deloitte|Consultant|Brownsville, TX, 78526
+Thompson, Mat|78757|50|Not Employed|Not Employed|Austin, TX, 78757
+Tehrani, Cyrus|78701|50|Concentric AI|VP of Marketing|Austin, TX, 78701
+Tariq, Syed|77041|50|Not Employed|Not Employed|Houston, TX, 77041
+Tanaka, Kate|94610|50|Not Employed|Not Employed|Oakland, CA, 94610
+TIMM, EMILY|78721|50|Way to Win|Deputy Director|Austin, TX, 78721
+Swor, Amanda|78681|50|Drenner Group|Director|Round Rock, TX, 78681
+Swallow, Sarah|78756|50|Collective Campaigns|Consultant|Austin, TX, 78756
+Strickman, Carol|94618|50|Not Employed|Not Employed|Oakland, CA, 94618
+Stiles, Julie|78757|50|CA Technologies|software|Austin, TX, 78757
+Stewart, Jackie|78757|50|Not Employed|Not Employed|Austin, TX, 78757
+Stading, Tycha|78731|50|Not Employed|Not Employed|Austin, TX, 78731
+Somers, Susan|78758|50|The University of Texas at Austin|Academic Advising Coordinator|Austin, TX, 78758
+Snow, Mollie|78750|50|Not Employed|Not Employed|Austin, TX, 78750-8140
+Singh, Arati|78735|50|Raise Achievement, LLC|educational consultant|Austin, TX, 78735
+Shahid, Aniq|78723|50|Nvidia|Engineer|Austin, TX, 78723
+Shack, Barbara|78701|50|City of Austin|Program Manager|Austin, TX, 78701
+Segal, Louis D|94611|50|Not Employed|Not Employed|Oakland, CA, 94611
+Saval, Maureen|78641|50|Not Employed|Not Employed|Leander, TX, 78641-3654
+Romilly, Constancia|10516|50|Not employed|Not employed|Cold Spring, NY, 10516
+Roberts, Christopher|94607|50|Not Employed|Not Employed|Oakland, CA, 94607
+Rivas, Adal|78749|50|City of Austin|Communications Director|Austin, TX, 78749
+Richards, Norman|78757|50|cisco|engineer|Austin, TX, 78757
+Renteria, Sabino|78702|50|Retired|Retired|Austin, TX, 78702
+Rawat, Murtaza|78681|50|Glas|Consultant|Round Rock, TX, 78681
+Radue, Roger|46151|50|Not Employed|Not Employed|Martinsville, IN, 46151
+Radnofsky, Barbara|77024|50|Self|Lawyer|Houston, TX, 77024
+Pustejovsky, Mary|53711|50|Beyond the Horizon|Sales Engineer|Madison, WI, 53711
+Powell, Lena|78751|50|Texas School for the Blind and Visually Impaired|Teaching Assistant|Austin, TX, 78751
+Patrick, Mary|78703|50|Not Employed|Not Employed|Austin, TX, 78703
+Paine-Keesey, Susan|78748|50|Self-employed|Yoga Instructor|Austin, TX, 78748
+P Dietz, Kevin|78756|50|TLSC|attorney|Austin, TX, 78756
+Oqeilan, Maha|78681|50|Not Employed|Not Employed|Round Rock, TX, 78681
+Norman, Leah|78702|50|LaborLab|Research Assistant|Austin, TX, 78702
+Nahas, Michael|78723|50|Self|Software Developer|Austin, TX, 78723
+NETSCHER, FRANCIS|78752|50|University of Texas at Austin|Software Developer|Austin, TX, 78752
+Moya, Lorinda & Don|78748|50|Lemonade Promotional|Sales|Austin, TX, 78748
+Moore, Karen|78757|50|Austin ISD/Travis County|Sub Teacher/Election Worker|Austin, TX, 78757
+Miller, Kristi|78727|50|Not Employed|Not Employed|Austin, TX, 78727
+Miller, Jaime|75080|50|Austin Independent school district|Operations management|Richardson, TX, 75080
+Metzger, Luke|78702|50|Environment Texas|Executive Director|Austin, TX, 78702
+Meisel, Christopher|78746|50|Self|Self|Austin, TX, 78746
+McIntosh, Mike|78757|50|University of Texas at Austin|systems administrator|Austin, TX, 78757
+McCormick, Donna Beth|78756|50|Retired|Retired|Austin, TX, 78756
+McCartney, Zachary|78729|50|HEB|Service Manager|Austin, TX, 78729
+May, Monica|78756|50|Expedia Group|Director, Marketing|Austin, TX, 78756
+Matson, Penelope|95959|50|Not Employed|Not Employed|Nevada City, CA, 95959
+Mason, Barbara|78726|50|Not employed|Not employed|Austin, TX, 78726
+Martin, Shirley|78756|50|Not Employed|Not Employed|Austin, TX, 78756
+Markham, Tyler|78741|50|Capital Area Food Bank of Texas|Agency Retail Coordinator|Austin, TX, 78741
+Maher, Crystal|78702|50|The Boat|Server|Austin, TX, 78702
+Maddux, Kenley|78756|50|State|Lawyer|Austin, TX, 78756
+Link, Gordon|94609|50|Not Employed|Not Employed|Oakland, CA, 94609
+Lighty, Michael|94611|50|Bernie 2020|Healthcare Constituency Director|Oakland, CA, 94611
+Lee, Doris|77410|50|Not Employed|Not Employed|Cypress, TX, 77410
+Lane, Jodi|78757|50|Fruitful Commons|Nonprofit Director|Austin, TX, 78757
+Laine, Krista|78759|50|Not Employed|Not Employed|Austin, TX, 78759
+Kurzweil, Jack|94703|50|Not Employed|Not Employed|Berkeley, CA, 94703
+Kotob, Ayman|78660|50|Zapier|Product Marketing Manager|Pflugerville, TX, 78660
+Khwaja, Aamar|76567|50|Aamar Khwaja|Founder|Rockdale, TX, 76567
+Khan, Sophia|78759|50|NAPA|Physician|Austin, TX, 78759
+Kawazoe, Alice|94070|50|CSU Office of the Chancellor|Educational Consultant|San Carlos, CA, 94070
+Kanawati, Diane|78750|50|Not Employed|Not Employed|Austin, TX, 78750
+Kahn, David||50|Not Employed|Not Employed|Oakland, CA, 94602
+Kabore, Alimatou|78665|50|Azzur group|Bioengineer|Round Rock, TX, 78665
+Jones, Suzanne|75025|50|Collin College|Professor|Plano, TX, 75025
+Iannaccone, Marisa|90019|50|Lake Travis ISD|Teacher|Los Angeles, CA, 90019
+Hu, Bin|78759|50|Not Employed|Not Employed|Austin, TX, 78759-7767
+Hovanky, Tai|78704|50|Striveworks|Software engineer|Austin, TX, 78704
+Hilliard, Cora|78723|50|Self|Mgt consultant|Austin, TX, 78723
+Heape, Stephen|78744|50|SHI|Sales|Austin, TX, 78744
+Hartman, David|78703|50|Dubois Bryant Campbell|Attorney|Austin, TX, 78703
+Harris, Mike|78755|50|Retired|N/A|Austin, TX, 78755
+Hardt, Brenda|77833|50|Not Employed|Not Employed|Brenham, TX, 77833
+Halpin, Richard|78660|50|Not Employed|Not Employed|Pflugerville, TX, 78660
+Hallinan, Conn|94705|50|Self|Actor/Writer|Berkeley, CA, 94705
+Halawani, Rola|78746|50|Not Employed|Not Employed|Austin, TX, 78746
+Gutierrez, Dahlia M.|78759|50|Not Employed|Not Employed|Austin, TX, 78759
+Griffith, Idona|78759|50|Not employed|Not employed|Austin, TX, 78759
+Greenberg, Alan|78756|50|Not Employed|Not Employed|Austin, TX, 78756
+Greco, Doug|78749|50|Self|Organizer|Austin, TX, 78749
+Gray, Melissa|78759|50|Not employed|Not employed|Austin, TX, 78759
+Goldstein, Glenn|94708|50|CFT|Union rep|Berkeley, CA, 94708
+Gannon, Chris|78723|50|Michael Hsu Office of Architecture|Architect|Austin, TX, 78723
+Gannon, Aixa|94610|50|Retired|Retired|Oakland, CA, 94610
+GOOLDY, WILLIAM|78758|50|Not Employed|Not Employed|Austin, TX, 78758
+Freeze, Joshua|78757|50|TACC (UT)|Data Wrangler|Austin, TX, 78757
+Fredrickson, Erik|78756|50|UT Austin|Postdoctoral scholar|Austin, TX, 78756
+Ezrailson, David|78756|50|Myself|Real estate agent|Austin, TX, 78756
+Elkhiamy, Nuha|78724|50|Google|Tech|Austin, TX, 78724
+Draper, Richard|95228|50|NUHW|Organizer|Copperopolis, CA, 95228
+Derengowski, Anna|78722|50|Zapier|Software developer|Austin, TX, 78722
+Dasilva, Mary|84321|50|Not Employed|Not Employed|Logan, UT, 84321
+Dalton, Martin|34986|50|Self|Travel Agent|Port St Lucie, FL, 34986
+Dabbakeh, Laila|78626|50|Not Employed|Not Employed|Georgetown, TX, 78626
+Cravey, Emma|78723|50|EarthShare Texas|Director of Operations|Austin, TX, 78723
+Cook, Tura|78731|50|Not Employed|Not Employed|Austin, TX, 78731
+Contractor, Amatulla|77449|50|Not Employed|Not Employed|Katy, TX, 77449
+Clement, Kim|95409|50|Not Employed|Not Employed|Santa Rosa, CA, 95409
+Choban, Gregory|78731|50|Not Employed|Not Employed|Austin, TX, 78731
+Cheema, Yasir|78734|50|Baylor Scott and white|Doctor|Austin, TX, 78734
+Castignoli, Rachel|78723|50|City of Austin|Worker|Austin, TX, 78723
+Carr, Jennifer|78757|50|DIRECTV|Manager|Austin, TX, 78757
+Bush, Lisa|78757|50|Austin ISD|Educator|Austin, TX, 78757
+Burns, Chelsea|78756|50|Butler School of Music, University of Texas at Austin|assistant professor of music theory|Austin, TX, 78756
+Bulla, Dale|78750|50|Not Employed|Not Employed|Austin, TX, 78750-7932
+Briggeman, Jason|78758|50|Austin Community College|economist|Austin, TX, 78758
+Breslow Newhouse, Ellen|10013|50|Not Employed|Not Employed|New York, NY, 10013
+Brandon, Benson|78702|50|T Morales|Electrician|Austin, TX, 78702
+Bond, Rebecca|94110|50|self-employed|Organizer|San Francisco, CA, 94110
+Bojo, Leah|10025|50|Drenner Group|consultant|New York, NY, 10025
+Blackson, Kim|78666|50|Not Employed|Not Employed|San Marcos, TX, 78666
+Binford, Nancy|78756|50|Self|OBGYN|Austin, TX, 78756
+Benavidez, Valerie|78757|50|Texas Freedom Network|Executive Director|Austin, TX, 78757
+Belmares, Dolores|78109|50|Public Citizen|Clean Energy Advocate|Converse, TX, 78109
+Axelrod, Jeffrey|01773|50|Not Employed|Not Employed|Lincoln, MA, 01773
+Arnold, Matt|78758|50|The Home Depot|Software engineer|Austin, TX, 78758
+Anzalone, Toni|78954|50|Not employed|Not employed|Round Top, TX, 78954
+Anderson, Ted|78723|50|Spacetime Studios|3D Modeler|Austin, TX, 78723
+Allen, Elle|78727|50|Self Employed|Real Estate|Austin, TX, 78727

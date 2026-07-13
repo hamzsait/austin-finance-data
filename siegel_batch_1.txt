@@ -1,0 +1,200 @@
+Whitt, Chris|78756|1350|Armbrust & Brown, PLLC|lawyer|Austin, TX, 78756
+Whitt, Ashley|78756|1350|Not Employed|Not Employed|Austin, TX, 78756
+Weills, Anne|94605|1350|self|attorney|Oakland, CA, 94605
+Taylor, Scott|78726|1350|Armbrust & Brown, PLLC|Attorney|Austin, TX, 78726
+Taylor, Kimberly|78726|1350|Leander ISD|Teacher|Austin, TX, 78726
+Siegel, Dan|94605|1350|Siegel Yee Brunner & Mehta|lawyer|Oakland, CA, 94605
+Ross, Benjamin|20814|1350|self|Retired|Bethesda, MD, 20814
+Rogers, Kathryn|78757|1350|Retired|Retired|Austin, TX, 78757
+Luckie, Vanessa|78731|1350|Austin Orchid Exchange|Owner|Austin, TX, 78731
+Luckie, Matt|78731|1350|FBR mgmt.|Self employed|Austin, TX, 78731
+Krumme, Robin|78703|1350|Self|Personal Trainer|Austin, TX, 78703
+Kranz, Paul|94706|1350|self|attorney|Albany, CA, 94706
+Jones, Annette|78703|1350|retired|retired|Austin, TX, 78703
+Hobbs, Jeff|78759|1350|Armbrust & Brown, PLLC|Attorney|Austin, TX, 78759
+Esteves, Tara|78704|1350|Armbrust & Brown|Attorney|Austin, TX, 78704
+Baumgartner, Matthew|78723|1350|Armbrust & Brown, PLLC|Attorney|Austin, TX, 78723
+Bartram, John|78746|1350|Retired|Retired|West Lake Hills, TX, 78746
+Bartram, Ashley|78746|1350|retired|attorney|West Lake Hills, TX, 78746
+Winkelman, Marc|78744|1150|Not Employed|Not Employed|Austin, TX, 78744
+SALAS-PORRAS, ANA LUISA|78756|1150|Not Employed|Not Employed|Austin, TX, 78756-2912
+Rutishauser, Robert|78731|1150|Not Employed|Not Employed|Austin, TX, 78731
+Lewis, Michael|78644|1150|WalkMe|Account Executive|Lockhart, TX, 78644
+Howell, Sula|01730|1150|Retired|Retired|Bedford, MA, 01730
+Kathleen, Clough|78644|950|Not Employed|Not Employed|Lockhart, TX, 78644
+Cofer, George|78746|950|self|consultant|Austin, TX, 78746-5507
+Maxwell, Felicity|78704|925|Tipitt LLC|Partner|Austin, TX, 78704-2019
+Zeller, Charles|78733|900|Not Employed|Not Employed|Austin, TX, 78733
+Zayan, Shaimaa|78613|900|CAIR-Texas, Austin|Operations Manager|Cedar Park, TX, 78613
+ZACCHINO, NARDA|90012|900|Narda Zacchino|editor|Los Angeles, CA, 90012
+Wiley, Philip|78701|900|Not Employed|Not Employed|Austin, TX, 78701-1031
+Wiley, Maria|78701|900|Not Employed|Not Employed|Austin, TX, 78701
+Weems, Amanda|78721|900|Democratic Socialists of America|Labor Organizer|Austin, TX, 78721
+Suddaby, Iris|78752|900|Travis County|Financial Analyst|Austin, TX, 78752
+Suddaby, Benjamin|78752|900|Travis County|Operations Specialist|Austin, TX, 78752
+Soeur, Channy|78754|900|CAS Consulting|CEO|Austin, TX, 78754
+Siff, Ted|78701|900|Creating Common Ground|Principal|Austin, TX, 78701
+Siegel, Michael|78757|900|Ground Game Texas|Political Director|Austin, TX, 78757
+Shah, Fayyaz|78641|900|careerbuilder|Product Mgmt|Leander, TX, 78641
+Scheer, Robert|90012|900|University of Southern California|Professor|Los Angeles, CA, 90012
+Schacher, Susan|94619|900|Not Employed|Not Employed|Oakland, CA, 94619
+Russell, James|78704|900|Trail of Lights Foundation|Executive Director|Austin, TX, 78704
+Rosselli, Sal|94134|900|National union of healthcare workers|Organizer|San Francisco, CA, 94134
+Reynolds, Gloria|94706|900|Not Employed|Not Employed|Albany, CA, 94706
+Prasad, Varun|78741|900|Not Employed|Software Engineering|Austin, TX, 78741
+Portman, Michael|78703|900|Retired|Wells Fargo|Austin, TX, 78703
+Perri, Chris|78745|900|Selfo|Lawyer|Austin, TX, 78745
+Natsheh, Hatem|78739|900|Self|Self emplyed|Austin, TX, 78739
+Muraj, Hamza|78723|900|Apptronik|Software Developer|Austin, TX, 78723
+Moskow, John|19317|900|Not Employed|Not Employed|Chadds Ford, PA, 19317
+Moonesinghe, Mark|78731|900|Inkind|Director|Austin, TX, 78731
+Moonesinghe, Johann|78704|900|Inkind|CEO|Austin, TX, 78704
+Mohammed, Hindatu|78757|900|Allandale Veterinary Clinic|Veterinarian|Austin, TX, 78757
+Mitchell, John|78756|900|Not Employed|Not Employed|Austin, TX, 78756
+Miller, Colleen|78759|900|Jamie Turner Designs|Account and Project Manager|Austin, TX, 78759
+Meyer, Tom|94703|900|Not Employed|Not Employed|Berkeley, CA, 94703
+Matson, John|95945|900|Self employed|Marketing|Grass Valley, CA, 95945
+Land, Diane|78701|900|Self|Consultant|Austin, TX, 78701
+Klein, Howard|90027|900|none|not employed|Los Angeles, CA, 90027
+King, David|78756|900|Armbrust & Brown PLLC|Attorney|Austin, TX, 78756
+King, Bill|78756|900|Not Employed|Not Employed|Austin, TX, 78756
+Kim, Peter|78754|900|chess.com|Software engineer|Austin, TX, 78754
+Kazi, Fayez|78753|900|Civilitude|Engineer|Austin, TX, 78753
+Kaufman, Michael|94619|900|Not Employed|Not Employed|Oakland, CA, 94619
+Jones, Kenneth|78701|900|Armbrust & Brown, PLLC|Attorney|Austin, TX, 78701
+Hussaini, Muna|78759|900|Csod|Sr Director strategic programs|Austin, TX, 78759
+Holmes, John|78731|900|Forcepoint LLC|Chief Legal Officer|Austin, TX, 78731
+Hollingsworth, Wayne|78746|900|Attorney|Attorney|Austin, TX, 78746
+Hollingsworth, Desiree|78746|900|Self Employed|Jewelry Import and Sales|Austin, TX, 78746
+Hoberman, Max|78756|900|Certain Affinity, Inc.|CEO|Austin, TX, 78756
+Hawkins, Mark|78703|900|Armrbust & Brown, PLLC|Attorney|Austin, TX, 78703
+Harris, Andrew|78704|900|inKind Cards, Inc.|Risk officer|Austin, TX, 78704
+Guthikonda, Vasumathi|78720|900|N/A|Retired IT professional|Austin, TX, 78720
+Guthikonda, Gopal|78720|900|Aminita, Inc.|Engineer|Austin, TX, 78720
+Gregory, Kay|78747|900|Not Employed|Retired|Austin, TX, 78747
+Gregory, Bob|78747|900|Texas Disposal Systems, Inc.|CEO|Austin, TX, 78747
+Gregory, Adam|78610|900|Texas Disposal Systems|Vice President|Buda, TX, 78610
+Goff, Eric|78701|900|Eric Winters Goff LLC|owner|Austin, TX, 78701
+Gilliland, Thomas|78756|900|FondaSanMiguel|Restaurateur|Austin, TX, 78756
+Gharbi, Mojdeh|78756|900|Certain Affinity Inc.|VP of Marketing & Operations|Austin, TX, 78756
+Flannigan, Jimmy|78729|900|Austin Convention Enterprises, Inc.|Administration|Austin, TX, 78729
+Flanagan, Paddy|78757|900|Apple|Program Manager|Austin, TX, 78757
+Flahive, Kevin|78703|900|Armbrust & Brown, PLLC|lawyer|Austin, TX, 78703
+Field, Megan|78757|900|señf|consultant|Austin, TX, 78757
+Eugene, Sepulveda|78705|900|Entrepreneurs Foundation|ceo|Austin, TX, 78705
+Esteves, Joshua|78704|900|Cody Building Supply|Project Manager|Austin, TX, 78704
+Deatrick, Ben|78759|900|Ground Game Texas|Operations Manager|Austin, TX, 78759
+Compton, Annie|78757|900|Self|Artist|Austin, TX, 78757
+Clapp, Peter|94803|900|JFKU School of Law|Teacher|Richmond, CA, 94803
+Castillo, Alycia|78702|900|Texas Civil Rights Project|Advocate|Austin, TX, 78702
+Bradley, David|02125|900|Not Employed|Not Employed|Boston, MA, 02125
+Boyt, Jeb|78756|900|Texas Department of Insurance|Attorney|Austin, TX, 78756
+Beliveau, Emmett|78703|900|C3 Presents|COO|Austin, TX, 78703
+Beckham, Kimberly|78759|900|Armbrust & Brown PLLC|Attorney|Austin, TX, 78759
+Baumgartner, Lydia|78723|900|MD Anderson|MD Anderson|Austin, TX, 78723
+Bagh, Abeer|78739|900|Not Employed|Not Employed|Austin, TX, 78739
+Anderson, Greg|78723|900|Austin Habitat for Humanity|Affordable Homeownership|Austin, TX, 78723
+Albert, David|78741|900|Professor|Austin Community College|Austin, TX, 78741
+Abou-Emara, Luai|78717|900|Enfabrica|Computer Engr|Austin, TX, 78717
+Kennedy, Caleb|78757|885|Think Company|Project Manager|Austin, TX, 78757
+Kim, Dustin|78757|850|Rudd and wisdom|Actuary|Austin, TX, 78757
+Braden, Alfred|78731|850|Al Braden Photographer|self employed|Austin, TX, 78731
+Libal, Bob|78756|825|self-employed|non-profit consultant|Austin, TX, 78756
+Popham, Jay|78744|795|Choice Magazine Listening|Editor|Austin, TX, 78744
+Clement, Kimberly|95409|750|retired|retired|Santa Rosa, TX, 95409
+Deatrick, Leslie|78759|725|Not Employed|Not Employed|Austin, TX, 78759
+Ahmed, Imad|78702|711|Self-employed|Consultant|Austin, TX, 78702
+Tomazin, Thomas|78757|700|Nvidia|Engineer|Austin, TX, 78757
+Silva, Joe|78758|700|City of Austin|Mgmt|Austin, TX, 78758
+Siegel, Jonathan|94610|700|self|attorney|Oakland, CA, 94610
+Siegel, Jesse|11740|700|self|attorney|Greenlawn, NY, 11740
+Lasch, Megan|78731|700|O-SDA|Developer|Austin, TX, 78731
+Khataw, Nahid|78746|700|Encotech|Business Development Specialist|Austin, TX, 78746
+Jouzdani, Ali|78757|700|HEB|Software Engineer|Austin, TX, 78757-1835
+Hamill, Sara|78757|700|EEA|Engineer|Austin, TX, 78757
+Foerster, Frank|78703|700|retired|retired|Austin, TX, 78703
+Dixit, Puneet|78757|700|Alliant|Consultant|Austin, TX, 78757
+Clement, Clay|95409|700|retired|retired|Santa Rosa, CA, 95409
+Brown, William|78757|700|Not Employed|Not Employed|Austin, TX, 78757
+Brock, Caleb|60601|700|caleb.us|Senior Strategist|Chicago, IL, 60601
+Ahmed, Ammar|78735|700|Seton|Physician|Austin, TX, 78735
+Qadri, Zohaib|78723|675|City of Austin|Council Member|Austin, TX, 78723
+Schenkkan, Phyllis|78731|650|retired|retired|Austin, TX, 78731
+Nevitt, Gabrielle|95694|650|University of California|Professor|Winters, CA, 95694
+Lommori, James|78757|650|Not Employed|Real Estate|Austin, TX, 78757
+Kathryn, Thompson|78756|650|Covenant Presbyterian Church|Teacher|Austin, TX, 78756-2913
+Forrest, Hugh|78731|650|SXSW|Event Planner|Austin, TX, 78731
+D'aneel, Asha|78752|650|Asha Daneel|Self-Employed|Austin, TX, 78752
+Hallinan, Anne|94705|600|freelance|Psychologist/Actor and Writer|Berkeley, CA, 94705
+Fontenot, Gordon|78727|600|Square|Software Developer|Austin, TX, 78727
+Falk, Carrie|78621|600|Not Employed|Not Employed|Elgin, TX, 78621
+Copp, Gregory|78701|600|Self|Tax|Austin, TX, 78701
+Segal, Daniel|91711|597|Pitzer College|Teacher|Claremont, CA, 91711
+Bissex, Ramsey|78727|595|city of austin|software engineer|Austin, TX, 78727
+Rodriguez Robertson, Jessica|78757|590|Collective Campaigns|Campaign manager|Austin, TX, 78757
+ishaq, ali|78717|561|Apple|Program manager|Austin, TX, 78717
+Yee, Alan|94602|550|Siegel, Yee, Brunner & Mehta|Attorney|Oakland, CA, 94602
+Webber, Rebecca|78723|550|Webber Law|attorney|Austin, TX, 78723
+Schoenfield, Miriam|78722|550|UT|Professor|Austin, TX, 78722
+McMahon, Sukyi|20901|550|ESD|JLUSA|Silver Spring, MD, 20901
+Levinson, Kimberly|78701|550|Not Employed|Not Employed|Austin, TX, 78701
+Hanes, Jenna|78758|550|City of Austin|Policy Advisor|Austin, TX, 78758
+Bagh, Fares|78739|550|Not Employed|Not Employed|Austin, TX, 78739
+Schaubert, Fredrik|78757|534|Emerson Industrial Automation|Engineer|Austin, TX, 78757-3114
+Kilgore, Jarod|78757|525|Quality Assurance|Quality Engineer Technician|Austin, TX, 78757
+Bray, Timothy|78751|510|Not Employed|Policy Advisor|Austin, TX, 78751
+Orthwein, Jennifer|94501|500|self|attorney|Alameda, CA, 94501-3924
+Muhammad, Abubaker|15022|500|Federal Bureau of Prisons|Cleric|Charleroi, PA, 15022
+Morris, Sarah|78758|500|Gap inc|Strategy|Austin, TX, 78758
+Libal, George|78731|500|Not Employed|Not Employed|Austin, TX, 78731
+Davis, Will|78704|500|Not Employed|Not Employed|Austin, TX, 78704
+Bingham, Stephen|94903|500|Not Employed|attorney|San Rafael, CA, 94903
+Koubaa, Mohamed|78728|475|Ansys Inc|Engineer|Austin, TX, 78728
+Smith, Darrold|78757|460|ACC|Tutor/professer|Austin, TX, 78757
+sarosh, zulfiqar|78739|450|Intel|Engineer|Austin, TX, 78739
+moonesinghe, Jimol|78731|450|InKind|EA|Austin, TX, 78731
+Zhao, Cj|78730|450|Amherst|Economist|Austin, TX, 78730
+Yi, Alice|78745|450|Not Employed|Not Employed|Austin, TX, 78745
+Wick, Jim|78747|450|JTX Strategies Inc.|Consultant|Austin, TX, 78747
+Welch, Parker|78731|450|City of Austin|Civil Engineer|Austin, TX, 78731
+Weills, Susan|95959|450|Self|Shop owner|Nevada City, CA, 95959
+Weills, Pamela|95959|450|Not Employed|Not Employed|Nevada City, CA, 95959
+Weills, Kenly|95959|450|Retired|Retired|Nevada City, CA, 95959
+W SCHEER, CHRISTOPHER|94605|450|SPGTherapy/SFUSD|Therapist|Oakland, CA, 94605
+Virani, Alim|78703|450|Etsy|Engineering Manager|Austin, TX, 78703
+Tomazin, Jennifer|78757|450|Not Employed|Not Employed|Austin, TX, 78757
+Thompson, Kacey|78756|450|Good Shepherd Episcopal School|Teacher|Austin, TX, 78756
+Spencer, Elissa|95945|450|Grass Valley School District|Teacher|Grass Valley, CA, 95945
+Smullen, Lily|78731|450|Not Employed|Not Employed|Austin, TX, 78731
+Slusher, Lauren|78751|450|self|photographer|Austin, TX, 78751
+Siddiqui, Owais|78641|450|Lennar|Real estate tech|Leander, TX, 78641
+Siddiqi, Azra|78731|450|Not Employed|Not Employed|Austin, TX, 78731
+Sheehan, Cynthia|78756|450|Not Employed|Not Employed|Austin, TX, 78756
+Shafer, Kristine|78757|450|Kristine Shafer|Studio Owner|Austin, TX, 78757
+Scholl, Jennifer|78704|450|Armbrust & Brown PLLC|Attorney|Austin, TX, 78704
+Scheer, Christopher|94605|450|Oakland Unified School District|Teacher|Oakland, CA, 94605
+Schaubert, Sara|78757|450|Self|Veterinarian|Austin, TX, 78757
+Sattler, Nicholas|78756|450|Expedia Group|Manager|Austin, TX, 78756
+Sani, Aishatu|15213|450|UPMC|Nursing|Pittsburgh, PA, 15213
+Roth, Susan|33418|450|Not Employed|Not Employed|Palm Beach Gardens, FL, 33418
+Rose, Patrick|78666|450|Corridor Title|Real Estate|San Marcos, TX, 78666
+Rogers, Frank|78757|450|Retired|Retired|Austin, TX, 78757
+Reagan, Lucy|78746|450|NA|Not Emoloyed|Austin, TX, 78746
+Reagan, Billy|78746|450|Reagan Outdoor|Advertising|Austin, TX, 78746
+Razian, Anoosh|78702|450|Self-employed|Therapist|Austin, TX, 78702
+Ramey, Ko|78723|450|The Ko Law Firm, PLLC|Attorney|Austin, TX, 78723
+Preston-Werner, Theresa|94957|450|128 Collective Foundation|Anthropologist|Ross, CA, 94957
+Powell, Huston|78704|450|C3 Presents|Promoter|Austin, TX, 78704
+Poteet, Brian|78751|450|Cutsforth, Inc.|Software Engineer|Austin, TX, 78751
+Pierce, Greg|78757|450|Self|Carpenter|Austin, TX, 78757
+Piano, Molly|78751|450|Resource Group|Healthcare|Austin, TX, 78751
+Piano, Gian Michael|78751|450|Seton|Healthcare|Austin, TX, 78751
+Phillips, Travis|78701|450|Armbrust & Brown PLLC|Attorney|Austin, TX, 78701
+Phillips, Ashley|78701|450|Holland & Knight|Attorney|Austin, TX, 78701
+Petschek, Rodolfo|95959|450|Not Employed|Not Employed|Nevada City, CA, 95959
+Perrenod, William|70117|450|Self|Nonprofit Business Consultant|New Orleans, LA, 70117
+Pagni, Tiffany|78744|450|IRS|Management and Program Assistant|Austin, TX, 78744
+Owens, Stephen|78756|450|University of Texas at Austin|Researcher|Austin, TX, 78756
+Osta Lugo, Luis|78746|450|Tarro|Software Engineer|Austin, TX, 78746
+Novakovich, John|78741|450|Guideline|Analyst|Austin, TX, 78741
+Nabulsi, Oula|78717|450|Self|Real Estate Professional|Austin, TX, 78717

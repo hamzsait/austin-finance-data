@@ -1,0 +1,53 @@
+Humphrey, Mary|78731|10|UT Austin|Higher Education|Austin, TX, 78731
+Hinckley, James|78756|10|Deloitte Consulting|Manager|Austin, TX, 78756
+Griscom, David|78745|10|Self|Journalist|Austin, TX, 78745
+Greenfield, Stuart|78731|10|ACC|Lecturer|Austin, TX, 78731
+Gordon, Eric||10|Not Employed|Not Employed|Dublin, D04YY16
+Fang, Ziheng|95112|10|Not Employed|Not Employed|San Jose, CA, 95112
+Donnelly, Michael|02188|10|Not employed|Not employed|Weymouth, MA, 02188
+Davis, Marienella|78665|10|PushBlack|Digital Content Associate|Round Rock, TX, 78665
+Dalton, Chase|78757|10|Workrise|Lawyer|Austin, TX, 78757
+Cox, Xiani|33129|10|NA|NA|Miami, FL, 33129
+Clark, Kachina|78727|10|City of Austin|Social Worker|Austin, TX, 78727
+Bradberry, Anahita|15238|10|Freelance|Consultant|Pittsburgh, PA, 15238-1624
+Brackney, Michael|92103|10|Not Employed|Not Employed|San Diego, CA, 92103
+Besecke, Kelly|78753|10|self-employed|editor|Austin, TX, 78753
+Barnard, Nancy|78757|10|Not Employed|Not Employed|Austin, TX, 78757
+Asikoglu, Bilge|95113|10|Not Employed|Not Employed|San Jose, CA, 95113
+Aronowitz, Jacob|78757|10|Collective campaigns|Organizer|Austin, TX, 78757
+Arnsparger, John|77059|10|Not Employed|Not Employed|Houston, TX, 77059
+Damri, Mehroo|76040|6|Not Employed|Not Employed|Euless, TX, 76040
+Clark, Brian|60641|5|Zebra Technologies|Finance|Chicago, IL, 60641
+Walters, Melanie|78757|5|Not Employed|Not Employed|Austin, TX, 78757
+Voellinger, Alexander|78748|5|Self|Consultant|Austin, TX, 78748
+Stevans, Matthew|78751|5|ATX Solar|Director|Austin, TX, 78751
+R Krausse, Matthew|78731|5|Ground Game Texas|Data Director|Austin, TX, 78731
+Ochoa Cronfel, Guillermo|78735|5|Self|Attorney|Austin, TX, 78735
+Nick, Robert|78750|5|SNPS|Acct Mgr|Austin, TX, 78750
+Nance, Lyn|78753|5|Liuna|Labor|Austin, TX, 78753
+McMillen, Chris|10312|5|Not Employed|Not Employed|Staten Island, NY, 10312
+Mauri, Crisrina|78249|5|Not Employed|Not Employed|San Antonio, TX, 78249
+Mahoney, Tim|78767|5|self|Lawyer|Austin, TX, 78767
+Luryi, Helen|20010|5|U.S. Department of Labor|Communications Specialist|Washington, DC, 20010
+Lee, Haru|78752|5|Newmark|Software developer|Austin, TX, 78752
+Kno, Riley|78752|5|Leviathan Air|CEO|Austin, TX, 78752
+Knight, Ryan|78721|5|Austin Discovery School|Education|Austin, TX, 78721
+Jarl, Katie|78210|5|Texas Pets Alive|Director|San Antonio, TX, 78210
+Hiller, Jay|78726|5|TSBVI|Slp|Austin, TX, 78726
+Furca, Susan|84121|5|Not Employed|Not Employed|Holladay, UT, 84121-1217
+Ervin, Jason|78730|5|Not Employed|Not Employed|Austin, TX, 78730
+Dunlap, Traci|78744|5|Austin ISD|Teacher|Austin, TX, 78744
+Duhon, Kolby|78723|5|Travis county|Court clerk|Austin, TX, 78723
+Dalmat, Gail|14521|5|Not Employed|Not Employed|Ovid, NY, 14521
+Benavides, Samantha|78041|5|Mano Amiga|Comms Director|Laredo, TX, 78041
+Balch, Christopher|78653|5|RS3|Cashier|Manor, TX, 78653
+Gilbert, Benjamin|97209|5|Laika|Visual Effects Artist|Portland, OR, 97209
+Joye, Barbara|30033|4|Not Employed|Not Employed|Decatur, GA, 30033
+Seidman, Doug|10003|4|Not Employed|Not Employed|Manhattan, NY, 10003
+Suleskey, Amber|11215|2|Nyu|Medical|Brooklyn, NY, 11215
+Bates-campbell, Lucy|12051|2|Sunny Bates associates|Executive recruiter|Coxsackie, NY, 12051
+Lamping, Joseph|45247|2|Walt Disney World|Sales Associate|Green Township, OH, 45247
+Keady, John|07042|2|Sierra Club|Proposal Writer|Montclair, NJ, 07042
+Marsh, Karen|33709|1|Belcherpharmaceuticals LLC|Quality Assurance|St Petersburg, FL, 33709
+Forney, Emily|15207|1|Carnegie Mellon College of Engineering Communications|Higher Education Administrator|Pittsburgh, PA, 15207
+Blumenthal, Violette|27713|1|Not Employed|Not Employed|Durham, NC, 27713

@@ -1,0 +1,200 @@
+Ahmed, Aamer|78738|50|Intel|Engineering|Austin, TX, 78738
+Vassallo, Stephanie|91401|45|Not Employed|Not Employed|Van Nuys, CA, 91401
+Shimpi, Nikhil|11205|45|National Labor Relations Board (U.S. Government)|Lawyer|Brooklyn, NY, 11205
+Sloan, Heidi|78753|43|The Farm at Carcara|Owner/Operator|Austin, TX, 78753
+Reis, Bernardo|78726|42|ActBlue|Politics|Austin, TX, 78726
+Wills, Anita|94577|40|Not Employed|Not Employed|San Leandro, CA, 94577
+Thompson, Katharine T|03883|40|Not Employed|Not Employed|South Tamworth, NH, 03883
+Rockel, Randall|34228|40|Not Employed|Not Employed|Sarasota, FL, 34228
+Mann, Lane|78756|40|UT Austin|Program Coordinator|Austin, TX, 78756
+Landry, Lisa|78759|40|Texas DSHS|RN|Austin, TX, 78759
+Hairston, Andrew|78702|40|Texas Appleseed|Project Director|Austin, TX, 78702
+Peterson, Mark|30813|38|DoD|Analyst|Grovetown, GA, 30813
+Mccann, Charlotte|20016|36|Not Employed|Not Employed|Washington, DC, 20016
+Kaplan, Roy|94618|36|Not employed|Not employed|Oakland, CA, 94618
+Tishkoff, Jane|94610|35|Not Employed|Not Employed|Oakland, CA, 94610
+Skinner, José|78731|35|Not employed|Not employed|Austin, TX, 78731
+McKim, Mark|78723|35|Main Street Renewal|Social Worker|Austin, TX, 78723
+Mankey, Dorothy|78757|35|Not Employed|Not Employed|Austin, TX, 78757
+Khan, Tariq|78737|35|Algolia Inc.|Marketer|Austin, TX, 78737
+Kavelman, Daniel|87122|35|Shoal Creek Conservancy|Policy Manager|Albuquerque, NM, 87122
+Bier, Marti|78723|35|Texas Freedom Network|VP Programs|Austin, TX, 78723
+Gutstadt, Jonathan|89503|33|Peppermill Casino|Massage Therapist|Reno, NV, 89503
+Ruggero, Roque|78757|30|cea|physician|Austin, TX, 78757
+Kachelmeyer, James|78757|30|City of Austin|Attorney|Austin, TX, 78757
+Gullion, Dion|78758|30|None|Student|Austin, TX, 78758
+Flanigan, Gisele|77833|30|self-employed|administration|Brenham, TX, 77833
+Fierro Guzman, Ana Laura|78757|30|Workers Defense|Labor Organizer|Austin, TX, 78757
+Bowden, Sally|10003|30|Not Employed|Not Employed|New York, NY, 10003
+hannah, David|77079|27|Pediatrix medical group|Field engineer, IT|Houston, TX, 77079
+Lara, Kristi|75024|27|Not Employed|Not Employed|Dallas, TX, 75024
+Fischer García, Huey Rey|70116|27|Southern Poverty Law Center|Attorney|New Orleans, LA, 70116
+van Zanten, Catherine|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Zunker, Noah|78681|25|Not Employed|Not Employed|Round Rock, TX, 78681
+Zondervan, Quinton|02141|25|Not Employed|Not Employed|Cambridge, MA, 02141
+Zimmerman, Julie|78757|25|Texas Ranch Sales, LLC|Real estate agent|Austin, TX, 78757
+York, Tanya|90066|25|Tanya York|Self-employed|Los Angeles, CA, 90066
+Yeager, Margot|80424|25|SSD|Nurse|Breckenridge, CO, 80424
+Wu, Benjamin|78757|25|Ben Wu|Video Producer|Austin, TX, 78757
+Williams, Stephen|78703|25|Not Employed|Not Employed|Austin, TX, 78703
+Whitley, Tracey|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Weislow, LeeAnn|78756|25|Not Employed|Not Employed|Austin, TX, 78756
+Wei, Mingyuan|78681|25|Real International|Realtor|Round Rock, TX, 78681
+Weber, Edwin|10516|25|Not Employed|Not Employed|Cold Spring, NY, 10516
+Venish, Vivian|78751|25|Capital Factory|Workplace Manger|Austin, TX, 78751
+Uddin, Nick Nizam|78732|25|CS|Engr|Austin, TX, 78732
+Teigland, Stephen|94705|25|Not employed|Not employed|Berkeley, CA, 94705
+Sutton, Nancy|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Stimets, Mike|78756|25|Parsons|Analyst|Austin, TX, 78756-1623
+Sittler, Wolf|78704|25|self|woodworker|Austin, TX, 78704
+Sinclair, Caroline|78617|25|Retired|Retired|Del Valle, TX, 78617
+Shocket, Richard|78757|25|retired|retired|Austin, TX, 78757
+Shea, Stephanie|10031|25|Not Employed|Not Employed|Manhattan, NY, 10031
+Shaholli, Ardian|78745|25|Travis County|Procurement Specialist|Austin, TX, 78745
+Seals, Christy|78757|25|Texas Parks and Wildlife|Architect|Austin, TX, 78757
+Seagraves, Clare|78757|25|State of Texas|State employee|Austin, TX, 78757
+Schwartz, Wendy Ann|94956|25|Not Employed|Not Employed|Point Reyes Stn, CA, 94956
+Santulli, Michael|78758|25|City of Austin|Business Process Consultant|Austin, TX, 78758
+Saeed, Atif|78750|25|Tech|Marketing|Austin, TX, 78750
+Roy, Meghna|78717|25|Ocelot|Executive|Austin, TX, 78717-3837
+Rodriguez, Teri|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Roberts, Marina|78758|25|Workers Defense Project|Grant Writer|Austin, TX, 78758
+Rice, Ken|94609|25|Not Employed|Not Employed|Oakland, CA, 94609
+Provencio, Douglas|94112|25|Magnit Global Solutions|Web Publishing Specialist|San Francisco, CA, 94112
+Porteck, Kevin|78232|25|Not employed|Not employed|San Antonio, TX, 78232
+Peterson, David|78721|25|Federal Public Defenders|Assistant Federal Public Defender|Austin, TX, 78721
+Peniel, Joseph|78751|25|UT Austin|Professor|Austin, TX, 78751
+Patricia, Niswander|78702|25|Ctm|Cms iii|Austin, TX, 78702
+Paskey, Matthew|91311|25|Matthew Paskey|Self-Employed|Chatsworth, CA, 91311
+Norman, James|78758|25|Civitech|Engineer|Austin, TX, 78758
+Nishat, Adnan|78738|25|Silicon Labs|Manager|Austin, TX, 78738
+Nill, Ryan|78757|25|Ryan Nill|Cooperative Housing Developer|Austin, TX, 78757
+Nigro, Mary|08022|25|Not Employed|Not Employed|Columbus, NJ, 08022
+Nichols, Kelly|78757|25|Self-employed|Consultant|Austin, TX, 78757
+NELSEN, ROXANNE|94024|25|SELF|CPA|Los Altos, CA, 94024
+Menicucci, Margaret|78731|25|Braun & Gresham PLLC|Attorney|Austin, TX, 78731
+Meade, Nikelle|78739|25|Husch Blackwell LLP|Attorney|Austin, TX, 78739
+Mclane, Catherine|94611|25|Not Employed|Not Employed|Oakland, CA, 94611
+McInerney, Michael|77477|25|Retired|Geologist|Stafford, TX, 77477
+McHone, Mike|78751|25|Mike McHone  Real Estate|Real Estate|Austin, TX, 78751
+McAbee, Sarah|78757|25|The University of Texas at Austin|Executive Director|Austin, TX, 78757
+Marzullo, Amanda|78741|25|Austin Community Law Center|Lawyer|Austin, TX, 78741
+Marsh, Peter|78727|25|CertifID. Inc|Information Security|Austin, TX, 78727
+Mahomed, Faheem|78723|25|The business|Business|Austin, TX, 78723
+Lynn, Kelly|78757|25|Kibo|Product Manager|Austin, TX, 78757
+Lowenthal, Nancy|94610|25|Not Employed|Not Employed|Oakland, CA, 94610
+Loo, Clyde|10025|25|Not employed|Not employed|New York, NY, 10025
+Link, Graham|78722|25|athenahealth|UX Researcher|Austin, TX, 78722
+Laas, Whitney|78704|25|Bumble|Customer Service|Austin, TX, 78704
+Knox, Riley|78752|25|Self|Mechanical Engineer|Austin, TX, 78752
+Knowles-Reiff, Gareth|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Kinnison, Andrea|78745|25|The Constant Company|Content Marketing Specialist|Austin, TX, 78745
+Jones, Carl|78669|25|Not Employed|Not Employed|Spicewood, TX, 78669
+Joe Cuvillier Jr, John|78745|25|UNITE HERE Local 23|Organizer|Austin, TX, 78745
+J Duhon, Kolby|78723|25|Travis County|Court clerk|Austin, TX, 78723
+Imam, Mohammed|78732|25|Qualcomm|Engineer|Austin, TX, 78732
+Husain, Farooq|78720|25|Oracle|Senior Consulting Solutions Director|Austin, TX, 78720
+Hsieh, Melissa|78757|25|21st Century Accounting|President|Austin, TX, 78757
+Houston, Joshua|78757|25|Caritas of Austin|Lobbyist|Austin, TX, 78757
+Hoglander, Judith|01930|25|Not Employed|Not Employed|Gloucester, MA, 01930
+Hoglander, Harry|01930|25|Not Employed|Not Employed|Gloucester, MA, 01930
+Hoberman, Louisa|78731|25|Not Employed|Not Employed|Austin, TX, 78731
+Hilliard, Corky|78723|25|Self|Mgt Consultatn|Austin, TX, 78723
+Hendrickson, Tom|01030|25|Hurst for Mayor|Campaign Manager|Feeding Hills, MA, 01030
+Hasan, Riad|78732|25|Self|Concerned Citizen|Austin, TX, 78732
+Harvey, Nick|94971|25|Not Employed|Not Employed|Tomales, CA, 94971-0108
+Hartley, Ann|78746|25|Not Employed|Not Employed|Austin, TX, 78746
+Hart, Mallory|78723|25|Hart Matters|Consultant|Austin, TX, 78723
+Harris, Chris|78705|25|Austin Justice Coalition|Director|Austin, TX, 78705
+Hardy, Ross|78752|25|Leander ISD|Programmer / Analyst|Austin, TX, 78752
+Goozner, Barry|10023|25|Not Employed|Not Employed|Manhattan, NY, 10023
+Gonzalez, Rafael J.|94705|25|Not employed|Not employed|Berkeley, CA, 94705
+Gonzales, Andrew|78748|25|Fair Logistics|Inventory Analyst|Austin, TX, 78748
+Gomez, Diana|78640|25|Progress Texas|Advocacy Manager|Kyle, TX, 78640
+Glazer, Amanda|78757|25|UC Berkeley|Grad student|Austin, TX, 78757
+Galindo, David|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Furth, Wynne|97201|25|Not Employed|Not Employed|Portland, OR, 97201
+Focke, Karl|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Finn, Julia|78727|25|City of Austin|Procurement|Austin, TX, 78727
+Evans, Pam|78758|25|Yardi Systems|Accounting|Austin, TX, 78758
+Embree, Alice|78722|25|Not Employed|Not Employed|Austin, TX, 78722
+Elizabeth, Mary|78753|25|Retired|Retired|Austin, TX, 78753
+Eisenberg, Mary|78644|25|Not Employed|Not Employed|Lockhart, TX, 78644
+DiMucci Potts, Nicole|78757|25|ACC|Event coordinator|Austin, TX, 78757
+Cook, Janet|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Coleman, Glen|76849|25|Self|BnB|Junction, TX, 76849
+Clogston, Kim|78006|25|PFQ Inc|self|Boerne, TX, 78006
+Clogston, Curtis|78006|25|Cramden Coach|Merchandise Manager|Boerne, TX, 78006
+Chiang, Su|02139|25|Boston University|Scientist|Cambridge, MA, 02139
+Chavez, Andrea|78756|25|Grace & McEwan Consulting|Government Affairs Consultant|Austin, TX, 78756
+Carter, Jessica|77002|25|EdReports|Consultant|Houston, TX, 77002
+Carey, Matthew|78749|25|Cornell University|web developer|Austin, TX, 78749
+C Teitelman, A|78660|25|Not Employed|Not Employed|Pflugerville, TX, 78660
+Burdick, Amrita|64111|25|Not Employed|Not Employed|Kansas City, MO, 64111
+Bryan, Melissa|78757|25|Not Employed|Not Employed|Austin, TX, 78757
+Bhatt, Bhuvanesh|78210|25|Wolfram Research|Software developer|San Antonio, TX, 78210
+Barrett, Mike|11103|25|NYU Langone Medical Center|System Administrator|Astoria, NY, 11103
+Ayee, Norma|33460|25|Not employed|Not employed|Lake Worth, FL, 33460
+Anderson, David|78704|25|Drenner Group|Consultant|Austin, TX, 78704
+Alvarado-Dykstra, Paul|78704|25|New Sky Pictures|VP Operations & Marketing|Austin, TX, 78704-6532
+Allen, Brian|78756|25|Texas State University|Professor|Austin, TX, 78756
+O'Neal, Jason|21783|23|Smithsburg Pharmacy|Pharmacist|Smithsburg, MD, 21783
+Hoffman, Spencer|11218|22|AMC Networks|Software Architect|Brooklyn, NY, 11218
+escobedo, elaine|78702|20|Whole Foods Market has|Recruiter|Austin, TX, 78702
+Sikes, Chloe|78705|20|IDRA|Policy researcher|Austin, TX, 78705
+Shapiro, Paul|78731|20|The University of Texas at Austin|University Professor|Austin, TX, 78731
+Romero Gianoli, Ricardo|94612|20|Not Employed|Not Employed|Oakland, CA, 94612
+Reiner, Rose|90066|20|Office of Sustainability Bard College|Environmental Office Bard College|Los Angeles, CA, 90066
+Pincus, Madeline|10463|20|NYP Hospital|social worker|Bronx, NY, 10463
+McCullough, Melissa|78757|20|CCRC|Residential Specialist|Austin, TX, 78757
+MCDOWELL, JOHNNIE|78641|20|Not Employed|Not Employed|Leander, TX, 78641
+Kressin, Matthew|78756|20|Self|Craftsman|Austin, TX, 78756
+Karny, Lori|90048|20|Self|Clinical Social Worker|Los Angeles, CA, 90048
+Hussain, Adil|78738|20|Apple|Engineer|Austin, TX, 78738
+Fulwiler, William|78745|20|Not Employed|Not Employed|Austin, TX, 78745
+Fernandes, Nathan|78744|20|Travis County HHS|Planner|Austin, TX, 78744
+Donahue, AJ|28806|20|Carstream|Sales|Asheville, NC, 28806
+Daurio, Michael|90015|20|BD&J|Attorney|Los Angeles, CA, 90015
+Clauser, Nathanael|02145|20|Fish & Richardson, P.C.|Attorney|Somerville, MA, 02145
+Burke, Bennett|78757|20|Texas Workforce Commission|Program Specialist|Austin, TX, 78757
+Armendariz, Daniel|78741|20|Self|Self-employed|Austin, TX, 78741
+Goldman, Lyle|33415|18|Central Dynamics Corporation|Software Developer|West Palm Beach, FL, 33415
+Cohen, Elaine|78723|18|Not employed|Not employed|Austin, TX, 78723
+Pettingill, Nancy|80304|17|Not Employed|Not Employed|Boulder, CO, 80304
+Rojas, Joseph|20001|16|NDI|Program Officer|Washington, DC, 20001
+Winters, Craig|77021|15|Not Employed|Not Employed|Houston, TX, 77021
+Sperr, Michael|33406|15|Paramount Engineering Group Inc|Land Surveying|West Palm Beach, FL, 33406
+Segal, Elizabeth|10562|15|self-employed|copy editor|Ossining, NY, 10562
+Salinas, James|78731|15|Texas House of Representatives|Legislative Director|Austin, TX, 78731
+Heilman, Robert|78741|15|GarzaEMC|Civil Engineer|Austin, TX, 78741
+De Luna, Amy|78701|15|Texas Water Development Board|Data Analyst|Austin, TX, 78701
+Barghouty, Amal|78626|15|Don’t want to share|AM|Georgetown, TX, 78626
+Rice, Judah|78752|12|Judah Rice Photography|Photographer|Austin, TX, 78752
+Wilson, Sandra|78757|10|Not Employed|Not Employed|Austin, TX, 78757
+Williams, Michael|76484|10|Not Employed|Not Employed|Palo Pinto, TX, 76484
+Wheat, Brian|78721|10|Texas Legislative Council|Software developer|Austin, TX, 78721
+Webb Carey, Isabel|78705|10|SCPG|Project Manager|Austin, TX, 78705
+Wallis, Joshua|78745|10|Not Employed|Not Employed|Austin, TX, 78745
+Upton, Richard|95112|10|CrowdStrike Inc.|IT Manager|San Jose, CA, 95112
+Smith, Jane|78757|10|Not Employed|Not Employed|Austin, TX, 78757
+Siegel, Joseph|97223|10|Retired|retired English teacher|Portland, OR, 97223
+Short, Bradley|78757|10|Bradley Short Consulting, LLC|Marketer|Austin, TX, 78757
+Schwartz, Scott|75071|10|Business|Professional|Mckinney, TX, 75071
+Rugh, Tyler|78752|10|Austin Subaru|Service Videographer|Austin, TX, 78752
+Ross, Adreain|78726|10|Not Employed|Not Employed|Austin, TX, 78726
+Ronn, David|78731|10|University of Texas|Software Developer|Austin, TX, 78731
+Robertson, Max|78754|10|none|Self Employed|Austin, TX, 78754
+Roberts, Kate|78756|10|Powered by Powered|Director|Austin, TX, 78756
+Rink, Katherine|78751|10|Not employed|Not employed|Austin, TX, 78751
+Rarig, Alice|99801|10|self|health policy consultant|Juneau, AK, 99801
+Pruett, Kay|78756|10|TSBVI|Teacher|Austin, TX, 78756
+Mustafa, Muhammad|78717|10|Self|Engineer|Austin, TX, 78717
+Minor, William|78702|10|Texas workforce commission|Data analyst|Austin, TX, 78702
+Margolis-Husted, Jennifer|78757|10|COA|Acct|Austin, TX, 78757
+M Chaoman, Carol|77563|10|Anico|Business analyst|Hitchcock, TX, 77563
+Love, Michael|78757|10|Not Employed|Not Employed|Austin, TX, 78757
+Louie, Tandera|78758|10|Children’s Discovery School|Teacher|Austin, TX, 78758
+Leduc, Jennifer|78757|10|Natera|lab runner|Austin, TX, 78757
+Labyer, James|77803|10|Not Employed|Not Employed|Bryan, TX, 77803
+Keeney, Karla|92122|10|Resource Consulting Group|Director of Technology|San Diego, CA, 92122
+J Valls, Major|78758|10|Not Employed|Not Employed|Austin, TX, 78758
