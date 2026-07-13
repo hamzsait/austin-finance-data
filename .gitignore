@@ -3,6 +3,9 @@
 *.db-shm
 *.db-wal
 
+# Raw TEC statewide bulk data — multi-GB source CSVs + zip, processed into austin_finance.db
+tec_data/
+
 # Python
 __pycache__/
 *.pyc
@@ -24,6 +27,19 @@ fec_retry_log.txt
 fec_priority_log.txt
 *_fec_log.txt
 score_distribution.png
+
+# Ingest / research run logs
+tec_ingest_log.txt
+tec_full_ingest_stdout.txt
+siegel_crossref_log.txt
+
+# Dev UI screenshots (throwaway captures)
+desktop_*.png
+mobile_*.png
+
+# Superseded data exports (replaced by qadri_*.json)
+qadrizohaib_data.json
+qadrizohaib_all_donations.json
 
 # OS
 .DS_Store
