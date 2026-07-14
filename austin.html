@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Austin Campaign Finance — decode(politics):</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ccircle%20cx='50'%20cy='50'%20r='50'%20fill='%2318314f'/%3E%3Cpath%20d='M43%2031%20L36%2031%20Q31%2031%2031%2036%20L31%2064%20Q31%2069%2036%2069%20L43%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Cpath%20d='M57%2031%20L64%2031%20Q69%2031%2069%2036%20L69%2064%20Q69%2069%2064%2069%20L57%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='50'%20cy='42'%20r='5.5'%20fill='%23bf1a13'/%3E%3Ccircle%20cx='50'%20cy='58'%20r='5.5'%20fill='%23bf1a13'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --page:#ffffff; --card:#ffffff; --ink:#0c1a2c; --muted:#5b6b7a;
+      --line:rgba(24,49,79,.12); --soft:rgba(24,49,79,.045);
+      --headerband:#c8e0f4; --headerrow:rgba(255,255,255,.5); --tabbg:#ffffff;
+      --accent:#ba1200; --accent-hover:#8a0d00;
+      --fn:#cc1f3c; --paren:#18314f; --id:#18314f; --op:#cc1f3c;
+      --navy:#18314f;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--page); color: var(--ink); font-family: 'Inter', system-ui, sans-serif; min-height: 100vh; -webkit-font-smoothing: antialiased; }
+    .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
+
+    /* ── decode(politics): browser-tab header ── */
+    .siteheader{position:relative;z-index:60;display:flex;flex-direction:column;background:var(--page)}
+    .tabstrip{display:flex;align-items:flex-end;gap:13px;padding-top:11px;background:var(--headerband)}
+    .traffic{display:flex;align-items:center;gap:8px;padding-bottom:15px}
+    .traffic i{width:11px;height:11px;border-radius:50%;display:block}
+    .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:12px 12px 0 0;max-width:380px;background:var(--tabbg);text-decoration:none}
+    .browsertab .corner{position:absolute;bottom:0;width:13px;height:13px}
+    .browsertab .corner.l{left:-13px;background:radial-gradient(circle at top left,transparent 13px,var(--tabbg) 13.5px)}
+    .browsertab .corner.r{right:-13px;background:radial-gradient(circle at top right,transparent 13px,var(--tabbg) 13.5px)}
+    .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:19px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
+    .wordmark .fn{color:var(--fn)}
+    .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:1px;background:var(--fn);display:inline-block;opacity:.9;animation:blink 1.05s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.wordmark .cur{animation:none}}
+    .tabx{margin-left:auto;color:var(--muted);opacity:.55;display:inline-flex;flex:none}
+    .newtab{width:26px;height:26px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted);opacity:.6;flex:none}
+    .navrow{min-height:52px;display:flex;align-items:center;justify-content:flex-end;background:var(--headerrow)}
+    nav.sitenav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:500}
+    .nlink{color:var(--ink);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
+    .nlink:hover{background:#F5A623;color:#18314f}
+    .nlink.live{border:1px solid var(--accent);color:var(--accent);gap:7px}
+    .nlink.live .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:pulse 1.6s ease infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.3);opacity:1}}
+    .navitem{position:relative;display:inline-flex}
+    .navitem:hover > .nlink{background:#F5A623;color:#18314f}
+    .dropwrap{position:absolute;top:100%;left:0;padding-top:11px;opacity:0;visibility:hidden;transition:opacity .2s ease,visibility .2s ease;z-index:40}
+    .navitem:hover .dropwrap{opacity:1;visibility:visible}
+    .dropcard{min-width:208px;background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 40px -22px rgba(24,49,79,.42);padding:8px;display:flex;flex-direction:column;gap:2px}
+    .droplink{padding:9px 12px;border-radius:10px;color:var(--ink);text-decoration:none;font-size:13.5px;white-space:nowrap;cursor:pointer;transition:background .12s ease,color .12s ease}
+    .droplink:hover{background:#F5A623;color:#18314f}
+    @media (max-width:680px){.padx{padding-left:20px;padding-right:20px}nav.sitenav{gap:15px;font-size:13px;flex-wrap:wrap}}
+
+    header.pagehead {
+      padding: 48px 24px 32px;
+      max-width: 900px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--line);
+    }
+    .eyebrow {
+      font-family: 'Oswald', sans-serif; font-size: 12px; letter-spacing: .22em;
+      text-transform: uppercase; color: var(--accent); font-weight: 600; margin-bottom: 12px;
+    }
+    header.pagehead h1 {
+      font-family: 'Oswald', sans-serif; font-size: 34px; font-weight: 700;
+      letter-spacing: -0.02em; line-height: 1.05; color: var(--navy);
+    }
+    header.pagehead h1 span { color: var(--accent); }
+    header.pagehead p { margin-top: 10px; color: var(--muted); font-size: 15px; max-width: 560px; line-height: 1.6; }
+
+    main { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+
+    h2 {
+      font-family: 'Oswald', sans-serif; font-size: 13px; font-weight: 600;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 16px;
+    }
+
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-bottom: 48px; }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 20px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+      display: block;
+      box-shadow: 0 10px 26px -20px rgba(24,49,79,.35);
+    }
+    .card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: 0 16px 34px -20px rgba(24,49,79,.45); }
+    .card.disabled { opacity: 0.55; }
+    .card.disabled:hover { border-color: var(--line); transform: none; }
+
+    .card-name { font-family: 'Space Grotesk', sans-serif; font-size: 16px; font-weight: 600; letter-spacing: -.01em; margin-bottom: 4px; color: var(--navy); }
+    .card-meta { font-size: 12px; color: var(--muted); margin-bottom: 12px; }
+    .card-stats { display: flex; gap: 16px; }
+    .stat-val { font-family: 'Space Grotesk', sans-serif; font-size: 18px; font-weight: 700; color: var(--navy); }
+    .stat-lbl { font-size: 11px; color: var(--muted); margin-top: 1px; }
+
+    .badge {
+      display: inline-block; font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 600;
+      letter-spacing: 0.08em; text-transform: uppercase;
+      padding: 2px 7px; border-radius: 4px; margin-left: 8px;
+      vertical-align: middle;
+    }
+    .badge-live { background: rgba(186,18,0,.08); color: var(--accent); border: 1px solid rgba(186,18,0,.35); }
+    .badge-soon { background: var(--soft); color: var(--muted); border: 1px solid var(--line); }
+
+    footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px;
+             border-top: 1px solid var(--line); background: var(--headerband); }
+    footer a { color: var(--navy); text-decoration: none; font-weight: 600; }
+    footer a:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+
+<div class="siteheader">
+  <div class="tabstrip padx">
+    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
+    <a class="browsertab" href="index.html" title="decode(politics): home">
+      <span class="corner l"></span><span class="corner r"></span>
+      <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
+      <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
+      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
+    </a>
+    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
+  </div>
+  <div class="navrow padx">
+    <nav class="sitenav">
+      <a class="nlink" href="index.html#scorecard">Texas</a>
+      <span class="navitem">
+        <a class="nlink">Officials<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg></a>
+        <span class="dropwrap"><span class="dropcard">
+          <a class="droplink" href="austin.html">City of Austin</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">US Congress — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">US Senate — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">Travis County — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">City of San Antonio — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">Bexar County — soon</a>
+        </span></span>
+      </span>
+      <a class="nlink live" href="austin.html"><span class="dot"></span>Austin Finance</a>
+      <a class="nlink" href="index.html#method">Method</a>
+      <a class="nlink" href="index.html#about">About</a>
+    </nav>
+  </div>
+</div>
+
+<header class="pagehead">
+  <div class="eyebrow">City of Austin · live data</div>
+  <h1>Austin <span>Campaign Finance</span></h1>
+  <p>Who funds Austin's city council candidates? Explore donation histories, industry breakdowns, and donor networks for every race.</p>
+</header>
+
+<main>
+  <h2>City Council Profiles</h2>
+  <div class="grid">
+
+    <a class="card" href="profile_qadri_v2.html">
+      <div class="card-name">Zo Qadri <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 9 · 2022 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$417K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">1,932</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">94.7%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_watson.html">
+      <div class="card-name">Kirk Watson <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">Mayor · 2023 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$3.2M</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">6,317</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">69.5%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="coming-soon.html">
+      <div class="card-name">Celia Israel <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 9 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$755K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">6,484</div><div class="stat-lbl">Records</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_siegel.html">
+      <div class="card-name">Mike Siegel <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 7 · 2026 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$279K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">1,206</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">76.9%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_harpermadison.html">
+      <div class="card-name">Natasha Harper-Madison <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 1 · 2022 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$245K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">850</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">80.9%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="coming-soon.html">
+      <div class="card-name">Mackenzie Kelly <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 6 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$240K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="coming-soon.html">
+      <div class="card-name">Ashika Ganguly <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 9 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$177K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_fuentes.html">
+      <div class="card-name">Vanessa Fuentes <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 2 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$228K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">1,075</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">82.0%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_velasquez.html">
+      <div class="card-name">Jose Velasquez <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 3 · 2022 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$202K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">776</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">84.5%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_ellis.html">
+      <div class="card-name">Paige Ellis <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 8 · 2022 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$273K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">892</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">85.2%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="coming-soon.html">
+      <div class="card-name">Carmen Llanes-Pulido <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 2 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$122K</div><div class="stat-lbl">Raised</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_vela.html">
+      <div class="card-name">José Vela <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 4 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$214K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">761</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">86.5%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_alter.html">
+      <div class="card-name">Ryan Alter <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 5 · 2022 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$264K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">688</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">86.7%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_laine.html">
+      <div class="card-name">Krista Laine <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 6 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$123K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">630</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">72.8%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_duchen.html">
+      <div class="card-name">Marc Duchen <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 10 · 2024 Race</div>
+      <div class="card-stats">
+        <div><div class="stat-val">$181K</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">688</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">66.7%</div><div class="stat-lbl">Employer-affiliated</div></div>
+      </div>
+    </a>
+
+  </div>
+
+  <h2>About This Project</h2>
+  <p style="color:var(--muted);font-size:14px;line-height:1.7;max-width:620px">
+    Data sourced from the Austin City Clerk's campaign finance records and cross-referenced with FEC federal filings.
+    Industry classifications are derived from employer identities, occupation records, and public information.
+    All source data is public record.
+  </p>
+</main>
+
+<footer>
+  decode(politics): · Data from <a href="https://www.austintexas.gov/department/city-clerk" target="_blank">Austin City Clerk</a> &
+  <a href="https://www.fec.gov" target="_blank">FEC</a> ·
+  Updated April 2026
+</footer>
+
+<script>
+(function(){
+  const host = document.getElementById('typedHost');
+  const text = "(politics):";
+  const reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function paint(n){
+    let html = '';
+    for (let j = 0; j < n; j++){
+      const c = text[j];
+      const col = (c === '(' || c === ')') ? 'var(--paren)' : (c === ':' ? 'var(--op)' : 'var(--id)');
+      html += '<span style="color:' + col + '">' + c + '</span>';
+    }
+    host.innerHTML = html;
+  }
+  if (reduced){ paint(text.length); return; }
+  let i = 0, dir = 1;
+  function tick(){
+    paint(i);
+    if (dir > 0){
+      i++;
+      if (i > text.length){ i = text.length; dir = -1; setTimeout(tick, 2200); return; }
+      setTimeout(tick, 115);
+    } else {
+      i--;
+      if (i < 0){ i = 0; dir = 1; setTimeout(tick, 650); return; }
+      setTimeout(tick, 55);
+    }
+  }
+  tick();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coming Soon — decode(politics):</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ccircle%20cx='50'%20cy='50'%20r='50'%20fill='%2318314f'/%3E%3Cpath%20d='M43%2031%20L36%2031%20Q31%2031%2031%2036%20L31%2064%20Q31%2069%2036%2069%20L43%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Cpath%20d='M57%2031%20L64%2031%20Q69%2031%2069%2036%20L69%2064%20Q69%2069%2064%2069%20L57%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='50'%20cy='42'%20r='5.5'%20fill='%23bf1a13'/%3E%3Ccircle%20cx='50'%20cy='58'%20r='5.5'%20fill='%23bf1a13'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --page:#ffffff; --ink:#0c1a2c; --muted:#5b6b7a; --line:rgba(24,49,79,.12);
+      --sky:#c8e0f4; --accent:#ba1200; --accent-hover:#8a0d00; --navy:#18314f;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{background:var(--page);color:var(--ink);font-family:'Inter',system-ui,sans-serif;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased}
+    .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
+
+    .siteheader{display:flex;flex-direction:column;background:var(--page)}
+    .tabstrip{display:flex;align-items:flex-end;gap:13px;padding-top:11px;background:var(--sky)}
+    .traffic{display:flex;align-items:center;gap:8px;padding-bottom:15px}
+    .traffic i{width:11px;height:11px;border-radius:50%;display:block}
+    .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:12px 12px 0 0;max-width:380px;background:#ffffff;text-decoration:none}
+    .browsertab .corner{position:absolute;bottom:0;width:13px;height:13px}
+    .browsertab .corner.l{left:-13px;background:radial-gradient(circle at top left,transparent 13px,#ffffff 13.5px)}
+    .browsertab .corner.r{right:-13px;background:radial-gradient(circle at top right,transparent 13px,#ffffff 13.5px)}
+    .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:19px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
+    .wordmark .fn{color:#cc1f3c}
+    .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:1px;background:#cc1f3c;display:inline-block;opacity:.9;animation:blink 1.05s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.wordmark .cur{animation:none}}
+    .tabx{margin-left:auto;color:var(--muted);opacity:.55;display:inline-flex;flex:none}
+    .newtab{width:26px;height:26px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted);opacity:.6;flex:none}
+    .navrow{min-height:52px;display:flex;align-items:center;justify-content:flex-end;background:rgba(255,255,255,.5);border-bottom:1px solid var(--line)}
+    nav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:500}
+    .nlink{color:var(--ink);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
+    .nlink:hover{background:#F5A623;color:#18314f}
+    .nlink.live{border:1px solid var(--accent);color:var(--accent);gap:7px}
+    .nlink.live .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:pulse 1.6s ease infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.3);opacity:1}}
+    @media (max-width:680px){.padx{padding-left:20px;padding-right:20px}nav{gap:15px;font-size:13px;flex-wrap:wrap}}
+
+    main{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:80px 24px}
+    .eyebrow{font-family:'Oswald',sans-serif;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:14px}
+    .bigcode{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(30px,6vw,54px);letter-spacing:-.03em;line-height:1.05;margin-bottom:16px}
+    .bigcode .f{color:#cc1f3c}.bigcode .p{color:var(--navy)}
+    main p{color:var(--muted);font-size:15.5px;line-height:1.65;max-width:52ch;margin-bottom:30px}
+    .btnrow{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+    .btn{display:inline-flex;align-items:center;justify-content:center;background:var(--accent);color:#fff;text-decoration:none;padding:13px 26px;border-radius:999px;font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:14.5px;transition:background .15s ease}
+    .btn:hover{background:var(--accent-hover)}
+    .btn.ghost{background:transparent;color:var(--navy);border:1px solid var(--line)}
+    .btn.ghost:hover{background:#F5A623;color:#18314f;border-color:#F5A623}
+
+    footer{padding:20px 24px;border-top:1px solid var(--line);background:var(--sky);font-size:12.5px;color:var(--muted);text-align:center}
+  </style>
+</head>
+<body>
+
+<div class="siteheader">
+  <div class="tabstrip padx">
+    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
+    <a class="browsertab" href="index.html" title="decode(politics): home">
+      <span class="corner l"></span><span class="corner r"></span>
+      <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
+      <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
+      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
+    </a>
+    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
+  </div>
+  <div class="navrow padx">
+    <nav>
+      <a class="nlink" href="index.html#scorecard">Texas</a>
+      <a class="nlink live" href="austin.html"><span class="dot"></span>Austin Finance</a>
+      <a class="nlink" href="index.html#method">Method</a>
+      <a class="nlink" href="index.html#about">About</a>
+    </nav>
+  </div>
+</div>
+
+<main>
+  <div class="eyebrow">Under construction</div>
+  <div class="bigcode"><span class="f">decode</span><span class="p">(</span>coming_soon<span class="p">)</span><span class="f">:</span></div>
+  <p>We're still decoding this one. We pull every filing, match each dollar to the office and donor, then publish — and this section hasn't cleared the pipeline yet. Austin City Council is live right now.</p>
+  <div class="btnrow">
+    <a class="btn" href="austin.html">Explore Austin campaign finance</a>
+    <a class="btn ghost" href="index.html">Back to home</a>
+  </div>
+</main>
+
+<footer>© 2026 decode(politics): — All figures from public filings. No party money, no corporate money.</footer>
+
+<script>
+(function(){
+  const host = document.getElementById('typedHost');
+  const text = "(politics):";
+  const reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function paint(n){
+    let html = '';
+    for (let j = 0; j < n; j++){
+      const c = text[j];
+      const col = (c === '(' || c === ')') ? '#18314f' : (c === ':' ? '#cc1f3c' : '#18314f');
+      html += '<span style="color:' + col + '">' + c + '</span>';
+    }
+    host.innerHTML = html;
+  }
+  if (reduced){ paint(text.length); return; }
+  let i = 0, dir = 1;
+  function tick(){
+    paint(i);
+    if (dir > 0){
+      i++;
+      if (i > text.length){ i = text.length; dir = -1; setTimeout(tick, 2200); return; }
+      setTimeout(tick, 115);
+    } else {
+      i--;
+      if (i < 0){ i = 0; dir = 1; setTimeout(tick, 650); return; }
+      setTimeout(tick, 55);
+    }
+  }
+  tick();
+})();
+</script>
+</body>
+</html>

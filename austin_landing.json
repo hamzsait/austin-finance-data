@@ -1,0 +1,368 @@
+{
+ "updated": "July 2026",
+ "candidates": [
+  {
+   "slug": "watson",
+   "photo": "au0",
+   "name": "Kirk Watson",
+   "district": "Mayor",
+   "race": "2023 Race",
+   "href": "profile_watson.html",
+   "raised": "$3.2M",
+   "donors": "6,317",
+   "empPct": "69.5%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$517K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$370K",
+     "w": 72
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$187K",
+     "w": 36
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$184K",
+     "w": 36
+    }
+   ]
+  },
+  {
+   "slug": "harpermadison",
+   "photo": "au1",
+   "name": "Natasha Harper-Madison",
+   "district": "District 1",
+   "race": "2022 Race",
+   "href": "profile_harpermadison.html",
+   "raised": "$245K",
+   "donors": "850",
+   "empPct": "80.9%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$55K",
+     "w": 100
+    },
+    {
+     "label": "Government",
+     "amt": "$23K",
+     "w": 42
+    },
+    {
+     "label": "Engineering",
+     "amt": "$19K",
+     "w": 35
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$15K",
+     "w": 28
+    }
+   ]
+  },
+  {
+   "slug": "fuentes",
+   "photo": "au2",
+   "name": "Vanessa Fuentes",
+   "district": "District 2",
+   "race": "2024 Race",
+   "href": "profile_fuentes.html",
+   "raised": "$228K",
+   "donors": "1,075",
+   "empPct": "82.0%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$49K",
+     "w": 100
+    },
+    {
+     "label": "Government",
+     "amt": "$19K",
+     "w": 38
+    },
+    {
+     "label": "Legal",
+     "amt": "$17K",
+     "w": 34
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$16K",
+     "w": 33
+    }
+   ]
+  },
+  {
+   "slug": "velasquez",
+   "photo": "au3",
+   "name": "José Velásquez",
+   "district": "District 3",
+   "race": "2022 Race",
+   "href": "profile_velasquez.html",
+   "raised": "$202K",
+   "donors": "776",
+   "empPct": "84.5%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$73K",
+     "w": 100
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$14K",
+     "w": 19
+    },
+    {
+     "label": "Education",
+     "amt": "$10K",
+     "w": 14
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$10K",
+     "w": 14
+    }
+   ]
+  },
+  {
+   "slug": "vela",
+   "photo": "au4",
+   "name": "Chito Vela",
+   "district": "District 4",
+   "race": "2024 Race",
+   "href": "profile_vela.html",
+   "raised": "$214K",
+   "donors": "761",
+   "empPct": "86.5%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$61K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$22K",
+     "w": 36
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$15K",
+     "w": 25
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$13K",
+     "w": 21
+    }
+   ]
+  },
+  {
+   "slug": "alter",
+   "photo": "au5",
+   "name": "Ryan Alter",
+   "district": "District 5",
+   "race": "2022 Race",
+   "href": "profile_alter.html",
+   "raised": "$264K",
+   "donors": "688",
+   "empPct": "86.7%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$80K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$20K",
+     "w": 25
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$20K",
+     "w": 25
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$18K",
+     "w": 23
+    }
+   ]
+  },
+  {
+   "slug": "laine",
+   "photo": "au6",
+   "name": "Krista Laine",
+   "district": "District 6",
+   "race": "2024 Race",
+   "href": "profile_laine.html",
+   "raised": "$123K",
+   "donors": "630",
+   "empPct": "72.8%",
+   "topGroups": [
+    {
+     "label": "Technology",
+     "amt": "$29K",
+     "w": 100
+    },
+    {
+     "label": "Government",
+     "amt": "$8K",
+     "w": 29
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$8K",
+     "w": 29
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$8K",
+     "w": 28
+    }
+   ]
+  },
+  {
+   "slug": "siegel",
+   "photo": "au7",
+   "name": "Mike Siegel",
+   "district": "District 7",
+   "race": "2026 Race",
+   "href": "profile_siegel.html",
+   "raised": "$279K",
+   "donors": "1,206",
+   "empPct": "77.2%",
+   "topGroups": [
+    {
+     "label": "Technology",
+     "amt": "$40K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$32K",
+     "w": 80
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$22K",
+     "w": 55
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$21K",
+     "w": 52
+    }
+   ]
+  },
+  {
+   "slug": "ellis",
+   "photo": "au8",
+   "name": "Paige Ellis",
+   "district": "District 8",
+   "race": "2022 Race",
+   "href": "profile_ellis.html",
+   "raised": "$273K",
+   "donors": "892",
+   "empPct": "85.2%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$81K",
+     "w": 100
+    },
+    {
+     "label": "Government",
+     "amt": "$25K",
+     "w": 31
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$22K",
+     "w": 27
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$20K",
+     "w": 25
+    }
+   ]
+  },
+  {
+   "slug": "qadri",
+   "photo": "au9",
+   "name": "Zo Qadri",
+   "district": "District 9",
+   "race": "2022 Race",
+   "href": "profile_qadri_v2.html",
+   "raised": "$417K",
+   "donors": "1,932",
+   "empPct": "94.7%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$69K",
+     "w": 100
+    },
+    {
+     "label": "Technology",
+     "amt": "$59K",
+     "w": 86
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$42K",
+     "w": 61
+    },
+    {
+     "label": "Healthcare",
+     "amt": "$35K",
+     "w": 50
+    }
+   ]
+  },
+  {
+   "slug": "duchen",
+   "photo": "au10",
+   "name": "Marc Duchen",
+   "district": "District 10",
+   "race": "2024 Race",
+   "href": "profile_duchen.html",
+   "raised": "$181K",
+   "donors": "688",
+   "empPct": "66.7%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$31K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$13K",
+     "w": 43
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$11K",
+     "w": 36
+    },
+    {
+     "label": "Technology",
+     "amt": "$10K",
+     "w": 33
+    }
+   ]
+  }
+ ]
+}

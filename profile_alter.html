@@ -3,17 +3,24 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title id="pageTitle">Candidate Profile — Austin Finance Transparency</title>
+<title id="pageTitle">Candidate Profile — decode(politics):</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ccircle%20cx='50'%20cy='50'%20r='50'%20fill='%2318314f'/%3E%3Cpath%20d='M43%2031%20L36%2031%20Q31%2031%2031%2036%20L31%2064%20Q31%2069%2036%2069%20L43%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Cpath%20d='M57%2031%20L64%2031%20Q69%2031%2069%2036%20L69%2064%20Q69%2069%2064%2069%20L57%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='50'%20cy='42'%20r='5.5'%20fill='%23bf1a13'/%3E%3Ccircle%20cx='50'%20cy='58'%20r='5.5'%20fill='%23bf1a13'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
   :root {
-    --bg: #0f1117;
-    --surface: #1a1d27;
-    --surface2: #22263a;
-    --border: #2e3347;
-    --text: #e8eaf0;
-    --muted: #8892a4;
-    --accent: #4f8ef7;
+    --bg: #f6f8fb;
+    --surface: #ffffff;
+    --surface2: #edf2f8;
+    --border: rgba(24,49,79,.14);
+    --text: #0c1a2c;
+    --muted: #5b6b7a;
+    --accent: #ba1200;
+    --sky: #c8e0f4;
+    --skymid: #6fb6cf;
+    --navy: #18314f;
 
     --c-realestate: #f59e0b;
     --c-tech:       #4f8ef7;
@@ -34,42 +41,64 @@
   body {
     background: var(--bg);
     color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     font-size: 14px;
     line-height: 1.6;
   }
 
-  /* ── Top nav ── */
-  nav {
+  /* ── decode(politics): browser-tab site header ── */
+  .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
+  .siteheader{position:relative;z-index:100;display:flex;flex-direction:column;background:#ffffff}
+  .tabstrip{display:flex;align-items:flex-end;gap:13px;padding-top:11px;background:var(--sky)}
+  .traffic{display:flex;align-items:center;gap:8px;padding-bottom:15px}
+  .traffic i{width:11px;height:11px;border-radius:50%;display:block}
+  .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:12px 12px 0 0;max-width:380px;background:#ffffff;text-decoration:none}
+  .browsertab .corner{position:absolute;bottom:0;width:13px;height:13px}
+  .browsertab .corner.l{left:-13px;background:radial-gradient(circle at top left,transparent 13px,#ffffff 13.5px)}
+  .browsertab .corner.r{right:-13px;background:radial-gradient(circle at top right,transparent 13px,#ffffff 13.5px)}
+  .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:19px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
+  .wordmark .fn{color:#cc1f3c}
+  .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:1px;background:#cc1f3c;display:inline-block;opacity:.9;animation:wmblink 1.05s steps(1) infinite}
+  @keyframes wmblink{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.wordmark .cur{animation:none}}
+  .tabx{margin-left:auto;color:var(--muted);opacity:.55;display:inline-flex;flex:none}
+  .newtab{width:26px;height:26px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted);opacity:.6;flex:none}
+  .navrow{min-height:52px;display:flex;align-items:center;justify-content:flex-end;background:rgba(255,255,255,.5)}
+  nav.sitenav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:500}
+  .nlink{color:var(--text);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
+  .nlink:hover{background:#F5A623;color:#18314f}
+  .nlink.live{border:1px solid var(--accent);color:var(--accent);gap:7px}
+  .nlink.live .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:navpulse 1.6s ease infinite}
+  @keyframes navpulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.3);opacity:1}}
+  .navitem{position:relative;display:inline-flex}
+  .navitem:hover > .nlink{background:#F5A623;color:#18314f}
+  .dropwrap{position:absolute;top:100%;left:0;padding-top:11px;opacity:0;visibility:hidden;transition:opacity .2s ease,visibility .2s ease;z-index:140}
+  .navitem:hover .dropwrap{opacity:1;visibility:visible}
+  .dropcard{min-width:208px;background:#ffffff;border:1px solid var(--border);border-radius:16px;box-shadow:0 18px 40px -22px rgba(24,49,79,.42);padding:8px;display:flex;flex-direction:column;gap:2px}
+  .droplink{padding:9px 12px;border-radius:10px;color:var(--text);text-decoration:none;font-size:13.5px;white-space:nowrap;cursor:pointer;transition:background .12s ease,color .12s ease}
+  .droplink:hover{background:#F5A623;color:#18314f}
+  @media (max-width:680px){.padx{padding-left:20px;padding-right:20px}nav.sitenav{gap:15px;font-size:13px;flex-wrap:wrap}}
+
+  /* ── Breadcrumb strip ── */
+  .crumbbar {
     background: var(--surface);
+    border-top: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
     padding: 0 24px;
-    height: 52px;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
-  nav .logo {
-    font-weight: 700;
-    font-size: 15px;
-    letter-spacing: -0.3px;
-    color: var(--text);
-    text-decoration: none;
-  }
-  nav .logo span { color: var(--accent); }
-  nav .breadcrumb {
+    height: 44px;
     display: flex;
     align-items: center;
     gap: 6px;
+    position: sticky;
+    top: 0;
+    z-index: 90;
     color: var(--muted);
     font-size: 13px;
   }
-  nav .breadcrumb a { color: var(--muted); text-decoration: none; }
-  nav .breadcrumb a:hover { color: var(--text); }
-  nav .breadcrumb .sep { opacity: 0.4; }
+  .crumbbar a { color: var(--muted); text-decoration: none; }
+  .crumbbar a:hover { color: var(--accent); }
+  .crumbbar .sep { opacity: 0.4; }
+  .crumbbar #navCandidateName { color: var(--text); font-weight: 600; }
 
   /* ── Layout ── */
   .page { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; }
@@ -657,7 +686,7 @@
   }
   .dtable tbody td {
     padding: 8px 14px;
-    border-bottom: 1px solid rgba(46,51,71,0.5);
+    border-bottom: 1px solid var(--border);
     vertical-align: top;
   }
   .dtable tbody tr:hover td { background: var(--surface2); }
@@ -843,19 +872,55 @@
     flex-shrink: 0;
     font-variant-numeric: tabular-nums;
   }
+
+  /* ── decode(politics): brand typography ── */
+  .hero h1, .stat .val, .civic-stat-value, .firm-total, .amount-cell, .sc-val {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  .card-title, .badge, h2 {
+    font-family: 'Oswald', sans-serif;
+  }
 </style>
 </head>
 <body>
 
-<nav>
-  <a class="logo" href="index.html">Austin <span>Finance</span></a>
-  <div class="breadcrumb">
-    <span class="sep">›</span>
-    <a href="index.html">Candidates</a>
-    <span class="sep">›</span>
-    <span id="navCandidateName">Loading…</span>
+<div class="siteheader">
+  <div class="tabstrip padx">
+    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
+    <a class="browsertab" href="index.html" title="decode(politics): home">
+      <span class="corner l"></span><span class="corner r"></span>
+      <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
+      <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
+      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
+    </a>
+    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
   </div>
-</nav>
+  <div class="navrow padx">
+    <nav class="sitenav">
+      <a class="nlink" href="index.html#scorecard">Texas</a>
+      <span class="navitem">
+        <a class="nlink">Officials<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg></a>
+        <span class="dropwrap"><span class="dropcard">
+          <a class="droplink" href="austin.html">City of Austin</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">US Congress — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">US Senate — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">Travis County — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">City of San Antonio — soon</a>
+          <a class="droplink" href="coming-soon.html" style="opacity:.65">Bexar County — soon</a>
+        </span></span>
+      </span>
+      <a class="nlink live" href="austin.html"><span class="dot"></span>Austin Finance</a>
+      <a class="nlink" href="index.html#method">Method</a>
+      <a class="nlink" href="index.html#about">About</a>
+    </nav>
+  </div>
+</div>
+
+<div class="crumbbar">
+  <a href="austin.html">← Austin campaign finance</a>
+  <span class="sep">›</span>
+  <span id="navCandidateName">Loading…</span>
+</div>
 
 <div class="page" id="mainPage">
   <!-- Loading state — replaced by renderAll() after data loads -->
@@ -1106,12 +1171,12 @@
 </div>
 
 <footer>
-  Austin Finance Transparency Project · Not affiliated with any campaign
+  decode(politics): · Austin Finance Transparency Project · Not affiliated with any campaign
 </footer>
 
 <!-- Partisan lean drill-down panel -->
 <div id="fecBackdrop" onclick="closeFecPanel()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:1000"></div>
-<div id="fecPanel" style="display:none;position:fixed;top:0;right:0;width:520px;max-width:90vw;height:100vh;background:#0f1724;border-left:1px solid var(--border);z-index:1001;overflow-y:auto;box-shadow:-4px 0 24px rgba(0,0,0,0.4)">
+<div id="fecPanel" style="display:none;position:fixed;top:0;right:0;width:520px;max-width:90vw;height:100vh;background:#ffffff;border-left:1px solid var(--border);z-index:1001;overflow-y:auto;box-shadow:-4px 0 24px rgba(0,0,0,0.4)">
   <div id="fecTitleBar" style="padding:14px 20px;display:flex;justify-content:space-between;align-items:center">
     <div id="fecTitle" style="font-weight:600;font-size:15px"></div>
     <button onclick="closeFecPanel()" style="background:none;border:none;color:var(--muted);font-size:20px;cursor:pointer">&#x2715;</button>
@@ -1302,7 +1367,7 @@ function renderDonut() {
       datasets: [{
         data: classified.map(g => g.total),
         backgroundColor: classified.map(g => g.color),
-        borderColor: '#1a1d27',
+        borderColor: '#ffffff',
         borderWidth: 2,
         hoverOffset: 6,
       }]
@@ -1428,7 +1493,7 @@ function renderHero(data) {
   const { meta, hero } = data;
 
   // Page title & nav
-  document.title = `${meta.candidate_name} — Austin Finance Transparency`;
+  document.title = `${meta.candidate_name} — decode(politics):`;
   document.getElementById('navCandidateName').textContent = meta.candidate_name;
 
   // Badge & name
@@ -1796,7 +1861,7 @@ function renderIPSpectrum(ip) {
         : '';
       const commNames = d.committees.map(c => c.name).join(', ');
       html += `<tr style="border-bottom:1px solid var(--border);cursor:pointer"
-                   onmouseenter="this.style.background='rgba(255,255,255,0.03)'"
+                   onmouseenter="this.style.background='rgba(24,49,79,0.05)'"
                    onmouseleave="this.style.background=''">
         <td style="padding:5px 8px;white-space:nowrap">${leanDot}${d.name}${tierBadge}</td>
         <td style="text-align:right;padding:5px 8px;color:${color};font-weight:600">${fmt(d.ip_total)}</td>
@@ -1990,7 +2055,7 @@ function renderPartisanLean(pl) {
   pl.buckets.forEach(b => {
     const tr = document.createElement('tr');
     tr.style.cssText = 'border-top:1px solid var(--border);cursor:pointer;transition:background 0.15s';
-    tr.onmouseenter = () => tr.style.background = 'rgba(255,255,255,0.03)';
+    tr.onmouseenter = () => tr.style.background = 'rgba(24,49,79,0.05)';
     tr.onmouseleave = () => tr.style.background = '';
     tr.onclick = () => showPartisanBucket(b.label, b.min, b.max, colors[b.label]);
     const c = colors[b.label] || '#666';
@@ -2039,7 +2104,7 @@ function showPartisanBucket(label, minLean, maxLean, color) {
   donors.forEach(d => {
     const leanColor = d.lean >= 0.6 ? '#3b82f6' : (d.lean <= 0.4 ? '#ef4444' : '#a78bfa');
     html += `<tr style="border-bottom:1px solid var(--border);cursor:pointer"
-                 onmouseenter="this.style.background='rgba(255,255,255,0.04)'"
+                 onmouseenter="this.style.background='rgba(24,49,79,0.05)'"
                  onmouseleave="this.style.background=''"
                  onclick="showDonorFEC('${d.id}','${d.name.replace(/'/g,"\\'")}',${d.lean})">
       <td style="padding:6px 6px;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${d.name}</td>
@@ -2187,5 +2252,37 @@ async function initProfile() {
 initProfile();
 </script>
 
+<script>
+// decode(politics): typing wordmark in the site header tab
+(function(){
+  const host = document.getElementById('typedHost');
+  const text = "(politics):";
+  const reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function paint(n){
+    let html = '';
+    for (let j = 0; j < n; j++){
+      const c = text[j];
+      const col = (c === '(' || c === ')') ? '#18314f' : (c === ':' ? '#cc1f3c' : '#18314f');
+      html += '<span style="color:' + col + '">' + c + '</span>';
+    }
+    host.innerHTML = html;
+  }
+  if (reduced){ paint(text.length); return; }
+  let i = 0, dir = 1;
+  function tick(){
+    paint(i);
+    if (dir > 0){
+      i++;
+      if (i > text.length){ i = text.length; dir = -1; setTimeout(tick, 2200); return; }
+      setTimeout(tick, 115);
+    } else {
+      i--;
+      if (i < 0){ i = 0; dir = 1; setTimeout(tick, 650); return; }
+      setTimeout(tick, 55);
+    }
+  }
+  tick();
+})();
+</script>
 </body>
 </html>
