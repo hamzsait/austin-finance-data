@@ -688,7 +688,9 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
             # FEC side
             fec_comm_rows = cur.execute(f"""
                 SELECT fcr.donor_id, fcc.committee_name, fcc.classification,
-                       SUM(fcr.contribution_amount) as total, COUNT(*) as n
+                       SUM(fcr.contribution_amount) as total, COUNT(*) as n,
+                       fcr.committee_id,
+                       MIN(fcr.contribution_date), MAX(fcr.contribution_date)
                 FROM fec_contributions_raw fcr
                 LEFT JOIN fec_committee_cache fcc ON fcc.committee_id = fcr.committee_id
                 WHERE fcr.donor_id IN ({placeholders})
@@ -704,6 +706,9 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                     "total": round(row[3], 0),
                     "n": row[4],
                     "source": "FEC",
+                    "committee_id": row[5],
+                    "first": row[6],
+                    "last": row[7],
                 })
             # TEC side (state PACs)
             TEC_LEAN = {
@@ -731,6 +736,20 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                     "source": "TEC",
                 })
 
+        # Most-common FEC spelling of each matched donor's name (for deep links to
+        # the FEC receipts search)
+        donor_fec_names = {}
+        if donor_ids_matched:
+            placeholders = ",".join("?" * len(donor_ids_matched))
+            for did, fname, _cnt in cur.execute(f"""
+                SELECT donor_id, fec_contributor_name, COUNT(*) as c
+                FROM fec_contributions_raw
+                WHERE donor_id IN ({placeholders}) AND fec_contributor_name IS NOT NULL
+                GROUP BY donor_id, fec_contributor_name
+                ORDER BY c ASC
+            """, donor_ids_matched).fetchall():
+                donor_fec_names[did] = fname  # last row per donor = most common
+
         partisan_lean = {
             "matched_donors": len(donors_list),
             "total_donors": unique_donors,
@@ -744,6 +763,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
             "buckets": buckets,
             "donors": donors_list,
             "donor_committees": donor_committees,
+            "donor_fec_names": donor_fec_names,
         }
         print(f"  Partisan lean (FEC+TEC): {len(donors_list)} donors, "
               f"D={total_dem_donors} R={total_rep_donors} M={total_mixed_donors}, "
@@ -775,11 +795,13 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
         # for the profile page's drill-down panel)
         ip_donor_ids = [row[0] for row in ip_rows]
         ip_tx_by_donor = {}
+        ip_fec_names = {}
         if ip_donor_ids:
             ph = ",".join("?" * len(ip_donor_ids))
             tx_rows = cur.execute(f"""
                 SELECT fcr.donor_id, fcc.committee_name, fcc.ip_category,
-                       fcr.contribution_date, fcr.contribution_amount
+                       fcr.contribution_date, fcr.contribution_amount,
+                       fcr.committee_id
                 FROM fec_contributions_raw fcr
                 JOIN fec_committee_cache fcc ON fcc.committee_id = fcr.committee_id
                 WHERE fcr.donor_id IN ({ph}) AND fcc.ip_category IS NOT NULL
@@ -791,7 +813,18 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                     "category": r[2],
                     "date": r[3],
                     "amount": round(r[4] or 0, 0),
+                    "committee_id": r[5],
                 })
+            # Most-common FEC spelling of each IP donor's name (for FEC deep links)
+            ip_fec_names = {}
+            for did, fname, _cnt in cur.execute(f"""
+                SELECT donor_id, fec_contributor_name, COUNT(*) as c
+                FROM fec_contributions_raw
+                WHERE donor_id IN ({ph}) AND fec_contributor_name IS NOT NULL
+                GROUP BY donor_id, fec_contributor_name
+                ORDER BY c ASC
+            """, ip_donor_ids).fetchall():
+                ip_fec_names[did] = fname
 
         categories = {}
         donors_by_cat = {}
@@ -814,6 +847,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                 "partisan_lean": round(row[7], 3) if row[7] is not None else None,
                 "committees": comm_list,
                 "transactions": ip_tx_by_donor.get(row[0], []),
+                "fec_name": ip_fec_names.get(row[0]),
             })
 
         # Order: hawkish first, then liberal zionist, then pro-palestine

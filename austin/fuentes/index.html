@@ -1871,6 +1871,28 @@ function renderIPSpectrum(ip) {
   document.getElementById('ipContent').innerHTML = html;
 }
 
+// ── FEC receipts deep links ──────────────────────────────────────────────────
+// Builds a link into the FEC's public individual-contributions search, filtered
+// to this contributor + committee (+ exact date for a single receipt). The
+// two-year transaction period params make older cycles visible in the FEC UI.
+function fecReceiptsUrl(fecName, committeeId, firstDate, lastDate) {
+  const p = [];
+  if (committeeId) p.push('committee_id=' + encodeURIComponent(committeeId));
+  if (fecName) p.push('contributor_name=' + encodeURIComponent(fecName));
+  const periodOf = d => { const y = parseInt(d.slice(0, 4)); return y % 2 === 0 ? y : y + 1; };
+  if (firstDate) {
+    const lo = periodOf(firstDate), hi = periodOf(lastDate || firstDate);
+    for (let per = lo; per <= hi; per += 2) p.push('two_year_transaction_period=' + per);
+    const us = d => d.slice(5, 7) + '/' + d.slice(8, 10) + '/' + d.slice(0, 4);
+    p.push('min_date=' + encodeURIComponent(us(firstDate)));
+    p.push('max_date=' + encodeURIComponent(us(lastDate || firstDate)));
+  }
+  return 'https://www.fec.gov/data/receipts/individual-contributions/?' + p.join('&');
+}
+function fecLink(url, label) {
+  return `<a href="${url}" target="_blank" rel="noopener" style="color:var(--accent);font-size:10.5px;font-weight:600;text-decoration:none;white-space:nowrap">${label || 'View on FEC'} ↗</a>`;
+}
+
 // ── I/P spectrum drill-down panel ────────────────────────────────────────────
 const IP_TIER_LABELS = {
   1: 'Tier 1 — gave directly to AIPAC / United Democracy Project, or to 3+ tracked committees',
@@ -1903,7 +1925,7 @@ function openIpDetail(ci, di) {
   const txs = d.transactions || [];
   const byComm = {};
   txs.forEach(t => {
-    if (!byComm[t.committee]) byComm[t.committee] = { total: 0, n: 0, category: t.category, first: t.date, last: t.date };
+    if (!byComm[t.committee]) byComm[t.committee] = { total: 0, n: 0, category: t.category, first: t.date, last: t.date, cid: t.committee_id };
     const c = byComm[t.committee];
     c.total += t.amount; c.n += 1;
     if (t.date && (!c.first || t.date < c.first)) c.first = t.date;
@@ -1932,12 +1954,13 @@ function openIpDetail(ci, di) {
   if (commEntries.length) {
     commEntries.forEach(([name, c]) => {
       const range = c.first === c.last ? (c.first || '') : `${c.first} → ${c.last}`;
+      const link = c.cid ? ' &middot; ' + fecLink(fecReceiptsUrl(d.fec_name, c.cid, c.first, c.last)) : '';
       html += `<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid var(--border)">
         <div style="min-width:0">
           <div style="font-size:13px;font-weight:600">${esc(name)}</div>
           <div style="font-size:11px;color:var(--muted);margin-top:2px">
             <span style="color:${color};font-weight:600">${esc(IP_CAT_TAGS[c.category] || c.category)}</span>
-            &middot; ${c.n} gift${c.n !== 1 ? 's' : ''} &middot; ${esc(range)}
+            &middot; ${c.n} gift${c.n !== 1 ? 's' : ''} &middot; ${esc(range)}${link}
           </div>
         </div>
         <div style="font-size:14px;font-weight:700;white-space:nowrap">${money(c.total)}</div>
@@ -1958,12 +1981,15 @@ function openIpDetail(ci, di) {
         <th style="text-align:left;padding:4px 6px">Date</th>
         <th style="text-align:left;padding:4px 6px">Committee</th>
         <th style="text-align:right;padding:4px 6px">Amount</th>
+        <th style="text-align:right;padding:4px 6px">Record</th>
       </tr></thead><tbody>`;
     txs.forEach(t => {
+      const link = (t.committee_id && t.date) ? fecLink(fecReceiptsUrl(d.fec_name, t.committee_id, t.date, t.date), 'View') : '';
       html += `<tr style="border-bottom:1px solid var(--border)">
         <td style="padding:4px 6px;white-space:nowrap;color:var(--muted)">${esc(t.date || '—')}</td>
         <td style="padding:4px 6px">${esc(t.committee)}</td>
         <td style="padding:4px 6px;text-align:right;font-weight:600;${t.amount < 0 ? 'color:var(--muted)' : ''}">${money(t.amount)}${t.amount < 0 ? ' <span style="font-size:10px">(refund)</span>' : ''}</td>
+        <td style="padding:4px 6px;text-align:right">${link}</td>
       </tr>`;
     });
     html += '</tbody></table>';
@@ -2260,14 +2286,19 @@ function showDonorFEC(donorId, donorName, lean) {
     html += `<div style="margin:12px 0 6px;font-weight:600;color:${partyColors[party]}">${partyLabel} — ${fmt(partyTotal)}</div>`;
     html += `<table style="width:100%;font-size:12px;border-collapse:collapse">`;
     list.sort((a, b) => b.total - a.total);
+    const fecName = (pl.donor_fec_names || {})[donorId];
     list.forEach(c => {
       const srcTag = c.source === 'TEC'
         ? '<span style="display:inline-block;background:rgba(251,191,36,0.15);color:#fbbf24;border:1px solid rgba(251,191,36,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">TX STATE</span>'
         : '<span style="display:inline-block;background:rgba(79,142,247,0.12);color:#4f8ef7;border:1px solid rgba(79,142,247,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">FEDERAL</span>';
+      const link = (c.source === 'FEC' && c.committee_id)
+        ? fecLink(fecReceiptsUrl(fecName, c.committee_id, c.first, c.last), 'View')
+        : '';
       html += `<tr style="border-bottom:1px solid var(--border)">
         <td style="padding:4px 8px">${srcTag}${c.name}</td>
         <td style="text-align:right;padding:4px 8px;color:${partyColors[party]}">${fmt(c.total)}</td>
         <td style="text-align:right;padding:4px 8px;color:var(--muted)">${c.n} gifts</td>
+        <td style="text-align:right;padding:4px 8px">${link}</td>
       </tr>`;
     });
     html += '</table>';
