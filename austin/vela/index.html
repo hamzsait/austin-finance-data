@@ -1805,9 +1805,10 @@ function renderIPSpectrum(ip) {
   const section = document.getElementById('ipSection');
   if (!ip || !ip.total_flagged) { section.style.display = 'none'; return; }
   section.style.display = '';
+  window._IP_DATA = ip;
 
   document.getElementById('ipHint').textContent =
-    `${ip.total_flagged} donors with Israel/Palestine-related federal committee donations`;
+    `${ip.total_flagged} donors with Israel/Palestine-related federal committee donations · click a donor for details`;
 
   const fmt = n => '$' + Math.round(n).toLocaleString();
   const catColors = {
@@ -1822,7 +1823,7 @@ function renderIPSpectrum(ip) {
   };
 
   let html = '';
-  ip.categories.forEach(cat => {
+  ip.categories.forEach((cat, ci) => {
     const color = catColors[cat.key] || '#666';
     const icon = catIcons[cat.key] || '';
     html += `<div style="margin-bottom:16px">`;
@@ -1840,13 +1841,14 @@ function renderIPSpectrum(ip) {
         <th style="text-align:left;padding:4px 8px">Committees</th>
       </tr></thead><tbody>`;
 
-    cat.donor_list.forEach(d => {
+    cat.donor_list.forEach((d, di) => {
       const tierBadge = d.tier === 1 ? '<span style="background:#ef4444;color:#fff;font-size:9px;padding:1px 5px;border-radius:3px;margin-left:4px">DIRECT</span>' : '';
       const leanDot = d.partisan_lean != null
         ? `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${d.partisan_lean >= 0.6 ? '#3b82f6' : (d.partisan_lean <= 0.4 ? '#ef4444' : '#a78bfa')};margin-right:4px" title="Partisan lean: ${(d.partisan_lean*100).toFixed(0)}%"></span>`
         : '';
       const commNames = d.committees.map(c => c.name).join(', ');
       html += `<tr style="border-bottom:1px solid var(--border);cursor:pointer"
+                   onclick="openIpDetail(${ci},${di})" title="Click for committee ties, dates & methodology"
                    onmouseenter="this.style.background='rgba(24,49,79,0.05)'"
                    onmouseleave="this.style.background=''">
         <td style="padding:5px 8px;white-space:nowrap">${leanDot}${d.name}${tierBadge}</td>
@@ -1859,6 +1861,123 @@ function renderIPSpectrum(ip) {
   });
 
   document.getElementById('ipContent').innerHTML = html;
+}
+
+// ── I/P spectrum drill-down panel ────────────────────────────────────────────
+const IP_TIER_LABELS = {
+  1: 'Tier 1 — gave directly to AIPAC / United Democracy Project, or to 3+ tracked committees',
+  2: 'Tier 2 — gave to two tracked committees (multi-PAC network donor)',
+  3: 'Tier 3 — gave to a single tracked committee',
+};
+const IP_CAT_TAGS = {
+  aipac_direct: 'AIPAC direct',
+  proisrael_hawkish: 'Pro-Israel (hawkish)',
+  liberal_zionist: 'Liberal Zionist',
+  pro_palestine: 'Pro-Palestine',
+};
+
+function openIpDetail(ci, di) {
+  const ip = window._IP_DATA;
+  if (!ip) return;
+  const cat = ip.categories[ci];
+  const d = cat.donor_list[di];
+  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const money = n => (n < 0 ? '−$' : '$') + Math.round(Math.abs(n)).toLocaleString();
+  const catColors = { hawkish_proisrael: '#1d4ed8', liberal_zionist: '#7c3aed', pro_palestine: '#059669' };
+  const color = catColors[cat.key] || 'var(--accent)';
+  const candidate = document.getElementById('navCandidateName').textContent;
+
+  document.getElementById('fecTitle').innerHTML =
+    `${esc(d.name)} <span style="font-size:11px;font-weight:600;color:${color};border:1px solid ${color};border-radius:4px;padding:1px 7px;margin-left:6px;vertical-align:middle">${esc(cat.label)}</span>`;
+
+  // Roll transactions up per committee (totals, gift count, date range)
+  const txs = d.transactions || [];
+  const byComm = {};
+  txs.forEach(t => {
+    if (!byComm[t.committee]) byComm[t.committee] = { total: 0, n: 0, category: t.category, first: t.date, last: t.date };
+    const c = byComm[t.committee];
+    c.total += t.amount; c.n += 1;
+    if (t.date && (!c.first || t.date < c.first)) c.first = t.date;
+    if (t.date && (!c.last || t.date > c.last)) c.last = t.date;
+  });
+
+  let html = `<div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px">
+    <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:8px 14px">
+      <div style="font-size:18px;font-weight:800;color:${color}">${money(d.ip_total)}</div>
+      <div style="font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)">Federal to I/P committees</div>
+    </div>
+    <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:8px 14px">
+      <div style="font-size:18px;font-weight:800">${money(d.local_total)}</div>
+      <div style="font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)">Local to ${esc(candidate)}</div>
+    </div>
+    ${d.partisan_lean != null ? `<div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:8px 14px">
+      <div style="font-size:18px;font-weight:800;color:${d.partisan_lean >= 0.6 ? '#3b82f6' : (d.partisan_lean <= 0.4 ? '#ef4444' : '#a78bfa')}">${(d.partisan_lean * 100).toFixed(0)}% Dem</div>
+      <div style="font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)">Federal partisan lean</div>
+    </div>` : ''}
+  </div>
+  <div style="font-size:12px;color:var(--muted);margin-bottom:16px">${esc(IP_TIER_LABELS[d.tier] || ('Tier ' + d.tier))}</div>`;
+
+  // Committee ties
+  html += `<div style="font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);margin-bottom:8px">Committee ties</div>`;
+  const commEntries = Object.entries(byComm).sort((a, b) => b[1].total - a[1].total);
+  if (commEntries.length) {
+    commEntries.forEach(([name, c]) => {
+      const range = c.first === c.last ? (c.first || '') : `${c.first} → ${c.last}`;
+      html += `<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid var(--border)">
+        <div style="min-width:0">
+          <div style="font-size:13px;font-weight:600">${esc(name)}</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px">
+            <span style="color:${color};font-weight:600">${esc(IP_CAT_TAGS[c.category] || c.category)}</span>
+            &middot; ${c.n} gift${c.n !== 1 ? 's' : ''} &middot; ${esc(range)}
+          </div>
+        </div>
+        <div style="font-size:14px;font-weight:700;white-space:nowrap">${money(c.total)}</div>
+      </div>`;
+    });
+  } else {
+    // Fallback for data exported before itemized transactions existed
+    html += (d.committees || []).map(c =>
+      `<div style="padding:8px 0;border-bottom:1px solid var(--border);font-size:13px;font-weight:600">${esc(c.name)}</div>`
+    ).join('') || '<div style="font-size:12px;color:var(--muted)">No committee detail available.</div>';
+  }
+
+  // Itemized receipts with dates
+  if (txs.length) {
+    html += `<div style="font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);margin:18px 0 6px">Itemized FEC receipts (${txs.length})</div>
+      <table style="width:100%;font-size:12px;border-collapse:collapse">
+      <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
+        <th style="text-align:left;padding:4px 6px">Date</th>
+        <th style="text-align:left;padding:4px 6px">Committee</th>
+        <th style="text-align:right;padding:4px 6px">Amount</th>
+      </tr></thead><tbody>`;
+    txs.forEach(t => {
+      html += `<tr style="border-bottom:1px solid var(--border)">
+        <td style="padding:4px 6px;white-space:nowrap;color:var(--muted)">${esc(t.date || '—')}</td>
+        <td style="padding:4px 6px">${esc(t.committee)}</td>
+        <td style="padding:4px 6px;text-align:right;font-weight:600;${t.amount < 0 ? 'color:var(--muted)' : ''}">${money(t.amount)}${t.amount < 0 ? ' <span style="font-size:10px">(refund)</span>' : ''}</td>
+      </tr>`;
+    });
+    html += '</tbody></table>';
+  }
+
+  // Methodology
+  html += `<div style="margin-top:18px;background:rgba(29,78,216,0.06);border:1px solid rgba(29,78,216,0.2);border-left:3px solid ${color};border-radius:6px;padding:10px 14px;font-size:12px;line-height:1.6;color:var(--muted)">
+    <strong style="color:var(--text)">How this federal number was built.</strong>
+    This donor's Austin campaign-finance records were matched to FEC itemized individual
+    contributions using name, city/ZIP, and employer/occupation signals — only confirmed
+    identity matches are counted. We track 16 Israel/Palestine-aligned federal committees in
+    three camps: <strong>AIPAC-aligned</strong> (AIPAC PAC, United Democracy Project, Pro-Israel
+    America, DMFI PAC, NORPAC, RJC and others), <strong>Liberal Zionist</strong> (JStreetPAC,
+    Bend the Arc, NJDC), and <strong>Pro-Palestine</strong> (JVP Action, PAL PAC, Americans for
+    a Palestinian State). Every itemized FEC receipt from this donor to those committees is
+    listed above with its filing date; their sum is the federal total, and the donor's spectrum
+    placement is the camp that received the most money. All amounts are public record
+    (FEC itemized receipts); local totals come from Austin City Clerk filings.
+  </div>`;
+
+  document.getElementById('fecBody').innerHTML = html;
+  openFecPanel();
 }
 
 // ── Verified civic affiliations ──────────────────────────────────────────────

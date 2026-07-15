@@ -771,6 +771,28 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
         for cid, cname in cur.execute("SELECT committee_id, committee_name FROM fec_committee_cache WHERE ip_category IS NOT NULL").fetchall():
             comm_names[cid] = cname
 
+        # Itemized FEC receipts to IP-flagged committees, per donor (dates + amounts
+        # for the profile page's drill-down panel)
+        ip_donor_ids = [row[0] for row in ip_rows]
+        ip_tx_by_donor = {}
+        if ip_donor_ids:
+            ph = ",".join("?" * len(ip_donor_ids))
+            tx_rows = cur.execute(f"""
+                SELECT fcr.donor_id, fcc.committee_name, fcc.ip_category,
+                       fcr.contribution_date, fcr.contribution_amount
+                FROM fec_contributions_raw fcr
+                JOIN fec_committee_cache fcc ON fcc.committee_id = fcr.committee_id
+                WHERE fcr.donor_id IN ({ph}) AND fcc.ip_category IS NOT NULL
+                ORDER BY fcr.contribution_date DESC
+            """, ip_donor_ids).fetchall()
+            for r in tx_rows:
+                ip_tx_by_donor.setdefault(r[0], []).append({
+                    "committee": r[1] or "Unknown Committee",
+                    "category": r[2],
+                    "date": r[3],
+                    "amount": round(r[4] or 0, 0),
+                })
+
         categories = {}
         donors_by_cat = {}
         for row in ip_rows:
@@ -791,6 +813,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                 "local_total": round(row[6] or 0, 0),
                 "partisan_lean": round(row[7], 3) if row[7] is not None else None,
                 "committees": comm_list,
+                "transactions": ip_tx_by_donor.get(row[0], []),
             })
 
         # Order: hawkish first, then liberal zionist, then pro-palestine
