@@ -82,7 +82,7 @@
     .face{position:absolute;inset:0;-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:12px;overflow:hidden;background:#fff;border:1px solid var(--line);box-shadow:0 14px 30px -22px rgba(24,49,79,.45)}
     .face.back{transform:rotateY(180deg)}
     .flipcard:hover .face.front{pointer-events:none}
-    .face.front{display:flex;flex-direction:column;padding:12px}
+    .face.front{display:flex;flex-direction:column;padding:12px;transform:rotateY(0deg)}
     .face.front .fm{position:static!important;margin-bottom:9px}
     .face.front .cardinfo{position:static!important;margin-top:12px}
     .photoframe{position:relative;flex:1;min-height:0;border-radius:3px;overflow:hidden;border:1px solid rgba(24,49,79,.18);filter:grayscale(1) contrast(1.05);background:#e3e7ec}
@@ -105,6 +105,13 @@
     footer a { color: var(--navy); text-decoration: none; font-weight: 600; }
     footer a:hover { color: var(--accent); }
 
+    @media (hover:none){
+      .flipcard:hover .flipinner{transform:none}
+      .flipcard:hover .face.front{pointer-events:auto}
+      .face.back{display:none!important}
+      .mobileonly{display:flex!important;margin-top:11px;padding:13px 0;font-size:15px;border-radius:9px}
+      .mobileonly svg{width:15px;height:15px}
+    }
     @media (max-width:1080px){.cardgrid{grid-template-columns:repeat(3,1fr)}}
     @media (max-width:680px){
       .padx{padding-left:20px;padding-right:20px}
