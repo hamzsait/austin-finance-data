@@ -882,6 +882,29 @@
     font-variant-numeric: tabular-nums;
   }
 
+  /* ── Pop-out affordance cues ── */
+  .pop-hint {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-family: 'Inter', sans-serif; font-size: 9.5px; font-weight: 600;
+    letter-spacing: .5px; text-transform: uppercase;
+    color: var(--accent); background: rgba(186,18,0,.05);
+    border: 1px solid rgba(186,18,0,.28); border-radius: 999px;
+    padding: 2px 8px; margin-left: 8px; white-space: nowrap;
+    vertical-align: middle;
+  }
+  .ig-row::after, .firm-row::after {
+    content: '›'; font-size: 15px; font-weight: 700; line-height: 1;
+    color: var(--muted); opacity: .35; margin-left: 8px; flex-shrink: 0;
+    align-self: center; transition: opacity .12s, color .12s;
+  }
+  .ig-row:hover::after, .firm-row:hover::after { color: var(--accent); opacity: 1; }
+  td.chev {
+    color: var(--muted); opacity: .35; font-weight: 700; font-size: 14px;
+    text-align: right; width: 18px; white-space: nowrap;
+    transition: opacity .12s, color .12s;
+  }
+  tr:hover td.chev { color: var(--accent); opacity: 1; }
+
   /* ── decode(politics): brand typography ── */
   .hero h1, .stat .val, .civic-stat-value, .firm-total, .amount-cell, .sc-val {
     font-family: 'Space Grotesk', sans-serif;
@@ -1008,7 +1031,7 @@
 
       <!-- Fundraising by year -->
       <div class="card">
-        <div class="card-title">Fundraising Timeline</div>
+        <div class="card-title"><span>Fundraising Timeline <span class="pop-hint">⤢ click a year</span></span></div>
         <div class="year-bars" id="yearBars">
           <!-- injected by JS -->
         </div>
@@ -1029,7 +1052,7 @@
     <!-- ── Row 2: Interest group breakdown (full width) ── -->
     <div id="igSection" class="card" style="margin-bottom:20px">
       <div class="card-title">
-        Funding by Category
+        <span>Funding by Category <span class="pop-hint">⤢ click a category</span></span>
         <span class="hint" id="igHint">2022 – present</span>
       </div>
       <div class="sort-bar">
@@ -1076,7 +1099,7 @@
 
     <!-- ── Israel/Palestine Donor Spectrum ── -->
     <div id="ipSection" class="card" style="display:none;margin-bottom:20px">
-      <div class="card-title">Israel-Palestine Donor Spectrum
+      <div class="card-title"><span>Israel-Palestine Donor Spectrum <span class="pop-hint">⤢ click a donor</span></span>
         <span class="hint" id="ipHint">based on FEC donations to affiliated committees</span>
       </div>
       <div id="ipContent"></div>
@@ -1094,7 +1117,7 @@
 
     <!-- ── Partisan Lean (FEC data) ── -->
     <div id="partisanSection" class="card" style="display:none;margin-bottom:20px">
-      <div class="card-title">Federal Partisan Lean
+      <div class="card-title"><span>Federal Partisan Lean <span class="pop-hint">⤢ click a segment</span></span>
         <span class="hint" id="partisanHint">based on FEC donation history</span>
       </div>
       <div style="display:flex;gap:24px;align-items:flex-start;flex-wrap:wrap">
@@ -1114,6 +1137,7 @@
               <th style="text-align:left;padding:2px 8px">Bucket</th>
               <th style="text-align:right;padding:2px 8px">Donors</th>
               <th style="text-align:right;padding:2px 8px">Amount</th>
+              <th></th>
             </tr></thead>
             <tbody></tbody>
           </table>
@@ -1126,19 +1150,20 @@
 
       <!-- Notable firms -->
       <div class="card">
-        <div class="card-title">Firms with 3+ Donors <span class="hint">coordinated giving signal</span></div>
+        <div class="card-title"><span>Firms with 3+ Donors <span class="pop-hint">⤢ click a firm</span></span> <span class="hint">coordinated giving signal</span></div>
         <div id="firmsList"></div>
       </div>
 
       <!-- Top donors -->
       <div class="card">
-        <div class="card-title">Top Individual Donors <span class="hint">2022+</span></div>
+        <div class="card-title"><span>Top Individual Donors <span class="pop-hint">⤢ click a donor</span></span> <span class="hint">2022+</span></div>
         <table class="donors-table" id="topDonorsTable">
           <thead>
             <tr>
               <th>Donor</th>
               <th style="text-align:right">Total</th>
               <th style="text-align:right">Gifts</th>
+              <th></th>
             </tr>
           </thead>
           <tbody id="topDonorsTbody"></tbody>
@@ -1477,6 +1502,7 @@ function renderTopDonors() {
       </td>
       <td class="amount-cell">${fmt(d.total)}</td>
       <td class="count-cell">${d.count}×</td>
+      <td class="chev">›</td>
     `;
     tbody.appendChild(tr);
   });
@@ -1847,6 +1873,7 @@ function renderIPSpectrum(ip) {
         <th style="text-align:right;padding:4px 8px">Federal $</th>
         <th style="text-align:right;padding:4px 8px">Local $</th>
         <th style="text-align:left;padding:4px 8px">Committees</th>
+        <th></th>
       </tr></thead><tbody>`;
 
     cat.donor_list.forEach((d, di) => {
@@ -1863,6 +1890,7 @@ function renderIPSpectrum(ip) {
         <td style="text-align:right;padding:5px 8px;color:${color};font-weight:600">${fmt(d.ip_total)}</td>
         <td style="text-align:right;padding:5px 8px">${fmt(d.local_total)}</td>
         <td style="padding:5px 8px;font-size:11px;color:var(--muted);max-width:220px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${commNames}">${commNames}</td>
+        <td class="chev">›</td>
       </tr>`;
     });
     html += '</tbody></table></div></div>';
@@ -2202,6 +2230,7 @@ function renderPartisanLean(pl) {
       <td style="padding:3px 8px"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${c};margin-right:6px"></span>${b.label}</td>
       <td style="text-align:right;padding:3px 8px">${b.donors}</td>
       <td style="text-align:right;padding:3px 8px">${fmt(b.total)}</td>
+      <td class="chev">›</td>
     `;
     tbody.appendChild(tr);
   });
@@ -2238,6 +2267,7 @@ function showPartisanBucket(label, minLean, maxLean, color) {
       <th style="text-align:right;padding:6px 6px">Lean</th>
       <th style="text-align:right;padding:6px 6px">Dem</th>
       <th style="text-align:right;padding:6px 6px">Rep</th>
+      <th></th>
     </tr></thead><tbody>`;
 
   donors.forEach(d => {
@@ -2250,6 +2280,7 @@ function showPartisanBucket(label, minLean, maxLean, color) {
       <td style="text-align:right;padding:6px 6px;color:${leanColor};font-weight:600">${(d.lean*100).toFixed(0)}%</td>
       <td style="text-align:right;padding:6px 6px;color:#3b82f6;font-size:12px">${fmt(d.dem)}</td>
       <td style="text-align:right;padding:6px 6px;color:#ef4444;font-size:12px">${fmt(d.rep)}</td>
+      <td class="chev">›</td>
     </tr>`;
   });
   html += '</tbody></table></div>';
