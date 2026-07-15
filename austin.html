@@ -113,6 +113,7 @@
       .face.front .cardinfo > div:nth-child(2){font-size:12px!important;margin-top:5px!important}
       .face.front .cardinfo > div:nth-child(3) span{font-size:13px!important}
       .mobileonly{display:flex!important;margin-top:11px;padding:13px 0;font-size:15px;border-radius:9px}
+      .siteheader{position:sticky;top:0;z-index:300}
       .mobileonly svg{width:15px;height:15px}
     }
   </style>
@@ -148,14 +149,9 @@
   <div class="cardgrid" id="gridMayor"></div>
 </section>
 
-<section class="padx" style="padding-top:36px">
+<section class="padx" style="padding-top:36px;padding-bottom:52px">
   <h2 class="sectlbl">Districts 1–10</h2>
   <div class="cardgrid" id="gridDistricts"></div>
-</section>
-
-<section class="padx" style="padding-top:36px;padding-bottom:52px">
-  <h2 class="sectlbl">Recent Unelected Candidates</h2>
-  <div class="cardgrid" id="gridUnelected"></div>
 </section>
 
 <section class="padx" style="padding-bottom:64px">
@@ -224,12 +220,6 @@ const SECTIONS = [
     { slug:'ellis' },          // District 8
     { slug:'qadri' },          // District 9
     { slug:'duchen' }          // District 10
-  ]},
-  { grid:'gridUnelected', entries: [
-    { soon:true, name:'Celia Israel',         office:'District 9 · 2024 Race',  raised:'$755K', note:'6,484 records', photo:'israel' },
-    { soon:true, name:'Mackenzie Kelly',      office:'District 6 · 2024 Race',  raised:'$240K', note:'2024 race', photo:'kelly' },
-    { soon:true, name:'Ashika Ganguly',       office:'District 9 · 2024 Race',  raised:'$177K', note:'2024 race', photo:'ganguly' },
-    { soon:true, name:'Carmen Llanes-Pulido', office:'District 2 · 2024 Race',  raised:'$122K', note:'2024 race', photo:'llanes' }
   ]}
 ];
 
