@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--
+  OG card generator — not linked from the site.
+  Open with query params and screenshot the 1200x630 viewport:
+    ?v=home
+    ?v=soon
+    ?v=austin&raised=$5.6M&donors=13,795&seats=11
+    ?v=profile&name=Kirk+Watson&district=Mayor&race=2023+Race&raised=$3.2M&donors=6,317&emp=69.5%25&photo=au0&g1=Real+Estate&a1=$517K&g2=Legal&a2=$370K
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --sky:#c8e0f4; --ink:#0c1a2c; --muted:#5b6b7a; --navy:#18314f;
+    --accent:#ba1200; --red:#cc1f3c; --line:rgba(24,49,79,.12);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{width:1200px;height:630px;overflow:hidden}
+  body{background:var(--sky);font-family:'Inter',system-ui,sans-serif;color:var(--ink);display:flex;flex-direction:column}
+
+  /* ── header band: sky strip + white browser tab (site header, scaled up) ── */
+  .band{background:var(--sky);padding:34px 64px 0;display:flex;align-items:flex-end;gap:26px;flex:none}
+  .traffic{display:flex;align-items:center;gap:15px;padding-bottom:30px}
+  .traffic i{width:20px;height:20px;border-radius:50%;display:block}
+  .tab{position:relative;display:flex;align-items:center;height:84px;padding:0 34px;border-radius:22px 22px 0 0;background:#fff}
+  .tab .corner{position:absolute;bottom:0;width:22px;height:22px}
+  .tab .corner.l{left:-22px;background:radial-gradient(circle at top left,transparent 22px,#fff 22.5px)}
+  .tab .corner.r{right:-22px;background:radial-gradient(circle at top right,transparent 22px,#fff 22.5px)}
+  .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:36px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
+  .wordmark .fn{color:var(--red)}
+  .wordmark .pr{color:var(--navy)}
+  .wordmark .cur{width:4px;height:34px;margin-left:6px;border-radius:2px;background:var(--red);display:inline-block;opacity:.9}
+
+  /* ── white body ── */
+  .sheet{background:#fff;flex:1;padding:52px 64px 0;display:flex;flex-direction:column;min-height:0}
+
+  .eyebrow{font-family:'Oswald',sans-serif;font-size:21px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:18px;display:flex;align-items:center;gap:16px}
+  .livepill{display:inline-flex;align-items:center;gap:10px;border:2.5px solid var(--accent);color:var(--accent);border-radius:999px;padding:6px 20px;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:20px;letter-spacing:.08em}
+  .livepill .dot{width:12px;height:12px;border-radius:50%;background:var(--accent)}
+
+  .bigcode{font-family:'Space Grotesk',sans-serif;font-weight:700;letter-spacing:-.03em;line-height:1.04}
+  .bigcode .f{color:var(--red)}.bigcode .p{color:var(--navy)}
+  .title{font-family:'Space Grotesk',sans-serif;font-weight:700;letter-spacing:-.025em;line-height:1.05;color:var(--navy)}
+  .sub{color:var(--muted);font-size:27px;line-height:1.5;max-width:30ch}
+
+  .stats{display:flex;gap:70px;margin-top:auto;padding:30px 0 40px;border-top:2px solid var(--line)}
+  .stat .v{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:52px;color:var(--navy);letter-spacing:-.02em;line-height:1}
+  .stat .l{font-family:'Oswald',sans-serif;font-size:17px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:10px}
+
+  /* profile variant */
+  .prow{display:flex;gap:56px;align-items:flex-start;flex:1;min-height:0}
+  .pleft{flex:1;display:flex;flex-direction:column;min-height:0}
+  .photo{flex:none;width:270px;height:308px;border-radius:22px;overflow:hidden;background:var(--navy);display:flex;align-items:center;justify-content:center;box-shadow:0 14px 40px rgba(24,49,79,.22)}
+  .photo img{width:100%;height:100%;object-fit:cover;object-position:top center;filter:grayscale(1)}
+  .photo .init{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:104px;color:#cfe3f5}
+  .meta{font-family:'Oswald',sans-serif;font-size:22px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:16px}
+  .meta b{color:var(--accent);font-weight:600}
+  .groups{margin-top:26px;display:flex;flex-direction:column;gap:16px}
+  .grow{display:flex;align-items:center;gap:20px;font-size:24px}
+  .grow .gl{width:330px;font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .grow .bar{flex:1;height:16px;border-radius:8px;background:rgba(24,49,79,.10);overflow:hidden}
+  .grow .bar i{display:block;height:100%;border-radius:8px;background:var(--navy)}
+  .grow .ga{width:120px;text-align:right;font-family:'Space Grotesk',sans-serif;font-weight:700;color:var(--navy)}
+</style>
+</head>
+<body>
+  <div class="band">
+    <div class="traffic"><i style="background:#f45952"></i><i style="background:#f5bd4f"></i><i style="background:#5fb865"></i></div>
+    <div class="tab">
+      <span class="corner l"></span><span class="corner r"></span>
+      <span class="wordmark"><span class="fn">decode</span><span class="pr">(</span>politics<span class="pr">)</span><span class="fn">:</span><span class="cur"></span></span>
+    </div>
+  </div>
+  <div class="sheet" id="sheet"></div>
+
+<script>
+const q = new URLSearchParams(location.search);
+const v = q.get('v') || 'home';
+const esc = s => (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const sheet = document.getElementById('sheet');
+
+const WM = '<span class="f">decode</span><span class="p">(</span>politics<span class="p">)</span><span class="f">:</span>';
+
+if (v === 'home') {
+  sheet.innerHTML = `
+    <div class="eyebrow">Follow the money</div>
+    <div class="bigcode" style="font-size:104px;margin-bottom:22px">${WM}</div>
+    <div class="sub" style="max-width:44ch">Every filing pulled, every dollar matched to its donor. Clear, sourced scorecards &mdash; unbought.</div>
+    <div class="stats">
+      <div class="stat"><div class="v">11</div><div class="l">Austin seats live</div></div>
+      <div class="stat"><div class="v">${esc(q.get('raised')||'$5.6M')}</div><div class="l">Raised &amp; decoded</div></div>
+      <div class="stat"><div class="v">${esc(q.get('donors')||'13,000+')}</div><div class="l">Donors traced</div></div>
+    </div>`;
+} else if (v === 'soon') {
+  sheet.innerHTML = `
+    <div class="eyebrow">Coming soon</div>
+    <div class="title" style="font-size:88px;margin-bottom:22px">This race isn&rsquo;t<br>decoded&hellip; yet.</div>
+    <div class="sub" style="max-width:42ch">Austin City Council money is already live &mdash; donor by donor, all 11 seats.</div>`;
+} else if (v === 'austin') {
+  sheet.innerHTML = `
+    <div class="eyebrow">Austin City Council <span class="livepill"><span class="dot"></span>LIVE</span></div>
+    <div class="title" style="font-size:92px;margin-bottom:22px">Campaign finance,<br>decoded.</div>
+    <div class="stats">
+      <div class="stat"><div class="v">${esc(q.get('seats')||'11')}</div><div class="l">Seats</div></div>
+      <div class="stat"><div class="v">${esc(q.get('raised')||'$5.6M')}</div><div class="l">Raised</div></div>
+      <div class="stat"><div class="v">${esc(q.get('donors')||'13,000+')}</div><div class="l">Donors</div></div>
+    </div>`;
+} else if (v === 'profile') {
+  const name = q.get('name') || 'Candidate';
+  const nameSize = name.length > 18 ? 56 : name.length > 13 ? 66 : 78;
+  const initials = name.split(/\s+/).map(w=>w[0]).join('').slice(0,2).toUpperCase();
+  const photo = q.get('photo');
+  const g1 = q.get('g1'), g2 = q.get('g2');
+  sheet.innerHTML = `
+    <div class="prow">
+      <div class="pleft">
+        <div class="eyebrow" style="margin-bottom:14px">${esc(q.get('district')||'')} <span class="livepill"><span class="dot"></span>LIVE</span></div>
+        <div class="title" style="font-size:${nameSize}px">${esc(name)}</div>
+        <div class="meta">${esc(q.get('race')||'')} &nbsp;&middot;&nbsp; Austin City Council</div>
+        <div class="groups">
+          ${g1?`<div class="grow"><span class="gl">${esc(g1)}</span><span class="bar"><i style="width:100%"></i></span><span class="ga">${esc(q.get('a1')||'')}</span></div>`:''}
+          ${g2?`<div class="grow"><span class="gl">${esc(g2)}</span><span class="bar"><i style="width:${esc(q.get('w2')||'62')}%"></i></span><span class="ga">${esc(q.get('a2')||'')}</span></div>`:''}
+        </div>
+      </div>
+      <div class="photo">${photo?`<img src="/assets/photos/${encodeURIComponent(photo)}.webp" alt="">`:`<span class="init">${esc(initials)}</span>`}</div>
+    </div>
+    <div class="stats" style="padding-bottom:34px">
+      <div class="stat"><div class="v">${esc(q.get('raised')||'')}</div><div class="l">Raised</div></div>
+      <div class="stat"><div class="v">${esc(q.get('donors')||'')}</div><div class="l">Donors</div></div>
+      <div class="stat"><div class="v">${esc(q.get('emp')||'')}</div><div class="l">Employer-affiliated</div></div>
+    </div>`;
+}
+document.title = 'og:' + v;
+</script>
+</body>
+</html>

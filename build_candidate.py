@@ -20,6 +20,7 @@ avoid collisions like "Alter" (Ryan vs Alison) or "Vela" (matches "Velasquez").
 """
 
 import argparse
+import json
 import os
 import re
 
@@ -42,6 +43,34 @@ ROSTER = [
 ]
 
 
+def og_meta_for(slug: str) -> dict:
+    """Social-preview strings for a slug, from the austin_landing.json snapshot.
+
+    The og:image (assets/og/og-{slug}.png) is generated separately by
+    screenshotting assets/og/card.html at 1200x630 — regenerate it when the
+    candidate's headline stats change.
+    """
+    with open(os.path.join(ROOT, "austin_landing.json"), "r", encoding="utf-8") as f:
+        landing = json.load(f)
+    c = next((c for c in landing["candidates"] if c["slug"] == slug), None)
+    if c is None:
+        return {
+            "title": "Candidate Profile — Austin Campaign Finance — decode(politics):",
+            "desc": "Austin City Council campaign money, decoded donor by donor.",
+            "alt": "Austin campaign finance, decoded by decode(politics):",
+        }
+    g = c["topGroups"]
+    return {
+        "title": f"{c['name']} — Austin Campaign Finance — decode(politics):",
+        "desc": (
+            f"{c['name']} ({c['district']}) raised {c['raised']} from {c['donors']} donors. "
+            f"Top donor interests: {g[0]['label']} ({g[0]['amt']}) and {g[1]['label']} ({g[1]['amt']}). "
+            "Every dollar decoded, donor by donor."
+        ),
+        "alt": f"{c['name']} ({c['district']}) — {c['raised']} raised, {c['donors']} donors, decoded by decode(politics):",
+    }
+
+
 def make_profile_html(slug: str) -> str:
     """Render profile_template.html to austin/{slug}/index.html with PROFILE_SLUG injected.
 
@@ -61,6 +90,14 @@ def make_profile_html(slug: str) -> str:
     )
     if n != 1:
         raise RuntimeError("PROFILE_SLUG line not found in profile_template.html")
+
+    og = og_meta_for(slug)
+    new_html = (
+        new_html.replace("__OG_SLUG__", slug)
+        .replace("__OG_TITLE__", og["title"])
+        .replace("__OG_DESC__", og["desc"])
+        .replace("__OG_ALT__", og["alt"])
+    )
 
     out_dir = os.path.join(ROOT, "austin", slug)
     os.makedirs(out_dir, exist_ok=True)
