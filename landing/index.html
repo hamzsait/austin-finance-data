@@ -525,7 +525,7 @@ function backFaceHtml(o){
         '<div><div style="display:flex;justify-content:space-between;font-family:\'Space Grotesk\',sans-serif;font-size:9.5px;font-weight:600;color:#28394a;margin-bottom:4px"><span>' + esc(g.label) + '</span><span style="color:' + CARD_MUTED + '">' + esc(g.amt) + '</span></div>'
         + '<div style="height:7px;border-radius:4px;background:rgba(24,49,79,.10);overflow:hidden"><div style="width:' + g.w + '%;height:100%;border-radius:4px;background:' + NAVY + '"></div></div></div>'
       ).join('') + '</div>';
-    btn = '<a class="seemore" href="' + live.href + '">See More<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>';
+    btn = '<a class="seemore" href="' + ('/austin/' + o.slug + '/') + '">See More<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>';
   } else {
     title = 'Top Donors'; period = '';
     body = '<div style="flex:1;display:flex;align-items:center;justify-content:center;text-align:center;padding:0 8px">'
@@ -563,7 +563,7 @@ function cardHtml(o){
     +         '</div>' + meter
     +       '</div>'
     +       (live
-              ? '<a class="seemore mobileonly" href="' + live.href + '">See More<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>'
+              ? '<a class="seemore mobileonly" href="' + ('/austin/' + o.slug + '/') + '">See More<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>'
               : '<a class="seemore ghost mobileonly" href="/coming-soon/">Coming soon</a>')
     +     '</div>'
     +   '</div>'

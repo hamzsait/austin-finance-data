@@ -297,7 +297,7 @@ fetch('/austin_landing.json')
           soon: false,
           name: c.name, office: c.district + ' · ' + c.race,
           pill: c.raised + ' raised', note: c.donors + ' donors',
-          photo: c.photo, href: c.href, topGroups: c.topGroups
+          photo: c.photo, href: '/austin/' + c.slug + '/', topGroups: c.topGroups
         };
       }).filter(Boolean);
       document.getElementById(sec.grid).innerHTML = cards.map(cardHtml).join('');
