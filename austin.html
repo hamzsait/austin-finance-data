@@ -79,6 +79,7 @@
     .seemore{background:var(--navy);color:#fff;border:none;border-radius:6px;padding:9px 0;cursor:pointer;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:11.5px;letter-spacing:-.01em;display:flex;align-items:center;justify-content:center;gap:6px;text-decoration:none;transition:background .15s ease,color .15s ease}
     .seemore:hover{background:#F5A623!important;color:#18314f!important}
     .seemore.ghost{background:var(--soft);color:var(--muted);border:1px solid var(--line)}
+    .mobileonly{display:none!important}
 
     h2.sectlbl {
       font-family: 'Oswald', sans-serif; font-size: 13px; font-weight: 600;
@@ -95,9 +96,21 @@
     @media (max-width:680px){
       .padx{padding-left:20px;padding-right:20px}
       nav.sitenav{gap:15px;font-size:13px;flex-wrap:wrap}
-      .cardgrid{grid-template-columns:1fr 1fr}
+      /* mobile: stack cards, no flip, See more shown on the card face;
+         photo keeps its desktop ~6:5 ratio, cropped from the top */
+      .cardgrid{grid-template-columns:1fr}
+      .flipcard{perspective:none;height:auto}
+      .flipinner{height:auto}
+      .flipcard:hover .flipinner{transform:none}
+      .flipcard:hover .face.front{pointer-events:auto}
+      .face.back{display:none!important}
+      .face.front{position:relative;inset:auto;padding:12px}
+      .face.front .fm{position:static!important;margin-bottom:9px}
+      .photoframe{position:relative;top:auto;left:auto;right:auto;height:auto;aspect-ratio:6/5}
+      .photoframe img{object-position:50% 0}
+      .face.front .cardinfo{position:static!important;margin-top:12px}
+      .mobileonly{display:flex!important;margin-top:11px}
     }
-    @media (max-width:430px){.cardgrid{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
@@ -245,10 +258,10 @@ function frontHtml(o){
   const meter = o.note
     ? '<div style="display:inline-flex;align-items:center;gap:5px;background:#fff;border:1px solid rgba(24,49,79,.2);border-radius:6px;padding:4px 8px"><span style="font-family:\'Oswald\',sans-serif;font-weight:700;font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:' + MUTED + '">' + esc(o.note) + '</span></div>'
     : '';
-  return '<div style="position:absolute;top:11px;left:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:9.5px;line-height:1.05;letter-spacing:.04em;color:' + NAVY + ';opacity:.6">FOLLOW<br>THE MONEY</div>'
+  return '<div class="fm" style="position:absolute;top:11px;left:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:9.5px;line-height:1.05;letter-spacing:.04em;color:' + NAVY + ';opacity:.6">FOLLOW<br>THE MONEY</div>'
     + badge
     + '<div class="photoframe">' + photoHtml(o.photo, o.name) + '</div>'
-    + '<div style="position:absolute;left:12px;right:12px;bottom:12px;z-index:3">'
+    + '<div class="cardinfo" style="position:absolute;left:12px;right:12px;bottom:12px;z-index:3">'
     +   '<div style="font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:14px;letter-spacing:-.01em;color:' + NAVY + ';line-height:1.1">' + esc(o.name) + '</div>'
     +   '<div style="font-family:\'Space Grotesk\',sans-serif;font-weight:600;font-size:9px;letter-spacing:.04em;color:' + MUTED + ';margin-top:3px">' + esc(o.office) + '</div>'
     +   '<div style="display:flex;align-items:center;gap:7px;margin-top:9px;flex-wrap:wrap">'
@@ -257,6 +270,9 @@ function frontHtml(o){
     +       '<span style="font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:11px;letter-spacing:-.01em;color:' + (o.soon ? MUTED : '#fff') + '">' + esc(o.pill) + '</span>'
     +     '</div>' + meter
     +   '</div>'
+    +   (o.soon
+        ? '<a class="seemore ghost mobileonly" href="coming-soon.html">Coming soon</a>'
+        : '<a class="seemore mobileonly" href="' + o.href + '">See more<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>')
     + '</div>';
 }
 
