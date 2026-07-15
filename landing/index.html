@@ -114,13 +114,17 @@
   .face{position:absolute;inset:0;-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:12px;overflow:hidden;background:#fff;border:1px solid var(--line);box-shadow:0 14px 30px -22px rgba(24,49,79,.45)}
   .face.back{transform:rotateY(180deg)}
   .flipcard:hover .face.front{pointer-events:none}
-  .photoframe{position:absolute;top:40px;left:12px;right:12px;height:176px;border-radius:3px;overflow:hidden;border:1px solid rgba(24,49,79,.18);filter:grayscale(1) contrast(1.05);background:#e3e7ec}
+    .face.front{display:flex;flex-direction:column;padding:12px}
+    .face.front .fm{position:static!important;margin-bottom:9px}
+    .face.front .cardinfo{position:static!important;margin-top:12px}
+  .photoframe{position:relative;flex:1;min-height:0;border-radius:3px;overflow:hidden;border:1px solid rgba(24,49,79,.18);filter:grayscale(1) contrast(1.05);background:#e3e7ec}
   .photoframe img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 0;display:block}
   .photoframe .noimg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:44px;color:#9aa6b5}
   .seemore{background:#18314f;color:#fff;border:none;border-radius:6px;padding:9px 0;cursor:pointer;font-family:'Oswald',sans-serif;font-weight:700;font-size:12px;letter-spacing:.04em;display:flex;align-items:center;justify-content:center;gap:6px;text-decoration:none;transition:background .15s ease,color .15s ease}
   .seemore:hover{background:#F5A623!important;color:#18314f!important}
   .seemore.ghost{background:var(--soft);color:var(--muted);border:1px solid var(--line)}
   .mobileonly{display:none!important}
+    @media (min-width:681px){.cardinfo > div:first-child{min-height:31px}}
   .emptyros{padding:56px 24px;text-align:center;border:1px dashed var(--line);border-radius:14px;background:var(--soft)}
 
   /* ── Method strip ── */
@@ -156,7 +160,7 @@
     .face.back{display:none!important}
     .face.front{position:relative;inset:auto;padding:12px}
     .face.front .fm{position:static!important;margin-bottom:9px}
-    .photoframe{position:relative;top:auto;left:auto;right:auto;height:auto;aspect-ratio:6/5}
+    .photoframe{position:relative;flex:none;top:auto;left:auto;right:auto;bottom:auto;height:auto;aspect-ratio:6/5}
     .photoframe img{object-position:50% 0}
     .face.front .cardinfo{position:static!important;margin-top:12px}
     .face.front .cardinfo > div:nth-child(1){font-size:18px!important}
