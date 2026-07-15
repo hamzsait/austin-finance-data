@@ -140,9 +140,19 @@
   <p>Who funds Austin's city council candidates? Explore donation histories, industry breakdowns, and donor networks for every race. Flip a card for the money — click through for the full profile.</p>
 </header>
 
-<section class="padx" style="padding-top:28px;padding-bottom:52px">
-  <h2 class="sectlbl">City Council Profiles</h2>
-  <div class="cardgrid" id="cardGrid"></div>
+<section class="padx" style="padding-top:28px">
+  <h2 class="sectlbl">Mayor</h2>
+  <div class="cardgrid" id="gridMayor"></div>
+</section>
+
+<section class="padx" style="padding-top:36px">
+  <h2 class="sectlbl">Districts 1–10</h2>
+  <div class="cardgrid" id="gridDistricts"></div>
+</section>
+
+<section class="padx" style="padding-top:36px;padding-bottom:52px">
+  <h2 class="sectlbl">Recent Unelected Candidates</h2>
+  <div class="cardgrid" id="gridUnelected"></div>
 </section>
 
 <section class="padx" style="padding-bottom:64px">
@@ -196,24 +206,28 @@
 const NAVY = '#18314f', RED = '#ba1200', MUTED = '#5b6b7a';
 const PHOTOS = new Set(['au0','au1','au2','au3','au4','au5','au6','au7','au8','au9','au10','israel','kelly','ganguly','llanes']);
 
-// Page order: same interleaving as the old stat-card grid. Live slugs resolve
-// against austin_landing.json; soon entries are static.
-const CARD_ORDER = [
-  { slug:'qadri' },
-  { slug:'watson' },
-  { soon:true, name:'Celia Israel',         office:'District 9 · 2024 Race',  raised:'$755K', note:'6,484 records', photo:'israel' },
-  { slug:'siegel' },
-  { slug:'harpermadison' },
-  { soon:true, name:'Mackenzie Kelly',      office:'District 6 · 2024 Race',  raised:'$240K', note:'2024 race', photo:'kelly' },
-  { soon:true, name:'Ashika Ganguly',       office:'District 9 · 2024 Race',  raised:'$177K', note:'2024 race', photo:'ganguly' },
-  { slug:'fuentes' },
-  { slug:'velasquez' },
-  { slug:'ellis' },
-  { soon:true, name:'Carmen Llanes-Pulido', office:'District 2 · 2024 Race',  raised:'$122K', note:'2024 race', photo:'llanes' },
-  { slug:'vela' },
-  { slug:'alter' },
-  { slug:'laine' },
-  { slug:'duchen' }
+// Sections: Mayor, Districts 1-10 (seat order), then recent unelected candidates.
+// Live slugs resolve against austin_landing.json; soon entries are static.
+const SECTIONS = [
+  { grid:'gridMayor', entries: [ { slug:'watson' } ] },
+  { grid:'gridDistricts', entries: [
+    { slug:'harpermadison' },  // District 1
+    { slug:'fuentes' },        // District 2
+    { slug:'velasquez' },      // District 3
+    { slug:'vela' },           // District 4
+    { slug:'alter' },          // District 5
+    { slug:'laine' },          // District 6
+    { slug:'siegel' },         // District 7
+    { slug:'ellis' },          // District 8
+    { slug:'qadri' },          // District 9
+    { slug:'duchen' }          // District 10
+  ]},
+  { grid:'gridUnelected', entries: [
+    { soon:true, name:'Celia Israel',         office:'District 9 · 2024 Race',  raised:'$755K', note:'6,484 records', photo:'israel' },
+    { soon:true, name:'Mackenzie Kelly',      office:'District 6 · 2024 Race',  raised:'$240K', note:'2024 race', photo:'kelly' },
+    { soon:true, name:'Ashika Ganguly',       office:'District 9 · 2024 Race',  raised:'$177K', note:'2024 race', photo:'ganguly' },
+    { soon:true, name:'Carmen Llanes-Pulido', office:'District 2 · 2024 Race',  raised:'$122K', note:'2024 race', photo:'llanes' }
+  ]}
 ];
 
 function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
@@ -280,23 +294,25 @@ fetch('austin_landing.json')
   .then(j => {
     const bySlug = {};
     j.candidates.forEach(c => { bySlug[c.slug] = c; });
-    const cards = CARD_ORDER.map(entry => {
-      if (entry.soon){
-        return Object.assign({ pill: entry.raised + ' raised', photo: null }, entry);
-      }
-      const c = bySlug[entry.slug];
-      if (!c) return null;
-      return {
-        soon: false,
-        name: c.name, office: c.district + ' · ' + c.race,
-        pill: c.raised + ' raised', note: c.donors + ' donors',
-        photo: c.photo, href: c.href, topGroups: c.topGroups
-      };
-    }).filter(Boolean);
-    document.getElementById('cardGrid').innerHTML = cards.map(cardHtml).join('');
+    SECTIONS.forEach(sec => {
+      const cards = sec.entries.map(entry => {
+        if (entry.soon){
+          return Object.assign({ pill: entry.raised + ' raised', photo: null }, entry);
+        }
+        const c = bySlug[entry.slug];
+        if (!c) return null;
+        return {
+          soon: false,
+          name: c.name, office: c.district + ' · ' + c.race,
+          pill: c.raised + ' raised', note: c.donors + ' donors',
+          photo: c.photo, href: c.href, topGroups: c.topGroups
+        };
+      }).filter(Boolean);
+      document.getElementById(sec.grid).innerHTML = cards.map(cardHtml).join('');
+    });
   })
   .catch(() => {
-    document.getElementById('cardGrid').innerHTML =
+    document.getElementById('gridMayor').innerHTML =
       '<p style="grid-column:1/-1;color:var(--muted);font-size:14px">Couldn’t load candidate data — <a href="austin.html" style="color:var(--accent)">try refreshing</a>.</p>';
   });
 </script>
