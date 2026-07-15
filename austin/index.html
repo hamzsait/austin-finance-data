@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Austin Campaign Finance — decode(politics):</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ccircle%20cx='50'%20cy='50'%20r='50'%20fill='%2318314f'/%3E%3Cpath%20d='M43%2031%20L36%2031%20Q31%2031%2031%2036%20L31%2064%20Q31%2069%2036%2069%20L43%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Cpath%20d='M57%2031%20L64%2031%20Q69%2031%2069%2036%20L69%2064%20Q69%2069%2064%2069%20L57%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='50'%20cy='42'%20r='5.5'%20fill='%23bf1a13'/%3E%3Ccircle%20cx='50'%20cy='58'%20r='5.5'%20fill='%23bf1a13'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --page:#ffffff; --card:#ffffff; --ink:#0c1a2c; --muted:#5b6b7a;
+      --line:rgba(24,49,79,.12); --soft:rgba(24,49,79,.045);
+      --headerband:#c8e0f4; --headerrow:rgba(255,255,255,.5); --tabbg:#ffffff;
+      --accent:#ba1200; --accent-hover:#8a0d00;
+      --fn:#cc1f3c; --paren:#18314f; --id:#18314f; --op:#cc1f3c;
+      --navy:#18314f;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--page); color: var(--ink); font-family: 'Inter', system-ui, sans-serif; min-height: 100vh;  }
+    .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
+
+    /* ── decode(politics): browser-tab header ── */
+    .siteheader{position:relative;z-index:60;display:flex;flex-direction:column;background:var(--page)}
+    .tabstrip{display:flex;align-items:flex-end;gap:13px;padding-top:11px;background:var(--headerband)}
+    .traffic{display:flex;align-items:center;gap:8px;padding-bottom:15px}
+    .traffic i{width:11px;height:11px;border-radius:50%;display:block}
+    .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:12px 12px 0 0;max-width:380px;background:var(--tabbg);text-decoration:none}
+    .browsertab .corner{position:absolute;bottom:0;width:13px;height:13px}
+    .browsertab .corner.l{left:-13px;background:radial-gradient(circle at top left,transparent 13px,var(--tabbg) 13.5px)}
+    .browsertab .corner.r{right:-13px;background:radial-gradient(circle at top right,transparent 13px,var(--tabbg) 13.5px)}
+    .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:19px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
+    .wordmark .fn{color:var(--fn)}
+    .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:1px;background:var(--fn);display:inline-block;opacity:.9;animation:blink 1.05s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.wordmark .cur{animation:none}}
+    .tabx{margin-left:auto;color:var(--muted);opacity:.55;display:inline-flex;flex:none}
+    .newtab{width:26px;height:26px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted);opacity:.6;flex:none}
+    .navrow{min-height:52px;display:flex;align-items:center;justify-content:flex-start;background:var(--headerrow)}
+    nav.sitenav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:500}
+    .nlink{color:var(--ink);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
+    .nlink:hover{background:#F5A623;color:#18314f}
+    .nlink.live{border:1px solid var(--accent);color:var(--accent);gap:7px}
+    .nlink.live .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:pulse 1.6s ease infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.3);opacity:1}}
+    .navitem{position:relative;display:inline-flex}
+    .navitem:hover > .nlink{background:#F5A623;color:#18314f}
+    .dropwrap{position:absolute;top:100%;left:0;padding-top:11px;opacity:0;visibility:hidden;transition:opacity .2s ease,visibility .2s ease;z-index:40}
+    .navitem:hover .dropwrap{opacity:1;visibility:visible}
+    .dropcard{min-width:208px;background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 40px -22px rgba(24,49,79,.42);padding:8px;display:flex;flex-direction:column;gap:2px}
+    .droplink{padding:9px 12px;border-radius:10px;color:var(--ink);text-decoration:none;font-size:13.5px;white-space:nowrap;cursor:pointer;transition:background .12s ease,color .12s ease}
+    .droplink:hover{background:#F5A623;color:#18314f}
+
+    /* ── Page head ── */
+    .pagehead { padding-top: 48px; padding-bottom: 8px; }
+    .eyebrow {
+      font-family: 'Oswald', sans-serif; font-size: 12px; letter-spacing: .22em;
+      text-transform: uppercase; color: var(--accent); font-weight: 600; margin-bottom: 12px;
+    }
+    .pagehead h1 {
+      font-family: 'Oswald', sans-serif; font-size: 34px; font-weight: 700;
+      letter-spacing: -0.02em; line-height: 1.05; color: var(--navy);
+    }
+    .pagehead h1 span { color: var(--accent); }
+    .pagehead p { margin-top: 10px; color: var(--muted); font-size: 15px; max-width: 560px; line-height: 1.6; }
+
+    /* ── Flip cards (white — same design as the landing page) ── */
+    .cardgrid{display:grid;grid-template-columns:repeat(6,1fr);gap:16px}
+    .flipcard{perspective:1100px;position:relative;height:360px}
+    .flipinner{position:relative;width:100%;height:100%;transition:transform 1.1s cubic-bezier(.4,.15,.2,1);transform-style:preserve-3d}
+    .flipcard:hover .flipinner{transform:rotateY(180deg)}
+    .face{position:absolute;inset:0;-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:12px;overflow:hidden;background:#fff;border:1px solid var(--line);box-shadow:0 14px 30px -22px rgba(24,49,79,.45)}
+    .face.back{transform:rotateY(180deg)}
+    .flipcard:hover .face.front{pointer-events:none}
+    .photoframe{position:absolute;top:40px;left:12px;right:12px;height:176px;border-radius:3px;overflow:hidden;border:1px solid rgba(24,49,79,.18);filter:grayscale(1) contrast(1.05);background:#e3e7ec}
+    .photoframe img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 0;display:block}
+    .photoframe .noimg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:44px;color:#9aa6b5}
+    .seemore{background:var(--navy);color:#fff;border:none;border-radius:6px;padding:9px 0;cursor:pointer;font-family:'Oswald',sans-serif;font-weight:700;font-size:12px;letter-spacing:.04em;display:flex;align-items:center;justify-content:center;gap:6px;text-decoration:none;transition:background .15s ease,color .15s ease}
+    .seemore:hover{background:#F5A623!important;color:#18314f!important}
+    .seemore.ghost{background:var(--soft);color:var(--muted);border:1px solid var(--line)}
+    .mobileonly{display:none!important}
+
+    h2.sectlbl {
+      font-family: 'Oswald', sans-serif; font-size: 13px; font-weight: 600;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 16px;
+    }
+
+    footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px;
+             border-top: 1px solid var(--line); background: var(--headerband); }
+    footer a { color: var(--navy); text-decoration: none; font-weight: 600; }
+    footer a:hover { color: var(--accent); }
+
+    @media (max-width:1080px){.cardgrid{grid-template-columns:repeat(3,1fr)}}
+    @media (max-width:680px){
+      .padx{padding-left:20px;padding-right:20px}
+      nav.sitenav{gap:15px;font-size:13px;flex-wrap:wrap}
+      /* mobile: stack cards, no flip, See more shown on the card face;
+         photo keeps its desktop ~6:5 ratio, cropped from the top */
+      .cardgrid{grid-template-columns:1fr}
+      .flipcard{perspective:none;height:auto}
+      .flipinner{height:auto}
+      .flipcard:hover .flipinner{transform:none}
+      .flipcard:hover .face.front{pointer-events:auto}
+      .face.back{display:none!important}
+      .face.front{position:relative;inset:auto;padding:12px}
+      .face.front .fm{position:static!important;margin-bottom:9px}
+      .photoframe{position:relative;top:auto;left:auto;right:auto;height:auto;aspect-ratio:6/5}
+      .photoframe img{object-position:50% 0}
+      .face.front .cardinfo{position:static!important;margin-top:12px}
+      .face.front .cardinfo > div:nth-child(1){font-size:18px!important}
+      .face.front .cardinfo > div:nth-child(2){font-size:12px!important;margin-top:5px!important}
+      .face.front .cardinfo > div:nth-child(3) span{font-size:13px!important}
+      .mobileonly{display:flex!important;margin-top:11px;padding:13px 0;font-size:15px;border-radius:9px}
+      .siteheader{position:sticky;top:0;z-index:300}
+      .mobileonly svg{width:15px;height:15px}
+    }
+  </style>
+</head>
+<body>
+
+<div class="siteheader">
+  <div class="tabstrip padx">
+    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
+    <a class="browsertab" href="/" title="decode(politics): home">
+      <span class="corner l"></span><span class="corner r"></span>
+      <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
+      <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
+      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
+    </a>
+    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
+  </div>
+  <div class="navrow padx">
+    <nav class="sitenav">
+      <a class="nlink live" href="/austin/"><span class="dot"></span>Austin Finance</a>
+    </nav>
+  </div>
+</div>
+
+<header class="pagehead padx">
+  <div class="eyebrow">City of Austin · live data</div>
+  <h1>Austin <span>Campaign Finance</span></h1>
+  <p>Who funds Austin's city council candidates? Explore donation histories, industry breakdowns, and donor networks for every race. Flip a card for the money — click through for the full profile.</p>
+</header>
+
+<section class="padx" style="padding-top:28px">
+  <h2 class="sectlbl">Mayor</h2>
+  <div class="cardgrid" id="gridMayor"></div>
+</section>
+
+<section class="padx" style="padding-top:36px;padding-bottom:52px">
+  <h2 class="sectlbl">Districts 1–10</h2>
+  <div class="cardgrid" id="gridDistricts"></div>
+</section>
+
+<section class="padx" style="padding-bottom:64px">
+  <h2 class="sectlbl">About This Project</h2>
+  <p style="color:var(--muted);font-size:14px;line-height:1.7;max-width:620px">
+    Data sourced from the Austin City Clerk's campaign finance records and cross-referenced with FEC federal filings.
+    Industry classifications are derived from employer identities, occupation records, and public information.
+    All source data is public record.
+  </p>
+</section>
+
+<footer>
+  decode(politics): · Data from <a href="https://www.austintexas.gov/department/city-clerk" target="_blank">Austin City Clerk</a> &
+  <a href="https://www.fec.gov" target="_blank">FEC</a> ·
+  Updated April 2026 ·
+  <a href="mailto:info@decodepolitics.org">info@decodepolitics.org</a>
+</footer>
+
+<script>
+/* ══════════ typing wordmark ══════════ */
+(function(){
+  const host = document.getElementById('typedHost');
+  const text = "(politics):";
+  const reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function paint(n){
+    let html = '';
+    for (let j = 0; j < n; j++){
+      const c = text[j];
+      const col = (c === '(' || c === ')') ? 'var(--paren)' : (c === ':' ? 'var(--op)' : 'var(--id)');
+      html += '<span style="color:' + col + '">' + c + '</span>';
+    }
+    host.innerHTML = html;
+  }
+  if (reduced){ paint(text.length); return; }
+  // type out once, then stop — the cursor keeps blinking via its CSS animation
+  let i = 0;
+  function tick(){
+    paint(i);
+    if (i >= text.length) return;
+    i++;
+    setTimeout(tick, 115);
+  }
+  tick();
+})();
+
+/* ══════════ white flip cards — same design as the landing page ══════════ */
+const NAVY = '#18314f', RED = '#ba1200', MUTED = '#5b6b7a';
+const PHOTOS = new Set(['au0','au1','au2','au3','au4','au5','au6','au7','au8','au9','au10','israel','kelly','ganguly','llanes']);
+
+// Sections: Mayor, Districts 1-10 (seat order), then recent unelected candidates.
+// Live slugs resolve against austin_landing.json; soon entries are static.
+const SECTIONS = [
+  { grid:'gridMayor', entries: [ { slug:'watson' } ] },
+  { grid:'gridDistricts', entries: [
+    { slug:'harpermadison' },  // District 1
+    { slug:'fuentes' },        // District 2
+    { slug:'velasquez' },      // District 3
+    { slug:'vela' },           // District 4
+    { slug:'alter' },          // District 5
+    { slug:'laine' },          // District 6
+    { slug:'siegel' },         // District 7
+    { slug:'ellis' },          // District 8
+    { slug:'qadri' },          // District 9
+    { slug:'duchen' }          // District 10
+  ]}
+];
+
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function photoHtml(key, name){
+  if (key && PHOTOS.has(key)) return '<img src="/assets/photos/' + key + '.webp" alt="' + esc(name) + '" loading="lazy">';
+  const initials = name.split(/\s+/).map(w => w[0] || '').join('').slice(0, 3).toUpperCase();
+  return '<div class="noimg">' + esc(initials) + '</div>';
+}
+
+function frontHtml(o){
+  const badge = o.soon
+    ? '<div style="position:absolute;top:11px;right:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:10px;border-radius:5px;padding:2px 7px;background:rgba(24,49,79,.06);color:' + MUTED + ';border:1px solid rgba(24,49,79,.2)">SOON</div>'
+    : '<div style="position:absolute;top:11px;right:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:10px;border-radius:5px;padding:2px 7px;background:' + RED + ';color:#fff">LIVE</div>';
+  const meter = o.note
+    ? '<div style="display:inline-flex;align-items:center;gap:5px;background:#fff;border:1px solid rgba(24,49,79,.2);border-radius:6px;padding:4px 8px"><span style="font-family:\'Oswald\',sans-serif;font-weight:700;font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:' + MUTED + '">' + esc(o.note) + '</span></div>'
+    : '';
+  return '<div class="fm" style="position:absolute;top:11px;left:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:9.5px;line-height:1.05;letter-spacing:.04em;color:' + NAVY + ';opacity:.6">FOLLOW<br>THE MONEY</div>'
+    + badge
+    + '<div class="photoframe">' + photoHtml(o.photo, o.name) + '</div>'
+    + '<div class="cardinfo" style="position:absolute;left:12px;right:12px;bottom:12px;z-index:3">'
+    +   '<div style="font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:14px;letter-spacing:-.01em;color:' + NAVY + ';line-height:1.1">' + esc(o.name) + '</div>'
+    +   '<div style="font-family:\'Space Grotesk\',sans-serif;font-weight:600;font-size:9px;letter-spacing:.04em;color:' + MUTED + ';margin-top:3px">' + esc(o.office) + '</div>'
+    +   '<div style="display:flex;align-items:center;gap:7px;margin-top:9px;flex-wrap:wrap">'
+    +     '<div style="display:inline-flex;align-items:center;gap:5px;background:' + (o.soon ? 'rgba(24,49,79,.06)' : NAVY) + ';border-radius:6px;padding:4px 9px">'
+    +       '<span style="width:7px;height:7px;border-radius:50%;background:' + (o.soon ? MUTED : '#ec3a22') + ';display:inline-block"></span>'
+    +       '<span style="font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:11px;letter-spacing:-.01em;color:' + (o.soon ? MUTED : '#fff') + '">' + esc(o.pill) + '</span>'
+    +     '</div>' + meter
+    +   '</div>'
+    +   (o.soon
+        ? '<a class="seemore ghost mobileonly" href="/coming-soon/">Coming soon</a>'
+        : '<a class="seemore mobileonly" href="' + o.href + '">See More<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>')
+    + '</div>';
+}
+
+function backHtml(o){
+  let body, btn, title, period;
+  if (o.soon){
+    title = 'Top Donors'; period = '';
+    body = '<div style="flex:1;display:flex;align-items:center;justify-content:center;text-align:center;padding:0 8px">'
+      + '<span style="font-family:\'Space Grotesk\',sans-serif;font-size:12px;font-weight:600;color:' + MUTED + ';line-height:1.6">Still decoding this race —<br>industry breakdown coming soon.</span></div>';
+    btn = '<a class="seemore ghost" href="/coming-soon/">Coming soon</a>';
+  } else {
+    title = 'Top Industries'; period = '2022+';
+    body = '<div style="flex:1;display:flex;flex-direction:column;justify-content:center;gap:11px;margin:4px 0">'
+      + o.topGroups.map(g =>
+        '<div><div style="display:flex;justify-content:space-between;font-family:\'Space Grotesk\',sans-serif;font-size:9.5px;font-weight:600;color:#28394a;margin-bottom:4px"><span>' + esc(g.label) + '</span><span style="color:' + MUTED + '">' + esc(g.amt) + '</span></div>'
+        + '<div style="height:7px;border-radius:4px;background:rgba(24,49,79,.10);overflow:hidden"><div style="width:' + g.w + '%;height:100%;border-radius:4px;background:' + NAVY + '"></div></div></div>'
+      ).join('') + '</div>';
+    btn = '<a class="seemore" href="' + o.href + '">See More<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>';
+  }
+  return '<div style="display:flex;align-items:center;justify-content:space-between">'
+    + '<span style="font-family:\'Oswald\',sans-serif;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:' + NAVY + '">' + title + '</span>'
+    + '<span style="font-family:\'Space Grotesk\',sans-serif;font-weight:600;font-size:9px;color:' + MUTED + '">' + period + '</span></div>'
+    + body + btn;
+}
+
+function cardHtml(o){
+  return '<div class="flipcard"><div class="flipinner">'
+    + '<div class="face front">' + frontHtml(o) + '</div>'
+    + '<div class="face back" style="display:flex;flex-direction:column;padding:15px 15px 14px">' + backHtml(o) + '</div>'
+    + '</div></div>';
+}
+
+fetch('/austin_landing.json')
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(j => {
+    const bySlug = {};
+    j.candidates.forEach(c => { bySlug[c.slug] = c; });
+    SECTIONS.forEach(sec => {
+      const cards = sec.entries.map(entry => {
+        if (entry.soon){
+          return Object.assign({ pill: entry.raised + ' raised', photo: null }, entry);
+        }
+        const c = bySlug[entry.slug];
+        if (!c) return null;
+        return {
+          soon: false,
+          name: c.name, office: c.district + ' · ' + c.race,
+          pill: c.raised + ' raised', note: c.donors + ' donors',
+          photo: c.photo, href: c.href, topGroups: c.topGroups
+        };
+      }).filter(Boolean);
+      document.getElementById(sec.grid).innerHTML = cards.map(cardHtml).join('');
+    });
+  })
+  .catch(() => {
+    document.getElementById('gridMayor').innerHTML =
+      '<p style="grid-column:1/-1;color:var(--muted);font-size:14px">Couldn’t load candidate data — <a href="/austin/" style="color:var(--accent)">try refreshing</a>.</p>';
+  });
+</script>
+</body>
+</html>

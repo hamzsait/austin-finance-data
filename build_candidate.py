@@ -43,11 +43,12 @@ ROSTER = [
 
 
 def make_profile_html(slug: str) -> str:
-    """Copy profile_template.html to profile_{slug}.html with PROFILE_SLUG injected.
+    """Render profile_template.html to austin/{slug}/index.html with PROFILE_SLUG injected.
 
-    The template (the rich 2191-line layout with the Israel-Palestine spectrum and
-    Verified Organizational Affiliations sections) declares PROFILE_SLUG on one
-    line; we rewrite that line for this candidate.
+    Pages live at clean URLs (/austin/<slug>/) since 2026-07-14; the template
+    (the rich layout with the Israel-Palestine spectrum and Verified
+    Organizational Affiliations sections) declares PROFILE_SLUG on one line and
+    uses root-absolute paths, so it renders correctly from any directory.
     """
     with open(TEMPLATE, "r", encoding="utf-8") as f:
         html = f.read()
@@ -61,7 +62,9 @@ def make_profile_html(slug: str) -> str:
     if n != 1:
         raise RuntimeError("PROFILE_SLUG line not found in profile_template.html")
 
-    out_path = os.path.join(ROOT, f"profile_{slug}.html")
+    out_dir = os.path.join(ROOT, "austin", slug)
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, "index.html")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(new_html)
     return out_path
@@ -98,7 +101,7 @@ def build_one(entry: dict, html_only: bool = False):
     empct = f"{hero['employer_affiliated_pct']}%"
 
     card = (
-        f'    <a class="card" href="profile_{slug}.html">\n'
+        f'    <a class="card" href="/austin/{slug}/">\n'
         f'      <div class="card-name">{entry["display"]} <span class="badge badge-live">Live</span></div>\n'
         f'      <div class="card-meta">{entry["district"]} · {entry["race"]}</div>\n'
         f'      <div class="card-stats">\n'
