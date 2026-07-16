@@ -1,0 +1,130 @@
+[
+ {
+  "donor_id": "tcv-bd286779-0217-41cd-968f-2d289e24ac19",
+  "name": "Raeder, Christopher",
+  "resolved_employer": "Autocraft Bodywerks (Principal/owner) — Austin-area auto collision-repair chain; also an Austin real-estate investor; former Director of Business Planning at AMD",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Chris Raeder is Principal of Autocraft Bodywerks, a 4-location Austin collision-repair business, and a listed Austin real-estate investor; Austin base and Travis County gift (to Ann Howard) fit. Common-ish name and blank zip keep it at medium.",
+  "source_url": "https://www.linkedin.com/in/chris-raeder-8071048/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b84e255a-fa9f-4b62-92f3-f04d30da9374",
+  "name": "Molina, Rene",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported 'Ret' (retired), Houston 77041; multiple Rene Molinas in Houston and no corroborating detail to pin the specific person or prior career.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ae9399ec-f5d5-43a7-b688-c7afbdfa8b7c",
+  "name": "Harper, Alan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Arlington TX 76016; no occupation/employer on file. Many Alan Harpers in the DFW area (aviation business owner, DHS forensics, etc.); none confirmable as this donor.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-aa4474c9-4115-4021-bc00-49806c344f57",
+  "name": "Neil H. Ellis",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation/employer self-reported as 'Don't Know'; no zip or location. No web source confirms a specific Neil H. Ellis tied to this Travis County gift (to Margaret Gomez).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8cd72710-fc85-49c8-8351-19a49518cbdc",
+  "name": "South Austin Democrats",
+  "resolved_employer": "South Austin Democrats — Democratic club/PAC (est. 1972), PO Box 152592 Austin TX 78715",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Established 1972 Democratic political club with a registered Texas PAC (South Austin Democrats PAC); zip 78715 matches the club's PO box. Donation to George Morales is a club endorsement contribution.",
+  "source_url": "https://www.southaustindems.org/",
+  "affiliations": [
+   {"org": "South Austin Democrats", "role": "Democratic political club / PAC", "category": "political", "source_url": "https://www.transparencyusa.org/tx/committee/south-austin-democrats-pac-25689-gpac/payees"}
+  ]
+ },
+ {
+  "donor_id": "tcv-7cbf08ee-210a-41a6-bb4d-7aec3ad47bc0",
+  "name": "Perdue, Leslie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin (Dripping Springs area) 78737; no occupation/employer on file and no web source confirms a specific Leslie Perdue tied to this gift (to George Morales).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7075dce8-8b81-40fc-8a28-fb522a4a3208",
+  "name": "Winn, Stephen",
+  "resolved_employer": "Founder of RealPage (property-management software, sold to Thoma Bravo 2021 for ~$10.2B); now managing partner of Mirasol Capital, a Dallas investment firm (real estate, technology, entertainment)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Stephen T. Winn, Dallas billionaire and RealPage founder (Forbes profile), Dallas 75219; runs Mirasol Capital and the Winn Family Foundation (STEM, environment, women's empowerment). RealPage made his fortune; hence Technology, with private-equity/family-office activity noted.",
+  "source_url": "https://www.forbes.com/profile/stephen-winn/",
+  "affiliations": [
+   {"org": "Mirasol Capital", "role": "Managing partner (investment firm)", "category": "business", "source_url": "https://www.insidephilanthropy.com/home/2023-9-19-why-this-texas-billionaire-is-giving-big-for-biodiversity-science-in-the-lone-star-state"}
+  ]
+ },
+ {
+  "donor_id": "tcv-702a8e91-563a-457a-88b9-ec75f6fc1d17",
+  "name": "Scott, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, no occupation/employer; 'John Scott' is extremely common (1894 FEC records aggregated across many people). Cannot identify the specific donor behind this Travis County gift (to Ann Howard).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6869695f-ba43-40d4-aaaf-4b35f3dc4709",
+  "name": "Spector, Susan",
+  "resolved_employer": "Retired (self-reported former occupation 'Financial')",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "County filing self-reports occupation 'Financial' and employer 'Retired,' Austin 78749. Industry taken from her own filing; no independent web source corroborates the specific individual, so confidence is low.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-61415164-d48e-4c68-9c8c-6f80f4ae9324",
+  "name": "Murugiah, Rajesh",
+  "resolved_employer": "Risun Solutions Inc (Co-founder & COO / partner) — Frisco TX toll-systems and transportation-infrastructure consulting firm; vendor to Central Texas Regional Mobility Authority",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Rajesh Murugiah is co-founder/COO of Risun Solutions, a Frisco toll-management/transportation consulting company (matches employer 'Risun Solutions Inc', title 'Partner', Frisco 75036/75034). Firm is a CTRMA toll vendor; gift to Andy Brown (Travis County Judge).",
+  "source_url": "https://www.linkedin.com/in/smrajesh/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-506e845c-e740-4b42-8b59-545aa788554a",
+  "name": "McLean & Howard L.L.P.",
+  "resolved_employer": "McLean & Howard, L.L.P. — Austin real-estate and commercial law firm (4301 Bull Creek Rd Ste 150, Austin 78731); real estate development, land use, zoning, eminent domain",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Established real-estate/commercial law firm founded 2003 by William P. McLean and Jeffrey S. Howard; zip 78731 matches firm address. Firm entity contribution to Andy Brown.",
+  "source_url": "https://mcleanhowardlaw.com/our-firm/",
+  "affiliations": [
+   {"org": "McLean & Howard, L.L.P.", "role": "Real estate / land-use law firm", "category": "business", "source_url": "https://mcleanhowardlaw.com/practice-areas/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-4aec05df-598d-451d-b053-600e72b45a62",
+  "name": "Rentfro, Joseph",
+  "resolved_employer": "Tejon Ranch Co — Executive Vice President, Real Estate (major California land/master-planned-community developer)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Joseph Nelson Rentfro, EVP Real Estate of Tejon Ranch Co, public records list him at 2201 Parkgate St, Bakersfield CA 93311 — matching the donor's Bakersfield 93311. Career-long real-estate development executive; gift to Ann Howard.",
+  "source_url": "https://www.erieri.com/executive/salary/joseph-rentfro-a3ta",
+  "affiliations": [
+   {"org": "Tejon Ranch Co", "role": "EVP Real Estate", "category": "business", "source_url": "https://clustrmaps.com/person/Rentfro-1k522d"}
+  ]
+ }
+]

@@ -1774,12 +1774,9 @@ function renderCycleNav(cycles) {
     nav.appendChild(lbl);
   }
 
-  // Default to the last (most recent) cycle
-  const defaultCycleIdx = populated.length - 1;
-
-  // "All Time" tab
+  // "All Time" tab — the default view; per-cycle tabs are optional increments
   const allBtn = document.createElement('button');
-  allBtn.className = 'cycle-tab';
+  allBtn.className = 'cycle-tab active';
   allBtn.dataset.cycle = '-1';
   allBtn.textContent = 'All Time';
   allBtn.onclick = () => switchCycle(-1);
@@ -1789,15 +1786,14 @@ function renderCycleNav(cycles) {
   cycles.forEach((c, i) => {
     const btn = document.createElement('button');
     btn.className = 'cycle-tab';
-    if (i === defaultCycleIdx) btn.classList.add('active');
     btn.dataset.cycle = i;
     btn.textContent = `${c.label} (${c.year_range})`;
     btn.onclick = () => switchCycle(i);
     nav.appendChild(btn);
   });
 
-  // Auto-switch to the current cycle on load
-  switchCycle(defaultCycleIdx);
+  // Default to All Time on load
+  switchCycle(-1);
 }
 
 function switchCycle(idx) {

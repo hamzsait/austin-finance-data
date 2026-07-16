@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "tcv-34e75919-f14b-4c46-a0db-53680aaaaddf",
+  "name": "Mercer, John",
+  "resolved_employer": "Retired solo-practice attorney (John R. Mercer)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "State Bar of Texas lists John R. Mercer, retired solo attorney, at 10607 Pickfair Dr, Austin, TX 78750-4010 — an exact match to the donor's zip+4 location.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=179199",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7e4774dd-c56d-476c-b826-0e2089b6d5ac",
+  "name": "McLaughlin, Alex",
+  "resolved_employer": "Co-Owner, Nautical Boat Club (Austin)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Self-reported occupation 'Boats'/'Self' matches Alex McLaughlin, co-owner of Nautical Boat Club, an Austin membership boating/leisure club; LinkedIn confirms co-ownership and Austin location (zip 78757).",
+  "source_url": "https://www.linkedin.com/in/alex-mclaughlin-17a16b85",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6a20ac6b-f896-4daf-86ae-e5c4523de286",
+  "name": "Barletta, Joseph",
+  "resolved_employer": "Founder & CEO, Smart Charge America (EV charging installation)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Joseph W. Barletta is founder/CEO of Smart Charge America, an EV-charger installation company at 2016 Centimeter Cir, Austin, TX 78758 — exact zip match to the donor.",
+  "source_url": "https://www.zoominfo.com/p/Joseph-Barletta/13181530",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-eeb72b38-fb7f-47e0-b4b8-853341161de1",
+  "name": "Selby, Thomas",
+  "resolved_employer": "Partner (patent litigator), Williams & Connolly LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Thomas H.L. Selby, patent-litigation partner at Williams & Connolly, resides at 2013 N Roosevelt St, Arlington, VA 22205 — exact zip match; out-of-state donor to Travis County's Brigid Shea.",
+  "source_url": "https://www.wc.com/Attorneys/Thomas-H-L-Selby",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-66f329f8-d60f-4a0f-9935-392c253bd64d",
+  "name": "CWA-Cope PCC",
+  "resolved_employer": "Communications Workers of America — COPE Political Contributions Committee (labor union PAC)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "CWA-COPE PCC is the federal/state political committee of the Communications Workers of America, a national labor union; Washington DC 20001 address and fully Democratic-leaning giving pattern are consistent.",
+  "source_url": "https://cwa-union.org/",
+  "affiliations": [
+   {"org": "Communications Workers of America (CWA)", "role": "Union political committee (COPE PAC)", "category": "political", "source_url": "https://cwa-union.org/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-44900c47-0851-4865-a56a-848dd8d76c13",
+  "name": "Limon, Martha",
+  "resolved_employer": "Office Manager, Limon Construction",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Donor self-reports as Office Manager at Limon Construction (Austin 78721); occupation/employer are given in the filing and internally consistent.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b108363-e84c-4661-840a-c62543009dda",
+  "name": "Guerrero, Jose",
+  "resolved_employer": "Owner, Donn's BBQ (Austin barbecue restaurants)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Jose Guerrero owns Donn's BBQ, a longtime Austin barbecue restaurant group (3 locations); he became a partner in 1987 and bought out founder James Howell. Self-reported 'Owner / Donn's BBQ' confirmed by press.",
+  "source_url": "https://communityimpact.com/austin/southwest-austin-dripping-springs/2022/05/23/donns-bbq-cooks-up-authentic-texas-food-for-over-30-years-in-austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5c84f070-120a-429e-a29b-8fc55245e89f",
+  "name": "Heidrick, Robert",
+  "resolved_employer": "Attorney (banking/finance, corporate, commercial real estate), Austin",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Robert Clarke Heidrick Jr. is a veteran Austin corporate/banking/commercial-real-estate attorney (Graves Dougherty Hearon & Moody / McGinnis Lochridge); downtown 78701 location fits. Board roles at Episcopal Seminary of the Southwest, Shivers Cancer Foundation, Lebermann Foundation — no flagged affiliations found.",
+  "source_url": "https://www.lawyers.com/austin/texas/robert-heidrick-jr-1625375-a/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e4f086a6-278b-4da5-8eb1-a8013de20d0a",
+  "name": "Patton, Sherwynn",
+  "resolved_employer": "Co-Executive Director, ATX Peace / Life Anew Restorative Justice (nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Sherwynn Patton co-leads Life Anew Restorative Justice / ATX Peace, an Austin nonprofit doing restorative-justice and community violence intervention (East Austin 78702 fits); co-authored a book on restorative discipline in Texas schools.",
+  "source_url": "https://everytownsupportfund.org/press/everytown-community-safety-fund-awards-100000-support-grant-to-atx-peace-life-anew-to-expand-street-outreach-and-crisis-response-in-austin/",
+  "affiliations": [
+   {"org": "Everytown Community Safety Fund (via ATX Peace/Life Anew)", "role": "Grantee — his community-violence-intervention org received a $100k Everytown support grant", "category": "gun_control", "source_url": "https://everytownsupportfund.org/press/everytown-community-safety-fund-awards-100000-support-grant-to-atx-peace-life-anew-to-expand-street-outreach-and-crisis-response-in-austin/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-b1cf4c89-e3cc-4e6c-9707-5f0d0441a6ea",
+  "name": "Powell-Gould, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Confirmed as an Austin resident and widow of Gary Gould (Austin psychotherapist/LCSW, d. 2021), but no public record establishes her own occupation or industry; not classifiable without guessing.",
+  "source_url": "https://www.dignitymemorial.com/obituaries/austin-tx/gary-gould-10239106",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4b57418f-5ef7-47f3-b9e4-3a3f1f5af2df",
+  "name": "Keys, Jerry",
+  "resolved_employer": "Founding member, Matheson Keys & Kordzik PLLC (IP/technology/corporate law)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jerry M. Keys is an Austin attorney and founding member of Matheson Keys & Kordzik PLLC, practicing IP/technology/corporate law; office at 7004 Bee Cave Rd, Austin 78746 — exact zip match (Westlake).",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=174757",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-185615b4-61fb-4652-b66a-29b8699307ea",
+  "name": "New, Joe",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not corroborate a specific individual named Joe/Joseph New in Austin 78735 via web, FEC, or OpenSecrets despite a prolific (91-gift) federal donation history; no occupation/employer recoverable, so not classifiable.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

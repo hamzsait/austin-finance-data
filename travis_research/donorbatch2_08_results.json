@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "2eb87ef9-775a-4f1f-bce6-78a1df7afc41",
+  "name": "Hayes, Emmitt",
+  "resolved_employer": "Retired Director, Probation Services Division, Travis County Juvenile Probation Dept (38 yrs, retired 2014); now independent consultant, LTBL Consultants (retired)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Emmitt W. Hayes owns 4001 Turquoise Cove, Austin 78749 (matches donor zip). Career public servant: retired 2014 as Director of Probation Services, Travis County Juvenile Probation Dept; now workforce-development/juvenile-justice consultant, Integral Care trustee, Neighborhood Housing Services board member. Gave to county commissioner Jeff Travillion.",
+  "source_url": "https://theorg.com/org/integral-care/org-chart/emmitt-w-hayes",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-74594557-753e-401a-a17a-a563ec4e1b2f",
+  "name": "Claybrook, JoEllen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "NW Austin (78731) donor to commissioner Ann Howard; 37 FEC gifts all Democratic-leaning. No occupation on file and no independent source confirms a specific JoEllen Claybrook's employer/career (a John L. Claybrook works in Austin real estate but her tie is unconfirmed). Cannot classify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a592884a-4ba0-4926-8b3c-c837b50d1142",
+  "name": "Saenz, Gina",
+  "resolved_employer": "Self-reported 'Ambassador' with Healing Streams / Healing to the Nations (evangelical healing ministry)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing self-reports occupation 'US HSTAN Ambassador' with 'Healing Streams Ambassadors Network / Healing to the Nations' — a religious healing-ministry volunteer title (not a diplomatic post). No external source corroborates this specific Gina Saenz (78748); several unrelated Gina Saenz profiles exist in TX. Cannot confidently classify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c66347ad-e2fc-4cc1-9cd2-3e609b73494e",
+  "name": "Villanacci, John",
+  "resolved_employer": "Environmental toxicologist/epidemiologist; former Director, Environmental Epidemiology & Toxicology, Texas Dept of State Health Services; adjunct prof, UT Austin College of Pharmacy",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "John Villanacci, PhD is a well-documented Austin-based environmental toxicologist who directed the Environmental Epidemiology & Toxicology Division at the Texas Dept of State Health Services (state government) and taught at UT Austin. Rare surname + Austin base support the match to this SW-Austin (78736) donor to commissioner Ann Howard, though zip is not independently confirmed.",
+  "source_url": "https://catalog.utexas.edu/archive/2015-16/undergraduate/pharmacy/faculty/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-679e67a8-0e0b-43a3-ada4-03a8c1b3ddc9",
+  "name": "Richard, Jeffrey",
+  "resolved_employer": "Founding Principal, J Richard Consulting Services; former President & CEO, Austin Area Urban League; former ACC Trustee",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Best match is Jeffrey Richard, prominent Austin civic figure: former President & CEO of the Austin Area Urban League, 12+ years elected Austin Community College Trustee (two-term board chair), ex-congressional staffer, now founder of J Richard Consulting. Donation pattern (county commissioners Travillion & Howard; 118 FEC gifts, Dem-leaning) fits, but no zip on file to fully corroborate.",
+  "source_url": "https://shoalcreekconservancy.org/board-member/jeffrey-richard/",
+  "affiliations": [
+   {"org": "Austin Area Urban League", "role": "former President & CEO", "category": "civic", "source_url": "https://aaul.org/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-60b5e666-1393-4e30-9926-c9004c9cb1f7",
+  "name": "Maguire, Jay",
+  "resolved_employer": "Self-employed consultant/lobbyist; Texas Hemp Federation; previously craft-beer (Texas Craft Brewers Guild) advocacy",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Jay Maguire is an Austin-area advocacy consultant/lobbyist known for leading the Texas Hemp Federation and earlier Texas craft-beer lobbying efforts; matches filing's self-employed 'Consultant' occupation. Gave to Travis County Democratic figure Andy Brown. Identity strong on name/role but zip (78739) not independently confirmed.",
+  "source_url": "https://friendsinaustin.com/episodes/jay-maguire-texas-hemp-federation",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-64b6074d-7756-4bf6-be08-0c214aba5132",
+  "name": "Flathouse, Virgil",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "West Lake Hills (78746) donor to commissioner Ann Howard; no occupation on file. 'Flathouse' is a rare surname but no source ties a Virgil Flathouse to an Austin-area career/employer (only an unrelated attorney Lauren Flathouse in Fulshear appears). Cannot classify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7f1eb29f-0857-444f-adab-f3418634b90b",
+  "name": "Krusee, Michael",
+  "resolved_employer": "Lobbyist/consultant; former Texas House Rep (R, District 52, 1993-2009), ex-Transportation Committee chairman; new-urbanism advocate",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Mike Krusee is the former Republican Texas House member for the Round Rock area (1993-2009) who chaired House Transportation and later became a registered lobbyist and Congress for the New Urbanism board member. Downtown-Austin (78701) donor to commissioner Jeff Travillion; distinctive name and public political profile confirm identity.",
+  "source_url": "https://ballotpedia.org/Mike_Krusee",
+  "affiliations": [
+   {"org": "Texas House of Representatives (R, District 52)", "role": "former State Representative / Transportation Committee chair", "category": "political", "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=196"}
+  ]
+ },
+ {
+  "donor_id": "tcv-1241b168-b081-4be7-bb89-9c8815688316",
+  "name": "Graham, Charles",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip or occupation on file; 'Charles Graham' is a very common name and the 651-gift FEC record (mixed partisan lean 0.24) cannot be tied to a specific identifiable Austin individual. Cannot classify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a65fb6c4-09cd-4502-b518-942f49562145",
+  "name": "Hernandez, Miguel",
+  "resolved_employer": "Owner/barber, Austin's Most Wanted Barbershop (4612 Burleson Rd, Austin 78744)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Mike/Miguel Hernandez founded Austin's Most Wanted Barbershop in 2014 at 4612 Burleson Rd, Austin 78744 (matches donor zip). Filing lists 'Owner/barber, Austins most wanted barbershop.' Small-business owner; gave to George Morales.",
+  "source_url": "https://www.austinsmostwanted.com/home",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f2c629a5-7b1c-4e83-b619-72968b332df1",
+  "name": "DeWorken, Frederick",
+  "resolved_employer": "Founder/CEO, BlueYeti (Austin data & AI consultancy); investor/board advisor, data.world; ex-Snowflake/Tableau",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Frederick DeWorken is the Austin-based founder/CEO of BlueYeti, a modern-data/AI consultancy (Snowflake partner), and investor/board advisor at data.world; prior early-stage roles at Tableau and Snowflake. Public address 2004 Parker Ln, Austin 78741 matches donor zip. Gave to George Morales.",
+  "source_url": "https://theorg.com/org/blueyeti/org-chart/frederick-deworken",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8a6c97df-d1c1-4dd0-a49c-5a17ad016df9",
+  "name": "Sloan, Priscilla",
+  "resolved_employer": "Neighborhood Engagement Manager, Suvida Healthcare (Austin)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Priscilla Sloan is the Neighborhood Engagement Manager ('NEM') at Suvida Healthcare, a Hispanic-senior primary-care provider with a South Austin clinic (500 W William Cannon Dr) near her 78745 zip. Named in KVUE coverage of the clinic. Gave to George Morales.",
+  "source_url": "https://www.kvue.com/article/news/health/suvida-healthcare-spanish-speaking-seniors/269-f4d1f58d-e259-4a28-85de-ae1bbf3b614c",
+  "affiliations": []
+ }
+]

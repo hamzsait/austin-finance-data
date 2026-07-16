@@ -1,0 +1,124 @@
+[
+ {
+  "donor_id": "tcv-c285df02-9040-4a18-8f74-88f97c98c672",
+  "name": "Kotrla, Kathryn",
+  "resolved_employer": "Dr. Kathryn Kotrla, MD — psychiatrist, Leander TX (former vice dean, Texas A&M College of Medicine)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Kathryn Kotrla, MD is a psychiatrist at 22974 Nameless Rd, Leander TX 78641 (exact donor zip); Baylor-trained, ~35 yrs experience, academic-medicine leadership incl. building a medical school and veteran/family behavioral-health programs.",
+  "source_url": "https://www.healthgrades.com/physician/dr-kathryn-kotrla-w6n26",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b7c943f6-8b10-4b87-bbb5-ecc0cc8866a1",
+  "name": "Wallace, Ellen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm a specific Ellen Wallace in Austin 78730. Web hits (art consultant in Chicago; nonprofit/museum consultant in Virginia) are different people in other states; no corroborating zip/occupation match.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a7733b90-4803-43dd-ba06-e39f9615d4a5",
+  "name": "Romans, Katherine",
+  "resolved_employer": "Hill Country Alliance — Executive Director (regional environmental conservation nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Katherine Romans is Executive Director of the Hill Country Alliance, an Austin-based regional land/water/night-sky conservation nonprofit; Austin resident since 2013, Yale F&ES master's, former US House Natural Resources Committee aide. Prominent Austin conservation figure; zip not independently confirmed.",
+  "source_url": "https://hillcountryalliance.org/hill-country-alliance-meet-executive-director-katherine-romans/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-966891e7-8c2c-45c7-bb9b-56414d8b968a",
+  "name": "D'Agostini, Sara",
+  "resolved_employer": "Attorney (real estate & tax law), Sterling Heights MI — D'Agostini & Ruggeri / affiliated with D'Agostini Companies (family real estate development firm)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Sara D'Agostini is a Sterling Heights, MI real estate/tax attorney at zip 48312 (exact donor zip) and a listed contact for D'Agostini Companies, a large SE-Michigan commercial/residential real estate developer (est. 1972). Distinctive name + zip match. Out-of-state donor to Brigid Shea.",
+  "source_url": "https://www.avvo.com/attorneys/48312-mi-sara-dagostini-4975795.html",
+  "affiliations": [
+   {"org": "D'Agostini Companies", "role": "family real estate development firm / listed contact", "category": "business", "source_url": "https://www.dagostinicompanies.com/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-8dbb27e5-1aab-4c32-bc2a-ac13aa712b1d",
+  "name": "Phillips, William",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "William Phillips is a common name; no result could be corroborated to the specific Austin 78739 (Circle C) donor by occupation, zip, or donation pattern.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-848dfb8c-46d9-4d71-84a5-1c0826b39e18",
+  "name": "Duncan, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip or location on record and 'John Duncan' is extremely common; cannot identify the specific individual despite a high FEC donation count (611). Not classifiable.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7e59590e-6fb5-44bd-b0b8-07dca5691860",
+  "name": "Aus, Frederick",
+  "resolved_employer": "Strategic Partnerships, Inc. (Austin) — Senior Consultant (government procurement / public-sector business development consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "'Fred Aus' (distinctive surname) is an Austin-based Senior Consultant at Strategic Partnerships, Inc., a public-sector procurement/business-development consulting firm founded by former TX commissioner Mary Scott Nabers. Matches donor city; zip not separately confirmed.",
+  "source_url": "https://www.linkedin.com/in/fred-aus-bb90ab15/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7d997d5c-a0e3-4f67-87fa-c41e1a8d415a",
+  "name": "Newman, Shiloh",
+  "resolved_employer": "Real estate asset management (with wife Jenny); also founder of Cen-Tex Luxury Lawns and former operator of La Fuente's restaurant — small-business entrepreneur, Lakeway",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Distinctive name + Lakeway 78734 match: Shiloh Newman, ~20+ yr Lakeway resident and LTYA board president, runs a multi-state real estate asset management company, founded Cen-Tex Luxury Lawns (artificial turf), and revived/operated La Fuente's restaurant. Primary described venture is real estate.",
+  "source_url": "https://www.mylife.com/shiloh-newman/e631908651642",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5e2b72cc-7ecf-4b16-b0d1-a8f340ec3bb9",
+  "name": "Beechner, Sara",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Only web reference is a historical KVRX (UT student radio) mention of a Sara Beechner, a Washington native active decades ago; cannot confirm this is the Austin 78733 donor or establish a current occupation/employer.",
+  "source_url": "https://alcalde.texasexes.org/2026/06/for-decades-uts-student-run-radio-station-kvrx-has-introduced-listeners-to-whats-next",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-59a7434f-069b-49a7-8ed6-311df17bff0f",
+  "name": "Tuerff, Kevin",
+  "resolved_employer": "Co-founder/former president of EnviroMedia (Austin environmental/public-health marketing agency, now closed); author, speaker, marketing consultant",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Kevin Tuerff is a well-known Austin figure — co-founder/president of EnviroMedia (a B-Corp integrated marketing firm focused on environment/public health) for 19 yrs, UT Moody College grad, and the real-life 'Kevin T.' from the musical Come From Away. Distinctive name confirms identity.",
+  "source_url": "https://www.linkedin.com/in/kevintuerff/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-54818822-cf33-48c9-8577-97b35382c97a",
+  "name": "Long, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Multiple attorneys and professionals named Robert Long in the Austin/78746 area; could not disambiguate the specific donor with confidence by zip, occupation, or donation pattern.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5380f3fd-6cae-4dd0-b924-9a310772e05f",
+  "name": "Matlock, Veronica",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Veronica Matlock is listed at 306 Red Tailed Hawk Dr, Pflugerville 78660 (donor city), but her occupation is unconfirmed; the prominent 'Veronica Matlock, Nurse Practitioner' online is a separate Los Angeles/Winnetka CA person (drmatlock.com), so healthcare cannot be attributed to the Pflugerville donor.",
+  "source_url": "https://radaris.com/p/Veronica/Matlock/",
+  "affiliations": []
+ }
+]

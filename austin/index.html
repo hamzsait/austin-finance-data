@@ -116,6 +116,34 @@
       color: var(--muted); margin-bottom: 16px;
     }
 
+    /* ── Collapsible officeholder sections ── */
+    .grphead{
+      display:flex;align-items:center;gap:12px;width:100%;
+      background:var(--soft);border:1px solid var(--line);border-radius:14px;
+      padding:14px 18px;margin-bottom:16px;cursor:pointer;text-align:left;
+      transition:background .12s ease;
+    }
+    .grphead:hover{background:rgba(24,49,79,.08)}
+    .grptitle{
+      font-family:'Oswald',sans-serif;font-size:15px;font-weight:700;
+      letter-spacing:.08em;text-transform:uppercase;color:var(--navy);
+    }
+    .grpsub{
+      font-family:'Space Grotesk',sans-serif;font-size:12px;font-weight:600;
+      color:var(--muted);
+    }
+    .grphead .chev{margin-left:auto;color:var(--muted);transition:transform .2s ease;flex:none}
+    .grphead[aria-expanded="false"] .chev{transform:rotate(-90deg)}
+    .grpbody.collapsed{display:none}
+
+    /* status badges on card corners */
+    .stbadge{position:absolute;top:11px;right:12px;z-index:3;font-family:'Space Grotesk',sans-serif;
+      font-weight:700;font-size:10px;border-radius:5px;padding:2px 7px}
+    .stbadge.live{background:var(--accent);color:#fff}
+    .stbadge.former{background:rgba(24,49,79,.14);color:var(--muted);border:1px solid rgba(24,49,79,.25)}
+    .stbadge.candidate{background:var(--navy);color:#fff}
+    .flipcard.retired .photoframe img{opacity:.55}
+
     footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px;
              border-top: 1px solid var(--line); background: var(--headerband); }
     footer a { color: var(--navy); text-decoration: none; font-weight: 600; }
@@ -173,24 +201,27 @@
 </div>
 
 <header class="pagehead padx">
-  <div class="eyebrow">City of Austin · live data</div>
+  <div class="eyebrow">Austin + Travis County · live data</div>
   <h1>Austin <span>Campaign Finance</span></h1>
   <p>Who funds Austin's city council and Travis County officials? Explore donation histories, industry breakdowns, and donor networks for every race. Flip a card for the money — click through for the full profile.</p>
 </header>
 
-<section class="padx" style="padding-top:28px">
-  <h2 class="sectlbl">Mayor</h2>
-  <div class="cardgrid" id="gridMayor"></div>
+<section class="padx grpsec" style="padding-top:28px">
+  <button class="grphead" data-grid="gridCouncil" aria-expanded="true">
+    <span class="grptitle">Austin City Council</span>
+    <span class="grpsub" id="subCouncil"></span>
+    <svg class="chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>
+  </button>
+  <div class="cardgrid grpbody" id="gridCouncil"></div>
 </section>
 
-<section class="padx" style="padding-top:36px">
-  <h2 class="sectlbl">Districts 1–10</h2>
-  <div class="cardgrid" id="gridDistricts"></div>
-</section>
-
-<section class="padx" style="padding-top:36px;padding-bottom:52px">
-  <h2 class="sectlbl">Travis County Commissioners Court</h2>
-  <div class="cardgrid" id="gridCounty"></div>
+<section class="padx grpsec" style="padding-top:20px;padding-bottom:52px">
+  <button class="grphead" data-grid="gridCounty" aria-expanded="true">
+    <span class="grptitle">Travis County Commissioners Court</span>
+    <span class="grpsub" id="subCounty"></span>
+    <svg class="chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>
+  </button>
+  <div class="cardgrid grpbody" id="gridCounty"></div>
 </section>
 
 <section class="padx" style="padding-bottom:64px">
@@ -240,31 +271,18 @@
 const NAVY = '#18314f', RED = '#ba1200', MUTED = '#5b6b7a';
 const PHOTOS = new Set(['au0','au1','au2','au3','au4','au5','au6','au7','au8','au9','au10','israel','kelly','ganguly','llanes','tc-brown','tc-travillion','tc-shea','tc-howard','tc-gomez','tc-morales']);
 
-// Sections: Mayor, Districts 1-10 (seat order), then recent unelected candidates.
-// Live slugs resolve against austin_landing.json; soon entries are static.
-const SECTIONS = [
-  { grid:'gridMayor', entries: [ { slug:'watson' } ] },
-  { grid:'gridDistricts', entries: [
-    { slug:'harpermadison' },  // District 1
-    { slug:'fuentes' },        // District 2
-    { slug:'velasquez' },      // District 3
-    { slug:'vela' },           // District 4
-    { slug:'alter' },          // District 5
-    { slug:'laine' },          // District 6
-    { slug:'siegel' },         // District 7
-    { slug:'ellis' },          // District 8
-    { slug:'qadri' },          // District 9
-    { slug:'duchen' }          // District 10
-  ]},
-  { grid:'gridCounty', entries: [
-    { slug:'brown' },          // County Judge
-    { slug:'travillion' },     // Precinct 1
-    { slug:'shea' },           // Precinct 2
-    { slug:'howard' },         // Precinct 3
-    { slug:'morales' },        // Precinct 4 (since June 2026)
-    { slug:'gomez' }           // Precinct 4 (retired June 2026)
-  ]}
+// Sections are driven entirely by austin_landing.json — each candidate entry
+// carries {section: 'council'|'county', seat, status: 'current'|'incoming'|
+// 'candidate'|'retired', status_note}. Adding a new officeholder or candidate
+// is a pure data change: add the landing entry + profile page, no HTML edits.
+const SECTION_DEFS = [
+  { key:'council', grid:'gridCouncil', sub:'subCouncil',
+    seatOrder: ['Mayor','District 1','District 2','District 3','District 4','District 5',
+                'District 6','District 7','District 8','District 9','District 10'] },
+  { key:'county', grid:'gridCounty', sub:'subCounty',
+    seatOrder: ['County Judge','Precinct 1','Precinct 2','Precinct 3','Precinct 4'] },
 ];
+const STATUS_ORDER = { current: 0, incoming: 1, candidate: 2, retired: 3 };
 
 function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
@@ -275,9 +293,18 @@ function photoHtml(key, name){
 }
 
 function frontHtml(o){
-  const badge = o.soon
-    ? '<div style="position:absolute;top:11px;right:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:10px;border-radius:5px;padding:2px 7px;background:rgba(24,49,79,.06);color:' + MUTED + ';border:1px solid rgba(24,49,79,.2)">SOON</div>'
-    : '<div style="position:absolute;top:11px;right:12px;z-index:3;font-family:\'Space Grotesk\',sans-serif;font-weight:700;font-size:10px;border-radius:5px;padding:2px 7px;background:' + RED + ';color:#fff">LIVE</div>';
+  let badge;
+  if (o.soon) {
+    badge = '<div class="stbadge former">SOON</div>';
+  } else if (o.status === 'retired') {
+    badge = '<div class="stbadge former">FORMER</div>';
+  } else if (o.status === 'candidate') {
+    badge = '<div class="stbadge candidate">CANDIDATE</div>';
+  } else if (o.status === 'incoming') {
+    badge = '<div class="stbadge candidate">INCOMING</div>';
+  } else {
+    badge = '<div class="stbadge live">LIVE</div>';
+  }
   const meter = o.note
     ? '<div style="display:inline-flex;align-items:center;gap:5px;background:#fff;border:1px solid rgba(24,49,79,.2);border-radius:6px;padding:4px 8px"><span style="font-family:\'Oswald\',sans-serif;font-weight:700;font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:' + MUTED + '">' + esc(o.note) + '</span></div>'
     : '';
@@ -322,36 +349,57 @@ function backHtml(o){
 }
 
 function cardHtml(o){
-  return '<div class="flipcard"><div class="flipinner">'
+  return '<div class="flipcard' + (o.status === 'retired' ? ' retired' : '') + '"><div class="flipinner">'
     + '<div class="face front">' + frontHtml(o) + '</div>'
     + '<div class="face back" style="display:flex;flex-direction:column;padding:15px 15px 14px">' + backHtml(o) + '</div>'
     + '</div></div>';
 }
 
+/* collapsible section headers (state remembered per visitor) */
+document.querySelectorAll('.grphead').forEach(btn => {
+  const grid = document.getElementById(btn.dataset.grid);
+  const saved = localStorage.getItem('sect-' + btn.dataset.grid);
+  if (saved === 'collapsed') { grid.classList.add('collapsed'); btn.setAttribute('aria-expanded', 'false'); }
+  btn.addEventListener('click', () => {
+    const collapsed = grid.classList.toggle('collapsed');
+    btn.setAttribute('aria-expanded', String(!collapsed));
+    localStorage.setItem('sect-' + btn.dataset.grid, collapsed ? 'collapsed' : 'expanded');
+  });
+});
+
+function moneyToNum(s){
+  const v = parseFloat(String(s).replace(/[$,]/g, ''));
+  return /M/i.test(s) ? v * 1e6 : /K/i.test(s) ? v * 1e3 : v;
+}
+
 fetch('/austin_landing.json')
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then(j => {
-    const bySlug = {};
-    j.candidates.forEach(c => { bySlug[c.slug] = c; });
-    SECTIONS.forEach(sec => {
-      const cards = sec.entries.map(entry => {
-        if (entry.soon){
-          return Object.assign({ pill: entry.raised + ' raised', photo: null }, entry);
-        }
-        const c = bySlug[entry.slug];
-        if (!c) return null;
-        return {
-          soon: false,
-          name: c.name, office: c.district + ' · ' + c.race,
-          pill: c.raised + ' raised', note: c.donors + ' donors',
-          photo: c.photo, href: '/austin/' + c.slug + '/', topGroups: c.topGroups
-        };
-      }).filter(Boolean);
-      document.getElementById(sec.grid).innerHTML = cards.map(cardHtml).join('');
+    SECTION_DEFS.forEach(def => {
+      const members = j.candidates.filter(c => (c.section || 'council') === def.key);
+      members.sort((a, b) => {
+        const sa = def.seatOrder.indexOf(a.seat), sb = def.seatOrder.indexOf(b.seat);
+        if (sa !== sb) return (sa < 0 ? 99 : sa) - (sb < 0 ? 99 : sb);
+        return (STATUS_ORDER[a.status] ?? 0) - (STATUS_ORDER[b.status] ?? 0);
+      });
+      const cards = members.map(c => ({
+        soon: false,
+        status: c.status || 'current',
+        name: c.name,
+        office: c.seat + ' · ' + (c.status_note || c.race),
+        pill: c.raised + ' raised', note: c.donors + ' donors',
+        photo: c.photo, href: '/austin/' + c.slug + '/', topGroups: c.topGroups
+      }));
+      document.getElementById(def.grid).innerHTML = cards.map(cardHtml).join('');
+      const total = members.filter(m => m.status !== 'retired')
+                           .reduce((s, m) => s + moneyToNum(m.raised), 0);
+      const fmt = total >= 1e6 ? '$' + (total / 1e6).toFixed(1) + 'M' : '$' + Math.round(total / 1e3) + 'K';
+      document.getElementById(def.sub).textContent =
+        members.length + ' profiles · ' + fmt + ' raised';
     });
   })
   .catch(() => {
-    document.getElementById('gridMayor').innerHTML =
+    document.getElementById('gridCouncil').innerHTML =
       '<p style="grid-column:1/-1;color:var(--muted);font-size:14px">Couldn’t load candidate data — <a href="/austin/" style="color:var(--accent)">try refreshing</a>.</p>';
   });
 </script>

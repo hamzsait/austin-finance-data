@@ -1,0 +1,125 @@
+[
+ {
+  "donor_id": "tcv-0114702f-e5b8-4e0a-a7de-4642b0457c13",
+  "name": "Scott, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin donor, ZIP 78736 (SW Austin/Oak Hill), gave $9,500 to Brigid Shea and Ann Howard 2021-2023. No occupation/employer on file and 'John Scott' is an extremely common name; could not corroborate a specific individual by ZIP, occupation, or donation pattern. Not the ex-Texas SoS John Scott (a Republican, wrong profile).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b385585f-ebf6-44b8-9985-350481e0e73a",
+  "name": "Scott, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin donor, ZIP 78702 (East Austin), gave $6,000 to Brigid Shea and Ann Howard in 2024. No occupation/employer; 'John Scott' too common to confirm a specific person and no FEC history to triangulate. Likely a different individual from the 78736 John Scott.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8f2ea39d-c079-4f53-b188-143fbe0e7273",
+  "name": "Calhoun, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor in Jackson, MS 39201, gave $5,000 to Jeff Travillion in July 2025; a prolific political donor (235 FEC contributions). 'John Calhoun' is a very common name and searches surfaced only the historical statesman and directory listings; could not confirm this specific individual's occupation or identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9e6bec16-20be-495a-8468-9f70d48669f3",
+  "name": "Kumar, Sam",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Gave $4,500 to Jeff Travillion and Ann Howard in late 2021. No ZIP, no location, no occupation, and no FEC history on file; a common name with zero corroborating detail, so identification is not possible.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-010e8beb-2bb1-4b93-8f82-d623f6ceddae",
+  "name": "Jeff Travillion Campaign",
+  "resolved_employer": "Candidate campaign committee of Jeff Travillion, Travis County Commissioner, Precinct 1 (retired 30-yr state/city government administrator)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is the officeholder campaign committee of Jeff Travillion, elected Travis County Commissioner Precinct 1 in 2016 (re-elected 2020, 2024); the committee made candidate-to-candidate transfers to Shea, Howard, and George Morales. PO Box 1748/78767 (Austin, TX 78768) matches a county campaign committee address.",
+  "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-one",
+  "affiliations": [{"org": "Jeff Travillion for Travis County Commissioner", "role": "candidate campaign committee", "category": "political", "source_url": "https://ballotpedia.org/Jeff_Travillion"}]
+ },
+ {
+  "donor_id": "tcv-23d52808-ac30-4700-a213-da89139af51b",
+  "name": "Kirk Watson Campaign",
+  "resolved_employer": "Candidate campaign committee of Kirk Watson, Mayor of Austin (former Texas State Senator, former Austin Mayor)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Officeholder campaign committee of Kirk Watson (Austin Mayor; former TX State Senate District 14; attorney by profession). Committee made candidate-to-candidate transfers to Travillion, Shea, and Morales; Austin, TX 78768 PO-box address consistent with a local campaign committee.",
+  "source_url": "https://ballotpedia.org/Kirk_Watson",
+  "affiliations": [{"org": "Kirk Watson campaign", "role": "candidate campaign committee", "category": "political", "source_url": "https://ballotpedia.org/Kirk_Watson"}]
+ },
+ {
+  "donor_id": "tcv-77106fe5-30de-4c00-b26e-1d7a053fe182",
+  "name": "Hayes, Warren",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor in Georgetown, TX 78628, gave $3,530 to Travillion and Shea in summer 2022. A Warren Hayes of Georgetown (b. 1967 Snyder, TX) is a plausible match per obituary/public records, but no occupation or employer could be confirmed, so no reliable industry classification.",
+  "source_url": "https://www.wilcosun.com/obituaries/warren-hayes",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-19da86dd-af0c-447c-a12e-ebd1a733a6dd",
+  "name": "Tsao, Eric (Mr.)",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor in the affluent Austin 78738 area (Lakeway/Bee Cave), gave $3,500 to Brigid Shea 2016-2017. Multiple people named Eric Tsao exist but all identifiable matches are outside Central Texas (LA, Tempe, Taiwan, Torrance); could not corroborate this specific individual's occupation.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8c70fbd2-c7f5-4d18-8aa7-af0e7250b48d",
+  "name": "Dove Springs Advisory Board",
+  "resolved_employer": "Community/neighborhood advisory board serving the Dove Springs area of SE Austin (ZIP 78744); George Morales served as its president",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "The Dove Springs Advisory Board is a SE Austin neighborhood civic organization (school-supply/backpack drives, Dove Springs Rec Center improvements) that George Morales led as president before/while running for Travis County Commissioner Precinct 4; contributions here went to Morales. Civic/neighborhood body rather than a business.",
+  "source_url": "https://www.georgeforcommissioner.com/about",
+  "affiliations": [{"org": "Dove Springs Advisory Board", "role": "neighborhood civic organization", "category": "civic", "source_url": "https://www.georgeforcommissioner.com/about"}]
+ },
+ {
+  "donor_id": "tcv-204d9214-ba9f-4425-914e-4f5682594ec6",
+  "name": "Serranos Cocina Y Cantina",
+  "resolved_employer": "Serranos Cocina y Cantina — locally owned Austin/Cedar Park Tex-Mex restaurant chain (founded 1987; Quintanilla family)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Serranos Cocina y Cantina is a well-known family-owned Austin-area Mexican restaurant group operating since 1987 with multiple locations; ZIP 78748 (South Austin) matches its footprint. Business gave $3,243 to George Morales 2024-2025.",
+  "source_url": "https://www.serranos.com/about-us",
+  "affiliations": [{"org": "Serranos Cocina y Cantina", "role": "restaurant business / donor", "category": "business", "source_url": "https://www.serranos.com/"}]
+ },
+ {
+  "donor_id": "tcv-a9f0e073-f499-450b-a27d-f1ef3b476eef",
+  "name": "Clark, Mark",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor in West Lake Hills 78746 (affluent Austin suburb), gave $3,060 to Brigid Shea 2022-2025. 'Mark Clark' is very common in the Austin area (a critical-care physician and a registered lobbyist Mark R. Clark both appear); none could be tied to this ZIP/donation pattern with confidence.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-835f9299-877d-4a34-964e-49f9dcd07f1b",
+  "name": "Yates, Ira",
+  "resolved_employer": "Ira John Yates — oil & gas mineral-interest owner in the Yates Oil Field (Pecos County, TX); descendant of oil pioneer Ira G. Yates Jr.; team member/advocate with Commission Shift (TX Railroad Commission accountability)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Ira John Yates of Paonia, CO 81428 (ZIP matches) is a descendant of rancher/oil pioneer Ira Griffith Yates Jr. and an active mineral-interest owner in the historic Yates Oil Field; he is affiliated with Commission Shift, an oil-and-gas regulatory-accountability advocacy group (orphaned wells, riverbed lease cleanup). Distinctive name + Paonia location + oil heritage corroborate; gave $3,000 to Shea and Howard 2022-2024.",
+  "source_url": "https://commissionshiftaction.org/team/ira-john-yates/",
+  "affiliations": [
+   {"org": "Yates Oil Field (Yates family mineral interests, Pecos County TX)", "role": "mineral-interest owner / heir of Ira G. Yates Jr.", "category": "oil_gas", "source_url": "https://www.tshaonline.org/handbook/entries/yates-ira-griffith-jr"},
+   {"org": "Commission Shift / Commission Shift Action", "role": "team member / advocate (oil & gas regulatory accountability)", "category": "oil_gas", "source_url": "https://commissionshiftaction.org/team/ira-john-yates/"}
+  ]
+ }
+]

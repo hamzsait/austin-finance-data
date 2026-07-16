@@ -60,41 +60,41 @@ OTHER_INDS = {"Retail", "Media", "Architecture", "Transportation", "Entertainmen
 # Election cycle definitions per candidate slug
 # Each cycle: label, start_year (None = beginning of time), end_year (None = present)
 CANDIDATE_CYCLES = {
-    # Rule: a cycle ends at the election year and the next cycle starts the
-    # following January. Austin runs 4-year staggered terms.
-    # Districts 1,3,5,8,9 — last elected 2022, reelection 2026
-    'qadri':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'velasquez':    [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'ellis':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    # Verified against Ballotpedia/county election records 2026-07-16
+    # (travis_research/cycles_verified.json). Rule: a cycle ends at the
+    # election year; the next cycle starts the following January.
+
+    # -- City of Austin (Nov elections, Dec runoffs, 4-year terms) --
+    'watson':       [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'Re-election',  'election_year': 2024, 'start_year': 2023, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'harpermadison':[{'label': 'Initial Run',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
                      {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+    'fuentes':      [{'label': 'Initial Run',  'election_year': 2020, 'start_year': None, 'end_year': 2020},
+                     {'label': 'Re-election',  'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'velasquez':    [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    # District 4 — Vela: special election 2022, re-elected 2024, reelection 2028
     'vela':         [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'Re-election',  'election_year': 2024, 'start_year': 2023, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    # District 6 — Laine: first elected 2024, reelection 2028
+    'alter':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'laine':        [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    # District 10 — Duchen: first elected 2024, reelection 2028
+    'siegel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'ellis':        [{'label': 'Initial Run',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
+                     {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'qadri':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'duchen':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    # Districts 2,4,6,7,10 — last elected 2024, reelection 2028
-    # Siegel is challenging D7 2026 (open/held seat); old money through 2024,
-    # current cycle 2025+.
-    'siegel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2025, 'end_year': None}],
     'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'fuentes':      [{'label': 'Initial Run',  'election_year': 2020, 'start_year': None, 'end_year': 2020},
-                     {'label': 'Re-election',  'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
@@ -102,15 +102,13 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
     'guerrero':     [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    # Mayor
-    'watson':       [{'label': 'Term 1',       'election_year': 2022, 'start_year': None, 'end_year': 2025},
-                     {'label': 'Reelection',   'election_year': 2026, 'start_year': 2026, 'end_year': None}],
 
-    # ── Travis County Commissioners Court (4-year terms; judge + pcts 2,4 on
-    # gubernatorial years, pcts 1,3 on presidential years). County filings
-    # ingested from travis_county_filings/ cover 2016->present. ────────────
-    'brown':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    # -- Travis County (March primaries are the real race; 4-year terms) --
+    # Brown: won the Nov 2020 SPECIAL election for Eckhardt's unexpired term
+    # (county filings begin after it — no cycle shown), then the regular 2022
+    # general; on the 2026 ballot.
+    'brown':        [{'label': 'Re-election', 'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',  'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'travillion':   [{'label': 'Initial Run',  'election_year': 2016, 'start_year': None, 'end_year': 2016},
                      {'label': 'Re-election',  'election_year': 2020, 'start_year': 2017, 'end_year': 2020},
                      {'label': 'Re-election',  'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
@@ -120,14 +118,14 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'howard':       [{'label': 'Re-election',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    # Gomez retired June 2026; not on the 2026 ballot -- final years are a
+    # wind-down, not a campaign cycle.
     'gomez':        [{'label': 'Re-election',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
                      {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    # Morales: Pct 4 Constable 2017-2025 (elected 2016/2020/2024 presidential
-    # years), then 2026 run for Commissioner Pct 4; holds the seat since
-    # Gómez's June 2026 retirement. Both offices' filings share one recipient.
-    'morales':      [{'label': 'Constable',        'election_year': 2016, 'start_year': None, 'end_year': 2016},
-                     {'label': 'Constable',        'election_year': 2020, 'start_year': 2017, 'end_year': 2020},
+                     {'label': 'Final Term',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    # Morales: Constable Pct 4 (elected 2016/2020/2024), then won the
+    # Mar/May 2026 primary+runoff for Commissioner Pct 4, appointed June 2026.
+    'morales':      [{'label': 'Constable',        'election_year': 2020, 'start_year': None, 'end_year': 2020},
                      {'label': 'Constable',        'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
                      {'label': 'Commissioner Run', 'election_year': 2026, 'start_year': 2025, 'end_year': None}],
 }

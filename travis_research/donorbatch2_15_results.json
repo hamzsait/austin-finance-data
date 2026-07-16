@@ -1,0 +1,137 @@
+[
+ {
+  "donor_id": "b10a1d88-5b19-4922-b59b-96c3e24a3378",
+  "name": "Ford, Curtis",
+  "resolved_employer": "Media Choice, LLC (founder/CEO, outdoor advertising/billboards); also Travis County representative on LCRA Board of Directors",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Curtis E. Ford, founder/CEO of MediaChoice, an outdoor-advertising (billboard/digital signage) firm at 3701 Bee Caves Rd, Austin 78746 - matches donor zip. Licensed CPA; Gov. Abbott-appointed LCRA board member representing Travis County. Gave to Jeff Travillion.",
+  "source_url": "https://www.zoominfo.com/p/Curtis-Ford/1850789415",
+  "interest_tags": "outdoor-advertising",
+  "affiliations": []
+ },
+ {
+  "donor_id": "916cb7f7-48e6-4172-805a-197bb51b2c0d",
+  "name": "Braun, Peggy Davis",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm. A 'Peggy Braun' (age ~76) is listed in Austin public-records aggregators, and a Peggy Braun at 3939 Bee Caves Rd, West Lake Hills 78746 appears in people-search data (zip matches), but no occupation or public profile could be corroborated. One-time 2022 gift to Ann Howard; no FEC history.",
+  "source_url": "https://www.fastbackgroundcheck.com/people/peggy-braun/id/f7757787588581869857",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "09fbf8d2-6e23-41d1-895a-c2abb1890464",
+  "name": "Richmond, Karin",
+  "resolved_employer": "Intelligent.Incentives, Inc. (principal; tax/economic-incentive policy consultancy)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Karin Richmond is principal of Intelligent.Incentives, Inc., an Austin consultancy at 1343 Spyglass Dr, 78746 (matches donor zip) specializing in tax-incentive policy and large-scale incentive negotiation. Former National Director of Incentives at a state-and-local-tax firm; chaired Texas Enterprise Zone Board; IEDC Fellow and former board member. Gave to Brigid Shea.",
+  "source_url": "https://www.intelligentincentives.com/",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3a014176-605a-4552-9a8e-af5b1511e663",
+  "name": "Sesil, Joseph (Mr.)",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A 'Joe Sesil' has a LinkedIn profile based in Austin, and his name recurs alongside equity/executive-compensation consulting keywords (a related academic, James C. Sesil, publishes on employee stock options), suggesting he works in compensation consulting - but his specific current employer could not be confirmed, and downtown zip 78701 was not independently corroborated. Gave to Brigid Shea.",
+  "source_url": "https://www.linkedin.com/in/joe-sesil-41b93b1/",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "16039879-9c90-41aa-916e-9050f0563b49",
+  "name": "Mason, Norman",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A prominent candidate is Dr. Norman L. Mason, DDS, a longtime East Austin dentist and Black community leader (donation to Precinct 1 commissioner Jeff Travillion would fit thematically), but his practice zips are 78702/78752, NOT the donor's NW-Austin zip 78717 - the zip mismatch and the commonness of the name prevent confirmation. Could be a same-named person.",
+  "source_url": "https://npino.com/dentist/1376582635-dr.-norman-lewis-mason/",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e50c3152-5811-4524-8663-ec74aecb4ddf",
+  "name": "Harper, Alan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Unidentifiable: no zip/location in the record, a very common name, and 2,084 prior FEC gifts (a prolific small-dollar recurring donor) with no distinguishing details. Cannot be tied to a specific individual. One 2021 gift to Jeff Travillion.",
+  "source_url": null,
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-14718ffd-27fb-4d96-a364-68097420ffdf",
+  "name": "Musil, Robert",
+  "resolved_employer": "Rachel Carson Council (President & CEO); former Executive Director/CEO of Physicians for Social Responsibility (1992-2006)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Robert K. Musil, PhD MPH, President/CEO of the Rachel Carson Council, headquartered at 8600 Irvington Ave, Bethesda MD 20817 - matches donor city/zip exactly. Longtime environmental advocate and former ED of Physicians for Social Responsibility (1985 Nobel Peace laureate org); adjunct professor at American University. Gave to environmentalist Brigid Shea.",
+  "source_url": "https://rachelcarsoncouncil.org/about-rcc/about-president-robert-k-musil/",
+  "interest_tags": "",
+  "affiliations": [
+   {"org": "Rachel Carson Council", "role": "President & CEO", "category": "civic", "source_url": "https://rachelcarsoncouncil.org/about-rcc/about-president-robert-k-musil/"},
+   {"org": "Physicians for Social Responsibility", "role": "former Executive Director/CEO (1992-2006)", "category": "civic", "source_url": "https://rachelcarsoncouncil.org/about-rcc/about-president-robert-k-musil/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-efbd1935-b4c1-47f7-a46d-5ce5098eb763",
+  "name": "Maldonado, Hilbert",
+  "resolved_employer": "Hill-Bert's Burgers (founder, est. 1973; now run by his children - semi-retired); former 10-year chairman of a Community Development Corporation allocating CDBG funds",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Hilbert Maldonado (b. 1945), 3304 Vintage Dr, Round Rock 78664-7900 - exact match to donor address. UT-Austin alum who founded the Hill-Bert's Burgers restaurant with his wife in 1973 (a 50+ year Central Austin institution, now operated by his son and daughter). Also served 10 years as chairman of a Community Development Corporation directing ~$12M/yr of federal CDBG funds toward affordable housing/economic development for Hispanic communities. Gave to Brigid Shea.",
+  "source_url": "https://communityimpact.com/austin/south-central-austin/dining/2025/09/03/hill-berts-burgers-dishes-up-the-classic-burger-experience-in-central-austin/",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d94e21c3-a58c-4104-91c3-99d4ce42e3ff",
+  "name": "Robinson, Richard",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Richard Emzy Robinson (age ~50) is placed in Del Valle 78617 (zip matches) by people-search aggregators, listed as a 'Sales Executive at Reicon Group LLC' - but Reicon Group is a Staten Island, NY marine/heavy-construction contractor, the connection is unverified, and 'Richard Robinson' is a very common name. Not confidently identified. Gave to Jeff Travillion.",
+  "source_url": "https://www.mylife.com/richard-robinson/e724726951080",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b084b061-7816-46b0-80fe-e10b7f889508",
+  "name": "Baker, Luther",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. 'Luther Baker' at Pflugerville 78660 returns no usable public profile (searches dominated by an unrelated Civil War figure and generic people-search listings). No occupation or corroborating detail found. Gave to Jeff Travillion.",
+  "source_url": null,
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-73ad4188-a304-48ab-a799-d78c37e5140c",
+  "name": "Walker, Lorenzo",
+  "resolved_employer": "Legum & Norman (Associa) - General Manager / Community (HOA & condominium) Manager",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Lorenzo Walker, Springfield VA, is a General Manager at Legum & Norman (an Associa company), a large HOA/condominium property-management firm in the DC metro (Falls Church VA HQ) - matches the occupation ('Community Manager-GM') and employer strings already in the record. Gave to George Morales.",
+  "source_url": "https://rocketreach.co/lorenzo-walker-email_283615451",
+  "interest_tags": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3babaf7f-c98c-4ea6-8074-f8774536948f",
+  "name": "Capra & Cavelli",
+  "resolved_employer": "Capra & Cavelli (Austin men's clothing / custom suits retailer) - business-entity donor",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Capra & Cavelli is a high-end men's clothing and custom-suit store at 3500 Jefferson St, Austin 78731 (matches donor zip), operating since 1995. This is a business-entity contribution rather than an individual. Gave to Brigid Shea.",
+  "source_url": "https://www.capracavelli.com/locations/",
+  "interest_tags": "",
+  "affiliations": []
+ }
+]

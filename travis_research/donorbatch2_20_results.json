@@ -1,0 +1,143 @@
+[
+ {
+  "donor_id": "tcv-491a0e62-cc48-4bb2-b8c0-78a6211ab285",
+  "name": "Brim, Jefferson",
+  "resolved_employer": "Brim & Brim, P.C. (Jefferson K. 'Jay' Brim III), Austin attorney",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Jefferson K. Brim III ('Jay') is a 40+ year Austin litigator at boutique firm Brim & Brim, P.C. (formerly Brim, Robinett & Brim) practicing employment, civil rights, education and administrative/licensure law, representing employees and licensed professionals. Distinctive name and gifts to Travis County Democrats (Travillion, Howard) fit; no zip on record so identity is inferential.",
+  "source_url": "https://www.teacher.legal/team/jefferson-k-brim-iii-jay/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-434c5a92-94cb-48c6-86eb-72196ac057c3",
+  "name": "Farrell, Thomas",
+  "resolved_employer": "Former Mayor of Rollingwood, TX (retired 2016)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Thom Farrell served four terms as mayor of the small city of Rollingwood (78746) and retired Nov 2016; a prolific Democratic donor (238 FEC gifts, ~99% Dem lean) whose Rollingwood residence and civic profile match this donor. His private-sector career is not documented, so classification rests on his elected/civic identity.",
+  "source_url": "https://communityimpact.com/news/2016/11/17/thom-farrell-retires-rollingwood-mayor/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-42d7111c-a470-4075-bfcd-8c06d66856bd",
+  "name": "Vanbavel, Linda",
+  "resolved_employer": "Linda Van Bavel, Austin attorney (business/civil law; license inactive)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Linda Van Bavel is a Texas-licensed attorney (bar 1994) and solo practitioner at 213 W 41st St, Austin, TX 78751 - an exact zip match to the donor - practicing business law; State Bar shows her license currently inactive (semi-retired). Gave to Brigid Shea.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=152327",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-36dc6967-c9ff-464d-938f-1ad1ed8b4a7d",
+  "name": "Schweinfurth, Stephanie",
+  "resolved_employer": "Community volunteer (literacy nonprofits); VP, Austin City Lutherans; board co-chair, BookSpring",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Stephanie Schweinfurth is a longtime literacy-focused community volunteer who moved to Austin from Dallas (co-founded Readers 2 Leaders in Dallas), now serves as VP of Austin City Lutherans and events co-chair on BookSpring's board. Volunteer rather than salaried; identity for this no-zip 2021 gift to Ann Howard is inferential (likely same person as the 78704 record below).",
+  "source_url": "https://bookspring.org/en/board/31463/stephanie-schweinfurth-co-chair-events/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2b5267d6-dd11-4c49-ba30-f59c26c16e43",
+  "name": "Shaya, Kareem",
+  "resolved_employer": "Co-founder, Open Source Defense; software engineer (Stripe, ex-Warby Parker)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Kareem Shaya is the Austin-based (78702) co-founder of Open Source Defense, a tech-forward gun-rights advocacy media/newsletter org, and a career software engineer (engineering manager at Stripe, second engineer at Warby Parker). Distinctive name and Austin location corroborate. Notably a gun-rights figure who donated to Democrat Ann Howard.",
+  "source_url": "https://opensourcedefense.com/about",
+  "affiliations": [
+   {
+    "org": "Open Source Defense",
+    "role": "Co-founder",
+    "category": "gun_rights",
+    "source_url": "https://opensourcedefense.com/about"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-2a783abb-3ce5-4bfb-bf23-ee200c24b8c4",
+  "name": "Phillips, David",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Very common name in the Oak Hill 78736 area; multiple distinct David Phillips exist in Austin (physician, real-estate agent, Motorola/Dell engineer, foundation head). This is a prolific donor (679 FEC gifts, giving through Nov 2025), but no detail uniquely identifies which David Phillips, so no confident classification.",
+  "source_url": "https://www.linkedin.com/in/davidphillipsaustintx/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-283001c8-95d6-4cec-b8f2-a1e051a88c65",
+  "name": "Schweinfurth, Stephanie",
+  "resolved_employer": "Community volunteer (literacy nonprofits); VP, Austin City Lutherans; board co-chair, BookSpring",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Same Stephanie Schweinfurth as the other batch record: a literacy-focused community volunteer (Dallas transplant) active on Austin nonprofit boards (BookSpring, Austin City Lutherans). Austin 78704 address is consistent with her south/central Austin profile; volunteer rather than employed.",
+  "source_url": "https://bookspring.org/en/board/31463/stephanie-schweinfurth-co-chair-events/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-21c7c538-d33c-4181-9e8d-b2e968c78e48",
+  "name": "Saldaa, Paul",
+  "resolved_employer": "President/principal, Saldana Public Relations",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Paul M. Saldana is a well-known Austin political/PR consultant - president of Saldana Public Relations, former AISD District 6 trustee and board VP (2014-2017), and former chief of staff to Mayor Gus Garcia. Longtime local political operative; gift to Brigid Shea fits. Manchaca/78652 is consistent with his Austin-area residence.",
+  "source_url": "https://saldanapr.com/bio-paul-saldana",
+  "affiliations": [
+   {
+    "org": "Saldana Public Relations",
+    "role": "President / political consultant",
+    "category": "political",
+    "source_url": "https://saldanapr.com/bio-paul-saldana"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-1ff802f7-3afd-407c-8c4f-6001fafbbaa1",
+  "name": "Bingham, Alfred",
+  "resolved_employer": "Registered Texas lobbyist (government affairs), longtime lobbyist for NRG Energy",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Alfred L. Bingham Jr. is a long-registered Texas Ethics Commission lobbyist (2010-2026 lists) whose clients include NRG Energy, Inc.; the Bingham family is tied to the 78749 residential address matching this donor. His identity is a government-affairs/energy-sector lobbyist. Gave to Jeff Travillion. Identity link between the downtown-registered lobbyist and the 78749 residence is inferential.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025LobbyGroupByLobbyist.pdf",
+  "affiliations": [
+   {
+    "org": "NRG Energy, Inc.",
+    "role": "Registered lobbyist (contract)",
+    "category": "business",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/client/nrg-energy-inc"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-1d79c805-6256-4885-a60b-f156119abe44",
+  "name": "Pope, Edwin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not uniquely confirm this Leander (78641) donor. Candidates named Edwin Pope in the Austin area include a tech entrepreneur (president of DigitalGenetix, MBA Vanderbilt) and a pastor/musician, but no source ties either to the Leander address or to the Travillion gift. No confident classification.",
+  "source_url": "https://www.facebook.com/edbpope/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1a8187e5-05d2-4811-a73f-69958ab112e1",
+  "name": "Reyes, Rico",
+  "resolved_employer": "Rico C. Reyes, attorney (commercial/business litigation); U.S. Marine Corps reservist; former Travis County ADA",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Rico C. Reyes is a Pflugerville (78660) attorney in commercial/general business litigation, a U.S. Marine Corps reservist (former Major) and former Travis County Assistant DA who helped establish the Veterans' Court and ran for Texas House District 50 in 2013. Pflugerville residence (10+ years) and profile match. Military service is personal (reservist/veteran), not defense-contractor industry.",
+  "source_url": "https://www.lafirejustice.com/our-teams/rico-reyes",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-13a6774a-f550-4c4f-8d71-4cbbd76eefd8",
+  "name": "Johnson, Jennifer",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Extremely common name; the identifiable Austin attorney Jennifer Piskun Johnson is in 78703, not the donor's 78750, and no other source ties a specific Jennifer Johnson to 78750 with a corroborating occupation. Cannot confidently identify, so no classification despite the moderate FEC donation history.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=310965",
+  "affiliations": []
+ }
+]

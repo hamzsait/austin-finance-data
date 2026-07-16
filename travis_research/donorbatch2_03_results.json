@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "tcv-fe2d2a7d-4b62-4d59-ad2f-91caebf3a32a",
+  "name": "Stephens, Juanita",
+  "resolved_employer": "Director, International Academy (Williamson County) and Wisdom Women & Wealth; education/civic leader (Cedar Park/Pflugerville)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Juanita Stephens of Cedar Park 78613 (matches donor zip) is listed as Secretary/Director of International Academy Williamson County (a school in Round Rock) and Director of Wisdom Women & Wealth; also appears on Texas Legislature Education-committee witness lists, indicating education/civic advocacy. Gave to Commissioner Jeff Travillion (Pct 1).",
+  "source_url": "https://radaris.com/p/Juanita/Stephens/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e762f331-6bf3-40aa-807b-afa62cc4c397",
+  "name": "Stephens, Juanita",
+  "resolved_employer": "Director, International Academy (Williamson County) and Wisdom Women & Wealth; education/civic leader (later Pflugerville 78660)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Same individual as tcv-fe2d2a7d (Cedar Park then Pflugerville 78660 address at 103 S. 12th St., matching donor zip). Education/civic leader tied to International Academy Williamson County and Wisdom Women & Wealth; appears on TX Lege Education witness lists. Gave to Commissioner Jeff Travillion (Pct 1).",
+  "source_url": "https://radaris.com/p/Juanita/Stephens/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4d1001a5-c867-469c-b0dc-1864b9d6cfee",
+  "name": "Rhone, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity confirmed as Michael C. Rhone (b. 1965), 803 Sykes Ct, Pflugerville 78660-8008 — exact match to donor address/zip; also filed a Jan 2026 civil suit against the City of Austin/APD. A data-broker lists a retail 'business development' role (Victoria's Secret) but this is unverified, so no industry assigned. Gave to Commissioner Jeff Travillion (Pct 1).",
+  "source_url": "https://nuwber.com/person/563aa42998f8a849c1b226cb",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8b672813-bba2-4318-aa22-599d1ad4193d",
+  "name": "Gilliland, Douglas",
+  "resolved_employer": "Taurus of Texas / Taurus Investment Holdings (real estate developer; developer of Whisper Valley master-planned community, NE Travis County)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Doug Gilliland is President of Taurus of Texas and managing director of Taurus Investment Holdings, developer of the Whisper Valley geothermal master-planned community in northeast Travis County — the area within Jeff Travillion's Precinct 1, to whom he donated. Downtown Austin 78701 address. Federal donations lean Republican (FEC lean 0.0) despite local gifts to the Democratic commissioner overseeing his development area.",
+  "source_url": "https://thehill.com/policy/equilibrium-sustainability/3883082-a-clean-energy-texas-suburb-goes-national/",
+  "affiliations": [
+   {"org": "Taurus Investment Holdings / Whisper Valley (Austin)", "role": "Managing director / developer", "category": "business", "source_url": "https://www.linkedin.com/in/doug-gilliland-bb54189/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-2034a624-f63f-49df-b822-fe81fed65441",
+  "name": "Heartfield, Melanie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Melanie McAllen Heartfield is a Beaumont civic figure (past president of the Junior League of Beaumont, 2001-02), married into the Heartfield family (Heartfield Law Firm; Judge J. Thad Heartfield). No confirmed paid occupation/employer, so no industry assigned. Out-of-county donor (Beaumont 77706) who gave to Commissioner Ann Howard (Pct 3), likely a personal connection.",
+  "source_url": "https://juniorleaguebeaumont.org/past-presidents/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8876f968-c39c-4dfb-baa1-3bb5b4192323",
+  "name": "Parker, James",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Likely James P. Parker, 2705 Geraghty Ave, Austin 78757 (matches donor zip, Crestview/North Austin). No occupation or employer could be corroborated and the name is very common, so no industry assigned. Small, long-running donor (2017-2026) to Commissioner Brigid Shea (Pct 2).",
+  "source_url": "https://nuwber.com/person/563a9d8c98f8a849c181bc15",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f54ed18c-0392-4d52-8bb6-b3bffa0fa749",
+  "name": "Lohr, John (Mr.)",
+  "resolved_employer": "Real estate investor/developer, Austin (associated with Lohr Homes / The True Life Companies)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "John Lohr of Austin 78703 (Tarrytown) appears as a real estate investor/operator; Lohr Homes built a home in the Tarrytown 78703 neighborhood and a LinkedIn profile ties a John Lohr to The True Life Companies (real estate/land development). Individual-to-employer match is moderate. Long-running donor (2016-2025) to Commissioners Brigid Shea and Ann Howard.",
+  "source_url": "https://elementix.ai/investors/tx/john-lohr",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-896543df-92e1-4b30-b53b-890398f85a0d",
+  "name": "Margaret Gomez Campaign",
+  "resolved_employer": "Campaign committee of Margaret Gomez, longest-serving Travis County Commissioner (Pct 4, Democrat; 1995-2026, retired)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "This is a political campaign committee, not an individual/employer. Margaret Gomez was the longest-serving Travis County Commissioner (Precinct 4, Democrat), retiring in June 2026 and succeeded by George Morales. The committee redistributed funds to Andy Brown (County Judge) and George Morales (her successor). No industry applies to a candidate committee.",
+  "source_url": "https://ballotpedia.org/Margaret_G%C3%B3mez",
+  "affiliations": [
+   {"org": "Travis County Commissioners Court (Pct 4)", "role": "Campaign committee of former commissioner", "category": "political", "source_url": "https://www.kut.org/austin/2026-06-03/travis-county-austin-tx-margaret-gomez-retires"}
+  ]
+ },
+ {
+  "donor_id": "tcv-d45014e9-141d-46af-9b5d-0ef05285c04f",
+  "name": "Flores, Gustavo",
+  "resolved_employer": "Controller, BakerRisk (Baker Engineering and Risk Consultants), San Antonio",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Self-reported as Controller at 'Baker Risk.' BakerRisk (Baker Engineering and Risk Consultants) is a San Antonio-based process-safety/explosion-engineering consultancy — matching the donor's San Antonio 78261 residence. Firm serves oil/gas & petrochemical clients (AFPM member) but is an engineering consultancy, not an oil producer; the individual is a finance officer, not independently confirmed by name. Gave to George Morales (Pct 4).",
+  "source_url": "https://www.bakerrisk.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a6601878-f35b-4925-a426-815ae71ed666",
+  "name": "Castillo, Gerardo",
+  "resolved_employer": "President, ABML (AshBritt Management and Logistics), Austin — emergency management / disaster-recovery government-services firm",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Gerardo Castillo (UT Austin BA, LBJ School MPAff; former Capital Metro) is President of ABML, AshBritt's government-solutions/emergency-management division (disaster recovery, infrastructure & housing reconstruction, base camps, pandemic logistics; $1B+ revenue). Classified under Construction as a disaster-recovery/infrastructure contractor. Works with FEMA/HUD/US Army Corps of Engineers and border-security support, but is a civilian government-services firm — no defense-contractor, AIPAC, oil, or gun ties found. Gave to George Morales (Pct 4).",
+  "source_url": "https://abmlresponse.com/leadership/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8c9e0606-8091-4c65-a47c-3b233d33bb27",
+  "name": "Montemayor, Patricia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor self-reported 'VP / Self-Employed' in Laredo 78045. Multiple Patricia Montemayors exist in the Laredo area (and a Patricia Montemayor at FTI Consulting elsewhere); none could be matched to this donor with confidence, so no industry assigned. Gave to George Morales (Pct 4).",
+  "source_url": "https://www.spokeo.com/Patricia-Montemayor/Texas/Laredo/p2018020819507598048424006303033",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-86efd965-e624-400b-b228-a46fca4f2ac2",
+  "name": "Garza, Rudy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip or occupation on the filing and 'Rudy Garza' is a common Texas name with several prominent candidates (GarzaEMC engineering principal in Austin; Rudy D. Garza, CPS Energy CEO / incoming LCRA GM; registered lobbyists). None could be confirmed as this donor, so no industry assigned despite a high federal-giving history (219 FEC donations). Gave to Commissioner Jeff Travillion (Pct 1).",
+  "source_url": "https://www.linkedin.com/in/rudy-garza-68b6b869/",
+  "affiliations": []
+ }
+]

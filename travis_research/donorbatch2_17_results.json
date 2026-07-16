@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "bad8ff5d-5b0e-4a08-b503-0e02d171ebdb",
+  "name": "Goldston, Carolyn",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78759 donor, heavily Democratic FEC pattern (56 gifts, lean 1.0), gave to Jeff Travillion. Could not confirm occupation; the only Carolyn Goldston obituary found (b.1937, d.2015) predates this donor's 2017-2023 giving, so it is a different person. No occupation/employer corroborated.",
+  "source_url": "https://www.heritagecares.com/obituaries/obituary-listings?obId=43276860",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-52862d17-7f9b-49c0-998d-9773a575321c",
+  "name": "Williams, Talley",
+  "resolved_employer": "Metcalfe Wolff Stuart & Williams, LLP (partner; real estate / land use development attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Talley J. Williams is a partner at Metcalfe Wolff Stuart & Williams LLP at 221 W. 6th St, Austin 78701 - exact name + zip match. Practice focuses on development/funding agreements, special taxing districts (PIDs) and economic incentives. Gave to Ann Howard.",
+  "source_url": "https://mwswtexas.com/our-people/talley-williams/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-249ca200-70df-4ab0-91f2-c9d3b896240e",
+  "name": "High, Joy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin donor (zip 78765 is an Austin PO-box zip), gave to Brigid Shea. A 'Joy High' operates as a professional home organizer in downtown Austin, a plausible but uncorroborated match; no zip/occupation confirmation, so identity unresolved.",
+  "source_url": "https://www.yelp.com/biz/joy-high-professional-organizer-austin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-22329932-03e9-4112-aadf-29abd11af8ff",
+  "name": "Harwell, Carol",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Georgetown 78626 donor, very heavy Democratic giving (137 FEC gifts, lean 0.96), gave to Brigid Shea - consistent with a politically active person. A prominent Carol Anne Harwell was Barack Obama's first (1996) campaign manager, but public sources place her in Chicago/Illinois, not Georgetown TX; could not corroborate that this Central Texas donor is that person or any specific Austin political consultant. Occupation unconfirmed.",
+  "source_url": "http://keywiki.org/Carol_Harwell",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0926c698-2bb5-47d6-843b-724572df7a68",
+  "name": "Brown, Armann",
+  "resolved_employer": "Oakland Athletics / Athletics (MLB area scout)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Armann Brown is an Austin-based area/amateur scout for the Athletics (MLB); signed Max Muncy and scouted Kyler Murray. Name, Austin residence and self-reported occupation ('MLB Scout', employer 'Athletics') all match. Gave to George Morales.",
+  "source_url": "https://www.linkedin.com/in/armann-brown-85987417/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3321d0b4-6171-41a1-a0fd-0a60c7d33cf0",
+  "name": "Lash, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78756 donor, single small 2026 gift to Brigid Shea. Multiple 'John Lash' candidates exist (an Austin Engineering Co. water-truck driver; a restorative-justice practitioner) but none could be tied to this zip/donation; common name, identity unresolved.",
+  "source_url": "https://www.linkedin.com/in/john-lash-45775969/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d60c4850-6155-4d03-9f75-e78883ed1c47",
+  "name": "Lawrence, Stanton",
+  "resolved_employer": "Victoria Independent School District (Assistant Superintendent of Administration); longtime Texas public-school administrator",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Stanton Eugene Lawrence is Assistant Superintendent of Administration at Victoria ISD, based in Victoria, TX - matches the donor's name and Victoria 77904 location. Gave to Jeff Travillion (cross-county). Career in public K-12 education.",
+  "source_url": "https://www.linkedin.com/in/dr-stanton-eugene-lawrence-4aa18a1b1/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9324cf2c-896c-4050-a4bf-ebc24371cffc",
+  "name": "Howell, Pix",
+  "resolved_employer": "Urban planning & design consultant (Doucet/Kleinfelder program manager; formerly City of Austin Urban Design and City of Leander Urban Design Officer)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Pix Howell is a distinctively named Austin-area program manager and community/urban planner with 40+ years in resource planning, policy and land development; self-reported occupation 'Consultant / Self' matches. Gave to Jeff Travillion and Margaret Gomez.",
+  "source_url": "https://pixhowell.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3404f83c-e472-45e5-b9b5-4e21b5ac79e4",
+  "name": "Amy Pattillo Campaign",
+  "resolved_employer": "Candidate campaign committee of Amy Pattillo (Rollingwood, TX City Council member 2017-2019; attorney - General Counsel & COO; CAMPO / Travis County bond committee appointee)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "The donor is a political campaign committee (not an individual). Amy Pattillo is a former Rollingwood City Council member and an attorney/business executive (General Counsel & COO) active in Travis County civic bodies. The committee gave to Travillion, Howard and Gomez in Nov 2021. As a committee it has no single 'industry'.",
+  "source_url": "https://www.rollingwoodtx.gov/citycouncil/page/council-member-amy-pattillo",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dad797d6-bf7f-47d0-b4f4-82a36e71361e",
+  "name": "O'Donnell, Denis",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78744 donor, single 2017 gift to George Morales. A well-known Austin Denis O'Donnell owns The White Horse honky-tonk / Sagebrush (hospitality-entertainment), a plausible match, but his venues are in East Austin and no zip/occupation link to 78744 could be confirmed; identity unresolved.",
+  "source_url": "https://voyageaustin.com/interview/daily-inspiration-meet-denis-odonnell/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bea900e1-be19-4641-8022-73fc14cf1bde",
+  "name": "Cantu, Sylvia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78752 donor, single 2025 gift to George Morales. 'Sylvia/Silvia Cantu' is very common in Central Texas (350+ in TX); no occupation or specific record could be tied to this donor. Identity unresolved.",
+  "source_url": "https://www.spokeo.com/Sylvia-Cantu/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-996bdf3f-7ab4-4e93-804c-602d3a69ce5a",
+  "name": "Laura Caldwell Morrison",
+  "resolved_employer": "Former Austin City Council Member (Place 4, 2008-2014); neighborhood advocate / former Austin Neighborhoods Council president (elected official, effectively retired from council)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Laura Caldwell Morrison is the former two-term Austin City Council Member (Place 4) and 2018 mayoral candidate, long active in Austin neighborhood and civic policy. Distinctive full name; gave to Margaret Gomez.",
+  "source_url": "https://www.austinchronicle.com/daily/news/2018-01-08/morrison-files-for-mayor/",
+  "affiliations": []
+ }
+]

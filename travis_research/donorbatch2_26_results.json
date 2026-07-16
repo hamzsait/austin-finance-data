@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "d60d4ff9-b461-4d32-a87c-37192e4964c0",
+  "name": "Howell, Pix",
+  "resolved_employer": "Community planner / program manager; principal of pixhowell.com, affiliated with Doucet (A Kleinfelder Company) and formerly Pape-Dawson Engineers",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Pix Howell is a distinctively-named community planner/program manager with 40+ years in resource, transportation, parks and water planning, based in Wimberley (78676 matches). Worked on the Leander transit-oriented-development district and organized Central Texas water-resource/policy coalitions; profile fits a civic-minded Travis County donor (transit-trails/urbanist context).",
+  "source_url": "https://pixhowell.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ec0c6e9d-7aac-4aac-b757-90fd0dfe9ed8",
+  "name": "Langmore, John",
+  "resolved_employer": "Austin photographer/author (Open Range, Fault Lines: Portraits of East Austin); former corporate attorney; ex-Capital Metro board member (retired from law)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Prominent Austin photographer, author and transit advocate; UT Law grad and former corporate attorney who served on the Capital Metro board and other city/county boards. Fits the donation pattern exactly (gave to county Democrats Travillion & Ann Howard; 0.91 Dem FEC lean, 32 FEC gifts). No zip on file to fully confirm, but identity/donor profile is a strong match.",
+  "source_url": "http://johnlangmorephotos.com/",
+  "affiliations": [
+   {"org": "Capital Metro (Austin transit authority)", "role": "former board member", "category": "civic", "source_url": "https://tupress.org/author/john-langmore/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-c5fd3d58-0e13-4e55-8a06-98e4b8ecf8e7",
+  "name": "Canady, Clyde",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Clyde Madison Canady, ~69, of 104 Millard Cv, Georgetown 78628-2026 — address matches the donor record exactly, so the individual is identified. Public records list occupation only as 'Professional/Technical' with no employer, which is insufficient to assign a taxonomy industry (possibly retired). No FEC history.",
+  "source_url": "https://www.officialusa.com/names/Clyde-Canady/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-36a9f38b-f5a1-4182-b094-d7b2ca5fc8bf",
+  "name": "Hart, Pamela",
+  "resolved_employer": "Jazz vocalist and vocal coach; leads the Uplift Jazz Project (Cedar Park / Austin)",
+  "industry": "Entertainment",
+  "confidence": "medium",
+  "evidence": "Pamela Hart is a well-known Austin-area jazz vocalist based in Cedar Park (78613 matches), who runs vocal workshops and the Uplift Jazz Project. 'Pamela Hart' is a common name, but the Cedar Park + Austin-jazz specificity corroborates; 146 FEC gifts / 0.61 Dem lean indicate an active donor.",
+  "source_url": "https://www.arts.texas.gov/product/pamela-hart/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-094fb5ba-7dc8-42fb-9b35-1d641cfa35e5",
+  "name": "John Love Campaign",
+  "resolved_employer": "Candidate campaign committee (John Love); made candidate-to-candidate transfers to Travis County Democrats",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "This is a political campaign committee, not an individual (Austin PO box 78763). It transferred funds to Travis County Democrats (Travillion, Ann Howard). Could not confirm which John Love — no local Austin/Travis County 'John Love' candidate was verified; the best-known match, John Love III, is a Midland Democrat who ran in CD-6, geographically inconsistent. Industry not assignable to the taxonomy.",
+  "source_url": "https://ballotpedia.org/John_Love_III_(Texas)",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cb2a81ce-4626-44e0-9b93-46a5333b5d61",
+  "name": "Leo, Alejandro",
+  "resolved_employer": "Supervisor, Travis County Sheriff's Office (TCSO)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing self-reports occupation 'Sup' (supervisor) and employer 'Tcso' — a Travis County Sheriff's Office employee (county law enforcement). Could not independently confirm the specific individual by name, but the employer/occupation clearly indicate county government. (Listed zip 77610 appears to be a typo for Buda's 78610.) Gave to constable-turned-commissioner George Morales, whose donor base skews law-enforcement/first-responder.",
+  "source_url": "https://www.tcsheriff.org/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bdd16587-3421-428d-92c6-eae82b38f25a",
+  "name": "De Leon, Michael",
+  "resolved_employer": "Captain, Travis County Constable Precinct 2 (law enforcement)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Michael De Leon is a Captain with Travis County Constable Precinct 2 (michael.deleon@traviscountytx.gov). Filing lists occupation 'LE' (law enforcement) and employer 'TC' (Travis County), Austin 78759 — consistent. Gave to fellow lawman George Morales (former Constable Pct 4).",
+  "source_url": "https://www.zoominfo.com/p/Michael-Deleon/3182504989",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8a3fae9f-332f-4638-9ea5-4d3b46cfc6cb",
+  "name": "Salas, Sara",
+  "resolved_employer": "Owner, Specialized A.C. Mechanical Services (family-owned HVAC contractor, Austin/Kyle area)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "LinkedIn lists Sara Salas as 'Owner at Specialized A.C. Mechanical Services,' a family-owned Central Texas HVAC/mechanical company, matching the filing's occupation ('Owner') and employer exactly; Kyle 78744. HVAC/mechanical contracting = Construction/skilled trades.",
+  "source_url": "https://www.linkedin.com/in/sara-salas-3380681a3/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-677d19fd-8ec4-454a-ad3a-0ddcc5531106",
+  "name": "Santiago, Jesus",
+  "resolved_employer": "Firefighter ('Bombero')",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing lists both occupation and employer as 'Bombero' (Spanish for firefighter); Round Rock 78681, consistent with a Round Rock/Williamson County municipal firefighter (public-safety/government). Specific individual not independently confirmable, but occupation is clear. Gave to former constable George Morales, whose donor base skews first-responder.",
+  "source_url": "https://www.roundrocktexas.gov/city-departments/fire/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a8933fac-5a09-4cb9-8a7e-b7922965afa1",
+  "name": "White, Melvin",
+  "resolved_employer": "Founder, Digital Workforce Academy & MRSW Management (workforce development), Pflugerville",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Most likely Melvin White of Pflugerville, founder of the Digital Workforce Academy and MRSW Management, an SFA alum, former Lumberjack footballer, and treasurer of the Texas Association of Historically Underutilized Businesses — a workforce-development/community leader (78660 matches). 'Melvin White' is a common name so not zip-confirmed, but the Pflugerville + civic-donor profile corroborates.",
+  "source_url": "https://www.manufacturingusa.com/modern-makers/melvin-white",
+  "affiliations": [
+   {"org": "Tracor (Austin defense contractor)", "role": "former employee (~12 years, 1980s-90s), rank-and-file — not exec/owner", "category": "military_defense", "source_url": "https://www.manufacturingusa.com/modern-makers/melvin-white"}
+  ]
+ },
+ {
+  "donor_id": "tcv-decb44c2-0e09-4572-9a48-1b9f11f9130e",
+  "name": "Morales, Rogelio",
+  "resolved_employer": "Service electrician, Randall Electric (Austin commercial electrical contractor)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Filing lists occupation 'service electrical' at Randall Electric — a verified Austin commercial electrical contractor (est. 1984) — indicating a working electrician; Austin 78744. The specific individual could not be independently confirmed on the company roster. Shares a surname with recipient George Morales but no relationship is verified.",
+  "source_url": "https://randallelectric.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4793c075-3776-4ce2-af88-c3ce055c4c1b",
+  "name": "Amy Pattillo Campaign",
+  "resolved_employer": "Campaign committee of Amy Pattillo — Rollingwood City Council member and attorney (General Counsel & COO), Travis County CAMPO Transportation Policy Board appointee",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This entry is the campaign committee of Amy Pattillo, a Rollingwood City Council member (Westlake HS '93) and attorney who serves as a General Counsel & COO and as Travis County's appointee to the CAMPO Transportation Policy Board; Rollingwood 78746 matches. Committee transferred funds to Travis County officials (Travillion, Brigid Shea).",
+  "source_url": "https://www.rollingwoodtx.gov/citycouncil/page/council-member-amy-pattillo",
+  "affiliations": []
+ }
+]

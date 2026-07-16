@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "e77517c7-eb5c-4d95-94cf-c72e1ff832be",
+  "name": "Camp, Jim",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Manchaca/78652 donor to Brigid Shea; 'Jim Camp' is a common name and no occupation/employer is given. The best-known Austin 'Jim Camp' (negotiation coach/author of 'Start with No') died in 2014, so he cannot be the source of 2023-2025 gifts. Cannot corroborate the specific individual.",
+  "source_url": "https://www.penguinrandomhouse.com/authors/4124/jim-camp/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cd7e9d1-6042-42cc-ab55-24b18b63e51d",
+  "name": "Clark, Gaylon",
+  "resolved_employer": "Lead Pastor, Greater Mount Zion Church (Austin)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Gaylon Clark is the longtime Lead Pastor of Greater Mount Zion Church, a large historically Black congregation in East Austin; distinctive name, lives in Pflugerville (78660), and gave to Commissioner Jeff Travillion, who represents Precinct 1 (NE Austin's Black community). Dallas native, DTS-trained.",
+  "source_url": "https://gmzaustin.org/preacher/lead-pastor-gaylon-clark/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6134d151-15d7-499b-bd72-db15742ecef8",
+  "name": "Godfrey, Grant",
+  "resolved_employer": "Attorney (environmental/administrative law); now appellate attorney at mctlaw and University Park, MD councilman",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Grant D. Godfrey (UT Law) practiced environmental and administrative law in Austin (Endangered Species Act / APA cases against federal agencies) before moving to University Park, MD (20782) where he is now a town councilman; the environmental-law background matches gifts to environmentalist Brigid Shea (2017-2021). Also formerly with the National Democratic Institute.",
+  "source_url": "https://law.utexas.edu/alumni/class-notes/grant-d-godfrey/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f83c18a0-a84c-4cde-bfb9-6005e8acd790",
+  "name": "Frazier, Karla",
+  "resolved_employer": "Dr. Karla Frazier, DMD - Frazier Dentistry (Austin)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Dr. Karla Frazier is an Austin dentist (Frazier Dentistry, 7333 E Hwy 290, 78723) and a former U.S. Air Force captain/dentist; she grew up in Jackson, MS. Donor's residence (78753) and the practice are in NE Austin, and the gift went to Commissioner Jeff Travillion (Precinct 1). Distinctive but not certain match.",
+  "source_url": "https://www.frazierdentistry.com/office/meet-dr-frazier",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f6a8dbce-efb0-4e4a-a9a9-92f2b8a47865",
+  "name": "Fojtasek, Phillip",
+  "resolved_employer": "Self-employed restaurateur (self-reported)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Self-reported occupation is 'restaurateur'/'Self' (Austin 78704, gave to Andy Brown). Austin has a well-known restaurant-family surname Fojtasek (chef Michael Fojtasek of Olamaie/MaieB Hospitality), but no public record confirms this specific 'Phillip Fojtasek' or ties him to a named restaurant. Industry taken from the self-reported occupation only.",
+  "source_url": "https://www.olamaieaustin.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f33acb4d-f641-4d02-8f00-53af5632d9c7",
+  "name": "Barrett, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin/78731 donor to Brigid Shea with no listed occupation or employer. 'Michael Barrett' is a very common name and Austin has many; no distinguishing detail lets the specific person be confirmed.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e86777b9-62c1-47ce-8010-25215279c8da",
+  "name": "Rebecca Bell-Metereau Campaign",
+  "resolved_employer": "Candidate campaign committee for Rebecca Bell-Metereau (Texas State Board of Education, District 5; Professor Emerita, Texas State University)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is the campaign committee of Rebecca Bell-Metereau, elected Democratic member of the Texas State Board of Education for District 5 (San Marcos, 78667/78666) and a retired Texas State University English/Media Studies professor. A committee-to-committee transfer to Brigid Shea's campaign.",
+  "source_url": "https://ballotpedia.org/Rebecca_Bell-Metereau",
+  "affiliations": [
+   {"org": "Texas State Board of Education (District 5)", "role": "Elected member (Democrat)", "category": "political", "source_url": "https://sboe.texas.gov/state-board-of-education/sboe-board-members/sboe-member-district-5"}
+  ]
+ },
+ {
+  "donor_id": "tcv-e49f8515-347c-43ee-b28b-cbe1b81949f2",
+  "name": "Ottmers, Stephen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin/78729 donor to Ann Howard with no listed occupation. 'Ottmers' is a Hill Country German-Texan surname; people-search records tie a Stephen Ottmers to a Jeffrey Ottmers in the San Antonio area, but nothing confirms this individual's occupation or identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e3bab964-5c30-472d-9784-57e03628390b",
+  "name": "Yznaga, Mark",
+  "resolved_employer": "Self-employed political consultant",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Mark Yznaga is a veteran Austin progressive political/land-use consultant (self-reported 'Consultant'/'Self', 78723) who co-founded the Save Our Springs Coalition, chaired Liveable City, worked on CodeNext/Imagine Austin, and is married to former City Council Member Ann Kitchen. Long-documented in Austin Chronicle/Monitor.",
+  "source_url": "https://www.austinchronicle.com/best-of-austin/year:1997/poll:readers/category:politics-and-personalities/tie-mark-yznaga-and-ann-richards-best-lobbyist-consultant/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ddbe35f5-324a-4be0-9818-848b6900e69e",
+  "name": "David Buhls",
+  "resolved_employer": "Elections consultant (self-reported; unverified)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Elections Consultant'/'Self' (gave to Commissioner Margaret Gomez, 2021). No location/zip given and no web, lobbyist, or news record corroborates a 'David Buhls' in Texas elections work; the name may be misspelled. Industry taken from self-reported occupation only.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d68b304b-ab8f-4c73-94fa-20914f2065be",
+  "name": "Gary Bledsoe Campaign",
+  "resolved_employer": "Candidate campaign committee for Gary Bledsoe (President, Texas NAACP; civil-rights attorney; 2024 Austin City Council District 7 candidate)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Committee of Gary L. Bledsoe, longtime President of the Texas NAACP, veteran Austin civil-rights/employment attorney (UT Law '76), and an Austin City Council District 7 candidate. A committee-to-committee transfer to Brigid Shea's campaign.",
+  "source_url": "https://austinmonitor.com/stories/2024/06/texas-naacp-president-gary-bledsoe-may-join-crowded-district-7-candidate-field/",
+  "affiliations": [
+   {"org": "Texas NAACP", "role": "President (state conference); NAACP National Board member", "category": "civic", "source_url": "https://naacp.org/people/gary-bledsoe"}
+  ]
+ },
+ {
+  "donor_id": "tcv-d56ba407-db79-4f62-8d1e-aedeaf5eda8d",
+  "name": "Irion, Terrence",
+  "resolved_employer": "Terrence L. 'Terry' Irion - real estate & land-use attorney, Of Counsel at Sprouse Shrader Smith PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Terrence 'Terry' L. Irion is a Texas real estate / land-use / development attorney (State Bar #173182) practicing as Of Counsel at Sprouse Shrader Smith PLLC, an Amarillo-headquartered firm; the donor's Amarillo 79101 address matches the firm's home base. Gave to Brigid Shea (2022).",
+  "source_url": "https://www.sprouselaw.com/team/terry-l-irion/",
+  "affiliations": []
+ }
+]

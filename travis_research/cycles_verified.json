@@ -1,0 +1,237 @@
+[
+  {
+    "slug": "watson",
+    "name": "Kirk Watson",
+    "office": "Mayor of Austin",
+    "elections": [
+      {"year": 2022, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 8 general; no candidate over 50%"},
+      {"year": 2022, "month": 12, "type": "runoff", "result": "won", "note": "Dec 13 runoff def. Celia Israel 50.4%; charter change made this a 2-year term to align mayor with presidential years"},
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov won outright (avoided runoff by ~13 votes) for full 4-year term; sworn Jan 2025"}
+    ],
+    "current_term_ends": 2029,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://en.wikipedia.org/wiki/Kirk_Watson", "https://www.kut.org/austin/2024-11-14/kirk-watson-avoids-runoff-secures-new-term-as-austin-mayor", "https://www.kut.org/austin/2022-12-13/kirk-watson-austin-mayor-runoff-election-celia-israel"]
+  },
+  {
+    "slug": "harpermadison",
+    "name": "Natasha Harper-Madison",
+    "office": "Austin City Council District 1",
+    "elections": [
+      {"year": 2018, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 6 general"},
+      {"year": 2018, "month": 12, "type": "runoff", "result": "won", "note": "Dec 11 runoff def. Mariana Salazar 72%-28%; sworn Jan 6 2019"},
+      {"year": 2022, "month": 11, "type": "general", "result": "won", "note": "Nov 8 won outright over Ramos, House-Dixon, Rarey"}
+    ],
+    "current_term_ends": 2027,
+    "next_election_year": 2026,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Natasha_Harper-Madison", "https://www.austinmonitor.com/stories/2018/12/natasha-harper-madison-easily-prevails-in-district-1/"]
+  },
+  {
+    "slug": "fuentes",
+    "name": "Vanessa Fuentes",
+    "office": "Austin City Council District 2",
+    "elections": [
+      {"year": 2020, "month": 11, "type": "general", "result": "won", "note": "Nov 3 won outright over Ramos, Chincanchan, Strenger"},
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov 5 won ~86% over Robert Reynolds"}
+    ],
+    "current_term_ends": 2029,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Vanessa_Fuentes", "https://www.kut.org/politics/2024-11-05/austin-tx-city-council-races-election-2024"]
+  },
+  {
+    "slug": "velasquez",
+    "name": "Jose Velasquez",
+    "office": "Austin City Council District 3",
+    "elections": [
+      {"year": 2022, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 8 general; 6-way race, no majority"},
+      {"year": 2022, "month": 12, "type": "runoff", "result": "won", "note": "Dec 13 runoff def. Daniela Silva 53.3%; replaced Pio Renteria"}
+    ],
+    "current_term_ends": 2027,
+    "next_election_year": 2026,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Jose_Velasquez_(Texas)", "https://www.kut.org/austin/2022-12-13/jose-velasquez-wins-race-for-district-3-seat-on-austin-city-council"]
+  },
+  {
+    "slug": "vela",
+    "name": "Jose \"Chito\" Vela",
+    "office": "Austin City Council District 4",
+    "elections": [
+      {"year": 2022, "month": 1, "type": "special", "result": "won", "note": "Jan 25 2022 special election, 59% in field of 7, to replace Greg Casar (left for Congress)"},
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov 5 won outright over Guzman, Herrin, Rabuck, Romero for full term"}
+    ],
+    "current_term_ends": 2029,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Jose_Vela", "https://www.kut.org/politics/2022-01-25/austin-city-council-district-4-special-election-results"]
+  },
+  {
+    "slug": "alter",
+    "name": "Ryan Alter",
+    "office": "Austin City Council District 5",
+    "elections": [
+      {"year": 2022, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 8 general; 6-way race, no majority"},
+      {"year": 2022, "month": 12, "type": "runoff", "result": "won", "note": "Dec 13 runoff def. Stephanie Bazan 59.6%; replaced Ann Kitchen"}
+    ],
+    "current_term_ends": 2027,
+    "next_election_year": 2026,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Ryan_Alter", "https://www.kut.org/austin/2022-12-13/ryan-alter-wins-race-to-represent-district-5-on-the-austin-city-council"]
+  },
+  {
+    "slug": "laine",
+    "name": "Krista Laine",
+    "office": "Austin City Council District 6",
+    "elections": [
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov 5 won outright, unseated incumbent Mackenzie Kelly; sworn Jan 6 2025"}
+    ],
+    "current_term_ends": 2029,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Krista_Laine", "https://communityimpact.com/austin/cedar-park-far-northwest-austin/election/2024/11/05/krista-laine-unseats-incumbent-mackenzie-kelly-in-northwest-austin-district-6/"]
+  },
+  {
+    "slug": "siegel",
+    "name": "Mike Siegel",
+    "office": "Austin City Council District 7",
+    "elections": [
+      {"year": 2024, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 5 general; no majority"},
+      {"year": 2024, "month": 12, "type": "runoff", "result": "won", "note": "Dec 14 runoff def. Gary Bledsoe 51.2% (206 votes); ELECTED to D7 seat, sworn Jan 6 2025 — he is the sitting councilmember, NOT a 2026 challenger"}
+    ],
+    "current_term_ends": 2029,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://www.kut.org/politics/2024-12-14/travis-county-runoff-election-results-austin-city-council-district-7-aisd-school-board-manor-mayor", "https://ballotpedia.org/Mike_Siegel"]
+  },
+  {
+    "slug": "ellis",
+    "name": "Paige Ellis",
+    "office": "Austin City Council District 8",
+    "elections": [
+      {"year": 2018, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 6 general"},
+      {"year": 2018, "month": 12, "type": "runoff", "result": "won", "note": "Dec 11 runoff def. Frank Ward; sworn Jan 6 2019"},
+      {"year": 2022, "month": 11, "type": "general", "result": "won", "note": "Nov 8 won outright over Smith, Hawkins, Ross"}
+    ],
+    "current_term_ends": 2027,
+    "next_election_year": 2026,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Paige_Ellis", "https://communityimpact.com/austin/southwest-austin-dripping-springs/election/2022/11/08/incumbent-paige-ellis-wins-austin-city-council-district-8-seat/"]
+  },
+  {
+    "slug": "qadri",
+    "name": "Zohaib \"Zo\" Qadri",
+    "office": "Austin City Council District 9",
+    "elections": [
+      {"year": 2022, "month": 11, "type": "general", "result": "advanced-to-runoff", "note": "Nov 8 general; led field, no majority"},
+      {"year": 2022, "month": 12, "type": "runoff", "result": "won", "note": "Dec 13 runoff def. Linda Guerrero 51% (~300 votes); replaced Kathie Tovo"}
+    ],
+    "current_term_ends": 2027,
+    "next_election_year": 2026,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Zohaib_Qadri", "https://www.kut.org/austin/2022-12-13/zohaib-zo-qadri-wins-race-for-district-9-on-austin-city-council"]
+  },
+  {
+    "slug": "duchen",
+    "name": "Marc Duchen",
+    "office": "Austin City Council District 10",
+    "elections": [
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov 5 won outright 50.59% over Ashika Ganguly (~485 votes); NO runoff; sworn Jan 6 2025"}
+    ],
+    "current_term_ends": 2029,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://austinmonitor.com/stories/2024/11/duchen-clinches-narrow-win-in-district-10-election-hold-for-final-numbers/", "https://communityimpact.com/austin/south-central-austin/election/2024/11/05/early-voting-results-show-marc-duchen-in-lead-for-district-10-council-seat/"]
+  },
+  {
+    "slug": "brown",
+    "name": "Andy Brown",
+    "office": "Travis County Judge",
+    "elections": [
+      {"year": 2020, "month": 11, "type": "special-general", "result": "won", "note": "Nov 3 2020 SPECIAL election (~70%) def. Michael Lovins to fill unexpired term after Sarah Eckhardt resigned; sworn Nov 17 2020. Party nominees chosen by county parties (resignation came after primary)"},
+      {"year": 2022, "month": 11, "type": "general", "result": "won", "note": "Nov 8 2022 regular general def. Rupal Chaudhari for full 4-year term (2023-2026)"},
+      {"year": 2026, "month": 3, "type": "primary", "result": "running", "note": "On March 3 2026 Democratic primary ballot, seeking reelection"}
+    ],
+    "current_term_ends": 2026,
+    "next_election_year": 2026,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Andy_Brown_(Texas)", "https://communityimpact.com/austin/central-austin/government/2020/08/18/nominees-for-travis-county-judge-prepare-to-square-off-in-november-to-replace-sarah-eckhardt/"]
+  },
+  {
+    "slug": "travillion",
+    "name": "Jeff Travillion",
+    "office": "Travis County Commissioner Precinct 1",
+    "elections": [
+      {"year": 2016, "month": 11, "type": "general", "result": "won", "note": "First elected Nov 2016; took office Jan 1 2017"},
+      {"year": 2020, "month": 11, "type": "general", "result": "won", "note": "Reelected (Democratic primary March 2020 + Nov general)"},
+      {"year": 2024, "month": 3, "type": "primary", "result": "won", "note": "March 5 2024 Democratic primary (the decisive race in heavily-Dem precinct)"},
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov 5 2024 general; third full term (2025-2028)"}
+    ],
+    "current_term_ends": 2028,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://www.traviscountytx.gov/commissioners-court/precinct-one", "http://jefftravillion.com/about"]
+  },
+  {
+    "slug": "shea",
+    "name": "Brigid Shea",
+    "office": "Travis County Commissioner Precinct 2",
+    "elections": [
+      {"year": 2014, "month": 11, "type": "general", "result": "won", "note": "First elected 2014 (Democratic primary March + Nov general)"},
+      {"year": 2018, "month": 11, "type": "general", "result": "won", "note": "Nov 6 2018 reelected"},
+      {"year": 2022, "month": 3, "type": "primary", "result": "won", "note": "March 1 2022 Democratic primary def. Bob Libal (decisive race); Nov 2022 general"},
+      {"year": 2026, "month": 3, "type": "primary", "result": "won", "note": "March 3 2026 Democratic primary won ~57%; no Republican filed, so effectively reelected to a 4th term (2027-2030). CORRECTION: she IS running in 2026 and won"}
+    ],
+    "current_term_ends": 2026,
+    "next_election_year": 2030,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Brigid_Shea", "https://www.kut.org/austin/2026-03-04/travis-county-austin-tx-commissioners-court-election-results-2026-primary"]
+  },
+  {
+    "slug": "howard",
+    "name": "Ann Howard",
+    "office": "Travis County Commissioner Precinct 3",
+    "elections": [
+      {"year": 2020, "month": 7, "type": "primary-runoff", "result": "won", "note": "July 14 2020 Democratic primary runoff def. Valinda Bolton (March primary was inconclusive)"},
+      {"year": 2020, "month": 11, "type": "general", "result": "won", "note": "Nov 3 2020 general def. Republican Becky Bray 56.9%; first elected"},
+      {"year": 2024, "month": 3, "type": "primary", "result": "won", "note": "March 5 2024 Democratic primary"},
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Nov 5 2024 general; reelected to term 2025-2028"}
+    ],
+    "current_term_ends": 2028,
+    "next_election_year": 2028,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/Ann_Howard", "https://communityimpact.com/austin/central-austin/election/2020/11/03/after-ann-howards-victory-travis-county-commissioners-court-will-be-entirely-made-up-of-democrats/"]
+  },
+  {
+    "slug": "gomez",
+    "name": "Margaret Gomez",
+    "office": "Travis County Commissioner Precinct 4",
+    "elections": [
+      {"year": 2018, "month": 3, "type": "primary", "result": "won", "note": "March 6 2018 Democratic primary def. Susanna Ledesma-Woody (decisive race); held seat since 1995"},
+      {"year": 2022, "month": 3, "type": "primary", "result": "won", "note": "March 1 2022 Democratic primary def. Susanna Ledesma-Woody; Nov 2022 general — her FINAL election"}
+    ],
+    "current_term_ends": 2026,
+    "next_election_year": null,
+    "status": "retired",
+    "sources": ["https://ballotpedia.org/Margaret_G%C3%B3mez", "https://www.kut.org/austin/2026-06-03/travis-county-austin-tx-margaret-gomez-retires"],
+    "note": "Longest-serving Travis County commissioner (since 1995). Announced 2025 she would not seek reelection in 2026; was NOT on the 2026 ballot. Retired early on June 11 2026 (before term end) after losing mobility; George Morales III appointed to succeed her."
+  },
+  {
+    "slug": "morales",
+    "name": "George Morales III",
+    "office": "Travis County Commissioner Precinct 4",
+    "elections": [
+      {"year": 2016, "month": 11, "type": "general", "result": "won", "note": "First elected Travis County Constable Precinct 4; took office 2017"},
+      {"year": 2020, "month": 11, "type": "general", "result": "won", "note": "Reelected Constable Pct 4 (March 3 2020 primary + Nov general)"},
+      {"year": 2024, "month": 11, "type": "general", "result": "won", "note": "Reelected Constable Pct 4 (March 5 2024 primary + Nov 5 2024 general)"},
+      {"year": 2026, "month": 3, "type": "primary", "result": "advanced-to-runoff", "note": "March 3 2026 Democratic primary for Commissioner Pct 4 (open seat, Gomez retiring); advanced to runoff with Susanna Ledesma-Woody"},
+      {"year": 2026, "month": 5, "type": "primary-runoff", "result": "won", "note": "May 26 2026 Democratic primary runoff won ~55% over Ledesma-Woody"},
+      {"year": 2026, "month": 11, "type": "general", "result": "expected-win", "note": "Nov 3 2026 general; no Republican filed, effectively unopposed for full term 2027-2030"}
+    ],
+    "current_term_ends": 2030,
+    "next_election_year": 2030,
+    "status": "current",
+    "sources": ["https://ballotpedia.org/George_Morales_III", "https://www.kut.org/politics/2026-05-26/austin-tx-primary-runoff-election-travis-county-commissioner-precinct-4", "https://www.kut.org/austin/2026-06-03/travis-county-austin-tx-margaret-gomez-retires"],
+    "note": "Appointed to Commissioner Pct 4 on June 11 2026 to fill remainder of Gomez's unexpired term (through Dec 2026); wins Nov 2026 general for full term 2027-2030. Resigned as Constable to take the seat."
+  }
+]

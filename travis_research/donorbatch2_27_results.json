@@ -1,0 +1,82 @@
+[
+ {
+  "donor_id": "tcv-e47bc93d-36e8-4692-ab9f-f5ca97648dc1",
+  "name": "Hudkins, Michael",
+  "resolved_employer": "Michael L. Hudkins, CPA (self-employed consultant/CPA)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Michael L. Hudkins is a CPA/consultant listed at 500 E Riverside Dr Apt 267, Austin TX 78704 - matches donor zip 78704; also shown as former SVP of enterprise retail sales at Cardtronics. Name + 78704 address corroborate; a LinkedIn company page exists for 'Michael L. Hudkins CPA'.",
+  "source_url": "https://www.linkedin.com/company/michael-l.-hudkins-cpa",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d9c4473f-37a7-451d-956a-bca03a14fcd4",
+  "name": "Ellis, Cyrenthia",
+  "resolved_employer": "City of Austin - Corporate/Central Procurement (Procurement Manager)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Cyrenthia Ellis is a Procurement Manager in the City of Austin Financial Services / Corporate Procurement office (email cyrenthia.ellis@austintexas.gov); distinctive first name and multiple City of Austin procurement documents bear her signature. Donated to County Commissioner Jeff Travillion.",
+  "source_url": "https://www.austintexas.gov/sites/default/files/files/Finance/Vendor%20Services/AFS-Central-Procurement-Staff-Directory.pdf",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-be6ee7fd-0a05-477e-9435-43df3d0fe092",
+  "name": "Lyons, William",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Zip 78716 is a Westlake-area PO-box zip. A 'William L. Lyons' attorney lists a PO Box in 78716-2382 but was disbarred in Texas in 2004, so current occupation is unclear and identity cannot be confirmed against this active donor (107 FEC gifts). Not confidently identified.",
+  "source_url": "https://www.avvo.com/attorneys/78716-tx-william-lyons-176929.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7a3fc45c-04ec-4a71-8f6f-66f520d40652",
+  "name": "Robert George Harris",
+  "resolved_employer": "Self-Employed (nature of work unknown)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Input lists employer 'Self-Employed' at downtown zip 78701. 'Robert Harris' is extremely common in Texas (3,000+ public-record matches); no source ties the specific downtown-Austin self-employed donor to a verifiable occupation. Cannot confirm industry.",
+  "source_url": "https://www.spokeo.com/Robert-Harris/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5f4d8528-217b-4573-8004-d643849a251c",
+  "name": "Justice, Shirlene",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public record confidently identifies a Shirlene Justice in Austin 78723. Searches surfaced only a same-first-name pediatrician (Shirlene J. Samuel, different surname) and an unrelated '78723' business. Cannot corroborate occupation or employer.",
+  "source_url": "https://www.spokeo.com/Shirlene-Justice",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-53a2569f-7ee6-40cd-aa1d-6ce4644e43f7",
+  "name": "New, Edd",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public record found for an 'Edd New' in Austin 78735; searches returned only unrelated EdD academic-program and Travis County office results. Not identifiable.",
+  "source_url": "https://www.spokeo.com/Edd-New",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2f99a2a0-aa70-4777-b541-142f70e98912",
+  "name": "Bradford, Nathaniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Input has no zip, occupation, employer, or city. No web source confidently identifies this donor to Commissioner Travillion. Not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-03aaec94-33ba-49bd-9bf3-b7d4ceb53634",
+  "name": "Wheeler, Preston",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "An Austin-based 'Preston Wheeler' LinkedIn exists (profile blocked/HTTP 999) and there is a 'Wheeler Appraisal' real-estate firm in Austin, but multiple people share the name and none can be tied specifically to the 78736 (Oak Hill) donor. Cannot confirm occupation.",
+  "source_url": "https://www.linkedin.com/in/preston-wheeler-9340811a5",
+  "affiliations": []
+ }
+]

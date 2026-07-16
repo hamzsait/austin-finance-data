@@ -1,0 +1,129 @@
+[
+ {
+  "donor_id": "tcv-a761a71b-183c-4da9-97d5-af6af5c6b22c",
+  "name": "Baldwin, Stephen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor (Greeley, CO 80634) to Travis Co. Commissioner Ann Howard; no occupation/employer on file and no distinguishing web record found for this specific person. Greeley/Weld County is a major oil & gas region, but there is NO evidence this individual works in that industry, so no classification is made.",
+  "source_url": "https://opengovco.com/license/1045326",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a7571f80-b98a-4bab-afb5-c3865557d606",
+  "name": "Shanks, Rachel",
+  "resolved_employer": "Sotol Ventures LLC (commercial real estate broker / land acquisition & development), Georgetown-Round Rock area",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Filing lists her as Consultant at Sotol Ventures LLC (Round Rock 78681). LoopNet profiles Rachel Shanks of Sotol Ventures as a commercial real estate broker in Georgetown TX; other listings tie her to land acquisition & development. Sotol Ventures LLC was registered in TX 11/2021, matching her giving window.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/rachel-shanks/evl02pnb",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a481acdb-1edf-432c-b83d-e1b526737d1d",
+  "name": "Baird Law Firm PLCC",
+  "resolved_employer": "Baird Law Firm, PLLC (Charlie Baird, criminal defense; former Travis County 299th District Court judge and TX Court of Criminal Appeals judge)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Austin criminal-defense law firm founded by Charles 'Charlie' Baird, who retired as Travis County district judge in 2010 after earlier serving on the Texas Court of Criminal Appeals. South Austin office (filing zip 78745; firm listed at 78748 nearby). Donated to George Morales.",
+  "source_url": "https://bairdlawfirm.us/attorney-profile/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a20a5801-39c1-4268-9289-623e11339e6f",
+  "name": "Alice Yi",
+  "resolved_employer": "AAPI community organizer/advocate; founder Austin Asian Community Civic Coalition, co-founder Asian Texans for Justice, APAPA Austin; AAPI liaison to Rep. Lloyd Doggett",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Alice Ming Fei Yi is a well-known Austin AAPI civic activist of ~30 years: founded the Austin Asian Community Civic Coalition (2019), co-founded APAPA-Austin (2013) and Asian Texans for Justice, and serves as AAPI community liaison to Congressman Lloyd Doggett. Donated to Commissioner Margaret Gomez; FEC record all-Democratic (lean 1.0).",
+  "source_url": "https://www.linkedin.com/in/alice-ming-fei-yi-4468097b/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9bce0a4c-94f0-4a4b-98da-1df350825e9c",
+  "name": "Krusee Campaign",
+  "resolved_employer": "Political campaign committee (most likely of former TX State Rep. Mike Krusee, R-District 52, Williamson County; later a transit/rail advocate)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Donor is a campaign committee, not an individual, so no employer/industry applies. Name and north-Austin/Williamson zip (78729) point to the committee tied to Mike Krusee, longtime Republican TX House member (District 52, 1993-2009) and champion of Austin's MetroRail. Contributed to Commissioner Jeff Travillion in 2024. Identity of the committee not independently confirmed, hence medium.",
+  "source_url": "https://ballotpedia.org/Mike_Krusee",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-956f37ae-96bd-4b23-a415-4e9da210892b",
+  "name": "Martinez, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on file. 'Michael Martinez' is an extremely common name and the ~1,497 FEC donations (small-dollar recurring pattern) cannot be tied to a specific, identifiable individual. Cannot corroborate identity; no classification made.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9142bdd3-90ae-4b3a-9437-0a1dda8f930a",
+  "name": "robison, bruce",
+  "resolved_employer": "Self-employed musician/songwriter; runs The Next Waltz record label",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Bruce Robison is a prominent Austin-based Texas-country singer-songwriter (wrote 'Travelin' Soldier,' 'Angry All the Time,' 'Wrapped') who runs the label The Next Waltz. Filing's occupation 'music production / self,' Austin 78705, and all-Democratic FEC record match. Donated to Andy Brown.",
+  "source_url": "https://en.wikipedia.org/wiki/Bruce_Robison",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8a082816-6828-408f-9826-101b5534b99f",
+  "name": "Deyoung, Claire",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on file. Could not corroborate a specific Claire DeYoung in the Austin/Travis County area (the closest LinkedIn match is a marketing professional in Brooklyn, unconfirmed). No classification made.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-88d003eb-e0a7-43c9-ba03-a813e4a51981",
+  "name": "Kramer, Kenneth",
+  "resolved_employer": "Likely Dr. Ken Kramer (retired) — first director of the Sierra Club Lone Star (Texas) Chapter, Texas water-policy specialist/lobbyist",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Best match is Dr. Ken Kramer, who led the Sierra Club's Texas (Lone Star) Chapter 1989-2012 and was its water-resources chair/lobbyist for decades. Donation to environmentalist Commissioner Brigid Shea fits, and his current work on the Brazos River basin / Region H water planning aligns with rural Central Texas geography (filing lists Kenney, TX 77452, Austin County). Name is common and residence not independently confirmed, so medium.",
+  "source_url": "https://www.texastribune.org/2012/04/03/texas-sierra-clubs-outgoing-head-reflects-changes/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7e0c1f15-4c4c-4b04-9a6e-381e0be86542",
+  "name": "Simmons, Thomas",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78703 (Tarrytown) donor to Brigid Shea, but 'Thomas Simmons' is very common (hundreds of TX matches) with no occupation/employer on file; could not corroborate a specific individual. No classification made.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7cf4e805-7f66-4be8-9c59-f67748da8f1f",
+  "name": "Theriot, Robert",
+  "resolved_employer": "Robert 'Beau' Theriot — Austin real estate developer; Theriot Retail Interests / Comanche Canyon developments; former owner of The Oasis on Lake Travis",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Robert H. 'Beau' Theriot is a longtime Austin real estate developer whose entities (Theriot Retail Interests I LP, Comanche Canyon East/West) are registered at 6535 Comanche Trail, Austin 78732 — the exact filing zip. Also developed/owned The Oasis restaurant on Lake Travis. Donated to Brigid Shea.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/robert-h-theriot/31728506.aspx",
+  "affiliations": [
+   {
+    "org": "Theriot Retail Interests / Comanche Canyon developments",
+    "role": "Owner / real estate developer",
+    "category": "business",
+    "source_url": "https://opencorporates.com/companies/us_tx/0014368710"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-7c9a15d3-2471-4733-80aa-33f187265678",
+  "name": "Bassett, Samuel",
+  "resolved_employer": "Samuel E. Bassett — criminal-defense attorney, Minton, Bassett, Flores & Carsey, PC (Austin); former president, Texas Criminal Defense Lawyers Association",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Samuel E. Bassett is a well-known board-certified Austin criminal-defense attorney (UT Law 1988), partner at Minton, Bassett, Flores & Carsey, and past president of the Texas Criminal Defense Lawyers Association. Donated to Ann Howard; heavily Democratic FEC record (lean 0.96, 273 gifts).",
+  "source_url": "https://www.mbfc.com/our-attorneys/samuel-bassett/",
+  "affiliations": []
+ }
+]

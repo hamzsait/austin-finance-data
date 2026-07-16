@@ -1,0 +1,134 @@
+[
+ {
+  "donor_id": "tcv-73f7df5e-0b6c-4c8c-8d7a-1259dd1d48ed",
+  "name": "McClintic, James",
+  "resolved_employer": "Managing Partner, Springfire Laboratory Network / McClintic Group LLC (clinical laboratory consulting), Austin TX",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "FEC records list James McClintic, zip 78737, employer 'Springfire Laboratory Network / Managing Partner'; matches McClintic Group LLC clinical-lab consultant at 8309 Blazyk Dr, Austin 78737-3515 (exact zip+4 match to donor record).",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=McClintic+James&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-575bbf3c-3403-4275-af40-22fdd595a0ef",
+  "name": "Litaker, John",
+  "resolved_employer": "Managing Director/founder, The Litaker Group (public-health & pharmaceutical research consulting), Austin TX",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "John Litaker, PhD (Health Outcomes Research, UT Austin) runs The Litaker Group, an Austin health/pharma research consulting firm; Austin-area zip 78716 consistent with donation to Travis County Commissioner Brigid Shea.",
+  "source_url": "https://litakergroup.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1045021a-7ead-495e-9512-d07577dcb027",
+  "name": "Knapp, David",
+  "resolved_employer": "Co-founder & former CTO of Ketra (Austin lighting-tech startup, acquired by Lutron); now co-owner, Oden & Knapp Jewelry, Jackson WY",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "David Knapp co-founded and was CTO of Austin-based Ketra lighting; Cornell engineering master's, ~100 patents; now co-owns Oden & Knapp Jewelry in Jackson WY 83001 — the Austin/Ketra tie explains giving to Travis County's Ann Howard.",
+  "source_url": "https://jhstylemagazine.com/jackson-hole-jeweler-with-a-mission",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9b42a192-8b88-4a25-bda3-a527fa7b0a50",
+  "name": "Brown, Andrew",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No location on record; 'Andrew Brown' is extremely common. Gave to Travis County commissioners Travillion and Howard in Oct-Nov 2021, and 406 FEC donations + strong Democratic lean fit a politically active Austin Democrat (Travis County Judge Andy/Andrew Steven Brown is one candidate), but nothing directly ties this specific record to any one person. Not confirmed.",
+  "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ffd6fd0e-75fe-4efa-98f3-daf9fea618d9",
+  "name": "Coats Rose, P.C",
+  "resolved_employer": "Coats Rose, P.C. — Houston-based law firm focused on real estate development, affordable housing/community development, public finance, construction/surety, and commercial litigation; offices incl. Houston, Dallas, Austin",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Name matches the well-known Texas law firm Coats Rose, P.C., headquartered at 9 Greenway Plaza, Houston (the record's Houston, TX location corroborates; zip 42108 appears to be bad data). A P.C. entity, not a person; classified by the firm's business as a law firm.",
+  "source_url": "https://www.coatsrose.com/about-us/",
+  "affiliations": [
+   {"org": "Coats Rose, P.C.", "role": "law firm (real estate / affordable housing / public finance; has a government relations practice)", "category": "business", "source_url": "https://www.coatsrose.com/about-us/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-f413573d-c449-4104-835e-0402a58f5d58",
+  "name": "Hass, Richard",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Zip 78258 (Stone Oak, San Antonio). Could not confirm a specific 'Richard Hass' at this location/occupation; searches surfaced only same-city 'Richard Haase' attorneys (different surname spelling) and unrelated out-of-state people. Likely the same individual as the Austin 78723 record (both gave to George Morales), but no corroborating employer/occupation found.",
+  "source_url": "https://www.fec.gov/data/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e2d535ac-49a7-4f84-b2e7-b845f9b909eb",
+  "name": "Hass, Richard",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Zip 78723 (East Austin). Likely the same individual as the San Antonio 78258 record (both named Richard Hass, both gave to George Morales, consistent SA->Austin move), but neither record could be tied to a confirmed person, employer, or occupation. No corroborating detail found.",
+  "source_url": "https://www.fec.gov/data/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e09da687-8b3c-4125-baa5-570c94edb6a5",
+  "name": "Lands, Sterling",
+  "resolved_employer": "Greater Calvary Bible Church International (senior pastor); founder, Greater Calvary Rites of Passage (501c3)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rev. Dr. Sterling Lands II, prominent African-American pastor and civil-rights/community leader in East Austin; his church is at 6510 Berkman Dr, Austin 78723 — exact zip match to donor record. Donation to Commissioner Jeff Travillion (Precinct 1, East Austin) fits.",
+  "source_url": "https://en.wikipedia.org/wiki/Sterling_Lands_II",
+  "affiliations": [
+   {"org": "Greater Calvary Bible Church International", "role": "Senior pastor / founder", "category": "civic", "source_url": "https://www.greatercalvary.org/ourpastor.html"},
+   {"org": "Greater Calvary Rites of Passage", "role": "Founder (African-American youth development nonprofit)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Sterling_Lands_II"}
+  ]
+ },
+ {
+  "donor_id": "tcv-de4e88ab-1b5f-4b98-85da-ed1317fcc0d8",
+  "name": "Denton, Ann",
+  "resolved_employer": "Advocates for Human Potential, Inc. — Director, TA Center (behavioral health / homelessness services consulting)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Austin-based homelessness/behavioral-health consultant; former board member of Austin's Ending Community Homelessness Coalition (ECHO) and Vice-Chair of the Housing Authority of Travis County. Donations to Travillion and to Ann Howard (ECHO's former executive director) fit this profile; no zip on record limits certainty.",
+  "source_url": "https://www.linkedin.com/in/ann-denton-1206b54",
+  "affiliations": [
+   {"org": "Ending Community Homelessness Coalition (ECHO), Austin", "role": "Former board member", "category": "civic", "source_url": "https://www.corporationwiki.com/Texas/Austin/ann-v-denton/38467370.aspx"},
+   {"org": "Housing Authority of Travis County", "role": "Vice-Chair, Board of Commissioners", "category": "civic", "source_url": "https://www.ilru.org/users/ann-denton"}
+  ]
+ },
+ {
+  "donor_id": "tcv-dd0fa174-93f8-499b-88d0-26ecc9b95bc0",
+  "name": "Scanlan, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No location on donor record. A plausible Austin candidate exists — John McAllen Scanlan, an Austin/West Lake environmental attorney and conservationist — but nothing specifically ties him to the donation to Ann Howard, and 'John Scanlan' is a common name. Not confirmable.",
+  "source_url": "https://texaslegacy.org/narrator/john-mcallen-scanlan/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dd0c4907-54bf-4c2d-8fc3-43197d0021bd",
+  "name": "Bullock, Daniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip/location on record. Multiple plausible Austin-area candidates exist (e.g., Dan Bullock, banking/civic exec behind 'The Mosey Project' and former Leadership Austin president; a separate Dan R Bullock with Austin mineral-rights holdings). No corroborating detail ties the donor to any specific individual, and the 0.53 partisan lean offers no tiebreaker.",
+  "source_url": "https://www.linkedin.com/in/dan-bullock-89796a93/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-db872189-dbdf-4d1f-a8b7-9f4dee4788b9",
+  "name": "Balthazar, Ellen",
+  "resolved_employer": "Former CEO, Any Baby Can of Austin (retired 2012); prior marketing career at Procter & Gamble, Frito-Lay, PepsiCo",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ellen (Pinckney) Balthazar is a retired Austin nonprofit/social-services leader who was CEO of Any Baby Can, an Austin children's/family services 501(c)(3), before retiring in 2012; 78746 Westlake zip matches her Rotary Club of Austin Westlake affiliation, and her human-services profile aligns with recipient Ann Howard's ECHO homelessness work.",
+  "source_url": "https://www.austinwestlakerotary.org/upcomingevents/2025/7/1/no-meeting-this-week-snamx-mczwf-22dbp-kx76n-lr2fh-5tt7e-n6p2b-74h9r",
+  "affiliations": [
+   {"org": "Any Baby Can of Austin", "role": "Former CEO (2005-2012)", "category": "civic", "source_url": "https://anybabycan.org/our-supporters"},
+   {"org": "National Genealogical Society", "role": "Board secretary / former VP", "category": "civic", "source_url": "https://www.ngsgenealogy.org/bod/"},
+   {"org": "Rotary Club of Austin Westlake", "role": "Member/speaker", "category": "civic", "source_url": "https://www.austinwestlakerotary.org/upcomingevents/2025/7/1/no-meeting-this-week-snamx-mczwf-22dbp-kx76n-lr2fh-5tt7e-n6p2b-74h9r"}
+  ]
+ }
+]

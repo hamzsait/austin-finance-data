@@ -1,0 +1,125 @@
+[
+ {
+  "donor_id": "tcv-8baf3e2e-f7fe-487d-9e03-ceea9b4b2017",
+  "name": "Sernovitz, Andrew",
+  "resolved_employer": "Andy Sernovitz — Austin-based CEO of GasPedal / SocialMedia.org / Board.org; NYT best-selling author of 'Word of Mouth Marketing'",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Distinctive name; 'Andy Sernovitz' is a marketing author and founder of the Word of Mouth Marketing Association who runs GasPedal/SocialMedia.org/Board.org out of Austin, TX (confirmed Austin address 3616 Far West Blvd). Also an angel investor (PitchBook). Gave to Travillion.",
+  "source_url": "https://wordofmouthbook.com/andy/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-88abd289-0bb4-4124-bcd1-3aa81d6be514",
+  "name": "Spataro, Susan",
+  "resolved_employer": "Travis County Auditor (retired) — CPA/CMA who served 20+ years until 2012",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Susan A. Spataro, CPA/CMA, was the long-serving Travis County Auditor (quasi-comptroller credited with the county's AAA bond rating) until her 2012 dismissal by the district judges. Local (Travillion) donation and county tie corroborate.",
+  "source_url": "https://www.austinchronicle.com/news/2012-08-24/then-theres-this-ousting-the-auditor/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-81be3a35-aa27-4190-b948-41e306b020f6",
+  "name": "Braun, Peggy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip/occupation on file. Multiple people named Peggy Braun in Texas (an Austin resident age ~76, a Kerrville CPA, others); cannot confirm which one gave to Ann Howard. No FEC history.",
+  "source_url": "https://www.fastbackgroundcheck.com/people/peggy-braun/id/f7757787588581869857",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7799fcb9-8178-4a14-8979-340d9f85a57f",
+  "name": "Pollard, Mark",
+  "resolved_employer": "Self-employed business owner (Austin, TX 78753)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "County filing self-reports occupation 'Business Owner' / employer 'Self' in Austin 78753. Could not independently confirm which specific Mark Pollard or what business online, so the nature of the business is unknown, but self-employed status is directly from the filing.",
+  "source_url": "https://www.linkedin.com/in/mark-pollard-98b57233/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7564b2a3-fb84-408f-86db-fae28612dda5",
+  "name": "Sanger, Mary",
+  "resolved_employer": "Environmental / land-use policy advocate (former Environmental Defense; Community Not Commodity)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Mary Sanger is a longtime Austin environmental and land-use policy advocate (associated with Environmental Defense and anti-CodeNEXT group Community Not Commodity; testified at TX Senate on the Trans-Texas Corridor). Austin 78705, prolific Democratic donor (822 FEC gifts, lean 1.0); gift to environmental commissioner Brigid Shea fits.",
+  "source_url": "https://www.kut.org/people/mary-sanger",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-731b12eb-1aa4-41ef-ad8e-10540e3272c0",
+  "name": "Farrell, Thomas",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin/Westlake PO-box zip 78716; prolific Democratic donor (238 FEC gifts, lean 0.99). A prominent Thomas M. Farrell attorney exists but is Houston-based (McGuireWoods), not a confirmed match. Cannot corroborate occupation for the Austin donor.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=167229",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-727d5fdc-86f0-4e15-bcac-4dd56850cfb5",
+  "name": "Coniglio, Frank",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip/occupation on file and no FEC history. Web search returned only a Coniglio street name in Austin, no identifiable person named Frank Coniglio. Cannot confirm.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-70e37581-63e6-4ef1-bac6-5a654a2a51a6",
+  "name": "Brennan, Katherine",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor (Saint Paul, MN 55104); Democratic-leaning (6 FEC gifts, lean 1.0). No confirmable identity or occupation linking a specific Katherine Brennan to the 2025 gift to Brigid Shea.",
+  "source_url": "https://www.spokeo.com/Katherine-Brennan",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6b74e21a-ec63-41ed-83f8-4e7d7fe36e26",
+  "name": "Mercer, James",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip/occupation on file; 257+ people named James Mercer in Texas. Republican-leaning FEC history (5 gifts, lean 0.05) despite a Democratic county recipient (Travillion). Cannot confirm which individual.",
+  "source_url": "https://www.spokeo.com/James-Mercer/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6a10dbe5-6bcd-4288-8fb3-043d25142300",
+  "name": "Michael Krusee Campaign",
+  "resolved_employer": "Campaign committee of Mike Krusee, former Republican Texas House member (District 52, Round Rock/Williamson Co., 1993-2009); transportation/transit champion, later a lobbyist",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "This is a political committee, not a person/employer, so no taxonomy industry applies. Mike Krusee was the Republican District 52 state rep known for authoring HB 3588 transportation-funding legislation and for transit advocacy; he later became a lobbyist. His leftover campaign fund made the 2017 gift to Travillion (a transit-aligned Democrat).",
+  "source_url": "https://ballotpedia.org/Mike_Krusee",
+  "affiliations": [
+   {"org": "Texas House of Representatives (District 52, R)", "role": "Former state representative; campaign committee", "category": "political", "source_url": "https://ballotpedia.org/Mike_Krusee"}
+  ]
+ },
+ {
+  "donor_id": "tcv-6682a0d1-624d-415a-ae59-7bbddc52532b",
+  "name": "Burton, Wesley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78751; Democratic-leaning (3 FEC gifts, lean 1.0). 229+ people named Wesley Burton nationally; no confirmable occupation or identity for the specific Austin donor to Brigid Shea.",
+  "source_url": "https://www.spokeo.com/Wesley-Burton",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-61a5d264-5f19-440e-b6f4-8780458935ad",
+  "name": "Aceves Communications",
+  "resolved_employer": "Aceves Communications, LLC — Houston public-affairs / PR firm founded by Jaime Mercado",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "interest_tags": "political-consulting",
+  "evidence": "Aceves Communications, LLC is a Houston-based public relations / public-affairs firm (founded 2014-15 by Jaime Mercado) that runs messaging and grassroots communications campaigns for elected officials and business/civic clients. Houston 77265 address matches. Gave to Andy Brown.",
+  "source_url": "https://www.bizapedia.com/tx/aceves-communications-llc.html",
+  "affiliations": []
+ }
+]

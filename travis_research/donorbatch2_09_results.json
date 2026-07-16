@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "tcv-3f31d46e-77e8-4144-8923-1fb2272a1f48",
+  "name": "Yanez, Carlos",
+  "resolved_employer": "Travis County Constable Precinct 4 (Deputy Constable)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Self-reported as a Deputy with Travis County Constables Pct 4; gave to George Morales, a Travis County constable candidate. Law-enforcement/county government worker.",
+  "source_url": "https://www.traviscountytx.gov/constable-4",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1f551562-cae8-4107-ad26-c7434b3ef279",
+  "name": "Simmons, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Recurring small donor in Manor/east Travis Co (78762) to Commissioner Jeff Travillion, 2022-2025. 'Robert Simmons' is too common and no occupation/employer is listed; cannot confirm a specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ee4e0412-f86d-445a-a6ce-df799d5a7a20",
+  "name": "Haussmann, Michele",
+  "resolved_employer": "Land Use Solutions, LLC (owner) — land-use/zoning consultant & registered lobbyist",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Michele Haussmann owns Land Use Solutions LLC, a ~29-yr Central/South Texas land-development entitlement consultancy; registered City of Austin/San Antonio lobbyist and a director of the Real Estate Council of Austin. Distinctive name; gave to Commissioner Travillion.",
+  "source_url": "https://www.linkedin.com/in/michele-haussmann-7708199/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dc616c0f-a46d-4fde-9955-5c7383d63247",
+  "name": "Jobe, Van",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Single 2023 gift to Commissioner Travillion from N. Austin (78728); active federal donor (76 FEC gifts) but no occupation/employer listed and no web match confirms who 'Van Jobe' is.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c72f886f-af3a-41cd-96b1-156db554fc20",
+  "name": "McRae, Pete",
+  "resolved_employer": "Texas Dept. of Agriculture / Texas Farmers Union lobbyist (retired; d. Feb 2023)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Almost certainly Pete McRae, longtime Austin progressive/public servant — Texas Farmers Union lobbyist recruited by Jim Hightower to the Texas Dept. of Agriculture (Ann Richards-era network), later secured state courthouse-restoration funding; died Feb 11, 2023 (gift was 2021). Matches a Democratic Travillion donor. Note: a different 'Pete McRae' (Katy, TX, retired BP energy trader) is NOT this person.",
+  "source_url": "https://peopleshistoryintexas.org/pete-mcrae-d/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c614d608-f34d-45c5-8f5e-31dac7f903a4",
+  "name": "Brockenbrough, Anne",
+  "resolved_employer": "Brockenbrough Ranch (rancher) & writer; land-conservation advocate",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Matches Anne Brockenbrough, who runs a working ranch outside Austin and writes (UT Michener Fellow); active in land conservation (2011 Brockenbrough Ranch conservation easement co-funded by Travis County). Strongly Democratic donor (FEC lean 1.0) consistent with gift to Commissioner Travillion.",
+  "source_url": "https://hillcountryconservancy.org/land-projects/hcc-conservation-projects/brockenbrough-ranch/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c45c9d32-5901-49d1-a69d-488b953d4b5a",
+  "name": "McSween, Derek",
+  "resolved_employer": "HPM (Program Director) — capital-improvement / construction program management",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Likely Derek McSween, HPM program director leading $700M+ Central Texas capital-improvement (K-12 facilities) programs; also tied to Austin (Austin Classical Guitar). Distinctive name; single 2021 gift to Commissioner Travillion.",
+  "source_url": "https://www.austinclassicalguitar.org/derek-mcsween/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ac1916d0-2f38-4482-86f6-98e2e65fe89b",
+  "name": "Naiser, Marcus",
+  "resolved_employer": "City of San Marcos, Asst. Director of Capital Improvements, P.E. (civil/water engineer)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Rare surname; matches Marcus Naiser, P.E., a Central Texas civil/water engineer (Texas A&M ag-engineering grad; prior TxDOT/State of Texas, LNV, Ardurra), now City of San Marcos capital-improvements official. Gave to Commissioner Ann Howard; no location in record so exact-person match not fully confirmed.",
+  "source_url": "https://www.linkedin.com/in/marcus-naiser-p-e-b758b24/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-abc77c2b-6da3-427b-8646-9f3a4c5fbd9a",
+  "name": "Davis, Griffin",
+  "resolved_employer": "Victory Hearing & Balance Center, West Lake Hills (owner, Doctor of Audiology)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Griffin Davis, AuD, owns Victory Hearing & Balance Center at 3811 Bee Caves Rd, West Lake Hills 78746 — zip matches donor exactly. Very active Democratic donor (FEC lean 0.99, 138 gifts); gave to Commissioner Brigid Shea.",
+  "source_url": "https://www.healthyhearing.com/hearing-aids/32025-victory-hearing-balance",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a5f2dc2a-4c9b-47f9-aa13-e2d7a5814463",
+  "name": "Streeter, Calvin",
+  "resolved_employer": "UT Austin, Steve Hicks School of Social Work (professor — Meadows Foundation Centennial Professor)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Calvin L. Streeter, Ph.D., is a longtime UT Austin social-work professor (rural community development/program evaluation); lives in the Pflugerville area (78660 matches). Gave to Commissioner Ann Howard.",
+  "source_url": "https://socialwork.utexas.edu/directory/calvin-l-streeter-ph-d/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a5310730-6fb9-441d-9fd8-4eb5d780e076",
+  "name": "Adrian, Erle",
+  "resolved_employer": "UT Health San Antonio, Dept. of Cell Systems & Anatomy — M.D./Ph.D. professor emeritus (retired)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Distinctive name matches Erle K. Adrian Jr., M.D., Ph.D., Professor Emeritus in Cell Systems & Anatomy (faculty 1969-2000); a retired medical academic. Donor lives downtown Austin (78701); prior faculty post was in San Antonio, so Austin retirement residency is plausible but not fully confirmed. Gave to Commissioner Brigid Shea.",
+  "source_url": "https://directory.uthscsa.edu/academics/profile/ADRIAN",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a4e2b0b2-1188-4f58-9c43-219dad38e309",
+  "name": "Hailey, Royce",
+  "resolved_employer": "DLA Piper LLP, Austin — attorney (real estate, energy & water, land use, development, government relations)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Matches Royce J. Hailey, Jr., a veteran Austin real-estate/land-use development attorney at DLA Piper (SMU 1965, licensed ~58 yrs). NW Austin resident (78731) consistent; gave to Commissioner Ann Howard. His practice touches 'energy & water' as counsel, but he is not an oil/gas executive/owner — no affiliation flag.",
+  "source_url": "https://www.lawyers.com/austin/texas/royce-j-jay-hailey-jr-4667668-a/",
+  "affiliations": []
+ }
+]

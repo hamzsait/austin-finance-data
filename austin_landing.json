@@ -10,7 +10,7 @@
    "href": "/austin/watson/",
    "raised": "$3.2M",
    "donors": "6,317",
-   "empPct": "70.2%",
+   "empPct": "70.3%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -19,20 +19,23 @@
     },
     {
      "label": "Not Employed",
-     "amt": "$492K",
-     "w": 95
+     "amt": "$461K",
+     "w": 89
     },
     {
      "label": "Legal",
-     "amt": "$370K",
+     "amt": "$371K",
      "w": 71
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$192K",
-     "w": 37
+     "label": "Self-Employed",
+     "amt": "$224K",
+     "w": 43
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "Mayor",
+   "status": "current"
   },
   {
    "slug": "harpermadison",
@@ -43,7 +46,7 @@
    "href": "/austin/harpermadison/",
    "raised": "$245K",
    "donors": "850",
-   "empPct": "82.1%",
+   "empPct": "82.2%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -62,10 +65,13 @@
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$16K",
-     "w": 29
+     "amt": "$17K",
+     "w": 30
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 1",
+   "status": "current"
   },
   {
    "slug": "fuentes",
@@ -76,7 +82,7 @@
    "href": "/austin/fuentes/",
    "raised": "$228K",
    "donors": "1,075",
-   "empPct": "82.4%",
+   "empPct": "82.5%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -85,8 +91,8 @@
     },
     {
      "label": "Not Employed",
-     "amt": "$20K",
-     "w": 41
+     "amt": "$19K",
+     "w": 38
     },
     {
      "label": "Government",
@@ -98,7 +104,10 @@
      "amt": "$17K",
      "w": 34
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 2",
+   "status": "current"
   },
   {
    "slug": "velasquez",
@@ -109,7 +118,7 @@
    "href": "/austin/velasquez/",
    "raised": "$202K",
    "donors": "776",
-   "empPct": "84.9%",
+   "empPct": "85.9%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -122,16 +131,19 @@
      "w": 19
     },
     {
+     "label": "Retail / Media / Other",
+     "amt": "$11K",
+     "w": 15
+    },
+    {
      "label": "Education",
      "amt": "$10K",
      "w": 14
-    },
-    {
-     "label": "Retail / Media / Other",
-     "amt": "$10K",
-     "w": 14
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 3",
+   "status": "current"
   },
   {
    "slug": "vela",
@@ -164,7 +176,10 @@
      "amt": "$13K",
      "w": 21
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 4",
+   "status": "current"
   },
   {
    "slug": "alter",
@@ -197,7 +212,10 @@
      "amt": "$18K",
      "w": 23
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 5",
+   "status": "current"
   },
   {
    "slug": "laine",
@@ -208,7 +226,7 @@
    "href": "/austin/laine/",
    "raised": "$123K",
    "donors": "630",
-   "empPct": "73.3%",
+   "empPct": "73.4%",
    "topGroups": [
     {
      "label": "Technology",
@@ -230,7 +248,10 @@
      "amt": "$8K",
      "w": 28
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 6",
+   "status": "current"
   },
   {
    "slug": "siegel",
@@ -241,7 +262,7 @@
    "href": "/austin/siegel/",
    "raised": "$279K",
    "donors": "1,206",
-   "empPct": "77.7%",
+   "empPct": "77.8%",
    "topGroups": [
     {
      "label": "Technology",
@@ -250,8 +271,8 @@
     },
     {
      "label": "Not Employed",
-     "amt": "$36K",
-     "w": 87
+     "amt": "$37K",
+     "w": 88
     },
     {
      "label": "Real Estate",
@@ -263,7 +284,10 @@
      "amt": "$23K",
      "w": 55
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 7",
+   "status": "current"
   },
   {
    "slug": "ellis",
@@ -296,7 +320,10 @@
      "amt": "$20K",
      "w": 25
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 8",
+   "status": "current"
   },
   {
    "slug": "qadri",
@@ -329,7 +356,10 @@
      "amt": "$35K",
      "w": 50
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 9",
+   "status": "current"
   },
   {
    "slug": "duchen",
@@ -344,25 +374,28 @@
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$40K",
+     "amt": "$38K",
      "w": 100
     },
     {
      "label": "Real Estate",
      "amt": "$31K",
-     "w": 78
+     "w": 82
     },
     {
      "label": "Legal",
      "amt": "$13K",
-     "w": 34
+     "w": 35
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$11K",
-     "w": 28
+     "label": "Self-Employed",
+     "amt": "$13K",
+     "w": 33
     }
-   ]
+   ],
+   "section": "council",
+   "seat": "District 10",
+   "status": "current"
   },
   {
    "slug": "brown",
@@ -373,7 +406,7 @@
    "href": "/austin/brown/",
    "raised": "$1.4M",
    "donors": "1,273",
-   "empPct": "94%",
+   "empPct": "95%",
    "topGroups": [
     {
      "label": "Finance",
@@ -382,7 +415,7 @@
     },
     {
      "label": "Retail / Media / Other",
-     "amt": "$187K",
+     "amt": "$189K",
      "w": 44
     },
     {
@@ -395,7 +428,10 @@
      "amt": "$154K",
      "w": 36
     }
-   ]
+   ],
+   "section": "county",
+   "seat": "County Judge",
+   "status": "current"
   },
   {
    "slug": "travillion",
@@ -406,29 +442,32 @@
    "href": "/austin/travillion/",
    "raised": "$620K",
    "donors": "510",
-   "empPct": "84.5%",
+   "empPct": "89.4%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$93K",
+     "amt": "$97K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$81K",
+     "amt": "$85K",
      "w": 87
     },
     {
      "label": "Consulting / PR",
-     "amt": "$65K",
+     "amt": "$68K",
      "w": 70
     },
     {
      "label": "Construction",
-     "amt": "$53K",
-     "w": 57
+     "amt": "$54K",
+     "w": 55
     }
-   ]
+   ],
+   "section": "county",
+   "seat": "Precinct 1",
+   "status": "current"
   },
   {
    "slug": "shea",
@@ -439,29 +478,32 @@
    "href": "/austin/shea/",
    "raised": "$789K",
    "donors": "657",
-   "empPct": "87%",
+   "empPct": "90.3%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$128K",
+     "amt": "$132K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$97K",
-     "w": 75
+     "amt": "$101K",
+     "w": 77
     },
     {
      "label": "Retail / Media / Other",
-     "amt": "$90K",
-     "w": 70
+     "amt": "$91K",
+     "w": 69
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$57K",
-     "w": 44
+     "amt": "$59K",
+     "w": 45
     }
-   ]
+   ],
+   "section": "county",
+   "seat": "Precinct 2",
+   "status": "current"
   },
   {
    "slug": "howard",
@@ -472,29 +514,32 @@
    "href": "/austin/howard/",
    "raised": "$399K",
    "donors": "416",
-   "empPct": "77.3%",
+   "empPct": "84.1%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$75K",
+     "amt": "$83K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$67K",
-     "w": 89
+     "amt": "$72K",
+     "w": 87
     },
     {
      "label": "Retail / Media / Other",
-     "amt": "$25K",
-     "w": 33
+     "amt": "$27K",
+     "w": 32
     },
     {
-     "label": "Construction",
+     "label": "Nonprofit / Advocacy",
      "amt": "$23K",
-     "w": 30
+     "w": 28
     }
-   ]
+   ],
+   "section": "county",
+   "seat": "Precinct 3",
+   "status": "current"
   },
   {
    "slug": "morales",
@@ -505,29 +550,33 @@
    "href": "/austin/morales/",
    "raised": "$414K",
    "donors": "653",
-   "empPct": "73.3%",
+   "empPct": "86.2%",
    "topGroups": [
     {
-     "label": "Real Estate",
-     "amt": "$62K",
+     "label": "Government",
+     "amt": "$74K",
      "w": 100
     },
     {
-     "label": "Government",
-     "amt": "$58K",
-     "w": 93
+     "label": "Real Estate",
+     "amt": "$65K",
+     "w": 88
     },
     {
      "label": "Legal",
-     "amt": "$49K",
-     "w": 78
+     "amt": "$51K",
+     "w": 69
     },
     {
      "label": "Retail / Media / Other",
-     "amt": "$36K",
-     "w": 58
+     "amt": "$38K",
+     "w": 51
     }
-   ]
+   ],
+   "section": "county",
+   "seat": "Precinct 4",
+   "status": "current",
+   "status_note": "Since June 2026"
   },
   {
    "slug": "gomez",
@@ -538,17 +587,17 @@
    "href": "/austin/gomez/",
    "raised": "$158K",
    "donors": "137",
-   "empPct": "84%",
+   "empPct": "86.7%",
    "topGroups": [
     {
      "label": "Government",
-     "amt": "$33K",
+     "amt": "$34K",
      "w": 100
     },
     {
      "label": "Technology",
      "amt": "$26K",
-     "w": 77
+     "w": 76
     },
     {
      "label": "Real Estate",
@@ -557,10 +606,14 @@
     },
     {
      "label": "Legal",
-     "amt": "$19K",
-     "w": 56
+     "amt": "$20K",
+     "w": 59
     }
-   ]
+   ],
+   "section": "county",
+   "seat": "Precinct 4",
+   "status": "retired",
+   "status_note": "Retired June 2026"
   }
  ]
 }

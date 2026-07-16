@@ -1,0 +1,130 @@
+[
+ {
+  "donor_id": "tcv-d243a078-f2a4-4de6-bf47-d531a59b973f",
+  "name": "Aldrich, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Robert Aldrich is associated with an address in Austin 78745 (public-records match to the donor zip), but no occupation or employer could be confirmed. An active Democratic donor (FEC lean 0.99, 30 gifts). Common name; cannot corroborate a career, so no industry is assigned.",
+  "source_url": "https://radaris.com/p/Robert/Aldrich-USA/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d21aa37a-acdf-46e0-bd2f-cd926c7fca10",
+  "name": "Berlanga, Hugo",
+  "resolved_employer": "Berlanga Business Consultants (government-affairs consultant / registered Texas lobbyist)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Hugo Berlanga (b. 1948, Corpus Christi) is a former Democratic Texas state representative (Dist. 34, 1983-1998) and Speaker Pro Tempore who retired to found Berlanga Business Consultants, providing government-affairs services; a registered Texas lobbyist. Matches donor occupation 'Consultant/Self' and Corpus Christi 78404 location.",
+  "source_url": "https://en.wikipedia.org/wiki/Hugo_Berlanga",
+  "affiliations": [
+   {"org": "Berlanga Business Consultants / Texas Legislature", "role": "Registered Texas lobbyist; former state representative", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/hugo-berlanga-19723"}
+  ]
+ },
+ {
+  "donor_id": "tcv-cc29eefa-2cd4-4dea-bca6-a36c10fe90bc",
+  "name": "Gonzalez, Andres",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "San Antonio 78216 donor to three Travis County officials (Travillion, Shea, Howard), 2021-2023, no occupation listed. 'Andres Gonzalez' is a very common South Texas name and no public source could be matched to this specific person/zip. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c89f54a8-59f5-484c-a7cd-200f0a84ad18",
+  "name": "Girard, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip or occupation in the record. Austin has multiple Michael Girards (e.g. CEO of Girard Diversified Interests; a Lake Travis Trail Coalition volunteer) and none could be tied to this specific one-time 2021 gift to Ann Howard. Identity unconfirmed, so no industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c2c57944-e0b5-4375-be8a-96f9971e077b",
+  "name": "Hunziker, Emil",
+  "resolved_employer": "Lockheed Martin (retired)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "J. Emil Hunziker, retired from Lockheed Martin, lives at 5506 Duval St, Austin 78751 (matches donor zip) and gives to progressive local candidates (also gave to Michael Siegel). Identity is high-confidence; exact Lockheed job function is unconfirmed, so the Engineering label (aerospace/defense) is medium. Signed an AURA urbanist petition.",
+  "source_url": "https://www.linkedin.com/in/j-emil-hunziker-9a2436302/",
+  "affiliations": [
+   {"org": "Lockheed Martin", "role": "Retired employee", "category": "military_defense", "source_url": "https://www.linkedin.com/in/j-emil-hunziker-9a2436302/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-c293149d-e4d3-4ec2-a920-7a5322c8f28e",
+  "name": "Gullahorn, Jack",
+  "resolved_employer": "Professional Advocacy Association of Texas (founder, President & General Counsel); Austin lobbyist/attorney",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jack Gullahorn is a prominent Austin lobbyist and attorney who founded and led (15 yrs) the Professional Advocacy Association of Texas (PAAT), the lobbyists' trade association. Distinctive name; a well-known Capitol figure. Gave to Travillion.",
+  "source_url": "https://www.paat.org/gullahorn",
+  "affiliations": [
+   {"org": "Professional Advocacy Association of Texas (PAAT)", "role": "Founder, President & General Counsel; registered lobbyist", "category": "political", "source_url": "https://www.paat.org/gullahorn"}
+  ]
+ },
+ {
+  "donor_id": "tcv-bdd6b928-217d-4624-859e-d8f6fb7847f9",
+  "name": "Delia Garza Campaign",
+  "resolved_employer": "Candidate campaign committee of Delia Garza, Travis County Attorney (former Austin City Council D2 / Mayor Pro Tem)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual but the officeholder/candidate campaign committee of Delia Garza, the elected Travis County Attorney (first Latina in the role, in office since Jan 2021), making a $500 political transfer to George Morales. Classified as Government/political.",
+  "source_url": "https://ballotpedia.org/Delia_Garza",
+  "affiliations": [
+   {"org": "Delia Garza for Travis County Attorney", "role": "Candidate/officeholder campaign committee", "category": "political", "source_url": "https://ballotpedia.org/Delia_Garza"}
+  ]
+ },
+ {
+  "donor_id": "tcv-ba1a23ff-1557-430d-b8e0-14ffdd9e3196",
+  "name": "Johannesmeyer, Jack",
+  "resolved_employer": "Ledgestone Development Group (Co-Founder & CFO / Head of Business Development & Investor Relations)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jack Johannesmeyer is co-founder and CFO of Ledgestone Development Group, an Austin real-estate development firm (master-planned residential communities) at 3101 Bee Caves Rd, Austin 78746 — matching the donor zip. Gave to Travillion (FEC lean 0.0, Republican-leaning).",
+  "source_url": "https://ledgestonetx.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b8f729a6-2d90-471a-8cc5-baf529e673c4",
+  "name": "Boutte, Eric",
+  "resolved_employer": "AIW Consulting LLC (Chief Operating Officer)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Eric Boutte is COO of AIW Consulting, a management-consulting firm (business transformation, infrastructure/technology modernization for businesses, school districts and utilities) at 1310 Rayford Park Rd, Spring 77386 — matching the donor location. Gave to Travillion.",
+  "source_url": "https://aiwconsulting-llc.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b58745ba-6989-42c5-94e3-7dd6d345d3ae",
+  "name": "Albert, Steven",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip or occupation in the record; a one-time 2021 gift to Ann Howard (FEC lean 0.0). 'Steven/Steve Albert' is a common name with no confirmable match to this donor. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b01b9cee-5e3e-4cd0-b5dc-3ec9bf16eb01",
+  "name": "Michel, Lorri",
+  "resolved_employer": "Michel Gray & Rogers LLP (co-founder; property-tax attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Lorri Michel is a well-known Austin property-tax attorney, co-founder of Michel Gray & Rogers LLP (est. 2003), former assistant Travis County attorney and UT Law adjunct. Distinctive name; Democratic-leaning donor (FEC lean 0.94) matches. Gave to Travillion.",
+  "source_url": "https://www.michelgray.com/professionals/lorri-michel/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ab3c89b5-179b-4780-87fd-8bfa883fcc03",
+  "name": "Thoden, Philip",
+  "resolved_employer": "Associated General Contractors (AGC), Austin Chapter (President & CEO)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Phil Thoden is President & CEO of the Austin chapter of the Associated General Contractors of America (since 2003), a commercial-construction trade association; a former federal AGC lobbyist and U.S. Senate staffer. Austin 78731 matches. Gave to Travillion.",
+  "source_url": "https://constructioncitizen.com/users/phil-thoden",
+  "affiliations": []
+ }
+]

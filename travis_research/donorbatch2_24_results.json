@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "tcv-5f2b7566-706b-464d-b92b-827d8d7f80e9",
+  "name": "Apt, William",
+  "resolved_employer": "William Burt Apt II — solo attorney (business/creditor-debtor law), West Lake Hills",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Texas attorney (Texas Tech Law 1982) with office in West Lake Hills 78746, exactly matching the donor's zip; practices business, collections and construction-related litigation.",
+  "source_url": "https://www.avvo.com/attorneys/78746-tx-william-apt-104042.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-59eea5e6-ee22-4753-9c51-39aacf3c2edc",
+  "name": "Circle C Area Democrats",
+  "resolved_employer": "Democratic club / state-registered PAC for SW Travis County (founded 2008)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Not an individual — a partisan Democratic club and PAC that elects Democrats in southwest Travis County; contribution to Ann Howard is a club PAC transfer.",
+  "source_url": "https://circlecareademocrats.org/",
+  "affiliations": [
+   {"org": "Circle C Area Democrats (Democratic club/PAC)", "role": "the organization itself", "category": "political", "source_url": "https://circlecareademocrats.org/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-58dc7f7d-824a-40f7-b06b-fb6a2ebeadd0",
+  "name": "Conner, Tanyia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Tanyia Conner (age ~67) is confirmed as a Kyle, TX resident, matching the donor's city/zip (78640), but no occupation or employer could be established from public records.",
+  "source_url": "https://www.fastbackgroundcheck.com/people/tanyia-conner/id/f8793209312434747254",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-53979716-9760-4f1e-836e-867aed12e6ea",
+  "name": "McDonald, Kelly",
+  "resolved_employer": "Kelly A. McDonald — health-care attorney (Law Office of Kelly A. McDonald), Austin",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Austin health-law attorney (UT Law) at 2016 Oxford Ave, 78704, matching the donor zip; 25+ years advising nursing/hospice/home-health providers on regulatory and transactional matters.",
+  "source_url": "https://lawyers.justia.com/lawyer/kelly-a-mcdonald-243291",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4f7dd629-3f50-46c4-ba3a-a392c3ee0360",
+  "name": "Frank Fuentes",
+  "resolved_employer": "Chairman, U.S./Hispanic Contractors Association de Austin (construction trade advocacy); self-employed construction",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Prominent Austin Hispanic-construction leader and chairman of the U.S. Hispanic Contractors Association de Austin; the donor's own occupation ('Construction') and employer ('Self') corroborate. Gift to Commissioner Margaret Gomez fits.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/frank-fuentes/38870085.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3a4e060e-82c4-4e03-97e9-e276c33f06ad",
+  "name": "Stokes Hilton, Lee",
+  "resolved_employer": "Lee Stokes Hilton — writer/personal essayist; formerly 20 yrs Wall Street finance then corporate-communications consultant; Austin mineral/royalty-interest owner",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Self-described Austin writer (essays in NYT, Family Circle, Ladies' Home Journal) after a Wall Street finance career and communications consulting; also holds oil/gas mineral & royalty interests across 2 TX counties. Distinctive full name + Austin match a prolific Democratic donor (248 FEC gifts, lean 1.0).",
+  "source_url": "https://www.blogger.com/profile/00102834312752234256",
+  "affiliations": [
+   {"org": "Oil & gas mineral/royalty interests (Austin, TX; 10 interests, 2 counties)", "role": "mineral/royalty interest owner", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/austin/lee-stokes-hilton/993038"}
+  ]
+ },
+ {
+  "donor_id": "tcv-381c386b-cbd3-4d62-b3d9-7d4a388a0428",
+  "name": "Putney, Shelley",
+  "resolved_employer": "Owner, Sassy Cats Entertainment LLC (self-employed), The Hills, TX",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Public records place Shelley Putney at 7 Lost Meadow Trails, The Hills 78738-1308 — exactly the donor address — with 'Sassy Cats Entertainment' the sole company registered there; nature of the business is not further documented.",
+  "source_url": "https://www.officialusa.com/names/Shelley-Putney/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-380535d4-89c3-45d0-9b8c-e41fba618416",
+  "name": "Vera D. Massaro",
+  "resolved_employer": "Vera Massaro — Vice President, Qualico Communities Texas (residential land developer); employer string 'Quantico' appears to be a mis-transcription of 'Qualico'",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Distinctive name matches a LinkedIn VP at Qualico Communities Texas, a residential real-estate developer/homebuilder; the recorded employer 'Quantico' reads as a phonetic error for 'Qualico'. Occupation 'Pensioner' suggests she is retired/semi-retired from that role.",
+  "source_url": "https://www.linkedin.com/in/vera-massaro-a4b87411/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-378e08a5-f455-4efb-b036-30c37bf20eba",
+  "name": "Andy J. Rainosek",
+  "resolved_employer": "TML Intergovernmental Employee Benefits Pool (TML IEBP) — Chief Information Officer (retired)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Andy J. Rainosek of Austin is confirmed via LinkedIn/public records as the retired CIO of the Texas Municipal League Intergovernmental Employee Benefits Pool, a public-sector municipal benefits pool. Distinctive surname + Austin corroborate; gift to Commissioner Gomez.",
+  "source_url": "https://www.linkedin.com/in/andy-rainosek-776a9111",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3651fb73-2b6f-4070-a1a2-233c0bc5edde",
+  "name": "Seals, Bradley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Multiple plausible Austin-area matches (two Austin attorneys named Bradley N./Bradley Seals, plus a San Marcos police officer) and no zip/occupation on the donor record; cannot confirm which individual gave.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=186256",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2ad4a8e7-db0b-498a-aa7d-3b8ecf5121e4",
+  "name": "Hile, Richard",
+  "resolved_employer": "Richard C. 'Dickie' Hile — Austin attorney (Texas Tech Law); former Chair, State Bar of Texas Board of Directors (1990-91)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Prominent long-time Austin attorney and past State Bar of Texas board chair with an Austin office (1601 Rio Grande St); a well-established, prolific Democratic donor profile (164 FEC gifts, lean 0.96) fits, though no zip on the record.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=171937",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2696bd71-f860-4bc7-af6b-a243d24fba13",
+  "name": "Henneke, Gregory",
+  "resolved_employer": "Gregory L. Henneke — Executive VP (and longtime leader), American Structurepoint, Inc., Indianapolis engineering/infrastructure firm",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Executive VP at American Structurepoint, a transportation/public-works engineering firm, in Indianapolis 46204 — exactly the donor's out-of-state zip; a known Democratic-committee donor. Firm does infrastructure engineering (not defense).",
+  "source_url": "https://www.linkedin.com/in/greg-henneke-38607b24/",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "tcv-84312fc4-820e-421a-a8b7-a5c1cea0d196",
+  "name": "Koch, Shelby",
+  "resolved_employer": "Koch Construction / Koch McIntyre Construction (family high-end residential builder)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Shelby L. Koch (b. ~1977) lists 1412 Harvey St, Austin 78702 - the same address as Koch Construction; her household relation Jon Koch is a principal of Koch McIntyre Construction, an Austin high-end residential/remodel builder. Her personal role is not separately documented, so tie is by household/address.",
+  "source_url": "https://km.build/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4089ef04-3607-4232-a60a-67a258fa2da7",
+  "name": "Bledsoe, Gary",
+  "resolved_employer": "Law Offices of Gary L. Bledsoe & Associates; President, Texas NAACP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Gary L. Bledsoe is a longtime Austin civil-rights attorney, former Texas assistant AG, and President of the Texas State NAACP since 1991; national NAACP board member. Austin 78727, Democratic FEC lean (0.97) fits.",
+  "source_url": "https://naacp.org/people/gary-bledsoe",
+  "affiliations": [
+   {"org": "NAACP (Texas State Conference)", "role": "President of Texas NAACP; national board member", "category": "civic", "source_url": "https://naacp.org/people/gary-bledsoe"}
+  ]
+ },
+ {
+  "donor_id": "tcv-3ba1318a-85aa-4ee1-9cf2-7000658a63ba",
+  "name": "Ravel, Debra",
+  "resolved_employer": "Retired/inactive Texas attorney (Government/Administrative practice) (retired)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "State Bar of Texas lists Debra L. Ravel, Austin, licensed 1977, practice area Government/Administrative, now inactive/retired. Austin 78759 + Democratic FEC lean (1.0) and gift to Brigid Shea are consistent; specific street/zip not independently confirmed.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=183782",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-499c8d77-473b-46c1-8e64-72425b308dd6",
+  "name": "Sigman, John",
+  "resolved_employer": "Likely John M. 'Jack' Sigman, Sigman & Sigman LLP (Austin family/general-practice attorney)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Leading candidate is John M. Sigman, Austin family/personal-injury attorney (Sigman & Sigman, office 78756). Donor's residential zip 78750 (NW Austin) is nearby but not confirmed as his home; the name is common, so identity is not corroborated.",
+  "source_url": "https://lawyers.justia.com/lawyer/john-m-sigman-268688",
+  "affiliations": []
+ },
+ {
+  "donor_id": "16c8a4b9-c111-4ac7-9d48-066f69d0ce54",
+  "name": "Vittori, Gail",
+  "resolved_employer": "Center for Maximum Potential Building Systems (CMPBS), Co-Director - nonprofit sustainable-design/green-building research center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Gail Vittori is co-director of Austin's nonprofit Center for Maximum Potential Building Systems and a founder of the green-building/LEED movement (helped create Austin Energy Green Building). Austin 78724, FEC lean 1.0. Gave to Travillion and Shea.",
+  "source_url": "https://en.wikipedia.org/wiki/Gail_Vittori",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f18cb656-9d3c-4a66-9410-43a361bcf2a7",
+  "name": "Casar for Congress",
+  "resolved_employer": "Greg Casar for Congress - federal candidate campaign committee (FEC C00791897)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "This is Rep. Greg Casar's principal federal campaign committee (FEC ID C00791897, registered 2021), not an individual. A political committee, so no taxonomy industry applies; recorded as a political entity.",
+  "source_url": "https://www.fec.gov/data/committee/C00791897/",
+  "affiliations": [
+   {"org": "Greg Casar for Congress", "role": "Federal candidate campaign committee (Progressive Democrat, TX)", "category": "political", "source_url": "https://www.fec.gov/data/committee/C00791897/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-af40c5f2-9daf-46b5-9163-b9e70ff56416",
+  "name": "Avila, Eduardo",
+  "resolved_employer": "Dovetail (painter) - per filing",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Painter' and employer 'Dovetail' (Austin 78748), consistent with a painting/finish contractor (Construction). The specific individual and which 'Dovetail' company could not be independently confirmed.",
+  "source_url": "https://www.dovetailmade.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2a8167f2-d490-4b21-a68f-c94823b9b705",
+  "name": "Castillo, Rufus",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Paper Sorter' and employer 'TISTA' (Leander 78641). No 'TISTA' paper/recycling company or specific individual could be confirmed via public records; identity and industry unverified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fd520702-b48f-4f26-b6e7-2abb2dff6db0",
+  "name": "Rhone, Stacy",
+  "resolved_employer": "Business Investment Growth (BiGAUSTIN), Chief Executive Officer - nonprofit CDFI / Women's Business Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Stacy Dukes-Rhone is CEO of BiGAUSTIN (Business Investment Growth), an Austin nonprofit CDFI serving small/minority businesses; a fourth-generation Austinite active in Democratic/NWPC circles. FEC lean 1.0; gave to Commissioner Travillion.",
+  "source_url": "https://www.linkedin.com/in/stacyrhone/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ead14ae2-87e7-4ef2-96be-a747cfd200bc",
+  "name": "Hadden, Karen",
+  "resolved_employer": "Sustainable Energy & Economic Development (SEED) Coalition, Executive Director - clean-energy/environmental advocacy nonprofit",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Almost certainly Karen Hadden, longtime Executive Director of Texas's SEED Coalition (anti-coal/anti-nuclear clean-energy advocacy) and Solar Austin co-founder; her gift to environmentalist Commissioner Brigid Shea and heavy Democratic FEC record (91 gifts, lean 1.0) fit. Note: filing shows a Maplewood, MN mailing address, a discrepancy that slightly lowers confidence.",
+  "source_url": "https://www.linkedin.com/in/karen-hadden-5069a145/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d120ad41-39bc-43ce-81af-751ce225e347",
+  "name": "Moeller, Michael",
+  "resolved_employer": "Self-employed rancher/researcher/consultant; former Deputy Commissioner, Texas Dept. of Agriculture (under Jim Hightower)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Michael 'Mike' Moeller of Wimberley 78676 is a self-employed rancher/consultant, former Deputy Agriculture Commissioner under Jim Hightower and Texas Farmers Union leader; husband of Nora Linares-Moeller. Very heavy Democratic FEC record (203 gifts, lean 1.0) fits this progressive-agriculture figure.",
+  "source_url": "https://peopleshistoryintexas.org/mike-moeller/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c55d10d8-12d9-46f7-8514-e58c9fa39131",
+  "name": "Ghahremani, Kay",
+  "resolved_employer": "Texas Association of Community Health Plans, President & CEO; former Texas Medicaid/CHIP Director",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Kay Ghahremani is President/CEO of the Texas Association of Community Health Plans and the former State Medicaid & CHIP Director (HHSC); LBJ School graduate, longtime Austin health-policy leader. Austin 78757, FEC lean 1.0; gave to Commissioner Ann Howard.",
+  "source_url": "https://www.tahpconference.com/speakers/kay-ghahremani",
+  "affiliations": []
+ }
+]

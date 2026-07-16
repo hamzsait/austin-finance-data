@@ -1,0 +1,136 @@
+[
+ {
+  "donor_id": "tcv-323b8df9-fa05-4645-bd63-13086f8c6ea3",
+  "name": "Amoroso, Natalie",
+  "resolved_employer": "Community association manager (Associa) / real estate agent",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Natalie Winn Amoroso, co-owner of 701 Kinney Ave, Austin TX 78704 (a ~$1.7M home) with husband Christian Amoroso — zip matches donation record exactly, confirming identity. Public-records/agent listings show her occupation as community association (HOA) manager with Associa and real estate agent; occupation from aggregators so held at medium.",
+  "source_url": "https://blockshopper.com/tx/travis-county/austin/property/776867/701-kinney-avenue",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-30e20b0e-fcca-4d22-8a20-f0a7f70ceb71",
+  "name": "Hernandez, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Only data are name + Austin 78723 + single small gift to Brigid Shea; no occupation or employer. 'Robert Hernandez' is extremely common in Austin and cannot be corroborated to a specific person.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-23c67469-2ff4-48af-a301-a8bb86d3bb84",
+  "name": "Duncan, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Name + affluent western-Travis zip 78738 (Bee Cave/Lakeway) + gifts to Ann Howard; no occupation/employer string. 'John Duncan' is too common and nothing found ties a specific individual in 78738 to this record.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fc118759-dc60-4228-a222-1bda108e74fa",
+  "name": "Jane E. Sanders",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer; single 2021 gift to Margaret Gomez. Common name; the FEC-matched partisan lean/donation count do not identify a career, and this is not the Vermont Jane O'Meara Sanders. Cannot corroborate.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f041ee2f-b21c-4d6b-b7a3-cf0dd0c999c0",
+  "name": "Coleman, Charles",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer; single 2021 gift to Jeff Travillion. 'Charles Coleman' is a very common name and nothing distinguishes a specific person; FEC aggregate lean (~0.46) does not resolve identity or career.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ede4b599-334b-49a5-b381-c0cc427f1e9f",
+  "name": "Winn, Stephen",
+  "resolved_employer": "RealPage (founder, real-estate tech; sold to Thoma Bravo 2021); now CEO of Mirasol Capital investment firm",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Circumstantial but strong: prolific all-Republican federal donor (576 FEC gifts, lean ~0.001) who gave $1,000 to Ann Howard, the commissioner for western Travis County Precinct 3 — exactly where billionaire RealPage founder Stephen 'Steve' Winn owns a publicly contested Hill Country ranch (environmental fights) and has major Austin ties (a $200M+ UT Austin/biodiversity gift). No zip in record to confirm outright, so medium. RealPage is proptech; his current role is CEO of Dallas investment firm Mirasol Capital.",
+  "source_url": "https://therealdeal.com/texas/austin/2023/01/30/steve-winn-faces-ecological-fight-in-texas-hill-country/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e453b85f-454d-48d4-b2dd-e040f0f6cbae",
+  "name": "Judith Zaffirini Campaign",
+  "resolved_employer": "Campaign committee of Texas State Senator Judith Zaffirini (D-Laredo, SD-21)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is the officeholder/campaign committee of Judith Zaffirini, longtime Democratic Texas state senator from Laredo (78042 matches Laredo); a political committee making a candidate-to-candidate contribution to George Morales, not an individual donor.",
+  "source_url": "https://senate.texas.gov/member.php?d=21",
+  "affiliations": [
+   {
+    "org": "Texas State Senate (Senator, District 21)",
+    "role": "State Senator / campaign committee",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Judith_Zaffirini"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-df3c47d7-9acf-4a67-b9c6-d3b453a8fdc7",
+  "name": "Capital Area Progressive Democrats",
+  "resolved_employer": "Austin-based progressive Democratic club / political advocacy organization (PAC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Capital Area Progressive Democrats (CAPD) is a ~25-year-old Austin Democratic club of activists and elected officials that endorses and funds Democrats up and down the ballot; here it made a contribution to George Morales. Clearly an organization, not an individual.",
+  "source_url": "http://capdaustintx.com/about-us/",
+  "affiliations": [
+   {
+    "org": "Capital Area Progressive Democrats",
+    "role": "Progressive Democratic club / PAC",
+    "category": "political",
+    "source_url": "http://capdaustintx.com/about-us/"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-d7af6695-8778-45d6-909b-f1ce0e2adbbb",
+  "name": "Schwertner, James",
+  "resolved_employer": "Capitol Land & Livestock (CEO) — one of the largest cattle-trading operations in Texas/US",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Distinctive name matches Jim (James) Schwertner, CEO of Capitol Land & Livestock in Schwertner, TX (Central Texas, near his 78641 Leander-area zip), a cattle day-trader moving 300k-400k head/yr and a former Texas A&M regent (2009-2015). All-Republican federal giving (lean 0.0) fits his GOP profile; a $1,000 gift to commissioner Ann Howard is a local-business relationship. Industry left null only because agriculture/livestock is not in the provided taxonomy — identity itself is high confidence.",
+  "source_url": "https://www.texasmonthly.com/news-politics/cattle-trading-capitol-schwertner/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d1613184-f988-4720-9390-117ae47e26ab",
+  "name": "cunningham, g",
+  "resolved_employer": "Reported occupation 'marketing', employer 'EV' (unidentified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state small donor in Salt Lake City UT 84121 with only an initial ('g') and a two-letter employer 'EV'; a single 2025 gift to Andy Brown. Insufficient detail to corroborate a specific person or company.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c69a1658-d0da-41d7-9bf6-2b434785227f",
+  "name": "Brisa R. McClure",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation/employer listed as 'Don't Know'; no zip. Web searches for 'Brisa McClure' returned only unrelated Austin apartment complexes and a differently-named person (Brianna McClure). Cannot corroborate.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c344ac70-d7c3-4e8b-b297-f6ebdbc17980",
+  "name": "Porter, Daniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer; single 2021 gift to Ann Howard. 'Daniel Porter' is common; the FEC aggregate (439 gifts, Republican-leaning ~0.05) does not identify a specific person or career. Cannot corroborate.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

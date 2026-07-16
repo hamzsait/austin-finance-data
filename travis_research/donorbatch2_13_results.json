@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "tcv-7a002232-8b3d-436a-99ee-756562a0d5fb",
+  "name": "Guess, John",
+  "resolved_employer": "Houston Museum of African American Culture (HMAAC) — CEO/founder",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "John Guess Jr., a native Houstonian and prominent arts/culture philanthropist, is CEO of the Houston Museum of African American Culture and sits on boards of Contemporary Arts Museum Houston and Houston Arts Alliance. SW-Houston 77096 zip, prolific Democratic donor (264 FEC gifts, lean 1.0) supporting Travis Co. commissioner Jeff Travillion fits the profile.",
+  "source_url": "https://www.linkedin.com/in/john-guess-008aa912/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-75ee245e-348b-43b4-a074-62b6c63edd7b",
+  "name": "Carter, Darryl",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on record and 'Darryl Carter' is a common name; a $500 gift to Travillion and 28 FEC donations are insufficient to corroborate a specific individual. Not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-749fda8c-3498-4c9e-9603-b3138b14119c",
+  "name": "J Ancira Stratefies",
+  "resolved_employer": "J. Ancira Strategies PLLC / Ancira Strategies — govt-relations & political consulting firm (Jesse Ancira Jr.)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "'J Ancira Strategies' is J. Ancira Strategies PLLC, a Taylor, TX public-affairs/lobbying/political-consulting firm run by Jesse Ancira Jr. (former Taylor mayor and chief of staff to House Speaker Joe Straus). Registered Texas lobby client. Entity donor to George Morales.",
+  "source_url": "https://www.corporationwiki.com/Texas/Taylor/jesse-ancira/32953183.aspx",
+  "affiliations": [
+   {"org": "J. Ancira Strategies PLLC", "role": "lobbying / political consulting firm", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/client/j-ancira-strategies-llc"}
+  ]
+ },
+ {
+  "donor_id": "tcv-7121c355-66cb-4f14-bbbd-47e1ebb4f502",
+  "name": "Rather, Jean",
+  "resolved_employer": "Independent visual artist (painter/collage); wife of journalist Dan Rather (d. Nov 2024, Austin)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Jean (Goebel) Rather, born Smithville, TX 1935, was a painter and collage artist and former Vice Chair of NYC's Art Commission; wife of Dan Rather for 67 years, she lived in Austin and died there in Nov 2024. Downtown Austin 78701, gift to Brigid Shea in 2022 during her Austin residency.",
+  "source_url": "https://www.cbsnews.com/news/jean-rather-wife-of-dan-rather-dies-age-89/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-63498d0e-b779-42a0-8a7d-ac2a930c22b4",
+  "name": "Latson, Ed",
+  "resolved_employer": "Austin Regional Manufacturers Association (ARMA) — founder/CEO; later CEO of Opportunity Austin",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ed Latson founded and led ARMA, an Austin manufacturing trade/advocacy association, matching the record's 'CEO / ARMA'; in Oct 2023 he became CEO of Opportunity Austin (regional economic development). Austin 78759, gift to Andy Brown 2022. Trade-association exec, not himself a defense contractor.",
+  "source_url": "https://www.prnewswire.com/news-releases/opportunity-austin-names-ed-latson-as-first-chief-executive-officer-301934971.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-61c0e99e-5c88-4304-bcef-60f4ad0f06a3",
+  "name": "Sallis, Lance",
+  "resolved_employer": "Sallis Commercial Real Estate, Inc. — President; licensed TREC broker",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Lance Richard Sallis is a licensed Austin real estate broker (TREC #407246, since 1990) and President of Sallis Commercial Real Estate, Inc., at 3105 Crowheart Cove, Austin 78746 — exact zip match to the record's 'Real Estate / Self-Employed / 78746'.",
+  "source_url": "https://licensee.io/real-estate/407246-lance-richard-sallis-tx/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5edbdb62-67b8-478d-bca4-85beef312416",
+  "name": "Crossett, Scott",
+  "resolved_employer": "Apple Leasing — founder/President (vehicle leasing & auto dealer, Austin)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Scott Crossett founded Apple Leasing in 1985 and is its President; the company is at 12205 Hunters Chase Dr, Austin 78729 — exact zip match. Auto/vehicle leasing and pre-owned dealer. Gift to Jeff Travillion 2023.",
+  "source_url": "https://appleleasing.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5c5990ab-1dd5-4724-9478-d91aec350e3c",
+  "name": "Stitt, Mike",
+  "resolved_employer": "Easy Tiger (bake shop & beer garden) — CEO; 'ET Holdings' = Easy Tiger holding entity",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Mike Stitt was named CEO of Austin's Easy Tiger (bake shop/beer garden) in 2020; 'ET Holdings' on the record almost certainly = Easy Tiger's holding company (ET initials + his documented Easy Tiger role). Austin 78703, gift to Andy Brown 2022. Inference on the 'ET' expansion, hence medium.",
+  "source_url": "https://www.restaurant-hospitality.com/people/easy-tiger-names-mike-stitt-ceo-and-announces-plans-open-large-scale-venue-south-lamar-austin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4dfabf07-48f4-48d4-95e0-82f1ba785c58",
+  "name": "vanVoorhis, Jill",
+  "resolved_employer": "Stratecom Advisors, LLC — Principal (public affairs / political & business-development consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Jill van Voorhis is Principal at Stratecom Advisors, LLC, an Austin-area public-affairs/business-development consultancy that also runs political campaigns, matching record 'Strategy / Self'. Austin 78746, prolific Dem donor (387 FEC gifts, lean 1.0), gift to Andy Brown 2021.",
+  "source_url": "https://www.linkedin.com/in/jill-van-voorhis-a021345/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-47a5ab71-29df-4314-a80f-51de26501c6d",
+  "name": "Reagan Sr., William (Mr.)",
+  "resolved_employer": "Reagan Outdoor Advertising / Reagan National Advertising — founder (billboard/outdoor advertising)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "The distinctive designation 'William Reagan Sr.' matches the named founder (1965) of Reagan Outdoor Advertising / Reagan National Advertising, the billboard company whose Austin arm litigated City of Austin v. Reagan National Advertising (SCOTUS 2022). West Lake Hills 78746 and a Republican lean (0.23) fit; personal Austin residence not fully confirmed, hence medium.",
+  "source_url": "https://www.reaganoutdoor.com/company/company-history/",
+  "affiliations": [
+   {"org": "Reagan Outdoor / Reagan National Advertising", "role": "founder (outdoor/billboard advertising)", "category": "business", "source_url": "https://en.wikipedia.org/wiki/City_of_Austin,_Texas_v._Reagan_National_Advertising_of_Austin,_Inc."}
+  ]
+ },
+ {
+  "donor_id": "tcv-40d32d87-b513-49c6-a6af-76392612628b",
+  "name": "Carroll, Angel",
+  "resolved_employer": "Measure (data-activism nonprofit) — Director of Advocacy; owner, Angel Carroll Consulting Group; 2024 TX HD-52 candidate",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Angel Carroll is a Williamson County progressive Democrat, Director of Advocacy at Measure, owner of a nonprofit-advocacy consulting group, VP of Black Austin Democrats, and 2024 TX House District 52 candidate. Austin/Round Rock 78717 and strongly Dem lean (0.98) match; gift to George Morales 2026.",
+  "source_url": "https://ballotpedia.org/Angel_Carroll",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3da8dba7-6463-46ac-9773-4fc69c9af274",
+  "name": "Joseph, Brian",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on record and 'Brian Joseph' is a common name; a $500 gift to Travillion and 138 FEC donations (lean 0.87) are insufficient to corroborate a specific individual. Not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "tcv-2279a014-fab1-4ad8-b340-c4958596575c",
+  "name": "Lewis, Willie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Round Rock 78665 donor to Jeff Travillion; strong Democratic FEC history (lean 0.99, 24 gifts) but no occupation/employer given and 'Willie Lewis' could not be uniquely resolved to a specific person/career.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1ec6ab8c-b070-4da9-a892-2e13713c913d",
+  "name": "Bellocchio, Brenda",
+  "resolved_employer": "Dr. Brenda Bellocchio, DDS - public health dentist, CommunityCare (FQHC), South Austin",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Brenda L. Bellocchio, DDS (UT San Antonio dental school 1981) is a public-health dentist at a federally qualified health center at 2529 S 1st St, Austin 78704 - matches donor zip 78704; gave to Brigid Shea.",
+  "source_url": "https://www.ehealthscores.com/care-lzffqqzwtf-brenda-bellocchio-austin.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1b7a33c6-b2f0-4138-9b57-4569e6ad6e90",
+  "name": "Ausley, Robbie",
+  "resolved_employer": "Longtime Austin civic activist / community volunteer (reproductive health, women's rights, school reform); wife of family-law attorney Thomas L. Ausley",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Robbie Ausley is a well-documented Austin progressive civic leader/activist (FOX 7 profile 'A life of activism'); married to Thomas L. Ausley of family-law firm GoransonBain Ausley. Gave to Ann Howard; heavy Democratic FEC donor (lean 1.0, 360 gifts). No zip on record, so identification rests on the distinctive name + activism profile.",
+  "source_url": "https://www.fox7austin.com/video/fmc-gmbbe4xw65nnz4i2",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-16183173-f879-4e88-94d9-d50438749fe9",
+  "name": "Golding, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor to Jeff Travillion with no zip, no occupation, and no FEC history. A Robert Louis Golding exists in Austin 78703 (WKLF Consulting LLC), but with no corroborating detail in the record the specific person cannot be confirmed.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-14bf897a-8902-495d-baae-8395f7972a42",
+  "name": "Covert, Nicole",
+  "resolved_employer": "Self-employed philanthropic/civic consultant; nonprofit board leader (Dell Children's Medical Center, Ann Richards Foundation, Seton, Lady Bird Johnson Wildflower Center)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Nicole Nugent Covert, daughter of Luci Baines Johnson and granddaughter of President Lyndon B. Johnson; West Austin (78703, matches donor zip) civic/philanthropic figure married to Brent Covert (Covert Auto family). Listed as self-employed consultant; gave to Travis County Judge Andy Brown.",
+  "source_url": "https://westaustinnews.com/forrest-profiles/nicole-covert/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0f3e0c6c-8ddd-4d98-a563-d23db2e50c04",
+  "name": "Sesil, Joseph",
+  "resolved_employer": "MWH Constructors - Senior Vice President (construction management / heavy-civil); formerly VP at Stantec, AECOM, Earth Tech",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Joe Sesil, based in Austin per LinkedIn, is SVP at MWH Constructors (Broomfield CO) with a civil/construction background; a Joseph E. Sesil FEC gift came from Denver, consistent with the Broomfield employer. Now shows Austin residence (78703); gave to Brigid Shea in 2025.",
+  "source_url": "https://www.zoominfo.com/p/Joseph-Sesil/1474589620",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-048a872f-def7-4ab0-b5d2-ead293dfa449",
+  "name": "Kaighin, James",
+  "resolved_employer": "Kaighin & Clemons Advisory Team - CFP wealth manager / financial planner (self-employed), 3305 Northland Dr, Austin 78731",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "James G. Kaighin, Jr., CFP runs Kaighin & Clemons wealth management at Austin 78731 (matches donor zip and self-reported 'Financial Planning / Self Employed'); Momentum Independent Network advisor. Gave to Andy Brown.",
+  "source_url": "https://www.kaighinclemons.com/James-G---Kaighin,-Jr-,-CFP.e461450.htm",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-025bc9ff-bb6a-45ce-a2ec-d496cf4eb68d",
+  "name": "Charlie Baird Law Firm",
+  "resolved_employer": "Baird Law Firm, PLLC - criminal-defense firm founded by Charlie Baird (former Travis County 299th District judge and Texas Court of Criminal Appeals judge), 8700 Menchaca Rd, Austin 78748",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Baird Law Firm PLLC is Charlie (Charles F.) Baird's Austin criminal-defense practice; firm address 78748 matches donor zip. Gave to George Morales.",
+  "source_url": "https://bairdlawfirm.us/attorney-profile/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a8de49f-3625-4781-9134-0198cf731ed7",
+  "name": "Valdez, Ruben",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired ('Ret') Austin 78736 donor to George Morales with a mixed FEC history (lean 0.64, 54 gifts). 'Ruben Valdez' is a very common Texas name and no former career could be confirmed for this specific person.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-11c50c4d-eabb-4f3e-b828-254bb1dfb5f7",
+  "name": "Smith, Ted",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor (San Jose, CA 95112) to Brigid Shea with no occupation, employer, or FEC history. 'Ted Smith' is far too common to resolve to a specific person.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-11f09745-994b-441b-bee2-875ce3ea26b4",
+  "name": "Muse, Christine",
+  "resolved_employer": "Christy Muse - conservation nonprofit consultant (land & water policy, land protection); former Chief External Relations Officer at Shield Ranch; founding board member Travis County Parks Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Christy (Christine) Muse of Spicewood 78669 (matches donor zip) is a Hill Country conservation professional whose clients include Save Barton Creek Association, Commission Shift and Westcave Preserve; gave to environmentally-aligned Travis commissioners Brigid Shea and Ann Howard.",
+  "source_url": "https://www.sciencemill.org/christy-muse",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0ac35c59-752a-40f7-910d-338931d28bb6",
+  "name": "Brown, Fletcher",
+  "resolved_employer": "Fletcher H. Brown - health-care / administrative-regulatory attorney (Phelps Dunbar, formerly Waller Lansden Dortch & Davis), Austin",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Fletcher H. Brown is a board-certified Austin health-law attorney (Texas Bar since 1991) who chaired the board of a federally certified Austin health clinic; gave to Ann Howard. Residence zip 78736 (SW Austin) is unconfirmed against his office (78701), so identity rests on the distinctive name + Austin legal profile.",
+  "source_url": "https://www.phelps.com/professionals/fletcher-h-brown.html",
+  "affiliations": []
+ }
+]

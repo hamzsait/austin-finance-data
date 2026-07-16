@@ -1,0 +1,128 @@
+[
+ {
+  "donor_id": "tcv-d56b2169-9faa-4a11-afe0-81841aec388f",
+  "name": "Dwight, Diane",
+  "resolved_employer": "Retired solo-practice attorney (M. Diane Dwight)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "M. Diane Dwight is a State Bar of Texas attorney (retired, solo firm) listed at 6409 Soter Pkwy, Austin, TX 78735 -- zip matches the donor record exactly.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=166384",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d4458ffe-0ea7-4517-b107-e27cc8a1faeb",
+  "name": "Hayes, Emmitt",
+  "resolved_employer": "LTBL (Let There Be Light) Consultants, founder/CEO; retired 2014 as Director, Probation Services Division, Travis County Juvenile Probation Dept.",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Emmitt W. Hayes Jr. of Austin retired in 2014 as Director of the Probation Services Division at the Travis County Probation Dept and now runs LTBL Consultants (workforce development / juvenile-justice training); Travis County Commissioners Court appointed him a trustee of Austin Travis County Integral Care. Gave to Travis County commissioner Jeff Travillion, consistent with his county career.",
+  "source_url": "https://theorg.com/org/integral-care/org-chart/emmitt-w-hayes",
+  "affiliations": [
+   {"org": "Austin Travis County Integral Care (Board of Trustees)", "role": "Trustee (county-appointed)", "category": "civic", "source_url": "https://www.traviscountytx.gov/images/board-committee/appointees.pdf"}
+  ]
+ },
+ {
+  "donor_id": "tcv-cd044ebc-23e3-4999-8d08-195cad53afb0",
+  "name": "Lloyd Doggett for Congress",
+  "resolved_employer": "Federal campaign committee of U.S. Rep. Lloyd Doggett (D-TX)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is not an individual but the principal campaign committee of longtime U.S. Congressman Lloyd Doggett (D-Austin); the record self-identifies occupation 'Congressman', employer 'U.S. Congress', Austin 78702. A candidate committee making a transfer to a local Democratic candidate (George Morales).",
+  "source_url": "https://www.fec.gov/data/committee/?q=Lloyd+Doggett",
+  "affiliations": [
+   {"org": "Lloyd Doggett for Congress", "role": "Democratic federal candidate committee", "category": "political", "source_url": "https://www.fec.gov/data/committee/?q=Lloyd+Doggett"}
+  ]
+ },
+ {
+  "donor_id": "tcv-cc564705-bed8-4576-a485-84d928438e34",
+  "name": "Morgan, Cameron",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common name in Manor, TX 78653 with no occupation/employer in the record and only 2 lifetime FEC gifts; multiple unrelated 'Cameron Morgan' public records exist and none could be confirmed as this specific donor.",
+  "source_url": "https://www.spokeo.com/Cameron-Morgan/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c93af298-c462-4160-9190-03a31ec1d60d",
+  "name": "Hershey, Jessica",
+  "resolved_employer": "Jessica Hershey Styles (own hair salon), 1213 W 5th St, Austin 78703",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Record lists occupation 'Hairstylist / Self'. Jessica Hershey Styles was an appointment-only hair salon at 1213 W 5th St, Austin, TX 78703 (since closed ~2024) -- zip matches; confirms a self-employed Austin hairstylist by this name.",
+  "source_url": "https://yelp.com/biz/jessica-hershey-styles-austin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c35fec31-2d84-4d2c-9947-4fd993e4cbb5",
+  "name": "Prisant, Martin",
+  "resolved_employer": "SCDP, Inc. (Small Contractor Development Program) and Accu Count Inventory Control Company, President",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Martin A. Prisant, president of SCDP Inc. and Accu Count Inventory Control, resides in Austin 78746 (registered at his home address; zip matches). LinkedIn notes ~20 years in the engineering and construction world in business development/management across South Texas.",
+  "source_url": "https://www.linkedin.com/in/martin-a-prisant-8642127/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bcca2ce3-b383-4768-a64e-f2920eb3d6c1",
+  "name": "Gosselink, Margaret",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Likely the Margaret (L.) Gosselink of Austin who appears with Paul G. Gosselink (environmental/utility attorney at Lloyd Gosselink Rochelle & Townsend) on the Paramount Theatre supporters list; her own occupation/employer could not be established and the record has no zip. Not confidently classifiable.",
+  "source_url": "https://www.austintheatre.org/support-us/memberships/supporters/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b6218a15-5aaa-40d9-85cc-c83a3b857bb1",
+  "name": "Price, Ann-Marie",
+  "resolved_employer": "Texas Health & Human Services (health-policy professional); prior roles at Central Health, Baylor Scott & White, Texas Health Institute, Texas House of Representatives",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Ann-Marie Price of Austin 78704 (zip matches) is a 20+ year health-policy professional -- Texas HHS, former Legislative Director in the Texas House, Health Policy Consultant at Texas Health Institute, and prior roles at Central Health and Baylor Scott & White. Gift to Travis County commissioner Ann Howard is consistent with the Central Health tie. A second same-named Austin resident (Governor's Office advisor) exists, so identity is probable rather than certain.",
+  "source_url": "https://www.linkedin.com/in/amprice1/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-af7c9fbf-4858-46f8-b29c-47836b670777",
+  "name": "Campbell, Wilda",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78703 donor (gift Dec 2021); a Wilda J. Campbell obituary dates to Aug 2022, but no Austin occupation/employer could be corroborated for this specific person. Not confidently classifiable.",
+  "source_url": "https://www.legacy.com/obituaries/name/wilda-campbell-obituary?pid=107790168",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a92567eb-8bc5-4c37-ba17-771de6868ae8",
+  "name": "Lehman, Chris",
+  "resolved_employer": "The Christopher Lehman Company (commercial real-estate appraisal), Austin -- MAI-designated appraiser",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Christopher K. Lehman runs The Christopher Lehman Company, an Austin MAI-designated commercial real-estate appraisal firm (a City of Austin appraisal-services vendor). Name and firm match; donor uses an Austin PO-box zip (78765) vs. the firm's 78704 address, so the identification is strong but not certain.",
+  "source_url": "https://asc.gov/individual-appraiser-public/434440",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9bbe4893-031f-498a-bd6b-1e48b8014ff7",
+  "name": "Schechter, Lillie",
+  "resolved_employer": "Political consultant / fundraiser (Lillie Schechter Consulting / Bayou City Strategies); former Chair, Harris County Democratic Party (2017-2021)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lillie Schechter of Houston 77006 (zip matches; record occupation 'Consultant / Self') is a longtime Texas Democratic political strategist and fundraiser who chaired the Harris County Democratic Party 2017-2021 and later ran for Texas Democratic Party chair. Gift to Travis County Democratic figure Andy Brown fits.",
+  "source_url": "https://www.reformaustin.org/politics/former-harris-county-dem-chair-aims-to-lead-state-party/",
+  "affiliations": [
+   {"org": "Harris County Democratic Party", "role": "Chair, 2017-2021", "category": "political", "source_url": "https://www.harrisdemocrats.org/our-party/staff"}
+  ]
+ },
+ {
+  "donor_id": "tcv-8dd2c542-6e75-4357-967a-c9ec42663528",
+  "name": "Blair, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Very common name in the affluent 78746 (West Lake Hills) area; multiple 'Robert Blair' records exist (an attorney, a Thomson Reuters account executive, others) but none could be confirmed as this specific donor, and the record carries no occupation/employer. Not confidently classifiable.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=229622",
+  "affiliations": []
+ }
+]

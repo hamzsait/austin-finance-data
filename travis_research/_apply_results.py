@@ -27,7 +27,7 @@ for f in sorted(glob.glob(os.path.join(ROOT, "empbatch_*_results.json"))):
             e_skipped += 1
 
 d_applied = d_skipped = aff_added = 0
-for f in sorted(glob.glob(os.path.join(ROOT, "donorbatch_*_results.json"))):
+for f in sorted(glob.glob(os.path.join(ROOT, "donorbatch*_results.json"))):
     for v in json.load(open(f, encoding="utf-8-sig")):
         if v.get("industry") and v.get("confidence") in ("high", "medium"):
             cur.execute("""UPDATE donor_identities SET resolved_industry=?,

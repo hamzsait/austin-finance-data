@@ -1,0 +1,132 @@
+[
+ {
+  "donor_id": "tcv-4949a2b0-0847-47a6-a756-5d05d44bc45b",
+  "name": "Stuart, Claire",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Gave $1,000 to Travis County Commissioner Ann Howard (2021); prolific Democratic donor (FEC lean 1.0, 25 donations). No zip, occupation, or employer in the filing, and 'Claire Stuart' is too common to tie to a specific person without corroborating detail. Not classified.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-41255de9-1568-422e-99d4-855b6585af76",
+  "name": "Gilliland, Douglas",
+  "resolved_employer": "Managing Director, Taurus Investment Holdings; developer of the Whisper Valley master-planned community (geothermal 'geo-grid' homes) in NE Travis County",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Douglas Gilliland is the Austin real-estate developer behind Whisper Valley, a master-planned community NE of Austin, and managing director of Taurus Investment Holdings. He gave to Commissioner Jeff Travillion, whose Precinct 1 contains Whisper Valley - a strong contextual match. (No zip in filing; identity rests on the developer/precinct alignment.)",
+  "source_url": "https://thehill.com/policy/equilibrium-sustainability/3883082-a-clean-energy-texas-suburb-goes-national/",
+  "affiliations": [
+   {"org": "Whisper Valley / EcoSmart Solutions (geothermal-powered master-planned community)", "role": "Developer / Managing Director, Taurus Investment Holdings", "category": "business", "source_url": "https://thehill.com/policy/equilibrium-sustainability/3883082-a-clean-energy-texas-suburb-goes-national/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-3ed85e48-a3b8-4d9a-838f-a96ad6cdc820",
+  "name": "Adler, Stephen",
+  "resolved_employer": "Attorney (eminent-domain / civil-rights law, Fritz Byrne PLLC); former Mayor of Austin 2015-2023",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Stephen 'Steve' Adler is a longtime Austin eminent-domain/civil-rights attorney and served as Mayor of Austin (2015-2023). Gave $1,000 to Commissioner Jeff Travillion in Nov 2021 while serving as mayor; matches his profile as a prominent Austin Democrat and heavy Dem donor (FEC lean 1.0, 105 donations). (No zip in filing.)",
+  "source_url": "https://en.wikipedia.org/wiki/Steve_Adler_(politician)",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3b6df988-d5a1-4aa7-8ec4-89e86fd6b5d7",
+  "name": "Vick, Michael",
+  "resolved_employer": "Mineral/royalty-rights owner, Roxton TX (Michael Mayfield Vick); Vick Charitable Foundation",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Michael Mayfield Vick of Roxton, TX (zip 75477 matches filing) holds ~43 mineral/royalty interests across 11 Texas counties and is tied to the Roxton-based Vick Charitable Foundation. Rural NE-Texas donor who gave $1,000 to Travis County Commissioner Ann Howard (2024). Occupation inferred from documented mineral holdings.",
+  "source_url": "https://www.mineralholders.com/texas/roxton/michael-mayfield-vick/809260",
+  "affiliations": [
+   {"org": "Oil & gas / mineral royalty interests (43 mineral interests, 11 counties)", "role": "Mineral / royalty rights owner", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/roxton/michael-mayfield-vick/809260"}
+  ]
+ },
+ {
+  "donor_id": "tcv-362c0fa0-39e0-4056-bc3a-8536c983875c",
+  "name": "Peruzzi, William",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor in Cheltenham, PA (zip 19012) who gave once to Commissioner Jeff Travillion (2017); single lifetime FEC donation. Could not confirm a specific person or occupation; a Peruzzi Auto Group exists in nearby Fairless Hills, PA but no link can be verified. Not classified.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1fbae024-bffd-413f-89b6-1eccdc2dfd57",
+  "name": "Susan Spatero",
+  "resolved_employer": "Retired (self-reported former career in the financial sector)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Filing self-reports occupation 'Financial' and employer 'Retired'; gave $1,000 to Commissioner Margaret Gomez (2021). Industry classification rests on the self-reported occupation - no independent web presence found to confirm which specific person this is.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1d7d4ca6-e429-4734-af0a-58cb26138eee",
+  "name": "Dawson, Rhett",
+  "resolved_employer": "President, Running Brook Properties, Inc. (Austin real-estate/property company)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Austin donor at zip 78703 is Rhett M. Dawson, president of Running Brook Properties, Inc. (addresses at 1717 W 6th St / 508 Baylor St, 78703). NOTE: he is NOT the well-known Reagan-era defense figure Rhett B. (Brewer) Dawson - Packard Commission director / Senate Armed Services staff director - who lived in Annapolis, MD and died Feb 2026; data aggregators conflate the two. No military-defense affiliation applies to this Austin donor.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/rhett-m-dawson/30221489.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1a19cc48-e115-4c08-88a1-a8e1eb3c9b63",
+  "name": "Seals, Bradley",
+  "resolved_employer": "Bradley N. Seals - solo attorney (wills, trusts & probate), 2301 Lawnmont Ave, Austin 78756",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Bradley N. Seals is an Austin solo-practice attorney (wills/trusts/probate) at 2301 Lawnmont Ave #3, Austin TX 78756 - address zip matches the filing exactly. Gave to Commissioner Ann Howard (2023-2024).",
+  "source_url": "https://lawyers.findlaw.com/profile/view/1594229_1",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-168637e5-5c6d-4fef-b69f-e4a1ef7c4b84",
+  "name": "Kirk Watson Campaign",
+  "resolved_employer": "Campaign committee of Kirk Watson (Mayor of Austin; former Texas state senator and former Austin mayor)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual - this is the candidate campaign committee of Kirk Watson (current Austin Mayor, former TX state senator). Recorded as a $1,000 political committee transfer to Travillion and Howard (2021).",
+  "source_url": "https://en.wikipedia.org/wiki/Kirk_Watson",
+  "affiliations": [
+   {"org": "Kirk Watson for Austin (candidate committee)", "role": "Campaign committee", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Kirk_Watson"}
+  ]
+ },
+ {
+  "donor_id": "tcv-141eb345-cac2-435d-8a78-3b65ce17f7ae",
+  "name": "Lloyd Doggett For Congress",
+  "resolved_employer": "Campaign committee of U.S. Rep. Lloyd Doggett (D-Texas)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual - this is the federal campaign committee of longtime U.S. Representative Lloyd Doggett (D-Austin). Recorded as political committee transfers to Travillion and Howard (2021).",
+  "source_url": "https://en.wikipedia.org/wiki/Lloyd_Doggett",
+  "affiliations": [
+   {"org": "Lloyd Doggett for Congress (candidate committee)", "role": "Campaign committee", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Lloyd_Doggett"}
+  ]
+ },
+ {
+  "donor_id": "9ea7dbc8-7a57-4207-935b-333431aaf2c1",
+  "name": "Van Bavel, Nick",
+  "resolved_employer": "D9 Group LLC (Austin) - government/corporate-relations; previously Executive Director of Corporate Relations, UT Austin",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Nick van Bavel (Austin 78751, matches filing) runs/works at D9 Group LLC and publicly posts on Texas semiconductor policy, CHIPS funding, and government affairs; formerly UT Austin corporate relations. Gave to Andy Brown (Travis County Judge, former TCDP chair) in 2025. Firm's exact nature (government-relations consulting) inferred from his profile.",
+  "source_url": "https://www.linkedin.com/in/nickv7/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e7694f6e-5853-4701-9910-8bc4d30cde4c",
+  "name": "Limon MERCADO, DYANA",
+  "resolved_employer": "'Dyana for County Clerk' campaign account - Dyana Limon-Mercado, Travis County Clerk (former Travis County Democratic Party chair; ex-ED Planned Parenthood Texas Votes)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual donor in the ordinary sense - this is the campaign account of Dyana Limon-Mercado, elected Travis County Clerk (took office Jan 2023). Recorded as a political committee transfer to George Morales (2023). Zip 78745 Austin.",
+  "source_url": "https://ballotpedia.org/Dyana_Limon-Mercado",
+  "affiliations": [
+   {"org": "Dyana for County Clerk (candidate committee)", "role": "Campaign committee / candidate", "category": "political", "source_url": "https://ballotpedia.org/Dyana_Limon-Mercado"}
+  ]
+ }
+]
