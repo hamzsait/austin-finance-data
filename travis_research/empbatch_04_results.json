@@ -1,0 +1,365 @@
+[
+ {
+  "employer_id": "tcv-e5addf32-c2b3-4d3b-9ed1-949118e7b75c",
+  "name": "C3Presents",
+  "industry": "Entertainment",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "C3 Presents is the Austin-based live-events promoter behind Austin City Limits Fest and Lollapalooza; donor occupation 'Promoter' matches.",
+  "source_url": "https://www.c3presents.com/"
+ },
+ {
+  "employer_id": "tcv-dca391c5-05d4-4cfd-98c6-4d5594617449",
+  "name": "Animal Association of Texas",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Name suggests a Texas animal-welfare association/advocacy group, but no specific entity could be confirmed; no donor occupation to corroborate.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-cc7e2a79-6b6e-4f7b-9195-595924581b73",
+  "name": "TSL",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Unresolved firm abbreviation; donor occupation 'Attorney' indicates a legal employer but the specific firm 'TSL' could not be identified.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-c9a7f5b6-730d-421d-ad0e-a46dd0330157",
+  "name": "Pete McRae Consultancy LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Named consultancy LLC; Pete McRae is a business/executive-performance coaching consultant (partner at Mark Kamin & Associates).",
+  "source_url": "https://mka-world.com/our-team/peter-mcrae/"
+ },
+ {
+  "employer_id": "tcv-bf55f044-1475-41b0-b479-78c6af3a207e",
+  "name": "Law Offices of Nathaniel Mack III, PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Name is a solo law practice (PLLC) 'Law Offices of...'; clearly a legal employer.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-a64a1d12-58d8-4c36-ae0d-340d4e83c872",
+  "name": "Friese & Associates",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "K Friese + Associates is an Austin civil-engineering consulting firm (water/wastewater/transportation), since merged into Lochner; donor occupation 'Engineer' matches.",
+  "source_url": "https://www.linkedin.com/company/k-friese-&-associates-inc."
+ },
+ {
+  "employer_id": "tcv-a4945906-10f6-4e3a-9a12-93689f4f3aa3",
+  "name": "Bulle Rock",
+  "industry": "Finance",
+  "interest_tags": "private-equity",
+  "confidence": "medium",
+  "evidence": "Bulle Rock Partners/Capital is a Dallas-based hedge fund / SEC-registered investment adviser; donor occupation 'Finance' corroborates.",
+  "source_url": "https://adviserinfo.sec.gov/firm/summary/142363"
+ },
+ {
+  "employer_id": "tcv-76a020aa-59ad-4ac4-9c5d-b74fbc659d41",
+  "name": "CTA BuildMT PAC",
+  "industry": "Construction",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Build Montana / BuildMT is a workforce & advocacy initiative of the Montana Contractors Association (AGC chapter); a construction-industry political committee.",
+  "source_url": "https://buildmontana.org/"
+ },
+ {
+  "employer_id": "tcv-693d33e0-d3bd-4695-9b03-2f427e29e337",
+  "name": "Council on Foreign Relations",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "The Council on Foreign Relations is a nonprofit foreign-policy think tank / membership organization.",
+  "source_url": "https://www.cfr.org/"
+ },
+ {
+  "employer_id": "tcv-6743f6f6-6290-4576-aa0a-791c9ee91b1f",
+  "name": "Scott Atlas",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Scott Atlas is a former Vinson & Elkins / Weil Gotshal corporate-litigation partner, now president of Atlas Counsel Search LLC; donor occupation 'Legal consultant' matches.",
+  "source_url": "https://www.linkedin.com/in/scottatlas/"
+ },
+ {
+  "employer_id": "tcv-6388be23-b2b1-42e1-b232-4b9a04fd0d45",
+  "name": "CREMX-US, LLC",
+  "industry": "Finance",
+  "interest_tags": "private-equity",
+  "confidence": "medium",
+  "evidence": "Austin-registered LLC associated with CREMX / Redwood Private Real Estate Debt Fund, a private real-estate credit investment vehicle.",
+  "source_url": "https://www.cremxfund.com/"
+ },
+ {
+  "employer_id": "tcv-4b7c0831-2642-4485-ab2f-4ffd8ecd2b22",
+  "name": "ARIV Wealth",
+  "industry": "Finance",
+  "interest_tags": "insurance-finance",
+  "confidence": "high",
+  "evidence": "ARIV Wealth is an Austin women-owned wealth-management / financial-advisory firm (investment advisory, estate planning); donor occupation 'Wealth Management' matches.",
+  "source_url": "https://www.arivwealth.com/"
+ },
+ {
+  "employer_id": "tcv-418720e8-ac50-4158-90f9-a333a7f33edb",
+  "name": "Gonzalez, Andres - LAN-PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "LAN-PAC is the political committee of LAN (Lockwood, Andrews & Newnam), a Texas infrastructure/engineering firm; donor occupation 'Consultants'.",
+  "source_url": "https://lan-inc.com/"
+ },
+ {
+  "employer_id": "tcv-412ea9f7-6c30-44c3-8b63-067c231f6259",
+  "name": "Patrick Terry",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Patrick Terry is co-founder/owner of P. Terry's Burger Stand, an Austin restaurant chain; donor occupation 'Restaurant Owner' matches.",
+  "source_url": "https://pterrys.com/about/"
+ },
+ {
+  "employer_id": "tcv-2d21dd84-4dfd-477d-a17a-3a1ac476d8bc",
+  "name": "Kirk Watson PAC",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Political committee tied to Kirk Watson, Mayor of Austin and former state senator; an officeholder political committee.",
+  "source_url": "https://www.austintexas.gov/department/mayor-kirk-watson"
+ },
+ {
+  "employer_id": "tcv-2d13aa2b-6603-4efa-a569-5d5037513205",
+  "name": "xAI",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "xAI is Elon Musk's artificial-intelligence company; donor occupation 'Human Resources'.",
+  "source_url": "https://x.ai/"
+ },
+ {
+  "employer_id": "tcv-202ee0ff-7572-4be9-a721-a3b564ed9778",
+  "name": "The Parks Group Inc.",
+  "industry": "Finance",
+  "interest_tags": "insurance-finance",
+  "confidence": "high",
+  "evidence": "The Parks Group, Inc. is an Austin-based managing general insurance agency; its president Robert McEwen matches donor occupation 'President'.",
+  "source_url": "http://parksgroup.com/"
+ },
+ {
+  "employer_id": "tcv-034c67b3-9511-405f-a862-f255cc31e650",
+  "name": "Klotz Associates PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "PAC of Klotz Associates (now RPS Klotz Associates), a Texas civil-engineering firm (transportation, water, land development).",
+  "source_url": "https://ebionline.org/2015/02/25/rps-group-acquires-klotz-associates/"
+ },
+ {
+  "employer_id": "tcv-011f309d-4f05-4f77-b0a6-088ea8b988e5",
+  "name": "Winstead PC PAC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "PAC of Winstead PC, a major Texas business law firm.",
+  "source_url": "https://www.winstead.com/"
+ },
+ {
+  "employer_id": "f194b3fc-f6a7-4a2e-b3e5-57388c7bf614",
+  "name": "ET",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Two-letter employer 'ET' with occupation 'CEO' is too ambiguous to identify (could be Energy Transfer or an unrelated firm); not confidently resolvable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "ecbef18a-2a0e-4800-ae23-fc7c08c5931f",
+  "name": "FourLeaf Productions",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Named 'Productions' company with donor occupation 'Event producer' indicating an event-production/services business.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "eb3e4827-ebef-425a-b68c-8649c4c81654",
+  "name": "Houston Tower",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Variant 'Houston Tower Law PLLC' plus donor occupation 'Attorney' identify a law practice.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "eabe4483-a6bf-4470-b027-e225511623a5",
+  "name": "Beatty Navarre Strama",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Beatty Navarre Strama, P.C. is an Austin litigation/healthcare/public-policy law firm; donor occupation 'Attorney' matches.",
+  "source_url": "https://www.bnsfirm.com/attorneys/"
+ },
+ {
+  "employer_id": "e84bff5c-6181-46c6-9090-6f57a41a9a81",
+  "name": "BARRON, ADLER, CLOUGH & ODDO, LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Barron, Adler, Clough & Oddo, LLP is an Austin law firm (eminent domain / condemnation); donor occupation 'Attorney'.",
+  "source_url": "https://www.barronadler.com/"
+ },
+ {
+  "employer_id": "dd3a4993-90ba-493e-8464-c1081292aed8",
+  "name": "Connor Lee & Shumaker PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Connor Lee & Shumaker PLLC is an intellectual-property law firm; donor occupation 'Patent Attorney' matches.",
+  "source_url": "https://www.clstriallaw.com/"
+ },
+ {
+  "employer_id": "caa907bd-cc1e-468d-a8dc-10f16c86bd91",
+  "name": "Qualico Communities",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,homebuilders",
+  "confidence": "high",
+  "evidence": "Qualico Communities is an integrated land developer/homebuilder (with an Austin office) developing residential communities; donor occupation 'Regional Development Manager' matches.",
+  "source_url": "https://www.qualico.com/"
+ },
+ {
+  "employer_id": "96c1a52b-4411-454c-a0a3-206e66e1ebe6",
+  "name": "Vacek Kiecke & Colmenero LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Vacek Kiecke & Colmenero LLP is an Austin law firm (estate/probate); donor occupation 'Attorney'.",
+  "source_url": "https://www.vkctax.com/"
+ },
+ {
+  "employer_id": "87b41316-b021-4fe8-a8e7-b2e7ecae4708",
+  "name": "Campaign Manager",
+  "industry": "Government",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Occupation field 'Jay Kleberg for Texas Land Commissioner' shows this is a political campaign employer (campaign manager role).",
+  "source_url": ""
+ },
+ {
+  "employer_id": "6c9cb8e3-c8f2-4c41-9bef-a9de5674d1ca",
+  "name": "HPE",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "HPE is Hewlett Packard Enterprise, an enterprise IT/technology company; donor occupation 'Management'.",
+  "source_url": "https://www.hpe.com/"
+ },
+ {
+  "employer_id": "48607d52-0798-4934-8cb5-4f50c625de64",
+  "name": "Cain & Skarnulis",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Cain & Skarnulis PLLC is an Austin litigation law firm; donor occupation 'Attorney'.",
+  "source_url": "https://www.cstrial.com/"
+ },
+ {
+  "employer_id": "4254d49b-2a43-49f8-af8f-8b650df1dbfd",
+  "name": "ARMA",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'ARMA' with occupation 'CEO' is ambiguous (could be ARMA International records-mgmt association or an unrelated company); not confidently resolvable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "331e32b3-0d4c-4f0a-9b1a-da0de31a7288",
+  "name": "JP Energy",
+  "industry": "Energy / Environment",
+  "interest_tags": "fossil-fuel-advocacy,energy-mineral-rights",
+  "confidence": "medium",
+  "evidence": "JP Energy Partners LP (Irving, TX) is a crude-oil/NGL midstream oil & gas company; donor occupation 'Energy' matches.",
+  "source_url": "https://www.crunchbase.com/organization/jp-energy-partners",
+  "affiliations": [
+   {"org": "JP Energy Partners LP", "role": "employer (oil & gas midstream)", "category": "oil_gas", "source_url": "https://www.crunchbase.com/organization/jp-energy-partners"}
+  ]
+ },
+ {
+  "employer_id": "2853dfea-8fa9-46fb-bb36-9f159bd7dc95",
+  "name": "ODC Firm",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "'Firm' plus donor occupation 'ATTY' indicate a law firm, though the specific firm could not be identified.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "251b0a13-4f23-442f-8d3e-b9aad1888ea0",
+  "name": "Miller & Chevalier",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Miller & Chevalier is a Washington, D.C. law firm (tax/litigation); donor occupation 'Lawyer'.",
+  "source_url": "https://www.millerchevalier.com/"
+ },
+ {
+  "employer_id": "20be7d89-4685-4aa8-ac03-078e209ef7dc",
+  "name": "Graham Development Co.",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "high",
+  "evidence": "'Development Co.' with donor occupation 'Real Estate' indicates a real-estate development company.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "203d2837-9d35-4854-bda6-50f9c0c18786",
+  "name": "LEVY DYKEMA",
+  "industry": "Architecture",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "LEVY DYKEMA is an Austin architecture/interior-design firm (formed by Levy Architects + Dykema Architects); donor occupation 'Architect' matches.",
+  "source_url": "https://www.levydykema.com/"
+ },
+ {
+  "employer_id": "176602f0-5d12-4272-a3f0-5a66642a79cf",
+  "name": "The Graydon Group",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "The Graydon Group (now Graydon Strama Lucio) is an Austin public-affairs / government-relations advocacy firm; donor occupation 'Public Affairs' matches.",
+  "source_url": "https://gsladvocacy.com/"
+ },
+ {
+  "employer_id": "0b7d6372-fbb0-4653-85bc-4eafa82e516d",
+  "name": "Goodway Group",
+  "industry": "Media",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Goodway Group is a digital-marketing / programmatic-advertising agency; donor occupation 'Account Director' matches.",
+  "source_url": "https://goodwaygroup.com/"
+ },
+ {
+  "employer_id": "tcv-5a7b849b-2779-43ea-8611-0b4ca5d3b284",
+  "name": "Gueros Taco Bar",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Gueros Taco Bar is a well-known South Congress (Austin) restaurant; donor occupations 'Owner / Restaurant owner' match.",
+  "source_url": "https://www.gueros.com/"
+ },
+ {
+  "employer_id": "tcv-19c95b84-946a-4d83-a2dd-c279113b8875",
+  "name": "Bird's Barbershop",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Bird's Barbershop is an Austin-based barbershop/salon chain (founded 2006, nine-plus locations); consumer personal-services retail business.",
+  "source_url": "https://birdsbarbershop.com/"
+ }
+]

@@ -1,0 +1,108 @@
+[
+ {
+  "donor_id": "61949885-e679-4b98-b0b3-831a7b4325aa",
+  "name": "Winkler, Matthew",
+  "resolved_employer": "Asuragen (founder & chairman; also founded Ambion) — retired",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Matt Winkler, PhD, is the founder & chairman of Asuragen, an Austin molecular-diagnostics company (oncology/genetics); he earlier founded biotech-reagent firm Ambion (sold research division to Applied Biosystems in 2006). West Lake Hills 78746 matches his Austin-area residence; occupation 'Chairman/Retired' and employer 'Asuragen' corroborate. Strong Democratic donor (FEC lean 1.0, 124 gifts).",
+  "source_url": "https://asuragen.com/community/culture-and-heritage/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0114702f-e5b8-4e0a-a7de-4642b0457c13",
+  "name": "Scott, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer on file; 'John Scott' is an extremely common name in Austin and the 78736 (Oak Hill) zip alone is not enough to distinguish a specific individual. Only 2 FEC gifts. Could not corroborate identity; not classifying.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8ac24c07-c7db-428b-baf6-caacbee4b3b3",
+  "name": "Ganesh, Sai",
+  "resolved_employer": "ePsolutions, Inc. (CEO)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Sai Ganesh is CEO of ePsolutions, Inc., an Austin software company (founded 2004) that builds back-office/billing/EDI software (emPower platform) for Retail Electric Providers. Occupation 'CEO' + employer 'ePsolutions Inc' + Austin 78745 all match. Prolific Democratic donor (FEC lean 1.0, 279 gifts). Note: the firm serves the energy-retail market but is itself a software vendor, not an energy producer.",
+  "source_url": "https://www.epsolutions.com/about-our-history-epsolutions",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9546992a-578b-46e6-b42d-b7e047ea9c4f",
+  "name": "Gregory, Bob",
+  "resolved_employer": "Texas Disposal Systems (co-founder, president, CEO & 80% owner)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Bob Gregory co-founded Texas Disposal Systems with his brother Jim in 1977; he is president, CEO and 80% owner of TDS and affiliated entities (Texas Disposal Systems Landfill, Texas Organic Products, Garden-Ville). One of the largest independently-owned waste/recycling/resource-management firms in the U.S. Employer string 'Texas Disposal Systems' + occupation 'Environment' match directly. Mixed partisan giving (FEC lean 0.42).",
+  "source_url": "https://www.texasdisposal.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8a5f29d4-24e8-45dd-8950-8c16226cbfb8",
+  "name": "May, David",
+  "resolved_employer": "Luther King Capital Management (LKCM) — Private Client Advisor / VP, CFA",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "David D. May, CFA, is a Private Client Advisor / VP at Luther King Capital Management (LKCM), a large SEC-registered investment advisory firm; he previously co-founded Third Coast Capital Management (Austin) and Ridgecrest Partners (NYC hedge fund) and sits on multiple company boards (Upland Software, ShippingEasy, etc.). Employer 'Lkcm' + occupation 'Investments/Investor' + Austin 78746 match. Mixed partisan giving (FEC lean 0.43).",
+  "source_url": "https://www.lkcm.com/investment/david-d-may/",
+  "affiliations": [
+   {"org": "LKCM Headwater Investments", "role": "senior advisor (private-equity affiliate of LKCM)", "category": "business", "source_url": "https://www.lkcmheadwater.com/our-team/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-ab619280-0f9b-4ef8-9eb6-acb0c87796a9",
+  "name": "Tiemann, Matthew",
+  "resolved_employer": "Tiemann Land and Cattle Development, Inc. (President); TX real estate agent / investor",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Matthew (Robert) Tiemann of Pflugerville is President of Tiemann Land and Cattle Development, Inc., a licensed TX real estate agent (lic. 697078, 4421 Rowe Lane, Pflugerville) and active real-estate developer/investor (public filings show ~169 properties across 17 holding cos.; founding board member of Captex, residential concrete/slabs). Unique name + exact Pflugerville 78660 match + gift to local Precinct-1 Commissioner Travillion corroborate. Filing carried no occupation. Republican-leaning single FEC gift (lean 0.0).",
+  "source_url": "https://www.linkedin.com/in/matthew-r-tiemann/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f57543a4-5241-4a57-88ba-e03293987a83",
+  "name": "Irvin Loughlin, Kathleen",
+  "resolved_employer": "Rancho Viejo Ventures (owner/partner); rancher; Travis County mineral-rights holder",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Kathleen Irvin Loughlin is owner/partner/founder of Rancho Viejo Ventures and related LLCs (CKI Rancho Viejo Broadway/Riverview) and lists her occupation as rancher/ranch owner; public records place her in Austin 78703 (Scenic/Greenlee Dr.) matching the filing. She also holds ~26 mineral-rights interests in Travis County. Identity is well-corroborated; industry classed as Real Estate on the strength of the Rancho Viejo real-estate entities (rancher is secondary). Strong Democratic donor (FEC lean 1.0, 116 gifts).",
+  "source_url": "https://www.linkedin.com/in/kathleen-irvin-loughlin-56833a147/",
+  "affiliations": [
+   {"org": "Mineral-rights holdings (Travis County, ~26 interests)", "role": "mineral/royalty owner — commodity type unconfirmed (Central-TX interests may be limestone/aggregate rather than oil & gas)", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/austin/loughlin-kathleen-v-irvin/555752"}
+  ]
+ },
+ {
+  "donor_id": "tcv-0005329e-4fdc-47dd-9e91-0e1677ec427c",
+  "name": "Lloyd Doggett For Congress",
+  "resolved_employer": "Federal campaign committee of U.S. Rep. Lloyd Doggett (D-Austin, TX-37)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual — this is the principal campaign committee of longtime Austin Democratic Congressman Lloyd Doggett (TX-37, serving since 1995), redistributing funds to Travis County Democratic candidates (Travillion, Shea, Howard). Austin PO-box 78763 matches the committee.",
+  "source_url": "https://doggett.house.gov/",
+  "affiliations": [
+   {"org": "Lloyd Doggett for Congress", "role": "Democratic candidate campaign committee", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Lloyd_Doggett"}
+  ]
+ },
+ {
+  "donor_id": "tcv-f83149d8-4bc4-40a2-b0c5-52b6f10afa5c",
+  "name": "Hill, Elliott",
+  "resolved_employer": "Nike, Inc. (President & CEO from Oct 2024; retired 2020–2024 during the donation period)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Elliott Hill is an Austin native who spent his career at Nike, retired in 2020, moved back to Austin, and returned as Nike President & CEO in Oct 2024; during retirement he founded the Travis County Parks Foundation and ran a 2022 charity 'sneakers' auction. Employer strings 'Nike/None/Not Employed' + occupation 'Not Employed/Sneakers' + Austin 78704 + gifts beginning 2022 (his retirement) all fit precisely; no FEC record consistent with a low-profile personal donor.",
+  "source_url": "https://about.nike.com/en/company/people/elliott-hill",
+  "affiliations": []
+ },
+ {
+  "donor_id": "aba2e950-2c1d-4cb4-b5a3-581b08750678",
+  "name": "Johnson, Luci Baines",
+  "resolved_employer": "LBJ Asset Management Partners (chairman/manager, family office); co-founder BusinesSuites",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Luci Baines Johnson is the younger daughter of President Lyndon B. Johnson and Lady Bird Johnson, an Austin businesswoman/philanthropist; since 1993 she has chaired/managed LBJ Asset Management Partners (family office) and co-founded executive-suites firm BusinesSuites. Downtown Austin 78701 + prolific Democratic giving (FEC lean 0.999, 444 gifts) match. Filing lists 'Not Employed' but she is clearly identifiable.",
+  "source_url": "https://en.wikipedia.org/wiki/Luci_Baines_Johnson",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "donor_id": "tcv-fd029d3c-8de4-4822-9939-b19135603bad",
+  "name": "Daniell May, David",
+  "resolved_employer": "Luther King Capital Management (LKCM) — Private Client Advisor / Vice President; formerly co-founder of Third Coast Capital Management (Austin) and Ridgecrest Partners (NYC hedge fund)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "David D. May, CFA is a Private Client Advisor at Fort Worth-based LKCM; TCU grad, sits on multiple company boards (Upland Software, ShippingEasy, LKCM Headwater PE arm). Zip 78746 (Westlake/Austin) and 'Investment Advisor' occupation match his LKCM wealth-management role. Name parses as David Daniell May.",
+  "source_url": "https://www.lkcm.com/investment/david-d-may/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e9ab0980-12df-46e6-9c3c-6e3a9509a1c3",
+  "name": "Meyers, Anne A (Ms.)",
+  "resolved_employer": "Self-employed concert violinist (Anne Akiko Meyers) — Grammy-winning classical violinist based in Pacific Palisades, CA",
+  "industry": "Entertainment",
+  "confidence": "medium",
+  "evidence": "Occupation 'Musician' + Pacific Palisades zip 90272 + name 'Anne A Meyers' (A=Akiko) triangulate to violinist Anne Akiko Meyers, who lives in the Palisades. $5,000 to Travis County Commissioner Brigid Shea (2016) is unusual for a CA musician, so identity is probable but not certain.",
+  "source_url": "https://en.wikipedia.org/wiki/Anne_Akiko_Meyers",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cd65167c-2f56-42e6-8453-680106ba16c4",
+  "name": "Ellis, Luke",
+  "resolved_employer": "Marrs Ellis & Hodge LLP — founding partner, heads eminent domain / condemnation practice; adjunct professor at UT Law",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Luke Ellis is a founding partner of the Austin litigation boutique Marrs Ellis & Hodge, a top-rated Texas eminent-domain attorney representing landowners against condemnation. Firm, occupation ('Partner'), and Austin 78701 all match; FEC shows a consistent Democratic-lean donor (38 gifts).",
+  "source_url": "https://mehlaw.com/attorneys/luke-ellis/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c5173a54-e475-4e2c-ab56-95c48977da82",
+  "name": "Martin, Patsy",
+  "resolved_employer": "JPM Ranch Company (co-owner/rancher, Montague County TX); career nonprofit/political executive — former Exec. Director of Annie's List, founder of I Live Here I Give Here, 2022 Beto for Governor finance chair",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Patsy Woods Martin, lifelong Texas Democrat and philanthropist, co-owns JPM Ranch with husband Jack Martin and maintains a Dallas residence (zip 75201). Occupation 'Rancher'/employer 'JPM Ranch Company' match; she led Annie's List and raised the first $23M for Beto's 2022 race. FEC: 82 gifts, Democratic lean.",
+  "source_url": "https://www.patsyintexas.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c4562377-b97a-434a-8cbb-a56b1d784ca2",
+  "name": "Seekatz, Lori",
+  "resolved_employer": "NextTribe (CEO/founder — online media community for women 45+) and SWB Consulting; the county record lists 'Not Employed'",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Public records place Lori Seekatz at 1807 Rockmoor Ave, Austin 78703 (matches zip). She is CEO/'voice' of NextTribe, an online women's community, with a software/consulting background (SWB Consulting). County 'Not Employed' flag conflicts with active roles, so medium confidence; identity is well corroborated by the 78703 address.",
+  "source_url": "https://nexttribe.com/our-story/lori/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b69e81d0-0739-43e0-8526-cef08a679fc3",
+  "name": "Ballis, John",
+  "resolved_employer": "Ballis Development / Ballis Commercial — Houston commercial real estate developer (Ballis family; partners with Hakeem Olajuwon on real estate assets)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "John Ballis is a Houston (77056 / Uptown-Galleria) commercial real estate developer; Ballis Development/Commercial has decades of Houston development experience and a partnership with retired NBA star Hakeem Olajuwon. Zip and city match; no occupation string in record, and 'John Ballis' is a shared Sr./Jr. name in the same family, hence medium confidence. FEC: 31 gifts, mixed lean (0.37).",
+  "source_url": "https://www.balliscommercial.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-af3b391a-7d28-423f-ab65-d4611844211f",
+  "name": "metni, alan",
+  "resolved_employer": "iFLY Holdings, LLC (Austin) — founder and Executive Chairman; iFLY designs/manufactures indoor-skydiving wind-tunnel systems. Former lawyer (UT Law) and pro skydiver; also an IMSA racing driver",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Alan Metni founded iFLY (SkyVenture), the Austin-based world leader in wind-tunnel/indoor-skydiving systems, and served as CEO then Executive Chairman. Occupation 'engineer', employer 'iFly Holdings LLC', and Austin 78730 zip all match. FEC: 191 gifts, strong Democratic lean.",
+  "source_url": "https://en.wikipedia.org/wiki/Alan_Metni",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a7fe637e-03ba-4c16-b406-2705ce77baa8",
+  "name": "Andy Brown Campaign",
+  "resolved_employer": "Andy Brown for Travis County — Democratic candidate campaign committee (Andy Brown is the Travis County Judge)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is not an individual donor but the campaign committee of Andy Brown (Travis County Judge), making a $5,000 political transfer to fellow Democrat Commissioner Jeff Travillion. Austin 78752 committee address; a candidate/political committee, not a person.",
+  "source_url": "https://www.andybrowntravis.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8f2ea39d-c079-4f53-b188-143fbe0e7273",
+  "name": "Calhoun, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is in Jackson, MS (39201, downtown) with no occupation/employer in the record. 'John Calhoun' is an extremely common name and searches return only the historical statesman plus generic people-search listings. FEC shows a prolific donor (235 gifts, Democratic lean 0.27) but no specific person can be confirmed; not classifying.",
+  "source_url": "https://www.spokeo.com/John-Calhoun/Mississippi/Jackson-Metro",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-54785b91-ca58-494d-9bb9-6dcb132fbf0d",
+  "name": "Canfield, Cash",
+  "resolved_employer": "American Structurepoint, Inc. — President/Partner; civil (transportation) engineer",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Cash Canfield of Fishers, IN (46038, matches zip) is President/partner of American Structurepoint, an Indianapolis engineering & consulting firm; 30 yrs of transportation-project design (Rose-Hulman civil engineering grad). Distinctive name + city corroborate. Out-of-state $5,000 to Travis County's Jeff Travillion; FEC: 6 gifts.",
+  "source_url": "https://www.structurepoint.com/company/leadership/cash-canfield",
+  "affiliations": []
+ }
+]

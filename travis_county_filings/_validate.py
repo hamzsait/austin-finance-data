@@ -40,6 +40,11 @@ KNOWN_FILER_DISCREPANCIES = {
     'pct4_margaret-gomez__2022-07-15_COH': (300.00,
         'All 40 entries verified box-by-box ($24,007.12); corrected cover total reads '
         "$23,707.12 — filer's stated total is $300 below the true itemized sum."),
+    'pct4_george-morales__2026-02-23_COH': (-1000.00,
+        'Filer listed the identical Muniz, Jose Juan $1,000 gift (02/03/2026, Round '
+        'Rock 78681) twice — last slot of A1 page 3/5 AND first slot of page 4/5 '
+        '(verified on both page images); the sworn cover total counts it twice. '
+        'Extraction keeps the single real gift.'),
 }
 
 # Reports with no SUPPORT & TOTALS cover by design (verified by human

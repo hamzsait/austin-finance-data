@@ -1,0 +1,322 @@
+[
+ {
+  "employer_id": "tcv-39f66faa-5251-42af-a8c2-60a8d7cb5e28",
+  "name": "Graydon Strama Lucio Group",
+  "variants": "Graydon Strama Lucio Group",
+  "county_total": 4000,
+  "donor_count": 1,
+  "sample_occupations": "Lawyer"
+ },
+ {
+  "employer_id": "tcv-8f5eb223-1f6b-4bed-8c05-9babb1c78e79",
+  "name": "The Limestone 40 LLC",
+  "variants": "The Limestone 40 LLC",
+  "county_total": 3500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-466961af-12bb-4848-aa1e-9938193d5d12",
+  "name": "Don't Know",
+  "variants": "Don't Know",
+  "county_total": 3230,
+  "donor_count": 11,
+  "sample_occupations": "Consultant,Don't Know,Don't know"
+ },
+ {
+  "employer_id": "tcv-16403632-818f-4942-b63d-0fd8d584b593",
+  "name": "Huitt-Zollars, Inc. Texas PAC",
+  "variants": "Huitt-Zollars, Inc. Texas PAC",
+  "county_total": 3000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "b909d75a-278a-4946-92f2-f619a5a9a539",
+  "name": "WE Communications",
+  "variants": "WE Communications",
+  "county_total": 2585,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "tcv-f45df68d-ac3d-42c7-ae4b-7fa8481f5d08",
+  "name": "Lynne Dobson",
+  "variants": "Lynne Dobson",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Business owner philanthropist"
+ },
+ {
+  "employer_id": "tcv-afd0d5df-fd63-438c-9e86-d728a429ecfa",
+  "name": "Dawlett Group LLC",
+  "variants": "Dawlett Group LLC",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Owner"
+ },
+ {
+  "employer_id": "tcv-afc6c164-b87d-4330-916b-624b83f88af2",
+  "name": "Peacock Capital Holdings, LLC",
+  "variants": "Peacock Capital Holdings, LLC",
+  "county_total": 2500,
+  "donor_count": 0,
+  "sample_occupations": "Don't Know"
+ },
+ {
+  "employer_id": "tcv-99494d2a-9500-4a06-85c5-bf2b29ed46b5",
+  "name": "AppViewX",
+  "variants": "AppViewX",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "COO"
+ },
+ {
+  "employer_id": "tcv-7a132aca-0c36-422e-80fb-22e40cb51657",
+  "name": "Jack Kirfman VOTE PAC",
+  "variants": "Jack Kirfman VOTE PAC",
+  "county_total": 2500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-79a088db-fbd8-43ce-ac1b-8a256371890b",
+  "name": "East Creek ATX, LLC",
+  "variants": "East Creek ATX, LLC",
+  "county_total": 2500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-66d7dd33-3f46-4763-bd96-fd9a47d36f3a",
+  "name": "Aldous Law",
+  "variants": "Aldous Law",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-5c9c94db-3f5b-4b7f-877f-e8799e249ae1",
+  "name": "Austin Eagle Landscaping",
+  "variants": "Austin Eagle Landscaping",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "President"
+ },
+ {
+  "employer_id": "tcv-54594a9b-2d5d-4911-8e9d-8fa05e2254fb",
+  "name": "Plan A Locations",
+  "variants": "Plan A Locations",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Entertainment industry,Entertainment Industry"
+ },
+ {
+  "employer_id": "tcv-45edb5a8-f215-4e43-a38d-dd5d03cedaf3",
+  "name": "Lazard",
+  "variants": "Lazard",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Senior Advisor"
+ },
+ {
+  "employer_id": "tcv-408135db-7917-4567-9cc2-8e5e772e7761",
+  "name": "Sente Mortgage",
+  "variants": "Sente Mortgage",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "tcv-32dd1b11-ff6a-4fcc-bc47-1bc4f08d926a",
+  "name": "SAI GANESH",
+  "variants": "SAI GANESH",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "SELF EMPLOYED"
+ },
+ {
+  "employer_id": "db6a7e2e-4724-4e5c-b36d-7e951db318dc",
+  "name": "Eller Group",
+  "variants": "Eller Group|Eller Group LLC",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "98362346-7698-48ed-aede-aa44855f782a",
+  "name": "Thoma Bravo",
+  "variants": "Thoma Bravo",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Operating Partner"
+ },
+ {
+  "employer_id": "8b47cfde-1f00-43cb-b1a7-d21194ed46cc",
+  "name": "Johnson and Johnson",
+  "variants": "Johnson & Johnson|Johnson and Johnson",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "73ecdac3-e185-4f6b-aa23-dc7182f62f55",
+  "name": "Tex Mix Partners",
+  "variants": "Tex Mix Partners|Tex-Mix Partners",
+  "county_total": 2500,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-23c17a3d-a6bf-46f8-bdb4-9dc1e81f511f",
+  "name": "Rick Freeman PC",
+  "variants": "Rick Freeman PC",
+  "county_total": 2100,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-9f8ccb59-ea8b-44af-bc3b-d587aefbbbd7",
+  "name": "RPS Infrastructure, Inc. PAC",
+  "variants": "RPS Infrastructure, Inc. PAC",
+  "county_total": 2000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-703d1678-5fad-4b93-8540-1e075fc0f345",
+  "name": "Heart of Manor LP",
+  "variants": "Heart of Manor LP",
+  "county_total": 2000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-631df192-99cd-4e18-bbd2-084fb43f4d56",
+  "name": "Bunker Lee",
+  "variants": "Bunker Lee",
+  "county_total": 2000,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate"
+ },
+ {
+  "employer_id": "tcv-20efc950-58ef-40bf-9d71-73fb18c0ce6f",
+  "name": "HDR, Inc. Employee Owners PAC",
+  "variants": "HDR, Inc. Employee Owners PAC",
+  "county_total": 2000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "e3a39147-2e38-4585-859d-37523f85cd7f",
+  "name": "BCL",
+  "variants": "BCL",
+  "county_total": 2000,
+  "donor_count": 1,
+  "sample_occupations": "Business Consultant"
+ },
+ {
+  "employer_id": "tcv-d5dac0a9-528d-4726-a5fd-104e0d81af6f",
+  "name": "Jackson, Keith - HNTB Holdings Ltd., PAC",
+  "variants": "Jackson, Keith - HNTB Holdings Ltd., PAC",
+  "county_total": 1700,
+  "donor_count": 0,
+  "sample_occupations": "Infrastructure Solutions"
+ },
+ {
+  "employer_id": "tcv-ee461f46-d8af-49e9-9724-154d52b88a92",
+  "name": "GPS Policy Group LLC",
+  "variants": "GPS Policy Group LLC",
+  "county_total": 1500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-8f860aac-b38a-48a5-8154-ac5c60683573",
+  "name": "Bangle & Potter PLLC",
+  "variants": "Bangle & Potter PLLC",
+  "county_total": 1500,
+  "donor_count": 2,
+  "sample_occupations": "Attorney,Lawyer"
+ },
+ {
+  "employer_id": "c1eb3946-a889-43a2-9cc6-9be3fc4958ce",
+  "name": "Partner",
+  "variants": "Partner",
+  "county_total": 1500,
+  "donor_count": 2,
+  "sample_occupations": "Risun Solutions Inc,Morrison & Head, LP"
+ },
+ {
+  "employer_id": "a4880bda-d678-4501-bfd6-6d765f6d5418",
+  "name": "LOUDHOUSE PRODUCTIONS LLC",
+  "variants": "LOUDHOUSE PRODUCTIONS LLC|Loudhouse Productions LLC",
+  "county_total": 1500,
+  "donor_count": 1,
+  "sample_occupations": "Film and Music Producer"
+ },
+ {
+  "employer_id": "ef358256-5363-4a3a-971d-5e5980484a54",
+  "name": "Principal",
+  "variants": "Principal",
+  "county_total": 1400,
+  "donor_count": 3,
+  "sample_occupations": "Richmond Advisory LLC,Endeavor"
+ },
+ {
+  "employer_id": "1fe2b2b0-c397-400a-8cfb-b79b9934d452",
+  "name": "Moovel",
+  "variants": "Moovel|moovel",
+  "county_total": 1400,
+  "donor_count": 1,
+  "sample_occupations": "Head of Corporate Development"
+ },
+ {
+  "employer_id": "tcv-eed71a61-663c-4d42-86de-3a23dff736fd",
+  "name": "Temenos",
+  "variants": "Temenos",
+  "county_total": 1360,
+  "donor_count": 1,
+  "sample_occupations": "Sales"
+ },
+ {
+  "employer_id": "tcv-ae5888eb-8798-47f1-9cd1-30199ca543ec",
+  "name": "JLL Austin",
+  "variants": "JLL Austin",
+  "county_total": 1300,
+  "donor_count": 2,
+  "sample_occupations": "Managing Director,Executive Vice President"
+ },
+ {
+  "employer_id": "e694ed5e-23eb-47d1-b524-b8541af47f75",
+  "name": "Stepping Stone Schools",
+  "variants": "Stepping Stone Schools|Stepping stone|Stepping stones",
+  "county_total": 1250,
+  "donor_count": 1,
+  "sample_occupations": "Development,Director"
+ },
+ {
+  "employer_id": "695c598e-5681-4509-887e-80fb7e1912b5",
+  "name": "Austin Police Assoc. PAC",
+  "variants": "Austin Police Assoc. PAC",
+  "county_total": 1250,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-e045c5a4-9e56-4b2d-9263-0d28fa46b253",
+  "name": "Mastodon Ventures",
+  "variants": "Mastodon Ventures",
+  "county_total": 1100,
+  "donor_count": 1,
+  "sample_occupations": "Investment Banker"
+ },
+ {
+  "employer_id": "tcv-4c54c609-ec93-4182-b4d0-60b6411d39d6",
+  "name": "Sanders Bajwa LLP",
+  "variants": "Sanders Bajwa LLP",
+  "county_total": 1100,
+  "donor_count": 2,
+  "sample_occupations": "Attorney"
+ }
+]

@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "9a0229e7-935d-4c9a-a26b-3a8513478ed3",
+  "name": "Ellis, Peni",
+  "resolved_employer": "Real estate investor/developer (Ellis Real Estate & Development LLC), Austin; wife of eminent-domain attorney Luke Ellis of Marrs Ellis & Hodge LLP (the firm the county record lists)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Peni Ellis of Austin is a real estate investor/operator (Ellis Real Estate & Development LLC, active in Austin/Del Valle) and is married to Luke Ellis, name partner at property-litigation boutique Marrs Ellis & Hodge; 78703 (west Austin) and the firm name in the county record corroborate. County lists occupation 'Lawyer' but web evidence points to real estate; gave $2,500 to County Judge Andy Brown.",
+  "source_url": "https://elementix.com/investors/tx/peni-ellis",
+  "affiliations": [],
+  "interest_tags": "real-estate-development"
+ },
+ {
+  "donor_id": "tcv-6912b86b-3e91-4943-a64f-4773802a7a4d",
+  "name": "DeJoria, John Paul",
+  "resolved_employer": "Billionaire entrepreneur; co-founder John Paul Mitchell Systems (hair care) and Patron Spirits (tequila); diversified holdings incl. oil/gas, solar, spirits",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "This is THE John Paul DeJoria (Forbes billionaire, co-founder of Paul Mitchell and Patron). He 'calls Austin home' with a Lake Austin mansion; 78733 is the Lake Austin/Cuernavaca area, matching his residence. Strong identity match. Gave $2,400 to County Judge Andy Brown; mixed FEC lean (0.29).",
+  "source_url": "https://www.austinfitmagazine.com/December-2011/at-home-with-john-paul-and-eloise-dejoria/",
+  "affiliations": [
+   {
+    "org": "Madagascar Oil Ltd. / Morocco oil venture / Touchstone Natural Gas / Three Star Energy (sponsored Gustin Energy)",
+    "role": "Investor / owner of multiple oil & gas ventures",
+    "category": "oil_gas",
+    "source_url": "https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/"
+   }
+  ],
+  "interest_tags": ""
+ },
+ {
+  "donor_id": "51707cfb-b019-4329-9050-85ef82161f4a",
+  "name": "Stanford, Hayden",
+  "resolved_employer": "President/executive, Southwest Human Development Services Corp (Austin nonprofit administering USDA child-care food programs), 3309 Hancock Dr, Austin 78731",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Hayden Stanford is listed in Texas state records and directories as president/executive of Southwest Human Development Services Corp, a private Austin nonprofit at 3309 Hancock Dr, 78731 - the same 78731 zip as the donor. Strong Dem FEC lean (0.91), 64 donations; gave $2,280 to Brigid Shea.",
+  "source_url": "https://data.texas.gov/views/pgyj-5euh/rows.csv",
+  "affiliations": [],
+  "interest_tags": ""
+ },
+ {
+  "donor_id": "18248c45-2b71-4355-b321-736af7301432",
+  "name": "Maher, Mary Beth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Mary Beth Maher of Austin, TX holds mineral rights/royalty interests (6 interests across 2 counties per mineralholders.com), matching name+city (78703). This confirms she owns Texas mineral/royalty rights but not an occupation/career; cannot confidently assign an industry. Strong Dem FEC lean (0.94); gave to Brigid Shea and Ann Howard.",
+  "source_url": "https://www.mineralholders.com/texas/austin/mary-beth-maher/575143",
+  "affiliations": [
+   {
+    "org": "Texas mineral/royalty interests (undisclosed operators)",
+    "role": "Mineral/royalty rights owner (passive)",
+    "category": "oil_gas",
+    "source_url": "https://www.mineralholders.com/texas/austin/mary-beth-maher/575143"
+   }
+  ],
+  "interest_tags": "energy-mineral-rights"
+ },
+ {
+  "donor_id": "tcv-4ef0187f-2294-4cac-8732-b5f74ed65f21",
+  "name": "Rentfro, Joe",
+  "resolved_employer": "Managing Director, Thomas Ranch / Arete Collective; Loraloma Club (2,200-acre luxury master-planned community & golf club, Spicewood/Dripping Springs)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Joe Rentfro is Managing Director of Thomas Ranch (Arete Collective), a 2,200-acre luxury master-planned Hill Country community with the Loraloma members-only golf club; a 25-year real estate development executive. Dripping Springs 78620 and the employer strings match exactly. Gave to Andy Brown and Ann Howard.",
+  "source_url": "https://www.linkedin.com/in/joe-rentfro-76851115/",
+  "affiliations": [],
+  "interest_tags": "real-estate-development,luxury-real-estate"
+ },
+ {
+  "donor_id": "tcv-0849c2b9-d401-493c-b022-9b4d1f88ae53",
+  "name": "Jaffe, Morris",
+  "resolved_employer": "Chairman, The Jaffe Group Ltd (family holding company: aviation + real estate; Horseshoe Bay Resort, Summit Rock golf community)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Morris Douglas Jaffe Jr. of Horseshoe Bay is Chairman of The Jaffe Group Ltd, a family holding company whose divisions include aviation and real estate, incl. Horseshoe Bay Resort and the Summit Rock master-planned golf community. Horseshoe Bay 78657 matches his residence. Son (Douglas Jaffe III) now CEO. Mixed FEC lean (0.41), 259 donations; gave $2,060 to Brigid Shea. (Family's late patriarch Morris Jaffe Sr. discovered Texas' first uranium field and ran Fed-Mart; the donor is his son.)",
+  "source_url": "https://www.linkedin.com/in/morris-douglas-jaffe-jr-9a427018b/",
+  "affiliations": [],
+  "interest_tags": "real-estate-development,luxury-real-estate"
+ },
+ {
+  "donor_id": "tcv-fa62636d-4bfd-4db0-ac3e-edba72217c06",
+  "name": "Moore, Jacqueline",
+  "resolved_employer": "Self-employed financial planner (Fair Oaks Ranch)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "A Jacqueline Moore in the Fair Oaks Ranch 78015 area is recorded in FEC data as a self-employed financial planner (e.g., a 2004 contribution to Democrat Chet Edwards for Congress); name + 78015 zip + Democratic giving pattern (FEC lean 0.83) corroborate. Gave $2,030 to Ann Howard.",
+  "source_url": "https://www.city-data.com/elec/elec-FAIR-OAKS-RANCH-TX.html",
+  "affiliations": [],
+  "interest_tags": "insurance-finance"
+ },
+ {
+  "donor_id": "tcv-0dba5116-1c71-4262-a7b3-8be36acdb58a",
+  "name": "Yates, Ira",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor in Grand Junction, CO 81507 who gave to Travis County candidates (Brigid Shea, Ann Howard). Could not confirm this specific individual's occupation or identity through public web sources; the famous Texas oilman Ira Yates is long deceased (d. 1939) and unrelated. Not confidently identifiable - no industry assigned.",
+  "source_url": null,
+  "affiliations": [],
+  "interest_tags": ""
+ },
+ {
+  "donor_id": "13e0ee52-6dd2-4882-8738-9e9d571ed633",
+  "name": "Von Ohlen, Michael",
+  "resolved_employer": "President, Prism Development, Inc. (Austin development / general-contracting firm); longtime City of Austin Board of Adjustment member",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Michael Von Ohlen is President of Prism Development, Inc. (Austin development/GC firm) and a ~16-year member of the City of Austin Board of Adjustment (zoning/variance body). His listed residence 9509 Leaning Rock Cir, Austin 78730-2729 matches the donor's 78730-2729 exactly. Gave $2,030 to Brigid Shea.",
+  "source_url": "https://www.linkedin.com/in/michael-von-ohlen-052a0523/",
+  "affiliations": [],
+  "interest_tags": "real-estate-development"
+ },
+ {
+  "donor_id": "44b05441-74d7-455a-a5f1-41df9e192606",
+  "name": "Ausley, Robbie",
+  "resolved_employer": "Retired Austin community activist / women's-rights & education-reform advocate (Austin Women's Hall of Fame 2017); wife of family-law attorney Tom Ausley",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Robbie Ausley is a longtime Austin activist known for decades of work on women's rights and school reform; inducted into the City of Austin Commission for Women's Hall of Fame in 2017. County record lists 'Retired / Not employed.' Prolific Democratic donor (FEC lean 1.0, 355 donations); gave to Andy Brown, Brigid Shea, and Ann Howard.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=387194",
+  "affiliations": [],
+  "interest_tags": "progressive-money"
+ }
+]

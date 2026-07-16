@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "tcv-fe73961a-400f-4ee4-9a88-c8162dcdfe8d",
+  "name": "Buchan, Rebecca",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor from Holladay, UT (SLC suburb, zip 84117) who gave $2,500 to Ann Howard; no occupation/employer reported and no FEC history. Multiple Rebecca Buchans exist in the SLC area (a prominent hospitality/restaurant interior designer at Denton House/Areté Collective, plus a local Realtor). None can be confirmed as this specific donor, so no industry is assigned.",
+  "source_url": "https://www.spokeo.com/Rebecca-Buchan",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f576d195-29c6-43b6-b57d-cd2cc14c71ff",
+  "name": "LaMantia, Lauren",
+  "resolved_employer": "Favorite Brands / L&F Distributors (LaMantia family beer, wine & spirits distributorship)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Self-reported as 'Beer Manager' at 'Favorite Brands,' the beer/wine/spirits wholesale distributor owned by the LaMantia family; lives in Alamo Heights (78209), the affluent San Antonio suburb where Favorite Brands operates. The LaMantia family has run Texas alcohol distribution (L&F Distributors, an Anheuser-Busch house since 1978, plus Favorite Brands from 2011) for 40+ years. Occupation + employer + location together confirm she is a member/employee of the family beverage-distribution business. 49 prior FEC gifts, slightly Democratic lean.",
+  "source_url": "https://www.fbdistributing.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c8cd6ff4-ec4c-4421-8b52-493a5a5a6806",
+  "name": "Kandula, Ramakrishna",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor from Cedar Park, TX (78613) who gave $2,500 to Ann Howard; no occupation/employer reported and no FEC history. Several people named Ramakrishna Kandula appear in the Austin metro (a Zovest Capital CEO, a Salesforce software architect, a Franklin Templeton accounts-payable supervisor). None can be tied specifically to this Cedar Park zip, so no industry is assigned.",
+  "source_url": "https://www.linkedin.com/in/ramazovest/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c1ec4a7a-a8b4-42f3-92a0-fd2d64f7a555",
+  "name": "Bouchard, CJ",
+  "resolved_employer": "Excel Fitness Holdings (CEO) — one of the largest Planet Fitness franchisees, Austin-based",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "CEO of Excel Fitness (employer string 'Excel'), an Austin-headquartered Planet Fitness franchisee operating 160+ gyms across the South/Southeast; CEO since 2021, in the Planet Fitness system since 2006. Austin 78731 matches. Industry labeled Retail as the closest fit for a consumer fitness/gym operator (no dedicated fitness/consumer-services taxonomy label).",
+  "source_url": "https://www.americanspa.com/press-releases/excel-fitness-announces-cj-bouchard-ceo",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bbc492b9-8a6e-400e-b310-26cca7f106fd",
+  "name": "Roski, Edward",
+  "resolved_employer": "Majestic Realty Co. (President/Chairman) — largest privately held U.S. industrial real estate developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Edward P. Roski Jr., billionaire president/chairman of City of Industry-based Majestic Realty (92M+ sq ft of industrial property); part-owner of the LA Kings and Lakers. Donor zip 91746 = City of Industry, CA, Majestic's home base, confirming identity. Gave $2,500 to Jeff Travillion. (Also a decorated Marine Corps Vietnam combat veteran — Bronze Star, two Purple Hearts — noted for context; he is a real-estate developer, not a defense contractor.)",
+  "source_url": "https://en.wikipedia.org/wiki/Ed_Roski_Jr.",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ad628ec1-4857-4841-8540-876083573f6e",
+  "name": "Varma, Samit",
+  "resolved_employer": "SKV Consulting Inc. (CEO), Austin business-consulting firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Samit Varma (b. 1977) is CEO of SKV Consulting Inc., a Texas-registered business consulting firm at 12201 Musket Rim St, Austin 78738 — the exact donor zip. Public records place his residence in 78738, corroborating identity even though the county record left occupation blank. Gave $2,500 to Ann Howard. (A same-named Samit Varma is CEO of Vironexis Biotherapeutics in Woodland Hills, CA — a different person.)",
+  "source_url": "https://opencorporates.com/companies/us_tx/0802768316",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-913e0a91-fb5f-4930-bb86-07a7fb6e081c",
+  "name": "Weston, Kristin",
+  "resolved_employer": "Thoma Bravo (Operating Partner) — software-focused private equity firm",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Kristin Nimsger Weston has been an Operating Partner at Thoma Bravo (large software/tech private-equity firm) since Nov 2020; prior CEO of Vista Equity portfolio companies (MicroEdge, Social Solutions) and president of Kroll Ontrack. Costa Mesa, CA 78209... zip 92627 matches Costa Mesa. Self-reported 'Operating Partner / Thoma Bravo' matches exactly. Gave $2,500 to Andy Brown.",
+  "source_url": "https://mergr.com/investor/thoma-bravo/team/kristin-nimsger-weston",
+  "affiliations": [
+   {"org": "Thoma Bravo", "role": "Operating Partner (private equity)", "category": "business", "source_url": "https://www.thomabravo.com/team?role=operating-partners-advisors"}
+  ]
+ },
+ {
+  "donor_id": "tcv-838003cb-a13a-44b4-a395-dc057ad21d9f",
+  "name": "Brown, Eric",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor from the Austin 78737 (Dripping Springs/SW Travis) area who gave $2,500 to Ann Howard in 2025; no occupation/employer reported. 'Eric Brown' is too common to identify a specific individual from name + zip alone, and no distinguishing web record could be confirmed. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7d456848-1ac6-41da-ae2f-52a73ee30c5c",
+  "name": "Paul Chope",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (attorney) — municipal tax/debt collection law firm",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Self-reported as 'Attorney at Law' at Linebarger, Goggan, Blair & Sampson, LLP, the large Austin-based firm that handles government/municipal tax and delinquent-debt collection; lives in West Lake Hills (78746). The self-reported occupation/employer reliably places him in Legal. Note: no Texas attorney named 'Paul Chope' could be independently verified; the firm's Austin managing partner is Paul D. Chapa, so the recorded name may be a transcription of Chapa — identity of the specific individual is therefore only medium confidence.",
+  "source_url": "https://www.lgbs.com/attorney/paul-daniel-chapa/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6b6dfa81-ab19-4f90-ba09-901eaf86713f",
+  "name": "Carol Guthrie",
+  "resolved_employer": "AFSCME Texas Local 1624 (business manager) — public-employees labor union",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Carol Guthrie is the longtime business manager of AFSCME Local 1624, the Austin/Travis County public-employees union, and a well-known Austin-area Democratic/labor figure who publicly backed Commissioner Margaret Gómez — the exact candidate she gave $2,500 to. 121 prior FEC gifts with a fully Democratic lean corroborate. Progressive/labor money.",
+  "source_url": "https://austinchronicle.com/news/2022-01-28/the-gloves-come-off-in-travis-county-precinct-4-race",
+  "affiliations": [
+   {"org": "AFSCME Local 1624", "role": "Business Manager", "category": "political", "source_url": "https://austinchronicle.com/news/2022-01-28/the-gloves-come-off-in-travis-county-precinct-4-race"}
+  ]
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "employer_id": "tcv-6023a91d-91bc-44a9-ac0c-cc075f00b939",
+  "name": "Finite State Machine Labs Inc.",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Austin embedded-software company (FSMLabs), holder of RTLinux real-time technology IP; president Victor Yodaiken.",
+  "source_url": "https://pitchbook.com/profiles/company/141162-85"
+ },
+ {
+  "employer_id": "tcv-3daa3a08-259e-4f18-a7a1-610cdd153516",
+  "name": "SAM LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Name too generic to identify a specific firm; sole occupation listed 'Finance' but no confirmable match.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "c70869dd-4f25-4bd0-9a8d-e98f4afd7605",
+  "name": "Rodeo Austin",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Rodeo Austin (Star of Texas Fair & Rodeo) is a 501(c)(3) nonprofit running the Austin livestock show/rodeo and youth scholarships; donor listed as CEO.",
+  "source_url": "https://www.rodeoaustin.com/"
+ },
+ {
+  "employer_id": "tcv-960b388c-7ea0-43e7-b1ac-d1713ce6efa4",
+  "name": "Movitas",
+  "industry": "Transportation",
+  "interest_tags": "transit-trails",
+  "confidence": "medium",
+  "evidence": "Occupation Consultant/Planner matches Movitas Mobility, an Austin transportation-demand-management / mobility-planning consulting firm.",
+  "source_url": "https://www.movitasmobility.com/"
+ },
+ {
+  "employer_id": "tcv-0773c4ff-00a0-44a8-a111-a090e1696bbe",
+  "name": "Ten Eyck",
+  "industry": "Architecture",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Ten Eyck Landscape Architects, prominent Austin landscape-architecture firm (Christine Ten Eyck); occupation Landscape Architect.",
+  "source_url": "https://teneyck-la.com/"
+ },
+ {
+  "employer_id": "tcv-dae124dc-b1e1-4d05-ad0a-c654d50b9b98",
+  "name": "540 N Rossmore Ave",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Not a company but a Los Angeles (Hancock Park) residential address; donor's occupation is 'Entertainment Industry' so classified as Entertainment, but employer identity unconfirmed.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-2b3273e4-117e-4fea-9737-205a9c26b2cf",
+  "name": "Springbox",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Springbox is an Austin digital marketing/strategy agency (now a Prophet company); copy-editor/proofreader occupation fits an ad agency.",
+  "source_url": "https://www.agencyspotter.com/springbox"
+ },
+ {
+  "employer_id": "tcv-1f14483a-e059-484c-b338-adb13e1db410",
+  "name": "The FefCo",
+  "industry": "Consulting / PR",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "medium",
+  "evidence": "The FefCo (founder Rebecca Feferman, ex-SXSW) is an Austin strategy/producing consultancy at the intersection of sports, entertainment and culture; occupation Consultant/Founder.",
+  "source_url": "https://www.thefefco.com/"
+ },
+ {
+  "employer_id": "tcv-e7593fd4-a3bc-4d7c-a679-f4119c343a10",
+  "name": "Univesity of Texas at Austin",
+  "industry": "Education",
+  "interest_tags": "higher-education",
+  "confidence": "high",
+  "evidence": "University of Texas at Austin (spelling variant); occupation Professor.",
+  "source_url": "https://www.utexas.edu/"
+ },
+ {
+  "employer_id": "tcv-c2da37c9-224a-4c4f-b9f4-07d7d8e91b49",
+  "name": "RPS",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Occupation Engineer; RPS Group is an engineering/environmental/energy consultancy with an Austin office (now part of Tetra Tech).",
+  "source_url": "https://www.rpsgroup.com/"
+ },
+ {
+  "employer_id": "tcv-c23cf896-b020-4158-8535-8afdc6531b92",
+  "name": "Gold Rush Vinyl",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Gold Rush Vinyl is a woman-owned Austin vinyl record-pressing plant serving the music industry (founder Caren Kelleher); occupation Entrepreneur.",
+  "source_url": "https://www.goldrushvinyl.com/about-us"
+ },
+ {
+  "employer_id": "tcv-b996a89f-51ab-4a19-aa4a-5f1030818fa9",
+  "name": "Bailey Duquette P.C.",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Bailey Duquette P.C. is a law firm (offices in NY and Austin); occupation Attorney.",
+  "source_url": "https://www.baileyduquette.com/"
+ },
+ {
+  "employer_id": "tcv-a885d2dd-d351-44b8-9792-e21d8171e784",
+  "name": "Judy Trabulsi",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Employer is an individual, not a company: Judy Trabulsi co-founded Austin ad agency GSD&M; donor's role 'Personal Assistant' is private-household employment, so no meaningful industry classification.",
+  "source_url": "https://en.wikipedia.org/wiki/GSD%26M"
+ },
+ {
+  "employer_id": "tcv-9e580566-4095-4f02-b8e2-c4e9b2ee5697",
+  "name": "Intermedia",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Intermedia Cloud Communications is a UCaaS/cloud-communications software company; occupation 'Partner enablement manager' matches its channel-partner org.",
+  "source_url": "https://www.intermedia.com/about-us/who-we-are"
+ },
+ {
+  "employer_id": "tcv-798c89a4-94d7-4dfa-a317-6f5fd96852ae",
+  "name": "SW Regional Director of Transportation",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Field 'Garver' names the employer: Garver is a multidisciplinary engineering firm (transportation/aviation/water); donor is its SW regional transportation director.",
+  "source_url": "https://www.garverusa.com/"
+ },
+ {
+  "employer_id": "tcv-751717ea-0f9b-4956-a5c6-d61b29cbb21e",
+  "name": "Matheson Keys Daffer & Kordzik PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin law firm specializing in energy/utility regulatory law; occupation Attorney.",
+  "source_url": "https://www.mathesonkeys.com/"
+ },
+ {
+  "employer_id": "tcv-70fa6009-c40d-47f4-8507-c5860cef9aff",
+  "name": "Swinerton",
+  "industry": "Construction",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Swinerton is a national commercial general contractor / builder with an Austin office; occupation Division Manager.",
+  "source_url": "https://swinerton.com/"
+ },
+ {
+  "employer_id": "tcv-54797de8-7622-494e-bef1-b5d39919ebba",
+  "name": "Greenber Traurig",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Greenberg Traurig (spelling variant), a large international law firm with an Austin office; occupation Attorney.",
+  "source_url": "https://www.gtlaw.com/"
+ },
+ {
+  "employer_id": "tcv-50e1aaa5-bfa8-4316-86a7-c6b84027c10d",
+  "name": "iAct",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Interfaith Action of Central Texas (iACT), an Austin interfaith nonprofit running refugee ESL, housing rehab and dialogue programs; occupation Director.",
+  "source_url": "https://interfaithtexas.org/"
+ },
+ {
+  "employer_id": "tcv-40d3574a-27e4-4b53-bde2-d1e44980c490",
+  "name": "Southeast Laborers District Council PAC (Org statement attached)",
+  "industry": "Labor",
+  "interest_tags": "progressive-money",
+  "confidence": "high",
+  "evidence": "Political action committee of the Southeast Laborers' District Council (LIUNA laborers' union); occupation 'Labor Public Employees'.",
+  "source_url": "https://www.liuna.org/"
+ },
+ {
+  "employer_id": "tcv-30c3925b-ec06-4b78-b9e3-ce572bf7db17",
+  "name": "FBHF",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Occupation 'Attorney at law'; FBHF is the Austin law firm Fritz, Byrne, Head & Fitzpatrick (now Fritz Byrne).",
+  "source_url": "https://fbhg.law/"
+ },
+ {
+  "employer_id": "tcv-29201b71-6376-4b6e-b39c-66c88063045a",
+  "name": "Quantico",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous name and occupation 'Pensioner'; no specific employer confirmable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-1f6f36ab-1e54-48e3-acd1-1b10cb145a0c",
+  "name": "Baer Engineer",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Baer Engineering & Environmental Consulting, an Austin firm doing civil/water/environmental engineering; occupation Professional Engineer.",
+  "source_url": "https://baereng.com/"
+ },
+ {
+  "employer_id": "c78cd7a2-373d-464c-bb63-7cccdaad77c5",
+  "name": "Austin Rec Center",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Employer 'Austin Rec Center' does not match the donor's occupation 'Emergency Physician'; likely a data-entry artifact, cannot classify reliably.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "c4d601f7-101a-475a-9a2d-ef80d8d3373b",
+  "name": "Granger & Mueller",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Granger & Mueller, P.C. is an Austin law firm (variants show 'PC').",
+  "source_url": "https://opencorporates.com/companies/us_tx"
+ },
+ {
+  "employer_id": "c42eaecb-1f49-49e1-89b1-4d4952bd4aad",
+  "name": "Quality Power LLC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin electrical/power-systems engineering firm owned by two professional engineers (Basheer Mohamed, Gopal Guthikonda); occupation Engineer.",
+  "source_url": "http://www.qualitypowerllc.com/about-us.html"
+ },
+ {
+  "employer_id": "a5802a07-4489-461d-93fc-ad1a907f1c2d",
+  "name": "Friends of the Children Texas",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Friends of the Children is a youth-mentoring nonprofit; occupation Executive Director.",
+  "source_url": "https://friendsofthechildren.org/"
+ },
+ {
+  "employer_id": "984ebe95-6d82-4dca-a99e-47ff05924e28",
+  "name": "Sheryl Cole & Assoc",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "medium",
+  "evidence": "Consulting firm of Sheryl Cole, former Austin mayor pro tem and Texas House member; government-relations/consulting.",
+  "source_url": "https://en.wikipedia.org/wiki/Sheryl_Cole"
+ },
+ {
+  "employer_id": "918d7bc8-e363-45e0-9b9e-6557fededb70",
+  "name": "Grissom & Associates",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Occupation 'PR'; Grissom & Associates operates as a public-relations/communications consultancy.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "78c78ab0-3d1c-4da2-a295-de85752eaf1c",
+  "name": "Couch Family Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "A private family grantmaking foundation (donor's other variant references UWATX/United Way); occupation Grants Manager.",
+  "source_url": "https://www.couchfamilyfoundation.org/"
+ },
+ {
+  "employer_id": "7270a461-8480-4b11-b7a8-5f5cfae7cd69",
+  "name": "UTSA",
+  "industry": "Education",
+  "interest_tags": "higher-education",
+  "confidence": "high",
+  "evidence": "University of Texas at San Antonio; occupation Teaching Assistant.",
+  "source_url": "https://www.utsa.edu/"
+ },
+ {
+  "employer_id": "4f706fe9-ef4d-40f2-bc99-8a2ed2994056",
+  "name": "MedNax",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "MEDNAX (now Pediatrix Medical Group) is a national physician services company (neonatology/pediatrics); occupation Physician.",
+  "source_url": "https://www.pediatrix.com/"
+ },
+ {
+  "employer_id": "3f8172f0-e3d3-42df-bdae-9711a5c18445",
+  "name": "Friends of the Children Austin",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin chapter of the Friends of the Children youth-mentoring nonprofit; occupation Executive Director.",
+  "source_url": "https://friendsaustin.org/"
+ },
+ {
+  "employer_id": "1d4eb0ac-a0de-4a45-a266-25de86bb413b",
+  "name": "Whitehurst, Harkness, Brees & Cheng",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin plaintiff/personal-injury law firm (full name includes Alsaffar & Higginbotham); occupation Attorney.",
+  "source_url": "https://www.nationaltriallaw.com/"
+ },
+ {
+  "employer_id": "1cccf1fa-03b6-4f98-b380-e9e75d860d5a",
+  "name": "Richmond Advisory, LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Austin business/project-management consultancy owned by Debra Guilford Richmond (PMP); occupation Owner.",
+  "source_url": "https://www.linkedin.com/in/debra-guilford-richmond-pmp-94703220/"
+ },
+ {
+  "employer_id": "165cf73d-af7f-480d-9037-4b7103799a4d",
+  "name": "Reed & Scardino LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Reed & Scardino LLP is an Austin litigation law firm; occupation Attorney.",
+  "source_url": "https://www.reedscardino.com/"
+ },
+ {
+  "employer_id": "04c562e0-1bfb-47e1-a741-c3b887dfa03b",
+  "name": "San Antonio Professional Firefighters PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Political action committee of the San Antonio Professional Firefighters Association (IAFF Local 624 firefighters' union).",
+  "source_url": "https://www.iaff.org/"
+ },
+ {
+  "employer_id": "4be7f54e-f22b-468d-ab02-8d2a8c5ec534",
+  "name": "ATX Casas, LLC",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Name ('ATX Casas' = Austin houses) and occupation Owner indicate an Austin residential real-estate/property company.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "371705d1-fc3e-4ab0-8752-a97faff2ebae",
+  "name": "Jack Gullahorn, PC",
+  "industry": "Legal",
+  "interest_tags": "political-consulting",
+  "confidence": "medium",
+  "evidence": "Professional corporation of Jack Gullahorn, longtime Austin attorney and Texas lobbyist (founder of the Professional Advocacy Association of Texas); occupation Attorney.",
+  "source_url": "https://www.txethics.org/"
+ },
+ {
+  "employer_id": "27e5fbc8-d49c-471a-b1ac-1783f5b86b77",
+  "name": "Michael and Susan Dell Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "The Michael & Susan Dell Foundation is a major Austin private philanthropic foundation; occupations Nonprofit/Accountant.",
+  "source_url": "https://www.dell.org/"
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "employer_id": "2122cc2d-2c05-4487-acd6-129411ec3e43",
+  "name": "PPTV",
+  "variants": "PPTV|Pptv",
+  "county_total": 25,
+  "donor_count": 1,
+  "sample_occupations": "ED"
+ },
+ {
+  "employer_id": "1b3060b1-d667-45b9-bc73-7b235a1af682",
+  "name": "Andrew Delaney Foundation",
+  "variants": "Andrew Delaney Foundation",
+  "county_total": 25,
+  "donor_count": 1,
+  "sample_occupations": "Administrator"
+ },
+ {
+  "employer_id": "tcv-3ccdd632-f036-44eb-9f47-ba71f02cabc3",
+  "name": "LogDNA",
+  "variants": "LogDNA",
+  "county_total": 23,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-063c5071-b9aa-4e65-86a6-aab9164c5a20",
+  "name": "TCJE",
+  "variants": "TCJE",
+  "county_total": 20,
+  "donor_count": 1,
+  "sample_occupations": "Policy Director"
+ },
+ {
+  "employer_id": "tcv-35c0cef0-8969-466d-a969-9d771e646b38",
+  "name": "Alleaus Health Analytics",
+  "variants": "Alleaus Health Analytics",
+  "county_total": 16,
+  "donor_count": 1,
+  "sample_occupations": "Head of Liens"
+ },
+ {
+  "employer_id": "tcv-417048b8-cc07-41bd-960a-0e744aeba614",
+  "name": "Vizient",
+  "variants": "Vizient",
+  "county_total": 12,
+  "donor_count": 1,
+  "sample_occupations": "RN"
+ },
+ {
+  "employer_id": "085a764c-4d7a-4463-ab0b-0564aa195563",
+  "name": "Govt",
+  "variants": "Govt",
+  "county_total": 12,
+  "donor_count": 1,
+  "sample_occupations": "Admin"
+ },
+ {
+  "employer_id": "tcv-ed0a8d6d-c5f0-463b-8312-a6c9e2575521",
+  "name": "Chalk Ink",
+  "variants": "Chalk Ink",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Marketing"
+ },
+ {
+  "employer_id": "tcv-b44bb76c-3aa5-45d1-92e4-746b0b30e635",
+  "name": "DMASS",
+  "variants": "DMASS",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Marketing Manager"
+ },
+ {
+  "employer_id": "tcv-a9c40444-874c-4f2e-994a-93e4143d8bc6",
+  "name": "Greyhound Lines Inc.",
+  "variants": "Greyhound Lines Inc.",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate"
+ },
+ {
+  "employer_id": "tcv-a38d5fe4-5cee-47ee-ab5a-5d00cf06d71d",
+  "name": "Purveyor Design/Self",
+  "variants": "Purveyor Design/Self",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Interior Designer"
+ },
+ {
+  "employer_id": "tcv-82013253-1a3e-4f95-a88c-03da3d87c7ee",
+  "name": "TX A&M Agrilife Extension",
+  "variants": "TX A&M Agrilife Extension",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Admin Assistant II"
+ },
+ {
+  "employer_id": "tcv-75d6757e-e9e6-4ebd-8251-bdb1b1753a47",
+  "name": "Primerica",
+  "variants": "Primerica",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Financial Services"
+ },
+ {
+  "employer_id": "tcv-6c994c6d-7b64-4e5b-af21-d9e2d38020e3",
+  "name": "Spock Care Management LLC",
+  "variants": "Spock Care Management LLC",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Aging Life Care Manager"
+ },
+ {
+  "employer_id": "tcv-58d576de-d3a3-4aea-9f1a-a30a4dee6792",
+  "name": "Texas A&M Agrilife Extension-EFNEP",
+  "variants": "Texas A&M Agrilife Extension-EFNEP",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Administrative Assistant"
+ },
+ {
+  "employer_id": "tcv-5622d88a-4245-4c7c-8f32-f8591a95afca",
+  "name": "BWM",
+  "variants": "BWM",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Sales"
+ },
+ {
+  "employer_id": "tcv-4ee09ce0-6844-402f-ad06-6fc7e07d26ea",
+  "name": "Bernie Sanders",
+  "variants": "Bernie Sanders",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "National Barnstorm Director & Texas State Director"
+ },
+ {
+  "employer_id": "tcv-2ea4b7e3-b2bf-4df3-ac09-09abe0a16539",
+  "name": "Ferrovial",
+  "variants": "Ferrovial",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "VP HR"
+ },
+ {
+  "employer_id": "tcv-1db1461e-c5d8-4c8a-a5e9-709f341ecfd2",
+  "name": "Vaco Google",
+  "variants": "Vaco Google",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Detection Agent"
+ },
+ {
+  "employer_id": "d54cb58f-a3bc-4bf9-8285-d3c6351e5218",
+  "name": "New Waterloo",
+  "variants": "New Waterloo",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Server"
+ },
+ {
+  "employer_id": "7932c9b7-4f5c-493f-bac5-c452842113be",
+  "name": "Workrise",
+  "variants": "Workrise",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Senior Product Manager"
+ },
+ {
+  "employer_id": "1535d7a9-8ed1-4367-99ff-9888b1c799f6",
+  "name": "Council On At Risk Youth",
+  "variants": "Council On At Risk Youth|Council on At-Risk Youth|Council on At-risk Youth",
+  "county_total": 10,
+  "donor_count": 1,
+  "sample_occupations": "Executive Director"
+ },
+ {
+  "employer_id": "tcv-5eb45e23-5ee2-4ce2-a8d0-7beafff5f3cb",
+  "name": "Inspire Family Health",
+  "variants": "Inspire Family Health",
+  "county_total": 8,
+  "donor_count": 1,
+  "sample_occupations": "Nurse Practitioner"
+ },
+ {
+  "employer_id": "246e97e3-a66e-447e-a5ab-6781f2718734",
+  "name": "Wendy's",
+  "variants": "Wendy's",
+  "county_total": 8,
+  "donor_count": 1,
+  "sample_occupations": "Fry Cook"
+ },
+ {
+  "employer_id": "tcv-b362106b-efc7-4378-b456-1c9e69c56d61",
+  "name": "Commio",
+  "variants": "Commio",
+  "county_total": 7,
+  "donor_count": 1,
+  "sample_occupations": "CSO"
+ },
+ {
+  "employer_id": "tcv-976341bc-34a1-4419-8f29-c7390e136ac4",
+  "name": "PPM",
+  "variants": "PPM",
+  "county_total": 7,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-65f5660c-dc47-4c8f-ad2b-9815caaaa3a6",
+  "name": "TownePark",
+  "variants": "TownePark",
+  "county_total": 7,
+  "donor_count": 1,
+  "sample_occupations": "Valet"
+ },
+ {
+  "employer_id": "tcv-fb7710bb-e0ce-4127-b487-56d1483b1d3f",
+  "name": "Sahara Lounge",
+  "variants": "Sahara Lounge",
+  "county_total": 5,
+  "donor_count": 1,
+  "sample_occupations": "Business owner"
+ },
+ {
+  "employer_id": "tcv-ab6d841f-cb29-4750-add0-9a75bd8f7fb4",
+  "name": "McCartan Law",
+  "variants": "McCartan Law",
+  "county_total": 5,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-6a95e6bd-fd6e-4b7e-9782-1a8575d2a5c3",
+  "name": "Four Seasons Travel and Tours",
+  "variants": "Four Seasons Travel and Tours",
+  "county_total": 5,
+  "donor_count": 1,
+  "sample_occupations": "Travel Tours"
+ },
+ {
+  "employer_id": "tcv-36da139d-5010-4cad-9ed2-c86ea23da9e6",
+  "name": "Unisys",
+  "variants": "Unisys",
+  "county_total": 5,
+  "donor_count": 1,
+  "sample_occupations": "Tech Writer"
+ },
+ {
+  "employer_id": "670deacb-73f2-4839-8858-cd34db3141b7",
+  "name": "MSDF",
+  "variants": "MSDF",
+  "county_total": 5,
+  "donor_count": 1,
+  "sample_occupations": "Accountant"
+ },
+ {
+  "employer_id": "tcv-26269be2-3007-4b86-9cf6-bcbb5dc397df",
+  "name": "The Jewelry Channel dba Liquidation Channel",
+  "variants": "The Jewelry Channel dba Liquidation Channel",
+  "county_total": 4,
+  "donor_count": 1,
+  "sample_occupations": "Television Producer"
+ },
+ {
+  "employer_id": "tcv-bd0893c2-0483-4af3-888e-413cafe9b732",
+  "name": "Tcdd",
+  "variants": "Tcdd",
+  "county_total": 3,
+  "donor_count": 1,
+  "sample_occupations": "Policy analyst"
+ }
+]

@@ -91,23 +91,23 @@ if (v === 'home') {
     <div class="bigcode" style="font-size:104px;margin-bottom:22px">${WM}</div>
     <div class="sub" style="max-width:44ch">Every filing pulled, every dollar matched to its donor. Clear, sourced scorecards &mdash; unbought.</div>
     <div class="stats">
-      <div class="stat"><div class="v">${esc(q.get('seats')||'16')}</div><div class="l">Officials live</div></div>
-      <div class="stat"><div class="v">${esc(q.get('raised')||'$9.0M')}</div><div class="l">Raised &amp; decoded</div></div>
-      <div class="stat"><div class="v">${esc(q.get('donors')||'18,000+')}</div><div class="l">Donors traced</div></div>
+      <div class="stat"><div class="v">${esc(q.get('seats')||'17')}</div><div class="l">Officials live</div></div>
+      <div class="stat"><div class="v">${esc(q.get('raised')||'$9.4M')}</div><div class="l">Raised &amp; decoded</div></div>
+      <div class="stat"><div class="v">${esc(q.get('donors')||'19,000+')}</div><div class="l">Donors traced</div></div>
     </div>`;
 } else if (v === 'soon') {
   sheet.innerHTML = `
     <div class="eyebrow">Coming soon</div>
     <div class="title" style="font-size:88px;margin-bottom:22px">This race isn&rsquo;t<br>decoded&hellip; yet.</div>
-    <div class="sub" style="max-width:42ch">Austin City Council &amp; Travis County money is already live &mdash; donor by donor, 16 officials.</div>`;
+    <div class="sub" style="max-width:42ch">Austin City Council &amp; Travis County money is already live &mdash; donor by donor, 17 officials.</div>`;
 } else if (v === 'austin') {
   sheet.innerHTML = `
     <div class="eyebrow">Austin + Travis County <span class="livepill"><span class="dot"></span>LIVE</span></div>
     <div class="title" style="font-size:92px;margin-bottom:22px">Campaign finance,<br>decoded.</div>
     <div class="stats">
-      <div class="stat"><div class="v">${esc(q.get('seats')||'16')}</div><div class="l">Seats</div></div>
-      <div class="stat"><div class="v">${esc(q.get('raised')||'$9.0M')}</div><div class="l">Raised</div></div>
-      <div class="stat"><div class="v">${esc(q.get('donors')||'18,000+')}</div><div class="l">Donors</div></div>
+      <div class="stat"><div class="v">${esc(q.get('seats')||'17')}</div><div class="l">Seats</div></div>
+      <div class="stat"><div class="v">${esc(q.get('raised')||'$9.4M')}</div><div class="l">Raised</div></div>
+      <div class="stat"><div class="v">${esc(q.get('donors')||'19,000+')}</div><div class="l">Donors</div></div>
     </div>`;
 } else if (v === 'profile') {
   const name = q.get('name') || 'Candidate';

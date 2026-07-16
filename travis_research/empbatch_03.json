@@ -1,0 +1,322 @@
+[
+ {
+  "employer_id": "tcv-7cdf1ff3-a4f6-4ec2-9974-5cb2df29a0fc",
+  "name": "Whitmire & Munoz LLC",
+  "variants": "Whitmire & Munoz LLC",
+  "county_total": 1050,
+  "donor_count": 2,
+  "sample_occupations": "Director Government Relations,Consulting"
+ },
+ {
+  "employer_id": "tcv-f0823bc1-4ea4-48ab-971a-380bb4dd462d",
+  "name": "Fractal Power",
+  "variants": "Fractal Power",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Energy"
+ },
+ {
+  "employer_id": "tcv-e8705468-555d-4b35-9a70-677f6eaaa0c0",
+  "name": "Goodrich",
+  "variants": "Goodrich",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": "Not Employed"
+ },
+ {
+  "employer_id": "tcv-e0d1aec6-941d-4f0a-bd70-3ed75e3d80f4",
+  "name": "Alotten Inc.",
+  "variants": "Alotten Inc.",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "tcv-b9f2f3b1-6ea9-45fd-955b-82812f223cb9",
+  "name": "Evans / DeShazo / Reilley",
+  "variants": "Evans / DeShazo / Reilley",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-adb01c87-b2b8-484e-bf28-2f254508352c",
+  "name": "Texas Protax",
+  "variants": "Texas Protax",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Property Tax Counselor"
+ },
+ {
+  "employer_id": "tcv-a4973c5f-fa23-41fc-a764-5cb9e0d81c09",
+  "name": "Joy Gift Shoppe",
+  "variants": "Joy Gift Shoppe",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Retail Store Owner"
+ },
+ {
+  "employer_id": "tcv-8c99e5a4-8dc9-4638-b971-e53a3fd39c24",
+  "name": "Travis Co. Retiree",
+  "variants": "Travis Co. Retiree",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-8585a851-4884-4327-8741-73a95aa72036",
+  "name": "Joseph Design Build",
+  "variants": "Joseph Design Build",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Developer"
+ },
+ {
+  "employer_id": "tcv-831c736d-25cc-4d37-b42f-24b1164f0d80",
+  "name": "Whole Dudes, LLC",
+  "variants": "Whole Dudes, LLC",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-816f40aa-2a6f-455d-8451-e01ac5c108f2",
+  "name": "Printing",
+  "variants": "Printing",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "self-employed"
+ },
+ {
+  "employer_id": "tcv-78c8acf5-8514-461f-ac1f-bfe65515af35",
+  "name": "Blue Norther Live",
+  "variants": "Blue Norther Live",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Producer and Owner,Producer"
+ },
+ {
+  "employer_id": "tcv-736daaa7-53b8-46f0-967d-2913747dbf70",
+  "name": "EV",
+  "variants": "EV",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "marketing"
+ },
+ {
+  "employer_id": "tcv-683676cf-0cdc-4695-9f15-043beed03767",
+  "name": "Jacques Vroom",
+  "variants": "Jacques Vroom",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Technology"
+ },
+ {
+  "employer_id": "tcv-64f3b17c-b400-438e-be91-c81239981e1e",
+  "name": "K&L Gates LLP Committee for Good Government",
+  "variants": "K&L Gates LLP Committee for Good Government",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-5a2d9046-facf-4601-8ba2-1af0ebca38d0",
+  "name": "D9 Group LLC",
+  "variants": "D9 Group LLC",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-4f788cc5-39c5-4605-9333-b7f78efb042a",
+  "name": "John",
+  "variants": "John",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "tcv-4d1ffe65-6b08-4a1a-98a9-3360947feeeb",
+  "name": "Forterra Developers, LLC",
+  "variants": "Forterra Developers, LLC",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-275becdb-62ce-4631-b08f-b8592487085d",
+  "name": "John Blaha",
+  "variants": "John Blaha",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Self-Employed"
+ },
+ {
+  "employer_id": "tcv-1971b997-7724-42e6-8b7e-df7f6c820f68",
+  "name": "MCM Interests",
+  "variants": "MCM Interests",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Finance"
+ },
+ {
+  "employer_id": "tcv-17b56286-8c1e-4749-9810-ee393b367c10",
+  "name": "Bracewell & Giuliana Committee",
+  "variants": "Bracewell & Giuliana Committee",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-04f34c87-af2c-4846-8d35-f82ae2da1fa1",
+  "name": "SH 71-130 Holdings LP",
+  "variants": "SH 71-130 Holdings LP",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "f554893d-5d62-4404-8cf6-457366f8c445",
+  "name": "GSDM",
+  "variants": "GSDM",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Advertising"
+ },
+ {
+  "employer_id": "e5c6fddc-ab06-4adf-84b5-94d307bc5de7",
+  "name": "O'Hanlon, Demerath & Castillo",
+  "variants": "O'Hanlon, Demerath & Castillo|O'Hanlon, Demerath & Castillo, PC|O'Hanlon, Demerath, & Castillo P.C.",
+  "county_total": 1000,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "cc09118f-7570-474c-924a-27795bbc457e",
+  "name": "Poinsett PLLC",
+  "variants": "Poinsett PLLC",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Attorney,"
+ },
+ {
+  "employer_id": "af514559-f725-45e9-8f27-5cd5d7eb26ce",
+  "name": "Development Director",
+  "variants": "Development Director",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Stepping Stone Schools,"
+ },
+ {
+  "employer_id": "9db99cd1-f8be-4947-bf94-ae6787c6a5af",
+  "name": "IDM",
+  "variants": "IDM",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate"
+ },
+ {
+  "employer_id": "8f3e5e9d-8164-4f2a-9b41-2a6ce71d5297",
+  "name": "Nike",
+  "variants": "Nike",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Sneakers"
+ },
+ {
+  "employer_id": "400155c1-d5f2-41d7-b97c-89eeff5d545e",
+  "name": "Chairman",
+  "variants": "Chairman",
+  "county_total": 1000,
+  "donor_count": 1,
+  "sample_occupations": "Vital Farms"
+ },
+ {
+  "employer_id": "tcv-d4fa5283-0cdf-49c2-ba66-f0ff274663ab",
+  "name": "Ann Gill Howard Campaign Account",
+  "variants": "Ann Gill Howard Campaign Account",
+  "county_total": 750,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-80fdf61e-8c50-42c8-bd50-4bf25a2a1d79",
+  "name": "Mpvc",
+  "variants": "Mpvc",
+  "county_total": 750,
+  "donor_count": 1,
+  "sample_occupations": "RE"
+ },
+ {
+  "employer_id": "tcv-3577472a-e53a-4909-99a7-54f4d8885d58",
+  "name": "Mitchell & Colmenero LLP",
+  "variants": "Mitchell & Colmenero LLP",
+  "county_total": 750,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "f600a514-b946-4db9-bacb-eef16004bae0",
+  "name": "Smart City Policy Group",
+  "variants": "Smart City Policy Group",
+  "county_total": 750,
+  "donor_count": 2,
+  "sample_occupations": "Consultant,Founder"
+ },
+ {
+  "employer_id": "2edb667d-5264-4ae9-aa70-c124b1605698",
+  "name": "Eliza Page",
+  "variants": "Eliza Page",
+  "county_total": 750,
+  "donor_count": 1,
+  "sample_occupations": "Owner"
+ },
+ {
+  "employer_id": "tcv-fb4003a9-cada-4b76-8981-4bd30a9eeada",
+  "name": "Geodesic Capital",
+  "variants": "Geodesic Capital",
+  "county_total": 682,
+  "donor_count": 2,
+  "sample_occupations": "Partner,Geodesic,Venture Capital"
+ },
+ {
+  "employer_id": "tcv-35a347a5-a651-47a3-9c00-e2ac75bc5893",
+  "name": "Snell Law",
+  "variants": "Snell Law",
+  "county_total": 600,
+  "donor_count": 2,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "e1c8c873-725e-4e85-aa22-9764ec54d399",
+  "name": "Texas General Land Office",
+  "variants": "Texas General Land Office|Texas General Land office",
+  "county_total": 600,
+  "donor_count": 1,
+  "sample_occupations": "Senior Deputy Director"
+ },
+ {
+  "employer_id": "add8dbbd-c9e7-4b39-9be4-2ad752476e54",
+  "name": "Zocalo Design",
+  "variants": "Zocalo Design",
+  "county_total": 550,
+  "donor_count": 1,
+  "sample_occupations": "Graphic Design"
+ },
+ {
+  "employer_id": "8de17f97-a71c-4bcf-8a91-b5e3a3675d14",
+  "name": "McGuire Moorman Hospitality",
+  "variants": "McGuire Moorman Hospitality|McGuire Moorman Hospitality LLC",
+  "county_total": 550,
+  "donor_count": 2,
+  "sample_occupations": "Thomas Moorman,Bookkeeper"
+ },
+ {
+  "employer_id": "tcv-f568f175-0374-4ce8-b22f-24e4a3b984a4",
+  "name": "Accelerating Purpose",
+  "variants": "Accelerating Purpose",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ }
+]

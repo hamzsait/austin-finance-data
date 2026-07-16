@@ -1,0 +1,322 @@
+[
+ {
+  "employer_id": "tcv-a2615826-4680-45c2-8b22-fa63091fc546",
+  "name": "MakeATXhome Inc.",
+  "variants": "MakeATXhome Inc.",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate Broker"
+ },
+ {
+  "employer_id": "tcv-a1161b17-90ed-45c5-8937-260cdde9d807",
+  "name": "Yall St",
+  "variants": "Yall St",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Founder"
+ },
+ {
+  "employer_id": "tcv-878c14f6-6c73-4c4d-aa3a-22ab226f77a0",
+  "name": "B&V",
+  "variants": "B&V",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-7c1d5f59-3367-4f49-a24e-c1224c1dba90",
+  "name": "Not known",
+  "variants": "Not known",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Education"
+ },
+ {
+  "employer_id": "tcv-7608ad1c-8ed1-4bbb-90fc-1b9b56cd1312",
+  "name": "Applewhite Firm PLLC",
+  "variants": "Applewhite Firm PLLC",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-72d2e3e9-d030-408a-846a-0b2d2c59d3e2",
+  "name": "Prospect Point Recruiting",
+  "variants": "Prospect Point Recruiting",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-67baf746-d3c0-4213-b6c7-81fdd9009422",
+  "name": "VEA",
+  "variants": "VEA",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Physician"
+ },
+ {
+  "employer_id": "tcv-67267377-309f-4fa4-996a-42e59fa5d2a3",
+  "name": "Overhaul",
+  "variants": "Overhaul",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Client manager"
+ },
+ {
+  "employer_id": "tcv-5a900d09-f7eb-44d0-bdbb-83b2c7030623",
+  "name": "NTT DATA",
+  "variants": "NTT DATA",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-4a20b98d-710b-45e1-99b7-43382d902d1d",
+  "name": "MGA",
+  "variants": "MGA",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "GOVT AFFAIRS"
+ },
+ {
+  "employer_id": "tcv-381e9124-8baa-408a-8113-9340c95ed612",
+  "name": "Magnolia Network",
+  "variants": "Magnolia Network",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Filmmaker"
+ },
+ {
+  "employer_id": "tcv-2e55a2f9-9afa-48e1-ba4c-7ffce78f5d63",
+  "name": "State Office of Risk Management",
+  "variants": "State Office of Risk Management",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Legal"
+ },
+ {
+  "employer_id": "tcv-269d1fd5-ddf8-435d-bfc1-e794d511d34b",
+  "name": "Divergent",
+  "variants": "Divergent",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Tech Principal"
+ },
+ {
+  "employer_id": "tcv-2618cdaf-387f-4c69-b6af-672af39dfd1f",
+  "name": "Thoughtbarn",
+  "variants": "Thoughtbarn",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Architecture"
+ },
+ {
+  "employer_id": "tcv-0da69810-1c65-45c1-ad83-5f5a55c0308e",
+  "name": "Harvest Foundation",
+  "variants": "Harvest Foundation",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "tcv-05805043-9942-4916-ba7c-03dd8d75dcfb",
+  "name": "Saic",
+  "variants": "Saic",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Cloud Engineer"
+ },
+ {
+  "employer_id": "dcb80e11-141c-46f8-9e43-54bd7531a228",
+  "name": "Segal McCambridge",
+  "variants": "Segal McCambridge|Segal Mccambridge Singer & Mahoney",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "d9e16615-2cdc-43d8-8a13-6bc117ef869d",
+  "name": "HOFT Institute",
+  "variants": "HOFT Institute",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Business"
+ },
+ {
+  "employer_id": "c8d5c9d4-15fa-419d-99a0-6d398ee4052e",
+  "name": "Meadows Mental Health Policy Institute",
+  "variants": "Meadows Mental Health Policy Institute",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Mental Health Policy"
+ },
+ {
+  "employer_id": "aa06fb35-265b-4a90-8917-d91b60a5944a",
+  "name": "Arrow Electronics",
+  "variants": "Arrow Electronics|Arrow Electronics?",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Engineer"
+ },
+ {
+  "employer_id": "876e62d3-9440-45a2-9e13-fd9a129bddb7",
+  "name": "HID Global",
+  "variants": "HID Global",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Marketing Manager"
+ },
+ {
+  "employer_id": "52c876d2-9664-4f61-82fe-b4252f32df39",
+  "name": "PM",
+  "variants": "PM|Pm",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Apple"
+ },
+ {
+  "employer_id": "28f54fd9-5ba8-46e4-bdca-77ec2e028643",
+  "name": "Volz & Assoc.",
+  "variants": "Volz & Assoc.|Volz & Associates|Volz & Associates, Inc.",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Interior Designer"
+ },
+ {
+  "employer_id": "28261591-6867-4982-ad8c-cafb4df2b8e1",
+  "name": "PISD",
+  "variants": "PISD",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Substitute Teacher"
+ },
+ {
+  "employer_id": "0b44f739-d6bb-484b-9e4b-87f99832c95a",
+  "name": "Austin Justice Coalition",
+  "variants": "Austin Justice Coalition",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Director"
+ },
+ {
+  "employer_id": "0343ff8d-1def-4292-ba8b-d2319449e428",
+  "name": "city parks",
+  "variants": "city parks",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Administrator"
+ },
+ {
+  "employer_id": "004fb591-30db-4ea1-96c7-6a76ff09ec48",
+  "name": "re:power",
+  "variants": "re:power",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "nonprofit worker"
+ },
+ {
+  "employer_id": "tcv-1ec7418e-3975-492e-b9bb-9e08d79db5cb",
+  "name": "Ballet Austin/Austin Symphony Orchestra",
+  "variants": "Ballet Austin/Austin Symphony Orchestra",
+  "county_total": 49,
+  "donor_count": 1,
+  "sample_occupations": "Theatrical technician"
+ },
+ {
+  "employer_id": "tcv-12b7510c-b143-4524-a6fc-54654d925bdc",
+  "name": "Stun Creative",
+  "variants": "Stun Creative",
+  "county_total": 49,
+  "donor_count": 1,
+  "sample_occupations": "Director"
+ },
+ {
+  "employer_id": "778d0bd4-d7fa-447a-bf0b-1eec49080e4e",
+  "name": "Austin Public Health",
+  "variants": "Austin Public Health",
+  "county_total": 48,
+  "donor_count": 1,
+  "sample_occupations": "Nurse Practitioner"
+ },
+ {
+  "employer_id": "b3654642-ddf4-49c2-92b0-f3ca3447c48f",
+  "name": "Future Now",
+  "variants": "Future Now",
+  "county_total": 44,
+  "donor_count": 1,
+  "sample_occupations": "Regional Political Director"
+ },
+ {
+  "employer_id": "tcv-6b674856-38d9-40c5-8d04-f06360179095",
+  "name": "The Starr Conspiracy",
+  "variants": "The Starr Conspiracy",
+  "county_total": 43,
+  "donor_count": 1,
+  "sample_occupations": "Marketing"
+ },
+ {
+  "employer_id": "tcv-cee3cab5-394e-4115-9ddb-1ce7a662b0e6",
+  "name": "Myriad",
+  "variants": "Myriad",
+  "county_total": 40,
+  "donor_count": 1,
+  "sample_occupations": "Mgmt"
+ },
+ {
+  "employer_id": "tcv-95c75d07-98c4-4fdb-9d55-8d58ee2f6913",
+  "name": "Paul Silver Inc.",
+  "variants": "Paul Silver Inc.",
+  "county_total": 40,
+  "donor_count": 1,
+  "sample_occupations": "Investor"
+ },
+ {
+  "employer_id": "64117377-63b2-4dd1-9b36-d84ac06adafe",
+  "name": "Curative",
+  "variants": "Curative|curative",
+  "county_total": 40,
+  "donor_count": 1,
+  "sample_occupations": "Credentialing Manager"
+ },
+ {
+  "employer_id": "ac0a117c-3122-49c1-916a-94bfbd8767dd",
+  "name": "mmc",
+  "variants": "mmc",
+  "county_total": 35,
+  "donor_count": 1,
+  "sample_occupations": "Contract Employee"
+ },
+ {
+  "employer_id": "5ecc4d19-5055-4f01-8297-b93cbee4cef0",
+  "name": "TX School for Deaf",
+  "variants": "TX School for Deaf",
+  "county_total": 35,
+  "donor_count": 1,
+  "sample_occupations": "Public relations"
+ },
+ {
+  "employer_id": "tcv-1b039a00-2794-472f-969a-b4bc8a30bc18",
+  "name": "Crowe",
+  "variants": "Crowe",
+  "county_total": 31,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-eb7aae48-36cb-4ab1-a11d-f8b384e5d729",
+  "name": "Sunpower",
+  "variants": "Sunpower",
+  "county_total": 25,
+  "donor_count": 1,
+  "sample_occupations": "HR"
+ },
+ {
+  "employer_id": "tcv-db3dde29-20a8-4e18-9e2e-298a64a6acb0",
+  "name": "Tammadge Market Research Inc.",
+  "variants": "Tammadge Market Research Inc.",
+  "county_total": 25,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ }
+]

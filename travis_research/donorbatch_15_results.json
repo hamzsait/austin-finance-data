@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "a81a2758-06b5-4c45-9ace-303a74c06f63",
+  "name": "Martinez, Mike",
+  "resolved_employer": "Self-employed government-affairs / political consultant (pattern consistent with former Austin City Council member Mike Martinez, now of Martinez Strategic Alliances / registered City of Austin lobbyist)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Self-reported 'Consultant / Self', Austin-Manor area (78653), giving to Travis County Democrats Andy Brown and Jeff Travillion - matches profile of a local Democratic government-affairs consultant; a Michael/Mike Martinez runs Martinez Strategic Alliances and is a registered Austin lobbyist. Common name, so identity not fully certain.",
+  "source_url": "https://mtzstrategic.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4f1d3203-07df-45f8-875b-170b33e30ed6",
+  "name": "Graham, Corbin",
+  "resolved_employer": "Graham Development (Principal / managing partner), Austin real estate development firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Corbin Graham is principal of Graham Development (3005 S. Lamar), an Austin real-estate developer (e.g., 7900 S. Congress live-work-play/affordable-housing project); occupation 'Real Estate / Graham Development' and Sunset Valley 78745 location match his firm's South Austin footprint. Strongly Democratic FEC pattern.",
+  "source_url": "https://www.grahamdevelopment.com/team",
+  "affiliations": [
+   {"org": "Graham Development", "role": "Principal / managing partner (real estate developer)", "category": "business", "source_url": "https://www.grahamdevelopment.com/team"}
+  ]
+ },
+ {
+  "donor_id": "tcv-f54ed18c-0392-4d52-8bb6-b3bffa0fa749",
+  "name": "Lohr, John (Mr.)",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Long-time 78703 (Tarrytown) donor to progressive Democrats Brigid Shea and Ann Howard, 2016-2025, no occupation/employer listed. Multiple 'John Lohr' candidates in Austin real estate (a True Life Companies exec; a Lohr Homes builder active in Tarrytown), but none can be confirmed as this donor. Identity unresolved.",
+  "source_url": "https://www.linkedin.com/in/john-lohr-605b3a8/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1e8d491-c186-4c68-a49d-556235ad9fa3",
+  "name": "Golding, Rob",
+  "resolved_employer": "Rodeo Austin (CEO 2016-2022; retired Sept 2022) - nonprofit / Star of Texas Fair & Rodeo; prior careers in banking, executive search, commercial real estate",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rob Golding was CEO of Rodeo Austin (a nonprofit) during the 2021-2022 donation window, retiring Sept 1, 2022; occupation 'CEO / Rodeo Austin' and 78731 Austin location match. Donations to county Democrats Brown, Travillion, Shea.",
+  "source_url": "https://rodeoaustin.com/news/rodeo-austin-announces-ceo-retirement/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-baf80c39-b83f-4f18-9c7a-c551fff1d3ed",
+  "name": "Loyd, Matt",
+  "resolved_employer": "Temenos (banking/financial software company) - sales executive at time of giving; later Apiture / Sirius AI",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Matt Loyd is an Austin-based enterprise sales executive; his LinkedIn confirms a Senior Client Executive role at Temenos (banking software), matching occupation 'Sales / Temenos' and 78749 Austin location.",
+  "source_url": "https://www.linkedin.com/in/mattloyd/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e224359e-0949-4590-aab9-2c387df11763",
+  "name": "Taylor III, John",
+  "resolved_employer": "Not employed (self-reported)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "78751 (Hyde Park), self-reported not employed, with 409 FEC contributions and a strongly Democratic lean - a prolific small-dollar ActBlue-style donor. 'John Taylor' is too common to tie to a specific individual with the available detail; identity unresolved.",
+  "source_url": "https://www.opensecrets.org/donor-lookup/results?name=john+taylor",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-14a57bf9-6c8e-443b-9607-2cd1b530fbcc",
+  "name": "Michel, Lorri",
+  "resolved_employer": "Michel Gray & Rogers LLP (co-founder; Texas property-tax attorney representing property owners)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Lorri Michel is co-founder of Austin firm Michel Gray & Rogers LLP, a leading Texas property-tax attorney (Super Lawyers, UT Law adjunct); downtown 78701 location matches her firm. Gave to Travillion and Shea; Democratic-leaning FEC record.",
+  "source_url": "https://www.michelgray.com/professionals/lorri-michel/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-efc1a1c8-e81e-40bd-b259-2b5a736b582e",
+  "name": "Mattsson, Christine",
+  "resolved_employer": "Joy Gift Shoppe (owner) - Austin boutique gift shop, 3706 Kerbey Lane",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Chris(tine) Mattsson is the owner of Joy Gift Shoppe, a woman-owned Central Austin boutique that opened Oct 2024; occupation 'Retail Store Owner / Joy Gift Shoppe' and Westlake-area 78746 residence match. Democratic FEC pattern.",
+  "source_url": "https://communityimpact.com/austin/south-central-austin/business/2024/10/18/woman-owned-joy-gift-shoppe-now-open-in-central-austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c60e645e-0ec0-40a3-a2ce-38b657c90a3d",
+  "name": "Roski, Edward",
+  "resolved_employer": "Majestic Realty Co. (Chairman/owner) - Edward P. Roski Jr., LA-based commercial real estate developer with an active Austin office and development (Central Austin Business Park)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Record has no zip/occupation, but a single $1,250 gift to Commissioner Jeff Travillion (eastern Travis County, where logistics/industrial land sits) aligns with Edward P. Roski Jr., Chairman of Majestic Realty, which runs an Austin regional office and is building the 1M-sf Central Austin Business Park; Transparency USA lists him as a Texas contributor. Corroboration is circumstantial (no local address in record).",
+  "source_url": "https://www.majesticrealty.com/office-austin-texas/",
+  "affiliations": [
+   {"org": "Majestic Realty Co.", "role": "Chairman / owner (commercial real estate developer)", "category": "business", "source_url": "https://www.majesticrealty.com/about/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-c273ffa4-e3f5-49ba-8580-3b8a054b9993",
+  "name": "Stapleton, Ana",
+  "resolved_employer": "Ana Stapleton Design (freelance) - Austin artist, interior/decor stylist and creative consultant (Hotel Ella, South Congress Hotel, Kelly Wearstler projects)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Ana Stapleton is an Austin-based freelance designer/artist and hospitality-decor stylist (anastapleton.com; Voyage Austin feature); occupation 'Designer / Freelance' and 78703 Austin location match. Democratic FEC pattern.",
+  "source_url": "https://voyageaustin.com/interview/meet-ana-stapleton-of-austin/",
+  "affiliations": []
+ }
+]

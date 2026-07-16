@@ -1,6 +1,6 @@
 {
- "total_rows": 5894,
- "total_amount": 3397473.59,
+ "total_rows": 7040,
+ "total_amount": 3812418.55,
  "by_official": {
   "county-judge_andy-brown": {
    "rows": 2750,
@@ -18,12 +18,20 @@
    "rows": 692,
    "amount": 399089.15
   },
+  "pct4_george-morales": {
+   "rows": 582,
+   "amount": 263502.33
+  },
+  "pct4_george-morales-constable": {
+   "rows": 564,
+   "amount": 151442.63
+  },
   "pct4_margaret-gomez": {
    "rows": 181,
    "amount": 160264.12
   }
  },
- "reports_included": 67,
+ "reports_included": 83,
  "superseded": [
   "pct2_brigid-shea__2022-01-31_COH"
  ],

@@ -1,0 +1,102 @@
+[
+ {
+  "donor_id": "tcv-f31f25e8-cf72-482a-a562-9ce586b81c41",
+  "name": "Lorenz, Perry",
+  "resolved_employer": "Self-employed downtown Austin real estate developer (Perry Lorenz / co-developer of The Independent, Saltillo Lofts, BartonPlace, Este, Spring, The Pedernales)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Perry Lorenz is a well-known 50-year Austin real estate developer active since 1977, principal on 1,000+ downtown/East Austin condo units and past chair of the city's Downtown and Design Commissions. Prolific Democratic donor (FEC lean 1.0, 251 gifts); gave to county commissioners Travillion and Howard, consistent with a civically-engaged developer.",
+  "source_url": "https://www.linkedin.com/in/perry-lorenz-1471924/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9e6bec16-20be-495a-8468-9f70d48669f3",
+  "name": "Kumar, Sam",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Only confirmable fact is a ~$2,500 donation to a Travis County Democratic commissioners candidate (2022). No zip, occupation, employer, or FEC history in the record; 'Sam Kumar' is a common name and the specific individual cannot be corroborated. Not classified.",
+  "source_url": "https://theaustinbulldog.org/commissioners-court-primary/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-68840cdf-0ce8-4099-89be-e6bd16e67e47",
+  "name": "Carter, Darryl",
+  "resolved_employer": "Law Office of Darryl B. Carter, LLC (business/employment litigation attorney), Houston",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Darryl Bernard Carter is a Houston business-litigation attorney; his firm's address (4828 Loop Central Dr, Ste 600, Houston, TX 77081) exactly matches the donor's 77081 location. Texas Bar member, UT Law grad. Democratic-leaning donor (FEC lean 1.0); gave to commissioner Travillion.",
+  "source_url": "https://profiles.superlawyers.com/texas/houston/lawyer/darryl-carter/aeefbf12-ea09-4504-aee9-1183a02e3a73.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e22c25b0-6e59-488e-911f-02aa203abd7d",
+  "name": "Walker, Edward Lee",
+  "resolved_employer": "E. Lee Walker — Adjunct Professor, University of Texas at Austin (Plan II / entrepreneurship); former first President of Dell",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Donor's own record lists occupation 'Professor' at 'University of Texas @ Austin', zip 78751. Matches E. Lee Walker, longtime UT Austin adjunct professor of entrepreneurship and civic engagement and former founding President of Dell Computer; 1998 Austinite of the Year. Now primarily an educator (note tech-executive background at Dell). Gave to Brown and Shea.",
+  "source_url": "https://www.eleewalker.com/about-lee",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c675963b-6472-476c-8c7c-92abec6711be",
+  "name": "morgan, jerry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Record lists 'Not Employed' at zip 78734 (Lakeway), gifts in 2025. 'Jerry Morgan' is a common name; the one Lakeway-area obituary match is a WWII veteran who died in 2020 and cannot be the 2025 donor. Cannot corroborate a specific living individual, occupation, or former career. Not classified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c727765f-58cc-4ca6-875d-cc23fdd67f82",
+  "name": "Dinkel, Craig",
+  "resolved_employer": "Self-employed trader; previously President of iTradingU, Inc. (trading education), Austin/Bee Cave",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Donor's own record lists occupation 'Trader', employer 'Self', zip 78738 (Bee Cave/west Austin). CorporationWiki lists Craig Thomas Dinkel of Austin as former President of iTradingU, Inc., a trading-related company, corroborating the self-described trader occupation. Single 2017 gift to commissioner Gomez; no FEC history.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/craig-thomas-dinkel/43442974.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-14338ec2-a279-4468-bc44-a9f92a843228",
+  "name": "Graham, Charles",
+  "resolved_employer": "Dr. Charles W. Graham (retired/deceased) — Elgin Veterinary Hospital partner and founder/owner of Southwest Stallion Station, Elgin",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Donor is in Elgin, TX 78621; by far the most prominent 'Charles Graham' there is Dr. Charles W. Graham, DVM, a Texas A&M-trained veterinarian, agricultural entrepreneur and horse-breeding business owner (Elgin Veterinary Hospital, Southwest Stallion Station), who died June 21, 2025 — consistent with the donor's 2017–2024 gift window. Identity strongly likely but not certain (common name); classified as Self-Employed agribusiness owner. Gave to Travillion and Howard; mixed FEC lean (0.44).",
+  "source_url": "https://texasrodeocowboy.com/inductees/dr-charles-graham/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0bdc5e57-552d-4f14-8e94-493a0101620c",
+  "name": "Strama, Keith",
+  "resolved_employer": "Graydon Strama Lucio (GSL Advocacy) — partner; Austin attorney and legislative/regulatory lobbyist",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Richard Keith Strama is an Austin attorney (State Bar, U. Houston Law '99) and public-policy lobbyist, partner in Graydon Strama Lucio — exactly matching the donor's employer string and 78701 downtown zip. Represents energy, healthcare, telecom, and financial-services clients before the Texas Legislature and state agencies (broad government-relations practice, not a single-industry principal). Gave to Brown.",
+  "source_url": "https://gsladvocacy.com/who-we-are/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "57e7face-d9aa-4010-b476-e55ef9ab1c37",
+  "name": "Bullock, Dan",
+  "resolved_employer": "Retired banking/financial-management executive and Austin civic leader; founder of The Mosey Project (retired)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Dan Bullock of Austin (zip 78763) is a 30+ year banking/financial-management executive and prominent civic leader — former president of Leadership Austin, Texas Lyceum, Umlauf Sculpture Garden, Ronald McDonald House, Zach Theatre — and founder of The Mosey Project. Record shows 'Not Employed/None' but career is finance; classified Finance (retired). A 'Dan R Bullock' in Austin also appears in mineral-rights holdings across several TX counties (passive interest, not confirmed same person). Gave to Brown, Shea, Howard; mixed FEC lean (0.53).",
+  "source_url": "https://www.linkedin.com/in/dan-bullock-89796a93/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c3b692f-404c-4da8-9bb4-2fb6f61f4ad5",
+  "name": "Scanlan, John",
+  "resolved_employer": "John McAllen Scanlan — retired Austin attorney; founder/director of the UT legal clinic and former City of West Lake Hills attorney (retired)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "John McAllen Scanlan, retired Austin lawyer, lists his practice address at Wild Basin Ledge, West Lake Hills, TX 78746-2707 — an exact match to the donor's location. Founded the UT legal clinic, served as City of West Lake Hills attorney, and sat on the LCRA board and a Lake Travis/Lake Austin water-quality committee. Heavy Democratic donor (FEC lean 1.0, 377 gifts); gave to Shea and Howard.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=185773",
+  "affiliations": []
+ }
+]

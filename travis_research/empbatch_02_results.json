@@ -1,0 +1,362 @@
+[
+ {
+  "employer_id": "tcv-39f66faa-5251-42af-a8c2-60a8d7cb5e28",
+  "name": "Graydon Strama Lucio Group",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Austin government-relations/lobbying firm (Galt Graydon, Keith Strama, ex-Rep. Eddie Lucio) advocating before the Texas Legislature/agencies; per firm site.",
+  "source_url": "https://gsladvocacy.com/who-we-are/"
+ },
+ {
+  "employer_id": "tcv-8f5eb223-1f6b-4bed-8c05-9babb1c78e79",
+  "name": "The Limestone 40 LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Texas LLC; no reliable public record found tying this specific entity to an industry (name likely a land/real-estate holding LLC but unverified).",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-466961af-12bb-4848-aa1e-9938193d5d12",
+  "name": "Don't Know",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Placeholder value ('Don't Know'), not a real employer; not classifiable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-16403632-818f-4942-b63d-0fd8d584b593",
+  "name": "Huitt-Zollars, Inc. Texas PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Corporate PAC of Huitt-Zollars, a multidisciplinary engineering/architecture firm; classified by parent-company industry.",
+  "source_url": "https://www.huitt-zollars.com/"
+ },
+ {
+  "employer_id": "b909d75a-278a-4946-92f2-f619a5a9a539",
+  "name": "WE Communications",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "WE Communications (formerly Waggener Edstrom) is a global public relations and marketing communications agency.",
+  "source_url": "https://www.we-worldwide.com/"
+ },
+ {
+  "employer_id": "tcv-f45df68d-ac3d-42c7-ae4b-7fa8481f5d08",
+  "name": "Lynne Dobson",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Austin philanthropist/photojournalist, Whataburger family-business board member, co-founder of Tejemos Foundation; 'employer' is self/philanthropy.",
+  "source_url": "https://www.kut.org/station-information/2023-10-25/transformational-gift-to-help-kut-and-kutx-serve-growing-region"
+ },
+ {
+  "employer_id": "tcv-afd0d5df-fd63-438c-9e86-d728a429ecfa",
+  "name": "Dawlett Group LLC",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,multifamily-housing",
+  "confidence": "high",
+  "evidence": "Haythem Dawlett, owner; Austin real-estate development (master-planned communities, apartments); also principal of Legend Communities.",
+  "source_url": "https://www.linkedin.com/in/haythemdawlett"
+ },
+ {
+  "employer_id": "tcv-afc6c164-b87d-4330-916b-624b83f88af2",
+  "name": "Peacock Capital Holdings, LLC",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "high",
+  "evidence": "Austin real-estate investment firm (Landon Marino); Hill Country low-density land developments e.g. Peacock Preserve near Bee Cave.",
+  "source_url": "https://www.businesswire.com/news/home/20240516655281/en/Peacock-Preserve-Offers-Austins-Most-Conservation-Minded-Community"
+ },
+ {
+  "employer_id": "tcv-99494d2a-9500-4a06-85c5-bf2b29ed46b5",
+  "name": "AppViewX",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Enterprise cybersecurity SaaS (certificate lifecycle management, PKI, machine identity); PE-backed (Haveli Investments, Austin).",
+  "source_url": "https://www.appviewx.com/"
+ },
+ {
+  "employer_id": "tcv-7a132aca-0c36-422e-80fb-22e40cb51657",
+  "name": "Jack Kirfman VOTE PAC",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "A named political action committee (candidate/political vehicle); classified as advocacy/political org, no corporate parent identified.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-79a088db-fbd8-43ce-ac1b-8a256371890b",
+  "name": "East Creek ATX, LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Austin ('ATX') LLC; no reliable public record found confirming this specific entity's industry.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-66d7dd33-3f46-4763-bd96-fd9a47d36f3a",
+  "name": "Aldous Law",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Texas trial law firm (Charla Aldous, Dallas) handling plaintiff personal-injury/medical-malpractice; donor occupation 'Attorney' fits.",
+  "source_url": "https://www.aldouslaw.com/"
+ },
+ {
+  "employer_id": "tcv-5c9c94db-3f5b-4b7f-877f-e8799e249ae1",
+  "name": "Austin Eagle Landscaping",
+  "industry": "Construction",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Name indicates a landscaping/landscape-services company in Austin; donor is its President.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-54594a9b-2d5d-4911-8e9d-8fa05e2254fb",
+  "name": "Plan A Locations",
+  "industry": "Entertainment",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "medium",
+  "evidence": "Donor occupation 'Entertainment industry'; name indicates a film/photo location-services company (Austin film production sector).",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-45edb5a8-f215-4e43-a38d-dd5d03cedaf3",
+  "name": "Lazard",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Lazard is a global financial-advisory and asset-management (investment banking) firm; donor is a Senior Advisor.",
+  "source_url": "https://www.lazard.com/"
+ },
+ {
+  "employer_id": "tcv-408135db-7917-4567-9cc2-8e5e772e7761",
+  "name": "Sente Mortgage",
+  "industry": "Finance",
+  "interest_tags": "insurance-finance",
+  "confidence": "high",
+  "evidence": "Austin-based independent mortgage bank founded 2007 (CEO Tom Rhodes); donor occupation 'CEO'.",
+  "source_url": "https://www.sentemortgage.com/about-us/"
+ },
+ {
+  "employer_id": "tcv-32dd1b11-ff6a-4fcc-bc47-1bc4f08d926a",
+  "name": "SAI GANESH",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Self-employed individual/name only; cannot confirm the nature of the business from public records.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "db6a7e2e-4724-4e5c-b36d-7e951db318dc",
+  "name": "Eller Group",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin crisis-communications, litigation-support and public-affairs firm (The Jeff Eller Group, founded 2014).",
+  "source_url": "https://www.ellergroup.com/"
+ },
+ {
+  "employer_id": "98362346-7698-48ed-aede-aa44855f782a",
+  "name": "Thoma Bravo",
+  "industry": "Finance",
+  "interest_tags": "private-equity",
+  "confidence": "high",
+  "evidence": "Thoma Bravo is a large private-equity firm focused on software/technology buyouts; donor is an Operating Partner.",
+  "source_url": "https://www.thomabravo.com/"
+ },
+ {
+  "employer_id": "8b47cfde-1f00-43cb-b1a7-d21194ed46cc",
+  "name": "Johnson and Johnson",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Johnson & Johnson is a multinational pharmaceutical/medical-device (healthcare) company; donor occupation 'Attorney' (in-house counsel).",
+  "source_url": "https://www.jnj.com/"
+ },
+ {
+  "employer_id": "73ecdac3-e185-4f6b-aa23-dc7182f62f55",
+  "name": "Tex Mix Partners",
+  "industry": "Construction",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Family-owned ready-mix concrete supplier (Leander, TX) serving Austin/San Antonio construction projects.",
+  "source_url": "https://texmix.com/"
+ },
+ {
+  "employer_id": "tcv-23c17a3d-a6bf-46f8-bdb4-9dc1e81f511f",
+  "name": "Rick Freeman PC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Rick Freeman, P.C. is an Austin solo personal-injury/litigation law practice.",
+  "source_url": "https://rickfreemanlaw.com/"
+ },
+ {
+  "employer_id": "tcv-9f8ccb59-ea8b-44af-bc3b-d587aefbbbd7",
+  "name": "RPS Infrastructure, Inc. PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Corporate PAC tied to RPS, an infrastructure/engineering consultancy; classified by parent-company industry.",
+  "source_url": "https://www.rpsgroup.com/"
+ },
+ {
+  "employer_id": "tcv-703d1678-5fad-4b93-8540-1e075fc0f345",
+  "name": "Heart of Manor LP",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Limited partnership named for Manor, TX; likely a land/real-estate entity but no public record found to confirm.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-631df192-99cd-4e18-bbd2-084fb43f4d56",
+  "name": "Bunker Lee",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Individual with self-reported occupation 'Real Estate'; classified by stated occupation, specific person not further verified.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-20efc950-58ef-40bf-9d71-73fb18c0ce6f",
+  "name": "HDR, Inc. Employee Owners PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Employee PAC of HDR, Inc., an employee-owned architecture/engineering firm; classified by parent-company industry.",
+  "source_url": "https://www.hdrinc.com/"
+ },
+ {
+  "employer_id": "e3a39147-2e38-4585-859d-37523f85cd7f",
+  "name": "BCL",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Most likely Business & Community Lenders (BCL) of Texas, an Austin 501(c)(3) CDFI doing small-business lending/coaching; donor occupation 'Business Consultant' fits, but abbreviation is ambiguous.",
+  "source_url": "https://www.bcloftexas.org/"
+ },
+ {
+  "employer_id": "tcv-d5dac0a9-528d-4726-a5fd-104e0d81af6f",
+  "name": "Jackson, Keith - HNTB Holdings Ltd., PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Corporate PAC of HNTB, an infrastructure/engineering design firm; occupation 'Infrastructure Solutions'; classified by parent-company industry.",
+  "source_url": "https://www.hntb.com/"
+ },
+ {
+  "employer_id": "tcv-ee461f46-d8af-49e9-9724-154d52b88a92",
+  "name": "GPS Policy Group LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "medium",
+  "evidence": "Government-affairs/lobbying firm (listed in federal lobbying registrations); classified as policy/public-affairs consulting.",
+  "source_url": "https://www.opensecrets.org/federal-lobbying/firms/summary?id=D000080559"
+ },
+ {
+  "employer_id": "tcv-8f860aac-b38a-48a5-8154-ac5c60683573",
+  "name": "Bangle & Potter PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin business/commercial and TABC law firm (Shannon Bangle, Brian Potter); donor occupations Attorney/Lawyer.",
+  "source_url": "https://www.banglepotter.com/"
+ },
+ {
+  "employer_id": "c1eb3946-a889-43a2-9cc6-9be3fc4958ce",
+  "name": "Partner",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Job-title placeholder ('Partner'), not an employer name; underlying firms vary (Risun Solutions, Morrison & Head). Not classifiable as one employer.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "a4880bda-d678-4501-bfd6-6d765f6d5418",
+  "name": "LOUDHOUSE PRODUCTIONS LLC",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin record label/film-and-music production company (Booka Michel, exec producer on 'Tower'); donor is a 'Film and Music Producer'.",
+  "source_url": "https://www.loudhousemusic.com/home.htm"
+ },
+ {
+  "employer_id": "ef358256-5363-4a3a-971d-5e5980484a54",
+  "name": "Principal",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Job-title placeholder ('Principal'), not an employer name; underlying firms vary (Richmond Advisory, Endeavor). Not classifiable as one employer.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "1fe2b2b0-c397-400a-8cfb-b79b9934d452",
+  "name": "Moovel",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "moovel Group was a Mobility-as-a-Service software company (Daimler/Mercedes subsidiary) building transit-booking apps; donor 'Head of Corporate Development'.",
+  "source_url": "https://www.linkedin.com/company/moovelgroup"
+ },
+ {
+  "employer_id": "tcv-eed71a61-663c-4d42-86de-3a23dff736fd",
+  "name": "Temenos",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Temenos is a banking/financial-services software company; donor occupation 'Sales'.",
+  "source_url": "https://www.temenos.com/"
+ },
+ {
+  "employer_id": "tcv-ae5888eb-8798-47f1-9cd1-30199ca543ec",
+  "name": "JLL Austin",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "JLL (Jones Lang LaSalle) is a global commercial real-estate services firm; donors are Managing Director/EVP in the Austin office.",
+  "source_url": "https://www.jll.com/"
+ },
+ {
+  "employer_id": "e694ed5e-23eb-47d1-b524-b8541af47f75",
+  "name": "Stepping Stone Schools",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Central Texas early-childhood education/childcare provider (Austin-area school chain); donor in Development/Director role.",
+  "source_url": "https://steppingstoneschool.com/"
+ },
+ {
+  "employer_id": "695c598e-5681-4509-887e-80fb7e1912b5",
+  "name": "Austin Police Assoc. PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Political action committee of the Austin Police Association, the police officers' union/labor organization.",
+  "source_url": "https://www.austinpolice.com/"
+ },
+ {
+  "employer_id": "tcv-e045c5a4-9e56-4b2d-9263-0d28fa46b253",
+  "name": "Mastodon Ventures",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin-based investment bank/financing-advisory firm (M&A, restructuring; restaurant-sector focus); donor 'Investment Banker'.",
+  "source_url": "https://mastodonventures.com/"
+ },
+ {
+  "employer_id": "tcv-4c54c609-ec93-4182-b4d0-60b6411d39d6",
+  "name": "Sanders Bajwa LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin litigation law firm (business/securities/oil-and-gas litigation, Yusuf Bajwa); donor occupations 'Attorney'.",
+  "source_url": "http://www.sandersbajwa.com/"
+ }
+]

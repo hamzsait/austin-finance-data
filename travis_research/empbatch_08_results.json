@@ -1,0 +1,363 @@
+[
+ {
+  "employer_id": "tcv-a2615826-4680-45c2-8b22-fa63091fc546",
+  "name": "MakeATXhome Inc.",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "makeATXhome is a local Austin residential real estate brokerage (Chelsea & Derek Kotrla); matches 'Real Estate Broker' occupation",
+  "source_url": "https://www.makeatxhome.com/"
+ },
+ {
+  "employer_id": "tcv-a1161b17-90ed-45c5-8937-260cdde9d807",
+  "name": "Yall St",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'Y'all Street' is Texas finance branding; a self-styled finance venture with a 'Founder' occupation, but the specific firm could not be confirmed",
+  "source_url": "https://www.yallstreet.com/about-us/"
+ },
+ {
+  "employer_id": "tcv-878c14f6-6c73-4c4d-aa3a-22ab226f77a0",
+  "name": "B&V",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Two-letter abbreviation 'B&V' with generic 'Manager' occupation; could not confirm which firm (e.g., Black & Veatch) is meant",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-7c1d5f59-3367-4f49-a24e-c1224c1dba90",
+  "name": "Not known",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Placeholder value ('Not known'); no employer to identify. Occupation listed as 'Education'",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-7608ad1c-8ed1-4bbb-90fc-1b9b56cd1312",
+  "name": "Applewhite Firm PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Applewhite Firm PLLC is a solo Austin personal-injury/litigation law firm (R. Ashley Applewhite); matches 'Attorney' occupation",
+  "source_url": "https://applewhitefirm.com/"
+ },
+ {
+  "employer_id": "tcv-72d2e3e9-d030-408a-846a-0b2d2c59d3e2",
+  "name": "Prospect Point Recruiting",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Prospect Point Recruiting is a boutique Austin legal-search/recruiting firm placing attorneys; 'Attorney' occupation reflects legal recruiting focus",
+  "source_url": "https://theprospectpoint.com/"
+ },
+ {
+  "employer_id": "tcv-67baf746-d3c0-4213-b6c7-81fdd9009422",
+  "name": "VEA",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "VEA Health is a physician-led Texas emergency/hospital medicine group; matches 'Physician' occupation",
+  "source_url": "https://www.veahealth.com/"
+ },
+ {
+  "employer_id": "tcv-67267377-309f-4fa4-996a-42e59fa5d2a3",
+  "name": "Overhaul",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Overhaul is an Austin-based supply-chain risk-management / cargo-visibility software company (Series C); matches 'Client manager' occupation",
+  "source_url": "https://www.builtinaustin.com/company/overhaul"
+ },
+ {
+  "employer_id": "tcv-5a900d09-f7eb-44d0-bdbb-83b2c7030623",
+  "name": "NTT DATA",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "NTT DATA is a global IT services / systems-integration company (Japanese NTT group); 'Attorney' likely in-house counsel",
+  "source_url": "https://www.nttdata.com/"
+ },
+ {
+  "employer_id": "tcv-4a20b98d-710b-45e1-99b7-43382d902d1d",
+  "name": "MGA",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "medium",
+  "evidence": "Occupation 'GOVT AFFAIRS' indicates a government-affairs/lobbying shop; specific 'MGA' firm could not be pinned down, so classification is occupation-driven",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-381e9124-8baa-408a-8113-9340c95ed612",
+  "name": "Magnolia Network",
+  "industry": "Media",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Magnolia Network is Chip & Joanna Gaines's cable/streaming TV network (Warner Bros. Discovery); matches 'Filmmaker' occupation",
+  "source_url": "https://magnolia.com/network"
+ },
+ {
+  "employer_id": "tcv-2e55a2f9-9afa-48e1-ba4c-7ffce78f5d63",
+  "name": "State Office of Risk Management",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "State Office of Risk Management (SORM) is a Texas state agency handling workers' comp/insurance for state government; matches 'Legal' occupation",
+  "source_url": "https://www.sorm.texas.gov/"
+ },
+ {
+  "employer_id": "tcv-269d1fd5-ddf8-435d-bfc1-e794d511d34b",
+  "name": "Divergent",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'Tech Principal' occupation points to a technology/IT consulting firm named Divergent, but several such firms exist and the exact one could not be confirmed",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-2618cdaf-387f-4c69-b6af-672af39dfd1f",
+  "name": "Thoughtbarn",
+  "industry": "Architecture",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Thoughtbarn is an Austin architecture/urban-design studio (Lucy Begg & Robert Gay); matches 'Architecture' occupation",
+  "source_url": "https://thoughtbarn.net/"
+ },
+ {
+  "employer_id": "tcv-0da69810-1c65-45c1-ad83-5f5a55c0308e",
+  "name": "Harvest Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "African American Youth Harvest Foundation is an Austin/Travis County youth-services nonprofit; founder/CEO Michael Lofton, matching 'CEO' occupation",
+  "source_url": "https://aayhf.org/"
+ },
+ {
+  "employer_id": "tcv-05805043-9942-4916-ba7c-03dd8d75dcfb",
+  "name": "Saic",
+  "industry": "Technology",
+  "interest_tags": "military-defense",
+  "confidence": "high",
+  "evidence": "SAIC (Science Applications International Corp.) is a major U.S. defense/government IT and engineering contractor; matches 'Cloud Engineer' occupation",
+  "source_url": "https://www.saic.com/",
+  "affiliations": [{"org": "SAIC (Science Applications International Corporation)", "role": "employer / defense contractor", "category": "military_defense", "source_url": "https://www.saic.com/"}]
+ },
+ {
+  "employer_id": "dcb80e11-141c-46f8-9e43-54bd7531a228",
+  "name": "Segal McCambridge",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Segal McCambridge Singer & Mahoney is a national litigation/defense law firm; matches 'Attorney' occupation",
+  "source_url": "https://www.smsm.com/"
+ },
+ {
+  "employer_id": "d9e16615-2cdc-43d8-8a13-6bc117ef869d",
+  "name": "HOFT Institute",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "HOFT Institute (formerly House of Tutors) is an accredited Austin ESL / English-language school for international students",
+  "source_url": "https://www.hoft.edu/"
+ },
+ {
+  "employer_id": "c8d5c9d4-15fa-419d-99a0-6d398ee4052e",
+  "name": "Meadows Mental Health Policy Institute",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "health-equity",
+  "confidence": "high",
+  "evidence": "Meadows Mental Health Policy Institute is an independent nonpartisan Texas mental-health policy nonprofit (offices incl. Austin); matches 'Mental Health Policy' occupation",
+  "source_url": "https://mmhpi.org/"
+ },
+ {
+  "employer_id": "aa06fb35-265b-4a90-8917-d91b60a5944a",
+  "name": "Arrow Electronics",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Arrow Electronics is a Fortune 500 global distributor of electronic components and enterprise computing solutions; matches 'Engineer' occupation",
+  "source_url": "https://www.arrow.com/"
+ },
+ {
+  "employer_id": "876e62d3-9440-45a2-9e13-fd9a129bddb7",
+  "name": "HID Global",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "HID Global (ASSA ABLOY) is an identity/access-control and secure-credential technology company with a major Austin presence; matches 'Marketing Manager' occupation",
+  "source_url": "https://www.hidglobal.com/"
+ },
+ {
+  "employer_id": "52c876d2-9664-4f61-82fe-b4252f32df39",
+  "name": "PM",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Two-letter 'PM' with occupation listed as 'Apple' is not resolvable to a specific employer/industry",
+  "source_url": ""
+ },
+ {
+  "employer_id": "28f54fd9-5ba8-46e4-bdca-77ec2e028643",
+  "name": "Volz & Assoc.",
+  "industry": "Architecture",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Volz & Associates Inc. (VOH Architects) is an Austin historic-preservation and adaptive-reuse architecture firm; 'Interior Designer' occupation fits design staff",
+  "source_url": "https://volzassociates.com/"
+ },
+ {
+  "employer_id": "28261591-6867-4982-ad8c-cafb4df2b8e1",
+  "name": "PISD",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "'PISD' with 'Substitute Teacher' occupation is a public school district (Travis County context suggests Pflugerville ISD); public K-12 education",
+  "source_url": "https://www.pfisd.net/"
+ },
+ {
+  "employer_id": "0b44f739-d6bb-484b-9e4b-87f99832c95a",
+  "name": "Austin Justice Coalition",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "progressive-money",
+  "confidence": "high",
+  "evidence": "Austin Justice Coalition is an Austin racial-/criminal-justice advocacy nonprofit; matches 'Director' occupation",
+  "source_url": "https://austinjustice.org/"
+ },
+ {
+  "employer_id": "0343ff8d-1def-4292-ba8b-d2319449e428",
+  "name": "city parks",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Municipal parks department (e.g., Austin Parks & Recreation); 'Administrator' occupation indicates local-government employment",
+  "source_url": ""
+ },
+ {
+  "employer_id": "004fb591-30db-4ea1-96c7-6a76ff09ec48",
+  "name": "re:power",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "progressive-money,political-consulting",
+  "confidence": "high",
+  "evidence": "re:power (formerly Wellstone Action) is a progressive political-training nonprofit; matches 'nonprofit worker' occupation",
+  "source_url": "https://repower.org/"
+ },
+ {
+  "employer_id": "tcv-1ec7418e-3975-492e-b9bb-9e08d79db5cb",
+  "name": "Ballet Austin/Austin Symphony Orchestra",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Ballet Austin and the Austin Symphony Orchestra are Austin performing-arts organizations; 'Theatrical technician' occupation fits production/stage work",
+  "source_url": "https://balletaustin.org/"
+ },
+ {
+  "employer_id": "tcv-12b7510c-b143-4524-a6fc-54654d925bdc",
+  "name": "Stun Creative",
+  "industry": "Media",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Stun Creative is an LA entertainment-industry advertising agency and branded-content production company (subsidiary of Known); matches 'Director' occupation",
+  "source_url": "https://stunagency.com/"
+ },
+ {
+  "employer_id": "778d0bd4-d7fa-447a-bf0b-1eec49080e4e",
+  "name": "Austin Public Health",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin Public Health is the City of Austin's municipal health department; 'Nurse Practitioner' occupation fits a public-health clinician",
+  "source_url": "https://www.austintexas.gov/department/health"
+ },
+ {
+  "employer_id": "b3654642-ddf4-49c2-92b0-f3ca3447c48f",
+  "name": "Future Now",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "progressive-money,political-consulting",
+  "confidence": "high",
+  "evidence": "Future Now (Future Now Fund) is a progressive nonprofit focused on winning state legislative majorities; matches 'Regional Political Director' occupation",
+  "source_url": "https://futurenow.org/"
+ },
+ {
+  "employer_id": "tcv-6b674856-38d9-40c5-8d04-f06360179095",
+  "name": "The Starr Conspiracy",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "The Starr Conspiracy is a Fort Worth B2B marketing/advertising agency serving HR and work-technology brands; matches 'Marketing' occupation",
+  "source_url": "https://thestarrconspiracy.com/"
+ },
+ {
+  "employer_id": "tcv-cee3cab5-394e-4115-9ddb-1ce7a662b0e6",
+  "name": "Myriad",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'Myriad' + generic 'Mgmt' occupation could match several Austin firms (Myriad Development, Myriad Genetics/RBM); cannot confirm which",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-95c75d07-98c4-4fdb-9d55-8d58ee2f6913",
+  "name": "Paul Silver Inc.",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Named holding-company style entity with 'Investor' occupation suggests a personal investment vehicle; specific firm could not be confirmed",
+  "source_url": ""
+ },
+ {
+  "employer_id": "64117377-63b2-4dd1-9b36-d84ac06adafe",
+  "name": "Curative",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Curative is an Austin-based health company (COVID testing pivoted to health insurance/benefits); matches 'Credentialing Manager' occupation",
+  "source_url": "https://curative.com/"
+ },
+ {
+  "employer_id": "ac0a117c-3122-49c1-916a-94bfbd8767dd",
+  "name": "mmc",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Lowercase 'mmc' with 'Contract Employee' occupation is not resolvable to a specific employer/industry",
+  "source_url": ""
+ },
+ {
+  "employer_id": "5ecc4d19-5055-4f01-8297-b93cbee4cef0",
+  "name": "TX School for Deaf",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Texas School for the Deaf is a state-run K-12 school in Austin for deaf/hard-of-hearing students; 'Public relations' occupation fits a communications role",
+  "source_url": "https://www.tsd.state.tx.us/"
+ },
+ {
+  "employer_id": "tcv-1b039a00-2794-472f-969a-b4bc8a30bc18",
+  "name": "Crowe",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Crowe LLP is a national public accounting, consulting and technology firm; 'Manager' occupation fits accounting/advisory staff",
+  "source_url": "https://www.crowe.com/"
+ },
+ {
+  "employer_id": "tcv-eb7aae48-36cb-4ab1-a11d-f8b384e5d729",
+  "name": "Sunpower",
+  "industry": "Energy / Environment",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "SunPower is a residential solar-energy company; 'HR' occupation fits a corporate role",
+  "source_url": "https://us.sunpower.com/"
+ },
+ {
+  "employer_id": "tcv-db3dde29-20a8-4e18-9e2e-298a64a6acb0",
+  "name": "Tammadge Market Research Inc.",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Tammadge Market Research is an Austin market-research firm (focus groups, mock trials, usability testing); matches 'Manager' occupation",
+  "source_url": "https://www.bbb.org/us/tx/austin/profile/market-research/tammadge-market-research-0825-90049320"
+ }
+]

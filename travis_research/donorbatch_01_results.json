@@ -1,0 +1,104 @@
+[
+ {
+  "donor_id": "236a1a87-05cc-40bd-a1cf-fd2d9f56b7b7",
+  "name": "Yacktman, Ellyn",
+  "resolved_employer": "Homemaker; wife of Stephen Yacktman (Chief Investment Officer/Partner, Yacktman Asset Management, an Austin value-investing firm). Household wealth from Yacktman Asset Management.",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Ellyn (Audrey) Yacktman co-owns 3571 Far West Blvd #82, Austin 78731 (matches donor zip) with Stephen Yacktman; her LinkedIn self-describes 'Wife/Mom - Yacktman Household.' Stephen Yacktman is CIO/Partner of Austin-based Yacktman Asset Management. Her own occupation is homemaker; economic identity is the family's finance/asset-management fortune.",
+  "source_url": "https://yacktman.com/team/stephen-yacktman/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8203c91b-6e79-4bb1-b3e2-d23815580034",
+  "name": "Michelsen, Matthew",
+  "resolved_employer": "Tech entrepreneur/investor running family office Gothams LLC (fka GothamAlpha); founder of The Backplane, Dash Radio, Algomus. Also a major Texas state government contractor.",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Serial tech entrepreneur/investor who moved from California to the Lakeway/Lake Travis area (78734, matches donor) in 2020, owns an Italian-villa mansion overlooking Lake Travis. His firm Gothams LLC received ~$563M in Texas contracts (Curative COVID testing ~$400M; a $43M Operation Lone Star migrant-detention facility). A big GOP donor (Abbott $150k, Hegar $50k, DeSantis $25k) who also gave $25k to Democratic Travis County Judge Andy Brown - exactly matching this donor record.",
+  "source_url": "https://www.sacurrent.com/news/disaster-dollars-abbotts-big-new-donor-got-half-billion-in-covid-border-contracts-30210674",
+  "affiliations": [
+   {"org": "Gothams LLC (Operation Lone Star migrant-detention contractor)", "role": "Founder/owner; company holds Texas border-security detention and COVID-testing contracts", "category": "business", "source_url": "https://www.sacurrent.com/news/disaster-dollars-abbotts-big-new-donor-got-half-billion-in-covid-border-contracts-30210674"}
+  ]
+ },
+ {
+  "donor_id": "a0c51776-1459-4b40-8848-bcf4aea1416a",
+  "name": "Lorenz, Perry Howard",
+  "resolved_employer": "Self-employed downtown/East Austin real estate developer (Spring, BartonPlace, The Independent, Saltillo Lofts, etc.)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Longtime Austin developer active since 1977, pioneer of downtown and East Austin mid/high-rise residential; developed 1000+ condo units. 78702 East Austin address matches his development turf. Occupation 'Real Estate / self' in record corroborates.",
+  "source_url": "https://www.linkedin.com/in/perry-lorenz-1471924/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7e775516-ceeb-4585-9a07-146e935a3978",
+  "name": "Wasek, Don",
+  "resolved_employer": "Co-founder of Buc-ee's, the Texas travel-center/convenience-store chain (with Arch 'Beaver' Aplin III)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Don Wasek is the co-founder of Buc-ee's; multiple 2023-2024 news reports identify him as the Buc-ee's co-founder and owner of a family lake house in Spicewood, TX (78669, matches donor zip). Record's employer 'Buc-ee's, Co-founder' corroborates.",
+  "source_url": "https://cbsaustin.com/news/local/son-of-buc-ees-co-founder-faces-multiple-counts-of-invasive-recording-after-hidden-camera-allegedly-discovered",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1fa01d4a-d369-4e48-9aea-6631a6866f69",
+  "name": "Joe Liemandt",
+  "resolved_employer": "Founder of Trilogy Software and ESW Capital; principal of Alpha School (AI-driven education). Austin-based tech billionaire.",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Joseph Liemandt founded Trilogy Software (1989) and ESW Capital; Austin-based billionaire (~$6B net worth). Record employer 'Trilogy / Software' matches directly; unique name plus Austin plus tech make this an unambiguous identification even without a zip.",
+  "source_url": "https://en.wikipedia.org/wiki/Joe_Liemandt",
+  "affiliations": []
+ },
+ {
+  "donor_id": "39940c63-e5aa-4557-9aeb-fe90daa21810",
+  "name": "Zeller, Charles",
+  "resolved_employer": "Retired Austin technology executive; former VP of Business Development at iTaggit Inc. (Austin tech startup), named on several of the company's patents. (retired)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "A Charles Zeller in Austin was VP of Business Development and a patent inventor at iTaggit Inc., an Austin personal-asset/collectibles software startup. Same-named Austin donor is a prolific Democratic/progressive giver ($100k+/cycle; gifts to Climate Hawks Vote, Planned Parenthood, Michael Siegel), matching this record's 1,342 FEC gifts and strongly Democratic lean. Cannot fully confirm the 78733 retiree is the iTaggit executive, so confidence medium.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/charles-zeller/61087769.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "76cb3440-d891-4cd6-a2ff-ebdfeb7e2f54",
+  "name": "Dawlett, Haythem",
+  "resolved_employer": "Founder/Principal of Legend Communities, Inc. and Dawlett Group LLC; Lakeway-area master-planned community developer (Rough Hollow, The Highlands at Lake Travis, The Square at Lakeway)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Haythem Dawlett is founder/principal of Austin-based Legend Communities (HQ 2101 Lakeway Blvd) and the Dawlett Group, developing high-end single-family, multifamily, commercial, self-storage and marina projects. Lakeway/78734 address and record employers 'Legend Communities / Dawlett Group LLC' match exactly.",
+  "source_url": "https://assetsinmotionco.com/executive_team-haythem_dawlett.php",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d6d9285-8190-4955-b8f7-0f6526391809",
+  "name": "Dobson, Lynne",
+  "resolved_employer": "Whataburger heiress and board member (daughter of founder Harmon Dobson); co-founder of the Tejemos Foundation and former photojournalist. Full-time philanthropist.",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Lynne Dobson is one of three children of Whataburger founder Harmon Dobson and sits on the Whataburger board (family net worth ~$2.6B). A former Austin American-Statesman photojournalist, she now runs the Tejemos Foundation with husband Greg Wooldridge, funding progressive/health-equity, civil-rights, reproductive-health, parks and public-media causes (e.g., $1.5M to KUT). West Lake Hills 78746 address and record 'business owner philanthropist' match.",
+  "source_url": "https://www.thebakarifoundation.org/lynne-dobson.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0875d7a0-d53b-40e6-94cf-00a3d08be758",
+  "name": "Blakeslee, Julie",
+  "resolved_employer": "Owner and designer of Big Red Sun (Austin landscape/garden design studio, custom furniture and event boutique); operates Julie Blakeslee Projects, LLC",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Julie Blakeslee (formerly Thornton) is owner/designer of Big Red Sun; her business Julie Blakeslee Projects, LLC is registered at 3501 Woodrow St, Austin 78705 - matching the donor zip exactly. Record occupation 'Designer / Self' corroborates. Landscape/garden design is a self-employed design practice rather than a licensed architecture firm.",
+  "source_url": "https://www.zoominfo.com/p/Julie-Blakeslee/1797838224",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-44c873a7-9af1-48ca-88ed-d09970618781",
+  "name": "Kleinheinz, John",
+  "resolved_employer": "Founder/CEO of Kleinheinz Capital Partners, a Fort Worth global-macro hedge fund (peaked ~$4B AUM; returned outside capital in 2013). Stanford Board of Trustees member.",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "John Kleinheinz founded Kleinheinz Capital Partners (Fort Worth) in 1996; former Nomura/Merrill banker, now runs the fund as family capital with energy, tech and private-equity exposure and is a lead investor in Dallas-Houston high-speed rail. Fort Worth 76107 address and record employers 'Kleinheinz Capital Partners / KCP Inc.' match. Noted nationally as a Republican mega-donor (Romney).",
+  "source_url": "https://dci.stanford.edu/fellow/john-kleinheinz/",
+  "affiliations": []
+ }
+]

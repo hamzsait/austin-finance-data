@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "tcv-9700f5e6-c117-4fa1-880a-edd9ddaee7a0",
+  "name": "Haass, Richard",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (Chief Operating Officer; former CTO)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Richard Haass (CISM/CISA) is COO of Linebarger Goggan Blair & Sampson, the large Texas government-debt-collection law firm; he relocated to San Antonio (zip 78232 is a north San Antonio zip, consistent). Linebarger holds delinquent-tax collection contracts with Travis County, which corroborates a San Antonio law-firm executive donating to Travis County commissioners (Travillion, Shea, Howard).",
+  "source_url": "https://www.lgbs.com/attorney/richard-c-haass/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fe6bca40-728c-4d44-9ec1-97eadf0cc075",
+  "name": "Beuerlein, Stephan",
+  "resolved_employer": "Burlington Ventures, Inc. (President/Owner) — Central Austin multifamily real estate investment/development",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Stephan D. \"Steve\" Beuerlein of Austin is President/Owner of Burlington Ventures, Inc., founded 1992 to renovate and develop multifamily projects in Central Austin; also a UT President's Associates / Chancellor's Council member. Austin real-estate profile plus UT-donor pattern corroborate the identity; no zip on the county record, hence medium.",
+  "source_url": "https://burlingtonventures.com/team/steve-beuerlein",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fc118759-dc60-4228-a222-1bda108e74fa",
+  "name": "Jane E. Sanders",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, no occupation/employer on the record; 'Jane E. Sanders' is a common name with 320 FEC donations (lean ~0.77 Democratic). Gave $1,000 to Margaret Gomez. Cannot corroborate a specific individual (no zip/occupation/location), so no classification.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f4b7cb0e-8881-48b7-b83c-bcc817cdb8e9",
+  "name": "Munoz, Lindsay",
+  "resolved_employer": "Whitmire & Munoz LLC (founding Partner) — Houston public-affairs / lobbying firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lindsay Taylor Munoz is co-founder/Partner of Whitmire & Munoz LLC, a women-owned Houston government-affairs/lobbying firm (launched 2022); previously VP of Public Policy & Advocacy at the Greater Houston Partnership. Name, firm 'Whitmire & Munoz LLC', Houston 77018, and 'Consulting' occupation all match exactly.",
+  "source_url": "https://whitmiremunoz.com/about-us/",
+  "affiliations": [
+   {"org": "Whitmire & Munoz LLC", "role": "Founding partner / registered lobbyist", "category": "political", "source_url": "https://whitmiremunoz.com/about-us/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-f041ee2f-b21c-4d6b-b7a3-cf0dd0c999c0",
+  "name": "Coleman, Charles",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on the record; 'Charles Coleman' is a very common name with 700 FEC donations (lean ~0.46). Gave $1,000 to Jeff Travillion in 2021. No corroborating detail to identify the specific person, so no classification.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f03ff7fc-0828-47b5-8dc9-9b684bbbf7ce",
+  "name": "Spicewood Professional Offices",
+  "resolved_employer": "Spicewood Professional Offices — executive-suites / coworking office provider at 4408 Spicewood Springs Rd, Austin 78759",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Entity (not a person): a full-service executive-suites/coworking office-rental business at 4408 Spicewood Springs Rd, Austin, TX 78759 — matches the donor name and zip exactly. Gave $1,000 to Ann Howard.",
+  "source_url": "https://4408spicewood.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ede4b599-334b-49a5-b381-c0cc427f1e9f",
+  "name": "Winn, Stephen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip/occupation/employer on the record. FEC profile (576 donations, lean ~0.001 = heavily Republican) is consistent with a wealthy GOP mega-donor; the best-known heavy-giving 'Stephen Winn' is the Dallas billionaire RealPage founder (multifamily rent-pricing software; UT-Austin $50M donor). But giving to a Travis County Democrat (Ann Howard) is anomalous and there is no zip/location to corroborate, so identity is unconfirmed and no industry is asserted. NOTE if later confirmed: RealPage = multifamily/pro-landlord relevance.",
+  "source_url": "https://ballotpedia.org/Stephen_Winn",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-eb984631-476f-4445-a03f-3371a8b87513",
+  "name": "McGarr, Cappy",
+  "resolved_employer": "MCM Interests, LLC (President) — Dallas investment/finance; prominent Democratic bundler",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Cappy McGarr is President of MCM Interests, LLC in Dallas, a UT-McCombs MBA who runs a concentrated-equity investment business and is one of Dallas's most prominent Democratic fundraisers/bundlers (Obama-era); co-founder of the Kennedy Center Mark Twain Prize and Library of Congress Gershwin Prize. Name, MCM Interests, Dallas 75201, 'Finance' occupation and lean ~0.99 all match. (Married into the Strauss family, a prominent Dallas Jewish philanthropic family, but no direct AIPAC/pro-Israel org role was found.)",
+  "source_url": "https://www.linkedin.com/in/cappy-mcgarr-916a3b7/",
+  "affiliations": [
+   {"org": "Democratic Party (bundler/finance)", "role": "Major Democratic fundraiser/bundler", "category": "political", "source_url": "https://www.dallasobserver.com/news/get-to-know-cappy-mcgarr-7128375/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-e7483cc4-4d74-401e-bf81-a565cfab7c05",
+  "name": "Enriquez, Francisco",
+  "resolved_employer": "Adaptive Real Estate (Adaptive) — Co-Founder & CFO of the a16z/Emergence-backed construction-finance proptech SaaS",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Francisco Enriquez is Co-Founder and CFO of Adaptive (Adaptive Real Estate), a proptech/construction-finance SaaS startup (Stanford GSB; ~$26M raised, backers incl. Andreessen Horowitz, Emergence). Employer string 'Adaptive Real Estate' and 'Technology' occupation match; DC 20003 address plausible for a founder. Gave $1,000 to Andy Brown.",
+  "source_url": "https://www.crunchbase.com/person/francisco-enriquez-f842",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e3ce56ee-6f2c-4373-8b0d-a20280f68531",
+  "name": "Olivier, Raquel",
+  "resolved_employer": "Olivier, Inc. (Founder/President & CEO) — Houston project-controls/construction-management consulting firm; CPA",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Raquel Olivier, CPA/MBA of the Houston area, is founder/President & CEO of Olivier, Inc., a consulting firm providing project controls, program/construction management, and staff augmentation to public-transit, aviation, healthcare and municipal clients; public member of the Texas State Board of Veterinary Medical Examiners (appointed by Gov. Abbott). Spring, TX 77379 (north Houston metro) and lean ~0.96 are consistent. Gave $1,000 to Jeff Travillion.",
+  "source_url": "https://www.olivier-inc.com/leadership.html",
+  "affiliations": []
+ }
+]

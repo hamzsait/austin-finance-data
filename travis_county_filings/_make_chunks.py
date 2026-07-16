@@ -13,6 +13,8 @@ CHUNK_SIZE = 20
 SKIP = {
     'pct2_brigid-shea/2026-02-21_ACTA.pdf',
     'pct3_ann-howard/2022-06-16_Conflicts-Disclosure-Statement.pdf',
+    'pct4_george-morales/2025-07-26_ACTA.pdf',
+    'pct4_george-morales-constable/2017-07-14_ACTA.pdf',
 }
 
 inv = json.load(open(os.path.join(ROOT, '_inventory.json')))

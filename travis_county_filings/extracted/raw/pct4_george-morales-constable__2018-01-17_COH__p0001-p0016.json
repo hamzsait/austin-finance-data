@@ -1,0 +1,51 @@
+{"chunk": "pct4_george-morales-constable__2018-01-17_COH__p0001-p0016", "pages": [
+{"page": 1, "type": "COVER1", "filer_name": "Morales, George", "report_type": "January 15", "period_from": "07/01/2017", "period_through": "12/31/2017", "office_held": "Travis County Constable Pct 4 Travis", "correction": false},
+{"page": 2, "type": "COVER2", "total_unitemized_contributions": 650.00, "total_contributions": 2480.00, "total_unitemized_expenditures": 349.51, "total_expenditures": 4135.07, "contribution_balance": 735.23, "outstanding_loans": 0.00},
+{"page": 3, "type": "COVER3", "label": "SCHEDULE SUBTOTALS"},
+{"page": 4, "type": "A1", "sch_pos": "1/6", "entries": [
+  {"date": "07/25/2017", "name": "Adler, Stephen", "city_state_zip": "Austin, TX 78701", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "07/21/2017", "name": "Arizpe, Alyssa", "city_state_zip": "Cedar Park, TX 78613", "amount": 35.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Bennett, Brooke", "city_state_zip": "Austin, TX 78746", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Bernal, Susan", "city_state_zip": "Austin, TX 78704", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "07/07/2017", "name": "Bope, Flannery", "city_state_zip": "Austin, TX 78758", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 5, "type": "A1", "sch_pos": "2/6", "entries": [
+  {"date": "08/01/2017", "name": "Boykin, Leslie", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Bryant, Laura", "city_state_zip": "Austin, TX 78751", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Callanan, Bethany", "city_state_zip": "Austin, TX 78702", "amount": 30.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Camacho, Alisha", "city_state_zip": "Austin, TX 78752", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "07/31/2017", "name": "Cavazos, Perla", "city_state_zip": "Austin, TX 78702", "amount": 50.00, "occupation": "Dir Govt Relations", "employer": "Central Health", "oos_pac": false}
+]},
+{"page": 6, "type": "A1", "sch_pos": "3/6", "entries": [
+  {"date": "07/24/2017", "name": "Conner, Tanyia", "city_state_zip": "Kyle, TX 78640", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Espiritu, Mary Ann", "city_state_zip": "Austin, TX 78701", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "07/31/2017", "name": "Gossett, Carl", "city_state_zip": "Austin, TX 78701", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Harris, Kelley", "city_state_zip": "Austin, TX 78745", "amount": 10.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "07/25/2017", "name": "Hernandez, Laura", "city_state_zip": "Austin, TX 78722", "amount": 40.00, "occupation": "Assistant", "employer": "Mayor, City of Austin", "oos_pac": false}
+]},
+{"page": 7, "type": "A1", "sch_pos": "4/6", "entries": [
+  {"date": "08/01/2017", "name": "Israel, Celia (Rep.)", "city_state_zip": "Austin, TX 78754", "amount": 50.00, "occupation": "State Representative", "employer": "State of Texas", "oos_pac": false},
+  {"date": "08/01/2017", "name": "Jacobs, Gwen", "city_state_zip": "Austin, TX 78745", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Kennedy, Jennie", "city_state_zip": "Austin, TX 78745", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "Knight, Eben", "city_state_zip": "Austin, TX 78753", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/01/2017", "name": "McCoy, Emily", "city_state_zip": "Austin, TX 78750", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 8, "type": "A1", "sch_pos": "5/6", "entries": [
+  {"date": "09/28/2017", "name": "Morales, George", "city_state_zip": "Austin, TX 78744", "amount": 300.00, "occupation": "Constable Pct 4", "employer": "Travis County", "oos_pac": false},
+  {"date": "08/01/2017", "name": "Perez, Justin", "city_state_zip": "Austin, TX 78752", "amount": 100.00, "occupation": "Clerk", "employer": "Texas House of Representatives", "oos_pac": false},
+  {"date": "07/22/2017", "name": "Ramirez, Jill", "city_state_zip": "Austin, TX 78741", "amount": 100.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+  {"date": "08/01/2017", "name": "Richardson, Ashley", "city_state_zip": "Austin, TX 78741", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "08/17/2017", "name": "Sternburg, Jarren", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 9, "type": "A1", "sch_pos": "6/6", "entries": [
+  {"date": "08/01/2017", "name": "Thomas, George (Judge)", "city_state_zip": "Austin, TX 78725", "amount": 100.00, "occupation": "Judge", "employer": "City of Austin", "oos_pac": false},
+  {"date": "08/01/2017", "name": "Webster, Sheyna", "city_state_zip": "Austin, TX 78752", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 10, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 11, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 12, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 13, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 14, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 15, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 16, "type": "OTHER", "label": "SCHEDULE G"}
+]}

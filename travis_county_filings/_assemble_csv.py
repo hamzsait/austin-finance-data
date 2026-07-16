@@ -20,6 +20,10 @@ OFFICIALS = {
     'pct2_brigid-shea':         ('Shea, Brigid',      'Travis County Commissioner, Precinct 2'),
     'pct3_ann-howard':          ('Howard, Ann',       'Travis County Commissioner, Precinct 3'),
     'pct4_margaret-gomez':      ('Gomez, Margaret',   'Travis County Commissioner, Precinct 4'),
+    # Morales holds Pct 4 since Gómez's June 2026 retirement; constable-era
+    # filings are the same person's earlier office (one recipient, one profile).
+    'pct4_george-morales':           ('Morales, George', 'Travis County Commissioner, Precinct 4'),
+    'pct4_george-morales-constable': ('Morales, George', 'Travis County Constable, Precinct 4'),
 }
 
 validation = {r['report']: r for r in json.load(open(os.path.join(OUT, 'validation.json')))}

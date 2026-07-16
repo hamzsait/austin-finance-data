@@ -45,7 +45,8 @@ ROSTER = [
     {"slug": "travillion", "recipient": "Travillion, Jeff",  "display": "Jeff Travillion",  "district": "Commissioner Pct 1",    "race": "Travis County"},
     {"slug": "shea",       "recipient": "Shea, Brigid",      "display": "Brigid Shea",      "district": "Commissioner Pct 2",    "race": "Travis County"},
     {"slug": "howard",     "recipient": "Howard, Ann",       "display": "Ann Howard",       "district": "Commissioner Pct 3",    "race": "Travis County"},
-    {"slug": "gomez",      "recipient": "Gomez, Margaret",   "display": "Margaret Gómez",   "district": "Commissioner Pct 4",    "race": "Travis County"},
+    {"slug": "gomez",      "recipient": "Gomez, Margaret",   "display": "Margaret Gómez",   "district": "Commissioner Pct 4",    "race": "Retired June 2026"},
+    {"slug": "morales",    "recipient": "Morales, George",   "display": "George Morales III", "district": "Commissioner Pct 4",  "race": "Travis County"},
 ]
 
 
@@ -77,7 +78,7 @@ def og_meta_for(slug: str) -> dict:
     }
 
 
-COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez"}
+COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez", "morales"}
 
 # Template strings that are city-specific; swapped for Travis County profiles.
 COUNTY_TEMPLATE_SUBS = [

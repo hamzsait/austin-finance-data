@@ -1,0 +1,362 @@
+[
+ {
+  "employer_id": "bda65016-a0a4-42ef-9424-0f75cd524e9a",
+  "name": "Trilogy",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Trilogy is an Austin-based enterprise software company founded by billionaire Joe Liemandt (ESW Capital family of software firms); donor occupation 'Software' matches.",
+  "source_url": "https://en.wikipedia.org/wiki/Trilogy_(company)"
+ },
+ {
+  "employer_id": "tcv-bd4be1e2-a093-4a22-ade8-fe610b6d14a2",
+  "name": "Alpha school",
+  "industry": "Education",
+  "interest_tags": "school-choice",
+  "confidence": "high",
+  "evidence": "Alpha School is an Austin PreK-8 private school ($40k tuition) using the '2 Hour Learning' AI model, tied to the Liemandt/2HL school-choice ecosystem; donor is a 'Principal'.",
+  "source_url": "https://en.wikipedia.org/wiki/Alpha_School"
+ },
+ {
+  "employer_id": "tcv-4c26e84e-ee52-4dc3-9842-c37db8b5a60a",
+  "name": "Lake Travis Fire Fighters PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Firefighters' union political action committee (Lake Travis); name unambiguously a labor/firefighter PAC.",
+  "source_url": null
+ },
+ {
+  "employer_id": "tcv-17e1968b-cf17-4424-8b6c-22708fcffde9",
+  "name": "Pflugerville Firefighters PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Firefighters' union political action committee (Pflugerville); name unambiguously a labor/firefighter PAC.",
+  "source_url": null
+ },
+ {
+  "employer_id": "tcv-8234a05e-0c9b-4243-ae08-f292285acb85",
+  "name": "Matthew Michelsen",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Matt Michelsen runs a family office (MCM Family Partners) and is a serial tech angel/venture investor; donor occupation 'Family Office' matches, though he is San Diego-based.",
+  "source_url": "https://www.crunchbase.com/person/matt-michelsen"
+ },
+ {
+  "employer_id": "tcv-62a16903-b78a-4d6e-8d66-a76c303191a4",
+  "name": "Friends of the Expo Center PAC",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Political committee whose name references the Travis County Exposition Center (home of Rodeo Austin); appears to be an advocacy/campaign committee, but no filing detail confirmed.",
+  "source_url": "https://www.traviscountytx.gov/exposition-center"
+ },
+ {
+  "employer_id": "41e66557-9bb9-4b88-b7bf-e5c845331f82",
+  "name": "Minton Bassett Flores & Carsey",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Minton, Bassett, Flores & Carsey, P.C. is an Austin law firm (criminal defense, family law, civil litigation) operating since 1963.",
+  "source_url": "https://www.mbfc.com/"
+ },
+ {
+  "employer_id": "tcv-e127535b-c870-47f7-97e6-456ea2507221",
+  "name": "International Association of Fire Fighters PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "IAFF is the national firefighters' labor union; its PAC is a labor political committee.",
+  "source_url": null
+ },
+ {
+  "employer_id": "tcv-c4bc78f9-bc9d-43a4-bc38-96db2ad0d52a",
+  "name": "KCP Inc.",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Generic acronym company; donor self-reported 'Self employed'. Could not confirm the specific firm or its industry.",
+  "source_url": null
+ },
+ {
+  "employer_id": "tcv-85702cbb-cdb3-49e2-8860-2be4df8b0ad0",
+  "name": "DEC PAC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous PAC acronym (could be a Democratic Executive Committee or a professional-association PAC); could not confirm which organization.",
+  "source_url": null
+ },
+ {
+  "employer_id": "tcv-4eab86dc-8a1f-4789-ae6e-67e27e132e4c",
+  "name": "Aurea",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Aurea Software is an Austin enterprise-software company (an ESW Capital affiliate, sibling to Trilogy); donor occupation 'CEO'.",
+  "source_url": "https://www.aurea.com/"
+ },
+ {
+  "employer_id": "tcv-0741d68f-e00a-4af6-bbc8-3555fb9dc80e",
+  "name": "Bucee's",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Buc-ee's is the Texas travel-center/convenience-store chain; donors are 'Owner/Co-founder' (Arch 'Beaver' Aplin III founded the chain).",
+  "source_url": "https://en.wikipedia.org/wiki/Buc-ee%27s"
+ },
+ {
+  "employer_id": "9b4657b4-e0b6-4408-b20b-12dfe9031af1",
+  "name": "TelcoDR, Inc.",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "TelcoDR is a Texas-based telecom cloud software/investment company founded by Danielle Royston (also CEO of SaaS venture Totogi); donor occupation 'CEO'.",
+  "source_url": "https://telcodr.com/"
+ },
+ {
+  "employer_id": "4e779821-e916-4609-9129-787851351b0a",
+  "name": "AHCV",
+  "industry": "Healthcare",
+  "interest_tags": "health-equity",
+  "confidence": "high",
+  "evidence": "AHCV = Adelanto HealthCare Ventures, a healthcare-reimbursement/Medicaid finance consultancy (Austin office) led by CEO Carlos Zaffirini; focus on safety-net/Medicaid programs.",
+  "source_url": "https://www.linkedin.com/company/ahcv"
+ },
+ {
+  "employer_id": "0650b64d-c956-4478-a2d6-3d4ad9e959ac",
+  "name": "Legend Communities",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "high",
+  "evidence": "Legend Communities, Inc. is a Lakeway/Austin master-planned real estate developer (Rough Hollow Lakeway, The Square at Lohmans); principals Haythem Dawlett and John Scardino; donor is 'Developer/Principal'.",
+  "source_url": "https://business.laketravischamber.com/list/member/legend-communities-lakeway-4785"
+ },
+ {
+  "employer_id": "tcv-17f56786-9105-49f6-bdbd-da1729a9c576",
+  "name": "O.P.E.R.A.T.E.",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Appears to be a political committee (acronym PAC); could not confirm the sponsoring organization or industry.",
+  "source_url": null
+ },
+ {
+  "employer_id": "449237ec-3bb6-4b92-9bdf-48857cf4c5bf",
+  "name": "Roger Beasley Investments",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Investment/holding entity tied to the Roger Beasley automotive dealership group (Mazda/Hyundai/Mitsubishi) in Austin; classified by the underlying auto-retail business.",
+  "source_url": "https://www.rogerbeasleymazda.com/about-us"
+ },
+ {
+  "employer_id": "ac01fad7-3a5b-4f1a-bfad-0af6bedca07f",
+  "name": "Haveli Investments",
+  "industry": "Finance",
+  "interest_tags": "private-equity",
+  "confidence": "high",
+  "evidence": "Haveli Investments is an Austin private-equity firm (software/gaming buyouts) founded in 2021 by ex-Vista president Brian Sheth; $4.5B debut fund; donor occupations Investor/Finance.",
+  "source_url": "https://www.crunchbase.com/person/brian-sheth"
+ },
+ {
+  "employer_id": "2d40e51a-a826-49c1-a18c-66af214dc098",
+  "name": "KPW PAC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Unidentified PAC acronym; could not confirm sponsoring organization or industry.",
+  "source_url": null
+ },
+ {
+  "employer_id": "d075d7bb-746d-40af-8a35-3387a5306e2e",
+  "name": "LKCM",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "LKCM = Luther King Capital Management, a Fort Worth investment-advisory firm (with an Austin office) managing ~$28B; donor occupations Portfolio Manager/Investor.",
+  "source_url": "https://www.lkcm.com/"
+ },
+ {
+  "employer_id": "tcv-d7924798-6707-4545-b893-3a4fac78f621",
+  "name": "Marrs Ellis & Hodge LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Marrs Ellis & Hodge LLP is an Austin/Houston litigation boutique (eminent domain, fiduciary/property disputes); donors are Partner/Lawyer.",
+  "source_url": "https://mehlaw.com/"
+ },
+ {
+  "employer_id": "tcv-b323f854-0273-4f20-a9b2-6606d1eca01e",
+  "name": "Halff Associates State PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Corporate PAC of Halff Associates, a large Texas (Richardson) engineering/architecture/surveying firm founded 1950.",
+  "source_url": "https://halff.com/people-culture/our-story/"
+ },
+ {
+  "employer_id": "ee43ae36-656d-43e6-ab3e-4fbb342abb4b",
+  "name": "Favorite Brands",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Favorite Brands is a family-owned Texas beer/wine/spirits distributor (LaMantia family, serves Austin/San Antonio/Dallas/Houston); donors 'Beer Manager/Owner'. Wholesale beverage distribution.",
+  "source_url": "https://www.fbdistributing.com/"
+ },
+ {
+  "employer_id": "tcv-aeebf7e9-bc08-4281-a6a7-fd70485133bc",
+  "name": "ePsolutions Inc",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "ePsolutions, Inc. is an Austin software company automating utility-company back-office/CRM operations (founded 2004); donor occupation 'CEO'.",
+  "source_url": "https://www.epsolutions.com/"
+ },
+ {
+  "employer_id": "d7d3eaef-1f88-4f7c-abe2-c45db4ae15e7",
+  "name": "Austin Firefighters Assoc PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Political committee of the Austin Firefighters Association (firefighters' labor union).",
+  "source_url": null
+ },
+ {
+  "employer_id": "78d353b4-be62-41a8-9a42-0f6f013d547b",
+  "name": "Lake Flato",
+  "industry": "Architecture",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Lake|Flato Architects is a nationally recognized San Antonio architecture firm (founded 1984) with an Austin office; donor is 'Office Manager'.",
+  "source_url": "https://www.lakeflato.com/"
+ },
+ {
+  "employer_id": "tcv-da568fbb-542a-4d18-a5f9-73ea8b07e43d",
+  "name": "LawBridge",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "LawBridge is an Austin legal-services company building a vetted attorney network offering affordable legal services/document generation; donor occupation 'Attorney'.",
+  "source_url": "https://www.lawbridge.com/"
+ },
+ {
+  "employer_id": "tcv-cdc8bb77-9d7f-4af5-bc5e-066b42db58d4",
+  "name": "Tames partners",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "medium",
+  "evidence": "Donor self-reports 'Real estate developer'; consistent with Austin real-estate figure Kirk Tames, though the specific firm 'Tames Partners' was not independently confirmed.",
+  "source_url": "https://www.linkedin.com/in/kirk-tames/"
+ },
+ {
+  "employer_id": "tcv-c5d81184-ffba-415b-b98d-557f35166b83",
+  "name": "JPM Ranch Company",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "JPM Ranch Company is a Montague County, TX cattle/quarter-horse ranch owned by Jack Martin (former Hill+Knowlton CEO) & Patsy Woods Martin; the family platform (JPM Advisory) is also active in oil & gas. Ranching has no taxonomy label.",
+  "source_url": "https://www.jpmranchcompany.com/"
+ },
+ {
+  "employer_id": "tcv-76250fb2-e829-4439-9ce5-7a9c7db0a82f",
+  "name": "AMBL-IEM,LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Unidentified LLC; donor occupation 'Partner'. Could not confirm the business or its industry.",
+  "source_url": null
+ },
+ {
+  "employer_id": "tcv-17728924-346c-435a-b04a-740f1bc6ec23",
+  "name": "Luther King Company Management Corporation",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Same as LKCM: Luther King Capital Management, Fort Worth investment-advisory firm (offices incl. Austin); donor occupation 'Investment Advisor'.",
+  "source_url": "https://www.lkcm.com/"
+ },
+ {
+  "employer_id": "tcv-11af6e58-3fc6-4025-80f9-528fb3de4afd",
+  "name": "LAN-PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Corporate PAC of Lockwood, Andrews & Newnam, Inc. (LAN), a Texas civil-engineering firm founded 1935.",
+  "source_url": "https://lan-inc.com/"
+ },
+ {
+  "employer_id": "f50e13ed-52d3-4a97-9a01-2e72af207867",
+  "name": "ABML",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Unidentified acronym company; donor occupation 'President/Owner'. Could not confirm the business or industry.",
+  "source_url": null
+ },
+ {
+  "employer_id": "c49333db-2cd5-473e-a002-7937b78b90b7",
+  "name": "iFLY",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "iFLY Indoor Skydiving is an Austin-headquartered indoor-skydiving (wind-tunnel) recreation/attraction company; donor occupation 'engineer' fits iFLY Holdings' tunnel engineering.",
+  "source_url": "https://www.iflyworld.com/"
+ },
+ {
+  "employer_id": "b4a91225-30f9-4dde-9ae4-a9bf3f2d1a8a",
+  "name": "GoodLeap",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "GoodLeap (formerly Loanpal) is a sustainability-focused fintech lender financing residential solar/clean-energy home improvements; donor is 'CEO Founder Chairman' (Hayes Barnard).",
+  "source_url": "https://en.wikipedia.org/wiki/GoodLeap"
+ },
+ {
+  "employer_id": "ac95bee2-d813-4470-9b64-bb461f097e0d",
+  "name": "Carpenter & Associates Inc",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "high",
+  "evidence": "Carpenter & Associates, Inc. is an Austin full-service real estate brokerage/development/investment firm (founded 1971); donor occupation 'Real Estate Investor'.",
+  "source_url": "http://www.carpenteraustin.com/"
+ },
+ {
+  "employer_id": "69245a98-3b2c-4513-9a80-c2223d8cf9c9",
+  "name": "Asuragen",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Asuragen is an Austin molecular-diagnostics company (genetic carrier screening, oncology testing kits), now a Bio-Techne brand; donor occupation 'Chairman'.",
+  "source_url": "https://asuragen.com/"
+ },
+ {
+  "employer_id": "4fcd49ab-ccfa-4e6e-9c11-778fd1aca065",
+  "name": "Rudner Law Offices",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Rudner Law Offices (Dallas) is a hospitality-industry law firm representing hotels/resorts/conference centers; founder/owner Steve Rudner; donor occupation 'Owner'.",
+  "source_url": "http://hotellawyers.com/"
+ },
+ {
+  "employer_id": "tcv-628e1d8e-0d33-4ba6-815c-25f9aa2585f0",
+  "name": "Kleinheinz Capital Partners",
+  "industry": "Finance",
+  "interest_tags": "republican-money",
+  "confidence": "high",
+  "evidence": "Kleinheinz Capital Partners was a Fort Worth global long/short hedge fund founded by John Kleinheinz (peaked ~$4B AUM); Kleinheinz is a prominent Republican mega-donor. Donor occupation 'CEO-President'.",
+  "source_url": "https://www.preqin.com/data/profile/fund-manager/kleinheinz-capital-partners/16409"
+ },
+ {
+  "employer_id": "tcv-9b9892c2-6b7b-4631-bf0f-ee8cad63c221",
+  "name": "Kirfman, Jack, Sec. - Vote PAC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Appears to be a union/labor 'Vote' PAC (secretary Jack Kirfman); sample occupation 'Employee Organizing' supports a labor committee, but the specific sponsoring union was not confirmed.",
+  "source_url": null
+ }
+]

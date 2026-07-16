@@ -1,0 +1,18 @@
+{"chunk": "pct4_george-morales-constable__2023-01-17_COH__p0001-p0011", "pages": [
+{"page": 1, "type": "COVER1", "filer_name": "Morales, George", "report_type": "January 15", "period_from": "07/01/2022", "period_through": "12/31/2022", "office_held": "Constable Pct 4 Travis", "correction": false},
+{"page": 2, "type": "COVER2", "total_unitemized_contributions": 0.00, "total_contributions": 1724.31, "total_unitemized_expenditures": 0.00, "total_expenditures": 8406.07, "contribution_balance": 18707.00, "outstanding_loans": 0.00},
+{"page": 3, "type": "COVER3", "label": "SUBTOTALS - C/OH"},
+{"page": 4, "type": "A1", "sch_pos": "1/1", "entries": [
+  {"date": "12/21/2022", "name": "Brown, Andy", "city_state_zip": "Austin, TX 78751", "amount": 250.00, "occupation": "County Judge", "employer": "Travis County", "oos_pac": false},
+  {"date": "10/28/2022", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731", "amount": 210.84, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+  {"date": "10/10/2022", "name": "Judith Zaffirini Campaign", "city_state_zip": "Laredo, TX 78042", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "10/04/2022", "name": "Lugo, Leticia", "city_state_zip": "Cedar Creek, TX 78612", "amount": 263.47, "occupation": "Police officer", "employer": "AISD PD", "oos_pac": false}
+]},
+{"page": 5, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 6, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 7, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 8, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 9, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 10, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 11, "type": "OTHER", "label": "SCHEDULE F1"}
+]}

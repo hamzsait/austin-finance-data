@@ -1,0 +1,362 @@
+[
+ {
+  "employer_id": "tcv-7cdf1ff3-a4f6-4ec2-9974-5cb2df29a0fc",
+  "name": "Whitmire & Munoz LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Women-owned Texas government affairs/lobbying firm (Houston-based, est. 2022) representing AT&T, Comcast, CenterPoint, TX Assn of Realtors; occupation 'Director Government Relations' matches.",
+  "source_url": "https://whitmiremunoz.com/about-us/"
+ },
+ {
+  "employer_id": "tcv-f0823bc1-4ea4-48ab-971a-380bb4dd462d",
+  "name": "Fractal Power",
+  "industry": "Energy / Environment",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Fractal Power Inc., Austin-based (founded 2025) vertically integrated grid-scale energy developer/owner/operator and trader; occupation 'Energy' matches.",
+  "source_url": "https://www.fractalpower.com/"
+ },
+ {
+  "employer_id": "tcv-e8705468-555d-4b35-9a70-677f6eaaa0c0",
+  "name": "Goodrich",
+  "industry": "Not Employed",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'Goodrich' appears to be the donor's own surname, not a firm; sole occupation listed is 'Not Employed' and no employed donors attached.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-e0d1aec6-941d-4f0a-bd70-3ed75e3d80f4",
+  "name": "Alotten Inc.",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Alotten Inc. (founded 2022, Austin) is a strategic HR software & consulting firm led by CEO Kent Radford; occupation 'CEO' matches. HR-tech/consulting blend.",
+  "source_url": "https://www.alotten.com/company"
+ },
+ {
+  "employer_id": "tcv-b9f2f3b1-6ea9-45fd-955b-82812f223cb9",
+  "name": "Evans / DeShazo / Reilley",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Evans / DeShazo / Reilley is an Austin personal-injury/trial law firm (founded 2011 by Chip Evans); occupation 'Attorney' matches.",
+  "source_url": "https://www.evanstxlaw.com/about-us/"
+ },
+ {
+  "employer_id": "tcv-adb01c87-b2b8-484e-bf28-2f254508352c",
+  "name": "Texas Protax",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Texas Protax is Central Texas' largest property-tax protest/consulting firm (Austin), representing residential & commercial property owners in valuation appeals; occupation 'Property Tax Counselor' matches. Real-estate-adjacent professional services.",
+  "source_url": "https://texasprotax.com/"
+ },
+ {
+  "employer_id": "tcv-a4973c5f-fa23-41fc-a764-5cb9e0d81c09",
+  "name": "Joy Gift Shoppe",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Gift shop; occupation 'Retail Store Owner' confirms a retail business.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-8c99e5a4-8dc9-4638-b971-e53a3fd39c24",
+  "name": "Travis Co. Retiree",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Retiree whose listed occupation is 'Attorney'; former career in law. (retired)",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-8585a851-4884-4327-8741-73a95aa72036",
+  "name": "Joseph Design Build",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,luxury-real-estate,homebuilders",
+  "confidence": "high",
+  "evidence": "Joseph Design Build (est. 2014) is an Austin design-led luxury custom home developer/builder with a $170M+ pipeline in 78704; occupation 'Developer' matches.",
+  "source_url": "https://www.jdb.homes/"
+ },
+ {
+  "employer_id": "tcv-831c736d-25cc-4d37-b42f-24b1164f0d80",
+  "name": "Whole Dudes, LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Whole Dudes, LLC is a registered Austin, TX LLC (bizapedia/opencorporates) but its line of business is not disclosed; no occupation data attached.",
+  "source_url": "https://www.bizapedia.com/tx/whole-dudes-llc.html"
+ },
+ {
+  "employer_id": "tcv-816f40aa-2a6f-455d-8451-e01ac5c108f2",
+  "name": "Printing",
+  "industry": "Self-Employed",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Generic 'Printing' employer with occupation 'self-employed' — a self-employed printer; no specific firm identifiable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-78c8acf5-8514-461f-ac1f-bfe65515af35",
+  "name": "Blue Norther Live",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Blue Norther Live is an Austin event-production company (founder Lindsey Sokol, ex-C3 Presents) producing food/music/community events; occupation 'Producer and Owner' matches.",
+  "source_url": "https://www.bluenortherlive.com/"
+ },
+ {
+  "employer_id": "tcv-736daaa7-53b8-46f0-967d-2913747dbf70",
+  "name": "EV",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'EV' is too ambiguous (initials or abbreviation) with only 'marketing' as occupation; cannot confidently identify the employer.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-683676cf-0cdc-4695-9f15-043beed03767",
+  "name": "Jacques Vroom",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "medium",
+  "evidence": "Jacques Vroom III (Dallas) is a direct-marketing/technology executive — CMO of Worlds Enterprises, formerly at Capital Factory uniting startups/investors; occupation 'Technology' matches. Self-named employer = self-employed consultant.",
+  "source_url": "https://www.linkedin.com/in/jacquesvroom/"
+ },
+ {
+  "employer_id": "tcv-64f3b17c-b400-438e-be91-c81239981e1e",
+  "name": "K&L Gates LLP Committee for Good Government",
+  "industry": "Legal",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Corporate political action committee of the international law firm K&L Gates LLP (a law-firm PAC).",
+  "source_url": "https://www.klgates.com/"
+ },
+ {
+  "employer_id": "tcv-5a2d9046-facf-4601-8ba2-1af0ebca38d0",
+  "name": "D9 Group LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "D9 Group LLC is a registered Austin, TX company but its business is not clearly disclosed (listed generically as an 'information service'); occupation 'Manager' is non-specific.",
+  "source_url": "https://www.bizapedia.com/tx/d9-group-llc.html"
+ },
+ {
+  "employer_id": "tcv-4f788cc5-39c5-4605-9333-b7f78efb042a",
+  "name": "John",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "'John' is not an identifiable employer; only occupation 'Consultant' given. Cannot classify.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-4d1ffe65-6b08-4a1a-98a9-3360947feeeb",
+  "name": "Forterra Developers, LLC",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,homebuilders",
+  "confidence": "high",
+  "evidence": "Forterra Developers is a Texas land-development firm (Liberty Hill/Georgetown) building master-planned residential communities, business parks and mixed-use projects near Austin.",
+  "source_url": "https://www.forterradev.com/about"
+ },
+ {
+  "employer_id": "tcv-275becdb-62ce-4631-b08f-b8592487085d",
+  "name": "John Blaha",
+  "industry": "Self-Employed",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Self-named employer with occupation 'Self-Employed'; could not confirm the specific individual's field.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-1971b997-7724-42e6-8b7e-df7f6c820f68",
+  "name": "MCM Interests",
+  "industry": "Finance",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "MCM Interests, LLC is a Texas financial services/investment holding entity (filed 2002); occupation 'Finance' matches.",
+  "source_url": "https://www.bloomberg.com/profile/company/0664237D:US"
+ },
+ {
+  "employer_id": "tcv-17b56286-8c1e-4749-9810-ee393b367c10",
+  "name": "Bracewell & Giuliana Committee",
+  "industry": "Legal",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Political action committee of the law firm Bracewell LLP (formerly Bracewell & Giuliani) — a law-firm PAC.",
+  "source_url": "https://bracewell.com/"
+ },
+ {
+  "employer_id": "tcv-04f34c87-af2c-4846-8d35-f82ae2da1fa1",
+  "name": "SH 71-130 Holdings LP",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "medium",
+  "evidence": "Named for Texas highways SH 71 and SH 130, this is a land/real-estate holding limited partnership (LP structure typical of property investment along those Austin-area corridors).",
+  "source_url": ""
+ },
+ {
+  "employer_id": "f554893d-5d62-4404-8cf6-457366f8c445",
+  "name": "GSDM",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "GSD&M is a major Austin-headquartered national advertising/marketing agency (founded 1971, Omnicom-owned; Southwest Airlines, Walmart, US Air Force); occupation 'Advertising' matches.",
+  "source_url": "https://www.gsdm.com/"
+ },
+ {
+  "employer_id": "e5c6fddc-ab06-4adf-84b5-94d307bc5de7",
+  "name": "O'Hanlon, Demerath & Castillo",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin law firm (founded 1992) practicing public finance, school law, economic development, employment and business/technology law.",
+  "source_url": "https://www.808west.com/"
+ },
+ {
+  "employer_id": "cc09118f-7570-474c-924a-27795bbc457e",
+  "name": "Poinsett PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "PLLC (professional law entity) with attached occupation 'Attorney' — a law practice.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "af514559-f725-45e9-8f27-5cd5d7eb26ce",
+  "name": "Development Director",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Donor is a Development Director at Stepping Stone Schools, an Austin-area private early-childhood/preschool education chain (the 'name' field captured the job title, 'Stepping Stone Schools' the employer).",
+  "source_url": "https://steppingstoneschool.com/"
+ },
+ {
+  "employer_id": "9db99cd1-f8be-4947-bf94-ae6787c6a5af",
+  "name": "IDM",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,multifamily-housing",
+  "confidence": "medium",
+  "evidence": "IDM (IDM Companies / IDM Builders) is an integrated real-estate development firm — multifamily/apartment development and Central Texas custom homebuilding; occupation 'Real Estate' matches.",
+  "source_url": "https://idmcompanies.com/"
+ },
+ {
+  "employer_id": "8f3e5e9d-8164-4f2a-9b41-2a6ce71d5297",
+  "name": "Nike",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Nike, the global footwear/apparel brand; occupation 'Sneakers' confirms.",
+  "source_url": "https://www.nike.com/"
+ },
+ {
+  "employer_id": "400155c1-d5f2-41d7-b97c-89eeff5d545e",
+  "name": "Chairman",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Donor is Chairman of Vital Farms, the Austin-headquartered pasture-raised egg & butter consumer-food brand (publicly traded, VITL); classified as a consumer/retail branded-goods company. ('name' field captured the title 'Chairman').",
+  "source_url": "https://vitalfarms.com/leadership-team/"
+ },
+ {
+  "employer_id": "tcv-d4fa5283-0cdf-49c2-ba66-f0ff274663ab",
+  "name": "Ann Gill Howard Campaign Account",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "A candidate political campaign account/committee (a political entity rather than a commercial employer); classified as Government/political.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-80fdf61e-8c50-42c8-bd50-4bf25a2a1d79",
+  "name": "Mpvc",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Abbreviated employer 'Mpvc' with occupation 'RE' (real estate); specific firm not confirmable, industry inferred from occupation only.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-3577472a-e53a-4909-99a7-54f4d8885d58",
+  "name": "Mitchell & Colmenero LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin law firm (est. 1999, 700 Lavaca St) practicing business, real estate, family, tax and estate law; occupation 'Attorney' matches.",
+  "source_url": "https://www.lawyers.com/austin/texas/mitchell-and-colmenero-llp-1625548-f/"
+ },
+ {
+  "employer_id": "f600a514-b946-4db9-bacb-eef16004bae0",
+  "name": "Smart City Policy Group",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Austin government-affairs/lobbying consultancy founded 2017 by Matt Curtis (ex-Austin mayoral aide, ex-HomeAway/Expedia policy head) advising on short-term-rental/ride-hail regulation; occupations 'Consultant,Founder' match.",
+  "source_url": "https://smartcitypolicygroup.com/our-team/"
+ },
+ {
+  "employer_id": "2edb667d-5264-4ae9-aa70-c124b1605698",
+  "name": "Eliza Page",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Eliza Page is an Austin designer/fine-jewelry boutique (2nd Street District, founded 2004 by owner Elizabeth Gibson); occupation 'Owner' matches.",
+  "source_url": "https://www.elizapage.com/pages/about-us-our-story"
+ },
+ {
+  "employer_id": "tcv-fb4003a9-cada-4b76-8981-4bd30a9eeada",
+  "name": "Geodesic Capital",
+  "industry": "Venture Capital",
+  "interest_tags": "private-equity,tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Geodesic Capital is a venture-capital firm; occupations 'Partner,Venture Capital' confirm.",
+  "source_url": "https://www.geodesiccapital.com/"
+ },
+ {
+  "employer_id": "tcv-35a347a5-a651-47a3-9c00-e2ac75bc5893",
+  "name": "Snell Law",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Law practice ('Snell Law') with attached occupation 'Attorney'.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "e1c8c873-725e-4e85-aa22-9764ec54d399",
+  "name": "Texas General Land Office",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Texas General Land Office is a Texas state government agency; occupation 'Senior Deputy Director' confirms a government employee.",
+  "source_url": "https://www.glo.texas.gov/"
+ },
+ {
+  "employer_id": "add8dbbd-c9e7-4b39-9be4-2ad752476e54",
+  "name": "Zocalo Design",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Zocalo Design is a full-service Austin branding/graphic/web design agency (since 2001); occupation 'Graphic Design' matches. Creative/marketing services.",
+  "source_url": "https://www.zocalodesign.com/"
+ },
+ {
+  "employer_id": "8de17f97-a71c-4bcf-8a91-b5e3a3675d14",
+  "name": "McGuire Moorman Hospitality",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "McGuire Moorman Hospitality (MML) is a prominent Austin restaurant & hospitality group (Thomas Moorman named); a bookkeeper and principal are the attached donors.",
+  "source_url": "https://www.mmhospitality.com/"
+ },
+ {
+  "employer_id": "tcv-f568f175-0374-4ce8-b22f-24e4a3b984a4",
+  "name": "Accelerating Purpose",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Accelerating Purpose is an impact-consulting firm working with purpose-driven business leaders on culture/storytelling; occupation 'Consultant' matches.",
+  "source_url": "https://www.acceleratingpurpose.com/"
+ }
+]

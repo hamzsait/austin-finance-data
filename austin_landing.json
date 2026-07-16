@@ -10,27 +10,27 @@
    "href": "/austin/watson/",
    "raised": "$3.2M",
    "donors": "6,317",
-   "empPct": "69.5%",
+   "empPct": "70.2%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$517K",
+     "amt": "$520K",
      "w": 100
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$492K",
+     "w": 95
     },
     {
      "label": "Legal",
      "amt": "$370K",
-     "w": 72
+     "w": 71
     },
     {
      "label": "Retail / Media / Other",
-     "amt": "$187K",
-     "w": 36
-    },
-    {
-     "label": "Consulting / PR",
-     "amt": "$184K",
-     "w": 36
+     "amt": "$192K",
+     "w": 37
     }
    ]
   },
@@ -43,7 +43,7 @@
    "href": "/austin/harpermadison/",
    "raised": "$245K",
    "donors": "850",
-   "empPct": "80.9%",
+   "empPct": "82.1%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -62,8 +62,8 @@
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$15K",
-     "w": 28
+     "amt": "$16K",
+     "w": 29
     }
    ]
   },
@@ -76,12 +76,17 @@
    "href": "/austin/fuentes/",
    "raised": "$228K",
    "donors": "1,075",
-   "empPct": "82.0%",
+   "empPct": "82.4%",
    "topGroups": [
     {
      "label": "Real Estate",
      "amt": "$49K",
      "w": 100
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$20K",
+     "w": 41
     },
     {
      "label": "Government",
@@ -92,11 +97,6 @@
      "label": "Legal",
      "amt": "$17K",
      "w": 34
-    },
-    {
-     "label": "Retail / Media / Other",
-     "amt": "$16K",
-     "w": 33
     }
    ]
   },
@@ -109,7 +109,7 @@
    "href": "/austin/velasquez/",
    "raised": "$202K",
    "donors": "776",
-   "empPct": "84.5%",
+   "empPct": "84.9%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -175,7 +175,7 @@
    "href": "/austin/alter/",
    "raised": "$264K",
    "donors": "688",
-   "empPct": "86.7%",
+   "empPct": "87.4%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -208,7 +208,7 @@
    "href": "/austin/laine/",
    "raised": "$123K",
    "donors": "630",
-   "empPct": "72.8%",
+   "empPct": "73.3%",
    "topGroups": [
     {
      "label": "Technology",
@@ -216,17 +216,17 @@
      "w": 100
     },
     {
+     "label": "Not Employed",
+     "amt": "$19K",
+     "w": 66
+    },
+    {
      "label": "Government",
-     "amt": "$8K",
+     "amt": "$9K",
      "w": 29
     },
     {
      "label": "Real Estate",
-     "amt": "$8K",
-     "w": 29
-    },
-    {
-     "label": "Nonprofit / Advocacy",
      "amt": "$8K",
      "w": 28
     }
@@ -241,27 +241,27 @@
    "href": "/austin/siegel/",
    "raised": "$279K",
    "donors": "1,206",
-   "empPct": "77.2%",
+   "empPct": "77.7%",
    "topGroups": [
     {
      "label": "Technology",
-     "amt": "$40K",
+     "amt": "$41K",
      "w": 100
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$36K",
+     "w": 87
     },
     {
      "label": "Real Estate",
      "amt": "$32K",
-     "w": 80
+     "w": 78
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$22K",
+     "amt": "$23K",
      "w": 55
-    },
-    {
-     "label": "Retail / Media / Other",
-     "amt": "$21K",
-     "w": 52
     }
    ]
   },
@@ -274,7 +274,7 @@
    "href": "/austin/ellis/",
    "raised": "$273K",
    "donors": "892",
-   "empPct": "85.2%",
+   "empPct": "86.2%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -340,27 +340,27 @@
    "href": "/austin/duchen/",
    "raised": "$181K",
    "donors": "688",
-   "empPct": "66.7%",
+   "empPct": "66.8%",
    "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$40K",
+     "w": 100
+    },
     {
      "label": "Real Estate",
      "amt": "$31K",
-     "w": 100
+     "w": 78
     },
     {
      "label": "Legal",
      "amt": "$13K",
-     "w": 43
+     "w": 34
     },
     {
      "label": "Retail / Media / Other",
      "amt": "$11K",
-     "w": 36
-    },
-    {
-     "label": "Technology",
-     "amt": "$10K",
-     "w": 33
+     "w": 28
     }
    ]
   },
@@ -373,27 +373,27 @@
    "href": "/austin/brown/",
    "raised": "$1.4M",
    "donors": "1,273",
-   "empPct": "70.7%",
+   "empPct": "94%",
    "topGroups": [
     {
      "label": "Finance",
-     "amt": "$364K",
+     "amt": "$428K",
      "w": 100
     },
     {
-     "label": "Real Estate",
-     "amt": "$112K",
-     "w": 31
-    },
-    {
-     "label": "Legal",
-     "amt": "$111K",
-     "w": 30
-    },
-    {
      "label": "Retail / Media / Other",
-     "amt": "$98K",
-     "w": 27
+     "amt": "$187K",
+     "w": 44
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$159K",
+     "w": 37
+    },
+    {
+     "label": "Technology",
+     "amt": "$154K",
+     "w": 36
     }
    ]
   },
@@ -406,27 +406,27 @@
    "href": "/austin/travillion/",
    "raised": "$620K",
    "donors": "510",
-   "empPct": "64.1%",
+   "empPct": "84.5%",
    "topGroups": [
     {
-     "label": "Legal",
-     "amt": "$67K",
+     "label": "Real Estate",
+     "amt": "$93K",
      "w": 100
     },
     {
-     "label": "Real Estate",
-     "amt": "$64K",
-     "w": 95
+     "label": "Legal",
+     "amt": "$81K",
+     "w": 87
     },
     {
      "label": "Consulting / PR",
-     "amt": "$52K",
-     "w": 78
+     "amt": "$65K",
+     "w": 70
     },
     {
      "label": "Construction",
-     "amt": "$50K",
-     "w": 74
+     "amt": "$53K",
+     "w": 57
     }
    ]
   },
@@ -439,27 +439,27 @@
    "href": "/austin/shea/",
    "raised": "$789K",
    "donors": "657",
-   "empPct": "59.4%",
+   "empPct": "87%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$102K",
+     "amt": "$128K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$83K",
-     "w": 82
+     "amt": "$97K",
+     "w": 75
     },
     {
-     "label": "Consulting / PR",
-     "amt": "$44K",
-     "w": 43
+     "label": "Retail / Media / Other",
+     "amt": "$90K",
+     "w": 70
     },
     {
-     "label": "Education",
-     "amt": "$33K",
-     "w": 32
+     "label": "Nonprofit / Advocacy",
+     "amt": "$57K",
+     "w": 44
     }
    ]
   },
@@ -472,27 +472,60 @@
    "href": "/austin/howard/",
    "raised": "$399K",
    "donors": "416",
-   "empPct": "53.6%",
+   "empPct": "77.3%",
    "topGroups": [
     {
-     "label": "Legal",
-     "amt": "$65K",
+     "label": "Real Estate",
+     "amt": "$75K",
      "w": 100
     },
     {
-     "label": "Real Estate",
-     "amt": "$45K",
-     "w": 69
+     "label": "Legal",
+     "amt": "$67K",
+     "w": 89
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$25K",
+     "w": 33
     },
     {
      "label": "Construction",
-     "amt": "$20K",
+     "amt": "$23K",
      "w": 30
+    }
+   ]
+  },
+  {
+   "slug": "morales",
+   "photo": "tc-morales",
+   "name": "George Morales III",
+   "district": "Commissioner Pct 4",
+   "race": "Travis County",
+   "href": "/austin/morales/",
+   "raised": "$414K",
+   "donors": "653",
+   "empPct": "73.3%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$62K",
+     "w": 100
     },
     {
-     "label": "Engineering",
-     "amt": "$16K",
-     "w": 24
+     "label": "Government",
+     "amt": "$58K",
+     "w": 93
+    },
+    {
+     "label": "Legal",
+     "amt": "$49K",
+     "w": 78
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$36K",
+     "w": 58
     }
    ]
   },
@@ -501,11 +534,11 @@
    "photo": "tc-gomez",
    "name": "Margaret Gómez",
    "district": "Commissioner Pct 4",
-   "race": "Travis County",
+   "race": "Retired June 2026",
    "href": "/austin/gomez/",
    "raised": "$158K",
    "donors": "137",
-   "empPct": "56.4%",
+   "empPct": "84%",
    "topGroups": [
     {
      "label": "Government",
@@ -513,19 +546,19 @@
      "w": 100
     },
     {
+     "label": "Technology",
+     "amt": "$26K",
+     "w": 77
+    },
+    {
      "label": "Real Estate",
-     "amt": "$19K",
-     "w": 58
+     "amt": "$21K",
+     "w": 62
     },
     {
      "label": "Legal",
-     "amt": "$14K",
-     "w": 42
-    },
-    {
-     "label": "Consulting / PR",
-     "amt": "$5K",
-     "w": 16
+     "amt": "$19K",
+     "w": 56
     }
    ]
   }

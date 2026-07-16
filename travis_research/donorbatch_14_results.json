@@ -1,0 +1,109 @@
+[
+ {
+  "donor_id": "fb063d6c-7b0e-4825-9684-6562b7cbf875",
+  "name": "Jackson, Robena",
+  "resolved_employer": "Group Solutions RJW (founder/president) — Austin public-involvement & communications firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Robena Jackson founded the Robena Jackson Agency (1992), incorporated as Group Solutions RJW / RJW Operations Inc, a Central Texas communications-strategy and public-involvement firm serving TxDOT, CTRMA, CAMPO, Austin Water and other agencies; former CEO of the Austin Area Urban League and VP of the Greater Austin Chamber. Austin (78759) matches; all-Democratic FEC lean fits a civic figure.",
+  "source_url": "http://groupsolutionsrjw.com/about/",
+  "affiliations": [
+   {"org": "Austin Area Urban League", "role": "former Chief Executive", "category": "civic", "source_url": "https://www.linkedin.com/in/robena-jackson-4826b324/"},
+   {"org": "Greater Austin Chamber of Commerce", "role": "former Vice President", "category": "business", "source_url": "https://www.linkedin.com/in/robena-jackson-4826b324/"}
+  ]
+ },
+ {
+  "donor_id": "0b743974-b933-409d-ab24-0cae036859bf",
+  "name": "Jones, Melissa Ann",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-listed as Retired in Austin's Tarrytown (78703); a prolific small-dollar Democratic donor (4048 FEC gifts, lean 0.99). 'Melissa Jones' is too common to confirm a specific person or former career from public records.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-480df5b3-e3a7-42e4-a69d-bd55b502ecb4",
+  "name": "Schweinfurth, Stephanie",
+  "resolved_employer": "Readers 2 Leaders (co-founder) — West Dallas children's literacy nonprofit",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Stephanie Schweinfurth co-founded the Readers 2 Leaders literacy nonprofit in West Dallas (2010), was West Dallas Coordinator for Watermark Church, and serves on the BookSpring board; a 20+ year community/literacy volunteer described as a recent transplant to Austin from Dallas. Dallas 75219 origin + Austin move corroborates the gift to Travis County's Ann Howard; husband Ted is a Dallas attorney.",
+  "source_url": "https://voyagedallas.com/interview/meet-ted-schweinfurth-stephanie-schweinfurth-readers-2-leaders-west-dallas/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2034a624-f63f-49df-b822-fe81fed65441",
+  "name": "Heartfield, Melanie",
+  "resolved_employer": "Community volunteer, Beaumont; family of the Heartfield Law Firm",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Melanie (McAllen) Heartfield of Beaumont (77706) was a past president of the Junior League of Beaumont and is the wife of attorney Thad Heartfield of the Heartfield Law Firm (mother of Aidan Heartfield, d.2025). No confirmed personal occupation, so industry left null; identity is well-supported by the distinctive name + Beaumont 77706.",
+  "source_url": "https://juniorleaguebeaumont.org/past-presidents/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6971d67f-b6c8-4fe2-8d26-ca4c1c942e2b",
+  "name": "Beall, Beth",
+  "resolved_employer": "Texas Coffee Traders (president / co-owner)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Beth Beall is president and co-owner (with husband R.C. Beall) of Texas Coffee Traders, an East Austin artisanal coffee roaster/cafe founded 1994; also South Central Regional Coordinator for the Specialty Coffee Association. Self-listed occupation 'Coffee Roaster / Texas Coffee Traders' and Austin 78705 match exactly.",
+  "source_url": "https://www.texascoffeetraders.com/our-story",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bac50d27-7e35-4b0f-8011-45ce1650d74e",
+  "name": "Jackson, Kacee",
+  "resolved_employer": "The 360 Company (president) — Austin real estate development/investment",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Kacee Jackson is president of The 360 Company, an Austin real-estate firm doing fix-and-flips, multifamily, land subdivision and ground-up construction; ~400 projects since 2012, member of the Texas Land Developers Association, UT-Austin economics/regional-planning grad. Austin (78733, Westlake) matches; despite a fully-Republican FEC lean he gave to Democrat Ann Howard.",
+  "source_url": "https://texaslanddevelopers.org/kacee-jackson/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8d46f94-b7c0-4e6a-a890-73b276847529",
+  "name": "Wilkerson, Ray",
+  "resolved_employer": "Ray Wilkerson Companies Inc (president/CEO) — Austin commercial real estate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ray Wilkerson is president/CEO of Ray Wilkerson Companies, an Austin commercial real-estate development firm, longtime chairman of the Central Texas Regional Mobility Authority (CTRMA), former first chair of the LCRA, and 2018 Austinite of the Year. Austin 78757 and his real-estate/transportation profile match; Republican-leaning FEC record but gave to Democrat Jeff Travillion.",
+  "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year",
+  "affiliations": [
+   {"org": "Central Texas Regional Mobility Authority (CTRMA)", "role": "Chairman (appointed by Gov. Perry, 2009)", "category": "political", "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year"}
+  ]
+ },
+ {
+  "donor_id": "tcv-89b6d031-9edb-48c2-a405-8dab408afd07",
+  "name": "Lowenthal, Eugene",
+  "resolved_employer": "Database-technology pioneer, Microelectronics and Computer Technology Corp (MCC), Austin (retired)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Eugene I. Lowenthal is a database/knowledgebase computer scientist who led database research at Austin's MCC consortium and published in VLDB/ACM SIGMOD; owns property at 9600 Crumley Ranch Rd and is tied to the HPR Scenic Corridor Coalition (Hill Country conservation). Austin 78738 and property records match; 173 FEC gifts, fully-Democratic lean.",
+  "source_url": "https://www.vldb.org/conf/1986/P436.PDF",
+  "affiliations": [
+   {"org": "HPR Scenic Corridor Coalition", "role": "principal / registered entity at his address", "category": "civic", "source_url": "https://www.city-data.com/austin-properties/C/Crumley-Ranch-Road-2.html"}
+  ]
+ },
+ {
+  "donor_id": "tcv-8876f968-c39c-4dfb-baa1-3bb5b4192323",
+  "name": "Parker, James",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78757 donor to Brigid Shea with only 2 FEC gifts and no listed occupation/employer. 'James Parker' is extremely common in Austin; no public record could be tied to this specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac1bf823-45c1-4ca0-b071-2241cf0a0b3a",
+  "name": "Barkley, Medora",
+  "resolved_employer": "Barkley Houses / Barkley Properties — Austin residential landlord & property management",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Medora Barkley owns/operates Barkley Houses (Barkley Properties), a family property-management business leasing vintage central-Austin residential rentals at 3117 Guadalupe St (78705). Self-listed occupation 'Real Estate Investments / Self' and Austin 78705 match exactly.",
+  "source_url": "https://www.barkleyhouses.com/",
+  "affiliations": []
+ }
+]

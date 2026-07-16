@@ -1,0 +1,108 @@
+[
+ {
+  "donor_id": "tcv-31f55a83-8944-4c3f-a90a-554218c6e2a5",
+  "name": "Milner, Jessy",
+  "resolved_employer": "President/Owner, Front Line Advisory Group, LLC (Austin program-management consulting firm for municipal/school infrastructure and capital bond projects)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jessy Milner of SW Austin/Dripping Springs (78737; addresses 111 Serenity Ct, 121 Victoria Ct) is President and owner of Front Line Advisory Group, an Austin firm doing owner's-rep/program management for city, county and school bond construction programs. Army Special Forces veteran (2002-2006), LSU finance degree. Zip and Austin base corroborate; his firm's public-infrastructure work aligns with gifts to county commissioners (Travillion, Shea, Howard).",
+  "source_url": "https://frontlineadvisorygroup.com/jessy-milner/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bdd7bb1e-781c-4e2e-8e8a-99b3426bb914",
+  "name": "Baines Johnson, Luci",
+  "resolved_employer": "Chairman, LBJ Asset Management Partners / LBJ Family Wealth Advisors (family office); co-founder of BusinesSuites; philanthropist",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Luci Baines Johnson, younger daughter of President Lyndon B. Johnson and Lady Bird Johnson; longtime Central Texas resident. Chairs the LBJ family office (LBJ Asset Management Partners / LBJ Family Wealth Advisors) and co-founded BusinesSuites. Downtown Austin address 114 W 7th St Ste 900 (78701) is the LBJ Holding Co. office; 85 heavily-Democratic FEC gifts fit. Gave $10k to Andy Brown.",
+  "source_url": "https://en.wikipedia.org/wiki/Luci_Baines_Johnson",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b05c8acb-26f8-43cf-83fb-148ffa11d779",
+  "name": "Price, MacKenzie",
+  "resolved_employer": "Co-founder, Alpha School / 2 Hour Learning / GT School (Austin AI-driven private K-12 education)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "MacKenzie Price, Stanford psychology grad living in Westlake/Austin (78733), co-founded Austin's Alpha School and the AI-based '2 Hour Learning' model plus GT School and Texas Sports Academy. Prominent ed-tech / school-choice entrepreneur. Despite 'Not Employed' on the form, she is a well-documented founder; gave $10k to Andy Brown (2021).",
+  "source_url": "https://2hourlearning.com/founder/",
+  "affiliations": [
+   {"org": "Alpha School / 2 Hour Learning", "role": "Co-founder", "category": "business", "source_url": "https://en.wikipedia.org/wiki/Alpha_School"}
+  ]
+ },
+ {
+  "donor_id": "tcv-b00acf89-2800-4561-b114-faf3a7f1129d",
+  "name": "Tames, Charlie",
+  "resolved_employer": "Real estate developer, 'Tames Partners' (self-reported); West Austin/Tarrytown",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-identified real-estate developer with entity 'Tames Partners,' in Tarrytown/West Austin (78703). Could not independently locate the 'Tames Partners' firm online, but the Tames name is an established Austin real-estate family (e.g., Kirk Tames, longtime UT System real-estate advisor). Occupation is self-reported on the county filing; industry corroborated by name/locale but the specific firm is unverified.",
+  "source_url": "https://www.linkedin.com/in/kirk-tames/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ae5c125f-1dfe-49a9-89d2-689644c3b597",
+  "name": "Royston, Danielle",
+  "resolved_employer": "Founder & CEO, TelcoDR (and acting CEO, Totogi) — telecom cloud software",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Danielle Royston (aka Danielle Rios), Austin resident (78735), Stanford CS, is founder/CEO of TelcoDR and Totogi, telecom public-cloud software companies; former CEO of Optiva. Prominent enterprise-software executive. Austin base and CEO/TelcoDR match the filing exactly. Gave $10k to Andy Brown (2021).",
+  "source_url": "https://telcodr.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a2b6ed19-ed72-4a04-a2df-7a181549ae03",
+  "name": "Gochman, David",
+  "resolved_employer": "Former Chairman/President/CEO, Academy Sports + Outdoors (1997-2011); founder of Inclenberg Investments (Palm Beach real estate)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "David Gochman, Palm Beach FL (33480), led family sporting-goods retailer Academy Sports + Outdoors as Chairman/President/CEO from 1997 until its 2011 PE sale, growing it from 49 to 133 stores; afterward founded real-estate firm Inclenberg Investments. The Gochman Family Foundation (education/arts/Indigenous studies) is well documented. Palm Beach + philanthropist + Academy career corroborate. Gave $10k to Andy Brown (2021).",
+  "source_url": "https://inclenberg.com/leader/david-gochman/",
+  "affiliations": [
+   {"org": "Academy Sports + Outdoors", "role": "former Chairman/President/CEO (1997-2011); one of the largest U.S. firearms retailers", "category": "gun_rights", "source_url": "https://inclenberg.com/leader/david-gochman/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-8fe5b10c-7007-4a1b-92bb-24527c6e449b",
+  "name": "Craft, Baird",
+  "resolved_employer": "CEO/Founder, Carnegie Ventures LLC (Austin technology investment firm); previously O'Connor's / Jones McClure Publishing",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Baird Craft, Austin (78735-1850), is CEO/founder of Carnegie Ventures LLC, an Austin tech-investment firm (LinkedIn + firm site). FEC records tie the exact 78735-1850 address to Baird Craft (often listed 'Retired'/Carnegie Ventures CEO), with an eclectic donation history (Green Party/Jill Stein, Thomas Massie, Warnock, Ossoff). Form's 'Not Employed' contradicted by verified VC role. Gave $10k to Andy Brown (2025).",
+  "source_url": "https://www.linkedin.com/in/bairdcraft",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8ce4e4d1-a7c7-4fc1-8396-446b7ca44c21",
+  "name": "Alev Leo",
+  "resolved_employer": null,
+  "industry": "Labor",
+  "confidence": "low",
+  "evidence": "Could not resolve this donor to a named individual; no zip/location. Filing lists occupation 'Public Safety Employees' and employer 'Travis County' with a single $10k gift to Commissioner Margaret Gomez (2021) — the profile of a public-safety/law-enforcement employee association or PAC (e.g., Travis County Sheriff's Law Enforcement Association PAC) rather than a person. Identity unconfirmed; Labor tag is tentative based only on the occupation/employer fields.",
+  "source_url": "https://www.transparencyusa.org/tx/committee/travis-county-sheriffs-law-enforcement-association-pac-52652-gpac/contributors",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-492e9060-55a6-4a06-ba0c-a27256e9e607",
+  "name": "Ballis, John",
+  "resolved_employer": "Houston real-estate developer/investor (Ballis Commercial / Ballis Development / Ballis Family Real Estate)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "John Ballis of Houston's Memorial/Bayou Woods area (77024; family owns 9010 Sandringham, appraised ~$6.5M) is a real-estate developer/investor; Ballis Family Real Estate partners with retired NBA star Hakeem Olajuwon on 100M+ in assets. Zip and Houston real-estate family strongly corroborate; note both a John Ballis Sr. and John Ballis Jr. operate in Houston RE, so the exact individual is not pinned. Gave $10k to Ann Howard (2023).",
+  "source_url": "https://www.balliscommercial.com/meet-the-team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-221789e5-64c0-4ccf-af04-0f81f778e8e6",
+  "name": "Winn, Stephen",
+  "resolved_employer": "Founder & former Chairman/CEO, RealPage (rental/property-management software); now leads Mirasol Capital and chairs Cosm",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Stephen T. Winn, Dallas/Preston Hollow (75229), is the billionaire founder of RealPage — the property-management and rent-pricing software firm (YieldStar) sold to Thoma Bravo in 2021; he now runs investment firm Mirasol Capital and chairs media-tech firm Cosm. In 2023 he and UT-Austin committed ~$200M to environmental research, which corroborates gifts to Travis County's environment-focused commissioners (Shea, Howard). 137 FEC gifts, strongly Republican-leaning.",
+  "source_url": "https://www.forbes.com/profile/stephen-winn/",
+  "affiliations": [
+   {"org": "RealPage, Inc.", "role": "Founder & former Chairman/CEO; YieldStar rent-pricing software", "category": "business", "source_url": "https://therealdeal.com/texas/austin/2023/08/29/steve-winn-ut-austin-to-invest-200m-in-environmental-research/"}
+  ]
+ }
+]

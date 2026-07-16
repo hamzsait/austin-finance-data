@@ -1,0 +1,322 @@
+[
+ {
+  "employer_id": "tcv-e5addf32-c2b3-4d3b-9ed1-949118e7b75c",
+  "name": "C3Presents",
+  "variants": "C3Presents",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Promoter"
+ },
+ {
+  "employer_id": "tcv-dca391c5-05d4-4cfd-98c6-4d5594617449",
+  "name": "Animal Association of Texas",
+  "variants": "Animal Association of Texas",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-cc7e2a79-6b6e-4f7b-9195-595924581b73",
+  "name": "TSL",
+  "variants": "TSL",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-c9a7f5b6-730d-421d-ad0e-a46dd0330157",
+  "name": "Pete McRae Consultancy LLC",
+  "variants": "Pete McRae Consultancy LLC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-bf55f044-1475-41b0-b479-78c6af3a207e",
+  "name": "Law Offices of Nathaniel Mack III, PLLC",
+  "variants": "Law Offices of Nathaniel Mack III, PLLC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-a64a1d12-58d8-4c36-ae0d-340d4e83c872",
+  "name": "Friese & Associates",
+  "variants": "Friese & Associates",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Engineer"
+ },
+ {
+  "employer_id": "tcv-a4945906-10f6-4e3a-9a12-93689f4f3aa3",
+  "name": "Bulle Rock",
+  "variants": "Bulle Rock",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Finance"
+ },
+ {
+  "employer_id": "tcv-76a020aa-59ad-4ac4-9c5d-b74fbc659d41",
+  "name": "CTA BuildMT PAC",
+  "variants": "CTA BuildMT PAC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-693d33e0-d3bd-4695-9b03-2f427e29e337",
+  "name": "Council on Foreign Relations",
+  "variants": "Council on Foreign Relations",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "President"
+ },
+ {
+  "employer_id": "tcv-6743f6f6-6290-4576-aa0a-791c9ee91b1f",
+  "name": "Scott Atlas",
+  "variants": "Scott Atlas",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Legal consultant"
+ },
+ {
+  "employer_id": "tcv-6388be23-b2b1-42e1-b232-4b9a04fd0d45",
+  "name": "CREMX-US, LLC",
+  "variants": "CREMX-US, LLC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-4b7c0831-2642-4485-ab2f-4ffd8ecd2b22",
+  "name": "ARIV Wealth",
+  "variants": "ARIV Wealth",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Wealth Management"
+ },
+ {
+  "employer_id": "tcv-418720e8-ac50-4158-90f9-a333a7f33edb",
+  "name": "Gonzalez, Andres - LAN-PAC",
+  "variants": "Gonzalez, Andres - LAN-PAC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": "Consultants"
+ },
+ {
+  "employer_id": "tcv-412ea9f7-6c30-44c3-8b63-067c231f6259",
+  "name": "Patrick Terry",
+  "variants": "Patrick Terry",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Restaurant Owner"
+ },
+ {
+  "employer_id": "tcv-2d21dd84-4dfd-477d-a17a-3a1ac476d8bc",
+  "name": "Kirk Watson PAC",
+  "variants": "Kirk Watson PAC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-2d13aa2b-6603-4efa-a569-5d5037513205",
+  "name": "xAI",
+  "variants": "xAI",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Human Resources"
+ },
+ {
+  "employer_id": "tcv-202ee0ff-7572-4be9-a721-a3b564ed9778",
+  "name": "The Parks Group Inc.",
+  "variants": "The Parks Group Inc.",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "President"
+ },
+ {
+  "employer_id": "tcv-034c67b3-9511-405f-a862-f255cc31e650",
+  "name": "Klotz Associates PAC",
+  "variants": "Klotz Associates PAC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-011f309d-4f05-4f77-b0a6-088ea8b988e5",
+  "name": "Winstead PC PAC",
+  "variants": "Winstead PC PAC",
+  "county_total": 500,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "f194b3fc-f6a7-4a2e-b3e5-57388c7bf614",
+  "name": "ET",
+  "variants": "ET",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "ecbef18a-2a0e-4800-ae23-fc7c08c5931f",
+  "name": "FourLeaf Productions",
+  "variants": "FourLeaf Productions",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Event producer"
+ },
+ {
+  "employer_id": "eb3e4827-ebef-425a-b68c-8649c4c81654",
+  "name": "Houston Tower",
+  "variants": "Houston Tower|Houston Tower Law PLLC",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "eabe4483-a6bf-4470-b027-e225511623a5",
+  "name": "Beatty Navarre Strama",
+  "variants": "Beatty Navarre Strama|Beatty Navarre Strama PC",
+  "county_total": 500,
+  "donor_count": 2,
+  "sample_occupations": "Attorney,"
+ },
+ {
+  "employer_id": "e84bff5c-6181-46c6-9090-6f57a41a9a81",
+  "name": "BARRON, ADLER, CLOUGH & ODDO, LLP",
+  "variants": "BARRON, ADLER, CLOUGH & ODDO, LLP|Barron Adler|Barron, Adler, Clough & Oddo|Barron, Adler, Clough & Oddo, LLP",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "dd3a4993-90ba-493e-8464-c1081292aed8",
+  "name": "Connor Lee & Shumaker PLLC",
+  "variants": "Connor Lee & Shumaker PLLC",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Patent Attorney"
+ },
+ {
+  "employer_id": "caa907bd-cc1e-468d-a8dc-10f16c86bd91",
+  "name": "Qualico Communities",
+  "variants": "Qualico Communities",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Regional Development Manager"
+ },
+ {
+  "employer_id": "96c1a52b-4411-454c-a0a3-206e66e1ebe6",
+  "name": "Vacek Kiecke & Colmenero LLP",
+  "variants": "Vacek Kiecke & Colmenero LLP",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "87b41316-b021-4fe8-a8e7-b2e7ecae4708",
+  "name": "Campaign Manager",
+  "variants": "Campaign Manager",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Jay Kleberg for Texas Land Commissioner"
+ },
+ {
+  "employer_id": "6c9cb8e3-c8f2-4c41-9bef-a9de5674d1ca",
+  "name": "HPE",
+  "variants": "HPE",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Management"
+ },
+ {
+  "employer_id": "48607d52-0798-4934-8cb5-4f50c625de64",
+  "name": "Cain & Skarnulis",
+  "variants": "Cain & Skarnulis|Cain & Skarnulis PLLC",
+  "county_total": 500,
+  "donor_count": 2,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "4254d49b-2a43-49f8-af8f-8b650df1dbfd",
+  "name": "ARMA",
+  "variants": "ARMA",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "331e32b3-0d4c-4f0a-9b1a-da0de31a7288",
+  "name": "JP Energy",
+  "variants": "JP Energy",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Energy"
+ },
+ {
+  "employer_id": "2853dfea-8fa9-46fb-bb36-9f159bd7dc95",
+  "name": "ODC Firm",
+  "variants": "ODC Firm",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "ATTY"
+ },
+ {
+  "employer_id": "251b0a13-4f23-442f-8d3e-b9aad1888ea0",
+  "name": "Miller & Chevalier",
+  "variants": "Miller & Chevalier|Miller Chevalier",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Lawyer"
+ },
+ {
+  "employer_id": "20be7d89-4685-4aa8-ac03-078e209ef7dc",
+  "name": "Graham Development Co.",
+  "variants": "Graham Development Co.",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate"
+ },
+ {
+  "employer_id": "203d2837-9d35-4854-bda6-50f9c0c18786",
+  "name": "LEVY DYKEMA",
+  "variants": "LEVY DYKEMA|Levy Dykema",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Architect"
+ },
+ {
+  "employer_id": "176602f0-5d12-4272-a3f0-5a66642a79cf",
+  "name": "The Graydon Group",
+  "variants": "The Graydon Group",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Public Affairs"
+ },
+ {
+  "employer_id": "0b7d6372-fbb0-4653-85bc-4eafa82e516d",
+  "name": "Goodway Group",
+  "variants": "Goodway Group",
+  "county_total": 500,
+  "donor_count": 1,
+  "sample_occupations": "Account Director"
+ },
+ {
+  "employer_id": "tcv-5a7b849b-2779-43ea-8611-0b4ca5d3b284",
+  "name": "Gueros Taco Bar",
+  "variants": "Gueros Taco Bar",
+  "county_total": 450,
+  "donor_count": 2,
+  "sample_occupations": "Owner,Restaurant owner"
+ },
+ {
+  "employer_id": "tcv-19c95b84-946a-4d83-a2dd-c279113b8875",
+  "name": "Bird's Barbershop",
+  "variants": "Bird's Barbershop",
+  "county_total": 450,
+  "donor_count": 2,
+  "sample_occupations": "Marketing Intern,Co-Founder"
+ }
+]

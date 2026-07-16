@@ -1,0 +1,104 @@
+[
+ {
+  "donor_id": "tcv-835f9299-877d-4a34-964e-49f9dcd07f1b",
+  "name": "Yates, Ira",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor in Paonia, CO 81428 (a small arts/orchard town in Delta County) who gave $3,000 to Travis County candidates Brigid Shea and Ann Howard. No occupation/employer on file; could not corroborate a specific individual (a musician 'Ira Yates' appears on AllMusic/Discogs but no confirmed tie to Paonia). FEC partisan lean 0.69 (Dem-leaning), 10 federal gifts. Identity unresolved.",
+  "source_url": "https://www.allmusic.com/artist/ira-yates-mn0001524906",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-77186d2e-9b10-43b4-9ee1-d483a6d93f83",
+  "name": "Zeller, Charles",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Prolific Democratic donor pattern (FEC partisan lean 0.9998, 1,382 federal contributions) who gave $3,000 to Jeff Travillion and Ann Howard, but no zip, occupation, or employer on file and no web source could tie the record to a specific identifiable Charles Zeller. Identity unresolved.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-44941cb1-0d05-44ba-8fb0-8356fb972996",
+  "name": "Carol Guthrie",
+  "resolved_employer": "AFSCME Local 1624 (Business Manager)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Carol Guthrie is the Business Manager of AFSCME Local 1624, the union representing ~5,000 City of Austin and Travis County employees; first female Business Manager, inducted into Texas Labor Management Conference Hall of Fame (2025). Austin 78731 and AFSCME employer string on file corroborate. Gave to Travis County Commissioner Margaret Gomez.",
+  "source_url": "https://afscme1624.wordpress.com/2025/07/15/fearless-fair-and-unshakable-honoring-carol-guthrie/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-45e5fa87-bea0-47f7-8943-19bdb15fcf87",
+  "name": "Bitner, Marylin",
+  "resolved_employer": "Plan A Locations (Owner/President)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Marylin Bitner is Owner/President of Plan A Locations, a Los Angeles film/TV/commercial location-management company (founded 1999, Hancock Park). LA 90004 address (540 N Rossmore Ave) and 'Entertainment industry' occupation on file corroborate; IMDb credits her as a location manager. Gave to Travis County Judge Andy Brown.",
+  "source_url": "https://www.linkedin.com/in/marylin-bitner-82b6709",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-76363715-18af-4000-a0aa-651dc396f418",
+  "name": "Hawkins, Albert",
+  "resolved_employer": "Consultant/registered lobbyist, Austin (former Texas HHSC Executive Commissioner)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Best match is Albert Hawkins III, former Executive Commissioner of the Texas Health and Human Services Commission (2003-2008), earlier George W. Bush's state budget director and White House Cabinet Secretary; now an Austin-based health/HHS policy consultant and registered Texas lobbyist (Schlueter Group). FEC partisan lean 0.16 (GOP-leaning) fits a Bush official; gave $2,575 to Travis County Commissioner Jeff Travillion. No zip on file, so identity is probable rather than certain.",
+  "source_url": "https://www.schluetergroup.com/albert-hawkins",
+  "affiliations": [
+   {"org": "Meadows Mental Health Policy Institute", "role": "board/staff affiliation (former HHSC Commissioner)", "category": "civic", "source_url": "https://mmhpi.org/staff/albert-hawkins"}
+  ]
+ },
+ {
+  "donor_id": "tcv-6ec9d5fa-027f-4db4-9bc9-18dfa75989b9",
+  "name": "Hayes, Warren",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Gave $2,575 to Travis County Commissioner Jeff Travillion, but no zip, occupation, or employer on file and only 1 federal gift (partisan lean 0.0). No web source could confidently identify this individual. Identity unresolved.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-37721172-f697-4577-894c-f079c366e737",
+  "name": "Gregorcyk, David",
+  "resolved_employer": "Journeyman Construction / Journeyman Group (Vice President & General Counsel)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "David Clark Gregorcyk is VP & General Counsel of Journeyman Construction (Austin commercial/multifamily general contractor and developer of luxury apartments and hotels), a board-certified construction-law attorney; office at 1000 N Lamar Blvd, Austin 78703, matching the donor zip. Gave to Brigid Shea.",
+  "source_url": "https://journeymangroup.com/people/david-gregorcyk/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-17f41915-c2d4-4ad4-93ec-0df0a4c54548",
+  "name": "Hayes, Kristina",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Georgetown, TX 78628 (Williamson County) donor to Brigid Shea; multiple same-named individuals in that ZIP (a USAA insurance agent and a Keller Williams realtor among them) and no occupation/employer on file, so the specific person cannot be confirmed. FEC partisan lean 0.02 (strongly GOP) is atypical for a Shea donor, adding uncertainty. Identity unresolved.",
+  "source_url": "https://www.har.com/kristina-hayes/agent_abortx-587407",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-44ca1f26-9a9a-478b-89b5-9412d3f59601",
+  "name": "Miller, Don",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "West Lake Hills / Austin 78746 donor who gave $2,530 to Ann Howard (2022-2025), but 'Don Miller' is a very common name with no occupation or employer on file; could not corroborate a specific individual. Identity unresolved.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fec0ba3e-3cbd-47be-95e1-7f1770cb950c",
+  "name": "Rhodes, Tom",
+  "resolved_employer": "Sente Mortgage (Co-Founder, President & CEO)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Tom Rhodes is Co-Founder, President & CEO of Sente Mortgage, an Austin-based independent mortgage bank (founded 2007). 'CEO / Sente Mortgage' occupation and Austin 78746 on file corroborate. Gave $2,500 to Travis County Judge Andy Brown; notably FEC partisan lean is 0.08 (GOP-leaning) across 105 federal gifts.",
+  "source_url": "https://theorg.com/org/sente-mortgage/org-chart/tom-rhodes",
+  "affiliations": []
+ }
+]

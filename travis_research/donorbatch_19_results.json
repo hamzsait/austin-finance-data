@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "tcv-e24189e7-0ddc-400b-afc7-2db6fb3a4550",
+  "name": "Miller, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as Not Employed, Austin 78703, gave $1,000 to Andy Brown (Oct 2025). 'Lisa Miller' is an extremely common name with no employer, occupation, or other distinguishing detail to corroborate a specific individual; could not confirm identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dd19ab89-3af4-44e2-b47b-700d68ad6374",
+  "name": "Calvert for Commissioner Campaign",
+  "resolved_employer": "Campaign committee for Tommy Calvert, Bexar County Commissioner Precinct 4 (Democrat)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual: this is the candidate campaign committee of Tommy Calvert, the long-serving Bexar County (San Antonio) Commissioner for Precinct 4, a Democrat first elected in 2014. San Antonio 78212 address matches Bexar County; a county-official campaign giving $1,000 to fellow county commissioner Jeff Travillion (Travis Co.) is a peer political contribution.",
+  "source_url": "https://en.wikipedia.org/wiki/Tommy_Calvert_Jr.",
+  "affiliations": [
+   {"org": "Bexar County Commissioners Court (Precinct 4)", "role": "candidate campaign committee (Tommy Calvert)", "category": "political", "source_url": "https://ballotpedia.org/Tommy_Calvert"}
+  ]
+ },
+ {
+  "donor_id": "tcv-d7af6695-8778-45d6-909b-f1ce0e2adbbb",
+  "name": "Schwertner, James",
+  "resolved_employer": "Capitol Land & Livestock (CEO/owner) - large-scale Texas cattle trading and ranching operation",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Jim (James) Schwertner is the CEO/owner of Capitol Land & Livestock in Schwertner, TX (Williamson County, adjacent to the 78641 Leander/Liberty Hill area on record), one of the nation's largest cattle-trading firms (~300,000-400,000 head/yr, ~20,000 acres). Distinctive surname is the family town name. Industry left null because agriculture/livestock is not in the provided taxonomy; identity itself is high confidence. Gave $1,000 to Ann Howard.",
+  "source_url": "https://www.texasmonthly.com/news-politics/cattle-trading-capitol-schwertner/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d6604ef6-06c0-40fb-90b3-3004d0f4b210",
+  "name": "Joseph, Thomas",
+  "resolved_employer": "Joseph Design Build (co-founder) - Austin luxury design-build home developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Thomas Joseph co-founded Joseph Design Build (est. 2014, Austin), a luxury turnkey design-build development firm (~$170M project pipeline; multi-million-dollar modern homes). Occupation 'Developer' and employer string 'Joseph Design Build' on the record match exactly; Austin 78723. Gave $1,000 to Andy Brown.",
+  "source_url": "https://www.prnewswire.com/news-releases/luxury-developer-joseph-design-build-featured-on-2022-austin-modern-homes-tour-301467889.html",
+  "interest_tags": "luxury-real-estate,real-estate-development,homebuilders",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d64b963d-33bc-4445-a4b1-cf1435e760c9",
+  "name": "Bajwa, Yusuf",
+  "resolved_employer": "Sanders Bajwa LLP (partner) - Austin real estate and securities litigation attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Yusuf Ahmad Bajwa is a named partner at Sanders Bajwa LLP (919 Congress Ave, Austin 78701), practicing commercial real estate development and securities/commercial litigation; UT Austin and UT Law grad, multi-year Super Lawyers/Rising Star. Occupation 'Attorney' and employer 'Sanders Bajwa LLP' on record match exactly; Austin 78703. Gave $1,000 to Andy Brown.",
+  "source_url": "https://profiles.superlawyers.com/texas/austin/lawyer/yusuf-a-bajwa/b8aa20be-f197-4983-87b4-9a31f487217c.html",
+  "interest_tags": "real-estate-development",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d1613184-f988-4720-9390-117ae47e26ab",
+  "name": "cunningham, g",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state small donor (Salt Lake City, UT 84121), occupation 'marketing', employer 'EV', gave $1,000 to Andy Brown (Oct 2025). Only an initial for the first name and an ambiguous 2-letter employer ('EV'); could not tie to a specific person or company. No FEC history.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c69a1658-d0da-41d7-9bf6-2b434785227f",
+  "name": "Brisa R. McClure",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, location, occupation, or employer on record (all 'Don't Know'); gave $1,000 to Margaret Gomez (2021). Web searches returned no identifiable individual by this name in the Austin area; could not confirm identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c344ac70-d7c3-4e8b-b297-f6ebdbc17980",
+  "name": "Porter, Daniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, location, occupation, or employer on record. Very prolific small-dollar Democratic-leaning donor (439 FEC contributions, partisan lean ~0.05) who gave $1,000 to Ann Howard (2021). 'Daniel Porter' is a common name with no corroborating detail; cannot confirm a specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bd286779-0217-41cd-968f-2d289e24ac19",
+  "name": "Raeder, Christopher",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip/location/occupation on record. A well-known Austin 'Chris/Christopher Raeder' owns Autocraft Bodywerks (collision-repair multi-shop operator, ex-AMD executive) and is an Austin real-estate investor; giving to Travis Co. commissioner Ann Howard is consistent with Austin residency, but with no location or occupation on the record to corroborate (and other same-named individuals exist), the match is only tentative. Industry left null.",
+  "source_url": "https://elementix.ai/investors/tx/christopher-raeder",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ae9399ec-f5d5-43a7-b688-c7afbdfa8b7c",
+  "name": "Harper, Alan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Arlington, TX 76016; no occupation or employer on record; Democratic-leaning FEC history (~0.057, 27 gifts); gave $1,000 to Jeff Travillion (2022). Multiple 'Alan Harper' individuals exist in Arlington (incl. unrelated Harper Aviation and a Harper Oil & Gas LLC), but none could be tied to zip 76016 or confirmed as this donor; identity unresolved.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

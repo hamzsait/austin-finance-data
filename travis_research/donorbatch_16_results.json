@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "tcv-359bf090-af98-481d-a62f-3226863aeec2",
+  "name": "Stanford, Blake (Mr.)",
+  "resolved_employer": "Southwest Human Development Services, Inc. (Founder/President/CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Blake Stanford is founder/president of Southwest Human Development Services, a 3309 Hancock Dr, Austin 78731 nonprofit sponsoring the USDA child-care food program (CACFP); zip 78731 matches his org address exactly. Also a registered TX lobbyist for the program. Gave to Brigid Shea.",
+  "source_url": "https://www.cacfp.org/2024/02/26/blake-stanford/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2ab066ef-7190-447f-b9ab-b974ec75f93b",
+  "name": "McNamara, Daniel",
+  "resolved_employer": "Solo practitioner, environmental law (Daniel G. McNamara)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Best match is Daniel G. McNamara, a solo environmental-law attorney at 3502 Bridle Path, Austin 78703 (~40 yrs experience) — zip matches and environmental practice fits his gifts to environmentalist Brigid Shea. A second Daniel McNamara (UT Applied Research Labs) also lives in 78703, so some residual ambiguity.",
+  "source_url": "https://www.avvo.com/attorneys/78703-tx-daniel-mcnamara-182400.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-11ca90d7-1daa-4870-a374-9b377f4b2ccf",
+  "name": "Robb, Walter",
+  "resolved_employer": "Stonewall Robb Advisors / S2G Ventures; former co-CEO of Whole Foods Market",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Walter Robb, former co-CEO of Austin-based Whole Foods Market (2010-2016), now a food/ag investor (partner at S2G Ventures, founder of Stonewall Robb Advisors) living in the CA Bay Area. Filed occupation 'Consultant/Self' and San Rafael 94903 zip fit his Bay Area residence; gave to Travis County Judge Andy Brown, consistent with deep Austin ties. Strong-Democrat FEC pattern (lean 1.0, 60 gifts).",
+  "source_url": "https://en.wikipedia.org/wiki/Walter_Robb",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3e80ece7-6d17-4c50-9aec-8ef8d8718f0b",
+  "name": "Liberal Austin Democrats",
+  "resolved_employer": "Democratic political club / PAC (not an individual)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Liberal Austin Democrats is a long-running Travis County Democratic political club (PO Box 49712, Austin 78765) that endorses and funds Democratic candidates; it is itself the donor, giving to Jeff Travillion and Brigid Shea.",
+  "source_url": "https://www.traviscountydemocrats.org/democratic-clubs",
+  "affiliations": [
+   {"org": "Liberal Austin Democrats", "role": "Democratic political club (self)", "category": "political", "source_url": "https://www.facebook.com/liberalaustindemocrats/"}
+  ]
+ },
+ {
+  "donor_id": "73b4cc0f-e06e-4bae-ac84-c575d47b9ecf",
+  "name": "Mercer, James",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "James W. Mercer, ~71-73, homeowner at 15710 Voelker Ln, Elgin 78621 (zip matches); a 'Mercer & Assoc' B2B entity is listed at the same home address but occupation/industry cannot be confirmed. Republican-leaning FEC pattern (lean 0.05). Not enough to classify an industry.",
+  "source_url": "https://www.cyberbackgroundchecks.com/detail/james-willie-mercer/pidgxqzbzmgmqxgylxylgl",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b08ed665-c76d-4fc4-9aca-3e3795f440e3",
+  "name": "Hersch, Robert",
+  "resolved_employer": "Mastodon Ventures, Inc. (Founder / Senior Managing Partner)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Robert Hersch is founder/senior managing partner of Mastodon Ventures, an Austin M&A and capital-advisory (investment banking) firm focused on the consumer/restaurant sector; matches his filed occupation 'Investment Banker / Mastodon Ventures' and Austin 78703 residence. Gave to Andy Brown.",
+  "source_url": "https://mastodonventures.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "fecc702a-8bd1-43e8-b67e-b238fb62a7fc",
+  "name": "Cullen, Luanne",
+  "resolved_employer": "Homemaker / not employed",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Luanne Cullen co-owns a ~$1M+ home at 9801 Glenlake Dr, Austin 78730 (zip matches) with Charles H. Cullen; consistently files 'Not Employed' and is a prolific small-dollar Democratic donor (FEC lean 1.0, 162 gifts, incl. Biden Victory Fund). Gave to Andy Brown.",
+  "source_url": "https://www.city-data.com/austin-properties/G/Glenlake-Drive-4.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fddcc19a-3573-4635-88ad-d2c42fa035f8",
+  "name": "Bosworth, Justin",
+  "resolved_employer": "Kirkland & Ellis LLP (corporate / capital-markets attorney)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Best match is Justin Marcellus Bosworth, a Dallas corporate/capital-markets associate at Kirkland & Ellis (UT School of Law); public records tie a Justin Bosworth to 3914 Dunhaven Rd, Dallas 75220 (zip matches). One-time Dec-2025 gift to Brigid Shea.",
+  "source_url": "https://www.linkedin.com/in/justin-bosworth-5751a178/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f0bfa3f6-5b66-46bd-8ea2-4916125e30cc",
+  "name": "Tiemann, Matthew",
+  "resolved_employer": "Tiemann Land and Cattle Development, Inc. (President) — real-estate developer/investor",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Matthew Tiemann is a prolific Austin-area real-estate investor/developer, President of Tiemann Land & Cattle Development (Pflugerville), with dozens of land/holding entities across Pflugerville, Hutto, Rockdale and Austin. No zip in the record, but his single 2021 gift went to Jeff Travillion, whose Precinct 1 covers his Pflugerville/eastern-Travis holdings.",
+  "source_url": "https://www.linkedin.com/in/matthew-r-tiemann/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c00aa9c2-022e-484d-8a5a-86e2bf603814",
+  "name": "Carter, Darryl",
+  "resolved_employer": "Law Office of Darryl B. Carter — attorney & lobbyist",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Best match is Darryl B. Carter, a Houston business-litigation attorney and lobbyist (formerly with tax-collection firm Linebarger Goggan Blair & Sampson), who lobbied in Austin for Harris County clients; Houston 77019 (River Oaks) fits. Gave to Jeff Travillion in 2017. A Houston obituary suggests he has since passed.",
+  "source_url": "https://profiles.superlawyers.com/texas/houston/lawyer/darryl-carter/aeefbf12-ea09-4504-aee9-1183a02e3a73.html",
+  "affiliations": [
+   {"org": "Linebarger Goggan Blair & Sampson (govt debt-collection law firm)", "role": "former attorney / lobbyist", "category": "political", "source_url": "https://aframnews.com/local/remembering-darryl-b-carter/"}
+  ]
+ }
+]

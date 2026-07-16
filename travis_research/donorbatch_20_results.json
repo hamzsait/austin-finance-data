@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "tcv-ad35cba3-4d69-4bb3-b043-d4ca1ea16ad7",
+  "name": "Briggs, Rambie",
+  "resolved_employer": "Dr. Rambie L. Briggs, MD — gastroenterologist/internist, Jonestown Community Health Center (Jonestown/Lago Vista, Travis County)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Rambie is a highly distinctive name; Dr. Rambie L. Briggs is a longtime physician (internal medicine/gastroenterology) practicing in Jonestown/Lago Vista in western Travis County. Gift went to Ann Howard, whose Precinct 3 covers that area — location and rare name corroborate.",
+  "source_url": "https://npiprofile.com/npi/1639101819",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ab2e951e-4049-4277-94cd-5bd85a89f284",
+  "name": "Evans, Chip",
+  "resolved_employer": "W.P. (Chip) Evans IV — founding partner, Evans / DeShazo / Reilley Law Firm (plaintiff's personal-injury firm, 4407 Bee Caves Rd, Austin 78746)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Employer string 'Evans / DeShazo / Reilley' matches Chip Evans's Austin personal-injury firm exactly; he is a plaintiff's trial lawyer, Texas-licensed since 1997. Donor zip 78735 is adjacent to the firm's 78746 office.",
+  "source_url": "https://www.evanstxlaw.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-aa544a36-001b-431c-8efe-e0ddcfa68822",
+  "name": "Bawcom, Debra",
+  "resolved_employer": "Debra G. Bawcom — CEO/President and Senior Property Tax Consultant, Texas Protax (Central Texas property-tax consulting firm); also a licensed Texas attorney",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Employer 'Texas Protax' and occupation 'Property Tax Counselor' match Debra G. Bawcom, who has led the firm (property-tax appeal consulting) since 1995 and is a licensed property tax consultant and State Bar attorney. Cedar Park 78613 is consistent with a Central Texas base.",
+  "source_url": "https://texasprotax.com/staff/debra-g-bawcom/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-aa4474c9-4115-4021-bc00-49806c344f57",
+  "name": "Neil H. Ellis",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation ('Don't Know'), employer, or FEC record in the source data, and web searches returned no confidently matching Neil H. Ellis in the Austin/Travis County area. Cannot be identified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a6b92ba5-62b7-4674-96f2-45cb1f241725",
+  "name": "Wendler Jr., Ed (Mr.)",
+  "resolved_employer": "Ed Wendler Jr. — Austin real-estate developer / land-use figure (built the WatersMark at Barton Creek community; former City of Austin Planning Commission member)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ed Wendler Jr. is a well-documented Austin developer and land-use commentator (WatersMark Barton Creek; 1980s Planning Commission during last code overhaul); brother of the late Ed Wendler Sr., Austin's best-known 1980s City Hall lobbyist. Austin 78731 fits a longtime central-Austin figure. Gift to Brigid Shea (2016).",
+  "source_url": "https://www.austincontrarian.com/austincontrarian/2008/04/ed-wendler-jr-o.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-928cb780-4c1f-429e-a5ac-7b108e04a715",
+  "name": "Milam, Christopher",
+  "resolved_employer": "Christopher F. Milam — founder/President & CEO, IDM (International Development Management), Austin real-estate developer (Hill Country Galleria / Shops at the Galleria, Bee Cave)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "interest_tags": "real-estate-development,republican-money",
+  "evidence": "Employer 'IDM' and occupation 'Real Estate' match Christopher F. Milam, founder/CEO of International Development Management; West Lake Hills 78746 fits. Behind the Hill Country Galleria in Bee Cave. His FEC giving history (partisan lean ~0.01) is overwhelmingly Republican, though this county gift went to Democrat Andy Brown.",
+  "source_url": "https://idmco.us/christopher-milam-austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8bfed69a-1eaf-413c-baf2-8c500ba71eca",
+  "name": "Capretta, Alex",
+  "resolved_employer": "Alex Capretta — Managing Director / Principal, Haveli Investments (Austin private-equity/VC firm founded by Brian Sheth); previously Vista Equity Partners, C3 AI, Apptio, Credit Suisse",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "interest_tags": "private-equity",
+  "evidence": "Employer 'Haveli Investments' and occupation 'Investor' match Alex Capretta, a Managing Director at the Austin PE/VC firm founded by Brian Sheth; his background runs through Vista Equity Partners and the Sheth family office. Austin 78703 fits.",
+  "source_url": "https://www.haveliinvestments.com/team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-823c2755-1dcb-445b-8281-6e233da968cb",
+  "name": "Sokol, Lindsey",
+  "resolved_employer": "Lindsey Sokol — founder/CEO, Blue Norther Live (Austin event-production company); former festival director at C3 Presents; founder of Field Guide Festival",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "interest_tags": "hospitality-entertainment",
+  "evidence": "Employer 'Blue Norther Live' and occupation 'Producer and Owner' match Lindsey Sokol, who founded the Austin large-scale event-production company in 2019 after 11 years at C3 Presents. Austin 78704 fits. BNL has produced political events including the Beto O'Rourke presidential launch.",
+  "source_url": "https://www.linkedin.com/in/lindsey-sokol-4558a688/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-77f49f79-43ff-4655-ac33-a4b020208d70",
+  "name": "Mack Martinez, III",
+  "resolved_employer": "Mack Martinez — retired Travis County attorney (former First Assistant County Attorney and Family Violence Division director, Travis County Attorney's Office)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Occupation 'Attorney-at-Law, Retired' and employer 'Travis County' align strongly with Mack Martinez, a decades-long Travis County Attorney's Office lawyer (First Assistant County Attorney; later Family Violence Division director) now in solo practice. Gift to Margaret Gomez. The 'III' suffix isn't independently confirmed, hence medium.",
+  "source_url": "https://www.austinchronicle.com/news/2004-02-13/196917/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-754742cb-84d5-4f19-a8a4-70b46808d42e",
+  "name": "Roberts, Scott",
+  "resolved_employer": "Scott Roberts — owner, The Salt Lick BBQ and Salt Lick Cellars winery (Driftwood, TX)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "interest_tags": "hospitality-entertainment",
+  "evidence": "Driftwood 78619 is the exact location of The Salt Lick; Scott Roberts has owned the landmark barbecue restaurant (and adjacent vineyard/winery) since 1985. He has been active on Texas winery/liquor-law policy. Gift to Brigid Shea (Precinct 2).",
+  "source_url": "https://www.texastribune.org/2018/05/03/texas-salt-lick-winery-arcane-texas-laws-big-spending-liquor-interests/",
+  "affiliations": []
+ }
+]

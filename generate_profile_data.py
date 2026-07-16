@@ -123,12 +123,20 @@ CANDIDATE_CYCLES = {
     'gomez':        [{'label': 'Re-election',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
                      {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    # Morales: Pct 4 Constable 2017-2025 (elected 2016/2020/2024 presidential
+    # years), then 2026 run for Commissioner Pct 4; holds the seat since
+    # Gómez's June 2026 retirement. Both offices' filings share one recipient.
+    'morales':      [{'label': 'Constable',        'election_year': 2016, 'start_year': None, 'end_year': 2016},
+                     {'label': 'Constable',        'election_year': 2020, 'start_year': 2017, 'end_year': 2020},
+                     {'label': 'Constable',        'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
+                     {'label': 'Commissioner Run', 'election_year': 2026, 'start_year': 2025, 'end_year': None}],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
 # clean city data). County officials have clean county filings back to 2016.
 CANDIDATE_MIN_YEAR = {
     'brown': 2016, 'travillion': 2016, 'shea': 2016, 'howard': 2016, 'gomez': 2016,
+    'morales': 2016,
 }
 
 

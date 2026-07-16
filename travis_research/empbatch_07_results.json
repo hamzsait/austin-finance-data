@@ -1,0 +1,362 @@
+[
+ {
+  "employer_id": "d1fb0d65-5695-476d-95f6-c89f93d314e6",
+  "name": "Casey Communication, LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin communications-consulting firm (founded 2008, Bergan Casey) specializing in strategy/PR for nonprofit clients.",
+  "source_url": "https://www.caseycommunication.com/about/"
+ },
+ {
+  "employer_id": "d08d3c13-0a6b-4c9a-ba17-2f5b5683298d",
+  "name": "Streusand Landon Ozburn Lemmon LLP",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin law firm practicing creditor's rights, business bankruptcy, commercial litigation and corporate transactions.",
+  "source_url": "https://www.slollp.com/practice-areas/"
+ },
+ {
+  "employer_id": "b60170c2-30ce-44a2-994f-e4160d5658cb",
+  "name": "Volunteer Legal Services",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Volunteer Legal Services of Central Texas, a 501(c)(3) (est. 1981) providing free civil legal aid to low-income Austin/Travis County residents via volunteer attorneys.",
+  "source_url": "https://www.vlsoct.org/"
+ },
+ {
+  "employer_id": "afbd6cb3-cdda-4f60-8640-541feeb03eed",
+  "name": "Berkadia",
+  "industry": "Real Estate",
+  "interest_tags": "multifamily-housing",
+  "confidence": "high",
+  "evidence": "Berkadia (Berkshire Hathaway/Jefferies JV) is a commercial real estate services firm doing multifamily mortgage banking, investment sales and loan servicing; donor occupation 'Banker' fits.",
+  "source_url": "https://www.berkadia.com/"
+ },
+ {
+  "employer_id": "acca0bd5-3952-4338-aaa6-966b6669f35e",
+  "name": "Lynxs Group",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "medium",
+  "evidence": "Austin-based (founder/CEO Ray Brimble) airport cargo real estate development and management company (originated as Austin CargoPort at ABIA); straddles logistics/real estate.",
+  "source_url": "https://lynxs.com/about/"
+ },
+ {
+  "employer_id": "9f3530b0-44f0-4e0b-968e-96b7d06f5d40",
+  "name": "DMW Austin LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Texas LLC (est. 2008, agent David M. Williams, Austin 78731) providing contract/fee business consulting services; donor occupation 'Consultant'.",
+  "source_url": "https://www.bloomberg.com/profile/company/2158364D:US"
+ },
+ {
+  "employer_id": "9bfef32e-4616-4771-b101-2f853472736e",
+  "name": "DPFG, Inc.",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,homebuilders",
+  "confidence": "high",
+  "evidence": "Development Planning & Financing Group, a national real estate consulting firm (TX office) doing land-secured/public finance (PIDs, MUDs, TIF) for developers and homebuilders.",
+  "source_url": "https://dpfg.com/about/"
+ },
+ {
+  "employer_id": "98d202c1-66a2-4081-864f-0f8ad198ab72",
+  "name": "Intercambio",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Could not confirm which 'Intercambio' this is (possibly an immigrant-services nonprofit or a consulting firm); occupation 'Principal' is insufficient to classify.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "8fd52c67-8b35-4c62-8a81-4556b49954d0",
+  "name": "Cellebrite",
+  "industry": "Technology",
+  "interest_tags": "military-defense",
+  "confidence": "high",
+  "evidence": "Cellebrite DI (Israel) makes digital/mobile forensic extraction tools (UFED) sold to law enforcement, military, and intelligence agencies (incl. ICE contracts); surveillance-tech vendor.",
+  "source_url": "https://en.wikipedia.org/wiki/Cellebrite"
+ },
+ {
+  "employer_id": "8ce54adf-381a-4fae-abf5-f9e4ce6f83d5",
+  "name": "Austin Partners in Education",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin nonprofit (501c3, est. 2004 from 1983 Adopt-A-School) providing tutoring/mentoring and college-readiness programs to Austin ISD students.",
+  "source_url": "https://austinpartners.org/about-austin-partners-in-education/"
+ },
+ {
+  "employer_id": "720c6487-f53f-415a-bca6-a272955aae71",
+  "name": "ServiceNow",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "ServiceNow is a major enterprise cloud/SaaS workflow software company.",
+  "source_url": "https://www.servicenow.com/"
+ },
+ {
+  "employer_id": "54d3d216-4554-4aa3-835a-c5feaab4f375",
+  "name": "The Honor Roll",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin full-service brand/creative marketing agency (founded 2015, founder Jason Sugawa).",
+  "source_url": "https://www.thehonorroll.com/"
+ },
+ {
+  "employer_id": "3af4b715-01b1-40f6-94cf-6fa589142ad0",
+  "name": "Tso Delivery, Inc.",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Tso Chinese Takeout & Delivery, an Austin online-only Chinese restaurant/food-delivery company with its own delivery fleet; CEO occupation fits founders Min & Jenna Choe.",
+  "source_url": "https://tso.company/story"
+ },
+ {
+  "employer_id": "1b5b2471-a8d7-4bc2-add5-956c2a0a89fd",
+  "name": "Pathway Vet Alliance",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Pathway Vet Alliance (now Thrive Pet Healthcare) is a national veterinary hospital management company.",
+  "source_url": "https://www.thrivepetcare.com/"
+ },
+ {
+  "employer_id": "12b194f8-ec30-46f0-a3a2-2ec04d3faa35",
+  "name": "Rosendin",
+  "industry": "Construction",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Rosendin (founded 1919) is the largest employee-owned electrical contractor in the US; donor is president of its corporate foundation.",
+  "source_url": "https://www.rosendin.com/who-we-are/"
+ },
+ {
+  "employer_id": "tcv-1c8e87de-e679-4be1-a870-e6fc1d3e32c4",
+  "name": "Hogan Lovells",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Hogan Lovells is a large global law firm.",
+  "source_url": "https://www.hoganlovells.com/"
+ },
+ {
+  "employer_id": "tcv-dbeec172-a726-4447-a87a-fc0d21735675",
+  "name": "Srlf",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Unresolvable acronym/abbreviation ('Srlf'); occupation 'Consultant' alone is insufficient to identify the employer or industry.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-18c0d94e-3d96-4ceb-a671-29be17bae682",
+  "name": "Apts",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Not a real employer name (likely a data artifact / abbreviation for 'apartments'); occupation 'Professor' does not corroborate any specific firm.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-5397dd4f-7960-4a5b-abf5-00e3d0c6a0bc",
+  "name": "EverMed Exams",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "EverMed Exams provides independent consultative medical examinations for the Social Security Disability (DDS) program.",
+  "source_url": "https://www.evermedexams.com/"
+ },
+ {
+  "employer_id": "cc35a129-3ca6-47a8-bac7-a7a1311c2e1b",
+  "name": "VACO",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Vaco LLC is a national staffing, consulting and executive-search firm (accounting, finance, technology); donor was placed in a Google Trust & Safety role via Vaco.",
+  "source_url": "https://www.vaco.com/"
+ },
+ {
+  "employer_id": "tcv-aa920eb4-ddc8-4cde-9522-92b6fbf362b1",
+  "name": "Lucas Meyers",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Lucas Meyers is principal of Governmental Affairs LLC, an Austin lobbying/government-affairs firm (registered TX lobbyist; telecom/cable clients); occupation 'Governmental Affairs Consultant'.",
+  "source_url": "https://www.governmentalaffairsllc.com/lucas-bio"
+ },
+ {
+  "employer_id": "f39b1d80-44d6-4b6f-a1d8-1899801c6d65",
+  "name": "Grayline",
+  "industry": "Consulting / PR",
+  "interest_tags": "military-defense",
+  "confidence": "medium",
+  "evidence": "Grayline Group is an Austin strategy/technology advisory firm (founded 2011 by military veterans) working AI, cybersecurity and program management for defense and critical-infrastructure clients.",
+  "source_url": "https://graylinegroup.com/about/"
+ },
+ {
+  "employer_id": "cfa0e7db-7cae-4761-83b3-f331542f31f6",
+  "name": "OAG",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "OAG = Office of the Attorney General (Texas OAG in this Travis County context); donors are attorneys, i.e. state-government legal staff.",
+  "source_url": "https://www.texasattorneygeneral.gov/"
+ },
+ {
+  "employer_id": "9946aa15-6b77-4435-8ed4-672604b91f59",
+  "name": "Pluralsight",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Pluralsight is a technology skills / online learning software platform company.",
+  "source_url": "https://www.pluralsight.com/"
+ },
+ {
+  "employer_id": "312f4318-bf29-40d6-af31-5b0fa5fd9f6c",
+  "name": "20th Century Fox",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "20th Century Fox (now 20th Century Studios) is a major film/TV studio; donor occupation 'Writer'.",
+  "source_url": "https://www.20thcenturystudios.com/"
+ },
+ {
+  "employer_id": "tcv-134d2386-e7f8-4fee-86ea-4a7f37d2a40d",
+  "name": "ECHO Austin",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "homelessness-services",
+  "confidence": "high",
+  "evidence": "ECHO = Ending Community Homelessness Coalition, the Austin/Travis County lead nonprofit coordinating homelessness response (Continuum of Care).",
+  "source_url": "https://www.austinecho.org/"
+ },
+ {
+  "employer_id": "ccedf35f-5a3d-42d7-a47a-2ebdbabd1e7f",
+  "name": "LIUNA - SWLDC",
+  "industry": "Labor",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Laborers' International Union of North America - Southwest Laborers' District Council; donor occupation 'Labor Leader'.",
+  "source_url": "https://www.liuna.org/"
+ },
+ {
+  "employer_id": "3f47376c-4615-4fb6-90db-e331b4c313ed",
+  "name": "Squadbuck",
+  "industry": "Consulting / PR",
+  "interest_tags": "progressive-money",
+  "confidence": "medium",
+  "evidence": "SquadBuck is a mission-driven consulting firm (leadership/strategy/comms/fundraising) in education, nonprofit and progressive policy-advocacy sectors; led by Obama-era Dept. of Education alumna Ruthanne Buck.",
+  "source_url": "https://www.squadbuck.com/"
+ },
+ {
+  "employer_id": "tcv-f6fa6a11-915c-4f00-943e-d357ba2a41ad",
+  "name": "TX Comptroller of Public Accounts",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Texas Comptroller of Public Accounts is the state tax/revenue agency; donor occupation 'Attorney' (state government staff).",
+  "source_url": "https://comptroller.texas.gov/"
+ },
+ {
+  "employer_id": "tcv-f11c6a41-bf66-4c82-9d68-4f32c49c5dd7",
+  "name": "Forward",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Generic single-word employer 'Forward' could not be confidently matched to a specific firm; occupation 'CPA' suggests an accounting context but is not enough to classify.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-ebe50335-c630-49a4-a8e5-fc06d7377d26",
+  "name": "Saga geophysics",
+  "industry": "Energy / Environment",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "SAGA Geophysics (Austin, TX) rents geophysical instruments for subsurface exploration/surveys; business-owner donor. Sector (energy/mining/environmental exploration services).",
+  "source_url": "https://www.sagageo.com/about-us"
+ },
+ {
+  "employer_id": "tcv-e95fedc4-a355-4b41-a779-e505694488d6",
+  "name": "The Bear",
+  "industry": "Entertainment",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Could not confirm a specific company named 'The Bear'; donor occupation 'Filmmaker' implies a film/production context but the employer is unverified.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-dcbb0df3-4677-49ee-b516-3f98b9775291",
+  "name": "Tele Network, Inc.",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "teleNetwork (San Marcos, TX) is an IT-services firm providing outsourced customer service and technical support for telecom/tech companies; donor occupation 'Customer Service'.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.tele_network_inc.41cd2385701c4ee4abb5304ab7a1beec.html"
+ },
+ {
+  "employer_id": "tcv-d79229e5-a86e-4724-88da-8cb5795db813",
+  "name": "Solera",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Multiple prominent firms named 'Solera' (Solera Holdings software, Solera Health, solar/energy firms) employ engineers; cannot confirm which, so no confident classification.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-cf52633c-1637-4f55-9e36-3ba4b0dc47de",
+  "name": "Escarpement Assets LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Could not locate 'Escarpement Assets LLC' (likely an Austin single-member holding LLC, named for Escarpment Blvd); occupation 'Software' is insufficient to classify.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-b874f20f-9833-4920-8cba-627826e2aaa4",
+  "name": "Marisa Pool",
+  "industry": "Self-Employed",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Employer name matches the donor's own name with occupation 'Artist', indicating a self-employed artist.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-b7d55127-9720-49b4-a29a-e78fdc8e4b49",
+  "name": "Q Prime",
+  "industry": "Entertainment",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Q Prime is a major music artist-management company (Metallica, Muse, Eric Church, etc.); donor occupation 'Marketing'.",
+  "source_url": "https://en.wikipedia.org/wiki/Q_Prime"
+ },
+ {
+  "employer_id": "tcv-b6a46674-7238-4e5a-b929-6814ab236334",
+  "name": "NCT Culinary",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "medium",
+  "evidence": "NCT Culinary (Daniel Northcutt, Austin) is a culinary/catering and event-production operation; donor occupation 'Event producer'.",
+  "source_url": "https://www.linkedin.com/in/northcutt101/"
+ },
+ {
+  "employer_id": "tcv-b44ea065-6044-49e4-80de-ae633217854b",
+  "name": "Sothebys Concierge Auctions",
+  "industry": "Real Estate",
+  "interest_tags": "luxury-real-estate",
+  "confidence": "high",
+  "evidence": "Sotheby's Concierge Auctions (Austin-founded, 2008) is the leading global luxury real estate auction marketplace; donor occupation 'Digital Marketing Manager'.",
+  "source_url": "https://www.sothebys.com/en/departments/real-estate-concierge-auctions"
+ },
+ {
+  "employer_id": "tcv-a9b46fa9-ac29-4e6b-8b3f-1f758617728b",
+  "name": "DSPolitical",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting,progressive-money",
+  "confidence": "high",
+  "evidence": "DSPolitical is a Democratic/progressive digital advertising and voter-targeting firm; donor occupation 'Account Manager'.",
+  "source_url": "https://dspolitical.com/"
+ }
+]

@@ -1,0 +1,133 @@
+{
+  "chunk": "pct4_george-morales__2026-05-18_COH__p0001-p0020",
+  "pages": [
+    {"page": 1, "type": "COVER1", "filer_name": "Morales, George",
+     "report_type": "Runoff", "period_from": "02/22/2026",
+     "period_through": "05/16/2026", "office_held": "None",
+     "correction": false},
+    {"page": 2, "type": "COVER2", "total_unitemized_contributions": 317.00,
+     "total_contributions": 121168.59, "total_unitemized_expenditures": 944.00,
+     "total_expenditures": 102811.81, "contribution_balance": 49088.00,
+     "outstanding_loans": 0.00},
+    {"page": 3, "type": "COVER3", "label": "SUBTOTALS - C/OH"},
+    {"page": 4, "type": "A1", "sch_pos": "1/49", "entries": [
+      {"date": "03/05/2026", "name": "Adler, Stephen", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": "Teacher, investor, atty", "employer": "Self", "oos_pac": false},
+      {"date": "04/26/2026", "name": "Aguirre, Anna", "city_state_zip": "Austin, TX 78744", "amount": 500.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+      {"date": "03/23/2026", "name": "Alam, Omar", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "04/24/2026", "name": "Albert, David", "city_state_zip": "Austin, TX 78741", "amount": 1000.00, "occupation": "Professor", "employer": "Austin Community College", "oos_pac": false},
+      {"date": "03/04/2026", "name": "Albert, David", "city_state_zip": "Austin, TX 78741", "amount": 1000.00, "occupation": "Professor", "employer": "Austin Community College", "oos_pac": false}
+    ]},
+    {"page": 5, "type": "A1", "sch_pos": "2/49", "entries": [
+      {"date": "04/16/2026", "name": "Aleman, Jaime", "city_state_zip": "Leander, TX 78641", "amount": 52.95, "occupation": "Financial Analyst", "employer": "City of Austin", "oos_pac": false},
+      {"date": "05/13/2026", "name": "Alter, Alison", "city_state_zip": "Austin, TX 78756", "amount": 52.95, "occupation": "Social Impact Advisor", "employer": "Alter Advising", "oos_pac": false},
+      {"date": "03/09/2026", "name": "Alvarez, Frank", "city_state_zip": "Buda, TX 78610", "amount": 210.84, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+      {"date": "03/05/2026", "name": "Anderson, Cynthia", "city_state_zip": "Austin, TX 78739", "amount": 526.63, "occupation": "Retired", "employer": "None", "oos_pac": false},
+      {"date": "04/06/2026", "name": "Anderson, Greg", "city_state_zip": "Austin, TX 78723", "amount": 250.00, "occupation": "Affordable Homeownership", "employer": "Austin Habitat for Humanity", "oos_pac": false}
+    ]},
+    {"page": 6, "type": "A1", "sch_pos": "3/49", "entries": [
+      {"date": "03/25/2026", "name": "Anderson, Greg", "city_state_zip": "Austin, TX 78723", "amount": 250.00, "occupation": "Affordable Homeownership", "employer": "Austin Habitat for Humanity", "oos_pac": false},
+      {"date": "03/22/2026", "name": "Andrade, Javier", "city_state_zip": "Fredericksburg, TX 78624", "amount": 105.58, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+      {"date": "03/10/2026", "name": "Armstrong, William", "city_state_zip": "Austin, TX 78701", "amount": 2631.89, "occupation": "Property", "employer": "Stratus", "oos_pac": false},
+      {"date": "04/06/2026", "name": "Arriaga, Margaret", "city_state_zip": "Austin, TX 78744", "amount": 105.58, "occupation": "Retired teacher", "employer": "Retired", "oos_pac": false},
+      {"date": "03/31/2026", "name": "Austin Board of Realtors PAC", "city_state_zip": "Austin, TX 78758", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+    ]},
+    {"page": 7, "type": "A1", "sch_pos": "4/49", "entries": [
+      {"date": "04/06/2026", "name": "Austin Firefighters Assoc PAC", "city_state_zip": "Austin, TX 78752", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "03/24/2026", "name": "Bailey, Ken", "city_state_zip": "Del Valle, TX 78617", "amount": 526.63, "occupation": "Fire Chief", "employer": "TCESD11", "oos_pac": false},
+      {"date": "03/09/2026", "name": "Bailey, Linda", "city_state_zip": "AUSTIN, TX 78730", "amount": 210.84, "occupation": "Retir d", "employer": "Retired", "oos_pac": false},
+      {"date": "03/24/2026", "name": "Baird Law Firm PLCC", "city_state_zip": "Austin, TX 78745", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "03/24/2026", "name": "Barrientos, Gonzalo", "city_state_zip": "Austin, TX 78704", "amount": 100.00, "occupation": "Ret", "employer": "Ret", "oos_pac": false}
+    ]},
+    {"page": 8, "type": "A1", "sch_pos": "5/49", "entries": [
+      {"date": "05/08/2026", "name": "Becerra, Jesus", "city_state_zip": "Buda, TX 78610", "amount": 263.47, "occupation": "BDO", "employer": "Becerra Consulting Group LLC", "oos_pac": false},
+      {"date": "04/30/2026", "name": "Berastain, Pierre", "city_state_zip": "Austin, TX 20002", "amount": 250.00, "occupation": "CEO", "employer": "The SAFE Alliance", "oos_pac": false},
+      {"date": "05/15/2026", "name": "Berice Castillo, Augustine &", "city_state_zip": "Austin, TX 78741-3904", "amount": 52.95, "occupation": "Retired", "employer": "NA", "oos_pac": false},
+      {"date": "04/08/2026", "name": "Bier, Marti", "city_state_zip": "Austin, TX 78723", "amount": 26.63, "occupation": "Chief Program Officer", "employer": "Texas freedom network", "oos_pac": false},
+      {"date": "03/24/2026", "name": "Bird, Steve", "city_state_zip": "Austin, TX 78733", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+    ]},
+    {"page": 9, "type": "A1", "sch_pos": "6/49", "entries": [
+      {"date": "05/06/2026", "name": "Blanton, Chris", "city_state_zip": "Austin, TX 78744", "amount": 105.58, "occupation": "Office Manager", "employer": "AFSCME Local 1624", "oos_pac": false},
+      {"date": "03/04/2026", "name": "Blanton, Chris", "city_state_zip": "Austin, TX 78744", "amount": 105.58, "occupation": "Office Manager", "employer": "AFSCME Local 1624", "oos_pac": false},
+      {"date": "04/08/2026", "name": "Brown, Andrew", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": "County Judge", "employer": "Travis County", "oos_pac": false},
+      {"date": "03/10/2026", "name": "Brown, Armann", "city_state_zip": "Austin, TX 78759", "amount": 210.84, "occupation": "MLB Scout", "employer": "Athletics", "oos_pac": false},
+      {"date": "03/23/2026", "name": "Bufkin, Ben", "city_state_zip": "AUSTIN, TX 78731", "amount": 500.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false}
+    ]},
+    {"page": 10, "type": "A1", "sch_pos": "7/49", "entries": [
+      {"date": "05/06/2026", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731-2806", "amount": 263.47, "occupation": "Retired", "employer": "rerired", "oos_pac": false},
+      {"date": "04/08/2026", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731-2806", "amount": 526.63, "occupation": "Retired", "employer": "rerired", "oos_pac": false},
+      {"date": "04/01/2026", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731-2806", "amount": 526.63, "occupation": "Retired", "employer": "Na", "oos_pac": false},
+      {"date": "03/12/2026", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731", "amount": 526.63, "occupation": "Retired", "employer": "Na", "oos_pac": false},
+      {"date": "05/15/2026", "name": "Butts, David", "city_state_zip": "Austin, IN 78723", "amount": 250.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false, "uncertain": true, "note": "state written as IN, likely filer error for TX"}
+    ]},
+    {"page": 11, "type": "A1", "sch_pos": "8/49", "entries": [
+      {"date": "04/08/2026", "name": "Byrne, DanF", "city_state_zip": "Austin, TX 78701-2808", "amount": 250.00, "occupation": "Attorney", "employer": "Fritz Byrne", "oos_pac": false},
+      {"date": "03/25/2026", "name": "Callahan, Brendan", "city_state_zip": "Austin, TX 78704", "amount": 263.47, "occupation": "Professional", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "04/22/2026", "name": "Camarillo, Sylvia", "city_state_zip": "Pflugerville, TX 78660", "amount": 316.11, "occupation": "Travis county", "employer": "Travis county", "oos_pac": false},
+      {"date": "03/31/2026", "name": "Cannon, Tina", "city_state_zip": "Austin, TX 78704", "amount": 52.95, "occupation": "VP", "employer": "Visit Austin", "oos_pac": false},
+      {"date": "04/23/2026", "name": "Capital Area Progressive Democrats", "city_state_zip": "Austin, TX 78767", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+    ]},
+    {"page": 12, "type": "A1", "sch_pos": "9/49", "entries": [
+      {"date": "04/06/2026", "name": "Carroll, Angel", "city_state_zip": "Austin, TX 78717", "amount": 500.00, "occupation": "PAC", "employer": "PAC", "oos_pac": false},
+      {"date": "03/23/2026", "name": "Carroll II, Charles", "city_state_zip": "Buda, TX 78610", "amount": 250.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "04/06/2026", "name": "Cartwright, Dorsey", "city_state_zip": "Austin, TX 78704", "amount": 105.58, "occupation": "na", "employer": "retired", "oos_pac": false},
+      {"date": "03/09/2026", "name": "Cascino, Joseph", "city_state_zip": "Austin, TX 78745", "amount": 250.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+      {"date": "03/30/2026", "name": "Castillo, Gerardo", "city_state_zip": "Austin, TX 78703", "amount": 2631.89, "occupation": "President", "employer": "ABML", "oos_pac": false}
+    ]},
+    {"page": 13, "type": "A1", "sch_pos": "10/49", "entries": [
+      {"date": "03/24/2026", "name": "Cerda, Stephanie", "city_state_zip": "Austin, TX 78747", "amount": 105.58, "occupation": "Program Manager", "employer": "Red Cross", "oos_pac": false},
+      {"date": "03/24/2026", "name": "Chapa, Paul", "city_state_zip": "Austin, TX 78704", "amount": 1000.00, "occupation": "Mgr", "employer": "Linebarger Googan", "oos_pac": false},
+      {"date": "03/24/2026", "name": "Chase, Anthony", "city_state_zip": "Austin, TX 78747", "amount": 52.95, "occupation": "Teacher", "employer": "Austin isd", "oos_pac": false},
+      {"date": "04/03/2026", "name": "Chincanchan, David", "city_state_zip": "AUSTIN, TX 78744-3808", "amount": 263.47, "occupation": "Policy Director", "employer": "Workers Defense Action Fund", "oos_pac": false},
+      {"date": "03/25/2026", "name": "Clay, Greg", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 14, "type": "A1", "sch_pos": "11/49", "entries": [
+      {"date": "03/05/2026", "name": "Cleveland, Kurt", "city_state_zip": "Austin, TX 78756", "amount": 105.58, "occupation": "Real Estate Development", "employer": "Stratus Properties", "oos_pac": false},
+      {"date": "03/20/2026", "name": "Cleveland, Yolanda", "city_state_zip": "Austin, TX 78748", "amount": 105.58, "occupation": "Program Specialist", "employer": "TDI -OSHCON", "oos_pac": false},
+      {"date": "03/05/2026", "name": "Cobb, Gary", "city_state_zip": "Austin, TX 78749", "amount": 526.63, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+      {"date": "03/13/2026", "name": "Cody, Buck", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "Real Estate Investor", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "04/01/2026", "name": "Cofer, George", "city_state_zip": "Austin, TX 78746", "amount": 105.58, "occupation": "Land conservation, and trail building", "employer": "Self-employed conservationist", "oos_pac": false}
+    ]},
+    {"page": 15, "type": "A1", "sch_pos": "12/49", "entries": [
+      {"date": "03/13/2026", "name": "Cofer, George", "city_state_zip": "Austin, TX 78746", "amount": 263.47, "occupation": "Trail builder", "employer": "Self", "oos_pac": false},
+      {"date": "03/05/2026", "name": "Cofer, Richard", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": "Lawyer", "employer": "Cofer & Connelly, PLLC", "oos_pac": false},
+      {"date": "03/13/2026", "name": "Cole, Sheryl", "city_state_zip": "Austin, TX 78722", "amount": 263.47, "occupation": "State Representative - House District 46", "employer": "Texas House of Representatives", "oos_pac": false},
+      {"date": "03/20/2026", "name": "Colmenero, Rudy", "city_state_zip": "Austin, TX 78703", "amount": 263.47, "occupation": "Attorney", "employer": "Vacek Kiecke & Colmenero LLP", "oos_pac": false},
+      {"date": "03/09/2026", "name": "Coronado, Santiago 'Jim'", "city_state_zip": "Austin, TX 78731", "amount": 263.47, "occupation": "Retired", "employer": "Retired", "oos_pac": false}
+    ]},
+    {"page": 16, "type": "A1", "sch_pos": "13/49", "entries": [
+      {"date": "04/05/2026", "name": "Cotera, Martha", "city_state_zip": "Austin, TX 78704", "amount": 200.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+      {"date": "03/06/2026", "name": "Cragle, John", "city_state_zip": "Austin, TX 78737", "amount": 105.58, "occupation": "Enterprise Architect", "employer": "Gainwell Technologies", "oos_pac": false},
+      {"date": "05/13/2026", "name": "Curtis, Matthew", "city_state_zip": "Austin, TX 78723", "amount": 526.63, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+      {"date": "03/16/2026", "name": "De Avila, Steve", "city_state_zip": "Austin, TX 78745", "amount": 210.84, "occupation": "Deputy", "employer": "Travis county", "oos_pac": false},
+      {"date": "04/08/2026", "name": "DeBeauvoir, Dana", "city_state_zip": "Austin, TX 78731-6508", "amount": 263.47, "occupation": "retired", "employer": "retired", "oos_pac": false}
+    ]},
+    {"page": 17, "type": "A1", "sch_pos": "14/49", "entries": [
+      {"date": "03/03/2026", "name": "DeLeon, Marcos", "city_state_zip": "Austin, TX 78702", "amount": 50.00, "occupation": "Rtd", "employer": "Rtd", "oos_pac": false},
+      {"date": "04/04/2026", "name": "Del Toro, Linda", "city_state_zip": "Austin, TX 78747", "amount": 100.00, "occupation": "Real estate Broker", "employer": "Del Toro Realty", "oos_pac": false},
+      {"date": "03/08/2026", "name": "Delia Garza Campaign", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "05/06/2026", "name": "Democrats, Liberal Austin", "city_state_zip": "Austin, TX 78741", "amount": 250.00, "occupation": "Professor", "employer": "Austin Community College", "oos_pac": false},
+      {"date": "03/24/2026", "name": "Dempsey, Mark", "city_state_zip": "Austin, TX 78703", "amount": 526.63, "occupation": "real estate investments", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 18, "type": "A1", "sch_pos": "15/49", "entries": [
+      {"date": "03/24/2026", "name": "Diaz, Elena", "city_state_zip": "Austin, TX 78741", "amount": 100.00, "occupation": "Visiting Judge", "employer": "Travis Co", "oos_pac": false},
+      {"date": "03/24/2026", "name": "Diaz, Ramon", "city_state_zip": "Austin, TX 78748", "amount": 26.63, "occupation": "Advisor", "employer": "Austin CC", "oos_pac": false},
+      {"date": "05/06/2026", "name": "Diggs, Julia", "city_state_zip": "Austin, TX 78741", "amount": 158.21, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+      {"date": "04/06/2026", "name": "Dobson, Lynne", "city_state_zip": "Austin, TX 78746", "amount": 1000.00, "occupation": "Self", "employer": "Philanthropist", "oos_pac": false},
+      {"date": "03/25/2026", "name": "Dunaway, Travis", "city_state_zip": "Austin, TX 78703", "amount": 263.47, "occupation": "Commercial Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 19, "type": "A1", "sch_pos": "16/49", "entries": [
+      {"date": "03/24/2026", "name": "Edwards, Lawremce", "city_state_zip": "Round Rock, TX 78665", "amount": 500.00, "occupation": "Deputy", "employer": "Travis Co", "oos_pac": false},
+      {"date": "04/05/2026", "name": "Edwards, Spencer", "city_state_zip": "Round Rock, TX 78741", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "03/12/2026", "name": "Eiland, Shawna", "city_state_zip": "Austin, TX 78750", "amount": 263.47, "occupation": "Property Manager", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "03/17/2026", "name": "Elfant, Bruce", "city_state_zip": "Austin, TX 78751", "amount": 105.58, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+      {"date": "03/13/2026", "name": "Ellis, Chris", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": "MP", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 20, "type": "A1", "sch_pos": "17/49", "entries": [
+      {"date": "05/06/2026", "name": "Escamilla, David", "city_state_zip": "Austin, TX 78759-7162", "amount": 105.58, "occupation": "Attorney", "employer": "Retired", "oos_pac": false},
+      {"date": "05/06/2026", "name": "Farmer, Gary", "city_state_zip": "Austin, TX 78746", "amount": 2500.00, "occupation": "President", "employer": "Heritage Title Company", "oos_pac": false},
+      {"date": "04/01/2026", "name": "Fisher, Ashley", "city_state_zip": "Austin, TX 78723", "amount": 26.63, "occupation": "Land Use Consultant", "employer": "Drenner Group", "oos_pac": false},
+      {"date": "05/13/2026", "name": "Flack, Scott", "city_state_zip": "Austin, TX 78746", "amount": 350.00, "occupation": "CRE CEO", "employer": "Live Oak CRE, LLC", "oos_pac": false},
+      {"date": "04/20/2026", "name": "Flores, Gustavo", "city_state_zip": "San Antonio, TX 78261", "amount": 1052.95, "occupation": "Controller", "employer": "Baker Risk", "oos_pac": false}
+    ]}
+  ]
+}

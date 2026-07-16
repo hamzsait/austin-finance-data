@@ -26,6 +26,12 @@ DB = "austin_finance.db"
 CSV_PATH = r"travis_county_filings\extracted\travis_contributions.csv"
 PORTAL = "https://traviscountytx.easyvotecampaignfinance.com/home/publicfilings"
 DRY = "--dry-run" in sys.argv
+# --append-only <slug-prefix>: process only CSV rows for the given
+# official_slug prefix and DO NOT delete/re-mint anything already ingested
+# (a full re-run would destroy FEC enrichment stamped on tcv- identities).
+APPEND_ONLY = None
+if "--append-only" in sys.argv:
+    APPEND_ONLY = sys.argv[sys.argv.index("--append-only") + 1]
 
 AUTO, REVIEW_LOW = 0.83, 0.65
 EMP_AUTO = 0.85
@@ -58,20 +64,23 @@ def main():
     cur = conn.cursor()
 
     rows = list(csv.DictReader(open(CSV_PATH, encoding="utf-8")))
-    print(f"CSV rows: {len(rows)}")
-
-    # ---------- Phase A: wipe prior travis ingest (idempotent) ----------
-    prior_ids = [r[0] for r in cur.execute(
-        "SELECT donor_id FROM donor_identities WHERE match_confidence LIKE 'travis-%'")] \
-        if cur.execute("SELECT 1 FROM pragma_table_info('donor_identities') WHERE name='match_confidence'").fetchone() else []
-    cur.execute("DELETE FROM campaign_finance WHERE transaction_id LIKE 'TRAVIS-%'")
-    print(f"removed prior travis rows: {cur.rowcount}")
-    # identities minted by a previous run of THIS script are tagged in campaigns
-    cur.execute("DELETE FROM donor_identities WHERE donor_id LIKE 'tcv-%'")
-    print(f"removed prior travis identities: {cur.rowcount}")
-    cur.execute("DELETE FROM employer_identities WHERE employer_id LIKE 'tcv-%'")
-    print(f"removed prior travis employer identities: {cur.rowcount}")
-    cur.execute("DELETE FROM review_queue WHERE resolved = 'travis-pending'")
+    if APPEND_ONLY:
+        rows = [r for r in rows if r["official_slug"].startswith(APPEND_ONLY)]
+        print(f"CSV rows (append-only '{APPEND_ONLY}'): {len(rows)}")
+        cur.execute("DELETE FROM campaign_finance WHERE transaction_id LIKE ?",
+                    (f"TRAVIS-{APPEND_ONLY}%",))
+        print(f"removed prior rows for this official: {cur.rowcount}")
+    else:
+        print(f"CSV rows: {len(rows)}")
+        # ---------- Phase A: wipe prior travis ingest (idempotent) ----------
+        cur.execute("DELETE FROM campaign_finance WHERE transaction_id LIKE 'TRAVIS-%'")
+        print(f"removed prior travis rows: {cur.rowcount}")
+        # identities minted by a previous run of THIS script are tagged in campaigns
+        cur.execute("DELETE FROM donor_identities WHERE donor_id LIKE 'tcv-%'")
+        print(f"removed prior travis identities: {cur.rowcount}")
+        cur.execute("DELETE FROM employer_identities WHERE employer_id LIKE 'tcv-%'")
+        print(f"removed prior travis employer identities: {cur.rowcount}")
+        cur.execute("DELETE FROM review_queue WHERE resolved = 'travis-pending'")
 
     # ---------- Phase B: insert campaign_finance rows ----------
     inserts = []
@@ -111,8 +120,9 @@ def main():
 
     # map txid -> rowid + kind
     txkind = {i["transaction_id"]: i["_kind"] for i in inserts}
+    tx_filter = f"TRAVIS-{APPEND_ONLY}%" if APPEND_ONLY else "TRAVIS-%"
     new_rows = cur.execute(
-        "SELECT rowid, * FROM campaign_finance WHERE transaction_id LIKE 'TRAVIS-%'").fetchall()
+        "SELECT rowid, * FROM campaign_finance WHERE transaction_id LIKE ?", (tx_filter,)).fetchall()
 
     # ---------- Phase C: donor identity resolution (individuals) ----------
     # index existing identities by normalized last name

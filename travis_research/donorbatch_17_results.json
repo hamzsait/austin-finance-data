@@ -1,0 +1,115 @@
+[
+ {
+  "donor_id": "tcv-b357a3a0-7207-4914-8501-7ca028a3b6b1",
+  "name": "Whitfield, Gail",
+  "resolved_employer": "The Whitfield Company (owner/founder) - Austin commercial real estate & development firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Gail Whitfield, CCIM, is owner/founder of The Whitfield Company, a boutique Austin commercial real estate and land-development brokerage founded 1988; distinctive name with a single prominent Austin match. Gave to Travis County Commissioner Ann Howard.",
+  "source_url": "https://thewhitfieldco.com/about-us",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a5f26bfd-6306-4967-8f45-1c01cd250eb8",
+  "name": "Baer, Amy",
+  "resolved_employer": "Baer Family Foundation (co-founder/director); formerly Dell (marketing/business development, retired 2007)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Amy Baer, Austin philanthropist and wife of the late Joshua Baer (Capital Factory founder, d. June 2025); retired Dell marketing/biz-dev exec who co-founded the Baer Family Foundation (disadvantaged children + inclusive entrepreneurship). All-Democratic FEC pattern (lean 1.0, 71 gifts) fits; no zip in record but donation pattern and prominence corroborate. Gave to Ann Howard.",
+  "source_url": "https://friendsaustin.org/about/board/amy-baer",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-93b06b02-3116-4e96-910e-c3bc6224d472",
+  "name": "Tiemann, Robert",
+  "resolved_employer": "Robert M. Tiemann - Austin attorney and real estate investor (multi-property landlord)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Robert M. Tiemann is an Austin attorney and active real estate investor with dozens of properties concentrated in Pflugerville/Manor/Hutto/Austin - the eastern Travis County area of Commissioner Jeff Travillion's Precinct 1, which he donated to (corroborating detail). No zip in record; name moderately common.",
+  "source_url": "https://elementix.com/investors/tx/robert-tiemann",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-86efd965-e624-400b-b228-a46fca4f2ac2",
+  "name": "Garza, Rudy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm which Rudy Garza; no zip and a very common Texas name. Leading (unconfirmed) candidate is Rudy Garza, former City of Austin Assistant City Manager, now president/CEO of Garza EMC (project-management consulting); other same-named figures exist (e.g., CPS Energy/LCRA's Rudy D. Garza, San Antonio). Gave to Jeff Travillion.",
+  "source_url": "https://www.linkedin.com/in/rudy-garza-68b6b869/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-323b8df9-fa05-4645-bd63-13086f8c6ea3",
+  "name": "Amoroso, Natalie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Identity confirmed by zip+name: Natalie Winn Amoroso, homeowner at 701 Kinney Ave, Austin 78704 (assessed ~$1.7M in 2021), matching the record's 78704-1434; spouse Christian Amoroso. Occupation/employer not established from public sources, so industry left null. Gave to Brigid Shea.",
+  "source_url": "https://blockshopper.com/tx/travis-county/austin/property/776867/701-kinney-avenue",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-30e20b0e-fcca-4d22-8a20-f0a7f70ceb71",
+  "name": "Hernandez, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Name far too common to resolve to a specific person in the 78723 (Mueller/East Austin) area; single county gift and a single FEC record give no distinguishing detail. Gave to Brigid Shea.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-23c67469-2ff4-48af-a301-a8bb86d3bb84",
+  "name": "Duncan, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Resides in 78738 (affluent Spanish Oaks/Bee Cave area) and gave recurring gifts to Ann Howard (2022-2025), but 'John Duncan' is too common to pin to a specific individual; the Austin 'Duncan & Shelton' CRE firm traces to Joe Duncan, not John, so no confirmed match. Industry left null.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-04be5b59-1afa-484e-bb7d-3ca390ba0c81",
+  "name": "Timmerman, Barth",
+  "resolved_employer": "Barth D. Timmermann - solo-practice attorney, Austin",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Distinctive first name matches Barth D. Timmermann, an Austin solo-practitioner attorney (UT Law JD 1994, licensed 30+ yrs); also appears in Texas corporate records (Greenview Development Corp., Hawg Inc.). Dripping Springs 78620 residence is consistent with an Austin-area attorney. Republican-leaning FEC (lean 0.0). Gave to Jeff Travillion.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=229266",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ab36540-1b0f-4396-8207-619074f3c5cf",
+  "name": "Dochen, Sanford",
+  "resolved_employer": "Amplify Credit Union; retired IBM (Corporate Social Responsibility / corporate citizenship director, 21-yr career)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Sandy (Sanford) Dochen, longtime Austin civic leader; UT Austin grad, 21-year IBM career as corporate social responsibility/citizenship director (retired 2019), now affiliated with Amplify Credit Union. 78731 (Northwest Hills) matches. Sits on numerous boards. Gave to both Brigid Shea and Ann Howard.",
+  "source_url": "https://www.linkedin.com/in/sandydochen",
+  "affiliations": [
+   {
+    "org": "Anti-Defamation League (ADL)",
+    "role": "Board member",
+    "category": "jewish_civic",
+    "source_url": "https://www.linkedin.com/in/sandydochen"
+   },
+   {
+    "org": "Shalom Austin Jewish Foundation",
+    "role": "Board member / community advocacy (incl. Stand With Israel efforts)",
+    "category": "jewish_civic",
+    "source_url": "https://shalomaustin.org/standwithisrael/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a6c410bd-5742-4fea-a8a1-b35f1c0acbf2",
+  "name": "Rather, Dawn",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public-records or web match could be confirmed for a Dawn Rather in Austin 78704; occupation and identity unresolved. All-Democratic FEC pattern (lean 1.0, 15 gifts). Gave to Brigid Shea. Industry left null.",
+  "source_url": "",
+  "affiliations": []
+ }
+]

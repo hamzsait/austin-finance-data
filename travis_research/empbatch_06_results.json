@@ -1,0 +1,362 @@
+[
+ {
+  "employer_id": "tcv-b0a2ae90-338e-48d7-8ad9-2223567be7d9",
+  "name": "Robert A. Reyes, LLC",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Austin-area single-member LLC; could not confirm the business (possibly a lobbyist/consulting entity given naming); no occupation data in record.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf"
+ },
+ {
+  "employer_id": "tcv-f5909cf3-e747-48c4-ac15-e947871f21cd",
+  "name": "Sertodo",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Sertodo Copper, Austin-based maker and retailer of handcrafted copper cookware/barware (founded 1997 by Jonathan Beall); occupation 'Copper' matches.",
+  "source_url": "https://sertodo.com/pages/about"
+ },
+ {
+  "employer_id": "tcv-c5f8cb2e-945f-47de-9ff9-7b69d2014a5a",
+  "name": "Costello, Inc. PAC",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "PAC of Costello, Inc., a Houston/Austin civil engineering, surveying and land-development firm (acquired 2023 by Pape-Dawson Engineers).",
+  "source_url": "https://www.pape-dawson.com/news/pape-dawson-announces-partnership-with-costello/"
+ },
+ {
+  "employer_id": "tcv-8ff61490-ba31-45ab-b189-19c15dbe4023",
+  "name": "Beatty Bangle Strama",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin business/trial law firm (also does legislative/regulatory and healthcare law); occupation 'Attorney' matches. Now Beatty Navarre Strama (BNS Firm).",
+  "source_url": "https://www.martindale.com/organization/beatty-bangle-strama-pc-156646469/austin-texas-157674115-f/"
+ },
+ {
+  "employer_id": "tcv-5436df75-b089-4127-b512-70014d83f539",
+  "name": "Kuykendall",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Sample occupation is 'Attorney', suggesting a solo/small law practice, but the surname alone could not be tied to a specific confirmed firm.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-40d692b5-14f6-4604-95d0-4e7c5bf83e34",
+  "name": "U.S. Flood Control Corp",
+  "industry": "Energy / Environment",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Manufacturer of Tiger Dam reusable flood-barrier / flood-mitigation systems; occupation 'Texas Manager' matches. Best-fit environmental/disaster-mitigation bucket.",
+  "source_url": "https://usfloodcontrol.com/about-us/"
+ },
+ {
+  "employer_id": "tcv-3f27187e-3c48-4a41-a26b-7e709e5b70c1",
+  "name": "The Rosendin Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "501(c)(3) charitable arm of Rosendin Holdings (Rosendin Electric); funds health/nutrition/occupational nonprofit programs. Occupation 'President' matches.",
+  "source_url": "https://www.therosendinfoundation.org/who-we-are/"
+ },
+ {
+  "employer_id": "tcv-3a354113-538d-4937-9722-6fd9907303d3",
+  "name": "Bates PLLC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "PLLC with sample occupation 'Attorney'; naming and occupation indicate a law practice, though the specific firm was not independently confirmed.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "7c098d0f-affa-48de-ba0f-40a1c8f48cc4",
+  "name": "Vilma Luna LLC",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Governmental-affairs/lobbying firm of Vilma Luna, former TX state representative (D-Corpus Christi), formed 2020; occupation 'Consultant' matches.",
+  "source_url": "https://www.vilmaluna.com/about"
+ },
+ {
+  "employer_id": "7191f852-1e39-4f44-8f80-5818f2c44be1",
+  "name": "Ocanas Group",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Public-affairs / government-relations consulting firm led by Gilberto S. Ocanas (est. 1992-93); occupation 'Public Affairs Strategist' matches.",
+  "source_url": "https://www.ocanas.com/"
+ },
+ {
+  "employer_id": "tcv-2da9280f-a79e-4ebd-920b-ccf4edc2ed67",
+  "name": "Coindesk",
+  "industry": "Media",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "CoinDesk, cryptocurrency/blockchain news media outlet; occupation 'Producer' matches a media role.",
+  "source_url": "https://www.coindesk.com/"
+ },
+ {
+  "employer_id": "b412cec6-2e4e-493c-b11f-b508d82bbcaf",
+  "name": "Sunrise Homeless Navigation Center",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "homelessness-services",
+  "confidence": "high",
+  "evidence": "Austin nonprofit providing homeless navigation, community relations and support services; occupations (Community Engagement/Operations) match.",
+  "source_url": "https://www.sunriseaustin.org/"
+ },
+ {
+  "employer_id": "tcv-110ba16b-3e78-4c11-b925-65edc2852d4f",
+  "name": "Sotol Ventures LLC",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Active Texas LLC (est. 2021) in the Austin/Georgetown area; at least one associate is a commercial real-estate broker, but core business focus not firmly confirmed. Occupation 'Consultant'.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/rachel-shanks/evl02pnb"
+ },
+ {
+  "employer_id": "dc53dca4-6431-4fa2-aa37-f6e98cc6f9a1",
+  "name": "Origin Partners",
+  "industry": "Venture Capital",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Sample occupation explicitly 'Venture Capital'; 'Origin Partners' is a common firm name so the specific fund was not uniquely pinned down.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "48a534ec-bcda-4098-a420-ce6dc218d3e0",
+  "name": "BNS",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous acronym with occupation 'Executive Director'; could not confirm which organization (BNS Firm is a law firm, but that role does not fit).",
+  "source_url": ""
+ },
+ {
+  "employer_id": "8f803488-4f15-4b15-a9b7-53d5eaa1de97",
+  "name": "Stewardship Inc",
+  "industry": "Architecture",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Stewardship, Inc. is a full-service Austin architecture firm (owner Gayle Borst) focused on sustainable design; occupation 'Architect' matches.",
+  "source_url": "https://stewardshiparchitecture.com/about.html"
+ },
+ {
+  "employer_id": "tcv-28f87d1b-ee07-40e5-bf2c-60c95ce48f89",
+  "name": "CC4C.org",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "CC4C = Cheyanna's Champions for Children, Austin 501(c)(3) providing medical financial assistance to children with rare/undiagnosed conditions.",
+  "source_url": "https://www.cc4c.org"
+ },
+ {
+  "employer_id": "tcv-ee98c393-d357-4da1-acf6-6558fa2e9490",
+  "name": "On The List Presents, LLC",
+  "industry": "Entertainment",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "low",
+  "evidence": "Name ('...Presents, LLC') and CFO occupation indicate a concert/event promotion company, but the specific promoter could not be independently confirmed.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-b925513c-d48c-4675-aa12-473b7176cd12",
+  "name": "Contentsquare",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Contentsquare, digital-experience-analytics SaaS company; occupation 'Senior Solutions Engineer' matches a tech role.",
+  "source_url": "https://contentsquare.com/"
+ },
+ {
+  "employer_id": "tcv-b524cdce-8b91-4f79-aea3-cfb2a8a12eed",
+  "name": "USM",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Sample occupation 'Real Estate'; the acronym 'USM' could not be tied to a specific confirmed firm.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-b15e153f-35cb-4269-b27c-1c3b618772c1",
+  "name": "Communities for Recovery",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin nonprofit (founded 2003) providing peer support for substance-use and co-occurring mental-health recovery; occupation 'Executive Director' matches.",
+  "source_url": "https://communitiesforrecovery.org/"
+ },
+ {
+  "employer_id": "tcv-abb80e9d-8882-4e90-9ef1-3a4dd4ef509f",
+  "name": "ESD 1",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Emergency Services District No. 1 (a Texas special-purpose governmental district providing fire/EMS); occupation 'Fire Chief' confirms.",
+  "source_url": "https://www.tdi.texas.gov/fire/fmesd.html"
+ },
+ {
+  "employer_id": "tcv-a601b753-ad02-4476-8bf8-0cce578f5d8b",
+  "name": "Law Offices of Gilbert Prud Homme",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Named a law office ('Law Offices of Gilbert Prud'Homme'), clearly a legal practice.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-9bddd63f-b85d-4501-b5e7-9d422af10517",
+  "name": "CC4C",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "CC4C = Cheyanna's Champions for Children, Austin nonprofit aiding children with rare/undiagnosed medical conditions; occupation 'Non Profit' matches.",
+  "source_url": "https://www.cc4c.org"
+ },
+ {
+  "employer_id": "tcv-9ba199e8-84f1-423d-b2da-5580e466f1b6",
+  "name": "Baron & Blue",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Firm-style name with sample occupation 'Trial Attorney', indicating a litigation law firm; specific firm not independently confirmed.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-91d5a789-a977-42bf-b58d-0ea255c8b3ac",
+  "name": "Raft",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous single-word employer with generic occupation 'Manager'; could not confirm which 'Raft' company.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-72dce8ca-14bf-45c7-a223-72352cad7105",
+  "name": "Hahn Public Comm",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Hahn Public Communications, an Austin public-relations/public-affairs firm; occupation 'Public Relations' matches.",
+  "source_url": "https://www.hahnpublic.com/"
+ },
+ {
+  "employer_id": "tcv-6fc7f16e-ed34-4a95-b787-8c10dfcb00b8",
+  "name": "Thomas Ranch | Loraloma Club @ Thomas Ranch",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,luxury-real-estate",
+  "confidence": "high",
+  "evidence": "Loraloma is a luxury gated golf/wellness community within the 2,200-acre Thomas Ranch masterplan near Austin (Arete Collective/Wasatch JV); occupation matches a developer/hospitality operator.",
+  "source_url": "https://loralomaclub.com/"
+ },
+ {
+  "employer_id": "tcv-6f0a76b3-a75e-495d-aa58-41654d8d1c33",
+  "name": "Gloria Leal & Associates",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin law firm of attorney Gloria Leal; '& Associates' naming plus occupation 'Attorney' confirm a legal practice.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-6d6f5100-2654-45c8-b667-ea49b0677fa0",
+  "name": "Miller Lloyd PC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Professional corporation (PC) with sample occupation 'Attorney', indicating a law firm; specific firm not independently confirmed.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-65223bed-e6f2-47ce-bb6a-01a9635b1cc7",
+  "name": "Scheef & Stone",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Scheef & Stone, L.L.P. is a Texas business law firm (offices incl. Dallas/Frisco/Austin); occupation 'Attorney' matches.",
+  "source_url": "https://www.solidcounsel.com/"
+ },
+ {
+  "employer_id": "tcv-4f96b150-9150-43d6-9d06-654d65d55925",
+  "name": "Bazaaarvoice Inc",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Bazaarvoice, Austin-based SaaS company for ratings/reviews and user-generated content; occupation 'attorney' is an in-house counsel role at the tech firm.",
+  "source_url": "https://www.bazaarvoice.com/"
+ },
+ {
+  "employer_id": "tcv-41dee86f-8540-49f2-a3e3-e8382f941f48",
+  "name": "Practice Yoga Austin LLC",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Austin yoga/wellness studio (occupations 'Management, Yoga Teacher'); no clean taxonomy bucket for fitness/wellness, mapped to closest lifestyle/leisure category.",
+  "source_url": "https://www.practiceyogaaustin.com/"
+ },
+ {
+  "employer_id": "tcv-392b0154-0401-43cf-9b5f-1add53c771fe",
+  "name": "US Flood Control Corp.",
+  "industry": "Energy / Environment",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Manufacturer of Tiger Dam reusable flood-barrier / flood-mitigation systems; occupation 'Texas Sales Manager' matches. Same company as U.S. Flood Control Corp.",
+  "source_url": "https://usfloodcontrol.com/about-us/"
+ },
+ {
+  "employer_id": "tcv-2ac995a1-0f62-4bbf-8cf4-010b4ec1d8d4",
+  "name": "Texas Surplus Lines Assn.",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "insurance-finance",
+  "confidence": "high",
+  "evidence": "Texas Surplus Lines Association (TSLA), an Austin-based nonprofit trade association for excess & surplus lines insurance professionals; occupation 'Executive Director' matches.",
+  "source_url": "https://www.tsla.org/"
+ },
+ {
+  "employer_id": "tcv-1bc18996-50f5-4280-9dfd-c338c5011c64",
+  "name": "Concentric Community Advisors",
+  "industry": "Real Estate",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Real-estate advisory firm (Managing Partner Lance Gilliam) consulting on affordable housing, food access and economic development through a social-equity lens; occupation 'Partner' matches.",
+  "source_url": "https://concentrictx.com/about/"
+ },
+ {
+  "employer_id": "tcv-0345f57c-5861-41d4-9c23-67b232a105db",
+  "name": "Gary R Meyer PC",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Professional corporation (PC) with sample occupation 'Attorney', indicating a solo/small law practice; specific firm not independently confirmed.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "f81b6eaa-1ece-4026-af97-aaee00fde1ab",
+  "name": "City Lights Group",
+  "industry": "Consulting / PR",
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Occupation 'Consultant' and 'Group' naming suggest a consulting firm, but no specific 'City Lights Group' could be confirmed via public sources.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "daeab689-c6b2-4cac-94c6-6992946d1c97",
+  "name": "Narrow Rd Group",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,multifamily-housing",
+  "confidence": "high",
+  "evidence": "Narrow Road Group, Austin real-estate investor/developer/operator (founded 2020 by Anthony Clarke) focused on Central Texas housing incl. multifamily high-rises; occupation matches.",
+  "source_url": "https://narrowroad.com/about/"
+ },
+ {
+  "employer_id": "d67101c3-2cb6-4f59-be2e-c84085201818",
+  "name": "Texas Book Festival",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin-based literary nonprofit that runs the annual Texas Book Festival and literacy programs; occupation 'NonProfit' matches.",
+  "source_url": "https://www.texasbookfestival.org/"
+ }
+]

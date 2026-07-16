@@ -1,0 +1,322 @@
+[
+ {
+  "employer_id": "tcv-b0a2ae90-338e-48d7-8ad9-2223567be7d9",
+  "name": "Robert A. Reyes, LLC",
+  "variants": "Robert A. Reyes, LLC",
+  "county_total": 206,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-f5909cf3-e747-48c4-ac15-e947871f21cd",
+  "name": "Sertodo",
+  "variants": "Sertodo",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "Copper"
+ },
+ {
+  "employer_id": "tcv-c5f8cb2e-945f-47de-9ff9-7b69d2014a5a",
+  "name": "Costello, Inc. PAC",
+  "variants": "Costello, Inc. PAC",
+  "county_total": 200,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-8ff61490-ba31-45ab-b189-19c15dbe4023",
+  "name": "Beatty Bangle Strama",
+  "variants": "Beatty Bangle Strama",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-5436df75-b089-4127-b512-70014d83f539",
+  "name": "Kuykendall",
+  "variants": "Kuykendall",
+  "county_total": 200,
+  "donor_count": 0,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-40d692b5-14f6-4604-95d0-4e7c5bf83e34",
+  "name": "U.S. Flood Control Corp",
+  "variants": "U.S. Flood Control Corp",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "Texas Manager"
+ },
+ {
+  "employer_id": "tcv-3f27187e-3c48-4a41-a26b-7e709e5b70c1",
+  "name": "The Rosendin Foundation",
+  "variants": "The Rosendin Foundation",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "President"
+ },
+ {
+  "employer_id": "tcv-3a354113-538d-4937-9722-6fd9907303d3",
+  "name": "Bates PLLC",
+  "variants": "Bates PLLC",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "7c098d0f-affa-48de-ba0f-40a1c8f48cc4",
+  "name": "Vilma Luna LLC",
+  "variants": "Vilma Luna LLC",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "7191f852-1e39-4f44-8f80-5818f2c44be1",
+  "name": "Ocanas Group",
+  "variants": "Ocanas Group",
+  "county_total": 200,
+  "donor_count": 1,
+  "sample_occupations": "Public Affairs Strategist"
+ },
+ {
+  "employer_id": "tcv-2da9280f-a79e-4ebd-920b-ccf4edc2ed67",
+  "name": "Coindesk",
+  "variants": "Coindesk",
+  "county_total": 150,
+  "donor_count": 1,
+  "sample_occupations": "Producer"
+ },
+ {
+  "employer_id": "b412cec6-2e4e-493c-b11f-b508d82bbcaf",
+  "name": "Sunrise Homeless Navigation Center",
+  "variants": "Sunrise Homeless Navigation Center",
+  "county_total": 150,
+  "donor_count": 1,
+  "sample_occupations": "Operations & Community Relations,COMMUNITY ENGAGEMENT"
+ },
+ {
+  "employer_id": "tcv-110ba16b-3e78-4c11-b925-65edc2852d4f",
+  "name": "Sotol Ventures LLC",
+  "variants": "Sotol Ventures LLC",
+  "county_total": 125,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "dc53dca4-6431-4fa2-aa37-f6e98cc6f9a1",
+  "name": "Origin Partners",
+  "variants": "Origin Partners",
+  "county_total": 125,
+  "donor_count": 1,
+  "sample_occupations": "Venture Capital"
+ },
+ {
+  "employer_id": "48a534ec-bcda-4098-a420-ce6dc218d3e0",
+  "name": "BNS",
+  "variants": "BNS",
+  "county_total": 125,
+  "donor_count": 1,
+  "sample_occupations": "Executive Director"
+ },
+ {
+  "employer_id": "8f803488-4f15-4b15-a9b7-53d5eaa1de97",
+  "name": "Stewardship Inc",
+  "variants": "Stewardship Inc|Stewardship Inc.|Stewardship, Inc.",
+  "county_total": 116,
+  "donor_count": 1,
+  "sample_occupations": "Architect"
+ },
+ {
+  "employer_id": "tcv-28f87d1b-ee07-40e5-bf2c-60c95ce48f89",
+  "name": "CC4C.org",
+  "variants": "CC4C.org",
+  "county_total": 108,
+  "donor_count": 1,
+  "sample_occupations": "Healthcare Non-Profit"
+ },
+ {
+  "employer_id": "tcv-ee98c393-d357-4da1-acf6-6558fa2e9490",
+  "name": "On The List Presents, LLC",
+  "variants": "On The List Presents, LLC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "CFO"
+ },
+ {
+  "employer_id": "tcv-b925513c-d48c-4675-aa12-473b7176cd12",
+  "name": "Contentsquare",
+  "variants": "Contentsquare",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Senior Solutions Engineer"
+ },
+ {
+  "employer_id": "tcv-b524cdce-8b91-4f79-aea3-cfb2a8a12eed",
+  "name": "USM",
+  "variants": "USM",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate"
+ },
+ {
+  "employer_id": "tcv-b15e153f-35cb-4269-b27c-1c3b618772c1",
+  "name": "Communities for Recovery",
+  "variants": "Communities for Recovery",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Executive Director"
+ },
+ {
+  "employer_id": "tcv-abb80e9d-8882-4e90-9ef1-3a4dd4ef509f",
+  "name": "ESD 1",
+  "variants": "ESD 1",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Fire Chief"
+ },
+ {
+  "employer_id": "tcv-a601b753-ad02-4476-8bf8-0cce578f5d8b",
+  "name": "Law Offices of Gilbert Prud Homme",
+  "variants": "Law Offices of Gilbert Prud Homme",
+  "county_total": 100,
+  "donor_count": 0,
+  "sample_occupations": ""
+ },
+ {
+  "employer_id": "tcv-9bddd63f-b85d-4501-b5e7-9d422af10517",
+  "name": "CC4C",
+  "variants": "CC4C",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Non Profit"
+ },
+ {
+  "employer_id": "tcv-9ba199e8-84f1-423d-b2da-5580e466f1b6",
+  "name": "Baron & Blue",
+  "variants": "Baron & Blue",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Trial Attorney"
+ },
+ {
+  "employer_id": "tcv-91d5a789-a977-42bf-b58d-0ea255c8b3ac",
+  "name": "Raft",
+  "variants": "Raft",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Manager"
+ },
+ {
+  "employer_id": "tcv-72dce8ca-14bf-45c7-a223-72352cad7105",
+  "name": "Hahn Public Comm",
+  "variants": "Hahn Public Comm",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Public Relations"
+ },
+ {
+  "employer_id": "tcv-6fc7f16e-ed34-4a95-b787-8c10dfcb00b8",
+  "name": "Thomas Ranch | Loraloma Club @ Thomas Ranch",
+  "variants": "Thomas Ranch | Loraloma Club @ Thomas Ranch",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate Developer + Golf Course & Hospitality Operator"
+ },
+ {
+  "employer_id": "tcv-6f0a76b3-a75e-495d-aa58-41654d8d1c33",
+  "name": "Gloria Leal & Associates",
+  "variants": "Gloria Leal & Associates",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-6d6f5100-2654-45c8-b667-ea49b0677fa0",
+  "name": "Miller Lloyd PC",
+  "variants": "Miller Lloyd PC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-65223bed-e6f2-47ce-bb6a-01a9635b1cc7",
+  "name": "Scheef & Stone",
+  "variants": "Scheef & Stone",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-4f96b150-9150-43d6-9d06-654d65d55925",
+  "name": "Bazaaarvoice Inc",
+  "variants": "Bazaaarvoice Inc",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "attorney"
+ },
+ {
+  "employer_id": "tcv-41dee86f-8540-49f2-a3e3-e8382f941f48",
+  "name": "Practice Yoga Austin LLC",
+  "variants": "Practice Yoga Austin LLC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Management,Yoga Teacher"
+ },
+ {
+  "employer_id": "tcv-392b0154-0401-43cf-9b5f-1add53c771fe",
+  "name": "US Flood Control Corp.",
+  "variants": "US Flood Control Corp.",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Texas Sales Manager"
+ },
+ {
+  "employer_id": "tcv-2ac995a1-0f62-4bbf-8cf4-010b4ec1d8d4",
+  "name": "Texas Surplus Lines Assn.",
+  "variants": "Texas Surplus Lines Assn.",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Executive Director"
+ },
+ {
+  "employer_id": "tcv-1bc18996-50f5-4280-9dfd-c338c5011c64",
+  "name": "Concentric Community Advisors",
+  "variants": "Concentric Community Advisors",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Partner"
+ },
+ {
+  "employer_id": "tcv-0345f57c-5861-41d4-9c23-67b232a105db",
+  "name": "Gary R Meyer PC",
+  "variants": "Gary R Meyer PC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "f81b6eaa-1ece-4026-af97-aaee00fde1ab",
+  "name": "City Lights Group",
+  "variants": "City Lights Group",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "daeab689-c6b2-4cac-94c6-6992946d1c97",
+  "name": "Narrow Rd Group",
+  "variants": "Narrow Rd Group|Narrow Road|Narrow Road Interests, LLC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "real estate development"
+ },
+ {
+  "employer_id": "d67101c3-2cb6-4f59-be2e-c84085201818",
+  "name": "Texas Book Festival",
+  "variants": "Texas Book Festival",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "NonProfit"
+ }
+]

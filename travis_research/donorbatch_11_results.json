@@ -1,0 +1,106 @@
+[
+ {
+  "donor_id": "tcv-5433fa24-d4d2-43b9-b5bf-1b9ceacef41f",
+  "name": "Rhoden, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Bee Cave/West Austin (78738) donor who gave only to progressive Travis County women (Brigid Shea, Ann Howard) 2017-2024 with a fully Democratic FEC record (lean 1.0, 12 gifts). No occupation/employer on file and web searches (LinkedIn, realtor rolls, Bee Cave directories) returned no confirmable match. Cannot identify the specific person.",
+  "source_url": "https://www.beecavedistrict.org/home",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-44faa1ce-85d5-4bb1-9397-286e56a2f5fe",
+  "name": "Tarleton, Stephen",
+  "resolved_employer": "AppViewX (COO) - machine/non-human identity cybersecurity SaaS",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Stephen Tarleton is COO of AppViewX, a cybersecurity/identity-security software company, leading global sales, marketing and channel; prior CRO/CMO/GM roles at 1E, Corvus, LogicMonitor, Bazaarvoice. Holds a UT MBA, based in Austin (78746 matches Westlake tech-exec profile). Matches occupation 'COO / AppViewX' exactly.",
+  "source_url": "https://www.appviewx.com/company/leadership-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3f33740d-4e50-4daf-b9db-d7cd9a90d893",
+  "name": "Aldous, Charla",
+  "resolved_employer": "Aldous Law (founding partner) - Dallas plaintiff/personal-injury trial firm; formerly Aldous\\Walker LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Charla Aldous is a nationally known Dallas civil trial lawyer (30+ years, ~200 jury trials, landmark verdicts incl. $366M defamation). She formed Aldous Law in April 2025, succeeding Aldous\\Walker. Dallas 75219 and 'Attorney / Aldous Law' match exactly; heavy Democratic donor (FEC lean 1.0, 120 gifts).",
+  "source_url": "https://www.businesswire.com/news/home/20250401330740/en/Prominent-Texas-Trial-Lawyer-Charla-Aldous-Forms-Aldous-Law-Firm",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3f0aad31-45ee-48e4-a41c-a4029da79c9e",
+  "name": "Timmerman, Barth",
+  "resolved_employer": "Greenview Development (Austin real estate developer); also a licensed Texas attorney (UT Law 1994)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Barth D. Timmermann is an Austin real estate developer (Greenview Development Corp; prior Hawg, Inc.) and UT-licensed attorney; developer of residential subdivisions (e.g., August Fields). Name and Austin location match the donor to Commissioner Travillion; 78765 is a PO-box zip so exact residence unconfirmed, hence medium.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/barth-timmermann/34400510.aspx",
+  "affiliations": [
+   {"org": "Greenview Development Corp.", "role": "Developer / Director", "category": "business", "source_url": "https://www.linkedin.com/in/barth-timmermann-8139484/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-2a5fd4be-ac4f-43eb-b59b-e8ac19153028",
+  "name": "Scott Kamran",
+  "resolved_employer": "Evercore (Partner & Senior Managing Director, Software/Technology Investment Banking)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Imad 'Scott' Kamran is a Partner and Senior MD in Evercore's technology group leading its global software practice (25+ yrs; formerly global head of software IB at Merrill Lynch). Portola Valley CA 94028 (410 Cervantes Rd) and 'Investment Banker / Evercore Partners' match exactly. Bio notes prior active-duty US Navy service (5th/6th Fleet) - personal military service, not defense-industry affiliation.",
+  "source_url": "https://www.evercore.com/team/scott-kamran/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2786b688-371b-40c6-b282-9ea17c59ef5a",
+  "name": "Owens, Robert L",
+  "resolved_employer": "Tex-Mix Concrete (Tex Mix Partners Ltd) - family-owned Austin/San Antonio ready-mix concrete supplier",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Robert Logan Owens is tied to Tex-Mix Concrete (est. 1996, family owned/operated; Logan Owens is CEO), an Austin-area ready-mix concrete company serving residential/commercial/industrial/government construction. 'Manager / Tex Mix Partners Ltd', Austin 78746 match; member of HBA Austin and Texas Association of Builders.",
+  "source_url": "https://texmix.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1f8bc9cf-5fca-4285-8436-ed0bc57da290",
+  "name": "Lipson, Howard",
+  "resolved_employer": "Alignment Artist Capital (co-founder; NY & Austin offices); veteran private-equity investor, former Blackstone Group partner/Investment Committee member (retired from Blackstone)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Howard Lipson was a partner and Investment Committee member at Blackstone for ~17 years (Universal Orlando, Six Flags, Graham Packaging), later co-founding Alignment Artist Capital (2015) which has an Austin office. Distinctive name + Austin 78746 (Westlake finance enclave) + 'Not Employed' fits a semi-retired PE principal; exact-person zip match unconfirmed, hence medium.",
+  "source_url": "https://www.prnewswire.com/news-releases/music-entrepreneur-james-diener-and-veteran-private-equity-investor-howard-lipson-launch-alignment-artist-capital-300061718.html",
+  "affiliations": [
+   {"org": "The Blackstone Group", "role": "Former Partner & Investment Committee member (private equity)", "category": "business", "source_url": "https://www.marketscreener.com/business-leaders/Howard-Lipson-05G6RG-E/biography/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-1a0a1519-82af-4f09-8fd1-a8551d90d068",
+  "name": "David Armbrust/Richard Suttle",
+  "resolved_employer": "Armbrust & Brown, PLLC - Austin law firm; both are name/member attorneys specializing in land use and real estate development",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Richard T. Suttle Jr. is a Member at Armbrust & Brown, PLLC (100 Congress Ave, Austin) practicing land use and real estate development, regularly representing developers before state/county/municipal bodies; David Armbrust is a firm founder. Occupation 'Attorneys - Development Projects / Armbrust & Brown, PLLC' matches; joint gift to Commissioner Margaret Gomez.",
+  "source_url": "https://www.abaustin.com/the-team/richard-suttle/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d5c0b917-69ac-4a71-a1b3-3a6f129eedb8",
+  "name": "McKenzie, Brittany",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-employed West Lake Hills (78733) donor to Andy Brown. Best candidate is a Brittany McKenzie listed as an Austin real estate investor/operator (LUSSO DESIGNS II LLC, ~5 properties) per Elementix, which loosely fits 'Self Employed'; but the name is common and zip cannot be confirmed, so identity and industry are not established.",
+  "source_url": "https://elementix.com/investors/tx/brittany-mckenzie",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d362c9a7-8408-4223-9770-4505863be4ca",
+  "name": "Mattsson, Chris",
+  "resolved_employer": "Lettermade (business owner; Austin stationery/gift retail); former co-owner of Joy at Castle Hill gift shop",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Chris Mattsson owns the property at 2205 Bridle Path, Austin 78703 (assessed ~$1.2M), matching the donor's zip; listed as business owner at Lettermade and former co-owner of the Joy at Castle Hill gift shop, and appears among The Contemporary Austin art-museum board/staff. Retail small-business owner despite 'Not Employed' on the filing. A separate LBB employee of the same name appears distinct.",
+  "source_url": "https://blockshopper.com/tx/travis-county/austin/property/114249/2205-bridle-path",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "donor_id": "tcv-041daa08-f897-45bc-b2d9-28935a50a82b",
+  "name": "Brigid Shea Campaign",
+  "resolved_employer": "Campaign committee of Brigid Shea, Travis County Commissioner Precinct 2 (officeholder political committee)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual donor: this is the campaign/officeholder committee of Travis County Commissioner Brigid Shea (Precinct 2, elected 2015, environmentalist Democrat). It transferred funds to fellow Travis County Democratic officials Travillion, Howard, and Gomez, which fits a candidate-committee-to-allied-candidates pattern (78757 is her Austin base).",
+  "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-two",
+  "affiliations": [
+   {"org": "Brigid Shea for County Commissioner", "role": "candidate/officeholder committee", "category": "political", "source_url": "https://ballotpedia.org/Brigid_Shea"}
+  ]
+ },
+ {
+  "donor_id": "tcv-fe2d2a7d-4b62-4d59-ad2f-91caebf3a32a",
+  "name": "Stephens, Juanita",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Individual donor in Cedar Park, TX 78613 who gave $2,000 to Travillion; no occupation or employer reported. 'Juanita Stephens' is a common name and no public source corroborates a specific individual, occupation, or industry. Cannot confidently identify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ee336b63-39d4-492b-a478-aeeddb60ce87",
+  "name": "Canfield, Cash",
+  "resolved_employer": "American Structurepoint, Inc. (President & partner) — national architecture/engineering consulting firm (probable)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "'Cash Canfield' is a distinctive, rare name; the prominent bearer is Cash Canfield, President and partner of American Structurepoint (Indianapolis-HQ transportation/civil-engineering firm) which has been aggressively building a Texas transportation practice and courting Texas state/municipal decision-makers. Donations to Travis County Commissioner Travillion (transportation/CAMPO portfolio) plus Howard fit a transportation-engineering exec seeking public infrastructure work. Caveat: his published bio places him in Indianapolis (a colleague, Steven Miller, leads AS's Texas ops), and the 78746 Westlake residential address is not independently confirmed to him — so identity rests on the rare name + donation pattern rather than address.",
+  "source_url": "https://www.structurepoint.com/company/leadership/cash-canfield",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e762f331-6bf3-40aa-807b-afa62cc4c397",
+  "name": "Stephens, Juanita",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Individual donor in Pflugerville, TX 78660 who gave $2,000 to Travillion; no occupation or employer reported. Common name; distinct entry from the Cedar Park 'Juanita Stephens' in this batch. No public source corroborates a specific person, occupation, or industry. Cannot confidently identify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-516846cf-b204-4077-85de-b81285dcd1b3",
+  "name": "Ironworkers State COPE Fund",
+  "resolved_employer": "Iron Workers union — state Committee on Political Education (COPE) political action fund",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Labor union PAC: the Ironworkers (International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers) state Committee on Political Education fund, a union political-education/PAC vehicle (Grapevine, TX 76051 address). Made contributions to Travillion and Shea, consistent with organized-labor support for Travis County Democrats.",
+  "source_url": "https://www.opensecrets.org/orgs/ironworkers-union/summary?id=d000000140",
+  "affiliations": [
+   {"org": "Iron Workers union (COPE)", "role": "union political action / education fund", "category": "political", "source_url": "https://ballotpedia.org/Endorsements_by_Texas_AFL-CIO_Committee_on_Political_Education_(COPE)"}
+  ]
+ },
+ {
+  "donor_id": "tcv-4d1001a5-c867-469c-b0dc-1864b9d6cfee",
+  "name": "Rhone, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records place a Michael C. Rhone (b. ~1965) at 803 Sykes Ct, Pflugerville, TX 78660-8008 — matching the donor's exact ZIP+4 (78660-8008), so identity is fairly well corroborated. However, occupation/industry is not reliably established (aggregator data is inconsistent; a Michael Rhone also appears as plaintiff in a suit against the City of Austin/APD). No confident industry classification.",
+  "source_url": "https://www.spokeo.com/Michael-Rhone/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-47c757b5-28bc-4c00-8f2c-21597415ec42",
+  "name": "Dejoria, Eloise",
+  "resolved_employer": "Self / philanthropist; actress-producer (Weekend at Bernie's); wife of billionaire John Paul DeJoria (Paul Mitchell, Patrón, oil)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Eloise Broady DeJoria — model, actress/film producer, and philanthropist, wife of billionaire entrepreneur John Paul DeJoria (co-founder of Paul Mitchell and Patrón). The couple lives in Austin (78733 is the Westlake/Bee Cave area), and her self-reported occupation 'Philanthropist / Self' matches her public profile of charitable work (Austin Recovery, Long Center, Austin Film Society). Gave $2,000 to Travis County Judge Andy Brown.",
+  "source_url": "https://en.wikipedia.org/wiki/Eloise_Broady_DeJoria",
+  "affiliations": [
+   {"org": "Skidmore Energy / Maghreb Petroleum Exploration (Morocco oil)", "role": "spouse of oil-and-gas investor John Paul DeJoria, who was a major investor in Skidmore Energy and its Moroccan oil-exploration venture", "category": "oil_gas", "source_url": "https://www.texastribune.org/2019/12/19/John-paul-dejoria-morocco-oil-deal-texas-legislature-morocco/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-10d6c2dc-da09-4740-bed5-9fcd2f68c098",
+  "name": "Wasek, Don",
+  "resolved_employer": "Buc-ee's, Ltd. (co-founder / equal partner) — Texas travel-convenience-store & fuel chain",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "'Don Wasek' is the distinctive name of the co-founder and equal partner of Buc-ee's (with Arch 'Beaver' Aplin III) — the large Texas travel-center/convenience-store and fuel retail chain; Wasek runs operations. He is a known Texas Republican megadonor, consistent with this record's fully Republican federal-donation lean (0.0). No ZIP was provided to fully lock identity, but the rare name + Republican donor profile fit. Gave $2,000 to Travillion and Howard.",
+  "source_url": "https://siteselection.com/a-beaver-with-bite/",
+  "affiliations": [
+   {"org": "Buc-ee's, Ltd.", "role": "co-founder / equal partner (operations)", "category": "business", "source_url": "https://www.slashgear.com/2103552/who-owns-bucees-gas-stations/"}
+  ]
+ },
+ {
+  "donor_id": "1a6dae51-1b88-4b10-81e0-2527d43d367e",
+  "name": "Stuart, Carl",
+  "resolved_employer": "Carl Stuart Investment Advisor, Inc. / Stuart Investment Advisors — founder & president; host of 'Money Talk' radio (KUT)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Carl Stuart is a longtime Austin fee-based investment advisor (~47 years), founder/president of Stuart Investment Advisors (~$515M AUM) and host of 'Money Talk,' Austin's longest-running financial call-in radio show. He is a well-known Austin civic figure (boards of Zach Theatre, Austin Smiles). 78703 (central/west Austin) fits his Austin base; gave to Travis County Commissioner Ann Howard.",
+  "source_url": "https://stuartadvisors.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8b672813-bba2-4318-aa22-599d1ad4193d",
+  "name": "Gilliland, Douglas",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Downtown-Austin (78701) donor, prolific (72 federal donations, fully Republican-leaning) who nonetheless gave ~$1,785 to Democratic Commissioner Travillion. Two candidate 'Doug/Douglas Gilliland' profiles exist but neither is confirmed to this record: (1) Doug Gilliland, President of Taurus of Texas (the FIREARMS maker Taurus) — but he is based in Roanoke, TX, not Austin, and a gun-industry exec repeatedly funding a Democrat does not fit; (2) a 'Douglas H. Gilliland' slug once appeared under Taurus Investment Holdings (a real-estate private-equity firm with an Austin office), which would fit a 78701 real-estate professional, but he is not currently listed there and cannot be verified. Identity unresolved — no industry assigned.",
+  "source_url": "https://www.linkedin.com/in/doug-gilliland-bb54189/",
+  "affiliations": []
+ }
+]

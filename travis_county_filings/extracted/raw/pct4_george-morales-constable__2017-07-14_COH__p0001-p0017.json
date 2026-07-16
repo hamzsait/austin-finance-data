@@ -1,0 +1,138 @@
+{
+  "chunk": "pct4_george-morales-constable__2017-07-14_COH__p0001-p0017",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Morales, George",
+      "report_type": "July 15",
+      "period_from": "01/01/2017",
+      "period_through": "06/30/2017",
+      "office_held": "Travis County Constable Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 3962.00,
+      "total_unitemized_expenditures": 66.21,
+      "total_expenditures": 1021.70,
+      "contribution_balance": 2390.30,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "C/OH COVER SHEET PG 3 - SUBTOTALS"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/8",
+      "entries": [
+        {"date": "05/30/2017", "name": "Alvarez, Frank L", "city_state_zip": "Austin, TX 78739", "amount": 50.00, "occupation": "Firefighter", "employer": "City of Austin", "oos_pac": false},
+        {"date": "05/29/2017", "name": "Anderson, Cindy", "city_state_zip": "Austin, TX 78704", "amount": 1000.00, "occupation": "Community volunteer", "employer": "None", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Beasley, Kristopher", "city_state_zip": "Kyle, TX 78640", "amount": 100.00, "occupation": "Deputy", "employer": "Travis county", "oos_pac": false},
+        {"date": "06/01/2017", "name": "Cantu, Fred", "city_state_zip": "Austin, TX 78745", "amount": 50.00, "occupation": "Clerk", "employer": "Travis County", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Del Rio, Alicia V", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "General Relations", "employer": "ACC", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": "2/8",
+      "entries": [
+        {"date": "05/30/2017", "name": "Doyle, Gwendolyn", "city_state_zip": "Manor, TX 78653", "amount": 25.00, "occupation": "Law enforcement", "employer": "Travis County", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Gallegos, Juan A.", "city_state_zip": "Austin, TX 78748", "amount": 250.00, "occupation": "Chief Deputy Pct 4", "employer": "Travis Co", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Garcia, Alberto", "city_state_zip": "Austin, TX 78704", "amount": 100.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Gattica, Stephanie", "city_state_zip": "Austin, TX 78702", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "05/30/2017", "name": "Gomez, Margaret", "city_state_zip": "Austin, TX 78744", "amount": 25.00, "occupation": "Co Comm Pct 4", "employer": "Travis County", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 6,
+      "type": "A1",
+      "sch_pos": "3/8",
+      "entries": [
+        {"date": "05/26/2017", "name": "Gonzalez, Raul A", "city_state_zip": "Austin, TX 78704", "amount": 250.00, "occupation": "JP Pct 4", "employer": "Travis Co", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Harper, Anna", "city_state_zip": "Austin, TX 78634", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "05/31/2017", "name": "Kibbie, Robert", "city_state_zip": "Austin, TX 78744", "amount": 20.00, "occupation": "Self", "employer": "Self", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Limon, Christopher", "city_state_zip": "Austin, TX 78702", "amount": 100.00, "occupation": "Disabled", "employer": "Disabled", "oos_pac": false},
+        {"date": "05/16/2017", "name": "Lipscombe, John H", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Co. Court at Law Judge", "employer": "Travis Co", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 7,
+      "type": "A1",
+      "sch_pos": "4/8",
+      "entries": [
+        {"date": "05/30/2017", "name": "Lipscombe, John H", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Co. Court at Law Judge", "employer": "Travis Co", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Lloyd Doggett for Congress", "city_state_zip": "Austin, TX 78785", "amount": 250.00, "occupation": "Congressman", "employer": "Congress", "oos_pac": false},
+        {"date": "05/30/2017", "name": "McDonald, Patrick", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Morales, Estella V", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+        {"date": "05/17/2017", "name": "Morales, Maria", "city_state_zip": "Austin, TX 78744", "amount": 100.00, "occupation": "Careworker", "employer": "Austin Children's Center", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 8,
+      "type": "A1",
+      "sch_pos": "5/8",
+      "entries": [
+        {"date": "06/02/2017", "name": "Morales, Maria", "city_state_zip": "Austin, TX 78744", "amount": 100.00, "occupation": "Careworker", "employer": "Austin Children's Center", "oos_pac": false},
+        {"date": "04/06/2017", "name": "Morales, Maria", "city_state_zip": "Austin, TX 78744", "amount": 100.00, "occupation": "Careworker", "employer": "Austin Children's Center", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Morales, Rachel", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Disabled", "employer": "Disabled", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Nixon, Tonya Y", "city_state_zip": "Austin, TX 78612", "amount": 25.00, "occupation": "Deputy Constable", "employer": "Travis Co", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Ortiz, James", "city_state_zip": "Buda, TX 78610", "amount": 25.00, "occupation": "Police Officer", "employer": "Austin Community College", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 9,
+      "type": "A1",
+      "sch_pos": "6/8",
+      "entries": [
+        {"date": "05/30/2017", "name": "Padilla, Gabe", "city_state_zip": "Austin, TX 78744", "amount": 100.00, "occupation": "Deputy Constable", "employer": "Travis Co", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Pardo, Jovita", "city_state_zip": "Austin, TX 78704", "amount": 20.00, "occupation": "Account Manager", "employer": "Strategic Association Management", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Robinson, Courtney", "city_state_zip": "Pflugerville, TX 78660", "amount": 25.00, "occupation": "Founder", "employer": "Excellence and Advancement", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Rosa, Raul", "city_state_zip": "Austin, TX 78702", "amount": 25.00, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Saenz, Marc", "city_state_zip": "Austin, TX 78739", "amount": 50.00, "occupation": "Firefighter", "employer": "City of Austin", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 10,
+      "type": "A1",
+      "sch_pos": "7/8",
+      "entries": [
+        {"date": "05/30/2017", "name": "Salazar, David", "city_state_zip": "Kyle, TX 78640", "amount": 100.00, "occupation": "Exec Assistant Pct 4", "employer": "Travis County", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Suits, Stacy", "city_state_zip": "Austin, TX 78745", "amount": 25.00, "occupation": "Deputy", "employer": "Travis county", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Vasquez, Joseph", "city_state_zip": "Austin, TX 78745", "amount": 25.00, "occupation": "Admin Tech", "employer": "Self", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Victoria, Jessica", "city_state_zip": "Austin, TX 78702", "amount": 20.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "05/30/2017", "name": "Villarreal, Celeste I", "city_state_zip": "Austin, TX 78723", "amount": 25.00, "occupation": "Municipal Judge", "employer": "City of Austin", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 11,
+      "type": "A1",
+      "sch_pos": "8/8",
+      "entries": [
+        {"date": "05/30/2017", "name": "Woody, Roy", "city_state_zip": "Austin, TX 78744", "amount": 27.00, "occupation": null, "employer": "Self", "oos_pac": false},
+        {"date": "05/30/2017", "name": "Zamora, Freddy", "city_state_zip": "Austin, TX 78640", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 12,
+      "type": "A2",
+      "sch_pos": "1/1",
+      "entries": [
+        {"date": "05/30/2017", "name": "Henderson, Yvonne", "city_state_zip": "Lockhart, TX 78644", "amount": 150.00, "occupation": "Pct 4 Clerk", "employer": "Travis Co", "oos_pac": false, "in_kind_description": "Food for Fundraiser"},
+        {"date": "05/30/2017", "name": "James, Derrek", "city_state_zip": "Austin, TX 78749", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false, "in_kind_description": "Food for Fundraiser"},
+        {"date": "05/30/2017", "name": "O'Donnell, Denis", "city_state_zip": "Austin, TX 78744", "amount": 300.00, "occupation": null, "employer": null, "oos_pac": false, "in_kind_description": "Venue for Fundraiser"}
+      ]
+    },
+    {"page": 13, "type": "OTHER", "label": "SCHEDULE E - LOANS"},
+    {"page": 14, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 15, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 16, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 17, "type": "OTHER", "label": "SCHEDULE F1"}
+  ]
+}

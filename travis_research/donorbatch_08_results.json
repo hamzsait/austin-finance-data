@@ -1,0 +1,102 @@
+[
+ {
+  "donor_id": "tcv-77106fe5-30de-4c00-b26e-1d7a053fe182",
+  "name": "Hayes, Warren",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Multiple people named Warren Hayes tie to Georgetown/78628 (a LinkedIn 'Warren Hayes - Austin', a pest-control/nursery owner, and a 2023 obituary for an East Austin entrepreneur memorialized in Georgetown). No occupation/employer in the record and no way to corroborate which one this is; single small-dollar giver to Travillion and Shea. Not confidently identifiable.",
+  "source_url": "https://www.spokeo.com/Warren-Hayes/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b0b29c26-a64b-4977-be15-99db82e2552c",
+  "name": "Tiemann, Robert",
+  "resolved_employer": "Tiemann Land and Cattle Development, Inc. (president); also a real-estate/tax attorney",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Robert M. 'Rob' Tiemann, UT Law 1975, is a Pflugerville real-estate/taxation attorney and president of Tiemann Land and Cattle Development, a Central Texas land developer/homebuilder (member, Texas Association of Builders). Office at 21100 Carries Ranch Rd, Pflugerville 78660 matches the donor zip; he and Carrie Parker Tiemann are noted area property developers.",
+  "source_url": "https://members.texasbuilders.org/builder-directory/Details/tiemann-land-and-cattle-development-731449",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-217880c4-494d-4ff0-95ca-7f2a77d02432",
+  "name": "Radford, Kent",
+  "resolved_employer": "Alotten Inc. (CEO); previously co-founder & General Counsel of CS Disco Inc.",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Kent Radford, JD (UT Austin), is CEO of Alotten Inc., an Austin people/HR-technology startup (founded 2022), and was co-founder and General Counsel of legal-tech firm CS Disco Inc. (2012-2021). The donor record lists exactly 'CEO, Alotten Inc.' and a Spicewood/Travis-County address consistent with the Austin tech founder.",
+  "source_url": "https://theorg.com/org/alotten/org-chart/kent-radford",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-19da86dd-af0c-447c-a12e-ebd1a733a6dd",
+  "name": "Tsao, Eric (Mr.)",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "An Eric Tsao is recorded at Mont Blanc Dr, Bee Cave, TX 78738 (public-records match to the donor zip), so the individual likely exists there, but no occupation or employer could be confirmed for him; the several LinkedIn 'Eric Tsao' profiles are out-of-state. Cannot assign an industry.",
+  "source_url": "https://radaris.com/p/Eric/Tsao/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "acc2aa22-a1f8-45a1-8998-7c5802b35e1b",
+  "name": "Milloy, Ross",
+  "resolved_employer": "Austin-San Antonio Corridor Council (president); former Mayor of San Marcos; registered TX lobbyist",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ross Milloy has been president since 1994 of the Austin-San Antonio Corridor Council, a regional public/private nonprofit that lobbied for commuter rail and SH-130; he is a former Mayor of San Marcos and a registered Texas lobbyist. San Marcos/78667 address matches the Corridor Council's PO Box 1618 San Marcos. Transportation/infrastructure advocacy focus.",
+  "source_url": "https://www.thecorridor.org/about/staff",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-010e8beb-2bb1-4b93-8f82-d623f6ceddae",
+  "name": "Jeff Travillion Campaign",
+  "resolved_employer": "Candidate campaign committee of Jeff Travillion (Travis County Commissioner, Precinct 1)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "This is not an individual but the officeholder campaign committee of Jeff Travillion, Democratic Travis County Commissioner (Pct 1); Austin 78768 PO-box zip. The 'donations' are candidate-to-candidate committee transfers to Shea and Howard, not personal contributions, so no industry label applies.",
+  "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-one",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a0fe09f6-5684-4ef4-ac87-98373007df35",
+  "name": "Curtis, Matthew",
+  "resolved_employer": "Smart City Policy Group (founder); former public-policy head at HomeAway/Expedia; ex-aide to two Austin mayors",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Matt Curtis founded Smart City Policy Group (2017), an Austin government-affairs/public-policy consultancy for tech and short-term-rental interests; he previously ran global public policy for HomeAway/Expedia and was a senior aide to the last two Austin mayors. Record lists 'Founder, Smart City Policy Group' and an Austin 78723 address matching him.",
+  "source_url": "https://smartcitypolicygroup.com/our-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a9f0e073-f499-450b-a27d-f1ef3b476eef",
+  "name": "Clark, Mark",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "'Mark Clark' is an extremely common name (500+ in Texas) and the record has no occupation/employer. A West Lake Hills/78746 address and single gift to Shea can't be tied to any specific individual (e.g., an Austin critical-care MD by the same name practices outside that zip). Not confidently identifiable.",
+  "source_url": "https://www.spokeo.com/Mark-Clark/Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-23d52808-ac30-4700-a213-da89139af51b",
+  "name": "Kirk Watson Campaign",
+  "resolved_employer": "Candidate campaign committee of Kirk Watson (Mayor of Austin; former state senator)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Not an individual: this is the officeholder campaign committee of Kirk Watson, Austin Mayor and former Democratic state senator (Austin 78768 PO-box zip). Its 'gifts' to Travillion and Shea are candidate-committee transfers, so no industry label applies.",
+  "source_url": "https://www.austintexas.gov/department/mayor-kirk-watson",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7bc54b0a-44bb-49f8-a16a-542bec8e91d8",
+  "name": "Broaddus, James",
+  "resolved_employer": "Broaddus & Associates (founder/president) - facilities/construction program management",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "James (Jim) A. Broaddus, PhD/PE civil engineering (UT Austin), founded and leads Broaddus & Associates, a West Lake Hills (1301 S Capital of Texas Hwy, 78746) construction/facilities program-management firm; the firm HQ matches the donor's 78746 address. He served 20 years in the U.S. Navy (Camp David CO under Reagan) before an academic/UT System construction career. His federal giving skews heavily Republican (179 gifts, lean ~0.01).",
+  "source_url": "https://www.naocon.org/members/jamesbroaddus/",
+  "affiliations": []
+ }
+]

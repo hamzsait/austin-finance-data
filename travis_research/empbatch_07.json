@@ -1,0 +1,322 @@
+[
+ {
+  "employer_id": "d1fb0d65-5695-476d-95f6-c89f93d314e6",
+  "name": "Casey Communication, LLC",
+  "variants": "Casey Communication, LLC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Communications Consultant"
+ },
+ {
+  "employer_id": "d08d3c13-0a6b-4c9a-ba17-2f5b5683298d",
+  "name": "Streusand Landon Ozburn Lemmon LLP",
+  "variants": "Streusand Landon Ozburn Lemmon LLP|Streusand, Landon & Ozburn|Streusand, Landon, Ozburn & Lemmon, LLP",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "b60170c2-30ce-44a2-994f-e4160d5658cb",
+  "name": "Volunteer Legal Services",
+  "variants": "Volunteer Legal Services",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "afbd6cb3-cdda-4f60-8640-541feeb03eed",
+  "name": "Berkadia",
+  "variants": "Berkadia",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Banker"
+ },
+ {
+  "employer_id": "acca0bd5-3952-4338-aaa6-966b6669f35e",
+  "name": "Lynxs Group",
+  "variants": "Lynxs Group",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "9f3530b0-44f0-4e0b-968e-96b7d06f5d40",
+  "name": "DMW Austin LLC",
+  "variants": "DMW Austin LLC",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "9bfef32e-4616-4771-b101-2f853472736e",
+  "name": "DPFG, Inc.",
+  "variants": "DPFG, Inc.",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Real Estate Consultant"
+ },
+ {
+  "employer_id": "98d202c1-66a2-4081-864f-0f8ad198ab72",
+  "name": "Intercambio",
+  "variants": "Intercambio",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Principal"
+ },
+ {
+  "employer_id": "8fd52c67-8b35-4c62-8a81-4556b49954d0",
+  "name": "Cellebrite",
+  "variants": "Cellebrite",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Account Executive"
+ },
+ {
+  "employer_id": "8ce54adf-381a-4fae-abf5-f9e4ce6f83d5",
+  "name": "Austin Partners in Education",
+  "variants": "Austin Partners in Education",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Program Director"
+ },
+ {
+  "employer_id": "720c6487-f53f-415a-bca6-a272955aae71",
+  "name": "ServiceNow",
+  "variants": "ServiceNow",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Director"
+ },
+ {
+  "employer_id": "54d3d216-4554-4aa3-835a-c5feaab4f375",
+  "name": "The Honor Roll",
+  "variants": "The Honor Roll",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Owner"
+ },
+ {
+  "employer_id": "3af4b715-01b1-40f6-94cf-6fa589142ad0",
+  "name": "Tso Delivery, Inc.",
+  "variants": "Tso Delivery, Inc.",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "CEO"
+ },
+ {
+  "employer_id": "1b5b2471-a8d7-4bc2-add5-956c2a0a89fd",
+  "name": "Pathway Vet Alliance",
+  "variants": "Pathway Vet Alliance",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "Clerk"
+ },
+ {
+  "employer_id": "12b194f8-ec30-46f0-a3a2-2ec04d3faa35",
+  "name": "Rosendin",
+  "variants": "Rosendin",
+  "county_total": 100,
+  "donor_count": 1,
+  "sample_occupations": "President of Corporate Foundation"
+ },
+ {
+  "employer_id": "tcv-1c8e87de-e679-4be1-a870-e6fc1d3e32c4",
+  "name": "Hogan Lovells",
+  "variants": "Hogan Lovells",
+  "county_total": 99,
+  "donor_count": 1,
+  "sample_occupations": "Business Relationship Manager"
+ },
+ {
+  "employer_id": "tcv-dbeec172-a726-4447-a87a-fc0d21735675",
+  "name": "Srlf",
+  "variants": "Srlf",
+  "county_total": 88,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "tcv-18c0d94e-3d96-4ceb-a671-29be17bae682",
+  "name": "Apts",
+  "variants": "Apts",
+  "county_total": 88,
+  "donor_count": 2,
+  "sample_occupations": "Professor"
+ },
+ {
+  "employer_id": "tcv-5397dd4f-7960-4a5b-abf5-00e3d0c6a0bc",
+  "name": "EverMed Exams",
+  "variants": "EverMed Exams",
+  "county_total": 81,
+  "donor_count": 1,
+  "sample_occupations": "Consultant"
+ },
+ {
+  "employer_id": "cc35a129-3ca6-47a8-bac7-a7a1311c2e1b",
+  "name": "VACO",
+  "variants": "VACO|Vaco LLC",
+  "county_total": 78,
+  "donor_count": 1,
+  "sample_occupations": "Google Trust & Safety"
+ },
+ {
+  "employer_id": "tcv-aa920eb4-ddc8-4cde-9522-92b6fbf362b1",
+  "name": "Lucas Meyers",
+  "variants": "Lucas Meyers",
+  "county_total": 75,
+  "donor_count": 1,
+  "sample_occupations": "Governmental Affairs Consultant"
+ },
+ {
+  "employer_id": "f39b1d80-44d6-4b6f-a1d8-1899801c6d65",
+  "name": "Grayline",
+  "variants": "Grayline|Grayline Group",
+  "county_total": 75,
+  "donor_count": 1,
+  "sample_occupations": "President"
+ },
+ {
+  "employer_id": "cfa0e7db-7cae-4761-83b3-f331542f31f6",
+  "name": "OAG",
+  "variants": "OAG|Oag",
+  "county_total": 75,
+  "donor_count": 2,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "9946aa15-6b77-4435-8ed4-672604b91f59",
+  "name": "Pluralsight",
+  "variants": "Pluralsight",
+  "county_total": 75,
+  "donor_count": 1,
+  "sample_occupations": "Executive"
+ },
+ {
+  "employer_id": "312f4318-bf29-40d6-af31-5b0fa5fd9f6c",
+  "name": "20th Century Fox",
+  "variants": "20th Century Fox",
+  "county_total": 75,
+  "donor_count": 1,
+  "sample_occupations": "Writer"
+ },
+ {
+  "employer_id": "tcv-134d2386-e7f8-4fee-86ea-4a7f37d2a40d",
+  "name": "ECHO Austin",
+  "variants": "ECHO Austin",
+  "county_total": 70,
+  "donor_count": 1,
+  "sample_occupations": "Legal Systems Manager"
+ },
+ {
+  "employer_id": "ccedf35f-5a3d-42d7-a47a-2ebdbabd1e7f",
+  "name": "LIUNA - SWLDC",
+  "variants": "LIUNA - SWLDC",
+  "county_total": 65,
+  "donor_count": 1,
+  "sample_occupations": "Labor Leader"
+ },
+ {
+  "employer_id": "3f47376c-4615-4fb6-90db-e331b4c313ed",
+  "name": "Squadbuck",
+  "variants": "Squadbuck",
+  "county_total": 60,
+  "donor_count": 1,
+  "sample_occupations": "Consultant,consultant"
+ },
+ {
+  "employer_id": "tcv-f6fa6a11-915c-4f00-943e-d357ba2a41ad",
+  "name": "TX Comptroller of Public Accounts",
+  "variants": "TX Comptroller of Public Accounts",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Attorney"
+ },
+ {
+  "employer_id": "tcv-f11c6a41-bf66-4c82-9d68-4f32c49c5dd7",
+  "name": "Forward",
+  "variants": "Forward",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "CPA"
+ },
+ {
+  "employer_id": "tcv-ebe50335-c630-49a4-a8e5-fc06d7377d26",
+  "name": "Saga geophysics",
+  "variants": "Saga geophysics",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Business owner"
+ },
+ {
+  "employer_id": "tcv-e95fedc4-a355-4b41-a779-e505694488d6",
+  "name": "The Bear",
+  "variants": "The Bear",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Filmmaker"
+ },
+ {
+  "employer_id": "tcv-dcbb0df3-4677-49ee-b516-3f98b9775291",
+  "name": "Tele Network, Inc.",
+  "variants": "Tele Network, Inc.",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Customer Service"
+ },
+ {
+  "employer_id": "tcv-d79229e5-a86e-4724-88da-8cb5795db813",
+  "name": "Solera",
+  "variants": "Solera",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Engineer"
+ },
+ {
+  "employer_id": "tcv-cf52633c-1637-4f55-9e36-3ba4b0dc47de",
+  "name": "Escarpement Assets LLC",
+  "variants": "Escarpement Assets LLC",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Software"
+ },
+ {
+  "employer_id": "tcv-b874f20f-9833-4920-8cba-627826e2aaa4",
+  "name": "Marisa Pool",
+  "variants": "Marisa Pool",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Artist"
+ },
+ {
+  "employer_id": "tcv-b7d55127-9720-49b4-a29a-e78fdc8e4b49",
+  "name": "Q Prime",
+  "variants": "Q Prime",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Marketing"
+ },
+ {
+  "employer_id": "tcv-b6a46674-7238-4e5a-b929-6814ab236334",
+  "name": "NCT Culinary",
+  "variants": "NCT Culinary",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Event producer"
+ },
+ {
+  "employer_id": "tcv-b44ea065-6044-49e4-80de-ae633217854b",
+  "name": "Sothebys Concierge Auctions",
+  "variants": "Sothebys Concierge Auctions",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Digital Marketing Manager"
+ },
+ {
+  "employer_id": "tcv-a9b46fa9-ac29-4e6b-8b3f-1f758617728b",
+  "name": "DSPolitical",
+  "variants": "DSPolitical",
+  "county_total": 50,
+  "donor_count": 1,
+  "sample_occupations": "Account Manager"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "donor_id": "tcv-71b61765-84b5-46ac-978b-ff5f346d7694",
+  "name": "Andy Brown Campaign",
+  "resolved_employer": "Andy Brown for Travis County Judge — candidate campaign committee (not an individual). Andy Brown is the incumbent Travis County Judge; his committee made transfers to other Democratic county candidates (Travillion, Shea).",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This 'donor' is the campaign committee of Travis County Judge Andy Brown (attorney, former Travis County Democratic Party chair, ex-Beto O'Rourke finance director). Committee-to-committee political transfer, not a personal donor. Address 78703 matches Austin/Hyde Park base.",
+  "source_url": "https://ballotpedia.org/Andy_Brown_(Texas)",
+  "affiliations": [
+   {"org": "Travis County (County Judge)", "role": "Incumbent County Judge / campaign committee", "category": "political", "source_url": "https://www.traviscountytx.gov/commissioners-court/county-judge/andy-brown-bio"}
+  ]
+ },
+ {
+  "donor_id": "tcv-51270ae7-0728-437c-a0ed-695daaee6e0a",
+  "name": "Howe, Michael",
+  "resolved_employer": "Executive Director, Texas Section of the American Water Works Association (TAWWA); also Board President, Travis County ESD 17 and long-time ESD 2 commissioner; former Wells Branch MUD president and ex-KVUE TV producer.",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Strongly corroborated: 78728 is the Wells Branch area where he served 6 yrs as Wells Branch MUD president; appointed to Travis County ESD 17 by the Commissioners Court in June 2021, matching his first county gift (Dec 2021); gave to sitting county commissioners (Travillion, Shea, Howard). Runs the 4,200-member Texas Section AWWA water-utility professional association.",
+  "source_url": "https://www.travisesd17.org/commissioners/",
+  "affiliations": [
+   {"org": "Texas Section, American Water Works Association", "role": "Executive Director", "category": "business", "source_url": "https://www.travisesd17.org/commissioners/"},
+   {"org": "Travis County ESD 17 / ESD 2", "role": "Board President / Commissioner", "category": "civic", "source_url": "https://www.travisesd17.org/commissioners/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-b385585f-ebf6-44b8-9985-350481e0e73a",
+  "name": "Scott, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common name at 78702 (East Austin); gave to Shea and Howard. No FEC history (fec_donation_count 0) and no occupation/employer on the filing. Multiple 'John Scott' individuals in Austin; cannot corroborate a specific person by zip, occupation, or donation pattern.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "51040b5a-ddf4-4c05-8ba8-2a8a16d521a1",
+  "name": "Clark, Jennifer",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Very common name at 78704; prolific small-dollar Democratic donor (104 FEC gifts, partisan lean 1.0), $5,700 to Brigid Shea. Multiple Austin 'Jennifer Clark' professionals (realtor, physician, nurse, attorney); a 'Jennifer Kay Clark' LinkedIn exists in Austin but no occupation confirmable. Cannot pin a specific person/industry.",
+  "source_url": "https://www.linkedin.com/in/jenniferkayclark",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-90ea8037-2695-404a-9e5e-30133815a4f4",
+  "name": "Brockenbrough, Anne",
+  "resolved_employer": "Owner/operator of Brockenbrough Ranch (286-acre working horse/cattle ranch near Manor, NE Travis County); also a professional writer/poet (UT Michener Fellow).",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Manor 78653 matches Brockenbrough Ranch. Anne Brockenbrough is a rancher, equestrian and writer who placed a conservation easement on the ranch (completed 2011 with Hill Country Conservancy). Notably the easement's matching funds came from 'Mike and Pam Reese' — the Pamela Reese also in this batch. Gave to county commissioners (Travillion, Shea, Howard).",
+  "source_url": "https://hillcountryconservancy.org/land-projects/hcc-conservation-projects/brockenbrough-ranch/",
+  "affiliations": [
+   {"org": "Hill Country Conservancy / Wilbarger Creek Conservation Alliance", "role": "Conservation-easement landowner / conservationist", "category": "civic", "source_url": "https://wilbargercreek.org/our-work"}
+  ]
+ },
+ {
+  "donor_id": "e274f5f1-53f7-4c0c-b088-a20904f254d0",
+  "name": "Reese, Pamela",
+  "resolved_employer": "Manager, MRPR Holdings Management, L.L.C. (Austin family investment/holding company). Husband Mike Reese; the couple ('Mike and Pam Reese') are West Lake Hills conservation philanthropists. A Michael D. Reese, CFP (Centennial Advisors wealth-management, Austin) shares the most companies with her per corporate records.",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "West Lake Hills 78746, extremely active donor (234 FEC gifts, lean 1.0). Pamela W. Reese manages MRPR Holdings Management LLC (family investment holding). Corroborated as the 'Pam Reese' who, with Mike Reese, funded the Brockenbrough Ranch conservation easement (Anne Brockenbrough is also in this batch). Finance label reflects the family investment holding / CFP-advisor household; medium because MRPR's exact activity isn't publicly detailed.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/pamela-w-reese/31791848.aspx",
+  "affiliations": [
+   {"org": "Hill Country Conservancy (Brockenbrough Ranch easement funder)", "role": "Conservation philanthropist", "category": "civic", "source_url": "https://hillcountryconservancy.org/land-projects/hcc-conservation-projects/brockenbrough-ranch/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-9a0e2cc2-e723-478c-b0b7-ed41674bc533",
+  "name": "Wallace, Katharine",
+  "resolved_employer": "Executive Assistant to Founder / Austin Office Manager, Lake|Flato Architects",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Filing lists occupation 'Office Manager' at 'Lake Flato Architects'; confirmed as Katharine 'Kate' Wallace, Executive Assistant to Founder and Austin Office Manager at Lake|Flato Architects (a nationally known Texas architecture firm). 78731 Austin residence consistent.",
+  "source_url": "https://www.apollo.io/people/Kate/Wallace/54a49c327468693442471755",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd26ffef-fcc4-4404-b90d-31f12514811d",
+  "name": "Salinas, Derlis",
+  "resolved_employer": "Principal Owner / founder, 3 Point Partners (Austin public-affairs, PR and government-relations firm); registered City of Austin lobbyist. Known as Trey Salinas; former President, Austin Area Urban League.",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Filing name 'Derlis Salinas' at downtown 78701 matches 'Salinas, Derlis Trey,' a registered Austin lobbyist and Principal Owner of public-affairs firm 3 Point Partners. Consistent regular donor (20 FEC gifts, lean 1.0) to county Democrats (Shea, Howard).",
+  "source_url": "https://www.3pointpartners.com/",
+  "affiliations": [
+   {"org": "3 Point Partners", "role": "Founder / Principal Owner (registered lobbyist)", "category": "business", "source_url": "https://www.zoominfo.com/p/Trey-Salinas/40702744"},
+   {"org": "Austin Area Urban League", "role": "Former President", "category": "civic", "source_url": "https://www.3pointpartners.com/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-59620d05-d74f-48b2-8864-5acf96e2cce0",
+  "name": "Aubrey Mayo",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing self-reports 'NOT EMPLOYED' at 78704; single $5,060 gift to Commissioner Margaret Gomez in Jan 2022. A distinctively named 'Aubrey Mayo (Epstein)' appears in Austin (wardrobe stylist / founder of 143 Darling Farms), but that occupation contradicts the self-reported 'not employed' and cannot be confirmed as the same person. Identity beyond the filing is unverified.",
+  "source_url": "https://www.linkedin.com/in/aubreymayo/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fdfca74e-48cf-434d-b269-d31ebb19ce0f",
+  "name": "Walker, Sara",
+  "resolved_employer": "Owner, Sara Walker Private Events / SWE (San Antonio luxury event-planning and production company: private parties, galas, weddings, nonprofit fundraisers, corporate events)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Filing: 'Event Planner, Self,' San Antonio 78212. Confirmed as Sara Stumberg Walker, owner of Sara Walker Private Events (address 227 W. Olmos Dr / 78212). Prolific mixed-lean donor (153 FEC gifts, lean ~0.31); gave $5,000 to Andy Brown.",
+  "source_url": "https://eventsbyswe.com/about/",
+  "affiliations": []
+ }
+]

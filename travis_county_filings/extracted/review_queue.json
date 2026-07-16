@@ -130,6 +130,41 @@
   "problem": "uncertain: city/state/zip line partially obscured by overlapping redaction box"
  },
  {
+  "report": "pct4_george-morales__2026-01-15_COH",
+  "page": 37,
+  "entry": "Marsh, William",
+  "problem": "uncertain: city/zip line partially obscured by redaction bar"
+ },
+ {
+  "report": "pct4_george-morales__2026-02-02_COH",
+  "page": 5,
+  "entry": "Butts, David",
+  "problem": "uncertain: City/state written as 'Austin, IN' with zip 78723 (Austin, TX zip) - likely a form error, transcribed as written"
+ },
+ {
+  "report": "pct4_george-morales__2026-02-23_COH",
+  "problem": "filer discrepancy (kept as filed)",
+  "note": "Filer listed the identical Muniz, Jose Juan $1,000 gift (02/03/2026, Round Rock 78681) twice \u2014 last slot of A1 page 3/5 AND first slot of page 4/5 (verified on both page images); the sworn cover total counts it twice. Extraction keeps the single real gift."
+ },
+ {
+  "report": "pct4_george-morales__2026-05-18_COH",
+  "page": 10,
+  "entry": "Butts, David",
+  "problem": "uncertain: state written as IN, likely filer error for TX"
+ },
+ {
+  "report": "pct4_george-morales__2026-05-18_COH",
+  "page": 49,
+  "entry": "Walker, Lorenzo",
+  "problem": "uncertain: employer name as printed is garbled, possibly 'Legum & Norman' property management company"
+ },
+ {
+  "report": "pct4_george-morales-constable__2024-07-15_COH",
+  "page": 18,
+  "entry": "Wilson, Cole",
+  "problem": "uncertain: state listed as TN on form, likely error for TX"
+ },
+ {
   "report": "pct4_margaret-gomez__2017-07-17_COH",
   "problem": "filer discrepancy (kept as filed)",
   "note": "Filer wrote prior-period balance $13,850.06 into the unitemized-contributions box; A1 total $1,500 matches all subtotals. True unitemized = $0."

@@ -1,0 +1,100 @@
+{
+  "chunk": "pct4_george-morales__2026-02-23_COH__p0001-p0018",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Morales, George",
+      "report_type": "8th day before election",
+      "period_from": "01/23/2026",
+      "period_through": "02/21/2026",
+      "office_held": "None",
+      "office_sought": "Travis County Commissioner Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 20379.78,
+      "total_unitemized_expenditures": 82.12,
+      "total_expenditures": 37157.27,
+      "contribution_balance": 59832.00,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/5",
+      "entries": [
+        {"date": "01/26/2026", "name": "Albert, David", "city_state_zip": "Austin, TX 78741", "amount": 500.00, "occupation": "Professor", "employer": "Austin Community College", "oos_pac": false},
+        {"date": "02/07/2026", "name": "Anderson, Reece", "city_state_zip": "Austin, TX 78741", "amount": 26.63, "occupation": "Design", "employer": "Self", "oos_pac": false},
+        {"date": "01/23/2026", "name": "Austin Board of Realtors PAC", "city_state_zip": "Austin, TX 78758", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "02/17/2026", "name": "Austin Tejano Democrats PAC", "city_state_zip": "Pflugerville, TX 78660", "amount": 600.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "02/01/2026", "name": "Benefield, James", "city_state_zip": "Leander, TX 78641", "amount": 1052.95, "occupation": "Little General Concrete Services LLC.", "employer": "Construction", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": "2/5",
+      "entries": [
+        {"date": "02/21/2026", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731", "amount": 263.47, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+        {"date": "02/11/2026", "name": "Burton, Charles", "city_state_zip": "Austin, TX 78704", "amount": 263.47, "occupation": "CCO", "employer": "Central Health", "oos_pac": false},
+        {"date": "02/21/2026", "name": "Coronado, Santiago", "city_state_zip": "Austin, TX 78731", "amount": 158.21, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+        {"date": "02/03/2026", "name": "Graham, Brian", "city_state_zip": "austin, TX 78723", "amount": 150.00, "occupation": "Retd", "employer": "Retd", "oos_pac": false},
+        {"date": "02/03/2026", "name": "Gregory, Bob", "city_state_zip": "Austin, TX 78747", "amount": 789.79, "occupation": "TDS", "employer": "CEO", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 6,
+      "type": "A1",
+      "sch_pos": "3/5",
+      "entries": [
+        {"date": "01/29/2026", "name": "IBEW PAC", "city_state_zip": "Washington, DC 20001", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "02/21/2026", "name": "Jackson, Edward", "city_state_zip": "Driftwood, TX 78619", "amount": 52.95, "occupation": "TCSO", "employer": "TCSO Captain", "oos_pac": false},
+        {"date": "02/07/2026", "name": "Loewy, Adam", "city_state_zip": "Austin, TX 78731", "amount": 5000.00, "occupation": "Law", "employer": "Loewy Law Firm", "oos_pac": false},
+        {"date": "01/26/2026", "name": "Martin, Matthew", "city_state_zip": "Manor, TX 78739", "amount": 2500.00, "occupation": "CPA", "employer": "Self", "oos_pac": false},
+        {"date": "02/03/2026", "name": "Muniz, Jose Juan", "city_state_zip": "Round Rock, TX 78681", "amount": 1000.00, "occupation": "Contractor", "employer": "Self", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 7,
+      "type": "A1",
+      "sch_pos": "4/5",
+      "entries": [
+        {"date": "02/04/2026", "name": "Perkins, Bob", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": "Retd", "employer": "Retd", "oos_pac": false},
+        {"date": "02/21/2026", "name": "Rendon, Ricardo", "city_state_zip": "Del Valle, TX 78617", "amount": 105.58, "occupation": "Exec Assistant", "employer": "Travis Co", "oos_pac": false},
+        {"date": "01/30/2026", "name": "Richards, Ellen", "city_state_zip": "Austin, TX 78704", "amount": 131.89, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+        {"date": "02/09/2026", "name": "TCSLEA PAC", "city_state_zip": "Austin, TX 78714", "amount": 1579.26, "occupation": null, "employer": null, "oos_pac": false}
+      ],
+      "note": "Page's first printed row (Muniz, Jose Juan, 02/03/2026, $1,000.00) is an exact duplicate of the last entry on page 6 (same date/amount/address/occupation/employer); omitted here to avoid double count. Sum of all A1 amounts with single count of that entry equals COVER2 total_contributions ($20,379.78) exactly."
+    },
+    {
+      "page": 8,
+      "type": "A1",
+      "sch_pos": "5/5",
+      "entries": [
+        {"date": "02/21/2026", "name": "Villegas, Elizabeth S.", "city_state_zip": "Austin, TX 78748-6531", "amount": 105.58, "occupation": "Retd", "employer": "Retd", "oos_pac": false},
+        {"date": "01/28/2026", "name": "Wasek, Don", "city_state_zip": "Spicewood, TX 78669", "amount": 2500.00, "occupation": "Retail sales", "employer": "Self", "oos_pac": false},
+        {"date": "02/13/2026", "name": "Wilson, Jack", "city_state_zip": "Austin, TX 78751", "amount": 100.00, "occupation": "Retd", "employer": "Retd", "oos_pac": false},
+        {"date": "02/10/2026", "name": "Zafar, Jaree", "city_state_zip": "Austin, TX 78723", "amount": 500.00, "occupation": "CTO", "employer": "IMI LLC", "oos_pac": false}
+      ]
+    },
+    {"page": 9, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 10, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 11, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 12, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 13, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 14, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 15, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 16, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 17, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 18, "type": "OTHER", "label": "SCHEDULE F1"}
+  ]
+}

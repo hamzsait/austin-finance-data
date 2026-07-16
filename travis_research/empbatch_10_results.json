@@ -1,0 +1,308 @@
+[
+ {
+  "employer_id": "2122cc2d-2c05-4487-acd6-129411ec3e43",
+  "name": "PPTV",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "progressive-money",
+  "confidence": "high",
+  "evidence": "PPTV = Planned Parenthood Texas Votes, Austin-based statewide reproductive-rights advocacy/electoral org; 'ED' = Executive Director. Occupation corroborates.",
+  "source_url": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes/leadership-team"
+ },
+ {
+  "employer_id": "1b3060b1-d667-45b9-bc73-7b235a1af682",
+  "name": "Andrew Delaney Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Austin, TX private grantmaking foundation (EIN 76-0265537) funding higher ed, health, community service, arts, animal welfare; 'Administrator' fits.",
+  "source_url": "https://www.causeiq.com/organizations/andrew-delaney-foundation,760265537/"
+ },
+ {
+  "employer_id": "tcv-3ccdd632-f036-44eb-9f47-ba71f02cabc3",
+  "name": "LogDNA",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "LogDNA (now Mezmo) is a log-management/observability SaaS company; a 'Manager' role fits a software firm.",
+  "source_url": "https://www.crunchbase.com/organization/logdna"
+ },
+ {
+  "employer_id": "tcv-063c5071-b9aa-4e65-86a6-aab9164c5a20",
+  "name": "TCJE",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "progressive-money",
+  "confidence": "high",
+  "evidence": "TCJE = Texas Center for Justice and Equity (formerly Texas Criminal Justice Coalition), Austin nonprofit for criminal-justice reform; 'Policy Director' corroborates.",
+  "source_url": "https://texascjc.org/about-tcje/"
+ },
+ {
+  "employer_id": "tcv-35c0cef0-8969-466d-a969-9d771e646b38",
+  "name": "Alleaus Health Analytics",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Alleus Health Analytics is a healthcare analytics firm doing mass-tort third-party-liability recovery for providers/health plans; 'Head of Liens' fits liability recovery.",
+  "source_url": "https://www.alleushealth.com/"
+ },
+ {
+  "employer_id": "tcv-417048b8-cc07-41bd-960a-0e744aeba614",
+  "name": "Vizient",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Vizient is a large healthcare performance-improvement / group-purchasing company serving hospitals; donor occupation 'RN' corroborates healthcare.",
+  "source_url": "https://www.vizientinc.com/"
+ },
+ {
+  "employer_id": "085a764c-4d7a-4463-ab0b-0564aa195563",
+  "name": "Govt",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Self-reported employer 'Govt' with occupation 'Admin' indicates a public-sector employee; specific agency unknown.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-ed0a8d6d-c5f0-463b-8312-a6c9e2575521",
+  "name": "Chalk Ink",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Chalk Ink is a woman-owned Austin manufacturer/retailer of liquid chalk markers and chalkboard products (5008 Burleson Rd); 'Marketing' fits a consumer-products brand.",
+  "source_url": "https://www.chalkink.com/pages/about-us"
+ },
+ {
+  "employer_id": "tcv-b44bb76c-3aa5-45d1-92e4-746b0b30e635",
+  "name": "DMASS",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous acronym; dMASS Inc. is an Austin sustainability/AI venture but 'Marketing Manager' does not confirm this is the same DMASS. Cannot classify confidently.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-a9c40444-874c-4f2e-994a-93e4143d8bc6",
+  "name": "Greyhound Lines Inc.",
+  "industry": "Transportation",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Greyhound Lines is the national intercity bus carrier; a 'Real Estate' role within it is corporate real estate for a transportation company.",
+  "source_url": "https://www.greyhound.com/"
+ },
+ {
+  "employer_id": "tcv-a38d5fe4-5cee-47ee-ab5a-5d00cf06d71d",
+  "name": "Purveyor Design/Self",
+  "industry": "Self-Employed",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Employer string 'Purveyor Design/Self' plus occupation 'Interior Designer' indicates a self-employed interior/design practitioner.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-82013253-1a3e-4f95-a88c-03da3d87c7ee",
+  "name": "TX A&M Agrilife Extension",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Texas A&M AgriLife Extension Service is the educational outreach agency of the Texas A&M University System; 'Admin Assistant II' is a staff role.",
+  "source_url": "https://agrilifeextension.tamu.edu/"
+ },
+ {
+  "employer_id": "tcv-75d6757e-e9e6-4ebd-8251-bdb1b1753a47",
+  "name": "Primerica",
+  "industry": "Finance",
+  "interest_tags": "insurance-finance",
+  "confidence": "high",
+  "evidence": "Primerica is a financial-services company selling term life insurance and investments; 'Financial Services' occupation corroborates.",
+  "source_url": "https://www.primerica.com/"
+ },
+ {
+  "employer_id": "tcv-6c994c6d-7b64-4e5b-af21-d9e2d38020e3",
+  "name": "Spock Care Management LLC",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Spock Care Management LLC is an Austin aging-life-care management company (owner Heidi Shanklin-Spock); occupation 'Aging Life Care Manager' matches.",
+  "source_url": "https://www.spockcaremanagement.com/"
+ },
+ {
+  "employer_id": "tcv-58d576de-d3a3-4aea-9f1a-a30a4dee6792",
+  "name": "Texas A&M Agrilife Extension-EFNEP",
+  "industry": "Education",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Texas A&M AgriLife Extension EFNEP (Expanded Food and Nutrition Education Program) is a university nutrition-education program; 'Administrative Assistant' is a staff role.",
+  "source_url": "https://agrilifeextension.tamu.edu/"
+ },
+ {
+  "employer_id": "tcv-5622d88a-4245-4c7c-8f32-f8591a95afca",
+  "name": "BWM",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous 3-letter acronym with only occupation 'Sales'; no reliable match to a specific Austin employer. Not classifiable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-4ee09ce0-6844-402f-ad06-6fc7e07d26ea",
+  "name": "Bernie Sanders",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "progressive-money",
+  "confidence": "medium",
+  "evidence": "Employer is the Bernie Sanders political campaign/organization; occupation 'National Barnstorm Director & Texas State Director' is progressive campaign staff work (no clean taxonomy label for campaigns).",
+  "source_url": "https://berniesanders.com/"
+ },
+ {
+  "employer_id": "tcv-2ea4b7e3-b2bf-4df3-ac09-09abe0a16539",
+  "name": "Ferrovial",
+  "industry": "Construction",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Ferrovial is a Spanish multinational infrastructure/construction group (toll roads, airports; US HQ) formerly parent of Cintra; 'VP HR' is a corporate role.",
+  "source_url": "https://www.ferrovial.com/en/"
+ },
+ {
+  "employer_id": "tcv-1db1461e-c5d8-4c8a-a5e9-709f341ecfd2",
+  "name": "Vaco Google",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "medium",
+  "evidence": "Vaco is a staffing/consulting firm; 'Vaco Google' indicates a Vaco contractor placed at Google (a technology company); occupation 'Detection Agent' is a tech/trust-and-safety role.",
+  "source_url": "https://www.vaco.com/"
+ },
+ {
+  "employer_id": "d54cb58f-a3bc-4bf9-8285-d3c6351e5218",
+  "name": "New Waterloo",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "New Waterloo is an Austin hospitality group operating restaurants and hotels; occupation 'Server' corroborates.",
+  "source_url": "https://newwaterloo.com/"
+ },
+ {
+  "employer_id": "7932c9b7-4f5c-493f-bac5-c452842113be",
+  "name": "Workrise",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Workrise (formerly RigUp) is an Austin workforce-management tech marketplace for skilled labor (originally energy sector); 'Senior Product Manager' fits a software company.",
+  "source_url": "https://www.workrise.com/"
+ },
+ {
+  "employer_id": "1535d7a9-8ed1-4367-99ff-9888b1c799f6",
+  "name": "Council On At Risk Youth",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Council on At-Risk Youth (CARY) is an Austin nonprofit providing counseling/mentoring to at-risk students; 'Executive Director' corroborates.",
+  "source_url": "https://www.caryaustin.org/"
+ },
+ {
+  "employer_id": "tcv-5eb45e23-5ee2-4ce2-a8d0-7beafff5f3cb",
+  "name": "Inspire Family Health",
+  "industry": "Healthcare",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Inspire Family Health is a primary-care clinic in central Austin (711 W 38th St); occupation 'Nurse Practitioner' matches staff.",
+  "source_url": "http://www.inspirefh.com/care-team"
+ },
+ {
+  "employer_id": "246e97e3-a66e-447e-a5ab-6781f2718734",
+  "name": "Wendy's",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Wendy's is a fast-food restaurant chain (food service); occupation 'Fry Cook' corroborates.",
+  "source_url": "https://www.wendys.com/"
+ },
+ {
+  "employer_id": "tcv-b362106b-efc7-4378-b456-1c9e69c56d61",
+  "name": "Commio",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Commio (thinQ) is an Austin-based cloud voice/CPaaS telecom-API technology company; 'CSO' is an executive role there.",
+  "source_url": "https://www.commio.com/company/"
+ },
+ {
+  "employer_id": "tcv-976341bc-34a1-4419-8f29-c7390e136ac4",
+  "name": "PPM",
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "evidence": "Ambiguous 3-letter acronym with only occupation 'Manager'; too many possible referents (property management, project management, etc.). Not classifiable.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-65f5660c-dc47-4c8f-ad2b-9815caaaa3a6",
+  "name": "TownePark",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Towne Park is a national valet-parking and hospitality-staffing services provider for hotels/healthcare; occupation 'Valet' matches.",
+  "source_url": "https://www.townepark.com/"
+ },
+ {
+  "employer_id": "tcv-fb7710bb-e0ce-4127-b487-56d1483b1d3f",
+  "name": "Sahara Lounge",
+  "industry": "Entertainment",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Sahara Lounge is a well-known East Austin live-music venue and bar; occupation 'Business owner' corroborates.",
+  "source_url": "https://www.saharalounge.com/"
+ },
+ {
+  "employer_id": "tcv-ab6d841f-cb29-4750-add0-9a75bd8f7fb4",
+  "name": "McCartan Law",
+  "industry": "Legal",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "McCartan Law is a law firm; occupation 'Attorney' corroborates.",
+  "source_url": ""
+ },
+ {
+  "employer_id": "tcv-6a95e6bd-fd6e-4b7e-9782-1a8575d2a5c3",
+  "name": "Four Seasons Travel and Tours",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Four Seasons Travel is an Austin luxury travel agency/advisor (Bee Caves Rd); occupation 'Travel Tours' corroborates. (Unrelated to Four Seasons Hotels.)",
+  "source_url": "https://4seasonstvl.com/"
+ },
+ {
+  "employer_id": "tcv-36da139d-5010-4cad-9ed2-c86ea23da9e6",
+  "name": "Unisys",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Unisys is a global IT services and technology company; occupation 'Tech Writer' fits.",
+  "source_url": "https://www.unisys.com/"
+ },
+ {
+  "employer_id": "670deacb-73f2-4839-8858-cd34db3141b7",
+  "name": "MSDF",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "MSDF = Michael & Susan Dell Foundation, Austin-headquartered private foundation; occupation 'Accountant' is a foundation finance role.",
+  "source_url": "https://www.dell.org/"
+ },
+ {
+  "employer_id": "tcv-26269be2-3007-4b86-9cf6-bcbb5dc397df",
+  "name": "The Jewelry Channel dba Liquidation Channel",
+  "industry": "Retail",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "The Jewelry Channel / Liquidation Channel (now Shop LC, subsidiary of Vaibhav Global) is an Austin-based cable home-shopping retailer selling jewelry and lifestyle goods; 'Television Producer' is a production role at the shopping channel.",
+  "source_url": "https://en.wikipedia.org/wiki/Shop_LC"
+ },
+ {
+  "employer_id": "tcv-bd0893c2-0483-4af3-888e-413cafe9b732",
+  "name": "Tcdd",
+  "industry": "Government",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "TCDD = Texas Council for Developmental Disabilities, a Texas state government agency in Austin; occupation 'Policy analyst' matches a public-policy staff role.",
+  "source_url": "https://tcdd.texas.gov/about-us/"
+ }
+]
