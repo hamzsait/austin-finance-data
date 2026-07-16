@@ -40,6 +40,12 @@ ROSTER = [
     {"slug": "laine",  "recipient": "Laine, Krista M.",        "display": "Krista Laine",       "district": "District 6",   "race": "2024 Race"},
     {"slug": "ellis",  "recipient": "Ellis, Paige",            "display": "Paige Ellis",        "district": "District 8",   "race": "2022 Race"},
     {"slug": "duchen", "recipient": "Duchen, Marc",            "display": "Marc Duchen",        "district": "District 10",  "race": "2024 Race"},
+    # Travis County Commissioners Court
+    {"slug": "brown",      "recipient": "Brown, Andy",       "display": "Andy Brown",       "district": "County Judge",          "race": "Travis County"},
+    {"slug": "travillion", "recipient": "Travillion, Jeff",  "display": "Jeff Travillion",  "district": "Commissioner Pct 1",    "race": "Travis County"},
+    {"slug": "shea",       "recipient": "Shea, Brigid",      "display": "Brigid Shea",      "district": "Commissioner Pct 2",    "race": "Travis County"},
+    {"slug": "howard",     "recipient": "Howard, Ann",       "display": "Ann Howard",       "district": "Commissioner Pct 3",    "race": "Travis County"},
+    {"slug": "gomez",      "recipient": "Gomez, Margaret",   "display": "Margaret Gómez",   "district": "Commissioner Pct 4",    "race": "Travis County"},
 ]
 
 
@@ -71,6 +77,25 @@ def og_meta_for(slug: str) -> dict:
     }
 
 
+COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez"}
+
+# Template strings that are city-specific; swapped for Travis County profiles.
+COUNTY_TEMPLATE_SUBS = [
+    ('<div class="badge" id="heroBadge">Austin City Council</div>',
+     '<div class="badge" id="heroBadge">Travis County Commissioners Court</div>'),
+    ("Data sourced from Austin City Clerk campaign finance filings.",
+     "Data sourced from Travis County Clerk C/OH campaign finance filings."),
+    ("Campaign finance records are sourced from Austin City Clerk filings.",
+     "Campaign finance records are sourced from Travis County Clerk C/OH filings."),
+    ("local totals come from Austin City Clerk filings.",
+     "local totals come from Travis County Clerk filings."),
+    ('<div class="lbl">Raised 2022+</div>',
+     '<div class="lbl">Raised 2016+</div>'),
+    ('<span class="hint">2022+</span>',
+     '<span class="hint">2016+</span>'),
+]
+
+
 def make_profile_html(slug: str) -> str:
     """Render profile_template.html to austin/{slug}/index.html with PROFILE_SLUG injected.
 
@@ -98,6 +123,10 @@ def make_profile_html(slug: str) -> str:
         .replace("__OG_DESC__", og["desc"])
         .replace("__OG_ALT__", og["alt"])
     )
+
+    if slug in COUNTY_SLUGS:
+        for old, new in COUNTY_TEMPLATE_SUBS:
+            new_html = new_html.replace(old, new)
 
     out_dir = os.path.join(ROOT, "austin", slug)
     os.makedirs(out_dir, exist_ok=True)

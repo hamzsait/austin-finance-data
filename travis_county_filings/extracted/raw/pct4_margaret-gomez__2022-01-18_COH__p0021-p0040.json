@@ -1,0 +1,120 @@
+{
+  "chunk": "pct4_margaret-gomez__2022-01-18_COH__p0021-p0040",
+  "pages": [
+    {
+      "page": 21,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {
+          "date": "11/14/21",
+          "name": "Helen Gu",
+          "city_state_zip": null,
+          "amount": 50.00,
+          "occupation": "Engineer",
+          "employer": "Solera",
+          "oos_pac": false
+        },
+        {
+          "date": "11/14/21",
+          "name": "David Salazar",
+          "city_state_zip": null,
+          "amount": 50.00,
+          "occupation": "Public Servant",
+          "employer": "TRAVIS COUNTY",
+          "oos_pac": false,
+          "uncertain": true,
+          "note": "employer handwriting reads like 'TRAVIS COUNTS', likely 'TRAVIS COUNTY'"
+        },
+        {
+          "date": "11/14/21",
+          "name": "Kathleen Chen",
+          "city_state_zip": null,
+          "amount": 50.00,
+          "occupation": "Don't Know",
+          "employer": "Don't Know",
+          "oos_pac": false
+        },
+        {
+          "date": "11/15/21",
+          "name": "Emlyn Lee",
+          "city_state_zip": null,
+          "amount": 25.00,
+          "occupation": "Nonprofit",
+          "employer": "Brave Communities",
+          "oos_pac": false,
+          "uncertain": true,
+          "note": "employer handwriting ambiguous, read as 'Brave Communities'"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {
+          "date": "11/18/21",
+          "name": "Amy Pettillo Campaign",
+          "city_state_zip": null,
+          "amount": 100.00,
+          "occupation": "Don't know",
+          "employer": "Don't know",
+          "oos_pac": false,
+          "uncertain": true,
+          "note": "name handwriting unclear; trailing word read as 'Campaign'"
+        },
+        {
+          "date": "12/18/21",
+          "name": "Jeanine Vasquez",
+          "city_state_zip": null,
+          "amount": 100.00,
+          "occupation": "Librarian",
+          "employer": "University of Texas",
+          "oos_pac": false
+        },
+        {
+          "date": "11/14/21",
+          "name": "Dieu Phan",
+          "city_state_zip": null,
+          "amount": 100.00,
+          "occupation": "Don't Know",
+          "employer": "Don't Know",
+          "oos_pac": false
+        },
+        {
+          "date": "11/24/21",
+          "name": "Jack Kirfman VOTE PAC",
+          "city_state_zip": null,
+          "amount": 2500.00,
+          "occupation": null,
+          "employer": null,
+          "oos_pac": false
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "type": "A2",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {"page": 24, "type": "OTHER", "label": "SCHEDULE B - Pledged Contributions (None)"},
+    {"page": 25, "type": "OTHER", "label": "SCHEDULE E - Loans (None)"},
+    {"page": 26, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 27, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 28, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 29, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 30, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 31, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 32, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 33, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 34, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 35, "type": "OTHER", "label": "SCHEDULE F1 - Expenditures"},
+    {"page": 36, "type": "OTHER", "label": "SCHEDULE F2 - Unpaid Incurred Obligations (None)"},
+    {"page": 37, "type": "OTHER", "label": "SCHEDULE F3 - Purchase of Investments (None)"},
+    {"page": 38, "type": "OTHER", "label": "SCHEDULE F4 - Expenditures Made by Credit Card"},
+    {"page": 39, "type": "OTHER", "label": "SCHEDULE G - Political Expenditures from Personal Funds"},
+    {"page": 40, "type": "OTHER", "label": "SCHEDULE H - Payment to Business of C/OH (None)"}
+  ]
+}

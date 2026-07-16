@@ -1,0 +1,46 @@
+{
+  "chunk": "pct4_margaret-gomez__2023-07-17_COH__p0001-p0006",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gómez, Margaret J.",
+      "report_type": "July 15",
+      "period_from": "01/01/23",
+      "period_through": "6/30/23",
+      "office_held": "Travis Co. Comm. Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 0.00,
+      "total_unitemized_expenditures": null,
+      "total_expenditures": 685.50,
+      "contribution_balance": 11970.41,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    }
+  ]
+}

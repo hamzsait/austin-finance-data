@@ -1,0 +1,46 @@
+{
+  "chunk": "pct4_margaret-gomez__2025-01-14_COH__p0001-p0006",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gómez, Margaret J.",
+      "report_type": "January 15",
+      "period_from": null,
+      "period_through": null,
+      "office_held": "Travis Co. Commissioner, Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 0.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 1200.00,
+      "contribution_balance": null,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": []
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    }
+  ]
+}

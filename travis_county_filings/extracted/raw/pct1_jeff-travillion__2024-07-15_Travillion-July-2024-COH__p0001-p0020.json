@@ -1,0 +1,42 @@
+{"chunk": "pct1_jeff-travillion__2024-07-15_Travillion-July-2024-COH__p0001-p0020", "pages": [
+{"page": 1, "type": "OTHER", "label": "Form UD (Unsworn Declaration)"},
+{"page": 2, "type": "COVER1", "filer_name": "Travillion, Jeff", "report_type": "July 15", "period_from": "01/01/2024", "period_through": "06/30/2024", "office_held": "Travis County Commissioner Precinct 1", "correction": false},
+{"page": 3, "type": "COVER2", "total_unitemized_contributions": 0.00, "total_contributions": 14400.00, "total_unitemized_expenditures": 550.00, "total_expenditures": 50396.81, "contribution_balance": 82824.34, "outstanding_loans": 0.00},
+{"page": 4, "type": "COVER3"},
+{"page": 5, "type": "A1", "sch_pos": "1/4", "entries": [
+  {"date": "05/23/2024", "name": "Alphonso, Andre", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/08/2024", "name": "Bland, Joe", "city_state_zip": "Austin, TX 78734", "amount": 700.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "02/15/2024", "name": "Broaddus, James", "city_state_zip": "Austin, TX 78746", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "01/06/2024", "name": "Canady, Clyde", "city_state_zip": "Georgetown, TX 78628", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "02/20/2024", "name": "Carter, Darryl", "city_state_zip": "Houston, TX 77081", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 6, "type": "A1", "sch_pos": "2/4", "entries": [
+  {"date": "05/23/2024", "name": "GPS Policy Group LLC", "city_state_zip": "Austin, TX 78765", "amount": 1500.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "01/09/2024", "name": "Graham, Charles", "city_state_zip": "Elgin, TX 78621", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/08/2024", "name": "HDR, Inc. Employee Owners PAC", "city_state_zip": "Omaha, NE 68106", "amount": 2000.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/23/2024", "name": "HNTB Holdings LTD PAC", "city_state_zip": "Kansas City, MO 64105", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/08/2024", "name": "Inman, Peter", "city_state_zip": "Georgetown, TX 78626", "amount": 700.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 7, "type": "A1", "sch_pos": "3/4", "entries": [
+  {"date": "05/08/2024", "name": "Koch, Shelby", "city_state_zip": "Austin, TX 78702", "amount": 300.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "06/26/2024", "name": "Kunik, Daryl", "city_state_zip": "Austin, TX 78704", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/23/2024", "name": "Metcalfe Wolff Stuart & Williams, LLP", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/08/2024", "name": "Patton, Sherwynn", "city_state_zip": "Austin, TX 78702", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false},
+  {"date": "05/08/2024", "name": "Robinson, Richard", "city_state_zip": "Del Valle, TX 78617", "amount": 150.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 8, "type": "A1", "sch_pos": "4/4", "entries": [
+  {"date": "05/23/2024", "name": "Roski, Edward", "city_state_zip": "City of Industry, CA 91746", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false}
+]},
+{"page": 9, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 10, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 11, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 12, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 13, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 14, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 15, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 16, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 17, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 18, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 19, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 20, "type": "OTHER", "label": "SCHEDULE F1"}
+]}

@@ -1,0 +1,34 @@
+{
+  "chunk": "county-judge_andy-brown__2026-01-15_COH-Andy-Brown-January-2026__p0041-p0060",
+  "pages": [
+    {
+      "page": 41,
+      "type": "A1",
+      "sch_pos": "37/37",
+      "entries": [
+        {"date": "11/24/2025", "name": "wallace, katharine", "city_state_zip": "austin, TX 78731", "amount": 25.00, "occupation": "office manager", "employer": "Lake flato", "oos_pac": false},
+        {"date": "12/24/2025", "name": "wallace, katharine", "city_state_zip": "austin, TX 78731", "amount": 25.00, "occupation": "office manager", "employer": "Lake flato", "oos_pac": false},
+        {"date": "09/11/2025", "name": "zimel, adam", "city_state_zip": "sunset valley, TX 78745", "amount": 305.00, "occupation": "real estate", "employer": "endeavor", "oos_pac": false}
+      ]
+    },
+    {"page": 42, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 43, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 44, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 45, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 46, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 47, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 48, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 49, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 50, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 51, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 52, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 53, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 54, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 55, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 56, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 57, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 58, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 59, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 60, "type": "OTHER", "label": "SCHEDULE F1"}
+  ]
+}

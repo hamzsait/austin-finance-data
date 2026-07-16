@@ -1,0 +1,123 @@
+{
+  "chunk": "pct4_margaret-gomez__2018-07-16_COH__p0001-p0015",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gómez, Margaret",
+      "report_type": "July 15",
+      "period_from": "02/25/18",
+      "period_through": "06/30/18",
+      "office_held": "Travis County Commissioner, Pct. 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 1700.00,
+      "total_unitemized_expenditures": 21.16,
+      "total_expenditures": 19769.15,
+      "contribution_balance": 16505.66,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": [
+        {
+          "date": "5/14/18",
+          "name": "Robert George Harris",
+          "city_state_zip": "Austin, TX 78701",
+          "amount": 200.00,
+          "occupation": null,
+          "employer": "Self-Employed",
+          "oos_pac": false,
+          "uncertain": true,
+          "note": "Contributor name handwritten, hard to read exactly - could be 'Robert George Harris' or similar spelling."
+        },
+        {
+          "date": "5/14/18",
+          "name": "VOTE PAC",
+          "city_state_zip": "Austin, TX 78731-3064",
+          "amount": 500.00,
+          "occupation": null,
+          "employer": null,
+          "oos_pac": false
+        },
+        {
+          "date": "5/14/18",
+          "name": "Paul Chopin",
+          "city_state_zip": "Austin, TX 78760",
+          "amount": 1000.00,
+          "occupation": null,
+          "employer": "Linebarger, Goggan, Blair & Sampson, LLP",
+          "oos_pac": false,
+          "uncertain": true,
+          "note": "Firm name 'Linebarger, Goggan, Blair & Sampson, LLP' written below contributor name rather than in Employer box; treated as employer."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE B"
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE E"
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 8,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 9,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 10,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 11,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 12,
+      "type": "OTHER",
+      "label": "SCHEDULE G"
+    },
+    {
+      "page": 13,
+      "type": "OTHER",
+      "label": "SCHEDULE H"
+    },
+    {
+      "page": 14,
+      "type": "OTHER",
+      "label": "SCHEDULE I"
+    },
+    {
+      "page": 15,
+      "type": "OTHER",
+      "label": "SCHEDULE K"
+    }
+  ]
+}

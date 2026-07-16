@@ -1,5 +1,5 @@
 {
- "updated": "July 2026",
+ "updated": "2026-07-16",
  "candidates": [
   {
    "slug": "watson",
@@ -361,6 +361,171 @@
      "label": "Technology",
      "amt": "$10K",
      "w": 33
+    }
+   ]
+  },
+  {
+   "slug": "brown",
+   "photo": "tc-brown",
+   "name": "Andy Brown",
+   "district": "County Judge",
+   "race": "Travis County",
+   "href": "/austin/brown/",
+   "raised": "$1.4M",
+   "donors": "1,273",
+   "empPct": "70.7%",
+   "topGroups": [
+    {
+     "label": "Finance",
+     "amt": "$364K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$112K",
+     "w": 31
+    },
+    {
+     "label": "Legal",
+     "amt": "$111K",
+     "w": 30
+    },
+    {
+     "label": "Retail / Media / Other",
+     "amt": "$98K",
+     "w": 27
+    }
+   ]
+  },
+  {
+   "slug": "travillion",
+   "photo": "tc-travillion",
+   "name": "Jeff Travillion",
+   "district": "Commissioner Pct 1",
+   "race": "Travis County",
+   "href": "/austin/travillion/",
+   "raised": "$620K",
+   "donors": "510",
+   "empPct": "64.1%",
+   "topGroups": [
+    {
+     "label": "Legal",
+     "amt": "$67K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$64K",
+     "w": 95
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$52K",
+     "w": 78
+    },
+    {
+     "label": "Construction",
+     "amt": "$50K",
+     "w": 74
+    }
+   ]
+  },
+  {
+   "slug": "shea",
+   "photo": "tc-shea",
+   "name": "Brigid Shea",
+   "district": "Commissioner Pct 2",
+   "race": "Travis County",
+   "href": "/austin/shea/",
+   "raised": "$789K",
+   "donors": "657",
+   "empPct": "59.4%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$102K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$83K",
+     "w": 82
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$44K",
+     "w": 43
+    },
+    {
+     "label": "Education",
+     "amt": "$33K",
+     "w": 32
+    }
+   ]
+  },
+  {
+   "slug": "howard",
+   "photo": "tc-howard",
+   "name": "Ann Howard",
+   "district": "Commissioner Pct 3",
+   "race": "Travis County",
+   "href": "/austin/howard/",
+   "raised": "$399K",
+   "donors": "416",
+   "empPct": "53.6%",
+   "topGroups": [
+    {
+     "label": "Legal",
+     "amt": "$65K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$45K",
+     "w": 69
+    },
+    {
+     "label": "Construction",
+     "amt": "$20K",
+     "w": 30
+    },
+    {
+     "label": "Engineering",
+     "amt": "$16K",
+     "w": 24
+    }
+   ]
+  },
+  {
+   "slug": "gomez",
+   "photo": "tc-gomez",
+   "name": "Margaret Gómez",
+   "district": "Commissioner Pct 4",
+   "race": "Travis County",
+   "href": "/austin/gomez/",
+   "raised": "$158K",
+   "donors": "137",
+   "empPct": "56.4%",
+   "topGroups": [
+    {
+     "label": "Government",
+     "amt": "$33K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$19K",
+     "w": 58
+    },
+    {
+     "label": "Legal",
+     "amt": "$14K",
+     "w": 42
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$5K",
+     "w": 16
     }
    ]
   }

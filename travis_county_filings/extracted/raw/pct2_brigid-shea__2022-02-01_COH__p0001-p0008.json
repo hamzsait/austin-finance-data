@@ -1,0 +1,58 @@
+{
+  "chunk": "pct2_brigid-shea__2022-02-01_COH__p0001-p0008",
+  "pages": [
+    {"page": 1, "type": "OTHER", "label": "FORM UD - UNSWORN DECLARATION"},
+    {"page": 2, "type": "COVER1", "filer_name": "Shea, Brigid",
+     "report_type": "30th day before election", "period_from": "01/01/2022",
+     "period_through": "01/20/2022", "office_held": "County Commissioner District 2 Travis",
+     "correction": false},
+    {"page": 3, "type": "COVER2", "total_unitemized_contributions": 233.00,
+     "total_contributions": 9646.00, "total_unitemized_expenditures": 219.52,
+     "total_expenditures": 6715.07, "contribution_balance": 193933.33,
+     "outstanding_loans": 0.00},
+    {"page": 4, "type": "COVER3", "label": "SUBTOTALS - C/OH COVER SHEET PG 3"},
+    {"page": 5, "type": "A1", "sch_pos": "1/3",
+     "entries": [
+       {"date": "01/20/2022", "name": "Carpenter, James",
+        "city_state_zip": "Austin, TX 78738", "amount": 5000.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/01/2022", "name": "Century, Jane",
+        "city_state_zip": "Philadelphia, PA 19119", "amount": 250.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/02/2022", "name": "Clark, Stephen",
+        "city_state_zip": "Austin, TX 78746", "amount": 1000.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/18/2022", "name": "DeAngelo, David",
+        "city_state_zip": "Austin, TX 78753", "amount": 103.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/11/2022", "name": "Gammon, William",
+        "city_state_zip": "Austin, TX 78705", "amount": 500.00,
+        "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 6, "type": "A1", "sch_pos": "2/3",
+     "entries": [
+       {"date": "01/03/2022", "name": "Mitchell, Terry",
+        "city_state_zip": "Austin, TX 78703", "amount": 500.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/11/2022", "name": "Pape, Kevin",
+        "city_state_zip": "Austin, TX 78757", "amount": 1030.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/19/2022", "name": "Reynolds, Joseph",
+        "city_state_zip": "Austin, TX 78731", "amount": 154.50,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/11/2022", "name": "Smith, Courtney",
+        "city_state_zip": "Austin, TX 78704", "amount": 103.00,
+        "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/15/2022", "name": "Sonleitner, Karen",
+        "city_state_zip": "Austin, TX 78757", "amount": 257.50,
+        "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 7, "type": "A1", "sch_pos": "3/3",
+     "entries": [
+       {"date": "01/10/2022", "name": "Winkler, Margaret",
+        "city_state_zip": "West Lake Hills, TX 78746", "amount": 515.00,
+        "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 8, "type": "OTHER", "label": "SCHEDULE F1"}
+  ]
+}

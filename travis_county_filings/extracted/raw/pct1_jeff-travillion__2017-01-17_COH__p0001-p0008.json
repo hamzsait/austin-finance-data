@@ -1,0 +1,68 @@
+{
+  "chunk": "pct1_jeff-travillion__2017-01-17_COH__p0001-p0008",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Travillion, Jeff",
+      "report_type": "January 15",
+      "period_from": "10/30/2016",
+      "period_through": "12/31/2016",
+      "office_held": null,
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 1400.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 13900.17,
+      "contribution_balance": 2191.24,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/2",
+      "entries": [
+        {"date": "10/31/2016", "name": "Blackwell, Betty", "city_state_zip": "Austin, TX 78701", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "10/30/2016", "name": "Howell, Pix", "city_state_zip": "Wimberley, TX 78676-0663", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "11/21/2016", "name": "Jackson, Isaac", "city_state_zip": "Bastrop, TX 78602", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "11/02/2016", "name": "Muse, Walter", "city_state_zip": "Austin, TX 78727", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "10/30/2016", "name": "Nias, James", "city_state_zip": "Austin, TX 78704", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": "2/2",
+      "entries": [
+        {"date": "11/21/2016", "name": "Singh, Jasbir", "city_state_zip": "Sugar Land, TX 77479", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "10/31/2016", "name": "Williams, Winston G.", "city_state_zip": "Austin, TX 78768", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "11/08/2016", "name": "Winston, Victor", "city_state_zip": "Round Rock, TX 78665", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "10/31/2016", "name": "Young, William", "city_state_zip": "Austin, TX 78748", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 8,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "chunk": "pct4_margaret-gomez__2022-01-18_COH__p0001-p0020",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gómez, Margaret J.",
+      "report_type": "January 15",
+      "period_from": "07/01/21",
+      "period_through": "12/31/21",
+      "office_held": "Travis Co. Commissioner, Pct. 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 66816.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 24105.66,
+      "contribution_balance": 67685.06,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "C/OH SUBTOTALS COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/9/21", "name": "Alev Leo", "city_state_zip": null, "amount": 10000.00, "occupation": "Public Safety Employees", "employer": "Travis County", "oos_pac": false, "uncertain": true, "note": "Second line beneath name reads 'Travis County Sheriff's Law Enforcement Assn PAC' — unclear if part of contributor identification or PAC affiliation. Amount corrected from earlier $10,600 read: digit after the comma matches the writer's curled zeros (cf. '25,000.00' on p15 and the cents '00'), not her tall-ascender '6' (cf. '66816' on cover pg 2); $10,000 also reconciles exactly with the sworn cover total of $66,816.00."},
+        {"date": "7/31/21", "name": "Susan Spatero", "city_state_zip": null, "amount": 1000.00, "occupation": "Financial", "employer": "Retired", "oos_pac": false},
+        {"date": "7/31/21", "name": "Carol Guthrie", "city_state_zip": null, "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false, "uncertain": true, "note": "Second line beneath name reads 'AFSCME'; occupation/employer boxes left blank."}
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/14/21", "name": "Frank Fuentes", "city_state_zip": null, "amount": 250.00, "occupation": "Construction", "employer": "Self", "oos_pac": false},
+        {"date": "7/12/21", "name": "Nathan J. Walker", "city_state_zip": null, "amount": 250.00, "occupation": "Elections", "employer": null, "oos_pac": false, "uncertain": true, "note": "Amount digits partly obscured; best reading $250.00."},
+        {"date": "7/15/21", "name": "David Armbrust/Richard Suttle", "city_state_zip": null, "amount": 2500.00, "occupation": "Attorneys- Development Projects", "employer": "Armbrust & Brown, PLLC", "oos_pac": false},
+        {"date": "7/17/21", "name": "Jeremy Hendricks", "city_state_zip": null, "amount": 250.00, "occupation": "Labor Public Employees", "employer": "Southeast Laborers District Council PAC (Org statement attached)", "oos_pac": true, "note": "Out-of-state PAC checkbox marked Yes, ethics code 7743; second line beneath name reads 'Southeast Laborers Dist Council (SWLDC PAC)'; Oklahoma Ethics Commission Statement of Organization for SWLDC PAC is attached as page 6."}
+      ]
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "Oklahoma Ethics Commission Statement of Organization - Southwest Laborers District Council PAC (SWLDC PAC) attachment"
+    },
+    {
+      "page": 7,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/18/21", "name": "Bob Perkins", "city_state_zip": null, "amount": 500.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+        {"date": "7/9/21", "name": "Joe Caseino", "city_state_zip": null, "amount": 1.00, "occupation": "UT Student", "employer": "Student", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 8,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/19/21", "name": "Bill Aleshire", "city_state_zip": null, "amount": 250.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+        {"date": "7/25/21", "name": "Bill Aleshire", "city_state_zip": null, "amount": 500.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+        {"date": "7/25/21", "name": "Bill Yarbrough", "city_state_zip": null, "amount": 100.00, "occupation": "Unemployed", "employer": "Unemployed", "oos_pac": false},
+        {"date": "7/25/21", "name": "Jordan Villarreal", "city_state_zip": null, "amount": 10.00, "occupation": "Consultant", "employer": "Self-employed", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 9,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/25/21", "name": "David Mauro", "city_state_zip": null, "amount": 250.00, "occupation": "Foreign Service Officer", "employer": "U.S. Department of State", "oos_pac": false},
+        {"date": "7/26/21", "name": "Roy Gómez", "city_state_zip": null, "amount": 100.00, "occupation": "Retired", "employer": "None", "oos_pac": false},
+        {"date": "7/28/21", "name": "Pix Howell", "city_state_zip": null, "amount": 150.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+        {"date": "7/28/21", "name": "Stacy Suits", "city_state_zip": null, "amount": 25.00, "occupation": "Law Enforcement", "employer": "Travis County", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 10,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/30/21", "name": "Karan Shirk", "city_state_zip": null, "amount": 25.00, "occupation": "Office Manager", "employer": "Y-Strategy", "oos_pac": false},
+        {"date": "7/31/21", "name": "Cecelia Burke", "city_state_zip": null, "amount": 250.00, "occupation": "Retired", "employer": "None", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 11,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/30/21", "name": "Paul D. Chapa", "city_state_zip": null, "amount": 500.00, "occupation": "Attorney-at-law", "employer": "Linebarger, Goggan, Blair & Sampson, LLP", "oos_pac": false},
+        {"date": "7/30/21", "name": "Paul D. Chapa", "city_state_zip": null, "amount": 2500.00, "occupation": "Attorneys-at-law", "employer": "Linebarger, Goggan, Blair & Sampson, LLP", "oos_pac": false},
+        {"date": "7/30/21", "name": "John", "city_state_zip": null, "amount": 1000.00, "occupation": "Consultant", "employer": "Project Management Consulting Advisors", "oos_pac": false, "uncertain": true, "note": "Contributor's last name not legible; second line beneath name reads 'Project Management Consultants Advisors'."},
+        {"date": "7/30/21", "name": "Gretchen E. Raatz", "city_state_zip": null, "amount": 100.00, "occupation": "Attorney-at-law, Retired", "employer": "Retired", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 12,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/30/21", "name": "Andy J. Rainosek", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "7/30/21", "name": "Brett Spicer", "city_state_zip": null, "amount": 100.00, "occupation": "Retired Law Enforcement Officer", "employer": "Travis County", "oos_pac": false},
+        {"date": "7/30/21", "name": "Bob Gregory", "city_state_zip": null, "amount": 3000.00, "occupation": "Environment", "employer": "Texas Disposal Systems", "oos_pac": false},
+        {"date": "7/30/21", "name": "Gonzalo Barrientos", "city_state_zip": null, "amount": 100.00, "occupation": "Retired State Senator", "employer": "Self", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 13,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/30/21", "name": "David Buhls", "city_state_zip": null, "amount": 250.00, "occupation": "Elections Consultant", "employer": "Self", "oos_pac": false, "uncertain": true, "note": "Second line beneath name reads 'Texas Citizens for Local Control'."},
+        {"date": "7/30/21", "name": "Barbara Rush", "city_state_zip": null, "amount": 100.00, "occupation": "Public Employee", "employer": "Travis County", "oos_pac": false},
+        {"date": "7/30/21", "name": "Lionel B. Aguirre", "city_state_zip": null, "amount": 250.00, "occupation": "Consultant", "employer": "Don't Know", "oos_pac": false},
+        {"date": "7/30/21", "name": "Karen M. Sonleitner", "city_state_zip": null, "amount": 250.00, "occupation": "Retired Public Employee", "employer": "Travis County, Pct 2", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 14,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/30/21", "name": "Pat Ford", "city_state_zip": null, "amount": 30.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false},
+        {"date": "7/30/21", "name": "Rosa Rios Valdez", "city_state_zip": null, "amount": 2000.00, "occupation": "Business Consultant", "employer": "BCL", "oos_pac": false},
+        {"date": "7/30/21", "name": "Jane E. Sanders", "city_state_zip": null, "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "7/30/21", "name": "Mack Martinez, III", "city_state_zip": null, "amount": 1000.00, "occupation": "Attorney-at-Law, Retired", "employer": "Travis County", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 15,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "7/30/21", "name": "Sharon Blythe", "city_state_zip": null, "amount": 100.00, "occupation": "Retired", "employer": "None", "oos_pac": false},
+        {"date": "8/13/21", "name": "Joe Liemandt", "city_state_zip": null, "amount": 25000.00, "occupation": "Software", "employer": "Trilogy", "oos_pac": false},
+        {"date": "8/18/21", "name": "Neil H. Ellis", "city_state_zip": null, "amount": 1000.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false},
+        {"date": "8/22/21", "name": "Barrett D. Allison", "city_state_zip": null, "amount": 1000.00, "occupation": "Retired", "employer": "None", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 16,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "8/22/21", "name": "Brisa R. McClure", "city_state_zip": null, "amount": 1000.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false},
+        {"date": "8/31/21", "name": "Karl Koebel", "city_state_zip": null, "amount": 1500.00, "occupation": "Real Estate", "employer": "Marketplace", "oos_pac": false},
+        {"date": "9/4/21", "name": "Vera D. Massaro", "city_state_zip": null, "amount": 250.00, "occupation": "Pensioner", "employer": "Quantico", "oos_pac": false, "uncertain": true, "note": "Occupation handwriting difficult to read; best-guess transcription."},
+        {"date": "9/4/21", "name": "Laura Caldwell Morrison", "city_state_zip": null, "amount": 300.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 17,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "9/4/21", "name": "Leroy William Nellis", "city_state_zip": null, "amount": 100.00, "occupation": "Retired", "employer": "None", "oos_pac": false},
+        {"date": "9/4/21", "name": "Shyra S. Darr", "city_state_zip": null, "amount": 150.00, "occupation": "State Employee", "employer": null, "oos_pac": false},
+        {"date": "9/4/21", "name": "Dolores Eufracio", "city_state_zip": null, "amount": 100.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false},
+        {"date": "9/4/21", "name": "Karen A. Friese", "city_state_zip": null, "amount": 500.00, "occupation": "Engineer", "employer": "Friese & Associates", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 18,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "9/20/21", "name": "Martha Smiley", "city_state_zip": null, "amount": 250.00, "occupation": "Attorney", "employer": "Enoch Kever, LLC", "oos_pac": false},
+        {"date": "10-29-21", "name": "James Valadez", "city_state_zip": null, "amount": 50.00, "occupation": "Real Estate", "employer": "Self", "oos_pac": false},
+        {"date": "11/02/21", "name": "Alice Yi", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "11/02/21", "name": "Stacy Suits", "city_state_zip": null, "amount": 50.00, "occupation": "County Employee", "employer": "Travis County", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 19,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "11/02/21", "name": "Victoria Li", "city_state_zip": null, "amount": 200.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false},
+        {"date": "11/7/21", "name": "Joy Diaz", "city_state_zip": null, "amount": 100.00, "occupation": "Don't Know", "employer": "Don't Know", "oos_pac": false},
+        {"date": "11/10/21", "name": "Darlene Lanham", "city_state_zip": null, "amount": 100.00, "occupation": "Ex Director", "employer": "AFSSA", "oos_pac": false},
+        {"date": "11/11/21", "name": "Paul Yin", "city_state_zip": null, "amount": 50.00, "occupation": "Attorney", "employer": "TX Comptroller of Public Accounts", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 20,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {"date": "11/12/21", "name": "Shailee Chopra", "city_state_zip": null, "amount": 50.00, "occupation": "Tech Principal", "employer": "Divergent", "oos_pac": false},
+        {"date": "11/14/21", "name": "Brandy Mueller", "city_state_zip": null, "amount": 50.00, "occupation": "Judge", "employer": "Travis County", "oos_pac": false},
+        {"date": "11/14/21", "name": "Shenghao Wang", "city_state_zip": null, "amount": 50.00, "occupation": "Not employed", "employer": "Not employed", "oos_pac": false},
+        {"date": "11/14/21", "name": "Samira Ghosh", "city_state_zip": null, "amount": 50.00, "occupation": "Management", "employer": "AFSSA", "oos_pac": false}
+      ]
+    }
+  ]
+}

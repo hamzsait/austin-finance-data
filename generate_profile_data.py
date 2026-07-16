@@ -105,6 +105,30 @@ CANDIDATE_CYCLES = {
     # Mayor
     'watson':       [{'label': 'Term 1',       'election_year': 2022, 'start_year': None, 'end_year': 2025},
                      {'label': 'Reelection',   'election_year': 2026, 'start_year': 2026, 'end_year': None}],
+
+    # ── Travis County Commissioners Court (4-year terms; judge + pcts 2,4 on
+    # gubernatorial years, pcts 1,3 on presidential years). County filings
+    # ingested from travis_county_filings/ cover 2016->present. ────────────
+    'brown':        [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'travillion':   [{'label': 'Initial Run',  'election_year': 2016, 'start_year': None, 'end_year': 2016},
+                     {'label': 'Re-election',  'election_year': 2020, 'start_year': 2017, 'end_year': 2020},
+                     {'label': 'Re-election',  'election_year': 2024, 'start_year': 2021, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'shea':         [{'label': 'Re-election',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
+                     {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'howard':       [{'label': 'Re-election',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
+                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    'gomez':        [{'label': 'Re-election',  'election_year': 2018, 'start_year': None, 'end_year': 2018},
+                     {'label': 'Re-election',  'election_year': 2022, 'start_year': 2019, 'end_year': 2022},
+                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+}
+
+# Earliest contribution_year included in a profile (default 2018 = start of
+# clean city data). County officials have clean county filings back to 2016.
+CANDIDATE_MIN_YEAR = {
+    'brown': 2016, 'travillion': 2016, 'shea': 2016, 'howard': 2016, 'gomez': 2016,
 }
 
 
@@ -375,10 +399,12 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     candidate_name = recipient  # fallback
 
     # ── Base filter ───────────────────────────────────────────────────────────
-    # All queries use this same WHERE clause
-    BASE_WHERE = """
+    # All queries use this same WHERE clause. City data starts 2018; Travis
+    # County officials have clean filings back to 2016 (see CANDIDATE_MIN_YEAR).
+    min_year = CANDIDATE_MIN_YEAR.get(slug_override, 2018)
+    BASE_WHERE = f"""
         cf.recipient LIKE ?
-        AND cf.contribution_year >= 2018
+        AND cf.contribution_year >= {min_year}
         AND COALESCE(cf.balanced_amount, cf.contribution_amount) > 0
     """
     base_params = (f"%{candidate_fragment}%",)

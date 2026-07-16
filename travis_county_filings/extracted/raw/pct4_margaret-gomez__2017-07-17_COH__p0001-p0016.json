@@ -1,0 +1,107 @@
+{
+  "chunk": "pct4_margaret-gomez__2017-07-17_COH__p0001-p0016",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gomez, Margaret J.",
+      "report_type": "July 15",
+      "period_from": "01/01/17",
+      "period_through": "06/30/17",
+      "office_held": "Travis County Commissioner, Pct. 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 13850.06,
+      "total_contributions": 1500.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 240.00,
+      "contribution_balance": 15110.06,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "C/OH COVER SHEET PG 3 - Schedule Subtotals"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": [
+        {
+          "date": "5/26/17",
+          "name": "Spataro, Susan",
+          "city_state_zip": "Austin, TX 78749",
+          "amount": 1500.00,
+          "occupation": "Financial Auditor",
+          "employer": "Retired",
+          "oos_pac": false
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A2",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE B - Pledged Contributions (None)"
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE E - Loans (None)"
+    },
+    {
+      "page": 8,
+      "type": "OTHER",
+      "label": "SCHEDULE F1 - Political Expenditures Made From Political Contributions"
+    },
+    {
+      "page": 9,
+      "type": "OTHER",
+      "label": "SCHEDULE F2 - Unpaid Incurred Obligations (None)"
+    },
+    {
+      "page": 10,
+      "type": "OTHER",
+      "label": "SCHEDULE F3 - Purchase of Investments (None)"
+    },
+    {
+      "page": 11,
+      "type": "OTHER",
+      "label": "SCHEDULE F4 - Expenditures Made by Credit Card (None)"
+    },
+    {
+      "page": 12,
+      "type": "OTHER",
+      "label": "SCHEDULE G - Political Expenditures Made From Personal Funds (None)"
+    },
+    {
+      "page": 13,
+      "type": "OTHER",
+      "label": "SCHEDULE H - Payment Made From Political Contributions to a Business of C/OH (None)"
+    },
+    {
+      "page": 14,
+      "type": "OTHER",
+      "label": "SCHEDULE I - Non-Political Expenditures Made From Political Contributions (None)"
+    },
+    {
+      "page": 15,
+      "type": "OTHER",
+      "label": "SCHEDULE K - Interest, Credits, Gains, Refunds, and Contributions Returned to Filer (None)"
+    },
+    {
+      "page": 16,
+      "type": "OTHER",
+      "label": "SCHEDULE T - In-Kind Contributions or Political Expenditures for Travel Outside of Texas (None)"
+    }
+  ]
+}

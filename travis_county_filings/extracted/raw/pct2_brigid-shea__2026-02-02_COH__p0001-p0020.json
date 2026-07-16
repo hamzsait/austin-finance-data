@@ -1,0 +1,67 @@
+{"chunk": "pct2_brigid-shea__2026-02-02_COH__p0001-p0020", "pages": [
+  {"page": 1, "type": "OTHER", "label": "Unsworn Declaration (Form UD)"},
+  {"page": 2, "type": "COVER1", "filer_name": "Shea, Brigid", "report_type": "30th day before election", "period_from": "01/01/2026", "period_through": "01/22/2026", "office_held": "County Commissioner, Precinct 2 Travis", "correction": false},
+  {"page": 3, "type": "COVER2", "total_unitemized_contributions": 0.00, "total_contributions": 24125.00, "total_unitemized_expenditures": 0.00, "total_expenditures": 49757.00, "contribution_balance": 141435.74, "outstanding_loans": 0.00},
+  {"page": 4, "type": "COVER3", "label": "C/OH COVER SHEET PG 3 - SUBTOTALS"},
+  {"page": 5, "type": "A1", "sch_pos": "1/8", "entries": [
+    {"date": "01/08/2026", "name": "Albert, David", "city_state_zip": "Austin, TX 78741-3513", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/10/2026", "name": "Alford, Jack", "city_state_zip": "Lago Vista, TX 78645-6535", "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/01/2026", "name": "Andy Brown Campaign", "city_state_zip": "Austin, TX 78703-0002", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/07/2026", "name": "Ann Gill Howard Campaign Account", "city_state_zip": "Marble Falls, TX 78654-3786", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Aroian, Karen", "city_state_zip": "Austin, TX 78757-1636", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 6, "type": "A1", "sch_pos": "2/8", "entries": [
+    {"date": "01/21/2026", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757-3129", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Chapa, Paul", "city_state_zip": "Corpus Christi, TX 78414-6016", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Doggett, Lisa", "city_state_zip": "Austin, TX 78703-4028", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/06/2026", "name": "Flores, Maria", "city_state_zip": "Austin, TX 78746-5776", "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Greenberg, Betsy", "city_state_zip": "Austin, TX 78705-2217", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 7, "type": "A1", "sch_pos": "3/8", "entries": [
+    {"date": "01/08/2026", "name": "Haass, Richard", "city_state_zip": "San Antonio, TX 78232-5052", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Harkey, Beverly", "city_state_zip": "Austin, TX 78757-2104", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Heidrick, Robert", "city_state_zip": "Austin, TX 78701", "amount": 206.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/20/2026", "name": "Jaffe, Morris", "city_state_zip": "Horseshoe Bay, TX 78657-5703", "amount": 2060.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/07/2026", "name": "Jeff Travillion Campaign", "city_state_zip": "Austin, TX 78768-2425", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 8, "type": "A1", "sch_pos": "4/8", "entries": [
+    {"date": "01/08/2026", "name": "Kiolbassa, Jolene", "city_state_zip": "Austin, TX 78705-2113", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Langmore, John", "city_state_zip": "Austin, TX 78703-1902", "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/05/2026", "name": "Lash, John", "city_state_zip": "Austin, TX 78756-2910", "amount": 309.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/15/2026", "name": "Liberal Austin Democrats", "city_state_zip": "Austin, TX 78765", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Linebarger Goggan Blair & Sampson LLP", "city_state_zip": "Austin, TX 78760-7428", "amount": 3500.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 9, "type": "A1", "sch_pos": "5/8", "entries": [
+    {"date": "01/04/2026", "name": "Lloyd Doggett For Congress", "city_state_zip": "Austin, TX 78763-5843", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Miller, William", "city_state_zip": "Austin, TX 78703-2217", "amount": 5000.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Nguyen, Pierre", "city_state_zip": "Austin, TX 78753-2230", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Parker, James", "city_state_zip": "Austin, TX 78757-2329", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/04/2026", "name": "Pflugerville Firefighters PAC", "city_state_zip": "Pflugerville, TX 78691-2615", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 10, "type": "A1", "sch_pos": "6/8", "entries": [
+    {"date": "01/08/2026", "name": "Pokluda, Melanie", "city_state_zip": "Austin, TX 78703-4723", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/07/2026", "name": "Rather, Dawn", "city_state_zip": "Austin, TX 78704-2162", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Reynolds, Joseph", "city_state_zip": "Austin, TX 78731-5636", "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Schatz, Jo Ann", "city_state_zip": "Austin, TX 78702-1030", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/15/2026", "name": "Shapiro, Robert", "city_state_zip": "Austin, TX 78768-2115", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 11, "type": "A1", "sch_pos": "7/8", "entries": [
+    {"date": "01/08/2026", "name": "Shocket, Richard", "city_state_zip": "Austin, TX 78757-4366", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Tolleson, Mike", "city_state_zip": "Austin, TX 78702-1342", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Vanbavel, Linda", "city_state_zip": "Austin, TX 78751-4601", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/17/2026", "name": "Waley, Roy", "city_state_zip": "Austin, TX 78756-1749", "amount": 25.75, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/21/2026", "name": "Weigand, Ingrid", "city_state_zip": "Austin, TX 78704-2344", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 12, "type": "A1", "sch_pos": "8/8", "entries": [
+    {"date": "01/08/2026", "name": "Wickert, Julie", "city_state_zip": "Austin, TX 78757-8324", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+    {"date": "01/08/2026", "name": "Yarnell, William", "city_state_zip": "Austin, TX 78709-1146", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+  ]},
+  {"page": 13, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 14, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 15, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 16, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 17, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 18, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 19, "type": "OTHER", "label": "SCHEDULE F1"},
+  {"page": 20, "type": "OTHER", "label": "SCHEDULE F1"}
+]}

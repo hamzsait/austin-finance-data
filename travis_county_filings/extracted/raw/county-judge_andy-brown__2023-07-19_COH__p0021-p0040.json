@@ -1,0 +1,145 @@
+{
+  "chunk": "county-judge_andy-brown__2023-07-19_COH__p0021-p0040",
+  "pages": [
+    {"page": 21, "type": "A1", "sch_pos": "18/54", "entries": [
+      {"date": "05/03/2023", "name": "Green, Kathleen", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "06/03/2023", "name": "Green, Kathleen", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/12/2023", "name": "Griffith, Idona", "city_state_zip": "Austin, TX 78759", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "06/02/2023", "name": "Grigson, Chuck", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": "Attorney", "employer": "Law Office of Charles O. Grigson", "oos_pac": false},
+      {"date": "05/30/2023", "name": "Gruver, Lori", "city_state_zip": "Austin, TX 78739", "amount": 500.00, "occupation": "Partner", "employer": "Linebarger Goggan Blair & Sampson LLP", "oos_pac": false}
+    ]},
+    {"page": 22, "type": "A1", "sch_pos": "19/54", "entries": [
+      {"date": "05/11/2023", "name": "Guthikonda, Gopal", "city_state_zip": "Austin, TX 78720", "amount": 250.00, "occupation": "Engineer", "employer": "CP&Y Inc.", "oos_pac": false},
+      {"date": "05/31/2023", "name": "Haass, Richard", "city_state_zip": "San Antonio, TX 78258", "amount": 500.00, "occupation": "President", "employer": "Council on Foreign Relations", "oos_pac": false},
+      {"date": "05/16/2023", "name": "Haines, Randall", "city_state_zip": "Austin, TX 78750", "amount": 10.65, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/30/2023", "name": "Haley, Anthony", "city_state_zip": "Austin, TX 78701", "amount": 1000.00, "occupation": "Consultant", "employer": "HMWK LLC", "oos_pac": false},
+      {"date": "05/31/2023", "name": "Hart, Dennis", "city_state_zip": "Austin, TX 78749", "amount": 100.00, "occupation": "Marketing Representative", "employer": "Linebarger Goggan Blair & Sampson LLP", "oos_pac": false}
+    ]},
+    {"page": 23, "type": "A1", "sch_pos": "20/54", "entries": [
+      {"date": "05/29/2023", "name": "Heidrick, Clarke", "city_state_zip": "Austin, TX 78731", "amount": 500.00, "occupation": "Partner", "employer": "McGinnis Lochridge", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Herzog, Alexis", "city_state_zip": "Austin, TX 78739", "amount": 500.00, "occupation": "Business Development", "employer": "Gensler", "oos_pac": false},
+      {"date": "05/16/2023", "name": "Hesson, Shane", "city_state_zip": "Austin, TX 78733", "amount": 250.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/13/2023", "name": "Hesson, Shane", "city_state_zip": "Austin, TX 78733", "amount": 57.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/10/2023", "name": "Hoffman, Paul", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Executive", "employer": "Calendar Holdings LLC", "oos_pac": false}
+    ]},
+    {"page": 24, "type": "A1", "sch_pos": "21/54", "entries": [
+      {"date": "05/15/2023", "name": "Hudson, Harrison", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": "Civil Engineer", "employer": "Kimley-Horn", "oos_pac": false},
+      {"date": "05/01/2023", "name": "Hughes, Michelle", "city_state_zip": "Austin, TX 78703", "amount": 15.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/22/2023", "name": "Hunt, Meta", "city_state_zip": "Austin, TX 78746", "amount": 100.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Islam, Rashed", "city_state_zip": "Austin, TX 78732", "amount": 250.00, "occupation": "Engineer", "employer": "HDR Engineering Inc.", "oos_pac": false},
+      {"date": "05/31/2023", "name": "Jackson, Dee", "city_state_zip": "Austin, TX 78746", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+    ]},
+    {"page": 25, "type": "A1", "sch_pos": "22/54", "entries": [
+      {"date": "01/09/2023", "name": "Jarry, Alicia", "city_state_zip": "Austin, TX 78705", "amount": 10.00, "occupation": "Psychotherapist", "employer": "Self", "oos_pac": false},
+      {"date": "02/09/2023", "name": "Jarry, Alicia", "city_state_zip": "Austin, TX 78705", "amount": 10.00, "occupation": "Psychotherapist", "employer": "Self", "oos_pac": false},
+      {"date": "03/09/2023", "name": "Jarry, Alicia", "city_state_zip": "Austin, TX 78705", "amount": 10.00, "occupation": "Psychotherapist", "employer": "Self", "oos_pac": false},
+      {"date": "04/09/2023", "name": "Jarry, Alicia", "city_state_zip": "Austin, TX 78705", "amount": 10.00, "occupation": "Psychotherapist", "employer": "Self", "oos_pac": false},
+      {"date": "05/09/2023", "name": "Jarry, Alicia", "city_state_zip": "Austin, TX 78705", "amount": 10.00, "occupation": "Psychotherapist", "employer": "Self", "oos_pac": false}
+    ]},
+    {"page": 26, "type": "A1", "sch_pos": "23/54", "entries": [
+      {"date": "06/04/2023", "name": "Johnson, Gordon", "city_state_zip": "Austin, TX 78701", "amount": 2500.00, "occupation": "Attorney", "employer": "Johnson and Johnson", "oos_pac": false},
+      {"date": "04/28/2023", "name": "Johnson, Luci", "city_state_zip": "Austin, TX 78701", "amount": 5000.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "01/11/2023", "name": "Joseph, Thomas", "city_state_zip": "Austin, TX 78723", "amount": 1000.00, "occupation": "Developer", "employer": "Joseph Design Build", "oos_pac": false},
+      {"date": "06/26/2023", "name": "KPW PAC", "city_state_zip": "Austin, TX 78768", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "05/30/2023", "name": "Kaplan, Austin", "city_state_zip": "Austin, TX 78726", "amount": 500.00, "occupation": "Attorney", "employer": "Kaplan Law Firm", "oos_pac": false}
+    ]},
+    {"page": 27, "type": "A1", "sch_pos": "24/54", "entries": [
+      {"date": "05/15/2023", "name": "Kennard, Karen", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": "Attorney", "employer": "Greenberg Traurig LLP", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Khataw, Ali", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": "CEO", "employer": "Encotech", "oos_pac": false},
+      {"date": "05/13/2023", "name": "King, Micah", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": "Attorney", "employer": "Husch Blackwell", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Kopser, Joseph", "city_state_zip": "Austin, TX 78739", "amount": 75.00, "occupation": "President", "employer": "Grayline Group", "oos_pac": false},
+      {"date": "02/19/2023", "name": "Korioth, Ann", "city_state_zip": "Austin, TX 78735", "amount": 100.00, "occupation": "Pricing Director", "employer": "DXC.Technology", "oos_pac": false}
+    ]},
+    {"page": 28, "type": "A1", "sch_pos": "25/54", "entries": [
+      {"date": "05/30/2023", "name": "Kumar, Sam", "city_state_zip": "Austin, TX 78746", "amount": 5000.00, "occupation": "President", "employer": "Journeyman", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Kunik, Daryl", "city_state_zip": "Austin, TX 78704", "amount": 1000.00, "occupation": "Founder and Principal", "employer": "TOPO Development Group", "oos_pac": false},
+      {"date": "06/05/2023", "name": "Lambeth, Jim", "city_state_zip": "Flint, TX 75762", "amount": 500.00, "occupation": "Attorney", "employer": "Linebarger Goggan Blair Sampson LLP", "oos_pac": false},
+      {"date": "05/13/2023", "name": "Langmore, John", "city_state_zip": "Austin, TX 78703", "amount": 150.00, "occupation": "Photographer", "employer": "Self", "oos_pac": false},
+      {"date": "05/30/2023", "name": "Lawson, Revlynn", "city_state_zip": "Austin, TX 78723", "amount": 200.00, "occupation": "Attorney", "employer": "Linebarger Goggan Blair & Sampson LLP", "oos_pac": false}
+    ]},
+    {"page": 29, "type": "A1", "sch_pos": "26/54", "entries": [
+      {"date": "05/15/2023", "name": "Levy, Stephen", "city_state_zip": "Austin, TX 78755", "amount": 500.00, "occupation": "Architect", "employer": "Levy Dykema", "oos_pac": false},
+      {"date": "05/17/2023", "name": "Lickteig, Josh", "city_state_zip": "Austin, TX 78735", "amount": 250.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/13/2023", "name": "Lickteig, Josh", "city_state_zip": "Austin, TX 78735", "amount": 57.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/07/2023", "name": "Liemandt, Joe", "city_state_zip": "Austin, TX 78703", "amount": 75000.00, "occupation": "Software", "employer": "Trilogy", "oos_pac": false},
+      {"date": "06/07/2023", "name": "Liemandt, Joe", "city_state_zip": "Austin, TX 78701", "amount": 25000.00, "occupation": "Software", "employer": "Trilogy", "oos_pac": false}
+    ]},
+    {"page": 30, "type": "A1", "sch_pos": "27/54", "entries": [
+      {"date": "05/25/2023", "name": "Linebarger Goggan Blair & Sampson LLP", "city_state_zip": "Austin, TX 78760", "amount": 5000.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "06/01/2023", "name": "Linebarger, Dale", "city_state_zip": "Austin, TX 78703", "amount": 5000.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/31/2023", "name": "Lipman, Robert", "city_state_zip": "Austin, TX 78716", "amount": 25.00, "occupation": "Travel Planner", "employer": "Summit Management Services", "oos_pac": false},
+      {"date": "06/05/2023", "name": "Lopez, Bridget", "city_state_zip": "Dallas, TX 75207", "amount": 500.00, "occupation": "Partner", "employer": "Linebarger Goggan Blair Sampson LLP", "oos_pac": false},
+      {"date": "05/30/2023", "name": "Lopez, Edward", "city_state_zip": "Irving, TX 75038", "amount": 500.00, "occupation": "Attorney", "employer": "Linebarger Goggan Blair Sampson LLP", "oos_pac": false}
+    ]},
+    {"page": 31, "type": "A1", "sch_pos": "28/54", "entries": [
+      {"date": "05/22/2023", "name": "Lorenz, Perry", "city_state_zip": "Austin, TX 78702", "amount": 1000.00, "occupation": "Real Estate", "employer": "Self", "oos_pac": false},
+      {"date": "01/31/2023", "name": "Lowry, Ben", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "02/28/2023", "name": "Lowry, Ben", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "03/31/2023", "name": "Lowry, Ben", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "04/30/2023", "name": "Lowry, Ben", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+    ]},
+    {"page": 32, "type": "A1", "sch_pos": "29/54", "entries": [
+      {"date": "05/31/2023", "name": "Lowry, Ben", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "06/30/2023", "name": "Lowry, Ben", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "01/18/2023", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "02/18/2023", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "03/18/2023", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false}
+    ]},
+    {"page": 33, "type": "A1", "sch_pos": "30/54", "entries": [
+      {"date": "04/18/2023", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "05/18/2023", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "06/18/2023", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "06/28/2023", "name": "Lubetzky, Daniel", "city_state_zip": "Austin, TX 78763", "amount": 10000.00, "occupation": "Founder", "employer": "KIND", "oos_pac": false},
+      {"date": "05/14/2023", "name": "Malik, Amrin", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Business", "employer": "HOFT Institute", "oos_pac": false}
+    ]},
+    {"page": 34, "type": "A1", "sch_pos": "31/54", "entries": [
+      {"date": "05/14/2023", "name": "Malik, Zeeshan", "city_state_zip": "Austin, TX 78704", "amount": 250.00, "occupation": "Attorney", "employer": "Malik Legal Group PLLC", "oos_pac": false},
+      {"date": "05/24/2023", "name": "Malmstrom, Debbie", "city_state_zip": "Austin, TX 78733", "amount": 50.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "06/09/2023", "name": "Marks, Mozelle", "city_state_zip": "Austin, TX 78759", "amount": 5.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Marsh, Charles", "city_state_zip": "Austin, TX 78703", "amount": 400.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/12/2023", "name": "Marsh, Charles", "city_state_zip": "Austin, TX 78703", "amount": 91.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 35, "type": "A1", "sch_pos": "32/54", "entries": [
+      {"date": "06/14/2023", "name": "Marsh, Will", "city_state_zip": "Austin, TX 78746", "amount": 57.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "05/17/2023", "name": "Marsh, William", "city_state_zip": "Austin, TX 78746", "amount": 400.00, "occupation": "Principal", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "05/22/2023", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "06/06/2023", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 25.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "06/22/2023", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false}
+    ]},
+    {"page": 36, "type": "A1", "sch_pos": "33/54", "entries": [
+      {"date": "05/15/2023", "name": "Martinez, Mike", "city_state_zip": "Austin, TX 78653", "amount": 1000.00, "occupation": "Consultant", "employer": "Self", "oos_pac": false},
+      {"date": "04/30/2023", "name": "Mason, Barbara", "city_state_zip": "Austin, TX 78726", "amount": 50.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/31/2023", "name": "Mason, John Duncan", "city_state_zip": "Dallas, TX 75204", "amount": 100.00, "occupation": "Real Estate", "employer": "USM", "oos_pac": false},
+      {"date": "05/23/2023", "name": "Maxson, Peter", "city_state_zip": "Austin, TX 78751", "amount": 125.00, "occupation": "Architectural History", "employer": "Self", "oos_pac": false},
+      {"date": "06/22/2023", "name": "May, David", "city_state_zip": "Austin, TX 78746", "amount": 5000.00, "occupation": "Investments", "employer": "Lkcm", "oos_pac": false}
+    ]},
+    {"page": 37, "type": "A1", "sch_pos": "34/54", "entries": [
+      {"date": "05/22/2023", "name": "McElroy, Jim", "city_state_zip": "Austin, TX 78757", "amount": 10.00, "occupation": "Financial Analyst", "employer": "Health and Human Svcs Dept", "oos_pac": false},
+      {"date": "04/26/2023", "name": "McHorse, Edward and Cathy", "city_state_zip": "Austin, TX 78731", "amount": 1000.00, "occupation": "Attorney", "employer": "McGinnis Lochridge", "oos_pac": false},
+      {"date": "05/15/2023", "name": "McLean & Howard L.L.P.", "city_state_zip": "Austin, TX 78731", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "06/27/2023", "name": "McLellan, Jason", "city_state_zip": "Austin, TX 78730", "amount": 5000.00, "occupation": "Professor", "employer": "The University of Texas at Austin", "oos_pac": false},
+      {"date": "05/24/2023", "name": "McMichael, James", "city_state_zip": "Austin, TX 78703", "amount": 100.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+    ]},
+    {"page": 38, "type": "A1", "sch_pos": "35/54", "entries": [
+      {"date": "05/30/2023", "name": "McWilliams, Andrea", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": "Consultant", "employer": "McWilliams Government Affairs", "oos_pac": false},
+      {"date": "06/09/2023", "name": "Merubia, Sonia", "city_state_zip": "Austin, TX 78704", "amount": 5.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/10/2023", "name": "Metcalfe Wolff Stuart & Williams LLP", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+      {"date": "06/21/2023", "name": "Meyers, Lucas", "city_state_zip": "Austin, TX 78756", "amount": 250.00, "occupation": "Governmental Affairs Consultant", "employer": "Governmental Affairs LLC", "oos_pac": false},
+      {"date": "05/16/2023", "name": "Miller, Bryce", "city_state_zip": "Austin, TX 78746", "amount": 400.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 39, "type": "A1", "sch_pos": "36/54", "entries": [
+      {"date": "06/15/2023", "name": "Miller, Bryce", "city_state_zip": "Austin, TX 78746", "amount": 91.00, "occupation": "Managing Principal", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/01/2023", "name": "Nelson, Norma", "city_state_zip": "Houston, TX 77046", "amount": 500.00, "occupation": "Attorney", "employer": "Linebarger Goggan Blair & Sampson LLP", "oos_pac": false},
+      {"date": "05/11/2023", "name": "Neslund, Melissa", "city_state_zip": "Austin, TX 78735", "amount": 1000.00, "occupation": "Development Manager", "employer": "Stratus Properties", "oos_pac": false},
+      {"date": "05/15/2023", "name": "Newberg, Jeffrey", "city_state_zip": "Austin, TX 78746", "amount": 400.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "06/14/2023", "name": "Newberg, Jeffrey", "city_state_zip": "Austin, TX 78746", "amount": 57.00, "occupation": "real estate", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]},
+    {"page": 40, "type": "A1", "sch_pos": "37/54", "entries": [
+      {"date": "06/12/2023", "name": "Northington, Charlie", "city_state_zip": "Austin, TX 78716", "amount": 91.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "05/16/2023", "name": "Northington, Robert", "city_state_zip": "Austin, TX 78701", "amount": 400.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false},
+      {"date": "05/10/2023", "name": "OHayer, Matthew", "city_state_zip": "Austin, TX 78704", "amount": 1000.00, "occupation": "CEO", "employer": "Vital Farms", "oos_pac": false},
+      {"date": "06/09/2023", "name": "Oakes, Pat", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+      {"date": "05/17/2023", "name": "Osherow, Billy", "city_state_zip": "Austin, TX 78731", "amount": 250.00, "occupation": "Real Estate", "employer": "Endeavor Real Estate Group", "oos_pac": false}
+    ]}
+  ]
+}

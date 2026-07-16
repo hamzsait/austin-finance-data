@@ -1,0 +1,8 @@
+{
+  "report": "pct4_margaret-gomez__2022-01-31_COH",
+  "verdict": "filer_error",
+  "changes": [],
+  "expected_delta_after_fix": 59.40,
+  "evidence": "All five A1 entries re-verified at high zoom: Saxena $50.00, Mayo $5,060.00 (digits '5-0-6-0.00' unambiguous, cents are two plain circles), Mok $100.00, Henderson $50.00 (p4), TCS Law Enforcement PAC $7,000.00 (p5). A2 empty. Itemized sum = $12,260.00 exactly. Filer's own COVER3 subtotal page (p3) writes Schedule A1 as $12,260.60 (hundreds group '2-6-0' and cents '.60' both show the writer's distinctive looped-ascender 6, unlike her plain-circle zeros), while COVER2 line 2 (p2) writes $12,200.60 (hundreds group '2-0-0', plain ovals; cents '.60' with clear 6-ascender). The two cover pages disagree with each other AND with the true entry sum, so the discrepancy is the filer's transcription/arithmetic, not extraction. The stray 60 cents likely bled over from the adjacent $11,031.60 expenditures figure written on both pages. Prior-report chain check (2022-01-18 balance $67,685.06 + $12,260.00 - $11,031.60 = $68,913.46 vs reported $68,873.46) doesn't reconcile under any reading, confirming loose filer arithmetic.",
+  "note": "No JSON changes made. total_contributions kept at 12200.60, the best reading of the handwritten COVER2 line (cents definitively .60, not .00; hundreds group reads '200' not '260'). Entry amounts total 12260.00 and are all individually verified; delta of +59.40 vs cover stands as a filer error."
+}

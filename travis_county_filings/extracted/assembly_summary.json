@@ -1,0 +1,34 @@
+{
+ "total_rows": 5894,
+ "total_amount": 3397473.59,
+ "by_official": {
+  "county-judge_andy-brown": {
+   "rows": 2750,
+   "amount": 1429392.32
+  },
+  "pct1_jeff-travillion": {
+   "rows": 957,
+   "amount": 619514.0
+  },
+  "pct2_brigid-shea": {
+   "rows": 1314,
+   "amount": 789214.0
+  },
+  "pct3_ann-howard": {
+   "rows": 692,
+   "amount": 399089.15
+  },
+  "pct4_margaret-gomez": {
+   "rows": 181,
+   "amount": 160264.12
+  }
+ },
+ "reports_included": 67,
+ "superseded": [
+  "pct2_brigid-shea__2022-01-31_COH"
+ ],
+ "excluded": [],
+ "notes": [
+  "pct2_brigid-shea__2022-01-31_COH superseded by pct2_brigid-shea__2022-02-01_COH (same period 01/01/2022-01/20/2022)"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+  "chunk": "pct4_margaret-gomez__2025-07-15_COH__p0001-p0005",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gomez, Margaret J",
+      "report_type": "July 15",
+      "period_from": "01/16/25",
+      "period_through": "06/30/25",
+      "office_held": "TRAVIS CO. COMMISSIONER, PRECINCT 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 0.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 0.00,
+      "contribution_balance": null,
+      "outstanding_loans": 0.00,
+      "uncertain": true,
+      "note": "contribution_balance (box 5) is a handwritten figure with overlapping/overwritten strokes before '920.41' - could read as $4920.41 or $9920.41, digit not legible"
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH, COVER SHEET PG 3 (all schedule subtotals $-0-)"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE F1 (None made)"
+    }
+  ]
+}

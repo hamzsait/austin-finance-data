@@ -1,0 +1,150 @@
+{
+  "chunk": "county-judge_andy-brown__2022-01-18_COH__p0001-p0020",
+  "pages": [
+    {"page": 1, "type": "COVER1", "filer_name": "Brown, Andy",
+     "report_type": "January 15", "period_from": "07/01/2021",
+     "period_through": "12/31/2021", "office_held": "Travis County Judge",
+     "correction": false},
+    {"page": 2, "type": "COVER2", "total_unitemized_contributions": 0.00,
+     "total_contributions": 316123.76, "total_unitemized_expenditures": 0.00,
+     "total_expenditures": 114371.07, "contribution_balance": 571690.77,
+     "outstanding_loans": 0.00},
+    {"page": 3, "type": "COVER3", "label": "SUBTOTALS - C/OH"},
+    {"page": 4, "type": "A1", "sch_pos": "1/126",
+     "entries": [
+       {"date": "10/05/2021", "name": "Abold, Susan", "city_state_zip": "Austin, TX 78758", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/31/2021", "name": "Adams, Austin", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": "IT", "employer": "American Innovations", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Aktary, Lara", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": "Advertising", "employer": "GSD&M", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Aleman, Susana", "city_state_zip": "Austin, TX 78828", "amount": 3.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "07/27/2021", "name": "Allford, Phillip", "city_state_zip": "Austin, TX 78734", "amount": 50.00, "occupation": "Retired", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 5, "type": "A1", "sch_pos": "2/126",
+     "entries": [
+       {"date": "12/31/2021", "name": "Alter, Alison", "city_state_zip": "Austin, TX 78756", "amount": 25.00, "occupation": "City Council Member", "employer": "City of Austin", "oos_pac": false},
+       {"date": "12/31/2021", "name": "Arkinson, Carson", "city_state_zip": "Austin, TX 78745", "amount": 25.00, "occupation": "Legal", "employer": "The Law Office of Cicily Simms", "oos_pac": false},
+       {"date": "08/19/2021", "name": "Artale, Bonnie Kay", "city_state_zip": "Cedar Park, TX 78613", "amount": 5.00, "occupation": "Mary Kay Beauty Consultant", "employer": "Self", "oos_pac": false},
+       {"date": "10/30/2021", "name": "Ausley, Robbie", "city_state_zip": "Austin, TX 78731", "amount": 250.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "10/27/2021", "name": "Ausley, Robbie", "city_state_zip": "Austin, TX 78731", "amount": 74.25, "occupation": "Retired", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 6, "type": "A1", "sch_pos": "3/126",
+     "entries": [
+       {"date": "08/18/2021", "name": "Austin Firefighters Association PAC", "city_state_zip": "Austin, TX 78752", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/29/2021", "name": "Avey, Ethan", "city_state_zip": "Austin, TX 78703", "amount": 10.00, "occupation": "Senior Product Manager", "employer": "Workrise", "oos_pac": false},
+       {"date": "12/30/2021", "name": "Avey, Ethan", "city_state_zip": "Austin, TX 78702", "amount": 25.00, "occupation": "Product Manager", "employer": "Indeed", "oos_pac": false},
+       {"date": "09/30/2021", "name": "Ayer, Mason", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "CEO", "employer": "Kerbey Lane Cafe", "oos_pac": false},
+       {"date": "10/31/2021", "name": "Ayres, Patricia", "city_state_zip": "Austin, TX 78746", "amount": 50.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 7, "type": "A1", "sch_pos": "4/126",
+     "entries": [
+       {"date": "12/07/2021", "name": "Ayres, Robert", "city_state_zip": "Austin, TX 78746", "amount": 2500.00, "occupation": "Attorney", "employer": "The Law Office of David E Goodman", "oos_pac": false},
+       {"date": "08/06/2021", "name": "Badger, Elizabeth", "city_state_zip": "Austin, TX 78704", "amount": 20.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/15/2021", "name": "Badger, Elizabeth", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/08/2021", "name": "Baines Johnson, Luci", "city_state_zip": "Austin, TX 78701", "amount": 5000.00, "occupation": "Philanthropist", "employer": "Self", "oos_pac": false},
+       {"date": "12/08/2021", "name": "Baines Johnson, Luci", "city_state_zip": "114 W 7th St, Suite 900, Austin, TX 78701", "amount": 5000.00, "occupation": "Philanthropist", "employer": "Self", "oos_pac": false}
+     ]},
+    {"page": 8, "type": "A1", "sch_pos": "5/126",
+     "entries": [
+       {"date": "10/29/2021", "name": "Bajwa, Yusuf", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": "Attorney", "employer": "Sanders Bajwa LLP", "oos_pac": false},
+       {"date": "10/05/2021", "name": "Baldwin, Victoria", "city_state_zip": "Austin, TX 78752", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "10/29/2021", "name": "Baldwin, Victoria", "city_state_zip": "Austin, TX 78752", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "11/29/2021", "name": "Baldwin, Victoria", "city_state_zip": "Austin, TX 78752", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/29/2021", "name": "Baldwin, Victoria", "city_state_zip": "Austin, TX 78752", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 9, "type": "A1", "sch_pos": "6/126",
+     "entries": [
+       {"date": "11/18/2021", "name": "Bangle, Shannon", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": "Attorney", "employer": "Bangle & Potter PLLC", "oos_pac": false},
+       {"date": "09/09/2021", "name": "Barrios, Rossana", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "11/18/2021", "name": "Bates, Ryan", "city_state_zip": "Austin, TX 78705", "amount": 200.00, "occupation": "Attorney", "employer": "Bates PLLC", "oos_pac": false},
+       {"date": "08/12/2021", "name": "Batlan, Bob", "city_state_zip": "Austin, TX 78738", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/16/2021", "name": "Batlan, Bob", "city_state_zip": "Austin, TX 78738", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 10, "type": "A1", "sch_pos": "7/126",
+     "entries": [
+       {"date": "08/26/2021", "name": "Batlan, Robert", "city_state_zip": "Austin, TX 78738", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "09/30/2021", "name": "Batlan, Robert", "city_state_zip": "Austin, TX 78738", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/31/2021", "name": "Beall, Jonathan", "city_state_zip": "Austin, TX 78721", "amount": 50.00, "occupation": "Copper", "employer": "Sertodo", "oos_pac": false},
+       {"date": "11/15/2021", "name": "Beatty, Matt", "city_state_zip": "Austin, TX 78737", "amount": 125.00, "occupation": "Attorney", "employer": "Beatty Navarre Strama PC", "oos_pac": false},
+       {"date": "09/22/2021", "name": "Been, Nichole", "city_state_zip": "Manchaca, TX 78652", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 11, "type": "A1", "sch_pos": "8/126",
+     "entries": [
+       {"date": "10/29/2021", "name": "Bergin, Janine", "city_state_zip": "Austin, TX 78702", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Berlin, Raymond", "city_state_zip": "Austin, TX 78741", "amount": 10.00, "occupation": "Builder", "employer": "Self", "oos_pac": false},
+       {"date": "08/06/2021", "name": "Bessent, Nancy", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Retired", "employer": "None", "oos_pac": false},
+       {"date": "07/13/2021", "name": "Bhatt, Bhuvanesh", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Software Developer", "employer": "Wolfram Research", "oos_pac": false},
+       {"date": "08/29/2021", "name": "Bhatt, Bhuvanesh", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Software developer", "employer": "Wolfram Research", "oos_pac": false}
+     ]},
+    {"page": 12, "type": "A1", "sch_pos": "9/126",
+     "entries": [
+       {"date": "12/03/2021", "name": "Bingham, Bill", "city_state_zip": "Austin, TX 78751", "amount": 125.00, "occupation": "Attorney", "employer": "McGinnis Lochridge", "oos_pac": false},
+       {"date": "09/30/2021", "name": "Bitner, Marylin", "city_state_zip": "Los Angeles, CA 90004", "amount": 250.00, "occupation": "Entertainment industry", "employer": "Plan A Locations", "oos_pac": false},
+       {"date": "10/31/2021", "name": "Bitner, Marylin", "city_state_zip": "Los Angeles, CA 90004", "amount": 250.00, "occupation": "Entertainment industry", "employer": "Plan A Locations", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Bitner, Marylin", "city_state_zip": "Los Angeles, CA 90004", "amount": 250.00, "occupation": "Entertainment industry", "employer": "Plan A Locations", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Blackman, Jeremy", "city_state_zip": "Austin, TX 78704", "amount": 100.00, "occupation": "Portfolio Manager", "employer": "LKCM", "oos_pac": false}
+     ]},
+    {"page": 13, "type": "A1", "sch_pos": "10/126",
+     "entries": [
+       {"date": "12/03/2021", "name": "Blackwell, Stuart", "city_state_zip": "Austin, TX 78746", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "10/27/2021", "name": "Blakesee, Julie", "city_state_zip": "Austin, TX 78705", "amount": 74.25, "occupation": "Designer", "employer": "Self", "oos_pac": false},
+       {"date": "12/01/2021", "name": "Blakeslee, Julie", "city_state_zip": "Austin, TX 78705", "amount": 5000.00, "occupation": "Designer", "employer": "Self", "oos_pac": false},
+       {"date": "12/17/2021", "name": "Blech, Scott", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "07/28/2021", "name": "Blizzard, Michael", "city_state_zip": "Austin, TX 78745", "amount": 250.00, "occupation": "Producer", "employer": "Self", "oos_pac": false}
+     ]},
+    {"page": 14, "type": "A1", "sch_pos": "11/126",
+     "entries": [
+       {"date": "12/02/2021", "name": "Bohl, J. Steven", "city_state_zip": "Austin, TX 78749", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "08/11/2021", "name": "Bope, Elizabeth", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "09/24/2021", "name": "Borgstrand, Matt", "city_state_zip": "Round Rock, TX 78665", "amount": 25.00, "occupation": "Executive", "employer": "Dell", "oos_pac": false},
+       {"date": "07/08/2021", "name": "Borst, Gayle", "city_state_zip": "Austin, TX 78721", "amount": 10.00, "occupation": "Architect", "employer": "Stewardship Inc.", "oos_pac": false},
+       {"date": "09/30/2021", "name": "Borst, Gayle", "city_state_zip": "Austin, TX 78721", "amount": 10.00, "occupation": "Architect", "employer": "Stewardship Inc.", "oos_pac": false}
+     ]},
+    {"page": 15, "type": "A1", "sch_pos": "12/126",
+     "entries": [
+       {"date": "11/15/2021", "name": "Borst, Gayle", "city_state_zip": "Austin, TX 78721", "amount": 15.00, "occupation": "Architect", "employer": "Stewardship Inc.", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Borst, Gayle", "city_state_zip": "Austin, TX 78721", "amount": 31.00, "occupation": "Architect", "employer": "Stewardship Inc.", "oos_pac": false},
+       {"date": "12/15/2021", "name": "Borst, Gayle", "city_state_zip": "Austin, TX 78721", "amount": 10.00, "occupation": "Architect", "employer": "Stewardship Inc.", "oos_pac": false},
+       {"date": "11/01/2021", "name": "Brandi, Stacy", "city_state_zip": "Austin, TX 78728", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Bratton, Kay Wolking", "city_state_zip": "Austin, TX 78750", "amount": 10.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 16, "type": "A1", "sch_pos": "13/126",
+     "entries": [
+       {"date": "12/30/2021", "name": "Braunagel-Brown, Mary", "city_state_zip": "Austin, TX 78736", "amount": 50.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "07/08/2021", "name": "Breihan, Harriett", "city_state_zip": "Austin, TX 78735", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/13/2021", "name": "Brighton, Scott", "city_state_zip": "Austin, TX 78730", "amount": 10000.00, "occupation": "CEO", "employer": "Aurea", "oos_pac": false},
+       {"date": "12/08/2021", "name": "Brooks, Lon", "city_state_zip": "Austin, TX 78746", "amount": 5000.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/16/2021", "name": "Brown, Garry", "city_state_zip": "Austin, TX 78727", "amount": 50.00, "occupation": "Executive Assistant", "employer": "Williamson County", "oos_pac": false}
+     ]},
+    {"page": 17, "type": "A1", "sch_pos": "14/126",
+     "entries": [
+       {"date": "10/31/2021", "name": "Brown, Pamela", "city_state_zip": "Austin, TX 78722", "amount": 100.00, "occupation": "Attorney", "employer": "Texas RioGrande Legal Aid INc.", "oos_pac": false},
+       {"date": "08/18/2021", "name": "Brown, Sharon", "city_state_zip": "Austin, TX 78751", "amount": 25.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "08/26/2021", "name": "Brown, Sharon", "city_state_zip": "Austin, TX 78751", "amount": 3.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "09/01/2021", "name": "Brown, Sharon", "city_state_zip": "Austin, TX 78751", "amount": 3.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false},
+       {"date": "12/02/2021", "name": "Brown, Sharon", "city_state_zip": "Austin, TX 78751", "amount": 49.00, "occupation": "Not Employed", "employer": "None", "oos_pac": false}
+     ]},
+    {"page": 18, "type": "A1", "sch_pos": "15/126",
+     "entries": [
+       {"date": "10/28/2021", "name": "Brown, Sharon", "city_state_zip": "Austin, TX 78751", "amount": 41.75, "occupation": "Retired", "employer": "None", "oos_pac": false},
+       {"date": "11/30/2021", "name": "Bruno, Steve", "city_state_zip": "Austin, TX 78756", "amount": 31.00, "occupation": "State Employee", "employer": "State of Texas", "oos_pac": false},
+       {"date": "07/31/2021", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+       {"date": "08/31/2021", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+       {"date": "09/30/2021", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false}
+     ]},
+    {"page": 19, "type": "A1", "sch_pos": "16/126",
+     "entries": [
+       {"date": "10/31/2021", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+       {"date": "11/30/2021", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+       {"date": "12/31/2021", "name": "Bryce, James", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": "Attorney", "employer": "Self", "oos_pac": false},
+       {"date": "07/30/2021", "name": "Bufkin, Ben", "city_state_zip": "Austin, TX 78731", "amount": 300.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false},
+       {"date": "08/30/2021", "name": "Bufkin, Ben", "city_state_zip": "Austin, TX 78731", "amount": 300.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false}
+     ]},
+    {"page": 20, "type": "A1", "sch_pos": "17/126",
+     "entries": [
+       {"date": "09/30/2021", "name": "Bufkin, Ben", "city_state_zip": "Austin, TX 78731", "amount": 300.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false},
+       {"date": "10/30/2021", "name": "Bufkin, Ben", "city_state_zip": "Austin, TX 78731", "amount": 300.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false},
+       {"date": "11/30/2021", "name": "Bufkin, Ben", "city_state_zip": "Austin, TX 78731", "amount": 300.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false},
+       {"date": "12/30/2021", "name": "Bufkin, Ben", "city_state_zip": "Austin, TX 78731", "amount": 300.00, "occupation": "Real Estate", "employer": "Endeavor", "oos_pac": false},
+       {"date": "12/09/2021", "name": "Bull, Blaine", "city_state_zip": "Austin, TX 78747", "amount": 250.00, "occupation": "Small business owner", "employer": "Vianovo", "oos_pac": false}
+     ]}
+  ]
+}

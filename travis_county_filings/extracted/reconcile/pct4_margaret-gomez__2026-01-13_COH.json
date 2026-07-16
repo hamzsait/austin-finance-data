@@ -1,0 +1,18 @@
+{
+  "report": "pct4_margaret-gomez__2026-01-13_COH",
+  "verdict": "fixed",
+  "changes": [
+    {
+      "file": "extracted/raw/pct4_margaret-gomez__2026-01-13_COH__p0001-p0009.json",
+      "page": 3,
+      "schedule": "A1",
+      "entry": "Peacock Capital Holdings, LLC (9/2/25)",
+      "field": "amount",
+      "old": 2560.00,
+      "new": 2500.00
+    }
+  ],
+  "expected_delta_after_fix": 0.00,
+  "evidence": "Cover pg 2 line 17.2 (Total Political Contributions) clearly reads $2,500.00. Subtotals page (p4, COVER3) Schedule A1 subtotal independently reads $2,500.00 in the same hand. The single A1 entry on p3 is handwritten '$2,5_0.00' with a looped middle digit; compared against the filer's zero style on p4 ('2,5oo.oo') it reads $2,500.00 -- the original extraction misread the looped zero as a 6.",
+  "note": "Only one A1 page (marked 1 of 1) with one live entry; remaining entry blocks are struck through. No unitemized contributions reported (line 17.1 blank). Itemized $2,500.00 now matches both the A1 subtotal and the cover total exactly. Unrelated observation, not changed: itemized F1 expenditures visibly sum to $3,240 vs cover total $3,340 (p5 first entry $150.00 could plausibly be $250.00), outside the scope of this contribution reconciliation."
+}

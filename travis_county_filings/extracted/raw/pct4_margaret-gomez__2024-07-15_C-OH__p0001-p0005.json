@@ -1,0 +1,40 @@
+{
+  "chunk": "pct4_margaret-gomez__2024-07-15_C-OH__p0001-p0005",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gomez, Margaret J",
+      "report_type": "July 15",
+      "period_from": "01/01/24",
+      "period_through": "06/30/24",
+      "office_held": "Travis Co. Comm. Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": null,
+      "total_contributions": 0.00,
+      "total_unitemized_expenditures": 100.00,
+      "total_expenditures": 100.00,
+      "contribution_balance": 11020.41,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    }
+  ]
+}

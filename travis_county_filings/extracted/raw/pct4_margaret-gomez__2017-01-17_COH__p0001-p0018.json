@@ -1,0 +1,106 @@
+{
+  "chunk": "pct4_margaret-gomez__2017-01-17_COH__p0001-p0018",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gomez, Margaret J",
+      "report_type": "January 15",
+      "period_from": "07/01/15",
+      "period_through": "12/31/16",
+      "office_held": "Travis County Comm, Pct.4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 0.00,
+      "total_unitemized_expenditures": 330.87,
+      "total_expenditures": 820.87,
+      "contribution_balance": 13850.06,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "C/OH COVER SHEET PG 3 - SUBTOTALS"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE A2 - NON-MONETARY (IN-KIND) POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE B - PLEDGED CONTRIBUTIONS"
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE E - LOANS"
+    },
+    {
+      "page": 8,
+      "type": "OTHER",
+      "label": "SCHEDULE F1 - POLITICAL EXPENDITURES MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 9,
+      "type": "OTHER",
+      "label": "SCHEDULE F1 - POLITICAL EXPENDITURES MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 10,
+      "type": "OTHER",
+      "label": "SCHEDULE F1 - POLITICAL EXPENDITURES MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 11,
+      "type": "OTHER",
+      "label": "SCHEDULE F2 - UNPAID INCURRED OBLIGATIONS"
+    },
+    {
+      "page": 12,
+      "type": "OTHER",
+      "label": "SCHEDULE F3 - PURCHASE OF INVESTMENTS MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 13,
+      "type": "OTHER",
+      "label": "SCHEDULE F4 - EXPENDITURES MADE BY CREDIT CARD"
+    },
+    {
+      "page": 14,
+      "type": "OTHER",
+      "label": "SCHEDULE G - POLITICAL EXPENDITURES MADE FROM PERSONAL FUNDS"
+    },
+    {
+      "page": 15,
+      "type": "OTHER",
+      "label": "SCHEDULE H - PAYMENT MADE FROM POLITICAL CONTRIBUTIONS TO A BUSINESS OF C/OH"
+    },
+    {
+      "page": 16,
+      "type": "OTHER",
+      "label": "SCHEDULE I - NON-POLITICAL EXPENDITURES MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 17,
+      "type": "OTHER",
+      "label": "SCHEDULE K - INTEREST, CREDITS, GAINS, REFUNDS, AND CONTRIBUTIONS RETURNED TO FILER"
+    },
+    {
+      "page": 18,
+      "type": "OTHER",
+      "label": "SCHEDULE T - IN-KIND CONTRIBUTIONS OR POLITICAL EXPENDITURES FOR TRAVEL OUTSIDE OF TEXAS"
+    }
+  ]
+}

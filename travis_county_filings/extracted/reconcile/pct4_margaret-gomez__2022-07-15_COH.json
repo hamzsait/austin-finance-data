@@ -1,0 +1,17 @@
+{
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "verdict": "filer_error",
+  "changes": [
+    {
+      "file": "extracted/raw/pct4_margaret-gomez__2022-07-15_COH__p0001-p0020.json",
+      "page": 3,
+      "field": "total_contributions",
+      "old": 23787.12,
+      "new": 23707.12,
+      "reason": "Cover pg 2 box 2 misread: at 6x zoom the figure is $23,707.12 - the middle digit is a single round loop (0) matching the filer's zeros in $1,000.00 entries, not a double-lobed 8, and unlike the filer's distinctive flat-top 7s. The identical figure $23,707.12 appears as the Schedule A1 subtotal on cover pg 3 (SUBTOTALS box 21 line 1)."
+    }
+  ],
+  "expected_delta_after_fix": 300.00,
+  "evidence": "All 40 itemized A1 amounts on pages 5-14 were re-verified box-by-box against the page images and match the extraction exactly (page sums: 3100, 725, 645, 685, 795, 1100, 610, 5410, 7437.12, 3500 = 24007.12; p10 even carries the filer's own pencil tally '1100'). No duplicate entries across chunk boundaries (single chunk), no crossed-out entries. The three uncertain $1,000.00 amounts on p14 (Popp Hutcheson, Spector, AUS-TEX) were each zoomed and are unambiguously $1,000.00. A2 subtotal is -0-. Cover total and A1 subtotal both read $23,707.12, so the filer's own stated total is $300.00 below the true itemized sum of $24,007.12 - a filer arithmetic error.",
+  "note": "Extraction cover total corrected 23787.12 -> 23707.12 (digit misread 8 vs 0). Remaining +$300.00 delta (itemized 24007.12 vs cover 23707.12) is the filer's addition error; itemized entries are authoritative and were not changed. Unitemized contributions box is blank/dash, so it does not account for the gap."
+}

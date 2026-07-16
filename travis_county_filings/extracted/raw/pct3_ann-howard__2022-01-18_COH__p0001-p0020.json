@@ -1,0 +1,143 @@
+{
+  "chunk": "pct3_ann-howard__2022-01-18_COH__p0001-p0020",
+  "pages": [
+    {"page": 1, "type": "OTHER", "label": "Unsworn Declaration (Form UD)"},
+    {"page": 2, "type": "COVER1", "filer_name": "Howard, Ann",
+     "report_type": "January 15", "period_from": "07/01/2021",
+     "period_through": "12/31/2021", "office_held": "County Commissioner Precinct 3, Travis",
+     "correction": false},
+    {"page": 3, "type": "COVER2", "total_unitemized_contributions": 1828.40,
+     "total_contributions": 63465.40, "total_unitemized_expenditures": 1658.57,
+     "total_expenditures": 47426.70, "contribution_balance": 34340.67,
+     "outstanding_loans": 0.00},
+    {"page": 4, "type": "COVER3", "label": "Subtotals - C/OH (Cover Sheet Pg 3)"},
+    {"page": 5, "type": "A1", "sch_pos": "1/25",
+     "entries": [
+       {"date": "10/28/2021", "name": "Albert, Steven", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Allen Boone Humphries Robinson LLP", "city_state_zip": null, "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/18/2021", "name": "Amy Pattillo Campaign", "city_state_zip": null, "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Armbrust & Brown PLLC", "city_state_zip": null, "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Ausley, Robbie", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 6, "type": "A1", "sch_pos": "2/25",
+     "entries": [
+       {"date": "10/30/2021", "name": "Austin Apartment Association PAC", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/14/2021", "name": "Baer, Amy", "city_state_zip": null, "amount": 1030.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Balthazar, Ellen", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/05/2021", "name": "Bassett, Samuel", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/19/2021", "name": "Bingham, William", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 7, "type": "A1", "sch_pos": "3/25",
+     "entries": [
+       {"date": "10/26/2021", "name": "Braun, Peggy", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/16/2021", "name": "Braunagel-Brown, Mary", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Briggs, Rambie", "city_state_zip": null, "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/15/2021", "name": "Brim, Jefferson", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Brown, Andrew", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 8, "type": "A1", "sch_pos": "4/25",
+     "entries": [
+       {"date": "10/26/2021", "name": "Brown, Charles", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/17/2021", "name": "Bullock, Daniel", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/22/2021", "name": "Burke, Cecelia", "city_state_zip": null, "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "12/14/2021", "name": "Byrne, Daniel", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/28/2021", "name": "CP&Y PAC", "city_state_zip": "Dallas, TX 75235", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 9, "type": "A1", "sch_pos": "5/25",
+     "entries": [
+       {"date": "10/30/2021", "name": "CTA BuildMT PAC", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Caperton, Kent", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/19/2021", "name": "Carden, Amber", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/05/2021", "name": "Chapa, Diane", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Chapa, Paul", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 10, "type": "A1", "sch_pos": "6/25",
+     "entries": [
+       {"date": "11/02/2021", "name": "Chello, Joseph", "city_state_zip": null, "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/28/2021", "name": "Circle C Area Democrats", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Cofer, George", "city_state_zip": null, "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/15/2021", "name": "Cofer, Richard", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Cooksey, Frank", "city_state_zip": null, "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 11, "type": "A1", "sch_pos": "7/25",
+     "entries": [
+       {"date": "10/21/2021", "name": "Cowan, Julie", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/14/2021", "name": "Cummings, Lawton", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "DEC PAC", "city_state_zip": null, "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/22/2021", "name": "Daemmrich, Janis", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Denton, Ann", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 12, "type": "A1", "sch_pos": "8/25",
+     "entries": [
+       {"date": "10/25/2021", "name": "Dochen, Sanford", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Duncan, John", "city_state_zip": null, "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Dwyer, Peter", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/28/2021", "name": "Erwin, Gay", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/19/2021", "name": "Ferguson, Frances", "city_state_zip": null, "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 13, "type": "A1", "sch_pos": "9/25",
+     "entries": [
+       {"date": "10/21/2021", "name": "Fuchs, Fred", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/25/2021", "name": "Gammon, William", "city_state_zip": null, "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/18/2021", "name": "Gammon, William", "city_state_zip": null, "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/25/2021", "name": "Gill, Hubert", "city_state_zip": null, "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Girard, Michael", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 14, "type": "A1", "sch_pos": "10/25",
+     "entries": [
+       {"date": "10/21/2021", "name": "Goff, Eric", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/25/2021", "name": "Gosselink, Margaret", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/18/2021", "name": "Gregory, Bob", "city_state_zip": null, "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Griffith, Harry", "city_state_zip": null, "amount": 150.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Halff Associates State PAC", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 15, "type": "A1", "sch_pos": "11/25",
+     "entries": [
+       {"date": "10/30/2021", "name": "Hatch, Thomas", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "Heath, Robert", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/18/2021", "name": "Hester, Tina", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/22/2021", "name": "Hile, Richard", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Howry Breen & Herman, LLP", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 16, "type": "A1", "sch_pos": "12/25",
+     "entries": [
+       {"date": "11/29/2021", "name": "Huber, Karen", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/22/2021", "name": "Jones, Thomas", "city_state_zip": null, "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/14/2021", "name": "Kennard, Karen", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/25/2021", "name": "King, William", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/01/2021", "name": "Kirk Watson Campaign", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 17, "type": "A1", "sch_pos": "13/25",
+     "entries": [
+       {"date": "10/26/2021", "name": "Kotrla, Kathryn", "city_state_zip": null, "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Kumar, Sam", "city_state_zip": null, "amount": 2000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/25/2021", "name": "Langmore, John", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/29/2021", "name": "Launius, Douglas", "city_state_zip": null, "amount": 1500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Linebarger Goggan Blair & Sampson LLP", "city_state_zip": null, "amount": 2000.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 18, "type": "A1", "sch_pos": "14/25",
+     "entries": [
+       {"date": "10/26/2021", "name": "Linebarger, Roger", "city_state_zip": null, "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Lloyd Doggett For Congress", "city_state_zip": null, "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "London, Alice", "city_state_zip": null, "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "Lorenz, Perry", "city_state_zip": null, "amount": 2575.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "12/31/2021", "name": "Madere, Pamela", "city_state_zip": null, "amount": 400.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 19, "type": "A1", "sch_pos": "15/25",
+     "entries": [
+       {"date": "10/26/2021", "name": "Mason, Barbara", "city_state_zip": null, "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/25/2021", "name": "McDowell, Susan", "city_state_zip": null, "amount": 206.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/23/2021", "name": "McHorse, Edward", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/21/2021", "name": "McIver, Diana", "city_state_zip": null, "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/26/2021", "name": "McLaughlin, Laure", "city_state_zip": null, "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 20, "type": "A1", "sch_pos": "16/25",
+     "entries": [
+       {"date": "10/19/2021", "name": "McLean & Howard, LLP", "city_state_zip": null, "amount": 1030.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "12/02/2021", "name": "Merrill, Patricia", "city_state_zip": null, "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/18/2021", "name": "Metcalfe Wolff Stuart & Williams, LLP", "city_state_zip": null, "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "10/22/2021", "name": "Moceri, Cross", "city_state_zip": null, "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "11/12/2021", "name": "Murfee, George", "city_state_zip": null, "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]}
+  ]
+}

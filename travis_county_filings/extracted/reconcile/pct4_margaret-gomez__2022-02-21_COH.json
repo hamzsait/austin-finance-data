@@ -1,0 +1,8 @@
+{
+  "report": "pct4_margaret-gomez__2022-02-21_COH",
+  "verdict": "filer_error",
+  "changes": [],
+  "expected_delta_after_fix": -2750.00,
+  "evidence": "Cover PG2 box 17.2 and PG3 Schedule A1 subtotal both read $16,175.00 (re-verified box-by-box; unitemized = -0-). A1 pages present (p4-p6) sum to $13,425.00: p4 = 5,000 (Christine Dail/TCSOA) + 2,000 (Chet Morrison) + 2,000 (Patrick Rose) + 3,000 (Carol Guthrie) = 12,000; p5 = 100 + 25 + 50 + 250 = 425; p6 = 200 + 500 + 300 = 1,000 (4th slot crossed out, marking the end of A1 entries). Every A1 header (p4, p5, p6) states 'Total pages Schedule A1: 4', but only 3 A1 pages exist in the document. All ten pages 7-16 were re-read individually: every one is a genuine Schedule F1 expenditure page (headers 'Total pages Schedule F1: 10', 10 F1 pages present, consistent), with no misclassified A1/A2 content. Expected page count if complete: 3 cover + 4 A1 + 10 F1 = 17 pages; the source PDF (pct4_margaret-gomez/2022-02-21_COH.pdf) contains only 16 page objects, confirming the 4th A1 page (holding the missing $2,750, likely entries dated ~02/13-02/16 between p5 and p6) was omitted from the filed/scanned document itself.",
+  "note": "Extraction is faithful to the document as filed; no changes made. The -$2,750.00 delta is a source-document deficiency: a 4th Schedule A1 page declared in the schedule headers is absent from the 16-page PDF, so its itemized contributions cannot be recovered from this filing. Classified as filer_error (missing page in the filed record) rather than a filer arithmetic error; the cover total $16,175.00 is presumably correct and includes the missing page."
+}

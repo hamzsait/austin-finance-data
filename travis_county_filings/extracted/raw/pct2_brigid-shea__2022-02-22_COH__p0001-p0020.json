@@ -1,0 +1,143 @@
+{
+  "chunk": "pct2_brigid-shea__2022-02-22_COH__p0001-p0020",
+  "pages": [
+    {"page": 1, "type": "OTHER", "label": "Form UD - Unsworn Declaration"},
+    {"page": 2, "type": "COVER1", "filer_name": "Shea, Brigid",
+     "report_type": "8th day before election", "period_from": "01/21/2022",
+     "period_through": "02/19/2022", "office_held": "County Commissioner Precinct 2 Travis",
+     "correction": false},
+    {"page": 3, "type": "COVER2", "total_unitemized_contributions": 1707.50,
+     "total_contributions": 56709.75, "total_unitemized_expenditures": 363.98,
+     "total_expenditures": 183671.52, "contribution_balance": 116879.77,
+     "outstanding_loans": 0.00},
+    {"page": 4, "type": "COVER3", "label": "SUBTOTALS - C/OH, COVER SHEET PG 3"},
+    {"page": 5, "type": "A1", "sch_pos": "1/21",
+     "entries": [
+       {"date": "02/12/2022", "name": "Adams, Patricia", "city_state_zip": "Austin, TX 78731", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/08/2022", "name": "Adler, Stephen", "city_state_zip": "Austin, TX 78701", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/04/2022", "name": "Armstrong, William", "city_state_zip": "Austin, TX 78701", "amount": 5000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Austin/Travis County EMS Employee Association PAC", "city_state_zip": "Austin, TX 78721", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/04/2022", "name": "Barletta, Joseph", "city_state_zip": "Austin, TX 78758", "amount": 550.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 6, "type": "A1", "sch_pos": "2/21",
+     "entries": [
+       {"date": "02/08/2022", "name": "Barnes, Ben", "city_state_zip": "Austin, TX 78708", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/10/2022", "name": "Bartoletti, Karen", "city_state_zip": "West Lake Hills, TX 78746", "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/11/2022", "name": "Boyle, Carolyn", "city_state_zip": "Austin, TX 78731", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/04/2022", "name": "Braden, Alfred", "city_state_zip": "Austin, TX 78731", "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Brand, James", "city_state_zip": "Austin, TX 78704", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 7, "type": "A1", "sch_pos": "3/21",
+     "entries": [
+       {"date": "02/07/2022", "name": "Braunagel-Brown, Mary", "city_state_zip": "Austin, TX 78736", "amount": 128.75, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/09/2022", "name": "Bryan, Helen", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Bunch, William", "city_state_zip": "Austin, TX 78704", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/28/2022", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731", "amount": 307.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/06/2022", "name": "Burke, Cecelia", "city_state_zip": "Austin, TX 78731", "amount": 307.50, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 8, "type": "A1", "sch_pos": "4/21",
+     "entries": [
+       {"date": "02/10/2022", "name": "Burton, Wesley", "city_state_zip": "Austin, TX 78751", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/01/2022", "name": "Clark, Mark", "city_state_zip": "West Lake Hills, TX 78746", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Cobb Fendley PAC", "city_state_zip": "Houston, TX 77040", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Cobb, Gary", "city_state_zip": "Austin, TX 78749", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Cohen, Jessica", "city_state_zip": "Austin, TX 78741", "amount": 103.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 9, "type": "A1", "sch_pos": "5/21",
+     "entries": [
+       {"date": "02/01/2022", "name": "Cox, David", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/22/2022", "name": "Cummins, Clemmie", "city_state_zip": "Austin, TX 78703", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/12/2022", "name": "Cunningham, Ben", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/10/2022", "name": "DasGupta, Sumit", "city_state_zip": "Austin, TX 78759", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/27/2022", "name": "Davis, Griffin", "city_state_zip": "Austin, TX 78746", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 10, "type": "A1", "sch_pos": "6/21",
+     "entries": [
+       {"date": "02/14/2022", "name": "Delozier, Abbe", "city_state_zip": "Austin, TX 78737", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Doggett, Lisa", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/28/2022", "name": "Duncan, James", "city_state_zip": "Austin, TX 78759", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/14/2022", "name": "Dwight, Diane", "city_state_zip": "Austin, TX 78735", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/14/2022", "name": "Erwin, Gay", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 11, "type": "A1", "sch_pos": "7/21",
+     "entries": [
+       {"date": "02/14/2022", "name": "Fath, Shudde", "city_state_zip": "Austin, TX 78731", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/14/2022", "name": "Fuentes, Francisco", "city_state_zip": "Austin, TX 78730", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/18/2022", "name": "Greenberg Traurig PAC", "city_state_zip": "Albany, NY 12207", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/13/2022", "name": "Greer, Samuel", "city_state_zip": "Austin, TX 78746", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/10/2022", "name": "Gregory, Bob", "city_state_zip": "Austin, TX 78747", "amount": 1500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 12, "type": "A1", "sch_pos": "8/21",
+     "entries": [
+       {"date": "02/16/2022", "name": "Guthikonda, Gopal", "city_state_zip": "Austin, TX 78720", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/12/2022", "name": "Guzman, Ana", "city_state_zip": "San Antonio, TX 78258", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/12/2022", "name": "Haley, Anthony", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/07/2022", "name": "Harwell, Carol", "city_state_zip": "Georgetown, TX 78626", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Haussmann, Michele", "city_state_zip": "Austin, TX 78731", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 13, "type": "A1", "sch_pos": "9/21",
+     "entries": [
+       {"date": "02/11/2022", "name": "Haverlah, Leroy", "city_state_zip": "Austin, TX 78732", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/01/2022", "name": "Hawkins, Albert", "city_state_zip": "Austin, TX 78750", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/10/2022", "name": "Hayes, Kristina", "city_state_zip": "Austin, TX 78628", "amount": 2575.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Hernandez, Robert", "city_state_zip": "Austin, TX 78723", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Hernandez, Sally", "city_state_zip": "Austin, TX 78745", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 14, "type": "A1", "sch_pos": "10/21",
+     "entries": [
+       {"date": "02/16/2022", "name": "Hsu, Chi-Kao", "city_state_zip": "Austin, TX 78751", "amount": 2000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/09/2022", "name": "Huber, Karen", "city_state_zip": "Spicewood, TX 78669", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/15/2022", "name": "Hunziker, Emil", "city_state_zip": "Austin, TX 78751", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Jackson, Robena", "city_state_zip": "Austin, TX 78759", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/07/2022", "name": "Kahle, Mary", "city_state_zip": "Austin, TX 78731", "amount": 178.75, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 15, "type": "A1", "sch_pos": "11/21",
+     "entries": [
+       {"date": "02/12/2022", "name": "Kramer, Kenneth", "city_state_zip": "Kenney, TX 77452", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Lloyd Doggett For Congress", "city_state_zip": "Austin, TX 78763", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/12/2022", "name": "Lorenz, Perry", "city_state_zip": "Austin, TX 78702", "amount": 2575.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/09/2022", "name": "Lowenthal, Eugene", "city_state_zip": "Austin, TX 78738", "amount": 200.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/14/2022", "name": "Maher, Mary Beth", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 16, "type": "A1", "sch_pos": "12/21",
+     "entries": [
+       {"date": "02/16/2022", "name": "Maldonado, Hilbert", "city_state_zip": "Round Rock, TX 78664", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/14/2022", "name": "McDaniel, Demetrius", "city_state_zip": "Austin, TX 78735", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/19/2022", "name": "Mercer, James", "city_state_zip": "Elgin, TX 78621", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Metcalfe Wolff Stuart & Williams, LLP", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/04/2022", "name": "Michel, Lorri", "city_state_zip": "Austin, TX 78701", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 17, "type": "A1", "sch_pos": "13/21",
+     "entries": [
+       {"date": "02/11/2022", "name": "Mitchell, John", "city_state_zip": "Austin, TX 78756", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/10/2022", "name": "Moeller, Michael", "city_state_zip": "Wimberley, TX 78676", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/11/2022", "name": "Murfee, George", "city_state_zip": "Austin, TX 78703", "amount": 1030.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Nabers, Mary", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/13/2022", "name": "Nassour, Jimmy", "city_state_zip": "Austin, TX 78746", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 18, "type": "A1", "sch_pos": "14/21",
+     "entries": [
+       {"date": "02/18/2022", "name": "Parker, Joseph", "city_state_zip": "Austin, TX 78767", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/01/2022", "name": "Penridge, Eleanor", "city_state_zip": "Austin, TX 78738", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Pfeiffer, Peter", "city_state_zip": "Austin, TX 78703", "amount": 125.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "PrimaVesta Land Company LLC", "city_state_zip": "San Jose, CA 95120", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/19/2022", "name": "Rather, Jean", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 19, "type": "A1", "sch_pos": "15/21",
+     "entries": [
+       {"date": "02/03/2022", "name": "Reese, Pamela", "city_state_zip": "Austin, TX 78746", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/11/2022", "name": "Rider, Kathy", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/07/2022", "name": "Rowland, Kerri", "city_state_zip": "Austin, TX 78757", "amount": 257.50, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/10/2022", "name": "Scanlan, John", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/16/2022", "name": "Schneider, Robin", "city_state_zip": "Austin, TX 78704", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]},
+    {"page": 20, "type": "A1", "sch_pos": "16/21",
+     "entries": [
+       {"date": "01/25/2022", "name": "Selby, Henry", "city_state_zip": "Austin, TX 78759", "amount": 75.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/14/2022", "name": "Selby, Henry", "city_state_zip": "Austin, TX 78759", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/02/2022", "name": "Selby, Thomas", "city_state_zip": "Arlington, VA 22205", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "02/11/2022", "name": "Sherman, Lynn", "city_state_zip": "Austin, TX 78705", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+       {"date": "01/29/2022", "name": "Shipley, George", "city_state_zip": "Austin, TX 78703", "amount": 515.00, "occupation": null, "employer": null, "oos_pac": false}
+     ]}
+  ]
+}

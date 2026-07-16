@@ -1,0 +1,97 @@
+{
+  "chunk": "pct4_margaret-gomez__2018-02-26_COH__p0001-p0007",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gomez, Margaret",
+      "report_type": "8th day before election",
+      "period_from": "01/26/2018",
+      "period_through": "02/24/2018",
+      "office_held": "Travis County Commissioner, Precinct Four",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 1575.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 10434.33,
+      "contribution_balance": 17275.54,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/1",
+      "entries": [
+        {
+          "date": "01/30/2018",
+          "name": "Brigid Shea Campaign",
+          "city_state_zip": "Austin, TX 78757",
+          "amount": 50.00,
+          "occupation": null,
+          "employer": null,
+          "oos_pac": false
+        },
+        {
+          "date": "02/16/2018",
+          "name": "Brown, Christopher",
+          "city_state_zip": "Austin, TX 78702",
+          "amount": 500.00,
+          "occupation": "Author",
+          "employer": "Self",
+          "oos_pac": false
+        },
+        {
+          "date": "02/12/2018",
+          "name": "LAN-PAC",
+          "city_state_zip": "Houston, TX 77042",
+          "amount": 500.00,
+          "occupation": null,
+          "employer": null,
+          "oos_pac": false
+        },
+        {
+          "date": "02/11/2018",
+          "name": "Moreno, Randy",
+          "city_state_zip": "Manchaca, TX 78652",
+          "amount": 25.00,
+          "occupation": "Retired",
+          "employer": "None",
+          "oos_pac": false
+        },
+        {
+          "date": "02/01/2018",
+          "name": "Pete McRae Consultancy LLC",
+          "city_state_zip": "Georgetown, TX 78627",
+          "amount": 500.00,
+          "occupation": null,
+          "employer": null,
+          "oos_pac": false
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    }
+  ]
+}

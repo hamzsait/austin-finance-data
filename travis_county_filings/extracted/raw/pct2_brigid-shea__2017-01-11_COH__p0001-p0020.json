@@ -1,0 +1,216 @@
+{
+  "chunk": "pct2_brigid-shea__2017-01-11_COH__p0001-p0020",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Shea, Brigid",
+      "report_type": "January 15",
+      "period_from": "07/01/2016",
+      "period_through": "12/31/2016",
+      "office_held": "County Commissioner, Pct. 2",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 29225.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 10136.12,
+      "contribution_balance": 20101.50,
+      "outstanding_loans": 5000.00
+    },
+    { "page": 3, "type": "COVER3" },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/16",
+      "entries": [
+        {"date": "08/31/2016", "name": "Armentrout, Nathan (Mr.)", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "07/26/2016", "name": "Baer, Therese (Ms.)", "city_state_zip": "Austin, TX 78759", "amount": 250.00, "occupation": "Professional Engineer", "employer": "Baer Engineer", "oos_pac": false},
+        {"date": "09/20/2016", "name": "Baker, Harris", "city_state_zip": "Austin, TX 78731-4728", "amount": 500.00, "occupation": "Energy", "employer": "JP Energy", "oos_pac": false},
+        {"date": "08/25/2016", "name": "Barnes, Ben (Mr.)", "city_state_zip": "Austin, TX 78701-2013", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/30/2016", "name": "Blackburn, Jonathon", "city_state_zip": "Austin, TX 78749", "amount": 50.00, "occupation": "Engineer", "employer": "Texas PACE Authority", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": "2/16",
+      "entries": [
+        {"date": "07/26/2016", "name": "Blackwell, Betty (Ms.)", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": "Attorney", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/28/2016", "name": "Bottoms, Shirley (Ms.)", "city_state_zip": "Austin, TX 78731", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "07/22/2016", "name": "Brown, Caitlin (Ms.)", "city_state_zip": "Austin, TX 78723", "amount": 10.00, "occupation": "Contractor", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Chu, Nicholas (Mr.)", "city_state_zip": "Austin, TX 78751", "amount": 250.00, "occupation": "Attorney", "employer": null, "oos_pac": false},
+        {"date": "08/23/2016", "name": "Chundru, Satish", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "Forensic Pathologist", "employer": "Travis County Medical Examiners Office", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 6,
+      "type": "A1",
+      "sch_pos": "3/16",
+      "entries": [
+        {"date": "07/28/2016", "name": "Claunch, David (Mr.)", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Cofer, Mary Elizabeth (Ms.)", "city_state_zip": "Austin, TX 78746", "amount": 25.00, "occupation": "Insurance Agent", "employer": "Mutual of Omaha", "oos_pac": false},
+        {"date": "08/30/2016", "name": "Cordes, Helen (Ms.)", "city_state_zip": "Georgetown, TX 78626-7949", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/14/2016", "name": "Crews, Joe (Mr.)", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "Attorney", "employer": "Crews law Firm PC", "oos_pac": false},
+        {"date": "08/31/2016", "name": "David for AISD Campaign", "city_state_zip": "Austin, TX 78746-7757", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 7,
+      "type": "A1",
+      "sch_pos": "4/16",
+      "entries": [
+        {"date": "08/30/2016", "name": "Davis, Dick (Mr.)", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": "Land Steward", "employer": "University of Texas", "oos_pac": false},
+        {"date": "08/30/2016", "name": "Delozier, Abbe", "city_state_zip": "Austin, TX 78737", "amount": 150.00, "occupation": "Realtor", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Deyoung, Claire", "city_state_zip": "Austin, TX 78751-3227", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/25/2016", "name": "Dickie, Martha", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": "Attorney", "employer": "Almanza Blackburn Dickie and Mitchell LLP", "oos_pac": false},
+        {"date": "08/18/2016", "name": "Ferchill, Cary", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": "Attorney", "employer": "Reed & Scardino LLP", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 8,
+      "type": "A1",
+      "sch_pos": "5/16",
+      "entries": [
+        {"date": "08/31/2016", "name": "Frederick, David (Mr.)", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "09/06/2016", "name": "Fredriksen, Pete (Mr.)", "city_state_zip": "Austin, TX 78731-5410", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "07/28/2016", "name": "Getter, Kerry", "city_state_zip": "Austin, TX 78724", "amount": 500.00, "occupation": "CEO", "employer": "Balcones Resources", "oos_pac": false},
+        {"date": "08/01/2016", "name": "Gregory, Bob (Mr.)", "city_state_zip": "Austin, TX 78746", "amount": 2500.00, "occupation": "CEO", "employer": "Texas Disposal Systems", "oos_pac": false},
+        {"date": "08/26/2016", "name": "Guthikonda, Gopal", "city_state_zip": "Austin, TX 78720-0388", "amount": 500.00, "occupation": "Engineer", "employer": "Self-Employed", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 9,
+      "type": "A1",
+      "sch_pos": "6/16",
+      "entries": [
+        {"date": "08/30/2016", "name": "Hale, Bryan (Mr.)", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": "Retired Chemist", "employer": "Retired", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Holderness, Mary (Mrs.)", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Jones, Melissa (Ms.)", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+        {"date": "08/18/2016", "name": "Keller, Eileen (Ms.)", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": "CEO", "employer": "ideality.com", "oos_pac": false},
+        {"date": "08/25/2016", "name": "Keys, Jerry", "city_state_zip": "Austin, TX 78703", "amount": 100.00, "occupation": "Attorney", "employer": "Matheson Keys Daffer & Kordzik PLLC", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 10,
+      "type": "A1",
+      "sch_pos": "7/16",
+      "entries": [
+        {"date": "09/29/2016", "name": "Keys, Jerry", "city_state_zip": "Austin, TX 78703", "amount": 150.00, "occupation": "Attorney", "employer": "Matheson Keys Daffer & Kordzik PLLC", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Kilventon, David (Mr.)", "city_state_zip": "Austin, TX 78705", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Kimmelman, Tamara", "city_state_zip": "Austin, TX 78727", "amount": 25.00, "occupation": "Physical Therapist", "employer": "AISD", "oos_pac": false},
+        {"date": "08/31/2016", "name": "King, David (Mr.)", "city_state_zip": "Austin, TX 78704", "amount": 50.00, "occupation": "N/A", "employer": "N/A", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Langmore, John (Mr.)", "city_state_zip": "Austin, TX 78703", "amount": 75.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 11,
+      "type": "A1",
+      "sch_pos": "8/16",
+      "entries": [
+        {"date": "08/24/2016", "name": "Lewis, Dawn (Mrs.)", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": "Program Director", "employer": "Austin Partners in Education", "oos_pac": false},
+        {"date": "08/14/2016", "name": "Lin, Lisa (Ms.)", "city_state_zip": "Austin, TX 78759", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/29/2016", "name": "Linebarger Goggan Blair & Sampson LLP", "city_state_zip": "Austin, TX 78760", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Lohr, John (Mr.)", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Lopez-Aguilar, Isabel (Ms.)", "city_state_zip": "Austin, TX 78744", "amount": 50.00, "occupation": "Program Coordinator", "employer": "Latino Health Forum", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 12,
+      "type": "A1",
+      "sch_pos": "9/16",
+      "entries": [
+        {"date": "08/31/2016", "name": "Marquardt, Anthony (Mr.)", "city_state_zip": "Austin, TX 78750", "amount": 25.00, "occupation": "Paramedic", "employer": "City of Austin", "oos_pac": false},
+        {"date": "08/30/2016", "name": "McAfee, Mark (Mr.)", "city_state_zip": "Austin, TX 78704", "amount": 50.00, "occupation": "Retired", "employer": "Retired", "oos_pac": false},
+        {"date": "08/31/2016", "name": "McCann, Emily (Ms.)", "city_state_zip": "Carrollton, TX 75006", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/30/2016", "name": "McCreary, Lou (Mr.)", "city_state_zip": "Austin, TX 78746", "amount": 100.00, "occupation": "Attorney", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/29/2016", "name": "Metcalfe Wolff Stuart & Williams LLP", "city_state_zip": "Austin, TX 78701", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 13,
+      "type": "A1",
+      "sch_pos": "10/16",
+      "entries": [
+        {"date": "09/27/2016", "name": "Meyers, Anne A (Ms.)", "city_state_zip": "Pacific Palisades, CA 90272", "amount": 5000.00, "occupation": "Musician", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Moffat, Susan (Ms.)", "city_state_zip": "Austin, TX 78751", "amount": 100.00, "occupation": "Editor/Researcher", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/30/2016", "name": "Mohamed, Basheer", "city_state_zip": "Lakeway, TX 78734", "amount": 250.00, "occupation": "Engineer", "employer": "Quality Power LLC", "oos_pac": false},
+        {"date": "08/22/2016", "name": "Moore, Margaret (Ms.)", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": "Attorney", "employer": "N/A", "oos_pac": false},
+        {"date": "07/28/2016", "name": "Norris, Karen Ann (Ms.)", "city_state_zip": "Austin, TX 78747", "amount": 50.00, "occupation": "Retired", "employer": "Retired", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 14,
+      "type": "A1",
+      "sch_pos": "11/16",
+      "entries": [
+        {"date": "07/29/2016", "name": "Peel, Larry", "city_state_zip": "Austin, TX 78767", "amount": 1000.00, "occupation": "Owner", "employer": "Larry Peel Co", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Placek, Beth (Ms.)", "city_state_zip": "Austin, TX 78703", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Ramirez, Jill (Ms.)", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/31/2016", "name": "Reagan Sr., William (Mr.)", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/19/2016", "name": "Reis, Brian (Mr.)", "city_state_zip": "Austin, TX 78749", "amount": 250.00, "occupation": "Engineer", "employer": "RPS", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 15,
+      "type": "A1",
+      "sch_pos": "12/16",
+      "entries": [
+        {"date": "08/22/2016", "name": "Rosenberg, Richard (Mr.)", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": "Real Estate Consultant", "employer": "DPFG, Inc", "oos_pac": false},
+        {"date": "08/30/2016", "name": "Rothe, Gail (Ms.)", "city_state_zip": "Austin, TX 78704", "amount": 100.00, "occupation": "Consultant", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/29/2016", "name": "Sallis, Lance", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": "Real Estate", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/20/2016", "name": "Schneider, Robin (Ms.)", "city_state_zip": "Austin, TX 78704", "amount": 50.00, "occupation": "Executive Director", "employer": "Texas Campaign for the Environment", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Scott, Sally (Ms.)", "city_state_zip": "Austin, TX 78731-4702", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 16,
+      "type": "A1",
+      "sch_pos": "13/16",
+      "entries": [
+        {"date": "08/31/2016", "name": "Sesil, Joseph (Mr.)", "city_state_zip": "Austin, TX 78701", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "10/11/2016", "name": "Southwest Laborers District Council PAC", "city_state_zip": "Tulsa, OK 74129", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": true},
+        {"date": "08/31/2016", "name": "Sprute, Dana", "city_state_zip": "Austin, TX 78731", "amount": 350.00, "occupation": "Physician", "employer": "Seton", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Stanford, Blake (Mr.)", "city_state_zip": "Austin, TX 78731", "amount": 1250.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/18/2016", "name": "Stratton, James (Mr.)", "city_state_zip": "Austin, TX 78705", "amount": 25.00, "occupation": "Editorial and Research Assistant", "employer": "University of Texas", "oos_pac": false}
+      ]
+    },
+    {
+      "page": 17,
+      "type": "A1",
+      "sch_pos": "14/16",
+      "entries": [
+        {"date": "08/31/2016", "name": "Strecker, Barbara (Ms.)", "city_state_zip": "Austin, TX 78757", "amount": 25.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/22/2016", "name": "Summerville, Patti", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": "Consultant", "employer": "Self-employed", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Taniguchi, Evan (Mr.)", "city_state_zip": "Austin, TX 78705", "amount": 250.00, "occupation": "Architect", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "07/27/2016", "name": "Tavakkol, Peggy (Ms.)", "city_state_zip": "Austin, TX 78756", "amount": 40.00, "occupation": "Teacher", "employer": "AISD", "oos_pac": false},
+        {"date": "08/29/2016", "name": "Tsao, Eric (Mr.)", "city_state_zip": "Austin, TX 78738-4018", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 18,
+      "type": "A1",
+      "sch_pos": "15/16",
+      "entries": [
+        {"date": "08/31/2016", "name": "Urrutia, Bradley (Mr.)", "city_state_zip": "Austin, TX 78748", "amount": 50.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/22/2016", "name": "Walker, Lee", "city_state_zip": "Austin, TX 78751", "amount": 250.00, "occupation": "N/A", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/20/2016", "name": "Waxler, Mel (Mr.)", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": "Attorney/College Administrator", "employer": "Blinn College", "oos_pac": false},
+        {"date": "08/31/2016", "name": "Weed, Elizabeth (Ms.)", "city_state_zip": "Austin, TX 78704-5227", "amount": 250.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/16/2016", "name": "Wendler Jr., Ed (Mr.)", "city_state_zip": "Austin, TX 78731", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 19,
+      "type": "A1",
+      "sch_pos": "16/16",
+      "entries": [
+        {"date": "08/19/2016", "name": "Yznaga, Mary (Ms.)", "city_state_zip": "Austin, TX 78704", "amount": 25.00, "occupation": "Metal Artist", "employer": "Self-Employed", "oos_pac": false},
+        {"date": "08/09/2016", "name": "Zeller, Charles", "city_state_zip": "Austin, TX 78733", "amount": 500.00, "occupation": "Retired", "employer": "Retired", "oos_pac": false}
+      ]
+    },
+    { "page": 20, "type": "OTHER", "label": "SCHEDULE F1" }
+  ]
+}

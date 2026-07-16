@@ -1,0 +1,165 @@
+{
+  "chunk": "pct4_margaret-gomez__2022-01-31_COH__p0001-p0020",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gómez, Margaret J.",
+      "report_type": "30th day before election",
+      "period_from": "01/01/22",
+      "period_through": "01/20/22",
+      "office_held": "Travis Co. Commissioner, Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 12200.60,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 11031.60,
+      "contribution_balance": 68873.46,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH, COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/2",
+      "entries": [
+        {
+          "date": "1/5/22",
+          "name": "Shubhada Saxena",
+          "city_state_zip": "Austin, TX",
+          "amount": 50.00,
+          "occupation": "President",
+          "employer": "Aspire to Age ABC",
+          "oos_pac": false
+        },
+        {
+          "date": "1/5/22",
+          "name": "Aubrey Mayo",
+          "city_state_zip": "Austin, TX 78704",
+          "amount": 5060.00,
+          "occupation": "NOT EMPLOYED",
+          "employer": "NOT EMPLOYED",
+          "oos_pac": false
+        },
+        {
+          "date": "1/5/22",
+          "name": "Amy Mok",
+          "city_state_zip": null,
+          "amount": 100.00,
+          "occupation": "Educator",
+          "employer": "Asian American Cultural Center",
+          "oos_pac": false
+        },
+        {
+          "date": "1/8/22",
+          "name": "Helen Ann Henderson",
+          "city_state_zip": "Austin, TX 78741",
+          "amount": 50.00,
+          "occupation": "Education",
+          "employer": "Not known",
+          "oos_pac": false
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": "2/2",
+      "entries": [
+        {
+          "date": "1/19/22",
+          "name": "Laura Mabee / Travis County Sheriff's Law Enforcement PAC",
+          "city_state_zip": "Austin, TX 78747",
+          "amount": 7000.00,
+          "occupation": null,
+          "employer": null,
+          "oos_pac": false
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "type": "A2",
+      "sch_pos": "1/1",
+      "entries": []
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE B: PLEDGED CONTRIBUTIONS"
+    },
+    {
+      "page": 8,
+      "type": "OTHER",
+      "label": "SCHEDULE E: LOANS"
+    },
+    {
+      "page": 9,
+      "type": "OTHER",
+      "label": "SCHEDULE F1: POLITICAL EXPENDITURES MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 10,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 11,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 12,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 13,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 14,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 15,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 16,
+      "type": "OTHER",
+      "label": "SCHEDULE F2: UNPAID INCURRED OBLIGATIONS"
+    },
+    {
+      "page": 17,
+      "type": "OTHER",
+      "label": "SCHEDULE F3: PURCHASE OF INVESTMENTS MADE FROM POLITICAL CONTRIBUTIONS"
+    },
+    {
+      "page": 18,
+      "type": "OTHER",
+      "label": "SCHEDULE F4: EXPENDITURES MADE BY CREDIT CARD"
+    },
+    {
+      "page": 19,
+      "type": "OTHER",
+      "label": "SCHEDULE G: POLITICAL EXPENDITURES MADE FROM PERSONAL FUNDS"
+    },
+    {
+      "page": 20,
+      "type": "OTHER",
+      "label": "SCHEDULE H: PAYMENT MADE FROM POLITICAL CONTRIBUTIONS TO A BUSINESS OF C/OH"
+    }
+  ]
+}

@@ -28,9 +28,9 @@ except (ValueError, AttributeError):
 # ── Config ─────────────────────────────────────────────────────────────────────
 load_dotenv(_pathlib.Path(__file__).parent / ".env")
 DB           = "austin_finance.db"
-FEC_API_KEYS = [k for k in (os.getenv("FEC_API_KEY_1"), os.getenv("FEC_API_KEY_2")) if k]
+FEC_API_KEYS = [k for k in (os.getenv(f"FEC_API_KEY_{i}") for i in range(1, 10)) if k]
 if not FEC_API_KEYS:
-    raise SystemExit("No FEC API keys in env. Set FEC_API_KEY_1 (and optionally FEC_API_KEY_2) in .env")
+    raise SystemExit("No FEC API keys in env. Set FEC_API_KEY_1 (and optionally FEC_API_KEY_2..9) in .env")
 FEC_API_KEY  = FEC_API_KEYS[0]  # kept for backward compat
 FEC_BASE     = "https://api.open.fec.gov/v1"
 TOP_N        = 2000
@@ -533,7 +533,7 @@ def main():
 
     session = requests.Session()
     session.headers.update({"User-Agent": "Austin Finance Research / contact@example.com"})
-    rate_limiter = RateLimiter(max_calls=1600, window_seconds=600)  # 2 keys × 800 calls/10min each
+    rate_limiter = RateLimiter(max_calls=800 * len(FEC_API_KEYS), window_seconds=600)  # 800 calls/10min per key
     committee_cache = CommitteeCache(conn, session, rate_limiter)
 
     stats = {"matched": 0, "no_history": 0, "ambiguous": 0, "api_errors": 0}

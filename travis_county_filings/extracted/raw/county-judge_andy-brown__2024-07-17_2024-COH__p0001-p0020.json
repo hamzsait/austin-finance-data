@@ -1,0 +1,127 @@
+{
+  "chunk": "county-judge_andy-brown__2024-07-17_2024-COH__p0001-p0020",
+  "pages": [
+    {"page": 1, "type": "COVER1", "filer_name": "Brown, Andy", "report_type": "July 15", "period_from": "01/01/2024", "period_through": "06/30/2024", "office_held": "Travis County Judge", "correction": false},
+    {"page": 2, "type": "COVER2", "total_unitemized_contributions": 0.00, "total_contributions": 62688.00, "total_unitemized_expenditures": 0.00, "total_expenditures": 55159.94, "contribution_balance": 538288.61, "outstanding_loans": 0.00},
+    {"page": 3, "type": "COVER3", "label": "SUBTOTALS - C/OH COVER SHEET PG 3"},
+    {"page": 4, "type": "A1", "sch_pos": "1/23", "entries": [
+      {"date": "06/02/2024", "name": "Albert, David", "city_state_zip": "Austin, TX 78741", "amount": 250.00, "occupation": "Austin Community College", "employer": "Professor", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Armstrong, William", "city_state_zip": "Austin, TX 78701", "amount": 2500.00, "occupation": "Real Estate", "employer": "Stratus", "oos_pac": false},
+      {"date": "05/19/2024", "name": "Authur, Joy", "city_state_zip": "Austin, TX 78757", "amount": 150.00, "occupation": "Chief Development Officer", "employer": "Peoples Community Clinic", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Baez III, Celso", "city_state_zip": "Austin, TX 78722", "amount": 250.00, "occupation": "Government Administrator", "employer": "CapMetro", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Beliveau, Emmett", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "Executive", "employer": "C3 Presents", "oos_pac": false}
+    ]},
+    {"page": 5, "type": "A1", "sch_pos": "2/23", "entries": [
+      {"date": "05/19/2024", "name": "Bentley, Jeremiah", "city_state_zip": "Austin, TX 78750", "amount": 100.00, "occupation": "VP Marketing", "employer": "Texas Mutual Insurance Company", "oos_pac": false},
+      {"date": "06/30/2024", "name": "Bhatt, Bhuvanesh", "city_state_zip": "San Antonio, TX 78240", "amount": 25.00, "occupation": "Software developer", "employer": "Wolfram Research", "oos_pac": false},
+      {"date": "05/19/2024", "name": "Blakeslee, Julie", "city_state_zip": "Austin, TX 78701", "amount": 5000.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Bull, Blaine", "city_state_zip": "Austin, TX 78746", "amount": 1000.00, "occupation": "small business owner", "employer": "Vianovo", "oos_pac": false},
+      {"date": "02/04/2024", "name": "Burek, Susan", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false}
+    ]},
+    {"page": 6, "type": "A1", "sch_pos": "3/23", "entries": [
+      {"date": "03/03/2024", "name": "Burek, Susan", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "03/31/2024", "name": "Burek, Susan", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "05/05/2024", "name": "Burek, Susan", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Burek, Susan", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "06/30/2024", "name": "Burek, Susan", "city_state_zip": "Austin, TX 78758", "amount": 10.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false}
+    ]},
+    {"page": 7, "type": "A1", "sch_pos": "4/23", "entries": [
+      {"date": "05/19/2024", "name": "Byrne, Dan", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": "Attorney", "employer": "Fritz Byrne PLLC", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Castillo, Gerardo", "city_state_zip": "Delray Beach, FL 33483", "amount": 5000.00, "occupation": "President/ Owner", "employer": "ABML", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Cofer, George", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": "consultant", "employer": "self", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Colmenero, Rudy", "city_state_zip": "Austin, TX 78703", "amount": 250.00, "occupation": "Attorney", "employer": "Vacek Kiecke & Colmenero LLP", "oos_pac": false},
+      {"date": "06/30/2024", "name": "Curry, Dale", "city_state_zip": "Austin, TX 78758", "amount": 30.00, "occupation": "Asset Manager", "employer": "Retired", "oos_pac": false}
+    ]},
+    {"page": 8, "type": "A1", "sch_pos": "5/23", "entries": [
+      {"date": "06/23/2024", "name": "Dalton, Randy", "city_state_zip": "Austin, TX 78704", "amount": 10.00, "occupation": "Not employed", "employer": "Not employed", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Davidson, Logan", "city_state_zip": "Austin, TX 78702", "amount": 500.00, "occupation": "Legislative Director", "employer": "Texas House of Representatives", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Demerath, Justin", "city_state_zip": "Austin, TX 78703", "amount": 500.00, "occupation": "ATTY", "employer": "ODC Law Firm", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Ellis, Peni", "city_state_zip": "Austin, TX 78703", "amount": 2500.00, "occupation": "Lawyer", "employer": "Marrs Ellis & Hodge LLP", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Estes, Amy", "city_state_zip": "Austin, TX 78704", "amount": 250.00, "occupation": "Teaching Assistant", "employer": "UTSA", "oos_pac": false}
+    ]},
+    {"page": 9, "type": "A1", "sch_pos": "6/23", "entries": [
+      {"date": "01/28/2024", "name": "Fehr, Stefan", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Social Worker", "employer": "Travis County HHS&VS", "oos_pac": false},
+      {"date": "02/25/2024", "name": "Fehr, Stefan", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Social Worker", "employer": "Travis County HHS&VS", "oos_pac": false},
+      {"date": "03/24/2024", "name": "Fehr, Stefan", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Social Worker", "employer": "Travis County HHS&VS", "oos_pac": false},
+      {"date": "04/28/2024", "name": "Fehr, Stefan", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Social Worker", "employer": "Travis County HHS&VS", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Fehr, Stefan", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Social Worker", "employer": "Travis County HHS&VS", "oos_pac": false}
+    ]},
+    {"page": 10, "type": "A1", "sch_pos": "7/23", "entries": [
+      {"date": "06/23/2024", "name": "Fehr, Stefan", "city_state_zip": "Austin, TX 78704", "amount": 3.00, "occupation": "Social Worker", "employer": "Travis County HHS&VS", "oos_pac": false},
+      {"date": "01/07/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false},
+      {"date": "02/04/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false},
+      {"date": "03/03/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false},
+      {"date": "04/07/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false}
+    ]},
+    {"page": 11, "type": "A1", "sch_pos": "8/23", "entries": [
+      {"date": "05/05/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 1000.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false},
+      {"date": "06/09/2024", "name": "Ganesh, Sai", "city_state_zip": "Austin, TX 78745", "amount": 100.00, "occupation": "CEO", "employer": "ePsolutions Inc", "oos_pac": false},
+      {"date": "06/30/2024", "name": "Guthikonda, Gopal", "city_state_zip": "Austin, TX 78720", "amount": 500.00, "occupation": "Engineer", "employer": "STV Inc", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Hecker, Marvin", "city_state_zip": "Austin, TX 78746", "amount": 100.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false}
+    ]},
+    {"page": 12, "type": "A1", "sch_pos": "9/23", "entries": [
+      {"date": "03/03/2024", "name": "Hehmsoth, Carl", "city_state_zip": "Austin, TX 78731", "amount": 25.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "06/03/2024", "name": "Hirsch, Michael", "city_state_zip": "Austin, TX 78703", "amount": 150.00, "occupation": "Dean of the College of Arts and Sciences", "employer": "Huston-Tillotson University", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Hurt, Brett", "city_state_zip": "Austin, TX 78733", "amount": 900.00, "occupation": "CEO", "employer": "data.world", "oos_pac": false},
+      {"date": "03/28/2024", "name": "Inman, Bobby", "city_state_zip": "Austin, TX 78746", "amount": 250.00, "occupation": "Professor", "employer": "Univesity of Texas at Austin", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Kester, Steven", "city_state_zip": "Austin, TX 78731", "amount": 250.00, "occupation": "Manager", "employer": "Apple", "oos_pac": false}
+    ]},
+    {"page": 13, "type": "A1", "sch_pos": "10/23", "entries": [
+      {"date": "05/19/2024", "name": "Khataw, Ali R.", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": "CEO", "employer": "Encotech", "oos_pac": false},
+      {"date": "06/30/2024", "name": "LINEBARGER, Dale", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": "Not employed", "employer": "Not employed", "oos_pac": false},
+      {"date": "06/03/2024", "name": "Langmore, John", "city_state_zip": "Ausitn, TX 78703", "amount": 300.00, "occupation": "Attorney / Financial Advisor / Photographer", "employer": "Self", "oos_pac": false},
+      {"date": "06/03/2024", "name": "Linehan, Paul", "city_state_zip": "Austin, TX 78735", "amount": 500.00, "occupation": "Owner", "employer": "Self", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Lorenz, Perry", "city_state_zip": "Austin, TX 78702", "amount": 1000.00, "occupation": "real estate", "employer": "self", "oos_pac": false}
+    ]},
+    {"page": 14, "type": "A1", "sch_pos": "11/23", "entries": [
+      {"date": "01/21/2024", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "02/18/2024", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "03/24/2024", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "04/21/2024", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "05/19/2024", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false}
+    ]},
+    {"page": 15, "type": "A1", "sch_pos": "12/23", "entries": [
+      {"date": "06/23/2024", "name": "Loyd, Matt", "city_state_zip": "Austin, TX 78749", "amount": 25.00, "occupation": "Sales", "employer": "Temenos", "oos_pac": false},
+      {"date": "06/02/2024", "name": "MCDOWELL, JOHNNIE", "city_state_zip": "Leander, TX 78641", "amount": 15.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "06/30/2024", "name": "MCDOWELL, JOHNNIE", "city_state_zip": "Leander, TX 78641", "amount": 12.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "01/28/2024", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "02/25/2024", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false}
+    ]},
+    {"page": 16, "type": "A1", "sch_pos": "13/23", "entries": [
+      {"date": "03/24/2024", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "04/28/2024", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "06/23/2024", "name": "Martin, Rebekah", "city_state_zip": "Austin, TX 78748", "amount": 15.00, "occupation": "Business Analyst", "employer": "Centene", "oos_pac": false},
+      {"date": "04/07/2024", "name": "Meyers, Lucas", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": "consultant", "employer": "governmental affairs llc", "oos_pac": false}
+    ]},
+    {"page": 17, "type": "A1", "sch_pos": "14/23", "entries": [
+      {"date": "01/07/2024", "name": "Michel, Robert", "city_state_zip": "Austin, TX 78705", "amount": 500.00, "occupation": "Film and Music Producer", "employer": "Loudhouse Productions LLC", "oos_pac": false},
+      {"date": "05/19/2024", "name": "Moreland, Emily", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": "Real Estate Broker", "employer": "Moreland Properties", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Nelson, Justin", "city_state_zip": "Austin, TX 78703", "amount": 5000.00, "occupation": "Attorney", "employer": "Susman Godfrey", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Ochoa, Robert", "city_state_zip": "Austin, TX 78741", "amount": 500.00, "occupation": "Human Resources", "employer": "xAI", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Ortega, Dolores", "city_state_zip": "AUSTIN, TX 78727", "amount": 250.00, "occupation": "County Treasurer", "employer": "Travis County", "oos_pac": false}
+    ]},
+    {"page": 18, "type": "A1", "sch_pos": "15/23", "entries": [
+      {"date": "06/02/2024", "name": "Ortega, Randy", "city_state_zip": "Austin, TX 78758", "amount": 20.00, "occupation": "Attorney", "employer": "Travis County", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Patrick, Mary", "city_state_zip": "Austin, TX 78703", "amount": 100.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "06/18/2024", "name": "Peel, Deborah", "city_state_zip": "Austin, TX 78701", "amount": 2500.00, "occupation": "MD", "employer": "Self", "oos_pac": false},
+      {"date": "02/04/2024", "name": "Peters, Hannah", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Consultant", "employer": "WE Communications", "oos_pac": false},
+      {"date": "03/03/2024", "name": "Peters, Hannah", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Consultant", "employer": "WE Communications", "oos_pac": false}
+    ]},
+    {"page": 19, "type": "A1", "sch_pos": "16/23", "entries": [
+      {"date": "03/31/2024", "name": "Peters, Hannah", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Consultant", "employer": "WE Communications", "oos_pac": false},
+      {"date": "05/05/2024", "name": "Peters, Hannah", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Consultant", "employer": "WE Communications", "oos_pac": false},
+      {"date": "06/02/2024", "name": "Peters, Hannah", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Consultant", "employer": "WE Communications", "oos_pac": false},
+      {"date": "06/30/2024", "name": "Peters, Hannah", "city_state_zip": "Austin, TX 78757", "amount": 50.00, "occupation": "Consultant", "employer": "WE Communications", "oos_pac": false},
+      {"date": "06/23/2024", "name": "Reynolds, Joseph", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false}
+    ]},
+    {"page": 20, "type": "A1", "sch_pos": "17/23", "entries": [
+      {"date": "05/19/2024", "name": "Richmond, Debra", "city_state_zip": "Austin, TX 78739", "amount": 500.00, "occupation": "Richmond Advisory LLC", "employer": "Principal", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Rosato, John", "city_state_zip": "Austin, TX 78746", "amount": 500.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false},
+      {"date": "06/16/2024", "name": "Rose, Terri", "city_state_zip": "Austin, TX 78722", "amount": 50.00, "occupation": "Not employed", "employer": "Not employed", "oos_pac": false},
+      {"date": "05/19/2024", "name": "Sanchez, Alina", "city_state_zip": "Austin, TX 78745", "amount": 500.00, "occupation": "Consultant", "employer": "Accelerating Purpose", "oos_pac": false},
+      {"date": "05/26/2024", "name": "Siff, Ted", "city_state_zip": "Austin, TX 78701", "amount": 250.00, "occupation": "Not Employed", "employer": "Not Employed", "oos_pac": false}
+    ]}
+  ]
+}

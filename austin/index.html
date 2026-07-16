@@ -4,20 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Social link previews (Open Graph + Twitter) -->
-<meta name="description" content="Campaign money for all 11 Austin City Council seats, decoded donor by donor — $5.6M raised from 15,800+ donors, every dollar matched to an industry.">
+<meta name="description" content="Campaign money for Austin City Council and the Travis County Commissioners Court, decoded donor by donor — $9.0M raised from 18,800+ donors, every dollar matched to an industry.">
 <link rel="canonical" href="https://decodepolitics.org/austin/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="Austin Campaign Finance — decode(politics):">
-<meta property="og:description" content="Campaign money for all 11 Austin City Council seats, decoded donor by donor — $5.6M raised from 15,800+ donors, every dollar matched to an industry.">
+<meta property="og:description" content="Campaign money for Austin City Council and the Travis County Commissioners Court, decoded donor by donor — $9.0M raised from 18,800+ donors, every dollar matched to an industry.">
 <meta property="og:url" content="https://decodepolitics.org/austin/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-austin.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Austin City Council campaign finance, decoded — 11 seats, $5.6M raised, 15,800+ donors">
+<meta property="og:image:alt" content="Austin + Travis County campaign finance, decoded — 16 officials, $9.0M raised, 18,800+ donors">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Austin Campaign Finance — decode(politics):">
-<meta name="twitter:description" content="Campaign money for all 11 Austin City Council seats, decoded donor by donor — $5.6M raised from 15,800+ donors, every dollar matched to an industry.">
+<meta name="twitter:description" content="Campaign money for Austin City Council and the Travis County Commissioners Court, decoded donor by donor — $9.0M raised from 18,800+ donors, every dollar matched to an industry.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-austin.png">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
@@ -175,7 +175,7 @@
 <header class="pagehead padx">
   <div class="eyebrow">City of Austin · live data</div>
   <h1>Austin <span>Campaign Finance</span></h1>
-  <p>Who funds Austin's city council candidates? Explore donation histories, industry breakdowns, and donor networks for every race. Flip a card for the money — click through for the full profile.</p>
+  <p>Who funds Austin's city council and Travis County officials? Explore donation histories, industry breakdowns, and donor networks for every race. Flip a card for the money — click through for the full profile.</p>
 </header>
 
 <section class="padx" style="padding-top:28px">
@@ -183,15 +183,20 @@
   <div class="cardgrid" id="gridMayor"></div>
 </section>
 
-<section class="padx" style="padding-top:36px;padding-bottom:52px">
+<section class="padx" style="padding-top:36px">
   <h2 class="sectlbl">Districts 1–10</h2>
   <div class="cardgrid" id="gridDistricts"></div>
+</section>
+
+<section class="padx" style="padding-top:36px;padding-bottom:52px">
+  <h2 class="sectlbl">Travis County Commissioners Court</h2>
+  <div class="cardgrid" id="gridCounty"></div>
 </section>
 
 <section class="padx" style="padding-bottom:64px">
   <h2 class="sectlbl">About This Project</h2>
   <p style="color:var(--muted);font-size:14px;line-height:1.7;max-width:620px">
-    Data sourced from the Austin City Clerk's campaign finance records and cross-referenced with FEC federal filings.
+    Data sourced from the Austin City Clerk's campaign finance records and the Travis County Clerk's C/OH filings, cross-referenced with FEC federal filings.
     Industry classifications are derived from employer identities, occupation records, and public information.
     All source data is public record.
   </p>
@@ -233,7 +238,7 @@
 
 /* ══════════ white flip cards — same design as the landing page ══════════ */
 const NAVY = '#18314f', RED = '#ba1200', MUTED = '#5b6b7a';
-const PHOTOS = new Set(['au0','au1','au2','au3','au4','au5','au6','au7','au8','au9','au10','israel','kelly','ganguly','llanes']);
+const PHOTOS = new Set(['au0','au1','au2','au3','au4','au5','au6','au7','au8','au9','au10','israel','kelly','ganguly','llanes','tc-brown','tc-travillion','tc-shea','tc-howard','tc-gomez']);
 
 // Sections: Mayor, Districts 1-10 (seat order), then recent unelected candidates.
 // Live slugs resolve against austin_landing.json; soon entries are static.
@@ -250,6 +255,13 @@ const SECTIONS = [
     { slug:'ellis' },          // District 8
     { slug:'qadri' },          // District 9
     { slug:'duchen' }          // District 10
+  ]},
+  { grid:'gridCounty', entries: [
+    { slug:'brown' },          // County Judge
+    { slug:'travillion' },     // Precinct 1
+    { slug:'shea' },           // Precinct 2
+    { slug:'howard' },         // Precinct 3
+    { slug:'gomez' }           // Precinct 4
   ]}
 ];
 

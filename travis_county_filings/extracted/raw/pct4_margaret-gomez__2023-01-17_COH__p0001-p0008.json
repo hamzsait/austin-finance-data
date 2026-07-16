@@ -1,0 +1,68 @@
+{
+  "chunk": "pct4_margaret-gomez__2023-01-17_COH__p0001-p0008",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Gomez, Margaret J.",
+      "report_type": "January 15",
+      "period_from": "07/01/22",
+      "period_through": "12/31/22",
+      "office_held": "Travis Co. Comm, Pct 4",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 2500.00,
+      "total_unitemized_expenditures": 0.00,
+      "total_expenditures": 1920.00,
+      "contribution_balance": 12120.86,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": null,
+      "entries": [
+        {
+          "date": "7/6/22",
+          "name": "Paul Chope",
+          "city_state_zip": "Austin, TX 78746",
+          "amount": 2500.00,
+          "occupation": "Attorney at Law",
+          "employer": "Linebarger, Goggan, Blair & Sampson, LLP",
+          "oos_pac": false,
+          "uncertain": true,
+          "note": "Second line under name field also reads 'Linebarger, Goggan, Blair & Sampson, LLP' - appears duplicated with employer field; name transcribed as written on first line."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 6,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 7,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    },
+    {
+      "page": 8,
+      "type": "OTHER",
+      "label": "SCHEDULE F1"
+    }
+  ]
+}

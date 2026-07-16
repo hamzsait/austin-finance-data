@@ -1,0 +1,58 @@
+{
+  "chunk": "pct1_jeff-travillion__2018-01-17_COH__p0001-p0013",
+  "pages": [
+    {
+      "page": 1,
+      "type": "COVER1",
+      "filer_name": "Travillion, Jeff",
+      "report_type": "January 15",
+      "period_from": "07/01/2017",
+      "period_through": "12/31/2017",
+      "office_held": "County Commissioner District 1 Travis",
+      "correction": false
+    },
+    {
+      "page": 2,
+      "type": "COVER2",
+      "total_unitemized_contributions": 0.00,
+      "total_contributions": 6100.00,
+      "total_unitemized_expenditures": 444.22,
+      "total_expenditures": 4778.01,
+      "contribution_balance": 15038.16,
+      "outstanding_loans": 0.00
+    },
+    {
+      "page": 3,
+      "type": "COVER3",
+      "label": "SUBTOTALS - C/OH, COVER SHEET PG 3"
+    },
+    {
+      "page": 4,
+      "type": "A1",
+      "sch_pos": "1/2",
+      "entries": [
+        {"date": "07/10/2017", "name": "Coronado, Santiago", "city_state_zip": "Austin, TX 78731", "amount": 100.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "12/05/2017", "name": "Dawson, Rhett", "city_state_zip": "Austin, TX 78703", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "12/04/2017", "name": "Halff Associates State PAC", "city_state_zip": "Austin, TX 78729", "amount": 500.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "08/18/2017", "name": "IBEW-COPE", "city_state_zip": "Austin, TX 78741", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+        {"date": "12/05/2017", "name": "Tiemann, Robert", "city_state_zip": "Pflugerville, TX 78660", "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {
+      "page": 5,
+      "type": "A1",
+      "sch_pos": "2/2",
+      "entries": [
+        {"date": "09/08/2017", "name": "Travis County Sheriffs Law Enforcement Assoc. PAC", "city_state_zip": "Austin, TX 78714", "amount": 2500.00, "occupation": null, "employer": null, "oos_pac": false}
+      ]
+    },
+    {"page": 6, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 7, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 8, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 9, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 10, "type": "OTHER", "label": "SCHEDULE F1"},
+    {"page": 11, "type": "OTHER", "label": "SCHEDULE G"},
+    {"page": 12, "type": "OTHER", "label": "SCHEDULE I"},
+    {"page": 13, "type": "OTHER", "label": "SCHEDULE I"}
+  ]
+}

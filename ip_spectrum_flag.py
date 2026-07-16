@@ -31,9 +31,12 @@ IP_COMMITTEES = {
     "C00687657": ("proisrael_hawkish", "hawkish_proisrael", "American Pro-Israel PAC"),
     "C00753459": ("proisrael_hawkish", "hawkish_proisrael", "Jewish Unity PAC"),
     "C00520320": ("proisrael_hawkish", "hawkish_proisrael", "Allies of Israel PAC"),
+    "C00720128": ("proisrael_hawkish", "hawkish_proisrael", "Christians for Israel PAC"),
+    "C00141747": ("proisrael_hawkish", "hawkish_proisrael", "Friends of Israel PAC (FIPAC)"),
 
     # === LIBERAL ZIONIST ===
     "C00441949": ("liberal_zionist",   "liberal_zionist",   "JStreetPAC"),
+    "C00815753": ("liberal_zionist",   "liberal_zionist",   "J Street Action Fund"),
     "C00573253": ("liberal_zionist",   "liberal_zionist",   "Bend the Arc Jewish Action PAC"),
     "C00306670": ("liberal_zionist",   "liberal_zionist",   "National Jewish Democratic Council PAC"),
 

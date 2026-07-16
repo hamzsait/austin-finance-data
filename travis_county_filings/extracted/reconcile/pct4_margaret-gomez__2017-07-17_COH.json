@@ -1,0 +1,8 @@
+{
+  "report": "pct4_margaret-gomez__2017-07-17_COH",
+  "verdict": "filer_error",
+  "changes": [],
+  "expected_delta_after_fix": 13850.06,
+  "evidence": "Cover Sheet PG 2, box 17 (p0002.png), transcribed box-by-box: Line 1 'TOTAL POLITICAL CONTRIBUTIONS OF $50 OR LESS ... UNLESS ITEMIZED' = $13,850.06 (clearly handwritten '13,850.06'); Line 2 'TOTAL POLITICAL CONTRIBUTIONS' = $1,500.00; Line 3 'TOTAL POLITICAL EXPENDITURES OF $100 OR LESS' = -0-; Line 4 'TOTAL POLITICAL EXPENDITURES' = $240.00; Line 5 'TOTAL POLITICAL CONTRIBUTIONS MAINTAINED' = $15,110.06; Line 6 outstanding loans = -0-. Cover PG 3 subtotals (p0003.png): A1 = $1,500.00, F1 = $240.00, all other schedules -0-. Schedule A1 (p0004.png) has exactly one entry: Susan Spataro, 5/26/17, $1,500.00; A2/B/E/F2/F3/F4/G/H/I/K/T (p0005-p0016) all marked 'None'. Itemized recomputed total = $1,500.00, matching Line 2 and the A1 subtotal.",
+  "note": "The extraction correctly read every box; no vision error. The sworn filing is internally inconsistent: Line 1 ($13,850.06) cannot be unitemized contributions because Line 2 (total contributions, which must include unitemized) is only $1,500.00. The arithmetic 13,850.06 + 1,500.00 - 240.00 = 15,110.06 exactly equals Line 5, showing the filer wrote the prior-period balance carried forward into Line 1 instead of unitemized contributions. True unitemized contributions for the period are almost certainly $0 (all contributions itemized on A1). Entry data left untouched; downstream consumers should treat total_unitemized_contributions on this report as a filer mislabel of prior balance and use $0 for period unitemized receipts."
+}

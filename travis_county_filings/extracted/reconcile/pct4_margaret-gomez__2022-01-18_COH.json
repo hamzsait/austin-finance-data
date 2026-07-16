@@ -1,0 +1,16 @@
+{
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "verdict": "fixed",
+  "changes": [
+    {
+      "file": "extracted/raw/pct4_margaret-gomez__2022-01-18_COH__p0001-p0020.json",
+      "page": 4,
+      "field": "entries[0].amount (Alev Leo / Travis County Sheriff's Law Enforcement Assn PAC, 7/9/21)",
+      "was": 10600.00,
+      "now": 10000.00
+    }
+  ],
+  "expected_delta_after_fix": 0.00,
+  "evidence": "Zoomed crop of p0004 amount box: all three digits after the comma share the writer's distinctive curled-loop zero (identical to the '0' in '10', the trailing cents '00', and the '000' in '$25,000.00' on p0015). Her '6' is written with a tall ascender rising above the bowl (see '66816.00' on cover pg 2, p0002), which the disputed digit lacks. Reading is $10,000.00.",
+  "note": "Every other A1 amount on pages 5-22 was verified against its page image and matched the extraction (crossed-out/blank rows on pp. 4, 7, 10 correctly excluded; A2 on p23 is 'None'). With the fix, itemized A1 sum = $66,816.00, matching the sworn cover-sheet total of $66,816.00 with $0 unitemized. Filer's arithmetic is internally consistent; the discrepancy was a vision misread of one digit."
+}

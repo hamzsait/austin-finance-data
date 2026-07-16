@@ -1,0 +1,296 @@
+[
+ {
+  "report": "county-judge_andy-brown__2022-01-18_COH",
+  "page": 68,
+  "entry": "Kennedy, Kevin",
+  "problem": "uncertain: City/State/Zip as written: 'Brooklyn, TX 11222' - likely Brooklyn, NY but transcribed exactly as printed"
+ },
+ {
+  "report": "county-judge_andy-brown__2022-01-18_COH",
+  "page": 117,
+  "entry": "Thomas, Stephanie",
+  "problem": "uncertain: employer written as 'Srlf', likely intended 'Self'"
+ },
+ {
+  "report": "county-judge_andy-brown__2022-07-15_COH",
+  "page": 68,
+  "entry": "McLellan, William",
+  "problem": "uncertain: Same contributor/date/amount as last entry on preceding page (Sch 64/109); appears duplicated on both pages in source."
+ },
+ {
+  "report": "county-judge_andy-brown__2022-07-15_COH",
+  "page": 102,
+  "entry": "Tunr, Patty",
+  "problem": "uncertain: form reads 'Tunr, Patty' \u2014 likely intended as 'Tune, Patty' but transcribed as written"
+ },
+ {
+  "report": "county-judge_andy-brown__2022-10-11_COH",
+  "page": 15,
+  "entry": "Donohue, Judy",
+  "problem": "uncertain: city name reads 'Lakewsy' on form, possibly a typo for Lakeway"
+ },
+ {
+  "report": "county-judge_andy-brown__2022-10-11_COH",
+  "page": 43,
+  "entry": "Rowland, Amber",
+  "problem": "uncertain: occupation handwritten oddly as 'Program atanager', read as Program Manager"
+ },
+ {
+  "report": "county-judge_andy-brown__2023-01-17_COH",
+  "page": 8,
+  "entry": "Caperton, Kent",
+  "problem": "uncertain: city field printed as just 'A'"
+ },
+ {
+  "report": "county-judge_andy-brown__2023-01-17_COH",
+  "page": 12,
+  "entry": "Freemon, Terrell (Todd)",
+  "problem": "uncertain: zip printed as 78723 (Austin TX zip) despite CT city/state"
+ },
+ {
+  "report": "county-judge_andy-brown__2023-01-17_COH",
+  "page": 15,
+  "entry": "Kaplan, Austin",
+  "problem": "uncertain: occupation/employer fields appear swapped as printed on form"
+ },
+ {
+  "report": "county-judge_andy-brown__2025-07-15_2025-July-COH-Report",
+  "page": 11,
+  "entry": "Burek, Susan",
+  "problem": "uncertain: city_state_zip line partially obscured/overlapping on page; inferred from consistent pattern of other Burek, Susan entries on this filing"
+ },
+ {
+  "report": "county-judge_andy-brown__2025-07-15_2025-July-COH-Report",
+  "page": 32,
+  "entry": "Kaplan, Austin",
+  "problem": "uncertain: occupation/employer labels appear reversed on the form (occupation box reads 'Kaplan Law Firm PLLC', employer box reads 'Attorney') but transcribed as printed"
+ },
+ {
+  "report": "county-judge_andy-brown__2025-07-15_2025-July-COH-Report",
+  "page": 40,
+  "entry": "Lubetzky, Daniel",
+  "problem": "uncertain: zip code '96913' as printed does not match an Austin, TX zip, but transcribed exactly as written"
+ },
+ {
+  "report": "county-judge_andy-brown__2026-01-15_COH-Andy-Brown-January-2026",
+  "page": 10,
+  "entry": "Clay, Greg",
+  "problem": "uncertain: occupation text appears to be a typo for 'Real estate professional'"
+ },
+ {
+  "report": "county-judge_andy-brown__2026-01-15_COH-Andy-Brown-January-2026",
+  "page": 16,
+  "entry": "Goodrich",
+  "problem": "uncertain: only one name written for contributor, no first/last split visible"
+ },
+ {
+  "report": "county-judge_andy-brown__2026-01-15_COH-Andy-Brown-January-2026",
+  "page": 20,
+  "entry": "Scott Kamran",
+  "problem": "uncertain: name written as 'Scott Kamran' rather than 'Last, First' format"
+ },
+ {
+  "report": "county-judge_andy-brown__2026-01-15_COH-Andy-Brown-January-2026",
+  "page": 33,
+  "entry": "Switzer, Brittany",
+  "problem": "uncertain: city/zip line partly obscured by redaction bar; zip inferred from identical later entries for same contributor"
+ },
+ {
+  "report": "county-judge_andy-brown__2026-01-15_COH-Andy-Brown-January-2026",
+  "problem": "filer discrepancy (kept as filed)",
+  "note": "Schedules list Husch Blackwell $5,000 twice (12/17/2025 and 12/31/2025, verified on page 19 image); cover-sheet total $277,378.33 is $5,000 lower. Filer error in original report."
+ },
+ {
+  "report": "pct2_brigid-shea__2025-07-15_COH",
+  "page": 40,
+  "entry": "Saldaa, Paul",
+  "problem": "uncertain: surname appears as 'Saldaa' on the form; likely 'Saldana'/'Salda\u00f1a' but transcribed exactly as written"
+ },
+ {
+  "report": "pct2_brigid-shea__2026-01-15_COH",
+  "page": 18,
+  "entry": "Kitchen, Ann",
+  "problem": "uncertain: city/state/zip line obscured by redaction bar overlapping the address block"
+ },
+ {
+  "report": "pct2_brigid-shea__2026-01-15_COH",
+  "page": 18,
+  "entry": null,
+  "problem": "uncertain: contributor name fully blacked out (unusual - normally the address is redacted, not the name); street address visible as '6800 De Paul Cv'"
+ },
+ {
+  "report": "pct2_brigid-shea__2026-01-15_COH",
+  "page": 18,
+  "problem": "entry with no name"
+ },
+ {
+  "report": "pct3_ann-howard__2023-01-17_COH",
+  "page": 26,
+  "entry": "Zeller, Charles",
+  "problem": "uncertain: city/state/zip line partially obscured by overlapping redaction box"
+ },
+ {
+  "report": "pct4_margaret-gomez__2017-07-17_COH",
+  "problem": "filer discrepancy (kept as filed)",
+  "note": "Filer wrote prior-period balance $13,850.06 into the unitemized-contributions box; A1 total $1,500 matches all subtotals. True unitemized = $0."
+ },
+ {
+  "report": "pct4_margaret-gomez__2018-07-16_COH",
+  "page": 4,
+  "entry": "Robert George Harris",
+  "problem": "uncertain: Contributor name handwritten, hard to read exactly - could be 'Robert George Harris' or similar spelling."
+ },
+ {
+  "report": "pct4_margaret-gomez__2018-07-16_COH",
+  "page": 4,
+  "entry": "Paul Chopin",
+  "problem": "uncertain: Firm name 'Linebarger, Goggan, Blair & Sampson, LLP' written below contributor name rather than in Employer box; treated as employer."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 4,
+  "entry": "Alev Leo",
+  "problem": "uncertain: Second line beneath name reads 'Travis County Sheriff's Law Enforcement Assn PAC' \u2014 unclear if part of contributor identification or PAC affiliation. Amount corrected from earlier $10,600 read: digit after the comma matches the writer's curled zeros (cf. '25,000.00' on p15 and the cents '00'), not her tall-ascender '6' (cf. '66816' on cover pg 2); $10,000 also reconciles exactly with the sworn cover total of $66,816.00."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 4,
+  "entry": "Carol Guthrie",
+  "problem": "uncertain: Second line beneath name reads 'AFSCME'; occupation/employer boxes left blank."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 5,
+  "entry": "Nathan J. Walker",
+  "problem": "uncertain: Amount digits partly obscured; best reading $250.00."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 11,
+  "entry": "John",
+  "problem": "uncertain: Contributor's last name not legible; second line beneath name reads 'Project Management Consultants Advisors'."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 13,
+  "entry": "David Buhls",
+  "problem": "uncertain: Second line beneath name reads 'Texas Citizens for Local Control'."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 16,
+  "entry": "Vera D. Massaro",
+  "problem": "uncertain: Occupation handwriting difficult to read; best-guess transcription."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 21,
+  "entry": "David Salazar",
+  "problem": "uncertain: employer handwriting reads like 'TRAVIS COUNTS', likely 'TRAVIS COUNTY'"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 21,
+  "entry": "Emlyn Lee",
+  "problem": "uncertain: employer handwriting ambiguous, read as 'Brave Communities'"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-18_COH",
+  "page": 22,
+  "entry": "Amy Pettillo Campaign",
+  "problem": "uncertain: name handwriting unclear; trailing word read as 'Campaign'"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-01-31_COH",
+  "problem": "filer discrepancy (kept as filed)",
+  "note": "Filer's own cover pages disagree ($12,260.60 on COVER3 vs $12,200.60 on COVER2); all 5 entries verified at zoom sum to $12,260.00."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-02-21_COH",
+  "page": 4,
+  "entry": "Christine Dail (Travis County Sheriff's Officers Association)",
+  "problem": "uncertain: Full name field has two lines: 'Christine Dail' and 'Travis County Sheriff's Officers Association' below it"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-02-21_COH",
+  "page": 5,
+  "entry": "Jordan Villarreal",
+  "problem": "uncertain: Contributor first/last name handwriting hard to read; date as written may be a typo for 02/13/22"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-02-21_COH",
+  "page": 5,
+  "entry": "Dan Byrne",
+  "problem": "uncertain: Date field left blank; employer abbreviation hard to read"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-02-21_COH",
+  "page": 6,
+  "entry": "Lynn Sherman",
+  "problem": "uncertain: Date field left blank"
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-02-21_COH",
+  "problem": "filer discrepancy (kept as filed)",
+  "note": "A1 headers say 4 schedule pages; only 3 exist in the filed/scanned PDF. One A1 page (~$2,750, mid-Feb 2022) is missing from the county record itself."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 5,
+  "entry": "Norman, Donnie",
+  "problem": "uncertain: City name partially cut off by redaction bar, inferred 'Lago Vista'."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 7,
+  "entry": "Palmer, Geoffrey",
+  "problem": "uncertain: City/state/zip not visible on this entry."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 10,
+  "entry": "Thumlert, Jason",
+  "problem": "uncertain: Contributor's first/last name handwriting unclear; zip code also unclear (78764 is not a standard Austin zip)."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 12,
+  "entry": "Suttle, Richard",
+  "problem": "uncertain: Zip code digits unclear."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 13,
+  "entry": "Kirfman, Jack, Sec. - Vote PAC",
+  "problem": "uncertain: Employer name handwriting unclear, read as 'AFSCME' (written 'AFXAC' or similar)."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 14,
+  "entry": "Popp Hutcheson PLLC",
+  "problem": "uncertain: Date appears to read '7/28/22' though other entries on this page cluster around this same date; zip code unclear."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "page": 14,
+  "entry": "AUS-TEX Business Consultants LLC",
+  "problem": "uncertain: Amount digit unclear, read as 1000.00."
+ },
+ {
+  "report": "pct4_margaret-gomez__2022-07-15_COH",
+  "problem": "filer discrepancy (kept as filed)",
+  "note": "All 40 entries verified box-by-box ($24,007.12); corrected cover total reads $23,707.12 \u2014 filer's stated total is $300 below the true itemized sum."
+ },
+ {
+  "report": "pct4_margaret-gomez__2023-01-17_COH",
+  "page": 4,
+  "entry": "Paul Chope",
+  "problem": "uncertain: Second line under name field also reads 'Linebarger, Goggan, Blair & Sampson, LLP' - appears duplicated with employer field; name transcribed as written on first line."
+ },
+ {
+  "report": "pct4_margaret-gomez__2024-01-12_COH",
+  "page": 4,
+  "entry": "Kirk Watson PAC",
+  "problem": "uncertain: middle digit of date is ambiguous, read as 7/6/23"
+ }
+]
