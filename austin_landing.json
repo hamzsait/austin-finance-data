@@ -131,14 +131,14 @@
      "w": 19
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$11K",
-     "w": 15
-    },
-    {
      "label": "Education",
      "amt": "$10K",
      "w": 14
+    },
+    {
+     "label": "Finance",
+     "amt": "$10K",
+     "w": 13
     }
    ],
    "section": "council",
@@ -172,9 +172,9 @@
      "w": 25
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$13K",
-     "w": 21
+     "label": "Not Employed",
+     "amt": "$12K",
+     "w": 20
     }
    ],
    "section": "council",
@@ -203,14 +203,14 @@
      "w": 25
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$20K",
-     "w": 25
-    },
-    {
      "label": "Consulting / PR",
      "amt": "$18K",
      "w": 23
+    },
+    {
+     "label": "Government",
+     "amt": "$14K",
+     "w": 18
     }
    ],
    "section": "council",
@@ -316,9 +316,9 @@
      "w": 27
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$20K",
-     "w": 25
+     "label": "Not Employed",
+     "amt": "$17K",
+     "w": 21
     }
    ],
    "section": "council",
@@ -414,11 +414,6 @@
      "w": 100
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$189K",
-     "w": 44
-    },
-    {
      "label": "Real Estate",
      "amt": "$159K",
      "w": 37
@@ -427,6 +422,11 @@
      "label": "Technology",
      "amt": "$154K",
      "w": 36
+    },
+    {
+     "label": "Legal",
+     "amt": "$133K",
+     "w": 31
     }
    ],
    "section": "county",
@@ -491,14 +491,14 @@
      "w": 77
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$91K",
-     "w": 69
-    },
-    {
      "label": "Nonprofit / Advocacy",
      "amt": "$59K",
      "w": 45
+    },
+    {
+     "label": "Labor",
+     "amt": "$57K",
+     "w": 43
     }
    ],
    "section": "county",
@@ -527,14 +527,14 @@
      "w": 87
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$27K",
-     "w": 32
-    },
-    {
      "label": "Nonprofit / Advocacy",
      "amt": "$23K",
      "w": 28
+    },
+    {
+     "label": "Construction",
+     "amt": "$23K",
+     "w": 27
     }
    ],
    "section": "county",
@@ -568,9 +568,9 @@
      "w": 69
     },
     {
-     "label": "Retail / Media / Other",
-     "amt": "$38K",
-     "w": 51
+     "label": "Nonprofit / Advocacy",
+     "amt": "$31K",
+     "w": 42
     }
    ],
    "section": "county",

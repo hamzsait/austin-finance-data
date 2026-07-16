@@ -70,6 +70,14 @@
     font-size: 14px;
     line-height: 1.6;
   }
+  /* Wide content (donor tables) must never widen the page — iOS Safari lets
+     overflowing tables create page-level horizontal scroll otherwise. Tables
+     scroll inside their own card on small screens instead. */
+  html, body { overflow-x: hidden; }
+  @media (max-width: 700px) {
+    .card { overflow-x: auto; }
+    .donors-table th, .donors-table td { padding: 8px 6px; font-size: 12px; }
+  }
 
   /* ── decode(politics): browser-tab site header ── */
   .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
@@ -1774,26 +1782,28 @@ function renderCycleNav(cycles) {
     nav.appendChild(lbl);
   }
 
-  // "All Time" tab — the default view; per-cycle tabs are optional increments
+  // "All Time" tab
   const allBtn = document.createElement('button');
-  allBtn.className = 'cycle-tab active';
+  allBtn.className = 'cycle-tab';
   allBtn.dataset.cycle = '-1';
   allBtn.textContent = 'All Time';
   allBtn.onclick = () => switchCycle(-1);
   nav.appendChild(allBtn);
 
-  // Per-cycle tabs
+  // Per-cycle tabs; the CURRENT (most recent) cycle is the default view
+  const defaultCycleIdx = cycles.length - 1;
   cycles.forEach((c, i) => {
     const btn = document.createElement('button');
     btn.className = 'cycle-tab';
+    if (i === defaultCycleIdx) btn.classList.add('active');
     btn.dataset.cycle = i;
     btn.textContent = `${c.label} (${c.year_range})`;
     btn.onclick = () => switchCycle(i);
     nav.appendChild(btn);
   });
 
-  // Default to All Time on load
-  switchCycle(-1);
+  // Default to the current election cycle (fall back to All Time if none)
+  switchCycle(defaultCycleIdx >= 0 ? defaultCycleIdx : -1);
 }
 
 function switchCycle(idx) {

@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Social link previews (Open Graph + Twitter) — placeholders filled by build_candidate.py -->
-<meta name="description" content="Andy Brown (County Judge) raised $1.4M from 1,273 donors. Top donor interests: Finance ($428K) and Retail / Media / Other ($187K). Every dollar decoded, donor by donor.">
+<meta name="description" content="Andy Brown (County Judge) raised $1.4M from 1,273 donors. Top donor interests: Finance ($428K) and Retail / Media / Other ($189K). Every dollar decoded, donor by donor.">
 <link rel="canonical" href="https://decodepolitics.org/austin/brown/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="Andy Brown — Austin Campaign Finance — decode(politics):">
-<meta property="og:description" content="Andy Brown (County Judge) raised $1.4M from 1,273 donors. Top donor interests: Finance ($428K) and Retail / Media / Other ($187K). Every dollar decoded, donor by donor.">
+<meta property="og:description" content="Andy Brown (County Judge) raised $1.4M from 1,273 donors. Top donor interests: Finance ($428K) and Retail / Media / Other ($189K). Every dollar decoded, donor by donor.">
 <meta property="og:url" content="https://decodepolitics.org/austin/brown/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-brown.png">
 <meta property="og:image:width" content="1200">
@@ -17,7 +17,7 @@
 <meta property="og:image:alt" content="Andy Brown (County Judge) — $1.4M raised, 1,273 donors, decoded by decode(politics):">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Andy Brown — Austin Campaign Finance — decode(politics):">
-<meta name="twitter:description" content="Andy Brown (County Judge) raised $1.4M from 1,273 donors. Top donor interests: Finance ($428K) and Retail / Media / Other ($187K). Every dollar decoded, donor by donor.">
+<meta name="twitter:description" content="Andy Brown (County Judge) raised $1.4M from 1,273 donors. Top donor interests: Finance ($428K) and Retail / Media / Other ($189K). Every dollar decoded, donor by donor.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-brown.png">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
@@ -69,6 +69,14 @@
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     font-size: 14px;
     line-height: 1.6;
+  }
+  /* Wide content (donor tables) must never widen the page — iOS Safari lets
+     overflowing tables create page-level horizontal scroll otherwise. Tables
+     scroll inside their own card on small screens instead. */
+  html, body { overflow-x: hidden; }
+  @media (max-width: 700px) {
+    .card { overflow-x: auto; }
+    .donors-table th, .donors-table td { padding: 8px 6px; font-size: 12px; }
   }
 
   /* ── decode(politics): browser-tab site header ── */
@@ -1774,26 +1782,28 @@ function renderCycleNav(cycles) {
     nav.appendChild(lbl);
   }
 
-  // "All Time" tab — the default view; per-cycle tabs are optional increments
+  // "All Time" tab
   const allBtn = document.createElement('button');
-  allBtn.className = 'cycle-tab active';
+  allBtn.className = 'cycle-tab';
   allBtn.dataset.cycle = '-1';
   allBtn.textContent = 'All Time';
   allBtn.onclick = () => switchCycle(-1);
   nav.appendChild(allBtn);
 
-  // Per-cycle tabs
+  // Per-cycle tabs; the CURRENT (most recent) cycle is the default view
+  const defaultCycleIdx = cycles.length - 1;
   cycles.forEach((c, i) => {
     const btn = document.createElement('button');
     btn.className = 'cycle-tab';
+    if (i === defaultCycleIdx) btn.classList.add('active');
     btn.dataset.cycle = i;
     btn.textContent = `${c.label} (${c.year_range})`;
     btn.onclick = () => switchCycle(i);
     nav.appendChild(btn);
   });
 
-  // Default to All Time on load
-  switchCycle(-1);
+  // Default to the current election cycle (fall back to All Time if none)
+  switchCycle(defaultCycleIdx >= 0 ? defaultCycleIdx : -1);
 }
 
 function switchCycle(idx) {

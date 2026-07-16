@@ -53,9 +53,11 @@ INDUSTRY_COLORS = {
 NOISE_INDUSTRIES = {"Not Employed", "Self-Employed", "Student", "Unknown", "Unknown / Unclassified", "Family"}
 NO_DONUT = {"Not Employed", "Self-Employed", "Student", "Unknown / Unclassified", "Family"}
 
-# Industries that roll up into "Retail / Media / Other" in the profile
-OTHER_INDS = {"Retail", "Media", "Architecture", "Transportation", "Entertainment",
-              "Labor", "Venture Capital", "Retail / Media / Other"}
+# Industries that roll up into "Retail / Media / Other" in the profile.
+# 2026-07-16: rollup disabled (user request) — Retail, Media, Architecture,
+# Transportation, Entertainment, Labor, and Venture Capital now display as
+# their own categories. Only the literal legacy label still maps to itself.
+OTHER_INDS = {"Retail / Media / Other"}
 
 # Election cycle definitions per candidate slug
 # Each cycle: label, start_year (None = beginning of time), end_year (None = present)
