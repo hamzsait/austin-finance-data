@@ -64,13 +64,16 @@ ARMBRUST_WHERE = (
     "AND lower(donor_reported_employer) NOT LIKE '%armbruster%')"
 )
 
-# ---- Colors ----
-C_ENDEAVOR = (0.11, 0.53, 0.60)   # teal
-C_ARMBRUST = (0.85, 0.42, 0.28)   # terracotta
-C_INK      = (0.13, 0.14, 0.16)
-C_GREY     = (0.45, 0.47, 0.50)
-C_LIGHT    = (0.90, 0.91, 0.93)
-C_TRACK    = (0.945, 0.95, 0.955)
+# ---- Decode Politics brand palette (from decodepolitics.org) ----
+C_NAVY     = (0.094, 0.192, 0.310)   # #18314f  primary ink
+C_CRIMSON  = (0.800, 0.122, 0.235)   # #cc1f3c  brand accent
+C_SKY      = (0.812, 0.890, 0.961)   # #cfe3f5  light blue
+C_ENDEAVOR = C_NAVY                   # Endeavor bars  -> brand navy
+C_ARMBRUST = C_CRIMSON                # Armbrust bars  -> brand crimson
+C_INK      = C_NAVY
+C_GREY     = (0.42, 0.45, 0.50)
+C_LIGHT    = (0.88, 0.90, 0.93)
+C_TRACK    = (0.918, 0.933, 0.953)   # bar track (light navy tint)
 
 
 def parse_amt(s):
@@ -161,121 +164,179 @@ def load_photo(fname):
         return None
 
 
-def draw_page(c, title, subtitle, rows):
-    W, H = landscape(letter)          # 792 x 612
-    c.setFillColorRGB(*C_INK)
-    c.setFont("Helvetica-Bold", 16)
-    c.drawString(40, H - 44, title)
-    c.setFillColorRGB(*C_GREY)
-    c.setFont("Helvetica", 8.5)
-    c.drawString(40, H - 58, subtitle)
+def _wrap(c, text, font, size, maxw):
+    """Greedy word-wrap to lines fitting within maxw."""
+    words, lines, cur = text.split(), [], ""
+    for w in words:
+        t = (cur + " " + w).strip()
+        if c.stringWidth(t, font, size) <= maxw or not cur:
+            cur = t
+        else:
+            lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines
 
-    # Legend (own horizontal line below the subtitle, left-aligned)
-    lx, ly = 40, H - 76
+
+def _wordmark(c, x, y, size=20):
+    """Render the brand wordmark: 'decode' crimson + '(politics):' navy + cursor."""
+    f = "Helvetica-Bold"
+    c.setFont(f, size)
+    c.setFillColorRGB(*C_CRIMSON)
+    c.drawString(x, y, "decode")
+    w = c.stringWidth("decode", f, size)
+    c.setFillColorRGB(*C_NAVY)
+    c.drawString(x + w, y, "(politics):")
+    end = x + w + c.stringWidth("(politics):", f, size)
+    c.setFillColorRGB(*C_CRIMSON)          # blinking-cursor cue
+    c.rect(end + 3, y - 1, 2.4, size * 0.82, stroke=0, fill=1)
+    return end
+
+
+def draw_page(c, title, subtitle, rows, date_str):
+    W, H = letter                          # portrait 612 x 792
+    ML = MR = 42
+    x0, x1 = ML, W - MR
+    cw = x1 - x0
+
+    # ---- Header / branding ----
+    yw = H - 54
+    _wordmark(c, x0, yw, 21)
+    c.setFont("Helvetica-Oblique", 9.5)
+    c.setFillColorRGB(*C_GREY)
+    c.drawRightString(x1, yw + 2, "Follow the money")
+    # brand accent rule
+    ry = yw - 13
+    c.setStrokeColorRGB(*C_CRIMSON)
+    c.setLineWidth(2.5)
+    c.line(x0, ry, x1, ry)
+
+    # report title (wrapped)
+    tfont, tsize = "Helvetica-Bold", 15.5
+    ty = ry - 23
+    for ln in _wrap(c, title, tfont, tsize, cw):
+        c.setFont(tfont, tsize)
+        c.setFillColorRGB(*C_NAVY)
+        c.drawString(x0, ty, ln)
+        ty -= tsize + 3
+    # subtitle
+    ty -= 3
+    c.setFillColorRGB(*C_GREY)
+    c.setFont("Helvetica", 10.5)
+    c.drawString(x0, ty, subtitle)
+
+    # legend
+    ty -= 21
+    lx = x0
     for label, col in (("Endeavor Real Estate Group", C_ENDEAVOR),
                        ("Armbrust & Brown, PLLC", C_ARMBRUST)):
         c.setFillColorRGB(*col)
-        c.rect(lx, ly, 9, 9, stroke=0, fill=1)
-        c.setFillColorRGB(*C_INK)
-        c.setFont("Helvetica", 8)
-        c.drawString(lx + 13, ly + 1, label)
-        lx += 20 + c.stringWidth(label, "Helvetica", 8) + 28
+        c.roundRect(lx, ty - 2, 13, 13, 2.5, stroke=0, fill=1)
+        c.setFillColorRGB(*C_NAVY)
+        c.setFont("Helvetica-Bold", 10.5)
+        c.drawString(lx + 18, ty + 1, label)
+        lx += 18 + c.stringWidth(label, "Helvetica-Bold", 10.5) + 30
 
-    # Layout geometry
-    top = H - 94
-    bottom = 34
+    header_bottom = ty - 14
+
+    # ---- Rows ----
+    footer_top = 58
     n = len(rows)
-    row_h = (top - bottom) / n
-
-    photo_s = min(44, row_h - 8)
-    px = 40
-    name_x = px + photo_s + 12
-    bar_x0 = 250
-    bar_max_w = 300           # leaves room for value label + span
-    val_x = bar_x0 + bar_max_w + 8
-    span_x = W - 150
+    avail = header_bottom - footer_top
+    row_h = min(avail / n, 120)
+    top = header_bottom - max(0, (avail - row_h * n) / 2)   # center if ever capped
 
     scale = max([max(r["endeavor"]["total"], r["armbrust"]["total"]) for r in rows] + [1.0])
 
+    photo_s = min(row_h * 0.72, 62)
+    zone_x0 = x0 + photo_s + 16
+    val_w = 84
+    bar_x0 = zone_x0
+    bar_x1 = x1 - val_w
+    val_x = bar_x1 + 9
+
     for i, r in enumerate(rows):
-        y0 = top - (i + 1) * row_h
-        cy = y0 + row_h / 2
+        rt = top - i * row_h              # row top edge
+        y0 = rt - row_h                   # row bottom edge
 
-        # zebra background
+        # zebra
         if i % 2 == 0:
-            c.setFillColorRGB(0.975, 0.978, 0.982)
-            c.rect(36, y0 + 1, W - 72, row_h - 2, stroke=0, fill=1)
-
-        # rank chip
-        c.setFillColorRGB(*C_GREY)
-        c.setFont("Helvetica-Bold", 8)
-        c.drawRightString(px - 4, cy - 3, str(i + 1))
+            c.setFillColorRGB(0.962, 0.972, 0.986)
+            c.roundRect(x0 - 5, y0 + 2, cw + 10, row_h - 4, 5, stroke=0, fill=1)
 
         # photo
+        pcy = y0 + (row_h - photo_s) / 2
         img = load_photo(r["photo"])
-        pcx, pcy = px, cy - photo_s / 2
         if img is not None:
             c.saveState()
             p = c.beginPath()
-            p.roundRect(pcx, pcy, photo_s, photo_s, 5)
+            p.roundRect(x0, pcy, photo_s, photo_s, 7)
             c.clipPath(p, stroke=0, fill=0)
-            c.drawImage(img, pcx, pcy, photo_s, photo_s,
+            c.drawImage(img, x0, pcy, photo_s, photo_s,
                         preserveAspectRatio=True, anchor='c', mask='auto')
             c.restoreState()
         else:
-            c.setFillColorRGB(*C_LIGHT)
-            c.roundRect(pcx, pcy, photo_s, photo_s, 5, stroke=0, fill=1)
+            c.setFillColorRGB(*C_SKY)
+            c.roundRect(x0, pcy, photo_s, photo_s, 7, stroke=0, fill=1)
         c.setStrokeColorRGB(*C_LIGHT)
         c.setLineWidth(0.75)
-        c.roundRect(pcx, pcy, photo_s, photo_s, 5, stroke=1, fill=0)
+        c.roundRect(x0, pcy, photo_s, photo_s, 7, stroke=1, fill=0)
 
-        # name + seat + combined
-        c.setFillColorRGB(*C_INK)
-        c.setFont("Helvetica-Bold", 10)
-        c.drawString(name_x, cy + 4, r["name"])
+        # rank (left gutter)
         c.setFillColorRGB(*C_GREY)
-        c.setFont("Helvetica", 7.8)
-        c.drawString(name_x, cy - 7, "{}  ·  combined {}".format(r["seat"], money(r["combined"])))
+        c.setFont("Helvetica-Bold", 9)
+        c.drawRightString(x0 - 8, rt - 15, str(i + 1))
 
-        # two bars
-        bar_h = min(8.5, (row_h - 12) / 2)
-        gap = 3
-        firms = (("endeavor", C_ENDEAVOR), ("armbrust", C_ARMBRUST))
-        total_stack = bar_h * 2 + gap
-        by = cy + total_stack / 2 - bar_h
-        for key, col in firms:
+        # name line: name (bold navy) + seat/combined (grey) + span (right)
+        name_y = rt - min(20, row_h * 0.30)
+        c.setFillColorRGB(*C_NAVY)
+        c.setFont("Helvetica-Bold", 14)
+        c.drawString(zone_x0, name_y, r["name"])
+        nx = zone_x0 + c.stringWidth(r["name"], "Helvetica-Bold", 14)
+        c.setFillColorRGB(*C_GREY)
+        c.setFont("Helvetica", 10)
+        c.drawString(nx + 8, name_y, "· {} · combined {}".format(r["seat"], money(r["combined"])))
+        c.setFillColorRGB(*C_NAVY)
+        c.setFont("Helvetica-Bold", 9.5)
+        c.drawRightString(x1, name_y + 1, span_text(r["span_min"], r["span_max"]))
+
+        # two stacked full-width bars
+        gap = 5
+        stack_top = name_y - 9
+        bottom_lim = y0 + max(5, row_h * 0.10)
+        bar_h = max(9, min((stack_top - bottom_lim - gap) / 2, 18))
+        # vertically center the stack in [bottom_lim, stack_top]
+        stack_h = bar_h * 2 + gap
+        by = (stack_top + bottom_lim) / 2 + stack_h / 2 - bar_h
+        for key, col in (("endeavor", C_ENDEAVOR), ("armbrust", C_ARMBRUST)):
             val = r[key]["total"]
-            w = (val / scale) * bar_max_w
-            # track
+            w = (val / scale) * (bar_x1 - bar_x0)
             c.setFillColorRGB(*C_TRACK)
-            c.roundRect(bar_x0, by, bar_max_w, bar_h, bar_h / 2, stroke=0, fill=1)
-            # value bar
+            c.roundRect(bar_x0, by, bar_x1 - bar_x0, bar_h, bar_h / 2, stroke=0, fill=1)
             if w > 0.5:
                 c.setFillColorRGB(*col)
                 c.roundRect(bar_x0, by, max(w, bar_h), bar_h, bar_h / 2, stroke=0, fill=1)
-            # value label
-            c.setFont("Helvetica-Bold", 8)
-            if val > 0:
-                c.setFillColorRGB(*col)
-            else:
-                c.setFillColorRGB(*C_GREY)
-            c.drawString(val_x, by + bar_h / 2 - 3, money(val))
-            by -= (bar_h + gap)
+            c.setFont("Helvetica-Bold", 11.5)
+            c.setFillColorRGB(*(col if val > 0 else C_GREY))
+            c.drawString(val_x, by + bar_h / 2 - 4, money(val))
+            by -= bar_h + gap
 
-        # span sidebar
-        c.setFillColorRGB(*C_GREY)
-        c.setFont("Helvetica-Oblique", 7.5)
-        c.drawString(span_x, cy + 2, "Contributions span")
-        c.setFillColorRGB(*C_INK)
-        c.setFont("Helvetica-Bold", 8)
-        c.drawString(span_x, cy - 8, span_text(r["span_min"], r["span_max"]))
-
-    # footer
+    # ---- Footer ----
+    c.setStrokeColorRGB(*C_LIGHT)
+    c.setLineWidth(0.75)
+    c.line(x0, footer_top - 4, x1, footer_top - 4)
+    c.setFillColorRGB(*C_CRIMSON)
+    c.setFont("Helvetica-Bold", 9.5)
+    c.drawString(x0, footer_top - 19, "decodepolitics.org")
     c.setFillColorRGB(*C_GREY)
-    c.setFont("Helvetica", 6.5)
-    c.drawString(40, 20,
-                 "Source: austin_finance.db campaign_finance table. All-time monetary + in-kind "
-                 "contributions where donor name or reported employer matches the firm. Bars scaled to page maximum.")
+    c.setFont("Helvetica", 9.5)
+    c.drawRightString(x1, footer_top - 19, date_str)
+    c.setFillColorRGB(*C_GREY)
+    c.setFont("Helvetica", 7.5)
+    c.drawCentredString(W / 2, footer_top - 33,
+        "All-time contributions (monetary + in-kind) where donor name or reported employer matches the firm  ·  "
+        "Source: austin_finance.db  ·  Bars scaled to page maximum")
 
 
 def main():
@@ -285,17 +346,22 @@ def main():
     travis = build(cur, TRAVIS)
     conn.close()
 
+    date_str = datetime(2026, 7, 17).strftime("%B %-d, %Y") if os.name != "nt" \
+        else "July 17, 2026"
+
     out1 = os.path.join(HERE, "endeavor_armbrust_austin_council.pdf")
-    c = canvas.Canvas(out1, pagesize=landscape(letter))
+    c = canvas.Canvas(out1, pagesize=letter)     # portrait 8.5 x 11
     draw_page(c, "Contributions from Endeavor & Armbrust & Brown — Austin City Council",
-              "Mayor + 10 council districts · sorted by combined dollars received (all-time)", austin)
+              "Mayor + 10 council districts · sorted by combined dollars received (all-time)",
+              austin, date_str)
     c.showPage()
     c.save()
 
     out2 = os.path.join(HERE, "endeavor_armbrust_travis_commissioners.pdf")
-    c = canvas.Canvas(out2, pagesize=landscape(letter))
-    draw_page(c, "Contributions from Endeavor & Armbrust & Brown — Travis County Commissioners",
-              "County Judge + 4 precinct commissioners · sorted by combined dollars received (all-time)", travis)
+    c = canvas.Canvas(out2, pagesize=letter)     # portrait 8.5 x 11
+    draw_page(c, "Contributions from Endeavor & Armbrust & Brown — Travis County Commissioners Court",
+              "County Judge + 4 precinct commissioners · sorted by combined dollars received (all-time)",
+              travis, date_str)
     c.showPage()
     c.save()
 
