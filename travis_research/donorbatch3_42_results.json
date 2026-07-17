@@ -1,0 +1,161 @@
+[
+ {
+  "donor_id": "f7d0fc05-49f0-4046-b991-cdf63f9dd6c6",
+  "name": "Patrizi, Lissa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing itself is the only web trace: a $400 gift on 2022-06-20 from Lissa Patrizi, 206 E Elizabeth St, Austin TX 78704, to Paige Ellis. Both the occupation and employer fields were filed as 'N/a', so there is nothing to cross-check. The surname is locally prominent through the Patrizi's Italian restaurant family (Manor Rd and Cuernavaca Dr locations), but no source connects any Patrizi's family member to this given name or address, and the restaurant addresses are in 78722/78733, not the donor's 78704. Her FEC history (16 gifts, uniformly Democratic) confirms an established progressive small-donor pattern but yields no employer. Guessing a restaurant tie on surname alone would be unsupported.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=388204",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6fbea94-a6c2-4a55-9a3b-a8c516f7964b",
+  "name": "Wehner, Jennifer",
+  "resolved_employer": "Sovel Group (Austin family-office / fractional-CFO firm) — filed as CEO; spouse Scott Wehner is the founder",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Sovel Group is confirmed as an Austin firm providing 'financial infrastructure for high-net-worth families and founders' — family-office management, fractional CFO, accounting and financial modeling — founded by Scott Wehner after his 2018 exit from Fusion Medical Staffing, which he co-founded in 2009 and served as COO. Sovel Group's own site states Scott and his wife Jennifer are active in Austin philanthropic and community pursuits, which corroborates a Jennifer Wehner in Austin (donor zip 78735) attached to this employer. Medium rather than high because the filed 'CEO' title is not reflected on the firm's public leadership page — which lists Scott Wehner as Founder/Managing Partner alongside Andrea Shultz and Gina Sladek — so her self-reported role is uncorroborated, though the site is current (2026) and the gift was 2022. Industry reflects the employer's confirmed financial-services business, not the medical-staffing origin of the family's wealth.",
+  "source_url": "https://www.sovelgroup.io/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6d126a3-d22a-4e6b-9078-04ec5fa9559c",
+  "name": "Arledge, Walker",
+  "resolved_employer": "NxStep Capital Holdings — Texas-based single-family office (the Arledge family office); filed occupation 'Investor'",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "The employer is confirmed and distinctive: NxStep Capital Holdings is described in Cole Arledge's own firm bio as 'a Texas-based single-family office' whose investment strategy he built and led before co-founding NXSTEP Opportunity Partners, an Austin private-equity firm that closed a $100M debut fund in 2023 investing in Central Texas real estate and real-estate-linked operating businesses. Cole Arledge (ex-Bain & Co., Golden Gate Capital, AV Capital) lives in Austin. The donor shares the surname, the exact employer, an 'Investor' occupation, and a 78746 (West Lake Hills) zip consistent with that milieu — the convergence of a rare surname with a rare family-office name is very unlikely to be coincidence. Medium, not high, because Walker Arledge has no independent web presence and does not appear on the NXSTEP team roster, so his specific role and relationship to Cole cannot be documented. Industry reflects the confirmed family-office/private-equity employer.",
+  "source_url": "https://nxstep.com/team/cole-arledge/",
+  "affiliations": [
+   {
+    "org": "NxStep Capital Holdings",
+    "role": "Filed as employer, occupation 'Investor'; entity is a Texas single-family office tied to the Arledge family",
+    "category": "business",
+    "source_url": "https://nxstep.com/team/cole-arledge/"
+   }
+  ]
+ },
+ {
+  "donor_id": "f68e0bb8-694a-4d63-8f90-b4d82a81e40a",
+  "name": "Sams, Shay",
+  "resolved_employer": null,
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "The person could not be identified — no web presence matches a Shay Sams in Austin. The industry rests solely on her own filed occupation, 'Healthcare sales,' which is unambiguous as to sector even though the individual is unconfirmed. The filed employer 'HCIT' is ambiguous: it is the standard acronym for 'healthcare information technology' generally, and there is also an Austin firm literally named HCIT Consulting (a boutique healthcare consultancy led by CEO Meredith Ferguson, focused on case management, EMR implementation and value-based care). No Shay Sams appears on HCIT Consulting's staff listings, and the firm is a consultancy rather than a sales organization, so the acronym is more likely generic. The donor has no FEC history to corroborate. Healthcare is recorded over Technology because the self-report says healthcare explicitly; the 78703 zip provides no discriminating signal.",
+  "source_url": "https://www.hcitconsulting.com/about-hcitconsulting/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6848561-55ee-410b-bff6-d503baee0ae8",
+  "name": "Wiliams, Margaret",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify, and the record offers nothing to work from: occupation and employer were both filed as 'requested' (i.e., the campaign had not yet obtained them), the surname is misspelled in the filing ('Wiliams'), and the donor has no FEC history. 'Margaret Williams' is among the most common name combinations in Texas — a people-search index alone returns roughly 1,900 matches statewide — and the Wimberley 78676 address (Hays County, outside Travis) yields no distinguishing public record. Any identification here would be a guess.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "f642eda5-cf98-4ad5-87d2-0bf90718f7f3",
+  "name": "Coffee, Elizabeth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. Occupation and employer were both filed as 'requested,' and the donor has no FEC history, leaving no attribute to corroborate against. Searches on the name plus the 78748 (far south Austin) zip surface only Austin's Elizabeth Street Cafe — a coincidental string match on the given name, and located in 78704 rather than the donor's zip. No basis for an industry.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "f63bc887-6d6b-4994-9a32-0d623adbc895",
+  "name": "Garcia, Jennifer",
+  "resolved_employer": "Civil & Environmental Consultants, Inc. (CEC), Austin office — principal; formerly a founding principal of KBGE",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Jennifer Garcia, PE, is a New Orleans native and 1998 civil-engineering graduate of the University of New Orleans, and was one of the principals of KBGE (Kimbell Bruehl Gabe Estes), an Austin civil-engineering and land-development consultancy. Civil & Environmental Consultants, Inc. — which trades as CEC and runs an Austin office — acquired KBGE in March 2018, carrying Garcia over as a firm principal. That makes 'CEC' her correct employer as of the 2022-04-18 gift, matching the filed employer string and the filed occupation 'Engineer' exactly, in the right city. Her specialty is site investigation and conceptual site planning/construction plans.",
+  "source_url": "https://www.prnewswire.com/news-releases/civil--environmental-consultants-inc-acquires-austin-based-kbge-300617271.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f555e0de-beb0-4a5c-9e4e-2e2b779b2dfc",
+  "name": "Fleschman, Maria",
+  "resolved_employer": "Huzzah (unverified private entity) — filed occupation 'Investor'; wife of Austin real-estate private-equity figure Sandy Fleschman",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Maria Fleschman is documented as the wife of Sanford 'Sandy' Fleschman and living in Austin; the rare surname plus the 78746 (West Lake Hills) zip make the identification reasonably secure. Sandy Fleschman is an Operating Partner at NXSTEP Opportunity Partners, a founding partner of North American Self Storage Group (Class A self-storage developed and exited to public and private REITs) and founder of Star Senior Communities (senior-living developer, sold to a major private-equity firm) — a notable convergence, since a second donor in this same batch (Walker Arledge) reports NxStep Capital Holdings as his employer. Industry is recorded as Finance on the strength of her own filed occupation, 'Investor,' and is deliberately NOT taken from her husband's real-estate career, which is his and not evidence of her work. The filed employer 'Huzzah' cannot be verified — no Texas entity by that name is traceable to the family (a 'Huzzah 1, LLC' registered in Texas in August 2021 exists but has no documented link to the Fleschmans), so it is most likely a private investment vehicle. Medium reflects the confirmed person but unverified employer.",
+  "source_url": "https://nxstep.com/team/sandy-fleschman/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f44f4014-63e3-4f23-8b70-b8e04250511e",
+  "name": "Barton, Rachel",
+  "resolved_employer": "Paz Veterinary (Austin veterinary group) — veterinary technician; now North Head of Culture",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Rachel Barton appears on Paz Veterinary's own team pages: she earned her Veterinary Technician degree in Houston, is a Texas native, is Fear-Free Certified, and describes herself as working to become 'the best tech possible' — matching the filed occupation 'Veterinarian Technician' and the filed employer 'PAZ Veternary' (misspelled in the filing) exactly, at an Austin-only practice. She is currently listed as North Head of Culture, consistent with the donor's north-central Austin 78757 zip, though her bio notes she originally settled on Austin's south side. Her FEC record (70 gifts, uniformly Democratic) fits the small-dollar progressive pattern of a $400 gift to Kirk Watson. Industry follows the veterinary-practice precedent used elsewhere in this dataset.",
+  "source_url": "https://pazeast.com/our-team/rachel-barton/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f42d6ee6-3a96-4f22-a11a-447a62c1f8ee",
+  "name": "Beeman, Cynthia J",
+  "resolved_employer": "Texas Historical Commission — director, History Programs Division (retired 2007); now an independent scholar and VP of the Ruthe Winegarten Memorial Foundation",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Cynthia J. Beeman — the filed name including the middle initial — is a well-documented Austin independent scholar who spent 21 years at the Texas Historical Commission, joining as a staff historian writing historical-marker inscriptions and retiring in 2007 as director of the History Programs Division, overseeing state and federal preservation efforts and the state marker program. In 1990 the Governor's Commission for Women named her one of ten Outstanding Women in Texas Government. She is vice president of the Ruthe Winegarten Memorial Foundation for Texas Women's History, has served on the boards of the Texas Oral History Association, the East Texas Historical Association and the Texas Historical Records Advisory Board, and co-authored two Texas A&M University Press books with Dan K. Utley. Industry reflects that state-agency career, marked retired. Medium rather than high: the filing left occupation and employer blank, so there is no direct corroborator — the match rests on the distinctive full name, the shared Austin base, and a heavy Democratic donation pattern (93 FEC gifts, plus gifts to Kirk Watson spanning 2022–2024) that is consistent with her documented Texas women's-history and civic work. The 78751 (Hyde Park) zip could not be independently tied to her.",
+  "source_url": "https://www.womenintexashistory.org/about/our-board/",
+  "affiliations": [
+   {
+    "org": "Ruthe Winegarten Memorial Foundation for Texas Women's History",
+    "role": "Vice president",
+    "category": "civic",
+    "source_url": "https://www.womenintexashistory.org/about/our-board/"
+   },
+   {
+    "org": "Texas Historical Commission",
+    "role": "Director, History Programs Division (retired 2007); 21-year tenure",
+    "category": "civic",
+    "source_url": "https://www.tamupress.com/author/cynthia-j-beeman/"
+   }
+  ]
+ },
+ {
+  "donor_id": "f4032849-5840-4d20-bbc8-59e55ac01061",
+  "name": "Rejimon, Rani",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not confirmed, though one lead is worth recording: a LinkedIn profile for a Rani Rejimon located in Greensboro, North Carolina, with experience at Technicolor and a degree from Bharathiar University. Oak Ridge, NC 27310 — the donor's address — is a Greensboro-area town, and the name is distinctive within the Triad's Malayali community. Against it: the filing lists occupation and employer as 'requested' so there is nothing to cross-check, the profile's role and dates are not visible, the donor has no FEC history, and an out-of-state gift from North Carolina to an Austin mayoral candidate is unexplained by anything in the record. No industry is assigned — the Technicolor association alone does not establish her role, and the identification itself is unconfirmed.",
+  "source_url": "https://www.linkedin.com/in/rani-rejimon/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f1b4b346-49fd-4929-94de-8f8b0e0dd3fa",
+  "name": "Gitcho, Greg",
+  "resolved_employer": "Archer Creek (Austin real-estate investment/development firm) — founder and managing director",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Greg W. Gitcho is the founder and managing director of Archer Creek, the Austin firm named as his employer, which he started in 2013 to develop and invest in properties and provide market research and modeling for real-estate clients. He is listed as a director of Archer Creek, LLC in Texas corporate records and is based in Austin, consistent with the 78731 zip; his filed occupation 'real estate' matches. Before founding the firm he spent six years as VP of Acquisitions at Austin-based Cypress Real Estate Advisors and, earlier, was a senior associate in AIG's Global Real Estate Investment Group in New York. He holds a BA from Austin College and an MS in Real Estate Development from MIT.",
+  "source_url": "https://archercreek.com/leadership",
+  "affiliations": [
+   {
+    "org": "Archer Creek, LLC",
+    "role": "Founder and managing director (2013–present); listed director in Texas corporate records",
+    "category": "business",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/gregory-w-gitcho/137051727.aspx"
+   },
+   {
+    "org": "Cypress Real Estate Advisors",
+    "role": "Vice President of Acquisitions (six years, prior to 2013)",
+    "category": "business",
+    "source_url": "https://archercreek.com/leadership"
+   },
+   {
+    "org": "AIG Global Real Estate Investment Group",
+    "role": "Senior Associate, New York City (former)",
+    "category": "business",
+    "source_url": "https://archercreek.com/leadership"
+   }
+  ]
+ }
+]

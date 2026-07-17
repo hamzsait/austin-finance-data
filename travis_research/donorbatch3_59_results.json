@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "1c21524f-c442-4506-86fd-024ee7bc3f3b",
+  "name": "Davis, Richard",
+  "resolved_employer": "AMS — likely AMS Commercial Real Estate Services, Inc. (Austin commercial real estate advisory/brokerage firm, 310 Comal St, 78702)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Filing self-reports occupation 'Real Estate' and employer 'AMS'; the matching Austin firm is AMS Commercial Real Estate Services (310 Comal St, 78702), consistent with the donor's Austin 78703 address. The specific Richard Davis is not confirmed among AMS's named principals (Chase Belew, John Davenport), so the individual is not independently verified, but the self-reported real-estate occupation supports the industry. Gave $400 to Kirk Watson; no FEC federal donation history.",
+  "source_url": "https://amscre.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1bf3072d-a1ca-4d49-bdbb-f9641f0a5e6a",
+  "name": "Swantner, Albert",
+  "resolved_employer": "Co-Founder & CTO, Betterleave Bereavement (Austin bereavement-care benefits tech startup); prior co-founder/CTO of Mobile Tech RX; partner at The Fund Austin",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed co-founder and CTO of Betterleave, a bereavement-care benefits technology startup, matching the filing's employer ('Betterleave') and occupation ('Engineer'); a UT Austin mechanical engineering graduate (BS/MS, Academy of Distinguished Alumni) based in Austin 78745. Classified Technology (software startup founder) over Engineering, since his current role is a tech-company executive. FEC lean 1.0 across 54 donations = uniformly Democratic federally, consistent with the $400 gift to Natasha Harper-Madison.",
+  "source_url": "https://www.betterleave.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1b6283ef-74bf-4362-8711-3c28c02209b6",
+  "name": "McQueen, George",
+  "resolved_employer": "Co-owner, McQueen Brothers Custom Builders — Austin custom home / wood-and-steel construction firm",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "George McQueen is co-owner of McQueen Brothers Custom Builders, an Austin custom-build and renovation firm; the firm and a George McQueen residence both sit in 78704, matching the donor's zip. The filing lists no occupation ('N/A') and the name is common, so identity is probable rather than certain. Gave $400 to Paige Ellis; no FEC federal donation history.",
+  "source_url": "http://www.mcqueenbrothers.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1b128d98-dd6a-41d7-9142-7477cbaf9f37",
+  "name": "Lowrimore, Jane",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Confidently identified as Jane C. Lowrimore of Austin 78735 (West Lake Hills area), widow of William Lowrimore (d. 2014); the couple moved to Austin in 2000 from a Liberty Hill farm. The filing did not disclose occupation ('requested') and no career or industry is documented for her (an obituary describes farm/goat-raising life), so no industry can be responsibly assigned. Gave $400 to Kirk Watson; no FEC federal donation history.",
+  "source_url": "https://www.city-data.com/austin-properties/M/Mcdade-Drive-2.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a3e5eaf-7af6-4ddb-93fe-d0b0dc654e8a",
+  "name": "McQueen, Chris",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing did not disclose occupation/employer ('requested'). 'Chris McQueen' is a common Austin name; a well-known musician (Snarky Puppy guitarist) lives in Austin, but the donor cannot be confirmed as that person or tied to zip 78757. FEC lean 1.0 across 44 donations = uniformly Democratic federally, consistent with the $400 to Kirk Watson, but insufficient to confirm the specific individual.",
+  "source_url": "https://www.chrismcqueen.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a1e8bed-c46c-43d7-9ac6-5e73abf1fa11",
+  "name": "Brazzil, Ted",
+  "resolved_employer": "Oxbow Advisors (Austin registered investment advisory firm, ~$2.1B AUM serving high-net-worth families)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "The filing discloses employer 'Oxbow Advisors' and occupation 'investments'. Oxbow Advisors is a confirmed Austin-based RIA (~$2.1B AUM) serving high-net-worth families; zip 78703 (Tarrytown) is a wealthy Austin area consistent with the profile. Ted Brazzil is not listed on Oxbow's current published team roster, so identity rests on the filing disclosure. Gave $400 to Kirk Watson; no FEC federal donation history.",
+  "source_url": "https://oxbowadvisors.com/our-people-2023/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "19e28d91-ebdc-4bec-97b7-7078c8db76f6",
+  "name": "Hinton, Geoffrey",
+  "resolved_employer": "Allergan (pharmaceutical company) — Sales Manager",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "The filing discloses employer 'Allergan' and occupation 'Sales Manager', Cedar Park TX 78613. Allergan is a pharmaceutical company (with an Austin-area presence), placing a pharma sales manager in Healthcare. This is not the AI researcher of the same name. The individual could not be independently verified beyond the self-disclosed filing. Gave $400 to Kirk Watson; no FEC federal donation history.",
+  "source_url": "https://www.allergan.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "18a0e8cf-abab-42cb-978e-c33a8cb51c4c",
+  "name": "Morris, Barbara",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing did not disclose occupation/employer ('requested'). 'Barbara Morris' is an extremely common name with no identifying web evidence tying a specific person to Austin 78751 (Hyde Park). FEC lean 0.19 across 127 donations = Republican-leaning federally and a prolific donor, but identity cannot be confirmed, so no classification is made.",
+  "source_url": "https://en.wikipedia.org/wiki/Hyde_Park,_Austin,_Texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "181959d8-b192-400d-b323-2062d9fc1fad",
+  "name": "Quirk, Molly",
+  "resolved_employer": "Ardurra (national engineering/infrastructure consulting firm) — business development / client services for Central Texas; also Mayor of San Leanna and 2024 Texas Lyceum president",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Molly Quirk does business development for engineering firm Ardurra in Central Texas — matching the filing's occupation ('Business Development') and employer ('Ardurra'); she is Mayor of San Leanna, within Austin zip 78748, matching the donor. A former Director of Governmental Affairs at the Texas General Land Office and ex-legislative staffer, she led the Texas Lyceum as its 2024 president. FEC lean 0.37 across 7 donations = mixed / slightly Republican-leaning federally. Gave $400 to Kirk Watson.",
+  "source_url": "https://texaslyceum.org/index.php?option=com_dailyplanetblog&view=entry&year=2024&month=01&day=30&id=18:molly-quirk-to-lead-texas-lyceum-as-2024-president",
+  "affiliations": []
+ },
+ {
+  "donor_id": "17c609b8-9741-4b5c-8427-592c40ef9b91",
+  "name": "Autry, Aaron",
+  "resolved_employer": "AtkinsRéalis (Atkins) — VP, Regional Transportation Director / Central US Sector Manager; civil engineer",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Aaron Autry is VP Regional Transportation Director / Central US Sector Manager at AtkinsRéalis (Atkins) — exactly matching the filing's occupation ('VP, Sr. Sector Manager') and employer ('Atkins'). A civil engineer (BSCE, University of Mississippi) with ~26 years in transportation infrastructure, based in Round Rock 78681. FEC lean 1.0 across 2 donations = uniformly Democratic federally. Gave $400 to Kirk Watson.",
+  "source_url": "https://theorg.com/org/atkinsrealis/org-chart/aaron-autry",
+  "affiliations": []
+ },
+ {
+  "donor_id": "17874a55-33d0-4a46-8276-766778e69527",
+  "name": "Daniels, Robert",
+  "resolved_employer": "Westenfield Development Company (Austin real-estate developer) — Vice President / Director (listed in Texas business records as R. Ed Daniels)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "The filing lists occupation 'Commercial Real Estate', employer 'Westenfield Development Company', Austin 78703 — matching the company's address at 2414 Exposition Blvd, Austin 78703. Texas business records show R. Ed Daniels as Vice President and Director of Westenfield Development (Jeanne Daniels is President/CEO); 'Robert'/'R.' align. The industry is established directly by the self-reported real-estate-developer employer. FEC lean 0.16 across a very prolific 282 federal donations = Republican-leaning federally. Gave $400 to Kirk Watson.",
+  "source_url": "https://bizstanding.com/directory/TX/WE/2219/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "16036f02-40e0-460d-ac06-1ab33f42655a",
+  "name": "Peterson, Kelly",
+  "resolved_employer": "Homemaker (self-reported 'Momma', no employer)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reports occupation 'Momma' with no employer, in Rollingwood 78746 (a small affluent enclave). There is a plausible 'Kelly & Britt Peterson' household in the 78746 area, but Kelly Peterson is a common name with several Austin-area matches (a TEA education specialist, a Texas House chief of staff), and the specific donor cannot be confirmed. The 'Not Employed' classification rests solely on her own filing. FEC lean 0.19 across 26 donations = Republican-leaning federally. Gave $400 to Kirk Watson.",
+  "source_url": "https://campozark.com/venue/the-home-of-kelly-britt-peterson/",
+  "affiliations": []
+ }
+]

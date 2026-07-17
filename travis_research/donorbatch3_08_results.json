@@ -1,0 +1,130 @@
+[
+ {
+  "donor_id": "add96fe0-7b3e-4b26-9640-e47e9469d08e",
+  "name": "Mauro, Megan",
+  "resolved_employer": "Texas Association of Business (TAB), the Austin-based state chamber of commerce / business trade association. Senior Vice President of Policy and Advocacy at the time of these 2022 gifts; promoted to Executive Vice President and Chief of Staff in May 2024; named Interim President & CEO in December 2025",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "TAB's own May 2024 staff announcement describes Megan Mauro's elevation from Senior Vice President of Policy and Advocacy to Executive Vice President and Chief of Staff, crediting her 'policy prowess and exceptional coalition-building skills' in the organization's work to champion business interests — matching the filing's employer ('Texas Association of Business') and occupations ('SVP','Vice President') exactly, with the SVP title matching the 2022 gift dates specifically. Her background is more than three years at TAB plus seven years as an Associate at Texas Star Alliance, a bipartisan government affairs firm. Austin zip 78703 is consistent with TAB's Austin headquarters but was not independently tied to her; employer, title and timeline align. Classified Nonprofit / Advocacy because TAB is a 501(c)(6) trade association and lobbying organization rather than an operating business. Gave $900 to Kirk Watson across March–November 2022; no FEC donation history.",
+  "source_url": "https://www.txbiz.org/2024/05/22/tab-announces-key-staff-updates/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a52fdad3-aac1-4db3-aa4a-337feba1f96e",
+  "name": "Kronenberg, George",
+  "resolved_employer": "Founder and Managing Partner, Downstream Investments, L.L.C. (Austin private investment firm — strategic investments, leveraged acquisitions, recapitalizations and real estate); also co-founder/partner of Crestmoor Capital Partners, Chairman of Titleist Asset Management, and a founding partner of Circuit of the Americas",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "The donor is George H. 'Kam' Kronenberg III, founder and managing partner of Downstream Investments LLC, a private investment firm specializing in strategic investments, leveraged acquisitions, recapitalizations of established companies and real estate. Downstream's office at 3571 Far West Blvd, Suite 103 sits in zip 78731 — an exact match to the donor's zip — and the filing's employer ('Downstream Investments') and occupation ('Investor') align precisely. He is one of four partners at Crestmoor Capital Partners (Denver-based, with Dallas and Austin offices), which repositions problem loans and assets in the real estate, energy, and operating-business sectors, and serves as Chairman of Titleist Asset Management; his portfolio focus is Titleist, Crestmoor and Agricapture. Crestmoor's own material notes he is 'proud of his work that resulted in COTA (Circuit of the Americas) and Austin FC coming to Austin.' Note the split pattern: 18 FEC gifts at a 0.0 partisan lean (uniformly Republican federally) alongside $900 locally to Democrat Kirk Watson. His firms have stated energy-sector exposure (Downstream lists energy among its industries; Crestmoor works energy assets), but no source establishes an oil & gas operating, executive, board or ownership role, so no oil_gas flag is recorded.",
+  "source_url": "https://www.crestmoorcapital.com/our-people/management-team/george-kronenberg/",
+  "affiliations": [
+   {"org": "Circuit of the Americas (COTA)", "role": "Founding partner", "category": "business", "source_url": "https://www.crestmoorcapital.com/our-people/management-team/george-kronenberg/"},
+   {"org": "Titleist Asset Management, Ltd.", "role": "Chairman", "category": "business", "source_url": "https://www.tamgmt.com/"}
+  ]
+ },
+ {
+  "donor_id": "a3ccc6da-17bb-45d2-84a4-a2f0b10733d6",
+  "name": "Goehring, Jody",
+  "resolved_employer": "Co-Founder and Managing Partner, Hyde Park Ventures (restaurant and hospitality services company operating the second-largest Five Guys franchise in the U.S. — 1,300+ employees across seven states — plus investment-grade net-lease real estate and hospitality software); co-founder of Smith Mechanical Services (commercial HVAC and refrigeration, New England)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Hyde Park Ventures' own team page identifies Jody Goehring as Co-Founder and Managing Partner, overseeing the second-largest Five Guys franchise in the U.S. with 1,300+ employees across seven states, and states that he 'lives in Austin, TX' — matching the filing's employer ('Hyde Park Ventures'), occupation ('Executive') and Austin location; 'Jody Goehring' is an uncommon name with a single Austin match. Prior roles: VP of Corporate Development and Product at RetailMeNot (NASDAQ), Associate Director at UBS Investment Bank, and Associate at Booz Allen Hamilton; MBA from Chicago Booth, BA from Penn. Classified Hospitality / Events as a multi-unit restaurant franchise operator. Austin zip 78703 is consistent with his stated Austin residence but was not independently confirmed, and Hyde Park publishes no Austin street address. Two notes recorded deliberately without flags: he serves as an officer in the U.S. Navy Reserve (personal military service, not a defense-contractor role) and was early in his career an Associate at Booz Allen Hamilton, a major defense and intelligence contractor (a junior consulting role, not the exec/board/owner/lobbyist tie the military_defense flag requires). Single $900 gift to Kirk Watson (Dec 2022); no FEC donation history.",
+  "source_url": "https://www.hydeparkventures.com/team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f2aeb80-4e29-4dd9-b1cd-481add7e5a1c",
+  "name": "Dyson, Michael",
+  "resolved_employer": "Chief Executive Officer and co-founder, Infinity Water Solutions (Austin-based produced-water management and recycling company founded 2019, serving oil & gas operators in the Permian Basin); former Mayor of Rollingwood, Texas (2018–2021)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Infinity Water Solutions' own team page identifies Mike Dyson as CEO and co-founder of the water management and sustainability company he launched in 2019, focused on recycling and reusing produced water in the Permian Basin — matching the filing's employer ('Infinity Water Solutions') and occupations ('Executive','CEO'), with the company and Dyson both based in Austin. He is described as a second-generation energy professional with two decades in water, technology and real estate, holds a BA from the University of Houston and a JD from Rutgers, completed Stanford's Business Executive Program, and 'serves on several boards of directors for technology and energy companies.' Corroborating detail: the company bio names his wife Marsha and two daughters, and Marsha Dyson appears in this same batch as a donor at the identical zip (78704) with identical gift dates (2022-10-11 and 2022-11-09), consistent with a couple giving together. Note his mayoral service was in Rollingwood (zip 78746) through 2021 while these 2022 gifts carry zip 78704, consistent with a move; the 78704 address itself was not confirmed from a primary source. 4 FEC gifts at 0.0 partisan lean (uniformly Republican federally) alongside $900 locally to Democrat Kirk Watson.",
+  "source_url": "https://water.energy/team/mike-dyson/",
+  "affiliations": [
+   {"org": "Infinity Water Solutions", "role": "CEO and co-founder — produced-water recycling/management company whose customers are Permian Basin oil & gas operators; self-described second-generation energy professional and board member of energy companies", "category": "oil_gas", "source_url": "https://water.energy/team/mike-dyson/"},
+   {"org": "City of Rollingwood, Texas", "role": "Mayor (2018–2021)", "category": "political", "source_url": "https://water.energy/team/mike-dyson/"}
+  ]
+ },
+ {
+  "donor_id": "98d1c073-dc7b-4a15-a92e-aeb0e70d66ca",
+  "name": "Lin, Nelson",
+  "resolved_employer": "Co-owner and operator, Soupleaf Hot Pot (6929 Airport Blvd, Austin), run with his brother Nick Lin and their mother; the family is also opening Mama Lin's Soup & Leaves at Plaza 183",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Community Impact's June 2025 profile of the family-owned restaurant identifies Nelson Lin as co-owner of Soupleaf Hot Pot at 6929 Airport Blvd, which he runs with his brother Nick and their mother (reported as Jun or Jin Lin across sources); the restaurant's address falls in zip 78752 — an exact match to the donor's zip — and the filing's employer ('Soupleaf Hotpot') and occupations ('Waiter','Business Owner') match a hands-on family restaurant owner precisely. The Lin family previously ran two Chinese buffet restaurants in San Diego that closed during the pandemic, after which their mother moved to Austin and opened Soupleaf in 2022; Nelson has also appeared on the 'Asian in Austin' podcast discussing the restaurant. Gave to Austin council member Chito Vela and Mike Siegel in fall 2024; no FEC donation history.",
+  "source_url": "https://communityimpact.com/austin/south-central-austin/dining/2025/06/11/family-owned-soupleaf-hot-pot-brings-fresh-community-dining-experience-to-austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "945fe8b5-6191-42a1-8b9c-2a44605ed8c2",
+  "name": "Stang, Jennifer",
+  "resolved_employer": "Jennifer Stang, M.S., L.Ac. — licensed acupuncturist and practitioner at Body Evolution Acupuncture and Wellness, PLLC (4111 Marathon Blvd, Suite 110, Austin 78756; second office at 1807 W. Slaughter Ln)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Body Evolution Acupuncture & Wellness's own practitioner page and the practice's NPI registration (NPI 1326392788, 4111 Marathon Blvd Suite 110, Austin) identify Jennifer Stang, M.S., L.Ac. as the acupuncturist there — matching the filing's employer and occupation strings ('Body Evolution Acupuncture and Wellness','Acupuncturist','Acupuncture') exactly; the practice name is unique and leaves no same-name ambiguity. She is a Diplomate of the National Certification Commission for Acupuncture and Oriental Medicine, a member of the American Association of Acupuncture and Oriental Medicine, and licensed in Texas, New York and New Jersey; BA in Psychology from Connecticut College, Master's in Acupuncture from the Tri-State College of Acupuncture (NYC), specializing in women's health, cosmetic and orthopedic acupuncture. Note the donor's zip 78705 (Hyde Park / UT area) is her residence and differs from the practice zip 78756 (Rosedale) — adjacent central-Austin neighborhoods; the residential address itself was not independently confirmed. Gave $900 to Austin council member Ryan Alter in fall 2022; no FEC donation history.",
+  "source_url": "https://www.bodyevolutionacupuncture.com/meetthepractitioner",
+  "affiliations": []
+ },
+ {
+  "donor_id": "922d0bb2-9c60-4c14-bb51-379d4577cef7",
+  "name": "Baker, Steve",
+  "resolved_employer": "Attorney and entrepreneur with interests in real estate, agriculture and energy; self-reported as Rancher, Baker Cattle Company. Also a partner in Floore's Country Store, the historic music venue in Helotes, Texas, and a board member of Austin Smiles",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Austin Smiles' board page describes Steve Baker as an attorney and entrepreneur 'with interests spanning real estate, agriculture, and energy sectors,' a partner in Floore's Country Store, holding a BA from Baylor and a JD from UT Austin. The corroborating chain: his agriculture interests match the filing's occupation ('Rancher') and employer ('Baker Cattle Company'); his philanthropy includes Cattlemen Care — the cattle-industry charity founded in 2007 by his late wife Allison — along with the Boys and Girls Club of Austin and the Colorado River Foundation; and Allison was killed in an auto-pedestrian accident in Tarrytown, the central-Austin neighborhood that makes up zip 78703, the donor's zip. Confidence is medium rather than high because no source directly names him as owner of an entity called 'Baker Cattle Company' (no Texas SOS or company record surfaced), 'Steve Baker' is a common name, and the Tarrytown link runs through the accident location rather than a confirmed residential address. Industry is recorded as Self-Employed because the taxonomy has no Agriculture label and he is an owner-operator of his own cattle company rather than a practicing attorney per his own disclosure. His unspecified 'energy' interests are noted but no oil & gas executive, board or ownership role is documented, so no oil_gas flag is recorded. Gave $900 to Kirk Watson in fall 2022; no FEC donation history.",
+  "source_url": "https://austinsmiles.org/austin-smiles-about-cleft-lip-palate/our-board/steve-baker/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "878b497a-3d6f-4445-8d7f-fa61d153fa90",
+  "name": "Lee, Jay",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. 'Jay Lee' is an extremely common name and the filing supplies nothing to anchor on: the employer strings are 'Requested'/'requested' — a filer placeholder meaning the campaign requested employer information and never received it — leaving only the occupation 'IT Service' and Austin zip 78748 (far south Austin). Searches of LinkedIn, Austin IT-company directories and professional listings returned multiple unrelated Jay Lees (a game-development technical lead, a Telecell employee, an investor at Sandton Capital Partners, and an Austin attorney named Jay Patrick Lea in a different zip), none tied to this donor. Notable but not identifying: the attached FEC record shows 137 federal gifts at a 0.9992 partisan lean, i.e. a high-volume, near-uniformly Democratic federal donor (the volume suggests small recurring contributions), consistent with the $900 to Kirk Watson but insufficient to establish identity or employer. Not classified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "86f62fa8-18e2-45cf-9165-bf57daa3ad3d",
+  "name": "Knox, Julie",
+  "resolved_employer": "Stay-at-home mother (self-reported; employer reported as 'none')",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "No web source could be found for a Julie Knox in Austin zip 78756 (Rosedale/Allandale) — searches of news, professional directories, LinkedIn and local business listings returned only unrelated people named Julie Knox elsewhere in the U.S. and coincidental 78756 business hits (Knox Pots on Burnet Rd; unrelated Julies in bodywork practices), none tied to this donor. The Not Employed classification rests solely on the donor's own disclosure in the campaign finance filing, which reports occupation 'stay at home mother'/'Mother' and employer 'none'/'None'. Treat as self-reported and uncorroborated: the specific individual has not been independently identified. Single $900 gift to Kirk Watson (Dec 2022); no FEC donation history.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "814ee2a1-5d48-41c7-bf23-8dda49442555",
+  "name": "Stephens, Mark",
+  "resolved_employer": "Client Success Representative, CS Disco (DISCO) — publicly traded Austin-based legal-technology company providing cloud e-discovery and litigation software, HQ 111 Congress Ave (self-reported; the individual was not independently confirmed)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "The employer is verifiable — CS Disco is a real, publicly traded Austin legal-technology company headquartered at 111 Congress Ave with a client success organization, matching the filing's employer ('CS Disco') and occupation ('Client Success Representative'). The individual is not confirmed: 'Mark Stephens' is a common name and the only close LinkedIn match is a senior sales executive at Gartner based in Dallas — a different person with no CS Disco connection. The donor's location, Woodway, TX 76712, is a Waco suburb about 100 miles from Austin, consistent with remote work for an Austin employer but not independently corroborated. The Technology classification derives entirely from the donor's own disclosed employer rather than from an identified individual; confidence is capped at medium for that reason. Single $900 gift to Kirk Watson (Dec 2022); no FEC donation history.",
+  "source_url": "https://csdisco.com/company/about-us",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7a9262f5-f0d1-490e-a156-3927dbfec587",
+  "name": "Ross, JD",
+  "resolved_employer": "Serial technology entrepreneur, Austin. Co-founder of Opendoor (2014); co-founder of Royal.io (May 2021–April 2023, artist/music-royalty investment platform); co-founder and President of With Coverage (risk-management platform launched July 2023); General Partner at the venture studio Atomic",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "JD Ross (Justin D. Ross; profiles under 'justindross' on Wellfound and X) is an Austin-based technology entrepreneur who co-founded the real-estate technology company Opendoor in 2014 at age 23 with Keith Rabois and Eric Wu, is a general partner at the venture studio Atomic, and is profiled by Forbes and Crunchbase — matching the filing's occupations ('Technology Entrepreneur','President') and Austin location. The decisive corroboration is the two employer strings against the gift timeline: he co-founded Royal.io (May 2021–April 2023), matching employer 'Royal' on the October 2022 gift, then co-founded With Coverage in July 2023, matching employer 'With Coverage' on the September 2024 gift — the employer change tracks his actual company transition exactly. Austin zip 78704 is consistent with his stated Austin base but the residential address was not independently confirmed. Gave $900 total to Kirk Watson across Oct 2022–Sept 2024; no FEC donation history on record.",
+  "source_url": "https://www.forbes.com/profile/jd-ross/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6759c80f-7f66-4857-8c7b-6d9c82c9349c",
+  "name": "Dyson, Marsha",
+  "resolved_employer": "Owner, Bettis Block, LLC (self-reported; the entity's business could not be determined). Career background: 15+ years in healthcare, in the therapeutic and research sectors, working for research organizations. Ballet Austin board Member-at-Large since 2024, where she is listed under the employer heading 'Patron of the Arts'",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Identity is well established: Ballet Austin's board page lists Marsha Dyson as a Member-at-Large (since 2024) whose bio — 15+ years in healthcare focused on therapeutic and research sectors, a BS in Biomedical Science from Texas A&M, volunteer boards for education, children's sports and NICU mothers and babies, husband Michael, two daughters active in sports and ballet — matches Mike Dyson's company bio point for point (he names his wife Marsha and daughters Mia and Maddie). She and Michael Dyson appear in this batch at the same zip (78704) with identical gift dates (2022-10-11 and 2022-11-09), the signature of a couple giving together. The industry is the uncertain part, hence medium: her documented career is healthcare, but Ballet Austin lists her occupation as 'Patron of the Arts' (i.e. not currently employed in the field), and the filing's own occupation strings are 'N/A' and 'owner, Bettis Block, LLC' — an entity whose business could not be determined from any source. Bettis Block LLC appears only in a West Lake Hills property transaction in which Michael and Marsha Dyson were the buyers and the LLC the seller, which does not establish what it does or that she owns it; note 'Bettis Blvd' is a street in Austin 78746, suggesting a property-holding entity, but this is not confirmed and no Real Estate classification is asserted on that basis. No FEC donation history.",
+  "source_url": "https://balletaustin.org/about/board-of-directors/",
+  "affiliations": [
+   {"org": "Ballet Austin", "role": "Board of Directors, Member-at-Large (since 2024)", "category": "civic", "source_url": "https://balletaustin.org/about/board-of-directors/"}
+  ]
+ }
+]

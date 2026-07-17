@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "f95b6a7e-6e7f-4acb-923d-5d88b7e5da33",
+  "name": "Nield, Richard",
+  "resolved_employer": "Invesco Ltd. — Senior Portfolio Manager, International Equities (Austin)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Confirmed Invesco Senior Portfolio Manager for International Equities based in Austin; publishes on the Invesco investment blog, McGill finance grad, ex-OMERS analyst. Matches occupation/employer/zip exactly.",
+  "source_url": "https://www.blog.invesco.us.com/author/richardnield/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ec40ae80-035a-4382-bbe7-8019f8306e27",
+  "name": "Howell, Dwyane",
+  "resolved_employer": "(retired) nonprofit executive — organizational development / turnaround management; background incl. The Leukemia & Lymphoma Society",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Retired, Bedford MA 01730; LinkedIn 'Dwayne Howell' of Bedford MA (spelling variant) lists nonprofit governance, strategic planning and turnaround/performance management with Leukemia & Lymphoma Society experience. Out-of-state donor to progressive candidate Mike Siegel; city and retired status match.",
+  "source_url": "https://www.linkedin.com/in/dwayne-howell-27bb92b/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e5f00527-a675-44f1-b6ab-a6c6017ce421",
+  "name": "Ross, E.W.",
+  "resolved_employer": "Ross Business Group, Pflugerville — McDonald's franchise owner/operator (Ross Family McDonald's, Austin/Round Rock/Hutto/San Antonio area)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Owner of Ross Business Group (78660); the entity carried the 'McDonald's' trade name in TX registrations, and Ross Family McDonald's operates franchises across the Austin/San Antonio area. FEC lean 1.0 (fully Republican) fits a franchise-owner donor profile.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0801610103",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d61ef9c9-e12c-42d7-9582-72a3ed912e1e",
+  "name": "Carter, McFadden",
+  "resolved_employer": "Capitol Wright Distributing — wholesale beverage distributor (Austin/Central Texas)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Self-reported 'Distributor' at Capitol Wright Distributing, a confirmed Central Texas wholesale beer/beverage distributor (formed 2014 from Capitol Beverage + Wright Distributing). Employer verified; the specific individual could not be independently corroborated.",
+  "source_url": "https://www.capitolwright.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d618f88e-5cf4-4c34-8cd1-31a745b3f967",
+  "name": "Chatmas, John",
+  "resolved_employer": "Waterloo Capital (Waterloo Capital Management), Austin — Founder & CEO / primary owner",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Confirmed Founder/CEO of Waterloo Capital, an Austin multi-family-office/wealth manager (founded 2004 as Virtus Private Wealth) offering private equity, private credit, hedge funds and alternatives; UT Austin BBA, ex-Smith Barney/Morgan Stanley. Matches employer/occupation/78746.",
+  "source_url": "https://www.waterloocap.com/about/john-chatmas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cc1eeb0a-8b9a-426b-a9cd-183ce1486f64",
+  "name": "Geason, Melina",
+  "resolved_employer": "Venus Medical Solutions, Pflugerville — Office Manager",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported Office Manager at Venus Medical Solutions, a confirmed Pflugerville medical-device firm (buys/sells/repairs cosmetic/aesthetic laser handpieces). Employer verified; individual identity not independently corroborated, so industry is employer-based.",
+  "source_url": "https://www.bbb.org/us/tx/pflugerville/profile/laser/venus-medical-solutions-0825-1000134592",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ca6340a6-58e2-4c86-a750-ac0d65843557",
+  "name": "Kraus, John",
+  "resolved_employer": "Vista Property Co. — Partner (retail property development/management, Austin & DFW)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-reported Partner at Vista Property Co., a confirmed Austin/DFW retail real-estate development and management firm. Name not on the firm's current roster (2018 gift; likely former/affiliated partner), so employer-based classification with real-estate-development leaning.",
+  "source_url": "https://vistapropertyco.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c8d125e2-520d-4180-b924-300d9d844f54",
+  "name": "Hodgson, Seth",
+  "resolved_employer": "Udemy — SVP / Head of Engineering (Austin)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed SVP & Head of Engineering at Udemy (2021-2025), based in Austin; prior VP Engineering at Vrbo and roles at Microsoft/Adobe. Matches employer/occupation/78756.",
+  "source_url": "https://theorg.com/org/udemy/org-chart/seth-hodgson",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c2a52001-1fba-40bf-b5bd-60e2ca90bb40",
+  "name": "Loveless, Geoffrey",
+  "resolved_employer": "Venus Medical Solutions, Pflugerville — Sales",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported Sales at Venus Medical Solutions, a confirmed Pflugerville aesthetic/medical laser device supplier and repair company. Employer verified; individual not independently corroborated, so industry is employer-based.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.venus_medical_solutions_llc.9383c7168c65b0da67d92de44b03397e.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bddd5447-b0cd-45d1-8960-1fe20e19f6ed",
+  "name": "Elliott, Jeanne",
+  "resolved_employer": "Songhai Development Company, Austin — Office Manager",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-reported Office Manager at Songhai Development, a confirmed Austin affordable multifamily-housing development/consulting firm (founded 2001 by Cherno Njie, ~70,000 units statewide). Employer verified; individual not independently corroborated.",
+  "source_url": "https://songhaidevelopment.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a632023b-faed-47ca-bfb7-8814af0d6a7e",
+  "name": "Flowers, Kimberly",
+  "resolved_employer": "Venus Medical Solutions, Pflugerville — Accounting Manager",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported Accounting Manager at Venus Medical Solutions, a confirmed Pflugerville medical/aesthetic laser device company. Employer verified; individual not independently corroborated, so industry is employer-based.",
+  "source_url": "https://www.yelp.com/biz/venus-medical-solutions-pflugerville-3",
+  "affiliations": []
+ },
+ {
+  "donor_id": "977e87ff-29f1-415c-8265-6b48388f28b7",
+  "name": "Berenji, Erhima",
+  "resolved_employer": "Caspian Grill, Austin/Pflugerville — Food (restaurant) Manager",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Self-reported food manager at Caspian Grill, a confirmed Austin-area Persian/Mediterranean restaurant; surname Berenji is consistent with the Iranian-American ownership/staff of a Persian restaurant. Employer verified; individual not independently corroborated.",
+  "source_url": "https://caspiangrillaustin.com/",
+  "affiliations": []
+ }
+]

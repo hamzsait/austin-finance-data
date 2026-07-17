@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "15a09ed0-3560-4252-b54a-6fabd7058264",
+  "name": "McGehee, Les",
+  "resolved_employer": "McGehee Authentic Company (Les McGehee — professional speaker/trainer/author; founder of Rialto Academy, formerly ComedySportz Austin / National Comedy Theatre)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Confirmed the known Austin improv/comedy figure who pivoted to corporate training, coaching and speaking (author of 'Plays Well With Others,' co-founder of Rialto Academy real-estate education firm). 'McGehee Authentic Company' is his own eponymous training/speaking brand, matching the filing's employer string and occupation 'Executive'. Classified Consulting / PR (professional-training services) as the nearest fit; identity is certain but the sector label for a self-owned training business is a judgment call, hence medium. Gave only to Kirk Watson.",
+  "source_url": "https://www.lesmcgehee.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "14cbcd5d-5fc8-4474-b653-a980638d2c79",
+  "name": "Rymer, Dane",
+  "resolved_employer": "Project Developer, Northline Leander Development Company (Leander mixed-use downtown project); later Development Manager at NexMetro Communities; previously Cypress Real Estate Advisors",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Austin-based real estate development professional; profiles confirm Dane Rymer worked as Project Developer at Northline Leander Development Company and Cypress Real Estate Advisors, now Development Manager at NexMetro Communities — matching the filing's occupation 'Real Estate' and employer string exactly. Gave only to Kirk Watson.",
+  "source_url": "https://rocketreach.co/dane-rymer-email_14494592",
+  "affiliations": []
+ },
+ {
+  "donor_id": "146c1caf-cd07-4865-98d6-fed666955ff9",
+  "name": "Dixon Jr, R Eddie",
+  "resolved_employer": "SVP, Chief Legal Officer & Secretary, National Instruments Corporation (NI) — Austin test-and-measurement technology company",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Royal Eddie Dixon Jr. (UT Law 1990) is the Chief Legal Officer / General Counsel & Secretary of National Instruments (NI), an Austin technology company — role, employer and Austin location all match the filing's occupation 'Chief Legal Officer' and employer string. Classified Technology by employer sector; Legal is a defensible alternative given he is a corporate general counsel. Gave only to Kirk Watson.",
+  "source_url": "https://www.ni.com/en-us/about-ni/leadership/dixon.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "13c5f959-374b-4f74-a39f-a49d59137fc2",
+  "name": "Speck, Stacey",
+  "resolved_employer": "Associate / Regional Director of Business Development, Cushing Terrell (architecture & engineering firm), Austin office",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Stacey Speck is an Associate and Regional Director of Business Development at Cushing Terrell's Austin office (architecture/engineering/design firm); the firm's author page and LinkedIn confirm the exact person and role, matching the filing's occupation 'Executive' and employer string. Gave only to Kirk Watson; 1 FEC gift at 1.0 partisan lean (Democratic).",
+  "source_url": "https://cushingterrell.com/author/staceyspeck/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "10ff93fb-4dab-4b1e-9dc2-d785b6398f9c",
+  "name": "Chasen, Matthew",
+  "resolved_employer": "Founder, Chairman & CEO, LIFT Aircraft Inc. (Austin-based eVTOL 'HEXA' personal aircraft maker); earlier founder of uShip; former Boeing engineer on the F-22",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Matt Chasen is Founder, Chairman & CEO of LIFT Aircraft (Austin eVTOL 'HEXA' personal aircraft) and earlier founded shipping marketplace uShip; a former Boeing engineer on the F-22 fighter. Austin zip 78731 + occupation 'Executive' + employer string match exactly. Classified Transportation (aircraft/aviation); Technology is a defensible alternative given the startup nature. NOTABLE: LIFT holds U.S. Air Force 'Agility Prime' contracts, giving a military-defense dimension. Gave only to Kirk Watson.",
+  "source_url": "https://www.liftaircraft.com/about-us",
+  "affiliations": [
+   {"org": "LIFT Aircraft Inc.", "role": "Founder, Chairman & CEO (eVTOL maker holding USAF Agility Prime / AFWERX contracts)", "category": "military_defense", "source_url": "https://www.liftaircraft.com/post/lift-aircraft-advances-to-phase-3-contract-with-the-us-air-force"}
+  ]
+ },
+ {
+  "donor_id": "10a5ba95-607a-4a33-ab56-4b3ee1120ecb",
+  "name": "Subramaniam, Kausi",
+  "resolved_employer": "Director of Dance / Co-Owner, Kalalaya Indian Performing Arts (San Antonio's first Bharatanatyam and Carnatic-music school)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Kausi Subramaniam is Director of Dance / Co-Owner of Kalalaya Indian Performing Arts, a San Antonio Bharatanatyam and Carnatic-music school — matching San Antonio zip 78261 + occupation 'Manager' + employer string exactly. Classified Education (a private performing-arts instruction studio); Entertainment is the soft alternative. Gave only to Kirk Watson; 2 FEC gifts at 1.0 partisan lean (Democratic).",
+  "source_url": "https://kalalaya-sa.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0fb998a9-480f-4fd6-8d2e-8f7b31b001de",
+  "name": "Wertheimer, Steve",
+  "resolved_employer": "Owner/President, Continental South Congress Corp — Austin's Continental Club and C-Boy's Heart & Soul music venues (also Ski Shores); credited with anchoring the South Congress revitalization",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Steve Wertheimer owns Austin's Continental Club and C-Boy's Heart & Soul music venues plus Ski Shores, and is credited with anchoring the South Congress revitalization; Austin zip 78746 + occupation 'President' + employer string 'Continental South Congress Corp' match. Core business is music venues/hospitality. Gave only to Kirk Watson.",
+  "source_url": "https://austin.culturemap.com/news/entertainment/steve-wertheimer-continental-club-award/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0ee084ca-eb95-4a8e-be4b-f3aba277f846",
+  "name": "Barksdale, Barry",
+  "resolved_employer": "Founder & President, PDS Energy Information, Inc. (Austin oil & gas data-exchange firm; PDS Exchange assets acquired by Enverus, 2026) — identification tentative",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Barry R. Barksdale is founder/President of Austin-based PDS Energy Information, an oil & gas data-exchange firm handling a large share of U.S. completions/production/drilling data (PDS Exchange assets acquired by Enverus in 2026). The filing lists NA occupation/employer, so identity could not be cross-checked on employer; the distinctive name + Austin locale point to this prominent local oil-and-gas figure, and the federal donation pattern (0.0 partisan lean, 6 FEC gifts — uniformly Republican) is consistent, but 78767 is a downtown Austin PO-box zip that offers no residential corroboration. Confidence medium. Gave only to Kirk Watson.",
+  "source_url": "https://theorg.com/org/pds-energy/org-chart/barry-barksdale",
+  "affiliations": [
+   {"org": "PDS Energy Information, Inc.", "role": "Founder & President (oil & gas well/production data-exchange firm)", "category": "oil_gas", "source_url": "https://www.enverus.com/newsroom/enverus-acquires-pds-exchange-assets-expanding-its-operating-network-across-u-s-energy-markets/"}
+  ]
+ },
+ {
+  "donor_id": "0d054022-5ea6-4be0-b0bc-3ca90f4c45fb",
+  "name": "Hentrich, Andrew",
+  "resolved_employer": "President, Buena Vista Music LLC (Austin) and ticket broker Soldout.com",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Andrew Hentrich of Austin 78757 (zip matches the filing exactly) is President of Buena Vista Music (Rio Grande St, Austin) and of ticket broker Soldout.com per LinkedIn/public records — a music/entertainment and event-ticketing operator, consistent with the filing's occupation 'Entertainment Business' and employer string. Classified Entertainment as the nearest fit across music and ticketing. Gave only to Kirk Watson; 3 FEC gifts at 1.0 partisan lean (Democratic).",
+  "source_url": "https://www.linkedin.com/in/hentrich/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "09ebcc7b-a5dc-416c-b0a8-031c90f422f7",
+  "name": "Lyons, Megan",
+  "resolved_employer": "Green Dot Corp (fintech / digital-bank holding company, downtown Austin HQ) — SVP Strategy per filing; individual role not independently verified",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Green Dot Corp is a fintech / digital-bank holding company whose HQ relocated to downtown Austin (114 W 7th St, 78701 — matches the donor zip), corroborating the employer string and 'SVP Strategy' occupation as an Austin-based Green Dot role. A Megan Lyons appears in the Austin metro on LinkedIn, but she is not a named executive officer on Green Dot's public leadership pages, so the individual role is unverified — employer/industry (Finance) is confident while the specific person is not, hence medium. Gave only to Kirk Watson; 1 FEC gift at 0.0 partisan lean.",
+  "source_url": "https://ir.greendot.com/corporate-governance/management",
+  "affiliations": []
+ },
+ {
+  "donor_id": "09ae8a39-f70f-48c0-8613-5db23bac4dcb",
+  "name": "O'Gan, Damon",
+  "resolved_employer": "Founder/owner, Austin Equine (Austin Equine Associates) — equine sport-horse veterinary practice",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Damon O'Gan, DVM (Texas A&M 2003) founded Austin Equine in 2004, an equine sport-horse veterinary practice serving the Austin area (Driftwood, TX), and lives in central Austin — the distinctive name + exact employer match ('Austin Equine') and occupation 'Veterinarian' confirm identity. Veterinary medicine classified under Healthcare. Gave only to Kirk Watson; 1 FEC gift at 1.0 partisan lean (Democratic).",
+  "source_url": "https://austinequine.com/staff",
+  "affiliations": []
+ },
+ {
+  "donor_id": "08ed7d13-93a2-4741-bd44-3a4a88382d44",
+  "name": "Valerio, John",
+  "resolved_employer": "Founder & owner, 766 Auto Inc — family-owned auto-repair shop, 209 N Pleasant Valley Rd, Austin 78702",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Johnny (John) Valerio is Founder & owner of 766 Auto Inc, a family-owned auto-repair shop in East Austin at 78702 (zip matches the filing exactly), consistent with the occupation 'Small Business Owner' and employer string; ASE/EPA-certified technician. Classified Self-Employed (small independent auto shop); Retail/Transportation are alternatives. Gave to East Austin council member Jose Velasquez (District 3, 78702); 1 FEC gift at 0.0 partisan lean.",
+  "source_url": "https://www.linkedin.com/in/johnny-valerio-17854623/",
+  "affiliations": []
+ }
+]

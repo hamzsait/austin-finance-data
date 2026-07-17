@@ -1,0 +1,129 @@
+[
+ {
+  "donor_id": "954f6502-afdc-4fd8-ae4a-c08efc786e57",
+  "name": "Means, Ronald",
+  "resolved_employer": "Ron Means, Founder/CEO of APC Charter & Shuttle Inc. (Austin charter bus/shuttle transportation company)",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Ron Means at APC Charter & Shuttle Inc., matching the self-reported Founder/CEO title and Austin location; company is a charter bus and shuttle service.",
+  "source_url": "https://www.linkedin.com/in/ronmeans/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "79daa55f-5d6c-4442-b39d-dbf1652677f1",
+  "name": "Buoy, Kang",
+  "resolved_employer": "Afton Chemical Corporation (petroleum additives manufacturer, subsidiary of NewMarket Corp) - Processing/production role",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Self-reported employer Afton Chemical is a global petroleum/fuel-and-lubricant additives manufacturer serving the oil industry; donor's role is 'Processing' (rank-and-file production), so classified by employer's petroleum-additives line of business. Specific individual not independently verified beyond filing.",
+  "source_url": "https://en.wikipedia.org/wiki/Afton_Chemical",
+  "affiliations": [
+   {
+    "org": "Afton Chemical Corporation (petroleum additives)",
+    "role": "Processing/production employee (not executive/board/owner)",
+    "category": "oil_gas",
+    "source_url": "https://www.aftonchemical.com/"
+   }
+  ]
+ },
+ {
+  "donor_id": "7735f062-0195-42e2-8a6e-aa28e0a87979",
+  "name": "Beiter, Martha",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Employer/occupation both filed as 'requested' (undisclosed). Austin 78751, FEC-active Democratic-leaning donor (7 federal gifts), but no public source ties this specific person to an identifiable occupation/employer.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "75f58c70-4a2f-42cf-ae00-55705209b479",
+  "name": "Mines, David",
+  "resolved_employer": "Retired account manager (former career field unspecified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported as retired 'account manager' in Austin 78731; 'account manager' is not industry-specific and no public source identifies the specific person or prior industry, so no confident classification.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "57a30054-bebd-44c0-8ade-f11c12255759",
+  "name": "Michel, Soheir",
+  "resolved_employer": "CPM Consultants, LLC - Austin owner's-representative / construction project-management firm (listed principal 'Sue' Michel)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Employer string 'CPM Consultants' matches CPM Consultants, LLC, an Austin owner's-representative/project-management firm for capital construction projects; a principal 'Sue Michel' appears in firm records, a likely anglicization of Soheir. Employer confirmed; exact name link probable but not certain.",
+  "source_url": "https://www.cpmtx.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "559166b8-f795-45a5-925f-2fce089ddaec",
+  "name": "Ghaffari, Shahriar",
+  "resolved_employer": "Caspian Grill (Austin Persian/Mediterranean restaurant) - co-owner/general manager",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Multiple sources identify Shahriar Ghaffari as co-owner of Caspian Grill, an Austin Persian restaurant (an Iranian-immigrant-founded eatery on Research Blvd), matching the self-reported General Manager title.",
+  "source_url": "https://caspiangrillaustin.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ebfb74b-3b83-4200-9bd5-cf0c62fa628e",
+  "name": "Will, Campos",
+  "resolved_employer": "Prudential ('Pru') - finance role, Dallas",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Filing self-reports occupation 'Finance' at 'Pru' (Prudential) in Dallas 75219; industry follows the donor's own disclosure, but no public source confirms this specific individual, so identity remains unverified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "43a4607f-2520-4638-ae61-6eec8dc96acf",
+  "name": "Harrell, Baker",
+  "resolved_employer": "It's Time Texas - Founder & CEO (Austin-based statewide health/wellness nonprofit); later UT Austin College of Education / The Heyday Group",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Baker Harrell, Ph.D., founded It's Time Texas (2014) and served as CEO through 2019, raising $35M+ for the Austin-based chronic-disease/community-health nonprofit; matches self-reported CEO title and Austin 78731.",
+  "source_url": "https://itstimetexas.org/a-conversation-with-founder-baker-harrell-and-new-ceo-amy-mcgeady/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "35fdd931-2e60-449b-baab-9a9da2f20f8a",
+  "name": "Berenji, Yassaman",
+  "resolved_employer": "Herbahol, Inc. - Austin/Pflugerville herbal health-market retailer (now closed) - Manager",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Herbahol, Inc. was an Austin-area herbal/health-market retail store (N. Lamar Blvd, now closed) registered in TX; donor's self-reported Manager role and Pflugerville 78660 area align. Employer confirmed; specific individual not independently verified.",
+  "source_url": "https://www.bizapedia.com/tx/herbahol-inc.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3470450f-ec6e-4ee3-bee8-2533bd543b26",
+  "name": "Miller, Robey",
+  "resolved_employer": "Alpha Edison - Partner (early-stage venture capital firm)",
+  "industry": "Venture Capital",
+  "confidence": "medium",
+  "evidence": "Robey Miller (distinctive name) is a Partner at Alpha Edison, an early-stage VC firm, matching self-reported 'Investor'/'Alpha edison'; the firm is LA-based but the Austin 78703 residence is plausible for a partner. Employer and role match strongly.",
+  "source_url": "https://signal.nfx.com/investors/robey-miller",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bad8ff5d-5b0e-4a08-b503-0e02d171ebdb",
+  "name": "Goldston, Carolyn",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer filed; Austin 78759, FEC-active Democratic-leaning donor (56 federal gifts). No public source confidently identifies this specific person's occupation, so no classification.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "623f6a85-43ca-4a06-b2aa-549c4e097b1e",
+  "name": "Sharman, Christopher",
+  "resolved_employer": "Sherry Matthews Group (Austin advocacy-marketing / advertising agency) - Senior Vice President",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Chris Sharman as SVP at Sherry Matthews Advocacy Marketing (Austin), a marketing-communications/advertising agency serving nonprofit and government clients; matches self-reported Executive role and Austin 78752.",
+  "source_url": "https://www.linkedin.com/in/chris-sharman-7b80901/",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "tcv-6b74e21a-ec63-41ed-83f8-4e7d7fe36e26",
+  "name": "Mercer, James",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on record; 'James Mercer' is a very common name and no corroborating detail (location/occupation/donation pattern) could tie the $250 gift to Jeff Travillion to a specific individual.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6a10dbe5-6bcd-4288-8fb3-043d25142300",
+  "name": "Michael Krusee Campaign",
+  "resolved_employer": "Political campaign committee of former Texas State Rep. Mike Krusee (R-District 52, Round Rock/Williamson Co.); Krusee chaired the House Transportation Committee, championed Capital Metro rail/toll roads (SH 130, 183A) and New Urbanism, and later worked as a transportation lobbyist",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This donor is a campaign committee, not an individual — the residual campaign fund of Mike Krusee, eight-term Republican Texas House member for District 52 (north Austin/Round Rock), Transportation Committee chair and later a lobbyist. The $250 went to Jeff Travillion (D). Zip 78729 is consistent with the Williamson/NW Austin base.",
+  "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=196",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6682a0d1-624d-415a-ae59-7bbddc52532b",
+  "name": "Burton, Wesley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78751 (Hyde Park) but no occupation or employer on record; could not locate a specific 'Wesley Burton' in that zip via web sources to confirm identity or industry for the $250 gift to Brigid Shea.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-58dc7f7d-824a-40f7-b06b-fb6a2ebeadd0",
+  "name": "Conner, Tanyia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Tanyia Conner (age ~67) is listed in Kyle, TX 78640 in a background-check directory, consistent with the record, but no occupation or employer could be found. Gift ($250) went to George Morales III (later Travis Co. Commissioner Pct 4). Identity plausible but industry unverifiable.",
+  "source_url": "https://www.fastbackgroundcheck.com/people/tanyia-conner/id/f8793209312434747254",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3651fb73-2b6f-4070-a1a2-233c0bc5edde",
+  "name": "Seals, Bradley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on record; 'Bradley Seals' could not be tied to a specific individual with any corroborating detail for the $250 gift to Ann Howard.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2279a014-fab1-4ad8-b340-c4958596575c",
+  "name": "Lewis, Willie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Round Rock 78665 but no occupation or employer on record; 'Willie Lewis' is a common name and no source could confirm the specific individual or an industry for the $250 gift to Jeff Travillion.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-16183173-f879-4e88-94d9-d50438749fe9",
+  "name": "Golding, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer on record (and zero FEC history); could not identify a specific 'Robert Golding' behind the $250 gift to Jeff Travillion.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "feaabb43-ce3e-4f1b-9b96-86af5b3ebbdb",
+  "name": "Maclauchlan, Kristin",
+  "resolved_employer": "Veterinarian, Ethos Veterinary Health (Ethos NVA), Exeter NH area",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Record lists occupation 'Veterinarian' and employer 'Ethos NVA' (Ethos Veterinary Health, a real national veterinary hospital network) at an Exeter, NH 03833 address. Ethos operates hospitals in the NH seacoast; the individual was not independently confirmable by name, so identity rests on the self-reported filing detail. Out-of-state donor to Mike Siegel.",
+  "source_url": "https://www.ethosvet.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa442d3b-3bbc-4014-9dd5-976711e270e8",
+  "name": "Piperi Board, Michelle",
+  "resolved_employer": "Executive Vice President, Texas National Title (Austin title insurance/escrow company); previously EVP Sales at Gracy Title; serves on the Texas Real Estate Commission Broker-Lawyer Committee",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Michelle Piperi is EVP at Texas National Title in Austin, a residential/commercial title insurance and escrow firm; her bio and TREC Broker-Lawyer Committee membership confirm the title/real-estate role. Zip 78746 (Westlake) matches an Austin real-estate executive. $250 to Kirk Watson.",
+  "source_url": "https://www.texasnationaltitle.com/about/tnt-executives-and-management-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f618a0b2-1a24-491a-b724-9d3d1f788700",
+  "name": "Ruiz Garcia, Lilliana",
+  "resolved_employer": "Owner, LRG Interiors (Austin interior-design consulting / remodeling business)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Lilliana Ruiz Garcia is the Austin-based owner of LRG Interiors, a solo interior-design and remodeling consulting business she founded; UT Rio Grande Valley educated. Matches record (occupation 'Designer', employer 'LRG Interiors', Austin 78735). $250 to Kirk Watson.",
+  "source_url": "https://www.lrginteriors.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f4a7a337-b515-4419-a9e1-2fded2fb41e8",
+  "name": "Warren, John",
+  "resolved_employer": "President & CEO, Association of Certified Fraud Examiners (ACFE), an Austin-based professional anti-fraud association; J.D., former VP/general counsel and Chief Strategy Officer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "John Warren, J.D., CFE is President & CEO of the ACFE, the Austin-headquartered global professional association for certified fraud examiners; matches record (CEO, ACFE, Austin 78704). $250 to Kirk Watson.",
+  "source_url": "https://www.acfe.com/about-the-acfe/staff/bio-john-warren",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f312cf3c-c670-459b-8f67-f74a6dc1ff02",
+  "name": "Billhardt, Bjorn",
+  "resolved_employer": "Founder & CEO, Abilitie (Austin leadership-development / experiential-learning company running business simulations and a '12-Week MBA'); Harvard MBA, UT Austin BA; prior co-founder/CEO of Enspire Learning",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Bjorn Billhardt is founder/CEO of Abilitie, an Austin-based leadership-development and corporate-training company (mini-MBA / business simulations) serving 950+ organizations; a UT Austin donor who gave $1M in company shares to UT. Matches record (Executive, Abilitie, Austin 78731). $250 to Kirk Watson.",
+  "source_url": "https://www.abilitie.com/our-story",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,132 @@
+[
+ {
+  "donor_id": "a19eb996-b14a-4b12-8f81-7d145b135597",
+  "name": "Schlotter, William",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists occupation/employer as 'requested' (campaign never obtained them). At least three distinct William Schlotters surface in/near Austin — a Capitol Anesthesiology Association CEO (spelled 'Wiliam'), a Stronghold Ltd life-support manager, and a 'William Max Schlotter' in public-records aggregators — and nothing in the record ties any of them to zip 78750. Not disambiguated; no industry assigned.",
+  "source_url": "https://www.linkedin.com/pub/dir/+/Schlotter/us-64-Austin,-Texas-Area",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ed82de8-e5c0-4007-bfda-83d77ed992fb",
+  "name": "Scott, Jeff",
+  "resolved_employer": "Scott Sustainable Solutions (owner/consultant)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-reported employer Scott Sustainable Solutions is a real Austin firm founded 1997, run by Jeffrey Scott as its sole employee; LinkedIn classifies it under Real Estate and describes owner's-rep style work — project planning, risk evaluation, and 'decision frameworks' for lifecycle-conscious construction. Employer corroborated; the specific individual is not independently confirmed at zip 78737 beyond his own filing statement, and the Real Estate label rests on LinkedIn's industry field (Consulting is an arguable alternative).",
+  "source_url": "https://www.linkedin.com/company/scott-sustainable-solutions",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e6eda92-976d-484a-a90b-70de739944b1",
+  "name": "Borth, Margaret",
+  "resolved_employer": "Tate Property (Austin luxury real estate brokerage); now Coldwell Banker Realty",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Margaret Murchison-Borth is an Austin real estate agent (TX license 494474), a fourth-generation Austinite and member of the Austin Board of Realtors, currently at Coldwell Banker Realty; her self-reported 2022 employer Tate Property is a real multi-generational luxury brokerage at 2630 Exposition Blvd. Self-reported occupation 'Real Estate' matches an identified Austin realtor of that uncommon name; home zip 78731 vs. brokerage office 78703 is a normal home/office split.",
+  "source_url": "https://www.coldwellbankerhomes.com/tx/austin/agent/margaret-murchison-borth/aid_275542/",
+  "interest_tags": "luxury-real-estate",
+  "affiliations": []
+ },
+ {
+  "donor_id": "99c6bf64-4d42-4904-9bcf-f8332d4d3d18",
+  "name": "Kruger, David",
+  "resolved_employer": "Kruger's Diamond Jewelers (third-generation owner)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "David Kruger is the third-generation owner of Kruger's Diamond Jewelers at 722 Congress Ave, downtown Austin — a family store his father opened in 1939, where David has worked since roughly 1969 and his daughter Rachel is now the fourth generation. Self-reported 'Owner / Kruger's Jewelers' matches exactly; residential zip 78731 with the store in 78701.",
+  "source_url": "https://www.krugersjewelers.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "98dd73fd-e084-493f-928f-c2b7133e85a0",
+  "name": "Kath, Melissa",
+  "resolved_employer": "Half King Partners LP (real estate investor)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Melissa A. Kath is an Austin real estate investor associated with holding company HALF KING PARTNERS LP, with Austin property records on Stratford Dr; she and husband Howard A. Lipson are listed lead campaign donors to UT's Dell Medical School and supporters of Austin PBS and St. Andrew's School. Filing occupation was 'requested' (unknown to the campaign), and donor zip 78757 does not match her known 78746 Stratford Dr holdings — identification rests on the rarity of the name plus confirmed Austin residency, so medium not high.",
+  "source_url": "https://elementix.ai/investors/tx/melissa-kath",
+  "affiliations": [
+   {
+    "org": "The Blackstone Group / Alignment Artist Capital",
+    "role": "spouse Howard A. Lipson is a former Blackstone senior managing director and private-equity partner, later co-founder of Alignment Artist Capital",
+    "category": "business",
+    "source_url": "https://www.prnewswire.com/news-releases/music-entrepreneur-james-diener-and-veteran-private-equity-investor-howard-lipson-launch-alignment-artist-capital-300061718.html"
+   }
+  ]
+ },
+ {
+  "donor_id": "982151d0-08c2-423c-86fe-08aa097d7185",
+  "name": "Cunningham, Brock",
+  "resolved_employer": "University of Texas at Austin (student)",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "Filer self-reported occupation 'student' with employer 'n/a', which directly supports the Student classification regardless of identity. The likeliest match is Brock Cunningham, the Austin-raised UT Longhorns basketball forward (St. Stephen's, then Westlake HS; son of former UT lineman Ed Cunningham), who was an enrolled UT student at the time of the Feb 2022 gift. Cautioned to medium: his published ties are to Westlake/78746 rather than Lakeway/78734, and a separate adult of the same name in the Lake Travis area cannot be ruled out.",
+  "source_url": "https://texaslonghorns.com/sports/mens-basketball/roster/brock-cunningham/13264",
+  "affiliations": []
+ },
+ {
+  "donor_id": "97738843-c5ec-49d8-9bdd-634441094b64",
+  "name": "Dargenio, Cassandra",
+  "resolved_employer": "Kimber Modern Boutique Hotel (general manager)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Cassandra Bills Dargenio is tied by public-records aggregators to several Austin 78704 addresses and has worked as General Manager at Kimber Modern Boutique Hotel and as a house manager at Driftwood Recovery/Riverside Extended-care. Corroborating detail: one of her listed addresses, 110 The Cir, is the Kimber Modern's own street address (the property has since been rebranded Frame Hotel – Treehouse), and a 2022 Austin campaign finance report lists a Cassandra Dargenio at 206 E Elizabeth St, 78704 — matching the donor zip. Filing occupation was 'N/A'.",
+  "source_url": "https://www.linkedin.com/company/kimber-modern-boutique-hotel",
+  "interest_tags": "hospitality-entertainment",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9764590e-75ce-482d-b3cb-90b6e5739273",
+  "name": "Erwin, Andrew",
+  "resolved_employer": "Legacy MCS",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Self-reported employer Legacy MCS is a confirmed Austin-based full-service general contractor (7800 Shoal Creek Blvd) specializing in multi-family and build-to-rent construction, founded 2015 by the Brewer family with 700+ units delivered since 2019. Erwin is not among its named principals, so he is presumably a staff employee; an 'Andrew Erwin' LinkedIn profile in Austin sits at multifamily developer Trinsic Residential Group, consistent with the same multifamily-construction career but not confirmed as the same person. Occupation 'Construction' is self-reported.",
+  "source_url": "https://legacymcs.com/about/",
+  "interest_tags": "multifamily-housing",
+  "affiliations": []
+ },
+ {
+  "donor_id": "96523450-a036-41ac-a98c-9d7cbf65361f",
+  "name": "Douglass Holly, Jordan",
+  "resolved_employer": "Dagger (Atlanta creative/advertising agency)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Self-reported employer Dagger is a confirmed full-service creative/advertising agency in Atlanta (Ad Age Small Agency of the Year; operates in-house media brand Butter.ATL), and the donor's Smyrna, GA 78080-area address is metro Atlanta, consistent with the employer. The individual's own profile could not be retrieved (LinkedIn blocks automated fetch), so the project-manager role rests on the filing's self-report; employer and geography corroborate, identity does not.",
+  "source_url": "https://dagger.agency/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9472f1a2-b5b1-4edb-87d9-7b44a5e92b6b",
+  "name": "Johnson, Erika",
+  "resolved_employer": "Southern Glazer's Wine & Spirits (wine sales)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Self-reported 'wine sales / Glazers' maps to Southern Glazer's Wine & Spirits of Texas, the largest US beverage-alcohol distributor and successor to Glazer's Distributors, which has substantial Austin operations. Occupation and employer are internally consistent and specific, but Erika Johnson is a common name and no Austin-based individual profile could be confirmed at zip 78731 — the industry rests on the filing's own employer string, not on identification of the person.",
+  "source_url": "https://en.wikipedia.org/wiki/Southern_Glazer's_Wine_and_Spirits",
+  "affiliations": []
+ },
+ {
+  "donor_id": "93d468e9-4d64-4c79-acde-c8d46f8139ab",
+  "name": "Spencer, Jim",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No company called 'Specially' could be located in Austin or in startup directories, so the self-reported employer is unverifiable. Austin has multiple prominent Jim Spencers — the Newsy founder and UT Moody College lecturer, the KXAN chief meteorologist, and a wind-energy executive — and none is linked to 'Specially' or corroborated at zip 78746. Not identified; no industry assigned.",
+  "source_url": "https://moody.utexas.edu/faculty/jim-spencer",
+  "affiliations": []
+ },
+ {
+  "donor_id": "927fd5f3-6d41-418b-8ee4-c0e6e74f4bed",
+  "name": "Dow, Melanie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing occupation/employer are 'requested' (unknown to the campaign). A Melanie Dow in Austin owns 2523 Exposition Blvd with James (Jim) W. Dow, co-founder and managing partner of Cross Oak Group, an Austin strategic-communications and government-affairs firm; the couple are listed Colorado River Alliance Tributary League members. But that household is in 78703 while the donor zip is 78701, and no occupation for Melanie Dow herself is established — her spouse's industry is not hers. Not confidently identified; no industry assigned.",
+  "source_url": "http://www.crossoakgroup.com/team/jim-dow/",
+  "affiliations": []
+ }
+]

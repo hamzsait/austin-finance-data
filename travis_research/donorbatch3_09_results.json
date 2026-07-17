@@ -1,0 +1,137 @@
+[
+ {
+  "donor_id": "57c32e5b-21e7-4fde-acfd-c54d1ac911cf",
+  "name": "Speck, Stacey",
+  "resolved_employer": "Associate and Regional Director of Business Development / regional marketing director, Cushing Terrell (integrated architecture, engineering and design firm founded 1938; Austin office)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Cushing Terrell's own author page and firm announcements identify Stacey Speck as an associate and regional director of business development who advances business development for the firm's Austin office, working with architects, designers, real estate companies and non-profits; she has a graphic design background (logos, signage, websites). This matches the filing's employer ('Cushing Terrell') and occupation ('Business Development') exactly, and the Austin office placement is consistent with donor zip 78701 (downtown Austin). Cushing Terrell describes itself as an integrated architecture, engineering and design firm, so Architecture is the taxonomy fit for a firm-side business development role. Single gift pattern to Kirk Watson; 1 FEC gift at 1.0 partisan lean (Democratic).",
+  "source_url": "https://cushingterrell.com/author/staceyspeck/",
+  "affiliations": [
+   {"org": "Dispute Resolution Center (Austin)", "role": "Board — nominating committee chair", "category": "civic", "source_url": "https://cushingterrell.com/author/staceyspeck/"},
+   {"org": "American Heart Association (Austin)", "role": "Committee member", "category": "civic", "source_url": "https://cushingterrell.com/author/staceyspeck/"},
+   {"org": "Austin Chamber of Commerce", "role": "Committee member", "category": "business", "source_url": "https://cushingterrell.com/author/staceyspeck/"}
+  ]
+ },
+ {
+  "donor_id": "52b0f798-1116-4981-a7d2-4bae85ff4b09",
+  "name": "Capela, Jill",
+  "resolved_employer": "CEO and founder, ONR, Inc. / Orthopaedic & Neurological Rehabilitation (Austin-headquartered rehabilitation therapy company she incorporated in 1988, ~1,000 employees); also listed as Chairman of ONR National Speech Pathology, Inc. (Austin). The filing's second employer string 'JDC Development, LLC' could not be resolved to any verified entity.",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "ONR's own site and The Org both identify Jill Capela as CEO and founder of Orthopaedic & Neurological Rehabilitation, Inc., which she incorporated in 1988 and which is headquartered in Austin — matching the filing's employer string 'ONR, Inc' and occupations ('Executive','Chief Executive Officer') exactly, with donor zip 78701 consistent with an Austin-based CEO. CorporationWiki separately lists a Jill Capela in Austin as Chairman of ONR National, Speech Pathology, Inc., corroborating the same person and corporate family. Healthcare is assigned on the ONR rehabilitation-therapy business; the 'JDC Development, LLC' string returned no verifiable Austin entity tied to her and is NOT used for classification. 119 FEC gifts at 0.282 partisan lean (predominantly Republican federally) alongside a gift to Kirk Watson.",
+  "source_url": "https://theorg.com/org/orthopaedic-neurological-rehabilitation-inc/org-chart/jill-capela",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e7387c4-77fd-43a7-a4ba-f53cb9c707cf",
+  "name": "Stumberg, Eric",
+  "resolved_employer": "Co-founder and CEO, TengoInternet (Austin-headquartered provider of commercial outdoor WiFi for RV parks, campgrounds, marinas and city WiFi; founded 2002; network operations center in San Antonio)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Multiple sources (TengoInternet's own site, Praxis, Crunchbase) identify Eric Stumberg as co-founder and CEO of TengoInternet, which he founded in 2002 to provide commercial-grade outdoor Wi-Fi to outdoor lodging; the company is headquartered in Austin and has installed internet at 3,000+ RV parks, campgrounds, hotels and marinas across 48 states, Canada and Mexico. This matches the filing's employer strings ('TENGOINTERNET INC.','Tengointernet Inc.') and occupations ('CEO','Chief Executive Officer') exactly, and the Austin HQ is consistent with donor zip 78751. He holds an MBA and BBA from UT Austin and previously worked at Dell and H.B. Zachry. Notable: 179 FEC gifts at 0.006 partisan lean — i.e. an almost uniformly Republican federal donor — while giving $900 to Kirk Watson.",
+  "source_url": "https://www.praxis.co/people/eric-stumberg",
+  "affiliations": [
+   {"org": "Austin Institute for the Study of Family and Culture", "role": "Board member", "category": "civic", "source_url": "https://www.praxis.co/people/eric-stumberg"},
+   {"org": "Christ Church Austin", "role": "Serves at the church", "category": "civic", "source_url": "https://www.praxis.co/people/eric-stumberg"}
+  ]
+ },
+ {
+  "donor_id": "3319a07c-2ac8-4375-94d9-0dabac4a741c",
+  "name": "Walker, Elizabeth",
+  "resolved_employer": "Founder, partner and co-owner (client services and new business lead), Paperclip Promotions (Austin branded-merchandise and corporate-gifts firm founded 2007, 4419 Frontier Trl Ste 103, Austin 78745; clients include H-E-B, Whataburger, Forcepoint and Texas Disposal Systems)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "The filing's employer string 'Paperclip pronotions' is a typo for Paperclip Promotions, where Elizabeth 'Beth' Walker is listed on LinkedIn and ZoomInfo as a founder and partner/co-owner serving as the client services and new business lead — matching the filing's occupation ('Owner') exactly. She holds a degree in Business Communications from the University of Kansas. Donor zip 78731 is her residence, distinct from the firm's 78745 business address, so the zip does not independently corroborate; the name+employer+owner-role match is what carries the identification. Taxonomy note: Paperclip is a B2B branded-merchandise and marketing shop (Yelp categorizes it under Marketing), so Consulting / PR is the closest fit — Retail would be a defensible alternative. Single $900 gift to Kirk Watson; 1 FEC gift at 1.0 partisan lean (Democratic).",
+  "source_url": "https://www.linkedin.com/in/beth-walker-328400a/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "25a26fd0-7a95-4d7d-aa5f-a02341d2d17f",
+  "name": "Ander, Jesse",
+  "resolved_employer": "Energy-efficiency consultant and investor; Partner at Adcelerium (Austin early-stage investment firm) and former CEO of Affinity Engineering (energy-efficiency research/strategy consulting firm); previously at Grundfos, Willdan, NSTAR and Southern California Edison. The filing's employer string 'AES' was not resolved to a specific entity.",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "confidence_note": "Identity is well corroborated; the specific employer 'AES' is not.",
+  "evidence": "Jesse Ander is a rare name and the Austin-area LinkedIn profile matches: a partner at Adcelerium, an Austin early-stage investment firm, formerly CEO of Affinity Engineering (a consulting firm specializing in research, strategy and management in the energy-efficiency industry), with BAs from UC Santa Barbara and a JD from Boston College. His Austin residency is corroborated by board service with Austin Sister Cities International and the Austin Florence Alliance, consistent with donor zip 78703, and his self-reported occupation 'Consultant' matches his energy-efficiency consulting career. Confidence held at medium because the employer string 'AES' is ambiguous — it could be the AES Corporation (a global power company) or an abbreviation of one of his own ventures — and was not verified either way; both readings land in Energy / Environment. 75 FEC gifts at 0.182 partisan lean (predominantly Republican federally).",
+  "source_url": "https://www.linkedin.com/in/jesse-ander-016ba8b/",
+  "affiliations": [
+   {"org": "Austin Sister Cities International", "role": "Board member", "category": "civic", "source_url": "https://www.linkedin.com/in/jesse-ander-016ba8b/"},
+   {"org": "Austin Florence Alliance", "role": "Board member", "category": "civic", "source_url": "https://www.linkedin.com/in/jesse-ander-016ba8b/"}
+  ]
+ },
+ {
+  "donor_id": "20b22b6b-f881-4aa3-94cf-9dfc65e4a471",
+  "name": "Thompson, Lance",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer was reported in the filing and none could be established from public sources. Public-records aggregators (Spokeo, ClustrMaps) place a Lance M Thompson at 1401 Hardouin Avenue, Austin 78703 — the same address and zip as donor Dawn D Thompson of Dawn Thompson Interiors, who appears in this same batch and gave an identical $900 on the identical date (2022-12-12) to Kirk Watson — so he is very likely her spouse/household member. That establishes the household, not his career: per the rules no industry is assigned, since a spouse's occupation is not evidence of his own. 136 FEC gifts at 0.316 partisan lean (predominantly Republican federally). Note 'Lance Thompson' is a common name; a different Lance A Thompson appears in Austin zip 78758 and is NOT this donor.",
+  "source_url": "https://www.spokeo.com/Lance-Thompson/Texas/Austin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "202b4b4d-01a9-4bf3-8108-ca4282a05f14",
+  "name": "Thompson, Dawn",
+  "resolved_employer": "Owner, Dawn Thompson Interiors, L.L.C. (Austin residential and commercial interior design firm, 1401 Hardouin Avenue, Austin 78703)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Dawn Thompson Interiors is an Austin residential and commercial interior design firm specializing in new developments and collaborating with architects and lighting designers; its listed address, 1401 Hardouin Avenue, Austin 78703, matches the donor's zip 78703 exactly, and public records place Dawn D Thompson at that same address for 13+ years — so the business is run from her home, tying person, firm and zip together. This matches the filing's employer ('Dawn Thompson Interiors') and occupation ('Interior Design'). She is a native Texan and the twin sister of designer Darby Denison; the two once worked as a design duo and now run separate firms. Her portfolio includes Hill Country work with Lake|Flato Architects. Taxonomy note: Architecture is used as the design-professions bucket (per prior batches' handling of interior designers at design firms); she reports a firm rather than 'self', so Self-Employed was not used. No FEC donation history. Gave the same $900 on the same day as household member Lance Thompson, also in this batch.",
+  "source_url": "https://dawnthompsoninteriors.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1803e096-dfec-4595-8f4f-19c2f370fd9b",
+  "name": "Henry, Stanton",
+  "resolved_employer": "Dr. Stanton J. Henry, DDS, MDS — orthodontist and founder of Ortho 360 (founded 2001 in Bastrop, TX; now with Central Austin, Bastrop, Avery Ranch, Liberty Hill, Moulton and Lakeway offices)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Ortho 360's own practice bio and the Texas Association of Orthodontists directory both identify Dr. Stanton J. Henry as the orthodontist who founded Ortho 360 in 2001 — matching the filing's employer ('Ortho360') and occupation ('Orthodontist') exactly, with donor location West Lake Hills 78746 consistent with an Austin-area practice owner. A Dallas native, he holds a B.S. in Biomedical Science from Texas A&M, a DDS from Baylor College of Dentistry, and a master's plus orthodontic specialty certificate from the University of Connecticut Health Center; he is an Invisalign Elite Preferred Provider and a member of the ADA, AAO and Texas Dental Association. Single $900 gift to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.ortho360.com/about-us/dr-stanton-j-henry/",
+  "affiliations": [
+   {"org": "Central Texas Food Bank", "role": "Volunteer", "category": "civic", "source_url": "https://www.ortho360.com/about-us/dr-stanton-j-henry/"},
+   {"org": "Texas Department of Corrections", "role": "Provides volunteer dental services", "category": "civic", "source_url": "https://www.ortho360.com/about-us/dr-stanton-j-henry/"}
+  ]
+ },
+ {
+  "donor_id": "0e62dbbb-ea71-4908-98b5-76103cd5a373",
+  "name": "Knox, Bruce",
+  "resolved_employer": "Partner/owner, Apex Sports and Entertainment, LLC (Austin; entity itself not verifiable in public registries). Probably the Austin-area Bruce Knox who was Executive VP of Circuit of the Americas (COTA) until early 2014 and, in 2011, President and CEO of Formula One United States; earlier co-founder, CEO and director of Interactive Remarketing, once the largest seller on eBay Motors.",
+  "industry": "Entertainment",
+  "confidence": "medium",
+  "evidence": "The industry rests on the self-reported employer: the filing lists 'Apex Sports and Entertainment, LLC' with occupations 'Partner','Owner', which places him in sports/entertainment regardless of which Bruce Knox he is. Identification of the individual is probable but unconfirmed: a Bruce Knox in the Austin metro area (LinkedIn) was COTA's executive vice president — one of the track's longest-tenured employees, with COTA from 2010 until his departure in early 2014 — and was President and CEO of Formula One United States in 2011, a career profile that fits a partner in a sports-and-entertainment LLC and is consistent with donor zip 78756 (central Austin). Confidence is held at medium because no public registry entry, website or filing for 'Apex Sports and Entertainment, LLC' in Austin could be found (searches surfaced only unrelated same-named firms in Jackson, MS and elsewhere), so the COTA executive could not be linked to the donor's stated employer directly. Gave to Kirk Watson, with gifts running 2022-12-11 through 2024-11-01; 25 FEC gifts at 0.237 partisan lean (predominantly Republican federally).",
+  "source_url": "https://www.performanceracing.com/magazine/industry-news/02-25-2014/executive-vp-bruce-knox-leaves-cota",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f7b85c50-5f1b-4bca-be06-6ca82d0074b9",
+  "name": "Thomas, Christina",
+  "resolved_employer": "Marketing Manager, High Five Events (Austin event production company founded 2003, one of the largest privately owned event production firms in the U.S.; produces the Austin Marathon among other events)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "High Five Events is verified as an Austin-based event production company that grew from a single 2003 triathlon into one of the largest privately owned event production companies in the U.S., producing the Austin Marathon and other events; its Austin base is consistent with donor zip 78757. The industry follows from the donor's own reported employer ('High Five Events') and occupation ('Marketing Manager'). Confidence is medium rather than high because Christina Thomas does not appear on High Five Events' published team roster — the listed Marketing Manager is Tina Teich, and the Director of Marketing and Communications is co-owner Stacy Keese — so she is likely a former or otherwise unlisted staffer, and the possibility that Teich and Thomas are the same person under different surnames is speculation that was NOT confirmed and is not relied on here. Gave $850 to Kirk Watson across 2022-2024; 43 FEC gifts at 1.0 partisan lean (uniformly Democratic).",
+  "source_url": "https://youraustinmarathon.com/meet-high-five-events/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f0500abf-c5c7-44d5-9888-80e68555f319",
+  "name": "Nix, Kristen",
+  "resolved_employer": "Owner and principal designer, Kristen Nix Interiors (Austin luxury residential interior design firm, operating since 2011, with projects in Texas, the Hamptons, the Bahamas and Mexico)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Kristen Nix Interiors is a luxury full-scale residential interior design firm based in Austin, TX, founded in 2011 and led by Kristen Nix — matching the filing's employer ('Kristen Nix Interiors') and occupation ('Interior Designer') exactly, with donor zip 78731 consistent with her Austin base. Profiles in 1stDibs Introspective and PaperCity confirm the person and the Austin firm: she earned a journalism degree from UT Austin and an associate's in interior design from Houston Community College, interned in Vogue's fashion department, and was an art director for the Neiman Marcus catalogue in Houston; her parents owned a commercial interiors and furniture company. Taxonomy note: Architecture is used as the design-professions bucket, consistent with the handling of Dawn Thompson in this same batch. Gave $850 to Kirk Watson across 2022-2024; 38 FEC gifts at 1.0 partisan lean (uniformly Democratic).",
+  "source_url": "https://www.1stdibs.com/introspective-magazine/kristen-nix/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ecd56a33-9570-4430-b404-6f729cede58a",
+  "name": "Collier, Chad",
+  "resolved_employer": "Vice President of Food Safety, Lone Star Beef Processors, L.P. (San Angelo, TX beef processing plant with capacity to slaughter 1,400+ head of cattle daily)",
+  "industry": null,
+  "confidence": "high",
+  "confidence_note": "Confidence is high on the identification; industry is null only because meat processing / agriculture has no label in the taxonomy.",
+  "evidence": "LinkedIn and ZoomInfo both identify Chad Collier as Vice President of Food Safety at Lone Star Beef Processors in San Angelo, where he oversees food safety protocols and regulatory compliance; he holds a biology degree from Angelo State University (San Angelo). This matches the filing's employer ('Lone Star Beef'), occupation ('Manager') and location (San Angelo, TX 76901 — Lone Star Beef's home city) on all three points, so the identification is solid. Industry is left null because the taxonomy has no agriculture/food-processing/manufacturing label and none of the available labels fits a beef packing plant — the same treatment given to cattle-trading CEO James Schwertner in an earlier batch. Worth flagging for review: he is an out-of-town San Angelo donor giving $850 to Austin council member Vanessa Fuentes over 2020-2023, roughly 220 miles from his home and workplace, with no FEC history and no discoverable connection to Austin city politics; the reason for the giving relationship is unexplained.",
+  "source_url": "https://www.linkedin.com/in/chad-collier-a56a1976",
+  "affiliations": []
+ }
+]

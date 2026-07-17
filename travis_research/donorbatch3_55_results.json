@@ -1,0 +1,124 @@
+[
+ {
+  "donor_id": "601d2e1c-2ab5-4186-a17d-56dac0e4aed7",
+  "name": "Barragan, Guadalupe",
+  "resolved_employer": "Casa Chapala Mexican Cuisine & Tequila Bar (owner/management), 9041 Research Blvd, Austin TX 78758",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "'Lupe' (Guadalupe) Barragan is associated with Casa Chapala Mexican Cuisine, an Austin restaurant serving the area since 2006. The restaurant address (9041 Research Blvd, 78758) matches the donor zip 78758 exactly, and the filing's employer string ('Casa Chapala Mexican Cuisine') and occupation ('Management') align. Gave only to Vanessa Fuentes; no FEC federal donation history (local-only donor).",
+  "source_url": "https://www.yelp.com/biz/casa-chapala-mexican-cuisine-and-tequila-bar-austin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f77b7dd-5680-4b04-a244-e1964afeda9c",
+  "name": "Hanks, Kim",
+  "resolved_employer": "Co-Founder/CEO, Whim Hospitality (event rental & catering company, founded 2012) and co-owner of Camp Lucy, a Hill Country wedding/event resort in Dripping Springs TX",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Kim (Kimberly) Hanks co-founded Whim Hospitality with her husband Whit Hanks and co-owns Camp Lucy, a wedding and event venue in Dripping Springs; this matches the filing's employer string ('WHIM Hospitality'), occupation ('Business Owner'), and the Dripping Springs 78620 location exactly. She was named to Inc.'s Female Founders 200 (2023). Gave only to Kirk Watson; 30 FEC gifts at 1.0 partisan lean (uniformly Democratic federally).",
+  "source_url": "https://texaslifestylemag.com/general/texan-couples-together-in-business-kim-and-whit-hanks-of-whim-hospitality/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5ea18358-8f59-4a79-8372-4035d5fb105a",
+  "name": "Gaston, Brian",
+  "resolved_employer": "Commercial real estate broker/developer; President of The Gaston Company (Austin), family-affiliated with Bill Gaston, Inc.",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Brian Gaston is a licensed Austin commercial real estate broker/developer and President of The Gaston Company, specializing in commercial investment and development, which matches the filing's occupation ('Real Estate'); the stated employer 'Bill Gaston, Inc.' is a related family firm (Wm/Bill Gaston) in Austin construction/development. Donor zip 78703 is affluent west Austin; the company office address (78757) differs from the residence zip, so identity rests on the name + occupation + family-firm match, hence medium confidence. Gave only to Kirk Watson; 2 FEC gifts at 1.0 partisan lean (Democratic federally).",
+  "source_url": "https://www.showcase.com/p/brian-gaston/1916876/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e649188-4509-4652-9786-2f24cef5fc2e",
+  "name": "Miller, Kenneth",
+  "resolved_employer": "Chief Financial Officer, LIFT Aircraft, Inc. (Austin-based eVTOL/electric personal aircraft startup, maker of the HEXA ultralight)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Kenneth Miller is CFO of LIFT Aircraft, an Austin-based eVTOL/electric personal aircraft company; LinkedIn and company-profile listings confirm the CFO role in Austin, matching the filing's employer string ('LIFT Aircraft, Inc.') and occupation ('Chief Financial Officer'), consistent with donor zip 78751. Classified Technology (aviation-tech startup). NOTABLE: LIFT Aircraft holds U.S. Air Force AFWERX/Agility Prime SBIR contracts for eVTOL flight testing — a company-level military-defense connection, not a personal political affiliation. Gave only to Kirk Watson; 13 FEC gifts at 1.0 partisan lean (Democratic federally).",
+  "source_url": "https://www.visualvisitor.com/companies/3356843/lift-aircraft",
+  "affiliations": [
+   {"org": "LIFT Aircraft, Inc. / US Air Force AFWERX Agility Prime", "role": "CFO of LIFT Aircraft, which holds USAF SBIR/Agility Prime eVTOL flight-test contracts (company-level defense connection)", "category": "military_defense", "source_url": "https://evtolinsights.com/2022/04/lift-aircraft-awarded-phase-iii-contract-through-agility-prime-to-continue-flight-testing-its-hexa-evtol-ultralight/"}
+  ]
+ },
+ {
+  "donor_id": "5d8057d5-228f-4e21-a2c0-91aa2d61c0a4",
+  "name": "Epple, Matthew",
+  "resolved_employer": "Partner / EVP, Development & Brokerage (Director of Brokerage), Weitzman — Texas commercial/retail real estate brokerage, development and property management firm, Austin office",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Matt Epple is a longtime Weitzman executive (Partner/EVP, Development & Brokerage) in Austin with 20+ years in Central Texas commercial/retail real estate, specializing in retail tenant representation, investment sales and development; the firm's own team page confirms the role, matching the filing's employer string ('Weitzman') and occupation ('Real Estate') and Austin zip 78756. Gave only to Kirk Watson; 2 FEC gifts at 1.0 partisan lean (Democratic federally).",
+  "source_url": "https://www.weitzmangroup.com/team/matt-epple",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cbea35a-0906-4e41-b2a9-10a616eb28a3",
+  "name": "Rajan, Mrs. Dhivyakumar",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Dhivyakumar Rajan appears in Batavia, IL public records consistent with the donor's zip 60510, but occupation and employer were both listed as 'requested' (not disclosed) on the filing and no sourced occupation/employer could be found. Out-of-state donor to Kirk Watson; no FEC donation history. Identity cannot be confirmed to a specific person with corroborating occupation detail, so industry is left null.",
+  "source_url": "https://www.familytreenow.com/records/genealogy/rajan",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5c1d2afe-8360-495e-a10f-1fe0c4cec5cb",
+  "name": "Rohler, Matthew",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Matthew Rohler at an East 6th Street address in Austin 78702 (zip matches exactly) appears in an Austin city campaign-finance report making a local contribution, consistent with this Austin donor to Paige Ellis. However the filing lists occupation and employer as 'N/A' and no sourced employment/industry information exists, so industry cannot be classified. No FEC donation history.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=388204",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b5b6090-3288-4134-9da4-59fed78b713b",
+  "name": "Santis, Pedro",
+  "resolved_employer": "Owner/executive, Pedro S S Services, Inc. (Austin power-line/telecom infrastructure & general construction contractor, 2311 Enfield Rd area)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Pedro S S Services, Inc. is a real Austin company (FMCSA/DOT carrier #2136284; Dun & Bradstreet lists it under power-line and telecommunications infrastructure construction contractors) at an Enfield Rd address, consistent with donor zip 78703 and the filing's occupation ('Executive') and employer string ('Pedro SS Services, Inc.'). Pedro Santis appears in Texas corporate records tied to the family firm, though the specific individual role (owner vs. family member — a Rosa Santis is listed as president) is not fully pinned down, hence medium confidence. The FEC pattern (partisan lean 1.0, count 552) indicates a heavy recurring small-dollar Democratic (ActBlue-style) federal donor. Gave only to Kirk Watson.",
+  "source_url": "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=2136284",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5a07c8cf-7ab1-48e6-84ae-33f6e96c1a77",
+  "name": "Lozano, Matthew",
+  "resolved_employer": "Senior Clinical Trial Associate, Novocure (oncology medical-device company, Tumor Treating Fields); later Clinical Trial Leader roles at Johnson & Johnson MedTech and Click Therapeutics",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Career-history records confirm a Matthew Lozano who held the exact title Senior Clinical Trial Associate at Novocure before moving to J&J MedTech / Click Therapeutics — occupation and employer match the filing precisely. Austin 78745 residence not independently confirmed, but the distinctive employer+title pairing corroborates identity; classified Healthcare (oncology medical devices/clinical research). Gave only to Kirk Watson; 3 FEC gifts at 1.0 partisan lean (Democratic federally).",
+  "source_url": "https://www.zoominfo.com/p/Matthew-Lozano/1463929475",
+  "affiliations": []
+ },
+ {
+  "donor_id": "58fafd9a-b19e-4ece-a1ae-adf85584f9c6",
+  "name": "Emerson, Justin",
+  "resolved_employer": "Clinical Advisor, CVS Caremark (pharmacy benefit manager)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "A public LinkedIn profile confirms a Justin Emerson with the exact title 'Clinical Advisor at CVS Caremark,' matching the filing's occupation ('Clinical Advisor') and employer string ('Caremark'). Austin 78703 residence not independently verified, but the occupation+employer combination matches exactly; classified Healthcare (pharmacy benefit management). Gave only to Kirk Watson; 1 FEC gift at 1.0 partisan lean (Democratic federally).",
+  "source_url": "https://www.linkedin.com/in/justin-emerson-22776421",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5722feb2-039e-4c7b-9993-ef218d690645",
+  "name": "Cole, Solomon",
+  "resolved_employer": "Healthcare private-credit investment professional at AllianceBernstein / AB Private Credit Investors (Austin office); reported to have moved to Managing Director (Healthcare) at The Carlyle Group in 2025",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "A distinctively-named Solomon Cole worked at AB Private Credit Investors (AllianceBernstein's direct-lending platform) in an asset-management/private-credit role; the filing's employer string ('Alliance Bernstein'), occupation ('Asset Management'), and zip 78701 (AB Private Credit's downtown Austin office at 405 Colorado St) all align. Some doubt on residence — he is reported as New York-based and moved to Carlyle in 2025 — so 78701 may be a work rather than home address, hence medium confidence. Classified Finance (private credit / asset management). Gave only to Vanessa Fuentes; no FEC donation history.",
+  "source_url": "https://news.bloomberglaw.com/private-equity/carlyle-taps-alliancebernsteins-solomon-cole-for-private-credit",
+  "affiliations": []
+ },
+ {
+  "donor_id": "564312ee-d8dd-4174-b22d-70762fdd1620",
+  "name": "Smith, James",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Extremely common name with no employer or occupation reported (both listed as 'requested' on the filing) and only a 78703 Austin zip. There is no way to confirm a specific individual, so the donor is unidentifiable and industry is left null. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

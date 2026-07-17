@@ -1,0 +1,301 @@
+[
+ {
+  "donor_id": "aa0872e0-512f-4c02-87c3-b4514ad540c3",
+  "name": "Canonico, Chris",
+  "resolved_employer": "Ardurra Group, LLC — Partner/Principal in the Houston office (3115 Allen Parkway) of the national engineering consulting firm, specializing in design-build public infrastructure and public policy, with a water/wastewater practice; previously Client Officer at Camp Dresser & McKee (now CDM Smith) and before that at MWH; MSE in Environmental Engineering, UT Austin (1994-1996)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Christopher G. Canonico is a partner at Ardurra Group, a national engineering consultancy, and the identification is corroborated on every available field. His federal donor records read 'CANONICO, CHRISTOPHER G. / CHRIS | Bellaire, TX 77401 | Ardurra (Group) | Engineer' — an exact match to this filing's zip (77401), employer string ('Ardurra') and occupation ('Engineer'). Critically, the fec_donation_count of 46 on this record is NOT the usual false-match artifact: a query restricted to 'Christopher Canonico' in Texas returns exactly 46 results, and their employer history walks through MWH (Dallas, 2003) to Camp Dresser & McKee Inc. as 'Client Officer' (Bellaire 77401, 2005-2006) to Ardurra — which reproduces his LinkedIn career history (MWH, then CDM Smith, then Ardurra) precisely. The 0.926 Democratic lean is likewise broadly genuine: his recent giving includes $1,000 to the Harris County Democratic Party (2024), $250 to Colin Allred for Senate (2024) and $500 to Amanda Edwards for Congress (2025), against one Republican outlier of $500 to Olson for Congress (Pete Olson, TX-22) in 2009 — though note the separate Frank Canonico of San Antonio 78232 is a WinRed/Republican donor who pollutes any name-only 'Canonico' query. The pattern worth flagging is the vendor shape rather than the partisanship: a Bellaire/Houston-based partner at a municipal infrastructure engineering firm giving to the Mayor of Austin is not constituent giving. Canonico is Ardurra's public face on the City of Bellaire's Regional Drainage Improvement Program and has spoken for the firm at TACWA (Texas Association of Clean Water Agencies) on wastewater treatment, so his business is public-sector water and drainage contracts.",
+  "source_url": "https://www.linkedin.com/in/chris-canonico-99719b6/",
+  "affiliations": [
+   {
+    "org": "Ardurra Group, LLC",
+    "role": "Partner/Principal, Houston office — design-build public infrastructure and public policy; principal engineer of record presenting on the City of Bellaire Regional Drainage Improvement Program (approved engineering work Dec 2023, council presentation July 2024); firm also maintains a Texas state PAC (Ardurra Group PAC)",
+    "category": "business",
+    "source_url": "https://bellairetx.civicweb.net/document/236023/Presentation%20and%20discussion%20regarding%20stormwate.pdf?handle=701EA0FF3F0B49CB9E34B1DC7E0EF9F0"
+   },
+   {
+    "org": "Harris County Democratic Party / Colin Allred for Senate / Amanda Edwards for Congress",
+    "role": "Individual donor — $1,000 to the Harris County Democratic Party (2024-10-26), $250 to Colin Allred for Senate (2024-09-16), $500 to Amanda Edwards for Congress (2025-04-23); 46 verified federal gifts since 2003, predominantly Democratic with a $500 gift to Republican Pete Olson (TX-22) in 2009",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/receipts/?contributor_name=Christopher+Canonico&contributor_state=TX"
+   },
+   {
+    "org": "Water Environment Association of Texas (WEAT) / Texas Association of Clean Water Agencies (TACWA)",
+    "role": "Member (WEAT, 5 years per his own profile); presented for Ardurra at the September 2021 TACWA meeting in San Antonio on wastewater aeration technology and optimization",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/posts/chris-canonico-99719b6_september-17-2021-tacwa-meeting-san-antonio-activity-6844397639593672704-FVm6"
+   }
+  ]
+ },
+ {
+  "donor_id": "a8e32f8a-0a89-4edf-88e8-969eb981ba50",
+  "name": "Hicks, Champane",
+  "resolved_employer": "DiRx Health — marketing role at the East Brunswick, NJ-based licensed digital pharmacy selling FDA-approved generic medications direct to consumers in all 50 states (working from Austin); now Account Director at Popskull, a full-service marketing and advertising agency. Earlier marketing roles at Wellnicity and Neurogistics Corporation, both Austin-area health/wellness companies.",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Champane Hicks is an Austin marketing professional whose entire career runs through health and wellness companies. The identification rests on an unusually strong name signal: 'Champane Hicks' is rare enough that searches return exactly one person nationally — an Austin, TX marketer currently Account Director at Popskull, with prior roles listed at DiRx Health, Wellnicity and Neurogistics Corporation. That prior employer 'DiRx Health' matches this filing's employer string 'Dirx' directly, the city matches, and a marketing title matches the filed occupation 'Marketing Manager'; DiRx launched around 2021-2022, so a May 2022 gift filed under that employer sits correctly in her timeline. DiRx Health is a New Jersey-headquartered digital pharmacy (corporate office East Brunswick, NJ; pharmacy in Ft. Lauderdale, FL) with no Austin office, so she would have been working remotely — which is why classification follows the employer's business, healthcare, rather than her functional role. Held at medium rather than high because the corroboration is one-directional: no source independently confirms the 78746 (Westlake/west Austin) zip, her specific title at DiRx, or the donation itself, and her public footprint is limited to aggregator profiles rather than a company bio or news coverage. The fec_donation_count of 0 appears accurate rather than a pipeline failure — a nationwide FEC search for 'Champane' returns only fuzzy hits on unrelated surnames (Champaneria, Champaneri), and a search of all Hicks donors at zip 78746 returns only Christine and Eric Hicks, neither of whom is her. No AIPAC, pro-Israel, oil & gas, gun or defense affiliation surfaced.",
+  "source_url": "https://www.linkedin.com/in/champane-hicks-ba0900172/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a8e09e5c-1b19-4c14-b5e7-9c1ae6bbf522",
+  "name": "Jones, Doug",
+  "resolved_employer": "Colliers International, Austin — Executive Vice President and founding principal; commercial real estate broker specializing in office and industrial tenant representation, site selection, investment sales, office landlord representation, land sales, bankruptcy dispositions and private school consulting. Previously a partner at HPI Real Estate. BS in Communication Studies, UT Austin.",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "This is Douglas G. Jones Jr., one of the three brokers who brought Colliers back to Austin. The identification is airtight because the FEC record and the biography interlock: FEC holds a 2011 gift of $250 from 'JONES, DOUGLAS G JR. | AUSTIN | 78731 | HPI | JR. PARTNER' — an exact match to this filing's zip (78731), and HPI Real Estate is precisely the firm Doug Jones left in 2014, alongside Volney Campbell and Marc Vanderslice, to launch the Colliers Austin affiliate office. This filing's employer ('Colliers') and occupation ('Brokerage') capture where that move landed him; his LinkedIn is registered as 'Doug Jones Jr.', matching the FEC suffix. He began brokering in 2006, grew the Colliers office from three people in an executive suite to fifteen by 2019, sold the affiliate to corporate Colliers in January 2020, and has closed 725+ transactions totalling 8.1 million square feet and over $1 billion in value. The fec_partisan_lean of 0.0 and fec_donation_count of 1 are genuine but rest on that single 2011 data point — the $250 went to Michael Williams for Congress, a Republican — so the 'lean' is one gift fifteen years ago, not a pattern. The other Austin 'Doug/Douglas Jones' records in FEC belong to different people (an Intel firmware architect at 78738 giving to Romney in 2012; two students at 78739 giving to Obama and the DNC in 2008) and are not him. Worth noting the cross-party shape: his only federal gift was Republican, while this $400 went to Democrat Kirk Watson — consistent with an Austin commercial broker giving to the mayor on business rather than ideological grounds. No AIPAC, pro-Israel, oil & gas, gun or defense affiliation surfaced.",
+  "source_url": "https://www.globest.com/2014/04/29/trio-launching-austin-colliers-office/",
+  "affiliations": [
+   {
+    "org": "Colliers International (Austin)",
+    "role": "Executive Vice President and founding principal — co-founded the Austin affiliate office in 2014 with Volney Campbell and Marc Vanderslice after all three left HPI Real Estate; grew it from 3 to 15 brokers by 2019 and sold the affiliate to corporate Colliers in January 2020",
+    "category": "business",
+    "source_url": "https://www.globest.com/2014/04/29/trio-launching-austin-colliers-office/"
+   },
+   {
+    "org": "HPI Real Estate, Inc. (Austin)",
+    "role": "Junior Partner (per his 2011 FEC filing) at the boutique Austin brokerage, until departing to launch Colliers Austin in 2014",
+    "category": "business",
+    "source_url": "https://www.fec.gov/data/receipts/?contributor_name=Doug+Jones&contributor_city=AUSTIN&contributor_state=TX"
+   }
+  ]
+ },
+ {
+  "donor_id": "a7c16143-e2dd-4e54-9799-05e7ed9232b4",
+  "name": "Golding, Nan",
+  "resolved_employer": "Westminster Presbyterian Day School (Austin) — office administration staff at the cooperative preschool at 3208 Exposition Blvd in Tarrytown; wife of Rob Golding, the former CEO of Rodeo Austin and former chairman/CEO of real-estate developer Live Oak Gottesman",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "The filing itself carries an unambiguous employer and occupation — 'Westminster Presbyterian School' and 'Office Administration' — which resolves to Westminster Presbyterian Day School, a licensed cooperative preschool in Tarrytown, west Austin, serving roughly 85-90 children ages 15 months through five and operated out of Westminster Presbyterian Church at 3208 Exposition Blvd. Administrative staff at a preschool classifies as Education rather than Nonprofit / Advocacy. The person is corroborated through her household: the donor's 78731 (Northwest Hills) zip matches exactly the zip on the federal record for Rob Golding of Austin 78731, employer 'Rodeo Austin', occupation 'Executive', who gave $250 to Tammy Young for Congress in February 2020 — and Rodeo Austin's own coverage of his hiring states that 'Golding and his wife Nan and two children have called Austin home for more than 35 years,' tying a Nan Golding to that exact 78731 household. Rob Golding spent a decade as chairman and CEO of Austin real-estate developer Live Oak Gottesman before taking over Rodeo Austin in 2016 and retiring from it effective September 2022, so the household's civic and business standing makes a $400 gift to Kirk Watson's mayoral campaign unremarkable. Two caveats keep this short of certainty on the individual, though not on the industry: the current WPDS staff roster lists Melissa McFerrin as Office Administrator and no Nan Golding, which is consistent with her having left in the four years since this 2022-02-23 gift but is not confirmation, and the record's fec_partisan_lean of 1.0 across 23 donations could not be verified — the FEC API was rate-limited throughout and no 'Nan Golding' federal record could be retrieved directly, so that figure should be treated as an unconfirmed fuzzy name+state match. The one traceable federal datapoint in the household, Rob Golding's gift to a Democrat, is at least consistent with a Democratic-leaning household giving to Watson.",
+  "source_url": "https://cbsaustin.com/news/local/rodeo-austin-names-new-ceo",
+  "affiliations": [
+   {
+    "org": "Rodeo Austin / Live Oak Gottesman",
+    "role": "Spousal connection, not her own role: her husband Rob Golding was CEO of Rodeo Austin (2016 to his retirement in September 2022) and previously spent a decade as chairman and CEO of the Austin commercial real-estate developer Live Oak Gottesman, after careers in banking and executive search",
+    "category": "business",
+    "source_url": "https://rodeoaustin.com/news/rodeo-austin-announces-ceo-retirement/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a71d3306-bd9a-4c29-bc01-c0fdf5973eee",
+  "name": "DiQuinzio, Joe",
+  "resolved_employer": "JaDCo Development, Inc. — president and founder of the Joseph A. DiQuinzio Companies (JaDCo Development, Inc. and JaDCo Management, Inc.), an Austin land-development firm at 602 W. 9th St. specializing in municipal utility districts (MUDs), land development, and due-diligence/feasibility studies; developer of the 1,800-acre, 2,000-unit Rough Hollow and the Highlands master-planned community in Lakeway",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Joseph A. DiQuinzio Jr. is the president and founder of JaDCo Development, Inc., a small Austin land-development firm (founded 1994, roughly two employees) at 602 W. 9th St., Austin, TX 78701 — an address that matches this donor's 78701 zip exactly and independently corroborates the record's self-reported employer 'JadCo Development, Inc.' and occupation 'Real estate.' The identification is nailed down by a second, authoritative source at the same address: the Texas Ethics Commission's 2010 lobby list shows registered lobbyist John W. Bartram retained by a paid client listed as 'Joseph DiQuinzio Jr.' of 602 W. 9th St., Austin, TX 78701 (compensation under $10,000, 01/01/2010-12/31/2010), and DiQuinzio also appears alongside Rough Hollow Development Ltd. of 2101 Lakeway Blvd in TEC lobby filings. His career is a notable Austin land-use profile: a Rice University political science graduate named to the President's Honor Roll who spent two years at the LBJ School, he began as an administrative assistant in the City of Austin's Water and Wastewater Department advising the director and serving as liaison to the Water and Wastewater Commission — the body with review authority over service allocation and the creation of Municipal Utility Districts — and then built a private career developing precisely those MUDs, most prominently the 1,800-acre, 2,000-unit Rough Hollow/the Highlands master-planned community in Lakeway. A MUD developer and former City of Austin utility staffer who has hired lobbyists giving to Kirk Watson's mayoral campaign is worth flagging as a land-use/regulatory relationship rather than ordinary constituent giving. Caution on the metadata: the record's fec_partisan_lean of 0.278 across 5 donations could not be verified — the FEC API returned HTTP 429 on every attempt and no DiQuinzio federal record could be retrieved — so that Republican-leaning figure is an unconfirmed fuzzy match and should not be relied on. No oil & gas, gun, defense or pro-Israel affiliation surfaced.",
+  "source_url": "http://assetsinmotionco.com/executive_team-joseph_diquinzio.php",
+  "affiliations": [
+   {
+    "org": "JaDCo Development, Inc. / JaDCo Management, Inc. (Joseph A. DiQuinzio Companies)",
+    "role": "Founder and president of the Austin land-development firm at 602 W. 9th St. (founded 1994); develops municipal utility districts and land and provides due-diligence and feasibility analyses for investors and corporate acquisitions; developed the 1,800-acre, 2,000-unit Rough Hollow and the Highlands master-planned community in Lakeway",
+    "category": "business",
+    "source_url": "https://www.manta.com/c/mm7jb37/jadco-development"
+   },
+   {
+    "org": "Texas Ethics Commission lobby registration — John W. Bartram",
+    "role": "Lobby client, not lobbyist: the 2010 TEC lobby list records registered lobbyist John W. Bartram as retained by paid client 'Joseph DiQuinzio Jr.' of 602 W. 9th St., Austin, TX 78701, compensation under $10,000, 01/01/2010-12/31/2010; DiQuinzio also appears in TEC lobby filings in connection with Rough Hollow Development Ltd.",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2010/lobcon2010a.htm"
+   },
+   {
+    "org": "City of Austin Water and Wastewater Department",
+    "role": "Former administrative assistant providing policy and administrative assistance to the director and serving as liaison to the Water and Wastewater Commission, which holds review authority over the water/wastewater utility including allocation of service and the creation of Municipal Utility Districts",
+    "category": "civic",
+    "source_url": "http://assetsinmotionco.com/executive_team-joseph_diquinzio.php"
+   }
+  ]
+ },
+ {
+  "donor_id": "a6d17cf0-c798-42c0-96e0-af6fbcb0d324",
+  "name": "Subramaniam, Murali",
+  "resolved_employer": "InTEC of San Antonio (Integrated Testing and Engineering Company of San Antonio, LP) — Vice President overseeing the firm's geotechnical engineering and construction materials testing operations; Ph.D., P.E., with 20+ years in the field",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Murali Subramaniam, Ph.D., P.E., is the Vice President of InTEC of San Antonio, where he oversees the firm's geotechnical and construction materials testing operations; he holds an undergraduate degree from the University of Madras, India and a doctorate from Lehigh University in Bethlehem, PA, and has over 20 years of experience in geotechnical engineering and materials testing. He is listed by name as the contact for InTEC on the Central Texas Regional Mobility Authority's vendor database at 12028 Radium, San Antonio, TX 78216, reachable at muralis@intec-sa.com, and appears as 'Murali Subramaniam, Ph.D., PE' on Guadalupe County's public list of engineers and surveyors. The identification is firm: the name is distinctive, and the record's self-reported employer 'InTEC' and occupation 'Engineer' match his firm and profession exactly; the donor's 78261 zip is far-north San Antonio (the Stone Oak/Timberwood Park/Bulverde corridor), a residential area consistent with an executive whose office sits at 78216, so the zip/office difference is expected rather than a discrepancy. InTEC — Integrated Testing and Engineering Company of San Antonio, LP — was established in 1991 by Dr. 'Paul' Palaniappan, Ph.D., P.E., and provides geotechnical investigation, construction materials testing and inspection, and environmental site assessment services, with AASHTO laboratory accreditation. The donation pattern is the notable feature and is worth flagging: InTEC is a public-infrastructure vendor certified as DBE, MBE, WBE, SBE, ABE and HUB, is listed in the CTRMA vendor database, is certified as MBE and WBE through the City of Austin specifically, and maintains an Austin office at 6012 Manor Road, 78723 — so a $400 gift from a San Antonio-based engineering executive to Kirk Watson's Austin mayoral campaign has the shape of a contractor/business-development relationship with the city rather than constituent giving. Caution on the metadata: the record's fec_partisan_lean of 0.903 across 9 donations could not be verified, as the FEC API was rate-limited (HTTP 429) on every attempt and no federal record for him could be retrieved directly, so treat that figure as an unconfirmed fuzzy name+state match. No oil & gas, gun, defense or pro-Israel affiliation surfaced.",
+  "source_url": "https://www.intec-sa.com/about.html",
+  "affiliations": [
+   {
+    "org": "InTEC of San Antonio (Integrated Testing and Engineering Company of San Antonio, LP)",
+    "role": "Vice President overseeing geotechnical engineering and construction materials testing operations at the San Antonio engineering firm (founded 1991); Ph.D. (Lehigh University), P.E., 20+ years' experience; named contact for the firm in the Central Texas Regional Mobility Authority vendor database",
+    "category": "business",
+    "source_url": "https://www.intec-sa.com/about.html"
+   },
+   {
+    "org": "Central Texas Regional Mobility Authority / City of Austin vendor programs",
+    "role": "Listed contact person for InTEC of San Antonio in the CTRMA vendor database; the firm is certified DBE, MBE, WBE, SBE, ABE and HUB, holds MBE and WBE certification through the City of Austin, and operates an Austin office at 6012 Manor Road, 78723 — a public-infrastructure contracting relationship relevant to a gift to Austin's mayor",
+    "category": "business",
+    "source_url": "https://www.mobilityauthority.com/business/opportunities/database/intec-of-san-antonio/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a6b07942-a26a-4853-b177-853674cc8525",
+  "name": "Lindenmuth, Gerald",
+  "resolved_employer": "Owner and President, Lindenmuth and Associates, Inc. (510 Hearn St, Austin 78703) — an oil & gas producer/operator incorporated in Texas in 1984 with 28 wells across Texas, Oklahoma, New Mexico and Michigan; also president of the Lindenmuth Family Foundation and, per his own federal filings, a board member of IBC Bank",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Gerald S. Lindenmuth is the owner/president of Lindenmuth and Associates, Inc., an Austin oil & gas producer at 510 Hearn Street in 78703 — the same 78703 zip as this donor record, and the same employer string and 'President' title the filing carries. Federal records tie the identification down precisely: FEC shows GERALD LINDENMUTH at AUSTIN, TX 787034516 giving $5,000 to the NRSC (2024 and 2022), $5,000 via WinRed (2022), $2,800 to the Senate Georgia Battleground Fund and $1,400 each to Perdue for Senate and Georgians for Kelly Loeffler (2020), self-reporting as 'Self-Employed / Engineer'; campaignmoney's record of his $2,800 gift to Gardner Tillis Victory in 2019 lists the same Austin 78703 address with occupation 'Oil & Gas Producer,' which is what fixes the industry. The oil & gas business is well documented independently: shalexp's operator profile for Lindenmuth & Associates shows 2,018,589 barrels of oil and 26,107,844 MCF of gas produced from January 1982 to June 2025 across 28 now-plugged or non-producing wells in Michigan, New Mexico, Oklahoma and Texas, and mineralholders separately lists Gerald Lindenmuth personally holding 8 mineral interests in Pecos and Upton counties operated by Chevron Midcontinent, Pioneer Natural Resources USA and Sahara Operating. Unlike most records in this dataset, the fec_partisan_lean of 0.0 across 23 donations is a genuine match rather than an artifact — every verified federal gift is Republican — which makes the $400 to Kirk Watson, a Democrat, a real cross-party gift worth noting. Confidence is high because name, zip (78703-4516), employer and title all corroborate exactly. One caveat carried into the affiliations below: the IBC Bank board seat rests on his own FEC-reported employer/occupation ('IBC BANK' / 'BOARD MEMBER,' alongside a $5,000 gift to IBC's corporate PAC) and could not be corroborated against IBC's published Austin board roster; likewise, Lindenmuth Realty ('the real estate arm of a Texas-based family office with two generations and 40 years of ownership behind it' — consistent with the firm's 1984 incorporation) does not name its principals, so that link is probable but unconfirmed.",
+  "source_url": "https://www.shalexp.com/lindenmuth-associates-inc",
+  "affiliations": [
+   {
+    "org": "Lindenmuth and Associates, Inc.",
+    "role": "Owner and President of the Austin-based oil & gas producer/operator (incorporated 1984); 28 wells in TX, OK, NM and MI with 2.0 million barrels of oil and 26.1 Bcf of gas produced since 1982. Self-reported to the FEC as 'Oil & Gas Producer' in 2019 and as 'Self-Employed / Engineer' in 2020-2024",
+    "category": "oil_gas",
+    "source_url": "https://www.shalexp.com/lindenmuth-associates-inc"
+   },
+   {
+    "org": "Personal oil & gas mineral interests — Pecos and Upton Counties, TX",
+    "role": "Holder of 8 mineral interests in his own name, operated by Chevron Midcontinent (Pecos), Pioneer Natural Resources USA (Upton) and Sahara Operating (Pecos)",
+    "category": "oil_gas",
+    "source_url": "https://www.mineralholders.com/texas/austin/gerald-lindenmuth/110560"
+   },
+   {
+    "org": "IBC Bank (International Bank of Commerce)",
+    "role": "Board member — self-reported on a 2022 FEC filing (employer 'IBC BANK', occupation 'BOARD MEMBER') accompanying a $5,000 contribution to the IBC Committee, the bank's corporate PAC. Not corroborated against IBC Bank-Austin's published board roster; recorded here on the strength of his own federal filing",
+    "category": "business",
+    "source_url": "https://www.ibc.com/about-us/our-team"
+   },
+   {
+    "org": "Lindenmuth Family Foundation (Austin)",
+    "role": "President (uncompensated) of the private independent foundation, EIN 26-1579734, tax-exempt since April 2010; $5,290,482 in total assets and $376,000 in charitable disbursements as of December 2024. Kathy A. Lindenmuth is vice president",
+    "category": "civic",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/261579734"
+   },
+   {
+    "org": "NRSC / WinRed / Republican federal committees",
+    "role": "Consistent Republican donor — $5,000 to the NRSC in each of 2022 and 2024, $5,000 via WinRed (2022), $2,800 to the Senate Georgia Battleground Fund and $1,400 each to Perdue for Senate and Georgians for Kelly Loeffler (2020), and $2,800 to Gardner Tillis Victory (2019); all 23 matched federal gifts lean Republican",
+    "category": "political",
+    "source_url": "https://www.campaignmoney.com/political/contributions/gerald-lindenmuth.asp"
+   }
+  ]
+ },
+ {
+  "donor_id": "a597e85d-c30a-4363-8bce-157402bb4577",
+  "name": "Benyousef, Malek Ben-Musa",
+  "resolved_employer": "Head coach and sporting director, Round Rock SC (Round Rock Soccer Club) — a community youth soccer club founded 2017 serving U4-U23 with recreational, academy, UPSL and USL League Two semi-pro teams; since then co-founder/co-owner of Austin Sol FC and office manager at FBC | Generosity Experts",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "This is Malek Ben-Musa Benyousef, who coaches professionally under the name Malek Ben-Musa: a coach of 35+ years from youth through collegiate to the pro level (assistant coach with the USL Championship's Austin Bold), holder of a specialized master's in Soccer Coaching from Ohio University (2016-17), and — exactly matching this record's 'Head Coach' occupation and 'Round Rock Soccer Club' employer at the time of the March 2022 gift — the former head coach and sporting director of Round Rock SC's USL League Two side. The zip corroborates precisely: his wife's firm's team page states that 'Malek resides in Lakeway with his wife, Fayruz Benyousef, and their daughter, Yara,' and Lakeway is 78738, the zip on this record. The federal data independently supports the household without contradicting anything: fec_donation_count of 0 is accurate — Malek has no federal record of his own — but a nationwide FEC search for 'Benyousef' returns exactly 5 results, all of them Fayruz Benyousef at Austin 78738-1802, giving to Doggett for Congress ($1,000 in both 2020 and 2022), ActBlue, Eddie for Texas and Sarver for Texas, a Democratic household pattern consistent with a $400 gift to Kirk Watson. He is now co-founder/co-owner of Austin Sol FC and serves as Vice President of Mentorship for 100 Black Men of Austin. Confidence is high on identity — name, occupation, employer and zip all line up. The industry label is a taxonomy judgment rather than a research gap: the list has no sports category, and Round Rock SC is a community youth club (U4-U19 recreational soccer with no tryouts, after-school programs run with local school districts) that also fields semi-pro sides, so Nonprofit / Advocacy fits it better than Entertainment — though note that RRSC's own site and its Givebutter donation page never state a 501(c)(3) status, and the separately registered Round Rock Soccer Association Inc (EIN 74-2035819, a 501(c)(3) amateur-sports org) cannot be confirmed as the same entity, since RRSC dates itself to 2017. One incidental note recorded for transparency but deliberately NOT entered as an affiliation: press coverage lists Shalom Austin, the Jewish federation organization, among the past clients of Fayruz Benyousef Consulting, the fundraising consultancy his wife founded and where he now works as office manager. That is a client relationship of his employer, not a personal membership, board seat or affiliation of his, and treating it as one would misrepresent him.",
+  "source_url": "https://www.fayruzbenyousef.com/team/",
+  "affiliations": [
+   {
+    "org": "100 Black Men of Austin",
+    "role": "Vice President of Mentorship/Mentoring",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/coachmalek/"
+   },
+   {
+    "org": "Austin Sol FC",
+    "role": "Founder / co-founder and co-owner of the Austin professional developmental soccer organization",
+    "category": "business",
+    "source_url": "https://austinsolfc.com/people/"
+   },
+   {
+    "org": "Round Rock SC (Round Rock Soccer Club)",
+    "role": "Former head coach and sporting director of the USL League Two club — the role reported on this contribution",
+    "category": "business",
+    "source_url": "https://www.uslleaguetwo.com/page/show/6185722-round-rock-sc"
+   },
+   {
+    "org": "FBC | Generosity Experts (Fayruz Benyousef Consulting LLC)",
+    "role": "Office Manager at the Austin nonprofit-fundraising consultancy founded by his wife, Fayruz Benyousef, CFRE",
+    "category": "business",
+    "source_url": "https://www.fayruzbenyousef.com/team/"
+   },
+   {
+    "org": "Soccer Assist / Austin Soccer Foundation",
+    "role": "Nonprofit board service (reported in his professional biography; not independently verified against either organization's published roster)",
+    "category": "civic",
+    "source_url": "https://unitedsoccercoaches.org/coach-qa-malek-ben-musa/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a41692a4-0d31-426d-bc75-147e26541598",
+  "name": "Hill, Richard Tyler",
+  "resolved_employer": "Designer and founder, Transparent / Transparent Atelier — a Washington, DC-based bespoke luxury lighting and furniture line ('the finest Italian-crafted luxury lighting by a leading American designer'), bench-made in a three-room studio in Italy; previously co-owner of Mitchell Hill, a Charleston, SC interior design firm and art gallery, 2011-2021",
+  "industry": "Architecture",
+  "confidence": "medium",
+  "evidence": "This is almost certainly Tyler Hill, the designer behind Transparent — and critically for this record, he is an Austin, Texas native, which is what explains a Washington, DC donor giving to Kirk Watson. Four details in the filing corroborate independently: he is repeatedly described as 'based in Washington D.C.' (20037 is the West End/Foggy Bottom zip); the occupation 'Designer' matches; the unusual one-word employer 'Transparent' matches his brand exactly — Charleston City Paper reported in April 2021 that his debut line, 'aptly named Transparent,' had debuted to designers before expanding to markets including Washington and Texas, and the collection is now sold through the Liz O'Brien Gallery in New York and at transparentatelier.com; and that same profile identifies him as 'a 39-year-old Austin, Texas native' who came to Charleston in 2010 to study design at the Art Institute of Charleston, putting his birth around 1981-82. His work is bespoke lighting and furniture in black and bronze metals, glass, alabaster and leather, drawing on brutalist architecture; before Transparent he was a partner in Mitchell Hill, the Hasell Street design center and gallery in Charleston. Classified Architecture per the standing convention in this dataset, which places interior and furnishing designers (Dawn Thompson Interiors, Kristen Nix Interiors, Debra Hurt Interior Design) under that label rather than Retail or Self-Employed. Held at medium rather than high for one reason: every published source calls him simply 'Tyler Hill,' and no source confirms 'Richard' as his legal first name, so the first name in this filing is unverified — though using a middle name professionally is unremarkable, and no competing Richard/Tyler Hill designer in DC surfaced. The fec_donation_count of 0 is accurate rather than a matching failure: an FEC search for employer 'Transparent' returns 1,734 records, none of them a Hill in DC, and a search for contributors named Hill in Washington, DC with occupation 'Designer' returns 122 records belonging entirely to Johnny Hill, a graphic designer at Marcom Group in 20003 making $3-$25 ActBlue-style gifts — a different person with a different zip, employer and giving profile. No AIPAC, pro-Israel, oil & gas, gun or defense affiliation surfaced.",
+  "source_url": "https://charlestoncitypaper.com/2021/04/14/hills-fresh-designs-are-transparent-at-home-and-work/",
+  "affiliations": [
+   {
+    "org": "Transparent / Transparent Atelier",
+    "role": "Founder and designer of the Washington, DC-based bespoke luxury lighting and furniture line, launched 2021; fixtures bench-made in Italy, retailed through the Liz O'Brien Gallery in New York from Fall 2022",
+    "category": "business",
+    "source_url": "https://hamptonsrealestateshowcase.com/home-and-design/designers/a-new-source-of-light/"
+   },
+   {
+    "org": "Mitchell Hill (Charleston, SC)",
+    "role": "Co-owner and partner, 2011-2021, of the Hasell Street interior design firm, art gallery and full-service design center; began designing lighting in 2013",
+    "category": "business",
+    "source_url": "https://charlestoncitypaper.com/2021/04/14/hills-fresh-designs-are-transparent-at-home-and-work/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a3fcdc61-ea19-4ccf-812e-30ee9ff75c49",
+  "name": "Smith, Jonathan",
+  "resolved_employer": "Arsenal Advertising LLC (Austin) — co-founder and owner; Creative Director of the full-service branding/advertising agency he started in 2005 with his sister Anne Marie Smith-Scharrer. The firm was acquired by Tucson-based Madden Media on 2025-02-18 and now operates as Madden Media.",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jonathan Smith is the co-founder and creative principal of Arsenal Advertising, the Austin branding agency named as his employer on this filing. Arsenal's own site states that 'since 2005, Anne Marie Scharrer and Jonathan Smith have been building good brands,' and describes the agency as headed by 'brother and sister team, Anne Marie Smith-Scharrer and Jonathan Smith' — a full-service branding shop doing market research, media planning, design, copywriting and photography under the tagline 'Stand for Good, Brand For Good.' Madden Media's February 2025 acquisition announcement quotes him directly as 'Arsenal's Creative Director,' confirming he was still a principal of the firm at the time of this 2022 gift; the filed occupation 'Owner' fits a co-founder. The identification is corroborated from inside this dataset rather than by name alone: donor record 2d8d0ca9 is 'Scharrer, Anne Marie,' occupation CEO, employer 'Arsenal Advertising LLC,' who gave Kirk Watson $400 on 2022-04-06 — one day before this $400 gift on 2022-04-07 — so the two Arsenal co-founders and siblings maxed out to Watson's mayoral campaign on consecutive days. The 78703 zip is consistent with Arsenal's office at 1201 W 6th St, which sits in 78703, though note the possibility that this reflects a business rather than residential address. fec_donation_count of 0 appears genuine, not a pipeline miss: a nationwide FEC search returns Jonathan Smiths in Honolulu, Chicago, Happy Valley, Washington DC and Falls Church but none in Austin, so this donor has no federal giving history. Classified Consulting / PR to match this project's existing treatment of Austin advertising agencies (GSD&M, employer_id f554893d, is labeled Consulting / PR). No oil & gas, gun, defense or pro-Israel affiliation surfaced.",
+  "source_url": "https://maddenmedia.com/madden-media-acquires-texas-based-arsenal-advertising/",
+  "affiliations": [
+   {
+    "org": "Arsenal Advertising LLC (now Madden Media)",
+    "role": "Co-founder (2005) and owner; Creative Director of the Austin full-service branding and advertising agency, run with his sister Anne Marie Smith-Scharrer as CEO until Madden Media acquired the firm in February 2025",
+    "category": "business",
+    "source_url": "https://maddenmedia.com/madden-media-acquires-texas-based-arsenal-advertising/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a23105ef-f647-4777-92e5-add63c8d2dad",
+  "name": "Mansour, Raad",
+  "resolved_employer": "Austin Food Company / ATX Food Co. — founder and CEO of the Austin plant-based food business (vegan meal-delivery service launched May 2017, later a vegan food truck and now a storefront)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Raad Mansour is the founder and CEO of Austin Food Company, which trades as ATX Food Co. The employer string on this filing, 'Austin food company,' reads like a generic descriptor but is in fact the literal company name: the Austin Chronicle's July 2017 write-up reports that 'Austin Food Company is a meal delivery service that launched in May 2017, founded by chef Raad Mansour,' his LinkedIn headline is simply 'Austin Food Company,' and the truck's TripAdvisor listing is titled 'Vegan Food Truck by Austin Food Company' — so the filed employer, the filed occupation 'Ceo' and the name all line up on one person. Geography corroborates independently: at the time of this 2022-03-31 gift the business operated at 517 S. Lamar Blvd, at the Lamar/Barton Springs intersection near Zilker Park, which is in 78704 and matches the donor zip exactly (it has since moved to 801 Tillery St, 78702). Mansour trained in healing cuisines at the Natural Epicurean Academy of Culinary Arts and was a demonstrating chef at Travaasa Spa & Resort before founding the company; he and his brother Raed came to the US as Iraqi refugees during the first Gulf War and built the business around vegan, alkaline, macrobiotic and Ayurvedic cooking with a stated mission to be 'the most sustainable food company in the world.' 'Raad Mansour' is a rare name with no competing Austin candidate and no federal donor footprint, so fec_donation_count of 0 is accurate rather than a matching failure. Classified Hospitality / Events consistent with this project's handling of Austin food and restaurant owners (Donn's BBQ, Easy Tiger, Serranos). Worth noting the recipient fit: the company's current Tillery Street home sits in East Austin's District 1, which Natasha Harper-Madison represents. No oil & gas, gun, defense or pro-Israel affiliation surfaced.",
+  "source_url": "https://www.austinchronicle.com/daily/food/2017-07-31/new-local-service-looks-to-change-the-way-you-eat/",
+  "affiliations": [
+   {
+    "org": "Austin Food Company / ATX Food Co.",
+    "role": "Founder, CEO and chef of the Austin plant-based food business — began as a vegan macrobiotic/Ayurvedic meal-delivery service in May 2017, grew into a vegan food truck at 517 S. Lamar Blvd and now a storefront at 801 Tillery St selling prepared plant-based meals, sea moss, ancient-grain sourdough and gluten-free tortillas",
+    "category": "business",
+    "source_url": "https://atxfoodco.com/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a2270abd-c666-41ea-8942-87f15cd28cca",
+  "name": "Toomey, Stacy",
+  "resolved_employer": "Not employed — reports occupation as 'Mother' in federal filings; philanthropist and Beyond Batten Disease Foundation development-board member. Wife of Mike Toomey, the Austin lobbyist and former chief of staff to Governors Rick Perry and Bill Clements.",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "This is Stacy Toomey of Austin 78731, wife of Texas lobbyist Mike Toomey, and unusually for this dataset every field on the record corroborates independently. Her federal giving history places her at Austin, TX 78731 — an exact match to the donor zip — with employer 'Not Employed' and occupation 'Mother,' matching the filed 'Not-employed' occupation and employer; her 2020 cycle alone shows $5,600 across two maxed gifts, $2,800 to Texans for Senator John Cornyn Inc. and $2,800 to WinRed. Beyond Batten Disease Foundation, the Austin nonprofit fighting juvenile Batten disease, lists 'Stacy and Michael Toomey' on its development board and 'The Honorable and Mrs. Mike Toomey' in its Founders Circle — the honorific confirming the former state representative and tying Stacy to him. Unlike most records in this batch, the fec_partisan_lean of 0.0 across 20 donations appears to be a true match rather than an artifact: the verified Cornyn and WinRed gifts are uniformly Republican and are filed from the matching zip under the matching occupation. Industry is 'Not Employed' rather than an inferred former career, since no prior profession for her could be documented and the retiree rule does not apply to a homemaker. The politically notable feature is the cross-current: a household at the center of Texas Republican power gave $400 to Kirk Watson, a former Democratic state senator, in Austin's nonpartisan 2022 mayoral race — a pattern consistent with lobby-adjacent giving to a likely city executive rather than with her federal partisan record. Recorded below is her husband's oil-and-gas-adjacent lobbying, flagged explicitly as a spousal affiliation and not the donor's own.",
+  "source_url": "https://www.campaignmoney.com/political/contributions/stacy-toomey.asp",
+  "affiliations": [
+   {
+    "org": "Beyond Batten Disease Foundation (Austin)",
+    "role": "Development board member, listed as 'Stacy and Michael Toomey'; the couple also appear in the foundation's Founders Circle as 'The Honorable and Mrs. Mike Toomey.' The foundation raises funds to accelerate research toward a cure for juvenile Batten disease",
+    "category": "civic",
+    "source_url": "https://beyondbatten.org/about/development-board/"
+   },
+   {
+    "org": "The Texas Lobby Group — via spouse Mike Toomey (NOT the donor herself)",
+    "role": "SPOUSAL AFFILIATION, recorded for context only: her husband Mike Toomey founded The Texas Lobby Group in 2002 and is one of Texas's most influential lobbyists — former Texas House member and chief of staff to Governors Bill Clements and Rick Perry (2002-2004), with lobbying contracts worth an estimated $9M-$17.5M during the Perry years. Stacy Toomey herself is not a registered lobbyist and no source ties her to the firm",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Mike_Toomey"
+   },
+   {
+    "org": "U.S. Oil Recovery / Waste Control Specialists (WCS) — clients of spouse Mike Toomey (NOT the donor herself)",
+    "role": "SPOUSAL AFFILIATION, recorded per the standing instruction to log oil & gas ties encountered incidentally: Mike Toomey's reported lobbying client list includes U.S. Oil Recovery (oil-waste recovery) and Waste Control Specialists, the Harold Simmons company that built a radioactive-waste disposal facility in far West Texas, alongside Texans for Lawsuit Reform, Big City Capital, AT&T and Texas Instruments. This is the husband's client book; there is no evidence Stacy Toomey holds any role, ownership or board seat in the oil and gas industry, and this entry should not be read as an industry tie for the donor",
+    "category": "oil_gas",
+    "source_url": "https://www.texastribune.org/2011/10/14/in-perrys-texas-the-man-behind-the-curtain/"
+   }
+  ]
+ }
+]

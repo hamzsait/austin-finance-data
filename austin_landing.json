@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16",
+ "updated": "2026-07-17",
  "candidates": [
   {
    "slug": "watson",
@@ -10,27 +10,27 @@
    "href": "/austin/watson/",
    "raised": "$3.2M",
    "donors": "6,317",
-   "empPct": "70.3%",
+   "empPct": "77.9%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$520K",
+     "amt": "$559K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$461K",
-     "w": 89
+     "amt": "$447K",
+     "w": 80
     },
     {
      "label": "Legal",
-     "amt": "$371K",
-     "w": 71
+     "amt": "$375K",
+     "w": 67
     },
     {
      "label": "Self-Employed",
-     "amt": "$224K",
-     "w": 43
+     "amt": "$228K",
+     "w": 41
     }
    ],
    "section": "council",
@@ -46,22 +46,22 @@
    "href": "/austin/harpermadison/",
    "raised": "$245K",
    "donors": "850",
-   "empPct": "82.2%",
+   "empPct": "86.8%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$55K",
+     "amt": "$57K",
      "w": 100
     },
     {
      "label": "Government",
-     "amt": "$23K",
+     "amt": "$24K",
      "w": 42
     },
     {
      "label": "Engineering",
      "amt": "$19K",
-     "w": 35
+     "w": 33
     },
     {
      "label": "Nonprofit / Advocacy",
@@ -82,17 +82,12 @@
    "href": "/austin/fuentes/",
    "raised": "$228K",
    "donors": "1,075",
-   "empPct": "82.5%",
+   "empPct": "85.6%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$49K",
+     "amt": "$51K",
      "w": 100
-    },
-    {
-     "label": "Not Employed",
-     "amt": "$19K",
-     "w": 38
     },
     {
      "label": "Government",
@@ -100,9 +95,14 @@
      "w": 38
     },
     {
+     "label": "Not Employed",
+     "amt": "$19K",
+     "w": 37
+    },
+    {
      "label": "Legal",
      "amt": "$17K",
-     "w": 34
+     "w": 33
     }
    ],
    "section": "council",
@@ -116,9 +116,9 @@
    "district": "District 3",
    "race": "2022 Race",
    "href": "/austin/velasquez/",
-   "raised": "$202K",
+   "raised": "$264K",
    "donors": "776",
-   "empPct": "85.9%",
+   "empPct": "67.3%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -131,14 +131,14 @@
      "w": 19
     },
     {
-     "label": "Education",
-     "amt": "$10K",
-     "w": 14
+     "label": "Finance",
+     "amt": "$11K",
+     "w": 15
     },
     {
-     "label": "Finance",
-     "amt": "$10K",
-     "w": 13
+     "label": "Education",
+     "amt": "$11K",
+     "w": 15
     }
    ],
    "section": "council",
@@ -154,27 +154,27 @@
    "href": "/austin/vela/",
    "raised": "$214K",
    "donors": "761",
-   "empPct": "86.5%",
+   "empPct": "87.9%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$61K",
+     "amt": "$62K",
      "w": 100
     },
     {
      "label": "Legal",
      "amt": "$22K",
-     "w": 36
+     "w": 35
     },
     {
      "label": "Nonprofit / Advocacy",
      "amt": "$15K",
-     "w": 25
+     "w": 24
     },
     {
      "label": "Not Employed",
      "amt": "$12K",
-     "w": 20
+     "w": 19
     }
    ],
    "section": "council",
@@ -188,13 +188,13 @@
    "district": "District 5",
    "race": "2022 Race",
    "href": "/austin/alter/",
-   "raised": "$264K",
+   "raised": "$321K",
    "donors": "688",
-   "empPct": "87.4%",
+   "empPct": "73.9%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$80K",
+     "amt": "$81K",
      "w": 100
     },
     {
@@ -205,12 +205,12 @@
     {
      "label": "Consulting / PR",
      "amt": "$18K",
-     "w": 23
+     "w": 22
     },
     {
      "label": "Government",
-     "amt": "$14K",
-     "w": 18
+     "amt": "$15K",
+     "w": 19
     }
    ],
    "section": "council",
@@ -226,27 +226,27 @@
    "href": "/austin/laine/",
    "raised": "$123K",
    "donors": "630",
-   "empPct": "73.4%",
+   "empPct": "74.9%",
    "topGroups": [
     {
      "label": "Technology",
-     "amt": "$29K",
+     "amt": "$30K",
      "w": 100
     },
     {
      "label": "Not Employed",
      "amt": "$19K",
-     "w": 66
+     "w": 64
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$9K",
+     "w": 29
     },
     {
      "label": "Government",
      "amt": "$9K",
      "w": 29
-    },
-    {
-     "label": "Real Estate",
-     "amt": "$8K",
-     "w": 28
     }
    ],
    "section": "council",
@@ -260,29 +260,29 @@
    "district": "District 7",
    "race": "2026 Race",
    "href": "/austin/siegel/",
-   "raised": "$279K",
+   "raised": "$280K",
    "donors": "1,206",
-   "empPct": "77.8%",
+   "empPct": "80.1%",
    "topGroups": [
     {
      "label": "Technology",
-     "amt": "$41K",
+     "amt": "$43K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$37K",
-     "w": 88
+     "amt": "$36K",
+     "w": 83
     },
     {
      "label": "Real Estate",
      "amt": "$32K",
-     "w": 78
+     "w": 74
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$23K",
-     "w": 55
+     "amt": "$24K",
+     "w": 54
     }
    ],
    "section": "council",
@@ -296,9 +296,9 @@
    "district": "District 8",
    "race": "2022 Race",
    "href": "/austin/ellis/",
-   "raised": "$273K",
+   "raised": "$312K",
    "donors": "892",
-   "empPct": "86.2%",
+   "empPct": "76.4%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -312,13 +312,13 @@
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$22K",
-     "w": 27
+     "amt": "$23K",
+     "w": 28
     },
     {
      "label": "Not Employed",
-     "amt": "$17K",
-     "w": 21
+     "amt": "$16K",
+     "w": 20
     }
    ],
    "section": "council",
@@ -332,9 +332,9 @@
    "district": "District 9",
    "race": "2022 Race",
    "href": "/austin/qadri/",
-   "raised": "$417K",
+   "raised": "$444K",
    "donors": "1,932",
-   "empPct": "94.7%",
+   "empPct": "89.1%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -368,9 +368,9 @@
    "district": "District 10",
    "race": "2024 Race",
    "href": "/austin/duchen/",
-   "raised": "$181K",
+   "raised": "$183K",
    "donors": "688",
-   "empPct": "66.8%",
+   "empPct": "69.3%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -442,27 +442,27 @@
    "href": "/austin/travillion/",
    "raised": "$620K",
    "donors": "510",
-   "empPct": "89.4%",
+   "empPct": "92%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$97K",
+     "amt": "$100K",
      "w": 100
     },
     {
      "label": "Legal",
      "amt": "$85K",
-     "w": 87
+     "w": 85
     },
     {
      "label": "Consulting / PR",
-     "amt": "$68K",
-     "w": 70
+     "amt": "$69K",
+     "w": 69
     },
     {
      "label": "Construction",
-     "amt": "$54K",
-     "w": 55
+     "amt": "$59K",
+     "w": 59
     }
    ],
    "section": "county",
@@ -478,27 +478,27 @@
    "href": "/austin/shea/",
    "raised": "$789K",
    "donors": "657",
-   "empPct": "90.3%",
+   "empPct": "91.1%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$132K",
+     "amt": "$136K",
      "w": 100
     },
     {
      "label": "Legal",
      "amt": "$101K",
-     "w": 77
+     "w": 75
     },
     {
      "label": "Nonprofit / Advocacy",
      "amt": "$59K",
-     "w": 45
+     "w": 44
     },
     {
      "label": "Labor",
      "amt": "$57K",
-     "w": 43
+     "w": 42
     }
    ],
    "section": "county",
@@ -514,25 +514,25 @@
    "href": "/austin/howard/",
    "raised": "$399K",
    "donors": "416",
-   "empPct": "84.1%",
+   "empPct": "86.9%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$83K",
+     "amt": "$85K",
      "w": 100
     },
     {
      "label": "Legal",
      "amt": "$72K",
-     "w": 87
+     "w": 85
     },
     {
      "label": "Nonprofit / Advocacy",
      "amt": "$23K",
-     "w": 28
+     "w": 27
     },
     {
-     "label": "Construction",
+     "label": "Technology",
      "amt": "$23K",
      "w": 27
     }
@@ -550,21 +550,21 @@
    "href": "/austin/morales/",
    "raised": "$414K",
    "donors": "653",
-   "empPct": "86.2%",
+   "empPct": "86.7%",
    "topGroups": [
     {
      "label": "Government",
-     "amt": "$74K",
+     "amt": "$75K",
      "w": 100
     },
     {
      "label": "Real Estate",
      "amt": "$65K",
-     "w": 88
+     "w": 87
     },
     {
      "label": "Legal",
-     "amt": "$51K",
+     "amt": "$52K",
      "w": 69
     },
     {
@@ -587,7 +587,7 @@
    "href": "/austin/gomez/",
    "raised": "$158K",
    "donors": "137",
-   "empPct": "86.7%",
+   "empPct": "87.4%",
    "topGroups": [
     {
      "label": "Government",

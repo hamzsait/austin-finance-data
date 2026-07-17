@@ -1,0 +1,142 @@
+[
+ {
+  "donor_id": "63516173-d7a3-4113-9fee-49c8a26b722d",
+  "name": "Collins, Timothy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. Filing lists occupation/employer as 'Requested' (never supplied), so there is no self-reported detail to corroborate. 'Timothy Collins' is a very common name with 95+ public records in Texas alone; a Timothy Collins runs TangleTrade Management (RIA) but no source ties him to Austin 78703, and the 71 federal gifts / 74.5% Dem lean are not distinguishing. No classification asserted.",
+  "source_url": "https://www.locatepeople.org/timothy-collins/texas/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "630d2654-64c6-49b1-8f57-45fed8b0b335",
+  "name": "Near, David",
+  "resolved_employer": "Near Holdings (self-reported)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Industry rests ONLY on the donor's own disclosure (occupation 'Real Estate', employer 'Near Holdings'). Repeated searches found no web, corporate-registry or news footprint for 'Near Holdings' or a David Near in Austin real estate, so nothing independently corroborates the filing or identifies the person.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "62dd22e1-cb30-4be1-98cf-77408b6d49cd",
+  "name": "Wehbe, Isabel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not confidently identified. An Isabel Wehbe in Austin appears on LinkedIn as a UT-Austin BBA Finance graduate who interned at Campus Advantage (student housing) — she would have been an undergraduate at the Oct 2022 gift. Separately, Wehbe Properties (Najib Wehbe, president; a registered City of Austin lobbyist client) is a real-estate developer headquartered at 5808 Balcones Dr, 78731 — matching the donor's zip, though that is a business address and the zip match alone does not establish a family tie. Filing lists occupation/employer as 'requested'. Two plausible readings, neither confirmed, so no industry assigned.",
+  "source_url": "https://www.linkedin.com/in/isabel-wehbe/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "62ae8ea0-03da-40bd-8290-e88071a46c2f",
+  "name": "Maddox, Bennett",
+  "resolved_employer": "Duncan Park Capital LLC — Co-Founder & Principal",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Co-founder and principal of Duncan Park Capital, an Austin commercial real-estate firm serving CRE owners and investors; previously owner of MADCO Commercial Real Estate and at Tower Commercial. Corroborated by the filing's own employer string ('Duncan Park Capital LLC') plus occupation 'Investor', and by Duncan Park's listed CRE inventory in the donor's exact 78751 zip (601 E 53rd St).",
+  "source_url": "https://www.zoominfo.com/p/Bennett-Maddox/1748978626",
+  "affiliations": []
+ },
+ {
+  "donor_id": "629e930e-17d8-40a7-97bc-0bc28d5dcd2e",
+  "name": "Cryer, Caroline",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The City of Austin campaign-finance filing indexes this exact contribution — Caroline Cryer, 5201 Tortuga Trl, Austin TX 78731, $450 on 09/20/2024 — with principal occupation 'Retired' (the batch's 'requested' occupation was evidently later supplied). Retired status is well corroborated by the date/amount/zip triple match, but no source identifies her former career, so per the retiree rule no industry is assigned.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=442268",
+  "affiliations": []
+ },
+ {
+  "donor_id": "60341521-3259-4293-a70e-24f85df24c86",
+  "name": "Sanger, Meredith",
+  "resolved_employer": "Sanger Investments — SVP & COO (filing self-reports TEXO Ventures)",
+  "industry": "Venture Capital",
+  "confidence": "medium",
+  "evidence": "Austin-based; SVP and COO of Sanger Investments (healthcare-focused venture fund: managed care, insurance, telehealth, regenerative medicine) since 2018, and earlier Communications Manager at TEXO Ventures 2009–2011. TEXO Ventures is an Austin early-stage healthcare VC whose managing partner is Philip Sanger, MD — a likely family link explaining the self-reported 'Texo Ventures / COO'. Medium rather than high: public sources place her COO title at Sanger Investments, not TEXO, and list a 2024 Televero Health sales/marketing role, so the filing's employer string does not match the record exactly. Venture capital is the throughline across all three.",
+  "source_url": "https://www.linkedin.com/in/meredithsanger/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f146989-d73c-4de1-abb5-a22724193202",
+  "name": "Kellner, Susan C.",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. Filing self-reports occupation 'Student' with no employer. Searches surfaced no Susan Kellner tied to Austin 78701; the only Texas hits (Larry and Susan Kellner, Texas Tribune donors, Houston) are a different household with no 78701 or student corroboration. The 128 federal gifts at a 66% Dem lean fit a small-dollar recurring donor but identify no one. No classification asserted.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e78a22f-3a81-4ffd-8726-3fd4d5b43756",
+  "name": "Fincher, Kevin",
+  "resolved_employer": "Austin Regional Manufacturers Association (ARMA) — CEO/President",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "CEO of ARMA, the Central Texas manufacturers' trade association (advocacy, workforce development, networking for ~1,400 area manufacturers). A founding ARMA board member and its treasurer, and a public accountant for nearly three decades, he became CEO on Jan 2, 2024 — immediately before this Feb 8, 2024 gift, corroborating the filing's 'Chief Executive Officer / Austin Regional Manufacturers Association'. Classified as Nonprofit / Advocacy (trade association) rather than a manufacturing industry, since he leads the association, not a plant.",
+  "source_url": "https://theorg.com/org/austin-regional-manufacturers-association-arma/org-chart/kevin-fincher",
+  "affiliations": [
+   {
+    "org": "Austin Regional Manufacturers Association (ARMA)",
+    "role": "CEO/President; founding board member and treasurer",
+    "category": "business",
+    "source_url": "https://arma-tx.org/"
+   }
+  ]
+ },
+ {
+  "donor_id": "5e4f5a13-8755-4405-8080-c7b65eba0a2e",
+  "name": "Reichert, Alexander",
+  "resolved_employer": "AgVend — Co-Founder & CEO",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Co-founder and CEO of AgVend, an agtech software startup (digital customer portals and relationship-management tools for agricultural retailers) that he founded in 2017; previously VP of Product at Mavrx and product lead at Euclid. Sources place him living in Austin, TX, corroborating the filing's 'Executive / AgVend'.",
+  "source_url": "https://theorg.com/org/agvend/org-chart/alexander-reichert",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e0f0c1b-1cc8-40a3-8bb3-c89d56868eab",
+  "name": "Teeple, Delaine",
+  "resolved_employer": "Turkish Carpets (retail, self-reported); luxury travel advisor at Brownell Travel",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Delaine Teeple is an Austin resident and UT-Austin graduate, now a luxury travel advisor with Brownell Travel; her bio states she has a finance and event-planning background and 'owned and operated a retail business' — consistent with the filing's self-reported 'Turkish Carpet liaison / Turkish Carpets' at the Oct 2024 gift. The surname is rare in Austin and the bio's retail-ownership line corroborates the carpet trade, but no source names the carpet business directly, and the Brownell role may post-date the gift — hence medium.",
+  "source_url": "https://www.brownelltravel.com/plan-your-trip/advisor/delaine-teeple/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d99768b-f75d-46ff-b378-949be5b569ca",
+  "name": "Thomas, Travis",
+  "resolved_employer": "The Monument Group — Partner (Austin)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Partner at The Monument Group, an Austin strategic-communications/public-affairs firm, which he joined in 2014 after nine years on the U.S. executive management team of Hill+Knowlton Strategies (six with Texas-based Public Strategies, Inc.). Spent over a decade with George W. Bush: Associate Director of the White House Office of Presidential Personnel, Director of the Office of Business Liaison under Commerce Secretary Donald L. Evans, and National Finance Director for Bush-Cheney 2004. His firm bio matches the filing's 'Consultant / The Monument Group', and his ~1% Dem federal lean (0.008 over 42 gifts) independently corroborates the Republican career.",
+  "source_url": "https://themonumentgroup.com/about/travis-thomas/",
+  "affiliations": [
+   {
+    "org": "Bush-Cheney 2004 re-election campaign",
+    "role": "National Finance Director",
+    "category": "political",
+    "source_url": "https://themonumentgroup.com/about/travis-thomas/"
+   },
+   {
+    "org": "George W. Bush White House / U.S. Dept. of Commerce",
+    "role": "Associate Director, Office of Presidential Personnel; Director, Office of Business Liaison",
+    "category": "political",
+    "source_url": "https://themonumentgroup.com/about/travis-thomas/"
+   }
+  ]
+ },
+ {
+  "donor_id": "5d3b409e-4876-4058-be51-064978fad6fd",
+  "name": "Medina Perez, Ramon",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. Filing lists occupation/employer as 'requested', leaving nothing to corroborate. Searches returned only same-named people elsewhere (a Miami-area condominium employee, a San Antonio-area decedent, a Laredo decedent, a school-finance specialist) — none tied to Austin 78754. No federal donation history to cross-check. No classification asserted.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "30d16754-9376-41c3-8a3c-6d55a8409848",
+  "name": "Weng, Hsiao-Mei",
+  "resolved_employer": "Entrepreneur, \"Chinatown\" (likely the long-running Chinatown Chinese restaurant group in Austin/Westlake)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Self-reported entrepreneur with employer 'Chinatown'; Austin's Chinatown is a well-known family Chinese-restaurant group (founded by Ronald Cheng). 78731 residence is consistent with giving to NW-Austin council member Marc Duchen, but I could not confirm this specific individual's ownership role, so identity is not fully corroborated.",
+  "source_url": "https://tribeza.com/restaurants/chinatown-austin-restaurant-legacy/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "03f338df-3cc3-484c-88e5-3f64efd0e08c",
+  "name": "Mushtaq, Imran",
+  "resolved_employer": "Software/game engineer, Electronic Arts (EA)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Self-reported Engineer at 'EA'; EA operates an EA Sports studio in Austin and an Imran Mushtaq appears in MobyGames game-development credits for Electronic Arts titles. Austin 78723 residence and 10 FEC gifts are consistent, though the name is common so the specific match is not certain.",
+  "source_url": "https://www.mobygames.com/person/739476/imran-mushtaq/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-499c8d77-473b-46c1-8e64-72425b308dd6",
+  "name": "Sigman, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer given. A John M. 'Jack' Sigman is a longtime Austin attorney (Sigman & Sigman, family/PI law), but his office is 78756 while this donor is 78750, and the name is common, so I cannot confirm the residential donor is the attorney. Gifts to Brigid Shea and Ann Howard with an 0.81 Democratic FEC lean.",
+  "source_url": "https://lawyers.findlaw.com/texas/austin/2248189_1/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "811134c8-ce81-4e84-980e-7388804441e9",
+  "name": "Garcia, Brandon",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer given; very common name in Manor, TX (78653). High Democratic FEC lean (0.95) with 173 federal gifts indicates an active small-dollar donor, but there is nothing to corroborate a specific individual or industry.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "05423f5f-ad26-4f40-97fa-d5b48f6b8b77",
+  "name": "Garrett, Greg",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer given. Several Austin-area real-estate agents named Greg Garrett operate near 78731 (e.g., Berkshire Hathaway HomeServices Texas Realty is in that ZIP), and the donor's strongly Republican FEC lean (0.002) could fit, but the name is common and nothing corroborates the specific person, so no industry is assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f18cb656-9d3c-4a66-9410-43a361bcf2a7",
+  "name": "Casar for Congress",
+  "resolved_employer": "Federal campaign committee of U.S. Rep. Greg Casar (D-TX-35)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "This is not an individual but the federal principal campaign committee 'Casar for Congress' (Rep. Greg Casar, former Austin City Council member). It made a contribution to local candidate George Morales; FEC lean 1.0 (Democratic).",
+  "source_url": "https://www.fec.gov/data/committee/?q=Casar+for+Congress",
+  "affiliations": [
+   {"org": "Casar for Congress", "role": "candidate campaign committee (Rep. Greg Casar)", "category": "political", "source_url": "https://www.fec.gov/data/committee/?q=Casar+for+Congress"}
+  ]
+ },
+ {
+  "donor_id": "tcv-af40c5f2-9daf-46b5-9163-b9e70ff56416",
+  "name": "Avila, Eduardo",
+  "resolved_employer": "Painter, Dovetail (Austin construction/millwork firm)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Self-reported Painter at 'Dovetail'; a Dovetail (dovetailmade.com) is an Austin construction/millwork company. Painter trade + construction employer points to the construction industry, but the common name and generic employer string prevent a firm individual match.",
+  "source_url": "https://www.dovetailmade.com/team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2a8167f2-d490-4b21-a68f-c94823b9b705",
+  "name": "Castillo, Rufus",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation listed as 'Paper Sorter' with employer 'TISTA' (TISTA is a government IT/tech contractor), which is an inconsistent pairing suggesting a data-entry artifact. Leander 78641; could not corroborate the individual, so no industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "c4d66eab-dc55-4f5b-a174-414c5fb360f2",
+  "name": "Schwartz, Haylie",
+  "resolved_employer": "Stay-at-home parent (not employed outside the home)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Stay at home mom' with employer 'N/A' in East Austin (78702), gift to council member Natasha Harper-Madison. Occupation is taken at face value; no further public corroboration of the specific person.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "ae9a4db7-6608-4919-81f4-6b32da90bd0f",
+  "name": "Williamson, Lesley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation string 'Marmot' and employer 'Manager' appear to be a garbled/data-entry artifact (Marmot is an outdoor-apparel brand, not an occupation). Austin 78723; nothing reliably identifies the individual or a clear industry.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f5a0135-d320-4b7d-8028-64e9b2503064",
+  "name": "Bagwell, Gary",
+  "resolved_employer": "President, Bagwell Company (oil royalty trader), Amarillo, TX",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Gary Bagwell is President of Bagwell Company at 801 S Fillmore St, Amarillo 79101 (matches donor name, city, and ZIP); the firm is an oil royalty trading business he took over from his father. Out-of-area donor giving to Austin council member Harper-Madison; Republican FEC lean (0.0).",
+  "source_url": "https://www.linkedin.com/in/bagwell-gary-17816534/",
+  "affiliations": [
+   {"org": "Bagwell Company (oil royalty trading)", "role": "President / owner", "category": "oil_gas", "source_url": "https://www.dnb.com/business-directory/company-profiles.bagwell_co.48c3fcf766578a3c5ed97ca4d4126d2b.html"}
+  ]
+ },
+ {
+  "donor_id": "tcv-b7c943f6-8b10-4b87-bbb5-ecc0cc8866a1",
+  "name": "Wallace, Ellen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer given; common name in NW Austin (78730). Single gift to Ann Howard with a Democratic FEC lean (1.0), but nothing corroborates a specific individual or industry.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

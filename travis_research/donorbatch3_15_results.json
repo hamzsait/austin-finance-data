@@ -1,0 +1,195 @@
+[
+ {
+  "donor_id": "aa4d44b1-ad45-4cfd-a094-ef73f895a243",
+  "name": "Baker, Scott",
+  "resolved_employer": "Scott Baker Mediation, LLC — founder and full-time mediator; previously a litigator for 20+ years, partner at McGinnis, Lochridge & Kilgore (Austin, 1995-2008), Yates Law Firm (Denver, 2008-2015) and Haynes and Boone (Austin/Denver, 2015-2019)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Scott Baker formed Scott Baker Mediation, LLC in 2019 to work exclusively as a neutral, after 20+ years litigating complex commercial cases for Fortune 500 companies in Texas state and federal courts; he holds a J.D. from UT Law (1995) and a B.S. in Economics from Texas A&M, and is in the National Academy of Distinguished Neutrals. The filing's employer string ('Self: Scott Baker Mediation') and occupation ('Founder / Mediator') match his firm and title exactly, and the firm is Austin-based (P.O. Box 5121, Austin 78763), consistent with the donor's 78703 central-Austin zip. The 2022-05 to 2024-09 giving window to Kirk Watson sits inside his solo-mediation tenure.",
+  "source_url": "https://scottbakermediation.com/bio/",
+  "affiliations": [
+   {
+    "org": "Texas Aggie Bar Association",
+    "role": "Board Member",
+    "category": "business",
+    "source_url": "https://scottbakermediation.com/bio/"
+   },
+   {
+    "org": "Texas Bar Foundation",
+    "role": "Fellow",
+    "category": "business",
+    "source_url": "https://scottbakermediation.com/bio/"
+   }
+  ]
+ },
+ {
+  "donor_id": "8637af55-158a-453f-a8b7-64644c591d28",
+  "name": "Dyer, Carrie",
+  "resolved_employer": "SparkFarm — communications/PR agency where she spent a decade and launched and grew the Austin office, advising nonprofit, startup and corporate clients on investor relations, media, storytelling and crisis response; now co-owner of Maven Collaborative (San Antonio)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Carrie Dyer spent roughly ten years at SparkFarm, a woman-founded Dallas/Austin marketing and PR agency (founded 2009), where she launched and ran its Austin office; she previously led communications strategy at UT-Austin and The Richards Group. The filing's employer string ('SparkFarm') and occupation ('PR') match exactly, her Austin-office role corroborates the donor's 78731 northwest-Austin zip, and the 2020-06 to 2022-10 giving window to Kirk Watson and Vanessa Fuentes falls inside her SparkFarm tenure.",
+  "source_url": "https://www.linkedin.com/in/carrie-dyer-a6ab359/",
+  "affiliations": [
+   {
+    "org": "Maven Collaborative",
+    "role": "Co-owner",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/carrie-dyer-a6ab359/"
+   }
+  ]
+ },
+ {
+  "donor_id": "e13a843e-b393-4ce8-8554-63ffa883125a",
+  "name": "Sotomayor, Tristen",
+  "resolved_employer": "Maravilla Foundation — Executive Vice President & Chief Operating Officer (promoted Feb 2017); the foundation is a Los Angeles-area nonprofit providing no-cost 'energy equity' social services (utility assistance, weatherization, lead paint removal). Also listed as Administrator at Southland Energy Systems, an affiliated southern-California energy-efficiency/weatherization contractor",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Tristen Sotomayor is EVP & COO of the Maravilla Foundation (EIN 95-2493292), an East LA-based energy-equity nonprofit led by CEO Alex Sotomayor, with offices in Commerce, Lancaster and Panorama City, CA. Both filing employer strings resolve to the same organizational family: Southland Energy Systems is a for-profit southern-California energy-efficiency/weatherization firm (created 1994) operating out of Commerce, CA — the same city as Maravilla's main office at 5729 Union Pacific Ave — and performs the same weatherization/lead-abatement work Maravilla funds. The occupation strings ('Administrator', 'COO', 'Chief Operating Officer & Executive Vice President') match his title exactly, and the Cerritos, CA 90703 zip is consistent with an LA-area executive. The name is rare and the title/employer match is exact. Held at medium rather than high because the Maravilla-Southland corporate relationship is inferred from a shared city and identical line of business rather than stated on either organization's site, and because the reason an LA-area nonprofit executive gave $542 to Austin council member Paige Ellis (2017-2025) is unexplained by any found source.",
+  "source_url": "https://theorg.com/org/maravilla-foundation/org-chart/tristen-sotomayor",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1f551562-cae8-4107-ad26-c7434b3ef279",
+  "name": "Simmons, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing lists no occupation and no employer, and the donor has zero FEC records. The listed 78762 zip is a PO-Box-only ZIP in Austin, so it is a mailing address, not a residence — which removes the single strongest disambiguator for a name as common as 'Robert Simmons' (the zip+4, 78762-6576, encodes a PO Box range rather than an individual box). FEC shows no Robert Simmons at 78762; the two Austin Robert/Roberta Simmons donors sit at 78735 and 78753, neither matching. A statewide Texas Ethics Commission search returned no Simmons at 78762, and the Texas State Directory 'Robert Simmons' is a Town of St. Paul (Collin County) council member, not an Austin figure. No Austin Monitor/Statesman/KUT/ABJ coverage and no boards-and-commissions roster hit. The $525 is three gifts to Jeff Travillion ($125 on 2022-08-22, $200 on 2024-08-27, $200 on 2025-08-27) clustering on nearly the same late-August date each cycle, suggesting a recurring fundraiser attendee rather than a public figure. Any identification here would be a guess.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "90229764-c887-4cb3-bd29-90396045ce2d",
+  "name": "Kilgore, Jarod",
+  "resolved_employer": "Quality assurance / quality-control technician at an unidentified Austin-area manufacturer; previously a coffee-shop supervisor and a Hilton Worldwide barista (2017-2019)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The person is confirmed with near-certainty, but his industry is not determinable. FEC carries a contributor 'KILGORE, JAROD' at Austin, TX 78757 — an exact match to the filing's zip — with occupation 'TECHNICIAN' and employer 'MANUFACTURING' (self-reported into swapped fields), and decisively he gave $27 to Mike Siegel for Congress on 2020-10-25, the same recipient as the row under review. His FEC profile is a consistent small-dollar progressive one ($5-$54 gifts to Bernie 2020, Justice Democrats, Julie Oliver, Warren), corroborating the 1.0 partisan lean. However, every employer value he has ever self-reported is a generic category and never a company name — 'Quality Assurance'/'Quality Engineer Technician' here mirrors FEC's 'Manufacturing'/'Technician'. He has no LinkedIn match, no news coverage, no TEC records, and no FEC records after 2021. Industry is left null deliberately: the taxonomy has no Manufacturing bucket, and the correct label depends entirely on the unknown employer — an Austin QA technician could sit at Samsung (Technology), Tesla (Transportation), or a contract manufacturer, so assigning one would be a guess.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=KILGORE%2C+JAROD&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dc616c0f-a46d-4fde-9955-5c7383d63247",
+  "name": "Jobe, Van",
+  "resolved_employer": "City of Austin — Assistant Director, Austin Convention Center Department (2017-2022); later Interim Deputy Director, Economic Development. LinkedIn headline 'Public Servant Executive'",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Van Erick Jobe is a career City of Austin municipal executive: city payroll and title records show him as Assistant Director of the Austin Convention Center Department (~$153K in 2019, ~$94.6K in 2022) and later Interim Deputy Director of Economic Development, and the city publishes a staff contact page for him. FEC carries a contributor 'JOBE, VAN' in Austin at zip+4 787284381 — an exact match to the filing's 78728 — giving to Talarico for Texas via ActBlue, consistent with a $515 gift to Democrat Jeff Travillion. Searches surface exactly one Van Jobe in Austin, so name rarity carries the link. Note his 2023-08-28 gift to a county commissioner was made while he was a sitting City of Austin executive. Held at medium because the FEC-to-county link is zip-confirmed but the employer identification rests on name rarity rather than an address match. CAUTION — the batch's 'fec_donation_count: 76 / fec_partisan_lean: 0.41' is a fuzzy-name-match artifact: 73 of those 76 records belong to VANDA JOBE of Plano, TX 75075, a retired Republican giving via WinRed to Trump National Committee, NRCC, NRSC and Ted Cruz. The real Van Jobe of Austin 78728 has only ~2-3 FEC records, all ActBlue/Democratic; the 'mixed 0.41' lean is contamination and should be severed.",
+  "source_url": "https://www.austintexas.gov/email/van-jobe",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cdd461b8-14f5-483e-9a52-fb8a90ca6851",
+  "name": "Cole, Solomon",
+  "resolved_employer": "AB Private Credit Investors (AllianceBernstein's $18.5B direct-lending platform, headquartered at 405 Colorado St, Austin 78701) — Director, healthcare, for eight years; left in 2023-24 to join The Carlyle Group as a Managing Director in direct lending (healthcare), now New York-based",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Solomon Cole spent eight years at AB Private Credit Investors, AllianceBernstein's direct-lending arm, as a Director in its healthcare group before Carlyle hired him as a managing director for private credit; he holds a Wharton degree and an inactive Virginia CPA. The identification is corroborated three ways against the 78703 central-Austin zip and 2022 giving window: AB Private Credit Investors is headquartered in Austin (405 Colorado St, Suite 1500), his LinkedIn lists Austin, Texas as a prior work location, and he sits on the board of Austin's Long Center for the Performing Arts. The filing's employer string ('AllianceBernstein') and occupations ('Investor', 'Investment Management') match exactly, and his 2022-05 to 2022-10 gifts to Kirk Watson and Natasha Harper-Madison fall inside his Austin-based AB tenure.",
+  "source_url": "https://news.bloomberglaw.com/mergers-and-acquisitions/carlyle-taps-alliancebernsteins-solomon-cole-for-private-credit",
+  "affiliations": [
+   {
+    "org": "Long Center for the Performing Arts (Austin)",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/solomon-cole-29805412/"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-9b42a192-8b88-4a25-bda3-a527fa7b0a50",
+  "name": "Brown, Andrew",
+  "resolved_employer": "Travis County — County Judge (sworn in Nov 17, 2020). Formerly chair of the Travis County Democratic Party, a Texas Democratic Party field organizer, Lloyd Doggett's campaign manager, and principal of Andy Brown & Associates PLLC (lawyer)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is Andy Brown, the sitting Travis County Judge — i.e. an elected official giving to his own Commissioners Court colleagues. The $508 is two gifts: $250 to Ann Howard (2021-10-26) and $257.50 to Jeff Travillion (2021-11-09), both made while he was County Judge. Although these 2021 rows carry no address, other 'Brown, Andrew' rows elsewhere in the Travis dataset do, and every one of them is the County Judge: George Morales's filings list him at Austin 78762 and 78703 with occupation 'County Judge' and employer 'Travis County', and Travillion's 2023/2024 rows ($500 each) also carry 78762. FEC independently confirms 'BROWN, ANDREW' at zip 787626061 (= 78762-6061) with employer TRAVIS COUNTY and occupation COUNTY JUDGE ($1,000 each to Harris for President and Harris Victory Fund, 2024-07-12) — an exact match to the 78762 anchoring rows. CAUTION — the batch's 'fec_donation_count: 406 / lean 0.875' is conflated: FEC 'BROWN, ANDREW / AUSTIN TX' returns only ~71 records spread across clearly different people (Tesla managers at 78759, a Generac SVP at 78737, a Google account manager at 78704, a general contractor at 78747). The judge's own records are a small slice; treat the 406 count and 0.875 lean as unreliable.",
+  "source_url": "https://www.traviscountytx.gov/commissioners-court/county-judge/andy-brown-bio",
+  "affiliations": [
+   {
+    "org": "Travis County",
+    "role": "County Judge (elected official, in office since Nov 2020)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)"
+   },
+   {
+    "org": "Travis County Democratic Party",
+    "role": "Former Chair",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-f413573d-c449-4104-835e-0402a58f5d58",
+  "name": "Hass, Richard",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (LGBS) — Chief Operating Officer since April 2016; the Austin-headquartered delinquent-property-tax collection law firm. Joined the firm in 1990 (area manager in Corpus Christi, then Houston director of operations, then CTO 2000-2016)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "The filing's 'Hass' is a misspelling of Richard C. Haass, COO of Linebarger Goggan Blair & Sampson. FEC lists 'HAASS, RICHARD C.' at San Antonio, TX 78258-4538 with employer 'Linebarger Goggin Blair'/'LGBS' and occupation 'COO' continuously from 2016 to 2026, and statewide Texas Ethics Commission records carry the identical zip+4 with employer 'LGBS'/'Linebarger Goggan Blair & Sampson, LLP' and occupation 'Chief Operating Officer' — an exact match to this row's San Antonio 78258 zip. The fully Republican FEC lean (0.0) is accurate rather than an artifact: his federal giving runs to Rand Paul, Mike Johnson, Dan Crenshaw and WinRed. Context worth noting: Haass is a serial donor to essentially every Travis County commissioner (Andy Brown, Travillion, Shea, Howard, Morales), and Linebarger has held/pursued the county's delinquent-tax collection contract since at least 2005 — a Republican donor writing $250-$500 checks to every Democrat on the body that awards his firm's contract fits a vendor-giving pattern; both Morales checks are timed to his commissioner race. NOTE — this is NOT Richard N. Haass, the Council on Foreign Relations president; the Andy Brown filing (county-judge_andy-brown.csv:1757) miscodes this donor as 'President / Council on Foreign Relations', which is a filer error that would falsely attribute a foreign-policy affiliation.",
+  "source_url": "https://www.lgbs.com/attorney/richard-c-haass/",
+  "affiliations": [
+   {
+    "org": "Linebarger Goggan Blair & Sampson, LLP",
+    "role": "Chief Operating Officer — the firm holds delinquent-tax collection contracts with ~2,400 Texas entities, including business before Travis County",
+    "category": "business",
+    "source_url": "https://www.lgbs.com/attorney/richard-c-haass/"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-e2d535ac-49a7-4f84-b2e7-b845f9b909eb",
+  "name": "Hass, Richard",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (LGBS) — Chief Operating Officer since April 2016; the Austin-headquartered delinquent-property-tax collection law firm",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Almost certainly the same Richard C. Haass as donor tcv-f413573d — COO of Linebarger Goggan Blair & Sampson — with the address unverified. Evidence for one person: both rows are $500 to George Morales, and both use the same unique misspelling 'Hass' found nowhere else in the dataset (every other campaign spells it 'Haass'). Evidence against the address: no Richard Hass or Haass exists in Austin 78723 in either FEC or TEC records under either spelling, while his address of record in both databases is consistently San Antonio 78258-4538; he works out of LGBS's Austin office, which may explain a business address being entered. The 78723 East Austin string is most likely a filer transcription error and should be treated as unverified. Held at medium for that reason: the employer/industry are solid but the row's own corroborating detail (the zip) does not check out.",
+  "source_url": "https://www.lgbs.com/attorney/richard-c-haass/",
+  "affiliations": [
+   {
+    "org": "Linebarger Goggan Blair & Sampson, LLP",
+    "role": "Chief Operating Officer — the firm holds delinquent-tax collection contracts with ~2,400 Texas entities, including business before Travis County",
+    "category": "business",
+    "source_url": "https://www.lgbs.com/attorney/richard-c-haass/"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-dd0fa174-93f8-499b-88d0-26ecc9b95bc0",
+  "name": "Scanlan, John",
+  "resolved_employer": "Scanlan, Buckle & Young, P.C. (602 W 11th St, Austin) — founding named partner and attorney, ~59 years in practice; firm founded June 1978 as Scanlan & Buckle (retired)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "This is John M. Scanlan (John McAllen Scanlan), the founding named partner of Austin law firm Scanlan, Buckle & Young, P.C., now retired. Although the 2021 row carries no address, Ann Howard's own later filings resolve it: she lists 'Scanlan, John' at West Lake Hills, TX 78746-2707 for a $500 gift on 2025-11-10, plus $500 gifts at 78746 on 2022-12-09 and 2023-06-15 — a recurring $500 pattern identical to this 2021-10-30 gift. That zip+4 matches FEC's 'SCANLAN, JOHN M.' at West Lake Hills 78746-2707 exactly. His FEC history (518 records — DSCC, DCCC, League of Conservation Voters, ActBlue, Ossoff, Talarico, Allred) is purely Democratic and confirms the batch's 0.99 lean. His career is documented by FEC records from 1978-1994 listing him in Austin with employer 'ATTORNEY' / 'SCANLAN & BUCKLE' / 'SCANLAN BUCKLE & HICKMAN', and his earliest FEC donation (1978-07-28) sits weeks after the firm's June 1978 founding. Classified Legal per the retiree rule: he self-reports 'Not Employed / Retired' to the FEC today, but his identifiable former career is law.",
+  "source_url": "https://lawyers.findlaw.com/texas/austin/2475603_1/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dd0c4907-54bf-4c2d-8fc3-43197d0021bd",
+  "name": "Bullock, Daniel",
+  "resolved_employer": "DRB Investments (investor) and Trail Ridge Communications (owner) — Austin; a career of 'banking and financial management for over 30 years', latterly a writer/speaker/consultant on civic leadership. Former Director of the Governor's Office of Community Leadership (retired)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "This is Dan R. Bullock of Austin 78763. Although the 2021 row has no address, Ann Howard's later filings list 'Bullock, Daniel' at Austin, TX 78763 for $515 gifts in 2022, 2023 and 2024, and Brigid Shea's 2023 filing carries the same donor at 78763 — the same recurring county-commissioner giving pattern as this 2021-10-17 gift. Statewide TEC records for 'Bullock, Dan / Dan R. / Daniel' at Austin 78763-5627 span 2001-2025 with employers 'DRB Investments' and 'Trail Ridge Communications' (Owner) and occupations investor, Investments, consultant, writer/speaker, giving to Kirk Watson, Donna Howard, Elliott Naishtat, Celia Israel and the Texas League of Conservation Voters — a textbook Austin Democrat. His public profile (The Mosey Project) describes 'banking and financial management for over 30 years' and matches those TEC occupation strings. Network corroboration: TEC shows Dan Bullock (Trail Ridge Communications, Owner) gave $250 to 'Andy Brown for Travis County Democratic Party Chair PAC' in 2008 — the same network as donor tcv-9b42a192. Held at medium: he reports 'Retired' by 2018-19, so Finance reflects his former career per the retiree rule rather than current employment. CAUTION — the batch's 'fec_donation_count: 48 / lean 0.53' is a false match: those 48 FEC records all belong to a Daniel Bullock in San Angelo 76905 with employers CGI and Amentum and occupations 'MILITARY INSTRUCTOR'/'TRAINING MANAGER' — a Goodfellow AFB contractor 200 miles away. That bad link injects a phantom military-defense affiliation and a bogus mixed lean; recommend severing it.",
+  "source_url": "https://www.themoseyproject.com/about",
+  "affiliations": [
+   {
+    "org": "Leadership Austin",
+    "role": "Past President; first 'Outstanding Alumnus'",
+    "category": "civic",
+    "source_url": "https://www.themoseyproject.com/about"
+   },
+   {
+    "org": "Governor's Office of Community Leadership",
+    "role": "Former Director",
+    "category": "political",
+    "source_url": "https://www.themoseyproject.com/about"
+   },
+   {
+    "org": "Texas Lyceum / Umlauf Sculpture Garden / Wild Basin / Zach Theatre",
+    "role": "Past board service",
+    "category": "civic",
+    "source_url": "https://www.themoseyproject.com/about"
+   }
+  ]
+ }
+]

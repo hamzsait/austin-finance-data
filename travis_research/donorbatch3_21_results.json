@@ -1,0 +1,198 @@
+[
+ {
+  "donor_id": "dcf5aded-893d-4da9-a128-63011a178b3a",
+  "name": "Palandino, Christopher",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm. A strong but unproven lead: Christopher 'Chris' Paladino (one letter off the filed surname) is an Austin packaging executive — President/CEO of BioNatur Plastics and former CFO of M&G Packaging — and is the registered agent of NCP Equity LLC / NCP Holdings LLC at 2506 Willow St, Austin TX 78702, an exact match to the donor zip. The surname/zip/packaging-industry convergence is unlikely to be coincidence, but no entity named 'Packaging Management Inc.' can be found in Texas records, and his two documented employers fall in different taxonomy buckets (bioplastics manufacturing vs. wholesale packaging supply), so no industry can be assigned even if the identification holds.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0801802274",
+  "affiliations": []
+ },
+ {
+  "donor_id": "dc3af216-ef9a-4455-94b2-08306fa0f8b7",
+  "name": "Preston-Werner, Theresa",
+  "resolved_employer": "128 Collective (climate philanthropy fund) — co-founder and board chair; also co-principal of Preston-Werner Ventures",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Theresa Preston-Werner holds a PhD in anthropology from Northwestern (BA Scripps, anthropology and gender studies) — matching the filed occupation 'Anthropologist' exactly — and is founder/board chair of 128 Collective, matching the filed employer. She and husband Tom Preston-Werner (GitHub co-founder) signed the Giving Pledge in 2023, committing most of their wealth via Preston-Werner Ventures and 128 Collective Foundation; her pledge letter describes her as a 'Marxist academic'. The out-of-state Ross, CA 94957 (Marin County) address is consistent with the couple's Bay Area base, and a large progressive out-of-state gift to Mike Siegel fits her documented movement-funding pattern.",
+  "source_url": "https://128collective.org/team",
+  "affiliations": [
+   {
+    "org": "128 Collective / 128 Collective Foundation",
+    "role": "Co-founder and board chair — donor collaborative funding climate movement organizations",
+    "category": "civic",
+    "source_url": "https://www.influencewatch.org/non-profit/128-collective-foundation/"
+   },
+   {
+    "org": "The Giving Pledge",
+    "role": "Signatory (2023), with Tom Preston-Werner",
+    "category": "civic",
+    "source_url": "https://www.insidephilanthropy.com/home/2023-12-14-who-took-the-giving-pledge-in-2023"
+   },
+   {
+    "org": "Bixby Center for Population, Health and Sustainability, UC Berkeley",
+    "role": "Affiliate director, Global Family Planning Project (2016–2018)",
+    "category": "civic",
+    "source_url": "https://maverickcollective.org/articles/theresa-preston-werner/"
+   },
+   {
+    "org": "Writopia Lab",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://www.writopialab.org/who-we-are/people/staff/153-board-of-directors/2229-theresa-preston-werner-3"
+   }
+  ]
+ },
+ {
+  "donor_id": "dbfeadda-c61f-4504-9e36-67420e431953",
+  "name": "Wicker, Jason",
+  "resolved_employer": "Rackspace Technology — Chief Technology Officer, Public Sector",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jason Wicker was promoted to CTO for Public Sector at Rackspace Technology in July 2024, three months before the 2024-10-02 gift — matching the filed employer and 'CTO' title exactly. His LinkedIn (jasononthecloud) places him in Austin, consistent with the 78735 zip. He joined Rackspace in 2018 as lead architect, later chief architect for government solutions and director of presales; earlier roles at Sumo Logic, Mirantis, IBM, StoredIQ, VMware and Dell.",
+  "source_url": "https://executivebiz.com/2024/07/rackspace-technology-promotes-jason-wicker-as-public-sector-cto/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "da83b25d-a765-4752-8658-0f55858b99c5",
+  "name": "Trilli, Shannon",
+  "resolved_employer": "Trilli Impact — apparent solo corporate-responsibility/impact consultancy (no independent web presence); now with the City of Austin",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Shannon Trilli (Kempner) is an Austin-based corporate responsibility executive: UT-Austin government BA, NYU MPA, Director then VP of Corporate Responsibility and D&I at Catalent Pharma Solutions, with earlier relief/development work (UMCOR). Zip corroborates — public records place a Shannon Trilli at 3903 Idlewild Rd, Austin 78731, an exact match. 'Trilli Impact' returns no company records and does not appear on her LinkedIn, so it is read as her own consulting shop between the Catalent role and her current City of Austin position; that inference, plus the vague filed occupation 'Communications', is why this is medium rather than high. Note: not related to Trill Impact, the Swedish impact-PE firm.",
+  "source_url": "https://www.linkedin.com/in/shannon-trilli-kempner-9327ab6/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "da1c71ac-9bcb-4ba3-8f1b-eff76cb56fe3",
+  "name": "Clifton, David",
+  "resolved_employer": "alphabroder — Chief Marketing and Customer Experience Officer (wholesale imprintable apparel and promotional products distributor)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "David Clifton has been Chief Marketing and Customer Experience Officer at alphabroder since April 2013 and is based in Austin, TX — matching the filed employer, 'Chief Marketing Officer' title, and 78703 zip. UT-Austin BS in Advertising (1990); prior roles at Rev Worldwide, Dell and Hotlink. Elected board president of the Quality Certification Alliance, the promotional-products industry accreditation body.",
+  "source_url": "https://theorg.com/org/broder-bros-co/org-chart/david-clifton",
+  "affiliations": [
+   {
+    "org": "Quality Certification Alliance (QCA)",
+    "role": "President, Board of Directors — promotional products industry accreditation body",
+    "category": "business",
+    "source_url": "https://pubs.ppai.org/ppb-newslink/qca-elects-david-clifton-as-new-board-president"
+   }
+  ]
+ },
+ {
+  "donor_id": "d9e2cf6d-3bee-40cb-a99c-cd49287fa2d0",
+  "name": "Hightower, Scott",
+  "resolved_employer": "Verified Security — founder and President (Atlanta commercial physical-security integrator: video management, cloud access control, intrusion detection, fire alarm)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Scott Hightower founded Verified Security in March 2007 and is its President, matching the filed employer and 'Business Owner' occupation; previously at Cox Communications, with a Loyola New Orleans communications BA and an Emory MBA. Atlanta location matches the 30328 (Sandy Springs) zip at metro level, though the company's office at 3180 Presidential Dr is zip 30340 and his residence was not independently confirmed — hence medium. The reason for a Georgia gift to an Austin mayoral race is unexplained, and his FEC history (8 gifts, Republican-leaning) does not obviously fit Watson.",
+  "source_url": "https://esxweb.com/speaker-profile-scott-hightower/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9df55e3-070c-4097-b724-a95ab97fd9da",
+  "name": "Badarpura, Noureen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot confirm. This filing withholds occupation and employer ('requested') and no biographical record for Noureen Badarpura exists in TEC, FEC, or business registries. Austin-area Badarpuras are documented in convenience/grocery retail — Shakeel Badarpura is a principal of the Greater Austin Merchants Cooperative Association, and Rizwan Badarpura is a registered City of Austin lobbyist and member of Red Bud Grocery LLC — but both are recorded at Cedar Park addresses, not the donor's 78732, and a family surname is not an occupation. No industry can be assigned.",
+  "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?client=BADARPURA%2C+RIZWAN",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d959b018-14ea-41a0-9774-01a13e6f97ff",
+  "name": "Donley, Lori",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot confirm. An Austin Lori Donley is documented as an organizational-development specialist with 15+ years' experience who does fund/organizational development coaching and served on the board of Literacy Texas, and a Lori Donley appears in the Leadership Austin alumni directory — a nonprofit-sector profile that would fit. But this filing lists occupation and employer as 'requested', nothing ties either profile to the 78731 zip, and a separate Austin business ('Sorted by Lori Donley') may be a different person, so there is no corroborating detail to pin the donor to the nonprofit consultant.",
+  "source_url": "https://leadershipaustin.org/alumni/alumni-directory/results/lori-donley/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8dcf3e2-d2f0-4f0a-b4e5-e1c19dcf68c9",
+  "name": "Shea, William",
+  "resolved_employer": "Abar Payroll Corp. — self-reported; unverifiable, apparently a payroll entity for a bar/nightclub operation",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Not identified. The industry rests solely on the filer's own self-reported occupation ('Night Club Owner') and employer ('Abar Payroll Corp.') — no independent corroboration was found. 'Abar Payroll Corp.' appears in no Texas business registry, TABC record, or search index; no William/Bill Shea appears among Austin nightlife operators, including the Texas Bar & Night Club Alliance board roster; and the 78759 (far north Austin) zip is residential, giving no venue link. Treat the Hospitality classification as the filer's claim, not a verified fact.",
+  "source_url": "https://tbna.org/board-members/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d831cad4-17a6-422a-9719-c76c2207a298",
+  "name": "Junco De La Vega, Lorena",
+  "resolved_employer": "Self-employed — author, art collector and philanthropist; 'Casa Lotus' is her memoir/personal brand",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Lorena Junco Margain of Austin is the author of the USA Today/WSJ bestseller 'On the Way to Casa Lotus' (2021) — matching the filed employer 'Casa Lotus' and 'Owner, Self Employed'. The filed surname 'Junco De La Vega' corroborates the identification: she is a daughter of Alejandro Junco de la Vega, president of Mexican media conglomerate Grupo Reforma, who moved the family to Austin in 2008 amid cartel violence — the same 2008 departure her own bio describes. Studied visual arts at the University of Monterrey, co-founded the Distrito14 gallery and the Margain-Junco Collection with husband Eduardo Margain; Westlake 78746 fits the family's Austin base.",
+  "source_url": "https://lorenajuncomargain.com/",
+  "affiliations": [
+   {
+    "org": "Governor's Commission for Women (Texas)",
+    "role": "Appointed member — appointed by Gov. Greg Abbott",
+    "category": "political",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-junco-margain-to-governors-commission-for-women"
+   },
+   {
+    "org": "Grupo Reforma",
+    "role": "Family — daughter of president/owner Alejandro Junco de la Vega (no operating role of her own identified)",
+    "category": "business",
+    "source_url": "https://en.wikipedia.org/wiki/Alejandro_Junco_de_la_Vega"
+   },
+   {
+    "org": "Margain-Junco Collection / Distrito14",
+    "role": "Co-founder — Mexican contemporary art collection and gallery",
+    "category": "civic",
+    "source_url": "https://lorenajuncomargain.com/"
+   }
+  ]
+ },
+ {
+  "donor_id": "d7f7c893-349a-48bc-9b6f-a0eb02f85ff6",
+  "name": "Martin, Brandon",
+  "resolved_employer": "Avenue Five Institute — founder and CEO (accredited Austin beauty/cosmetology and massage-therapy school)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Brandon Martin is the founder and CEO of Avenue Five Institute, a nationally accredited Austin beauty and massage school (cosmetology, esthetics, massage therapy, make-up) with campuses at 8620 Burnet Rd and 500 E Ben White Blvd — matching the filed employer and 'Business owner' occupation. Corporation records list Brandon S. Martin as a director of Avenue Five Institute, Inc. in Austin, and he is described as a lifelong Austinite, consistent with the 78746 zip.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/brandon-s-martin/37491002.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d72ef708-d9ec-4acc-8fbd-c68eb0dca69e",
+  "name": "Mansour, James",
+  "resolved_employer": "RMB Inc. — Austin investment office (per Dun & Bradstreet, operating since 2008); very likely the vehicle of telecom entrepreneur/investor Jimmy Mansour",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "The Finance classification is solid on the filing's own terms — occupation 'Investor' at RMB Inc., which D&B lists as an Austin investment office. The likely identification is James 'Jimmy' Michael Mansour of Austin: founder of National Telecommunications of Austin (sold to LDDS WorldCom, 1991) and National Telecommunications of Florida, former chairman/CEO of Clearwire Technologies and chairman of Grande Communications, director of Tenura Holdings, CPA and Tulane JD. His profile fits the donation pattern (101 FEC gifts, ~0.00 Democratic lean — i.e., near-uniformly Republican) and the 78731 zip is plausible for him, but no record directly ties Jimmy Mansour to 'RMB Inc.' — his known entities are 3000 Partners, Telephone Management and Convergent Investors — so the person-level ID stays medium.",
+  "source_url": "https://littlesis.org/person/107240-Jimmy_Mansour",
+  "affiliations": [
+   {
+    "org": "Cancer Prevention and Research Institute of Texas (CPRIT)",
+    "role": "Chairman of the Oversight Committee; resigned April 2013 during the peer-review/conflict-of-interest scandal, having been an investor in CPRIT grantee Gradalis (attribution depends on the Jimmy Mansour identification)",
+    "category": "political",
+    "source_url": "https://www.texasmonthly.com/articles/the-widening-scandal-surrounding-texass-cancer-fighting-agency/"
+   },
+   {
+    "org": "Governor's Business Council (Texas)",
+    "role": "Appointed member (2006); also Advisory Board of Economic Development Stakeholders (2007)",
+    "category": "political",
+    "source_url": "https://littlesis.org/person/107240-Jimmy_Mansour"
+   },
+   {
+    "org": "CEO America",
+    "role": "Founding chairman — private school-choice scholarship nonprofit for low-income elementary students",
+    "category": "civic",
+    "source_url": "https://littlesis.org/person/107240-Jimmy_Mansour"
+   },
+   {
+    "org": "The James and Sarah Mansour Foundation",
+    "role": "Namesake/principal — Austin private foundation (education, human services)",
+    "category": "civic",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/311599571"
+   }
+  ]
+ }
+]

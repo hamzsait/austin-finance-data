@@ -1,0 +1,310 @@
+[
+ {
+  "donor_id": "0e0afd02-28c4-423e-b12e-9cff9609c010",
+  "name": "Preston, Hillary",
+  "resolved_employer": "Cambia Health Solutions (regulatory compliance analyst) — self-reported on the campaign-finance filing; not independently corroborated",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "No independent record of this specific Hillary Preston was found (no LinkedIn, news, directory, or FEC record; fec_donation_count 0), so the individual cannot be confirmed. The classification rests on her own filing disclosure rather than an outside match: Cambia Health Solutions is the Portland-based nonprofit parent of Regence BlueCross BlueShield, which operates health plans in Washington State, so a compliance analyst residing in Medina, WA (98039, Seattle-area) is geographically consistent with a real Cambia employee. Rejected all searched same-name candidates (Hillary Frey, Hillary Radbill, various Medina-area profiles) — none matched on name, zip, and occupation together. Medina 98039 is an unusually wealthy suburb for an analyst-level role, though that is not disqualifying (household/spousal residence). Her gift to Austin council member Ryan Alter from Washington State is unexplained; no personal or professional link was found.",
+  "source_url": "https://en.wikipedia.org/wiki/Cambia_Health_Solutions",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b3dd3e8-35b2-4772-9709-7711d3a52922",
+  "name": "Aragona, Joe",
+  "resolved_employer": "Austin Ventures — co-founder and General Partner",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Joseph C. Aragona co-founded Austin Ventures and has been a General Partner since 1982, raising and co-managing 10 AV funds totaling roughly $4 billion; he joined from the Merchant Banking division of Bank of Boston and holds an AB and MBA from Harvard. This matches the filing exactly on employer ('Austin Ventures'), occupation ('Investments'), and city/zip (Austin 78746, West Lake Hills — consistent with a senior Austin VC). FEC records under 'Joseph C. Aragona / Austin Ventures' corroborate the donation pattern and the Republican-leaning score (0.067): $4,800 to Texans for Senator John Cornyn Inc. in April 2009, plus $3,800 to NVCA VenturePAC in Dec 2009 and $4,440 to the same PAC in Nov 2007. His $850 to Kirk Watson is a nonpartisan Austin race and is not inconsistent with that federal lean. A 'Joseph Aragona' Ballotpedia entry exists but appears to be a different person and was not relied on.",
+  "source_url": "https://austinventures.com/about/joe-aragona/",
+  "affiliations": [
+   {
+    "org": "National Venture Capital Association (NVCA)",
+    "role": "Board of Directors 1999-2006; chaired Research Committee; Board Chairman in 2006",
+    "category": "business",
+    "source_url": "https://austinventures.com/about/joe-aragona/"
+   },
+   {
+    "org": "NVCA VenturePAC",
+    "role": "Donor — $4,440 (Nov 2007), $3,800 (Dec 2009)",
+    "category": "business",
+    "source_url": "https://www.city-data.com/elec2/10/elec-AUSTIN-TX-10-part3.html"
+   },
+   {
+    "org": "Livestrong Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://austinventures.com/about/joe-aragona/"
+   },
+   {
+    "org": "Casa Montessori",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://austinventures.com/about/joe-aragona/"
+   },
+   {
+    "org": "Texans for Senator John Cornyn Inc.",
+    "role": "Donor — $4,800 (Apr 2009, one $2,400 tranche reversed)",
+    "category": "political",
+    "source_url": "https://www.city-data.com/elec2/10/elec-AUSTIN-TX-10-part3.html"
+   }
+  ]
+ },
+ {
+  "donor_id": "0979319d-a927-4e0c-9335-1bf94b5c8423",
+  "name": "Hill, Courtney",
+  "resolved_employer": "Good Shepherd Episcopal School (GSES), Austin — development and events / advancement staff",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Employer ('GSES', 'Good Shepherd Episcopal School') and occupation ('Development and Events') are the donor's own sworn disclosures across 2022-06 to 2024-05 filings; a development/advancement officer employed AT a school is an Education employee, so the industry label does not depend on resolving which Courtney Hill she is. Could NOT independently corroborate the individual: she is absent from the current GSES Austin staff roster (current Director of Institutional Advancement is Catherine Granger), consistent with her having left after her last gift in May 2024, but unconfirmed. Zip 78763 is a PO Box zip and gives no geographic discrimination. Rejected three same-named Austin candidates for lack of any GSES link: Courtney Hill the UT Austin Applied Research Laboratories assistant professor of practice, Courtney Hill the executive director of Hill Country Hope Foundation, and Courtney Hill Utt of Courtney Hill Interiors. Note GSES Austin (3201-B Windsor Rd, 78703) is distinct from the Dallas and Kingwood schools of the same name.",
+  "source_url": "https://gsesaustin.org/who-we-are/team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d974004f-555d-4155-ad28-17b93e02b9a8",
+  "name": "McAleer, Keith",
+  "resolved_employer": "Logical Position — digital marketing / PPC agency (sales role)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Public records show Keith William McAleer, age ~53, in Leander, TX 78641 — an exact match to the donation zip, and the only Keith McAleer located in Leander. Employer 'Logical Position' and occupation 'Sales' are self-reported on the single 2024-10-28 filing; Logical Position's Austin office (Great Hills Corporate Center, 9020 N. Capital of Texas Hwy) is a plausible commute from Leander, and the company is a PPC/SEO/marketing-services agency, which maps to Consulting / PR rather than Technology (not a software firm) or Media (not a publisher). Could NOT independently confirm his specific role there — he does not appear in Logical Position's public team page or the LeadIQ employee directory, though both are partial listings. REJECTED the more prominent same-named Keith McAleer, CMO of UC Berkeley's Sutardja Center for Entrepreneurship & Technology: his resume places him in the San Francisco Bay Area with a work history entirely at UC Berkeley and Tree Davis, with no Texas, Leander, Austin, or Logical Position connection.",
+  "source_url": "https://www.logicalposition.com/austin-internet-marketing",
+  "affiliations": []
+ },
+ {
+  "donor_id": "80b1b4b8-4fad-4a11-b20d-eaf9ad477442",
+  "name": "Long, Joe",
+  "resolved_employer": "Joe R. Long Investments (private investments); formerly Chairman & CEO, First State Bank of Austin",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Joe R. Long (b. Jan 13, 1930, San Antonio), Austin attorney-turned-banker and philanthropist, namesake of the Long Center for the Performing Arts ($20M lead gift with wife Teresa Lozano Long). Practiced administrative law 1965-1988 specializing in banking, savings & loan, insurance and securities regulation; co-organized First State Bank and Community National Bank and was Chairman & CEO of First State Bank 1989-1998 until its sale to Norwest (now Wells Fargo), consulting for Wells Fargo through Aug 2000; since then manages private investments. The filing's employer string 'Joe R. Long Investments' matches his own listed entity exactly and occupation 'investments' matches his post-banking role; the prolific federal giving record (222 donations) is consistent with a major Austin philanthropist. Deceased check: no obituary found; he was living and interviewed at his residence for a UT LLILAS-Benson piece published Oct 15, 2023, and the Long Center still lists him as living Chair Emeritus with no in-memoriam designation. The 2019 Sotheby's 'Collection of Joe R. & Teresa L. Long' sale was held while both were alive and is NOT an estate sale. His wife Teresa died Mar 21, 2021. The giving window (2022-04-12 to 2024-06-20) therefore does not post-date his death, though he would be 94 at the last gift and assisted/household giving cannot be fully excluded.",
+  "source_url": "http://www.utlsf.org/joe-long/",
+  "affiliations": [
+   {
+    "org": "Long Center for the Performing Arts",
+    "role": "Chair Emeritus (honorary board); lead donor, $20M naming gift",
+    "category": "civic",
+    "source_url": "https://thelongcenter.org/trustees/"
+   },
+   {
+    "org": "University of Texas Law School Foundation",
+    "role": "Trustee",
+    "category": "civic",
+    "source_url": "http://www.utlsf.org/joe-long/"
+   },
+   {
+    "org": "Austin Symphony Orchestra Society, Inc.",
+    "role": "President",
+    "category": "civic",
+    "source_url": "https://txculturaltrust.org/bio/joe-r-teresa-lozano-long/"
+   },
+   {
+    "org": "The Seton Fund / Caritas of Austin / The Headliners Club / Arts Center Stage",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://txculturaltrust.org/bio/joe-r-teresa-lozano-long/"
+   },
+   {
+    "org": "Teresa Lozano Long Institute of Latin American Studies (LLILAS), UT Austin",
+    "role": "Benefactor, $10M endowment gift",
+    "category": "civic",
+    "source_url": "https://sites.utexas.edu/llilas-benson-magazine/2023/10/15/in-conversation-adela-pineda-franco-and-joe-r-long/"
+   }
+  ]
+ },
+ {
+  "donor_id": "4b155c89-d605-466c-b06b-792040d1c0a9",
+  "name": "Oliver, Guy",
+  "resolved_employer": "President, MTG Management, Inc. (dba 'Major Brand Gasoline') — wholesale gasoline distributor; Member, Gozig Holdings, LLC — petroleum distributor / holding company",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Both employer strings in the filing resolve to real Austin entities Guy Oliver runs, and both sit in the donor's exact zip: MTG Management, Inc. operates under the name 'Major Brand Gasoline' at 3267 Bee Caves Rd, Austin TX 78746 (SIC: Gasoline, Wholesale Trade – Nondurable Goods) with Guy Oliver listed as President, corroborating the filing's 'Senior Managemnt'/'Mtg Management Inc'; it also holds USDOT #2106997 as an intrastate hazmat motor carrier running 7 tank trucks, consistent with fuel hauling. Gozig Holdings, LLC is at 3201 Bee Caves Rd, Austin TX 78746, lists Guy Oliver as Member, and appears in the Texas Food and Fuel Association member directory under 'Petroleum Distributor', corroborating 'Manager'/'GoZig Holdings'. Zip 78746 (West Lake Hills) matches both company addresses. This resolves the 'Mtg Management' ambiguity: it is NOT mortgage management and not the M T G Management Consultants at 111 Congress Ave — the 'Major Brand Gasoline' trade name, gasoline SIC code, and hazmat tanker fleet rule that reading out. Caveat on the label: Oliver also has a substantial real estate side — public-record signature data ties him to ~13 entities (JAYO Interests LLC, JAYO2 LP, 38 12 Street LC, Gozig Holdings LLC), and the City of Austin lobbyist registry lists Gozig Holdings as a 'property owner' client retaining land-use lobbyists from 2017 through 2026. Energy / Environment was chosen because both employers named on the filing itself are fuel/petroleum businesses; Real Estate would be a defensible secondary.",
+  "source_url": "https://members.tffa.com/tffa-member-directory/FindStartsWith?term=G",
+  "affiliations": [
+   {
+    "org": "MTG Management, Inc. (dba Major Brand Gasoline)",
+    "role": "President/owner of a wholesale gasoline distributor and intrastate hazmat fuel carrier — downstream motor-fuel distribution, not upstream exploration/production",
+    "category": "oil_gas",
+    "source_url": "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=2106997"
+   },
+   {
+    "org": "Gozig Holdings, LLC",
+    "role": "Member; company listed as 'Petroleum Distributor' in the Texas Food and Fuel Association directory",
+    "category": "oil_gas",
+    "source_url": "https://members.tffa.com/tffa-member-directory/FindStartsWith?term=G"
+   },
+   {
+    "org": "Texas Food and Fuel Association",
+    "role": "Member company (Gozig Holdings LLC) — fuel/convenience trade association",
+    "category": "business",
+    "source_url": "https://members.tffa.com/tffa-member-directory/FindStartsWith?term=G"
+   },
+   {
+    "org": "City of Austin lobbyist registry",
+    "role": "Gozig Holdings, LLC registered as a lobbying client (property owner), retaining land-use lobbyists 2017-2026",
+    "category": "political",
+    "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?client=Gozig+Holdings%2C+LLC"
+   }
+  ]
+ },
+ {
+  "donor_id": "49f4ef6a-4c6d-434c-a576-029ac990f892",
+  "name": "Becka, Daniel",
+  "resolved_employer": "Integrated Advocacy Solutions, LLC — Principal (grassroots/issue advocacy and political consulting firm, Austin)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Daniel Becka is founder/Principal of Integrated Advocacy Solutions, LLC, an Austin-based consultancy doing association and issue-oriented grassroots advocacy at local/state/federal levels; the firm's listed services are political consulting, management consulting, and nonprofit consulting, matching the filed occupation 'Consultant' and employer 'Integrated Advocacy Solutions'. His firm bio confirms Austin residence, a BA in Government from UT-Austin, and prior roles as VP of Constituent Relations at Texas Exes and Director of Governmental Relations at Texans for Economic Development (where he ran the PAC and coordinated lobbying) — a public-affairs career consistent with a 2022 gift to Kirk Watson, and Integrated Advocacy Solutions is clearly the current and 2022-era employer. REJECTED the 'Corvus' link: Corvus Advisors is a real Austin/Houston cross-border advisory firm with an oil & gas practice, but its site lists no team members and does not mention Becka, and his LinkedIn shows no Corvus affiliation — so oil_gas was NOT flagged on that basis. The 'Corvus'/'Product Management' strings (likely from his 8 FEC records) remain unresolved; they could not be verified (FEC API rate-limited). He was not found in searches of TEC registered-lobbyist lists and appears to be a grassroots-advocacy consultant rather than a registered lobbyist, though the TEC PDF could not be fully parsed to rule this out.",
+  "source_url": "https://integratedadvocacy.com/home/about/",
+  "affiliations": [
+   {
+    "org": "Young Men's Business League (Austin)",
+    "role": "Member; President (2017)",
+    "category": "civic",
+    "source_url": "https://integratedadvocacy.com/home/about/"
+   },
+   {
+    "org": "Texans for Economic Development",
+    "role": "Former Director of Governmental Relations — oversaw the group's PAC and coordinated lobbying (racing-industry economic development group)",
+    "category": "political",
+    "source_url": "https://integratedadvocacy.com/home/about/"
+   },
+   {
+    "org": "Texas Exes (UT-Austin alumni association)",
+    "role": "Former Vice President of Constituent Relations",
+    "category": "civic",
+    "source_url": "https://integratedadvocacy.com/home/about/"
+   },
+   {
+    "org": "Texas Horse Society",
+    "role": "Co-Founder",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/daniel-becka-16986b7/"
+   },
+   {
+    "org": "Austin Sunshine Camps",
+    "role": "Active supporter",
+    "category": "civic",
+    "source_url": "https://integratedadvocacy.com/home/about/"
+   }
+  ]
+ },
+ {
+  "donor_id": "3a1c9cf9-07cc-412e-a739-e672e4b7c721",
+  "name": "Inabinet, Mark",
+  "resolved_employer": "Texas Department of Public Safety (TXDPS) — Analyst",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "No independent confirmation of this specific individual was found: no LinkedIn profile, no listing in the Texas Tribune Government Salaries Explorer or OpenGovUS Texas state-employee data for the surname Inabinet, no news or staff-directory hits. The Government classification therefore rests on the donor's own sworn campaign-finance disclosure — employer 'TXDPS' with occupation 'Analyst' — rather than on an external identity match, so same-name confusion is not a risk here: TXDPS is unambiguously the Texas Department of Public Safety, and an analyst there is a state employee. The self-report is consistent across a 2022-05-16 to 2024-08-27 giving window, and fec_donation_count of 0 is consistent with a state employee with no federal giving history. Weak supporting signal: the surname is rare and a John E. Inabinet (1927-2002) is recorded as having last resided in Austin 78748 — the donor's exact zip — suggesting an established family presence there, though no relationship could be established. REJECTED Jack Inabinet, a crypto analyst at Bankless — wrong first name, wrong employer, no Austin/TXDPS tie. Confidence is medium rather than high because the individual could not be independently corroborated; it is not low because the industry derives directly from the filing itself. military_defense is NOT flagged: TXDPS is a state law-enforcement agency and no defense-industry ties were found.",
+  "source_url": "https://www.dps.texas.gov/section/about-dps",
+  "affiliations": []
+ },
+ {
+  "donor_id": "049fc4b3-9ed2-43e7-bd42-18c4a9d6fbfb",
+  "name": "Jensen, Scott",
+  "resolved_employer": "Kosmos Q (CEO, since May 2024); previously Co-Founder & CEO of Rhythm Superfoods — career CPG/food-brand executive",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Scott Jensen is a well-documented Austin consumer-packaged-goods executive: co-founder/CEO of Rhythm Superfoods (organic plant-based snacks), earlier co-founder and CEO/President of One World Foods (Stubb's Bar-B-Q, sold to McCormick 2015), and named CEO of Kosmos Q on L2 Capital's acquisition announced May 1, 2024. The filing's two employer strings match his career timeline exactly — first gift 2022-06-23 under Rhythm Superfoods, last gift 2024-08-11 under Kosmos Q, three months after the Kosmos Q appointment — which corroborates this specific person rather than a same-named Austin resident. His bio confirms he lives in Austin; zip 78737 is SW Travis County/Dripping Springs, consistent. Industry note: the taxonomy has no 'Food' or 'Manufacturing' label; both Rhythm Superfoods and Kosmos Q are branded consumer-products companies whose business is manufacturing and marketing packaged goods sold through grocery/retail channels, so Retail (consumer products) is the closest available fit. Hospitality / Events was rejected — these are CPG brands, not restaurants, notwithstanding the Stubb's restaurant lineage.",
+  "source_url": "https://www.acg.org/asa/speakers/scott-jensen",
+  "affiliations": [
+   {
+    "org": "SKU (Austin CPG Accelerator)",
+    "role": "Board member and mentor",
+    "category": "business",
+    "source_url": "https://www.acg.org/asa/speakers/scott-jensen"
+   },
+   {
+    "org": "Specialty Food Executive Forum",
+    "role": "Co-founder",
+    "category": "business",
+    "source_url": "https://www.acg.org/asa/speakers/scott-jensen"
+   },
+   {
+    "org": "YPO Gold, Austin Chapter",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.acg.org/asa/speakers/scott-jensen"
+   },
+   {
+    "org": "Stubb's Austin Restaurant Company",
+    "role": "Co-founder and board member",
+    "category": "business",
+    "source_url": "https://www.acg.org/asa/speakers/scott-jensen"
+   },
+   {
+    "org": "Kosmos Q (L2 Capital portfolio company)",
+    "role": "CEO, appointed May 2024",
+    "category": "business",
+    "source_url": "https://l2capital.net/l2-capital-acquires-rapidly-growing-and-premium-brand-for-barbeque-products-and-appoints-industry-veteran-scott-jensen-to-the-lead-role/"
+   }
+  ]
+ },
+ {
+  "donor_id": "7ee298c4-294b-48f2-91f2-73cf2a5a64f2",
+  "name": "Aguilar, Anthony",
+  "resolved_employer": "Founder/CEO of Chipper (Austin student-loan repayment fintech, now wound down); currently founder of Turf FC, an early-stage Austin soccer-entertainment venture",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Anthony 'Tony' Aguilar Jr. is the Austin-based founder and CEO of Chipper, a venture-backed student-loan repayment app (founded 2018, raised $5.6M, profiled by Built In Austin as an 'Austin Future 5' startup); his LinkedIn headline is now 'Building Turf FC (Topgolf for Soccer),' confirming both employer strings on the donation record belong to one person. The combination of 'Chipper' + 'TURF FC' + 'CEO' in Austin is a unique fingerprint — no other individual holds both roles — which corroborates the specific person despite zip 78745 not being independently verifiable. The donation pattern is consistent: gifts run 2022-06-04 (Chipper era) to 2025-09-30 (Turf FC era, matching his mid-2025 posts about the new venture), and he gave to Jose Velasquez (District 3, East Austin); Aguilar is a Latino founder from Pecos, TX who has publicly framed Chipper's mission around the Latinx funding gap and borrowers of color, which fits the recipient. Industry judgment: Chipper — a venture-backed consumer software startup — accounts for the majority of the giving window, so Technology is the label; Finance was considered (personal-finance product) and rejected because the company is a software app rather than a financial institution. Noted uncertainty: Turf FC is a sports-entertainment concept that would arguably be Hospitality / Events, but it is pre-launch and covers only the tail of the record.",
+  "source_url": "https://www.linkedin.com/in/tonyaguilarjr",
+  "affiliations": [
+   {
+    "org": "Chipper",
+    "role": "Founder and CEO",
+    "category": "business",
+    "source_url": "https://www.chipper.app/blog/chipper-raises-5-6m-to-eliminate-student-loan-debt-and-combat-the-latinx-funding-gap"
+   },
+   {
+    "org": "Turf FC",
+    "role": "Founder",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/tonyaguilarjr"
+   },
+   {
+    "org": "Forbes Finance Council",
+    "role": "Member (listed as Founder/CEO, Chipper)",
+    "category": "business",
+    "source_url": "https://councils.forbes.com/profile/Tony-Aguilar-Founder-CEO-Chipper/2b36b826-bc12-44d6-be57-19d2cde32a2a"
+   }
+  ]
+ },
+ {
+  "donor_id": "5b834324-1d82-4a96-8ca8-071a99157383",
+  "name": "Clark, Meg",
+  "resolved_employer": "Camp Waldemar (Hunt, TX) — owner and executive director of the historic girls' summer camp",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Meg Elmore Clark is the owner/executive director of Camp Waldemar in Hunt, TX, daughter of longtime directors Marsha and Dale Elmore; she directed Waldemar 1999-2008, later founded Camp Lonehollow/LoneHollow Ranch, and returned as owner. Her public title is literally 'Business Owner at Camp Waldemar', matching the filing's occupation 'Business owner' + employer 'Camp Waldemar' exactly — an exact title+employer match at a single small family-owned business. She is a UT-Austin graduate, consistent with an Austin 78731 (Northwest Hills) off-season residence, though the specific 78731 address is not independently confirmed in public sources. Industry choice: the taxonomy has no 'Recreation'; Waldemar is a seasonal residential recreation business selling lodging, dining, and activity programming — not an accredited, credit-granting school — so Hospitality / Events fits better than Education. Not to be confused with Camp Mystic, the camp devastated in the July 2025 Guadalupe River floods; Waldemar is a separate camp in Hunt that also appeared in flood-related coverage.",
+  "source_url": "https://waldemar.com/about-us/history/",
+  "affiliations": [
+   {
+    "org": "American Camp Association (ACA)",
+    "role": "National board member (listed in ACA board biographies)",
+    "category": "business",
+    "source_url": "https://www.acacamps.org/sites/default/files/BoardBios%20-%20Feb%202022.pdf"
+   }
+  ]
+ },
+ {
+  "donor_id": "5238e48e-c881-47ea-8e17-aa9648bda6c1",
+  "name": "Ramsey, Tom",
+  "resolved_employer": "TRJ Snappy Snacks Mobile Catering, Pflugerville, TX — founder/President/CEO; food-truck commissary, truck leasing, and mobile catering",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Tom Ramsey is the founder and President/CEO of TRJ Snappy Snacks Mobile Catering, a 10-acre food-truck commissary complex at 15630 Vision Dr, Pflugerville, TX (zip 78660, matching the filing), founded 1997 in Hutto as King Arthur Catering and now home to ~70 mobile catering vehicles plus an on-site warehouse and meat market. This matches the filing's 'Chief Executive Officer' + 'Snappy Snacks' and the Pflugerville 78660 location. The second employer string 'Taquero' (Spanish for taco-maker) is consistent with his mobile-taco/food-truck business — Snappy Snacks' own social account uses the handle 'tacoman512' — but no separate registered business named 'Taquero' was found tied to him, so it is treated as a self-described trade rather than a confirmed distinct entity. REJECTED MATCH: Tom S. Ramsey, P.E., Harris County Precinct 3 Commissioner — different person. He is a Texas A&M civil engineer with a 45-year infrastructure career (Klotz Associates), former mayor of Spring Valley Village, based in Houston/Harris County, and a Republican; this donor is in Pflugerville/Travis County, is a mobile-catering CEO, and has an FEC partisan lean of 0.894 (Democratic-leaning) across 25 federal donations, all of which contradict the Harris County commissioner.",
+  "source_url": "https://www.snappysnacksmobilecatering.com/bio",
+  "affiliations": [
+   {
+    "org": "Celebration of Love",
+    "role": "Founder and President (2003-2021); food-bank support for families",
+    "category": "civic",
+    "source_url": "https://www.snappysnacksmobilecatering.com/bio"
+   },
+   {
+    "org": "The Tom Ramsey Foundation",
+    "role": "Founder (est. 2019); aid to marginalized communities",
+    "category": "civic",
+    "source_url": "https://www.snappysnacksmobilecatering.com/bio"
+   }
+  ]
+ }
+]

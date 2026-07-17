@@ -1,0 +1,153 @@
+[
+ {
+  "donor_id": "04b55fe1-d7db-4efa-a62e-f0af45b4632d",
+  "name": "Wilson, Leonard G",
+  "resolved_employer": "Retired investor (self-reported)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Classification rests only on the filer's own disclosure ('Investor' / 'Retired', Austin 78703). Searches of news, LinkedIn, LittleSis and Austin business press turned up no Leonard G. Wilson in 78703 who could be matched by occupation or address; 'Leonard Wilson' is a common name. FEC history (48 gifts, partisan lean 0.05 = strongly Republican-leaning) sits oddly with a $450 gift to Democrat Kirk Watson and did not help disambiguate.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "046a393d-ac5c-4cc9-8a74-21ce976f3fce",
+  "name": "Momand, Maleka",
+  "resolved_employer": "Esper (Esper Regulatory Technologies) - co-founder & CEO",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Maleka Momand is co-founder and CEO of Esper, a govtech SaaS company that manages regulatory/policy workflow for state governments; Esper relocated its HQ from San Francisco to Austin and has raised ~$14M. Employer string 'Esper' + occupation 'CEO' + Austin location match exactly. Forbes 30 Under 30 (social impact, 2022). Co-founded with Joe Lonsdale (Palantir co-founder) and Lilli Oetting; Momand is a listed advisor/author at Lonsdale's Cicero Institute.",
+  "source_url": "https://www.builtinaustin.com/articles/esper-raises-8m-series-a-hiring",
+  "interest_tags": "tech-startup-ecosystem",
+  "affiliations": [
+   {
+    "org": "Cicero Institute",
+    "role": "Advisor / listed author (free-market policy think tank founded by Joe Lonsdale)",
+    "category": "political",
+    "source_url": "https://ciceroinstitute.org/authors/maleka-momand/"
+   },
+   {
+    "org": "Esper Regulatory Technologies",
+    "role": "Co-founder & CEO; company co-founded by Joe Lonsdale",
+    "category": "business",
+    "source_url": "https://theorg.com/org/esper-com/org-chart/maleka-momand"
+   }
+  ]
+ },
+ {
+  "donor_id": "04003c81-bb9f-4f49-965a-b6be100ff4ac",
+  "name": "Geraci, Amy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer were withheld on the filing ('Requested'). The only candidate match is a data-broker record for an Amy O. Geraci at an address in Austin 78730 described as a registered nurse formerly with Seton Medical Center. Zip matches, but the source is an aggregator with no corroboration from LinkedIn, Texas nursing license records or news, so no industry assigned.",
+  "source_url": "https://clustrmaps.com/person/Geraci-nn1ft",
+  "affiliations": []
+ },
+ {
+  "donor_id": "77197a15-27ba-479f-8371-107a2cf13777",
+  "name": "Vitanza, Laura",
+  "resolved_employer": "None - stay-at-home parent (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Filer self-reported 'stay at home mother' with employer 'none' at the time of the Oct 2024 gift, from Lakeway 78734; no independent record contradicts this. Caveat: a Laura Vitanza is listed as a Coldwell Banker Realty agent associated with a Lakeway address, which may be the same person at a later date or a different person - the agent page could not be retrieved to confirm, so the self-report is used.",
+  "source_url": "https://www.coldwellbanker.com/Coldwell-Banker-Realty-12629c/Laura-Vitanza-562059a",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ebbbfef-2dee-4854-ba2d-e3d93b82c03a",
+  "name": "Oswald, Kerri",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer on the filing. A Kerri Oswald appears in an Austin-area RecognizeGood community-volunteer listing, but the page returned an error and nothing else ties a Kerri Oswald to zip 78735 or to an occupation. Cannot confirm identity.",
+  "source_url": "https://recognizegood.org/legend/kerri-oswald/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "18ab8c4d-33f3-4e3b-b187-a8c137ad699f",
+  "name": "Nielson , Jeanne",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer withheld on the filing ('requested'). No Jeanne Nielson/Nielsen could be located in Austin 78746 (West Lake Hills) via news, LinkedIn or professional directories; the only near-matches are out of state. FEC lean 1.0 across 11 gifts (consistently Democratic) is consistent with the Watson gift but does not identify her.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e77517c7-eb5c-4d95-94cf-c72e1ff832be",
+  "name": "Camp, Jim",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer on any of his filings. Gives to both Kirk Watson and Travis County Commissioner Brigid Shea from Manchaca 78652 (2022-2025), with a consistently Democratic FEC record (lean 1.0 across 47 gifts) - the profile of a small-dollar local Democratic donor, but no public record identifies which Jim/James Camp in the Manchaca area this is.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "72d1f80b-57f0-46b9-a6e9-80995f6ed6eb",
+  "name": "Bell, Wendell",
+  "resolved_employer": "Texas Public Power Association - contract lobbyist (likely retired)",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "A Wendell Bell was a continuously registered Texas lobbyist in Austin from at least 2000 through 2018, first for Texas Electric Cooperatives Inc. and then for the Texas Public Power Association (the trade group for municipally owned electric utilities), earning $25,000-$49,999 in the later years; he is not on TPPA's current staff page, suggesting he has since retired. Name and Austin base match, and the donor's blank occupation plus heavily Democratic FEC record (lean 0.97, 52 gifts) is consistent. Caveat: lobby registrations list only business addresses, so the donor's 78757 residential zip could not be independently tied to the lobbyist - identity is probable, not confirmed. Note this is public/municipal power, not oil and gas.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2018/2018LobbyGroupByLobbyist.pdf",
+  "interest_tags": "political-consulting",
+  "affiliations": [
+   {
+    "org": "Texas Public Power Association",
+    "role": "Registered lobbyist (municipally owned electric utilities trade association)",
+    "category": "business",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2018/2018LobbyGroupByLobbyist.pdf"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-e50c3152-5811-4524-8663-ec74aecb4ddf",
+  "name": "Harper, Alan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, location, occupation or employer on the Travillion filing, and 'Alan Harper' is a common name. The FEC record attached to this donor (2,084 contributions, lean 0.039) is the signature of a high-frequency small-dollar recurring donor, but with no geographic or employment anchor the individual cannot be identified at all.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa6a7a7d-a3dc-4266-9de2-fbbef998409d",
+  "name": "Bynum, Grover",
+  "resolved_employer": "USTomorrow - co-founder & executive director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Grover Bynum is co-founder and executive director of USTomorrow, an Austin-based nonprofit that builds cross-partisan community coalitions on jobs, education and economic development (it ran a Return To Work program with Texas economic-development orgs during COVID). Employer string 'USTomorrow' and occupation 'Community development' match exactly, as does the Austin location.",
+  "source_url": "https://www.zoominfo.com/p/Grover-Bynum/1992725420",
+  "interest_tags": "political-consulting",
+  "affiliations": [
+   {
+    "org": "USTomorrow",
+    "role": "Co-founder & Executive Director (cross-partisan civic nonprofit)",
+    "category": "civic",
+    "source_url": "https://ustomorrow.medium.com/on-the-passing-of-pike-powers-fee974d65bf4"
+   }
+  ]
+ },
+ {
+  "donor_id": "f86147e9-10a4-405c-a96a-21a44857bdf3",
+  "name": "Embry, Jason",
+  "resolved_employer": "New West Communications - co-founder (self-reported as 'Embry Communications')",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Jason Embry is a strategic-communications consultant who has lived in Cedar Park or Leander since 2010 (matching zip 78641) and self-reported as 'Owner' of a communications business. He was the Austin American-Statesman's chief political correspondent, then communications director for Texas House Speaker Joe Straus, and co-founded New West Communications in Austin after Straus left office in 2018; he later ran for the Leander ISD board. Name, city and line of work all match. Caveat: the filing names 'Embry Communications', which does not appear as a registered entity - likely his own shorthand for his solo/consulting work rather than New West.",
+  "source_url": "https://jasonembry.com/",
+  "interest_tags": "political-consulting",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f8053115-20e9-41e2-991e-b3e508fbabf5",
+  "name": "Schlicher, Katherine Abigail",
+  "resolved_employer": "Neutral - PR consultant (self-reported)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Classification rests only on the filer's own disclosure ('PR Consultant' at 'Neutral', Austin 78703). No Austin PR firm named 'Neutral' could be found in agency directories or business listings, and no Katherine/Abby Schlicher could be confirmed in Austin communications work; she has no FEC history to cross-check. Identity unverified.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

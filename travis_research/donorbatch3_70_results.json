@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "ef6142c8-a15a-4f98-88a5-2b56165431bd",
+  "name": "Jones, Marshall",
+  "resolved_employer": "Operations Manager, Sunday Lunchbox (Austin food-justice nonprofit / 501(c)(3), member of Greater Austin Black Chamber)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Sunday Lunchbox is an Austin 501(c)(3) improving healthy-food access; a 'T. Marshall Jones' has an Austin about.me profile tied to local food ventures. Occupation/employer on the filing match the nonprofit, but no page names him by role.",
+  "source_url": "https://www.austinbcc.org/list/member/sunday-lunchbox-austin-505",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ebdc603f-2546-4e0d-99fd-bd4df6122cc3",
+  "name": "Eichler, Shera",
+  "resolved_employer": "Government-relations/political consultant; principal of Purple Sage Strategies LLC and co-founder of Second Floor Strategies (with former TX House Speaker Dennis Bonnen)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Shera Kutac Eichler was longtime lead staffer for GOP Speaker Dennis Bonnen; left the Capitol in 2020 and co-founded Second Floor Strategies, a government-relations/lobby firm. Purple Sage Strategies LLC is her own consulting vehicle. Registered Texas lobbyist.",
+  "source_url": "https://www.2fstx.com/team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea06e8da-2795-405f-bff7-eacff3571a20",
+  "name": "Kenyon, Brock",
+  "resolved_employer": "Director of Acquisitions / VP heading the Austin office of SomeraRoad Inc. (national real-estate investment firm)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Austin-native Brock Kenyon leads SomeraRoad's Austin office as Director of Acquisitions (St. Elmo Public Market, 801 Barton Springs). Name, employer, city, and 'Real Estate' occupation all match.",
+  "source_url": "https://theorg.com/org/somera-road/org-chart/brock-kenyon",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e8508402-74c2-48ce-b598-04c967f86db8",
+  "name": "Margolis, Ellen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired business owner in San Diego (zip 92117) who gave to Krista Laine. Multiple 'Ellen Margolis' exist in San Diego (incl. a psychologist); none can be tied to this donor's zip or former business, so no career identified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e15cfd4f-2d92-4b25-8d79-7d06b94c0d2d",
+  "name": "Fullerton, William",
+  "resolved_employer": "SVP Government Affairs, CENTEGIX (school-safety technology company, wearable panic buttons / Alyssa's Law); formerly Chief of Staff at the Texas Education Agency",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "William J. Fullerton is SVP of Government Affairs at CENTEGIX, a K-12 school-safety software/hardware firm; prior TEA Chief of Staff and Texas Star Alliance lobbyist. LinkedIn, ZoomInfo and TheOrg confirm name+title+employer.",
+  "source_url": "https://www.linkedin.com/in/williamfullerton/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "de8212bc-d520-4b32-8832-b89aef7522be",
+  "name": "Dominguez, Dorene",
+  "resolved_employer": "Chairwoman & CEO of Vanir (Vanir Group / Vanir Construction Management & Development), Granite Bay, CA",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Dorene C. Dominguez has been Chairwoman/CEO of Vanir since 2004, a national program/project/construction-management and real-estate-development firm founded by her father. Name, employer, city (Granite Bay 95746) and CEO title match.",
+  "source_url": "https://www.vanir.com/people/dorene-c-dominguez/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d1fc8d58-24f5-473f-bca3-b921879d2f97",
+  "name": "Hawkins, Tam",
+  "resolved_employer": "President & CEO, Greater Austin Black Chamber of Commerce (GABC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Tam Hawkins is President/CEO of the Greater Austin Black Chamber of Commerce, an East Austin business-advocacy nonprofit; Dallas native, board member of East Austin Conservancy. Distinctive name + Austin + CEO match ('BBGG' on the filing is an unexplained employer string).",
+  "source_url": "https://www.austinbcc.org/gabc-staff",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d0825e02-1b40-4aba-aaf9-cbad76d837d1",
+  "name": "McDonald, Carol",
+  "resolved_employer": "President, Independent Colleges and Universities of Texas (ICUT) — higher-education advocacy association",
+  "industry": "Education",
+  "confidence": "high",
+  "interest_tags": "higher-education",
+  "evidence": "Carol McDonald served as President of ICUT, the association representing Texas private colleges (testified to the TX Senate higher-ed oversight committee in 2004). 'Association executive' occupation + ICUT employer match.",
+  "source_url": "https://senate.texas.gov/news.php?id=20040810a&lang=en",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd32dab2-6ebd-4286-839f-48f5d9bc6311",
+  "name": "Laas, Rachel Ann",
+  "resolved_employer": "Loan Officer, Fairway Independent Mortgage Corporation (Austin)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "interest_tags": "insurance-finance",
+  "evidence": "Filing lists her as a loan officer at Fairway Independent Mortgage, which has multiple Austin branches (incl. the 78738 area near her 78739 zip). Distinctive surname and self-reported occupation are consistent, but no individual NMLS/LinkedIn profile was located to confirm.",
+  "source_url": "https://www.fairway.com/locations/texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c8012dbf-de12-4e3c-8e13-18b75f7a932b",
+  "name": "Polombo, Michael",
+  "resolved_employer": "Principal/Owner of GSD — Greenstar Development, Austin commercial/multifamily real-estate developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "interest_tags": "real-estate-development,multifamily-housing",
+  "evidence": "Michael Polombo founded Greenstar Development (GSD) in 2013; Austin developer of multifamily, office, mixed-use projects (Rise Apartments, The Independent). LinkedIn, ZoomInfo and LoopNet confirm name+GSD+partner/owner role.",
+  "source_url": "https://gsdre.com/profile",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c51a4756-0680-45cf-bd4e-f1b05fe96fff",
+  "name": "Smith, Celia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer both listed as 'Requested' (not disclosed) on the filing. 'Celia Smith' in Austin 78731 is too common to identify without an occupation or employer anchor.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "c289834b-bb86-42f6-b47a-3ceefdf49bc5",
+  "name": "Templeton, Toni",
+  "resolved_employer": "Education-data researcher; Senior Research Scientist at the University of Houston Education Research Center and director/analyst at TTM Analytics LLC",
+  "industry": "Education",
+  "confidence": "high",
+  "interest_tags": "higher-education",
+  "evidence": "Dr. Toni B. Templeton is a UH College of Education research scientist and director of TTM Analytics, building quantitative models of Texas public-school outcomes. 'TTM Analyst' occupation matches TTM Analytics exactly; UT-Austin undergrad, PhD UH.",
+  "source_url": "https://www.uh.edu/education/research/institutes-centers/iepre/contact/toni-templeton.php",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,123 @@
+[
+ {
+  "donor_id": "08058e59-6b15-41f9-9280-51ad3bc9d1c9",
+  "name": "Boenig, Adam",
+  "resolved_employer": "Brohn Homes (co-president / co-founder; Austin homebuilder acquired by Clayton Properties Group, a Berkshire Hathaway company, in 2018)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Adam Boenig co-founded Brohn Homes in 2003 with his brother Aaron and serves as co-president; matches the filing's 'Partner, Brohn Homes' and Austin 78730. Production homebuilder.",
+  "source_url": "https://www.linkedin.com/in/adam-boenig-643227210/",
+  "interest_tags": "homebuilders,real-estate-development",
+  "affiliations": []
+ },
+ {
+  "donor_id": "01b13f6a-be18-42cc-b7e1-8171e931a90d",
+  "name": "Krishnan, Lalitha",
+  "resolved_employer": "Rent the Runway (customer support specialist)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Filing self-reports Customer Support Specialist at Rent the Runway (fashion-rental retailer), downtown Austin 78701. Could not independently corroborate the specific individual online, but employer/occupation are internally consistent; classified per the fashion-rental retail employer.",
+  "source_url": "https://www.renttherunway.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8ae0222d-9e18-4f92-91ed-9aeb8037c152",
+  "name": "Harper, Roger",
+  "resolved_employer": "Travis County Sheriff's Office (deputy sheriff, ~1992-2020; retired)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "LinkedIn (Roger Harper, Round Rock TX) shows a Travis County Sheriff's Office deputy from Apr 1992 to May 2020; matches filing occupation 'Travis Co. Sheriff's Office / Law Enforcement Officer' and Round Rock 78664. Gift in 2022 post-retirement.",
+  "source_url": "https://www.linkedin.com/in/roger-harper-a268ba200/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e45f1232-43b2-4d34-aa28-b9e09826ac8a",
+  "name": "Plambeck, Cole",
+  "resolved_employer": "CrowdStrike (account manager / sales)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Cole Plambeck, Account Manager at CrowdStrike (cybersecurity firm), based in Austin since Apr 2020; matches filing 'Sales, Crowdstrike' and Austin 78702. Prior roles at Darktrace and Oracle.",
+  "source_url": "https://www.linkedin.com/in/coleplambeck",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d94e21c3-a58c-4104-91c3-99d4ce42e3ff",
+  "name": "Robinson, Richard",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Del Valle 78617 donor to Commissioner Jeff Travillion, no occupation/employer in filing. 'Richard Robinson' is a very common name with no corroborating detail; could not identify the specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b084b061-7816-46b0-80fe-e10b7f889508",
+  "name": "Baker, Luther",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Pflugerville 78660 donor to Commissioner Jeff Travillion, no occupation/employer in filing. No Texas-specific match found for 'Luther Baker'; could not confirm identity or occupation.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "8e710e6e-9646-4fcd-ad43-102b8ca4b34f",
+  "name": "Engel, Frank",
+  "resolved_employer": "U.S. Geological Survey (research geographer / hydrologist, Texas Water Science Center)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Dr. Frank L. Engel is a USGS research geographer specializing in fluvial geomorphology and non-contact riverine measurement; USGS staff profile and LinkedIn confirm, and he resides in San Antonio (78249 matches). Federal scientist.",
+  "source_url": "https://www.usgs.gov/staff-profiles/frank-l-engel",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0fd4ffd-30c2-46bb-b9bb-b61bcf721a64",
+  "name": "Fagan, Brett",
+  "resolved_employer": "Allana Buick & Bers, Inc. (principal engineer; previously Building Diagnostics, Inc., acquired by ABB in 2022)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Brett Fagan, PE, Principal at Allana Buick & Bers (architectural/building-envelope engineering firm); joined predecessor Building Diagnostics in 1999. Matches filing's two employer strings and Austin 78759. ~25 yrs building-forensics engineering.",
+  "source_url": "https://www.linkedin.com/in/brettfaganpe/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fe17f868-ad3d-4eca-b9ca-990d4787e9ae",
+  "name": "Holderness, Mary (Mrs.)",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "West Lake Hills / Austin 78746 donor to Commissioner Brigid Shea, no occupation/employer in filing. No result could be tied to this specific Austin resident; could not confirm identity or career.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e0206844-7d53-4b63-bacc-83be80776db6",
+  "name": "Tyson, Paulette",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records confirm a Paulette Tyson at a Pflugerville 78660 address (matches filing), donor to Commissioner Jeff Travillion. Occupation unconfirmed: online records for the name include an administrative assistant at Lockheed Martin and an executive assistant at a studio, but the name is common and neither could be tied to this individual, so no industry/defense affiliation is asserted.",
+  "source_url": "https://radaris.com/p/Paulette/Tyson/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-da2e777b-63ab-4d6e-be6c-b44e8db4f3ed",
+  "name": "Hutchison Ford, Janet",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78757 donor to Commissioner Brigid Shea, no occupation/employer in filing. Multiple distinct 'Janet Hutchison' profiles exist in Austin (real estate, mental-health counseling); none could be confirmed as this person. Could not classify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-41ee435a-bba0-4caa-8ab1-7df94887d5e9",
+  "name": "Schneider, Harold",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78763 (PO box) donor to Commissioner Brigid Shea, no occupation in filing. 'Harold Schneider / Austin' returns a mineral-rights holder and a pipe-and-supply worker, but the name is common and the PO-box zip gives no corroboration, so identity and any oil/gas or energy-mineral-rights tie remain unconfirmed.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

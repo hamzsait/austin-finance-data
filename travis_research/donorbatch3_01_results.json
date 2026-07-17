@@ -1,0 +1,139 @@
+[
+ {
+  "donor_id": "tcv-0114702f-e5b8-4e0a-a7de-4642b0457c13",
+  "name": "Scott, John",
+  "resolved_employer": "Self-employed executive (sector not determinable)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "FEC records show a John Scott at Austin ZIP 78736 giving two contributions on 2021-12-31 ($1,000 to ActBlue earmarked and $1,000 to Eddie for Texas, i.e. Democrat Eddie Rodriguez, TX-35), self-reporting employer 'Self'/'Self Employed' and occupation 'Executive'. This matches the local record on all four available signals: exact ZIP, fec_donation_count=2, fec_partisan_lean=1.0 (all-Democratic), and timing nine days after his first $ to Brigid Shea on 2021-12-22. Identity of the person is corroborated, but 'self-employed executive' does not disclose a sector and 'John Scott' is too common to tie to a public bio, so no narrower industry is asserted.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=SCOTT%2C+JOHN&contributor_zip=78736",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b385585f-ebf6-44b8-9985-350481e0e73a",
+  "name": "Scott, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "East Austin donor (ZIP 78702), $6,000 to Brigid Shea and Ann Howard in late 2024, no occupation or employer on the filings. An FEC search for contributors named John Scott in ZIP 78702 returns zero records, consistent with fec_donation_count=0, so there is no federal donation history to triangulate against. 'John Scott' is an extremely common name; nothing corroborates a specific individual. Almost certainly a different person from the 78736 John Scott in this batch (different ZIP, no overlapping federal history).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8f2ea39d-c079-4f53-b188-143fbe0e7273",
+  "name": "Calhoun, John",
+  "resolved_employer": "IMS Engineers / Integrated Management Services — co-founder and Chief Executive Officer",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Dr. John D. Calhoun, Ph.D., co-founded IMS Engineers (Integrated Management Services) in Jackson, Mississippi in 1996 with Rod L. Hill, P.E.; it is one of the largest African-American-owned engineering firms in the US, doing civil, environmental, transportation, water/wastewater and program/construction management work for public infrastructure clients. FEC records tie him conclusively: dozens of contributions from Jackson, MS ZIP 39201 (exact match) listing employer 'IMS Engineers'/'Integrated Management Services' and occupation 'CEO'. His bipartisan giving (Wicker, Lott, Cochran on the Republican side; Obama, Espy, Bennie Thompson, a $30,400 DNC contribution on the Democratic side) matches the record's fec_partisan_lean of 0.27 across 235 contributions. He was honored by the Obama White House as a 'Champion of Change' for small business. Gave $5,000 to Jeff Travillion in July 2025 — an out-of-state public-infrastructure engineering CEO giving to a Travis County commissioner. Note: no IMS contract with Travis County or the City of Austin was found in public sources, so no vendor relationship is asserted here.",
+  "source_url": "https://www.imsengineers.com/our-firm/",
+  "affiliations": [
+   {"org": "IMS Engineers (Integrated Management Services)", "role": "co-founder and CEO", "category": "business", "source_url": "https://www.imsengineers.com/our-firm/"},
+   {"org": "Obama White House 'Champions of Change' (small business)", "role": "honoree", "category": "civic", "source_url": "https://obamawhitehouse.archives.gov/champions/small-business/john-calhoun"}
+  ]
+ },
+ {
+  "donor_id": "tcv-9e6bec16-20be-495a-8468-9f70d48669f3",
+  "name": "Kumar, Sam",
+  "resolved_employer": "Journeyman Group — founder, CEO/President (Austin multifamily, hospitality and senior-living developer)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Sam Kumar founded the Journeyman Group in 1996 and is its CEO/President; the firm has developed over $1B in projects and more than 10,000 multifamily units in Central Texas, named the #1 multifamily developer in Central Texas by the Austin Business Journal, including ~2,500 units for families at 50-80% of median family income. He holds an M.S. in civil/construction engineering from UT-Austin (Academy of Distinguished Alumni, 2021). FEC records show a Sam Kumar of West Lake Hills (ZIP 78746) listing employer 'Journeyman Group' and occupation 'President', giving heavily to Greg Casar ($2,900 on 2021-11-23, $2,500, $1,000) and ActBlue. Corroboration is by name plus Austin-area Democratic local giving plus timing — his $4,500 to Travillion and Howard on 2021-10-26 and 2021-11-09 sits within weeks of the Casar contributions. Held at medium because this donor record carries no ZIP or location, so the match cannot be confirmed on address.",
+  "source_url": "https://caee.utexas.edu/alumni-profile/sam-kumar/",
+  "affiliations": [
+   {"org": "Journeyman Group", "role": "founder and CEO/President (multifamily developer)", "category": "business", "source_url": "https://caee.utexas.edu/alumni-profile/sam-kumar/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-77106fe5-30de-4c00-b26e-1d7a053fe182",
+  "name": "Hayes, Warren",
+  "resolved_employer": "Hayes Modular Group Inc — President; from 2018 Senior Vice President at Z Modular (Zekelman Industries); founder of the SH130 Municipal Management District No. 1 and the Texas Essential Housing Public Facility Corporation (deceased Nov 2023)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Warren Hayes (b. 1967 Snyder, TX; d. 2023-11-12), husband of Kristina Hayes, memorial held at the family's property at 4300 W SH 29, Georgetown — matching this donor's Georgetown 78628 ZIP. BBB lists him as President of Hayes Modular Group Inc (Austin, incorporated 1994) with Kristina Hayes as Director. His obituary states that in 2018 he joined Z Modular as senior vice president and that he created the SH130 Municipal Management District and the Texas Essential Housing Public Facility Corporation in East Austin, both of which became law in 2018. Materially relevant to Travis County: the SH130 MMD's registered address (8108 FM973, Austin) is the same street address BBB lists for Hayes Modular Group Inc, and the district sponsors the Texas Essential Housing PFC, which contracts with multifamily owners — including out-of-state investors — to make their properties property-tax exempt via the PFC exemption. The Texas Public Policy Foundation criticized the district for operating statewide with minimal local accountability and noted 'some of the deals also involve businesses tied to its board members'. He gave $3,530 to Jeff Travillion (Precinct 1, East Austin, where his district sits) and Brigid Shea in mid-2022. Separately, an FEC record for a 'Warren Hayes' in Austin ZIP 75724 (self-reported 'Retired') gave $250 to Trump in 2016 and is what drives this record's fec_partisan_lean of 0.0 across 1 contribution; 75724 is plausibly a transposition of 78724 (Hayes Modular's ZIP) but the 'Retired' occupation does not fit, so that federal match is NOT confirmed and should be treated as uncertain.",
+  "source_url": "https://www.wilcosun.com/obituaries/warren-hayes",
+  "affiliations": [
+   {"org": "Hayes Modular Group / Z Modular (Zekelman Industries)", "role": "President of Hayes Modular Group Inc; SVP of Z Modular from 2018. The firm's own Markets page states 'The U.S. military calls on Hayes Modular to execute multiple contracts for constructing barracks and office space across the country' — i.e. a military construction contractor, though military is one of six markets it serves alongside education, health care, multi-family, commercial and workforce housing. Recorded per instructions as a defense-contracting executive/owner; this is a construction firm holding military contracts, not a weapons or systems contractor.", "category": "military_defense", "source_url": "https://www.hayesmodular.com/markets/"},
+   {"org": "SH130 Municipal Management District No. 1 / Texas Essential Housing Public Facility Corporation", "role": "founder (per obituary); district shares a street address with Hayes Modular Group Inc and grants property-tax exemptions to multifamily developers", "category": "business", "source_url": "https://www.sh130mmd.com/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-19da86dd-af0c-447c-a12e-ebd1a733a6dd",
+  "name": "Tsao, Eric (Mr.)",
+  "resolved_employer": "Not employed (self-reported on his own Feb 2016 FEC filing); earlier listed 'Europamerica Origina[ls]' on a 1994 filing",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC returns exactly three contributions for an Eric Tsao in Texas, matching this record's fec_donation_count=3 and fec_partisan_lean=1.0 (all Democratic): $35 to ActBlue on 2016-02-28 from Austin ZIP 78738 — an exact ZIP match, six months before his first gift to Brigid Shea on 2016-08-29 — self-reporting employer and occupation as 'Not Employed'; and $1,000 to the Jim Mattox Finance Committee in 1994 from Austin 78759 listing employer 'Europamerica Origina[ls]'. The ZIP, contribution count, partisan lean and timing all corroborate the same individual. Industry reflects his own contemporaneous filing rather than an outside identification; giving $3,500 to a county race while reporting no employer suggests retirement or independent means, but no public bio, obituary or professional record for this specific Eric Tsao could be found (other Eric Tsaos identified are all outside Central Texas). The 1994 employer could not be tied to him — Europamerica Originals Inc of Austin is listed publicly under a different owner.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=TSAO%2C+ERIC&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a9f0e073-f499-450b-a27d-f1ef3b476eef",
+  "name": "Clark, Mark",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "West Lake Hills donor (ZIP 78746), $3,060 to Brigid Shea 2022-2025, no occupation or employer on the filings. The only FEC record is 'CLARK, MARK C' of Austin ZIP 78746-4690 giving $500 to John Kerry for President in 2004 — this matches the record's fec_donation_count=1 and fec_partisan_lean=1.0, so it is very likely the same person, but the filing lists employer and occupation as 'Information Requested' and adds nothing. A lead worth noting but NOT confirmed: Dr. Mark Colin Clark, MD, a critical-care and pulmonary physician in Austin (UT Health San Antonio, 1976; Pulmonary & Critical Care Consultants of Austin), shares the middle initial C and the city — but his practice ZIP is 78705 and his home address is unknown, so the match rests on middle initial alone. 'Mark Clark' is common in Austin; no industry is asserted.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CLARK%2C+MARK&contributor_zip=78746",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c42fb00f-b186-4873-a347-fe49e90eec1b",
+  "name": "Thompson, Christopher",
+  "resolved_employer": "Self Employed (per the filing); occupation reported as 'Admin'",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Dripping Springs donor (ZIP 78620), $2,632 to George Morales on 2025-12-12. The industry here is taken directly from the filer's own reported employer ('Self Employed') and occupation ('Admin'), not from an identification — the individual could not be identified. FEC returns zero contributors named Christopher Thompson in ZIP 78620 or in Dripping Springs; the Texas-wide matches are all clearly other people (General Motors cyber-security in Georgetown, a Katy business principal, a Waxahachie laborer, a Midland Firehouse Subs manager). IMPORTANT CAVEAT: this record's fec_donation_count=127 and fec_partisan_lean=0.066 look unreliable — the enrichment pipeline matches on name plus state, so for a name this common the figures appear to aggregate multiple different Christopher Thompsons across Texas and should not be read as this donor's own Republican-leaning history.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6ec9d5fa-027f-4db4-9bc9-18dfa75989b9",
+  "name": "Hayes, Warren",
+  "resolved_employer": "Hayes Modular Group Inc — President; from 2018 Senior Vice President at Z Modular (Zekelman Industries); founder of the SH130 Municipal Management District No. 1 and the Texas Essential Housing Public Facility Corporation (deceased Nov 2023)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Same individual as the Georgetown 78628 Warren Hayes record in this batch: President of Hayes Modular Group Inc (BBB, Austin, incorporated 1994; wife Kristina Hayes listed as Director), SVP at Z Modular from 2018, and per his obituary the creator of the SH130 Municipal Management District and Texas Essential Housing Public Facility Corporation in East Austin. This record carries no ZIP or location, so the link rests on the identical name, the same recipient (Jeff Travillion, Precinct 1, East Austin — where his municipal management district is located), and timing: this $2,575 gift on 2021-10-11 sits just before the 2022 gifts on the other record, and before his December 2021 glioblastoma diagnosis. Held at medium for lack of an address to confirm against.",
+  "source_url": "https://www.wilcosun.com/obituaries/warren-hayes",
+  "affiliations": [
+   {"org": "Hayes Modular Group / Z Modular (Zekelman Industries)", "role": "President of Hayes Modular Group Inc; SVP of Z Modular from 2018. The firm's Markets page states the U.S. military contracts with Hayes Modular to construct barracks and office space nationwide — a military construction contractor, with military one of six markets served. Recorded per instructions as a defense-contracting executive/owner.", "category": "military_defense", "source_url": "https://www.hayesmodular.com/markets/"},
+   {"org": "SH130 Municipal Management District No. 1 / Texas Essential Housing Public Facility Corporation", "role": "founder (per obituary)", "category": "business", "source_url": "https://www.sh130mmd.com/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-17f41915-c2d4-4ad4-93ec-0df0a4c54548",
+  "name": "Hayes, Kristina",
+  "resolved_employer": "KW Commercial — commercial real estate; also Director of Hayes Modular Group Inc (wife of Warren Hayes)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "BBB lists Ms. Kristina Hayes as Director of Hayes Modular Group Inc (Austin), alongside Warren Hayes as President; Warren's obituary names Kristina Hayes as his wife. FEC records confirm her directly: six contributions from Georgetown ZIP 78628-6971 (matching this record's 78628 — the location string 'Austin, TX 78628' is a data quirk, as 78628 is Georgetown), self-reporting employer 'Hayes Modular Group' with occupation 'Modular Developers' in 2018-2020, then 'KW Commercial' with occupation 'Commercial Real Estate' by late 2020. All of her federal giving went to the Republican National Committee, matching this record's fec_partisan_lean of 0.019 across 8 contributions. Worth noting for the site: despite giving exclusively to the RNC federally, she gave $2,575 to Democrat Brigid Shea on 2022-02-10 — a cross-partisan local pattern consistent with the family's development and municipal-management-district business before Travis County. Industry reflects her most recent self-reported occupation (commercial real estate at KW Commercial).",
+  "source_url": "https://www.bbb.org/us/tx/austin/profile/modular-homes/hayes-modular-group-inc-0825-47113",
+  "affiliations": [
+   {"org": "Hayes Modular Group Inc", "role": "Director. The firm's Markets page states the U.S. military contracts with Hayes Modular to construct barracks and office space nationwide — a military construction contractor, with military one of six markets served. Recorded per instructions as a defense-contractor board member; her own reported occupation is modular development and commercial real estate.", "category": "military_defense", "source_url": "https://www.hayesmodular.com/markets/"},
+   {"org": "KW Commercial (Keller Williams Commercial)", "role": "commercial real estate (self-reported occupation on FEC filings from 2020)", "category": "business", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=HAYES%2C+KRISTINA&contributor_state=TX"},
+   {"org": "Republican National Committee", "role": "recurring donor (all federal giving 2018-2020)", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=HAYES%2C+KRISTINA&contributor_state=TX"}
+  ]
+ },
+ {
+  "donor_id": "tcv-44ca1f26-9a9a-478b-89b5-9412d3f59601",
+  "name": "Miller, Don",
+  "resolved_employer": "Westlake Surgical, L.P. / The Hospital at Westlake Medical Center — partner and president; also managing member of Westlake Entertainment LLC",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Don Rip Miller II of West Lake Hills (ZIP 78746, matching this donor's West Lake Hills 78746-5236) is identified in public filings as president and authorized official of The Hospital at Westlake Medical Center, the physician-owned boutique hospital operated by Westlake Surgical, L.P., and as managing member of Westlake Entertainment LLC at 5656 Bee Caves Rd. FEC records for 'MILLER II, DON' and 'MILLER, DON P.' at Austin ZIP 78746 list employer 'Westlake Surgical' and occupation 'Partner' (two $1,000 gifts to Republican John Carter for Congress in 2008-2009). Held at medium rather than high for two reasons: this donor record shows fec_donation_count=0, meaning the enrichment pipeline did not itself match those FEC rows (likely rejected on the 'II'/'P.' name variants), and the federal giving is Republican while this donor gave $2,530 to Democrat Ann Howard in 2022-2025 — not disqualifying given the 13-year gap and the different level of office, but not confirmatory either. The corroboration is the exact ZIP plus the distinctive West Lake Hills business footprint.",
+  "source_url": "https://npiprofile.com/npi/1043328198",
+  "affiliations": [
+   {"org": "Westlake Surgical, L.P. / The Hospital at Westlake Medical Center", "role": "partner and president (physician-owned hospital; filed for Chapter 11 in 2023)", "category": "business", "source_url": "https://www.westlakemedical.com/"}
+  ]
+ },
+ {
+  "donor_id": "tcv-838003cb-a13a-44b4-a395-dc057ad21d9f",
+  "name": "Brown, Eric",
+  "resolved_employer": "Nowhere, Inc. — programmer; previously self-employed product designer",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "FEC returns exactly four contributions for an Eric Brown at Austin ZIP 78737, matching this record on every available signal: exact ZIP, fec_donation_count=4, and fec_partisan_lean=1.0 (all Democratic — ActBlue and Priorities USA Action). Across those filings he self-reports employer 'Nowhere, Inc.' with occupation 'Programmer' (2021), 'Self'/'Self Employed' with occupation 'Product Designer' (2020), and 'Tech Company' with occupation 'Employee' (2019) — consistently a software/product professional, which supports the Technology classification. Gave $2,500 to Ann Howard in June 2025. Held at medium because the identification rests on FEC self-reported fields rather than a located public bio; 'Eric Brown' is common and no LinkedIn or company page could be tied to this specific individual.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=BROWN%2C+ERIC&contributor_zip=78737",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "ff2a3ca0-3098-465c-959b-501848a79a25",
+  "name": "McGhee, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78731 donor, gave to Watson and Ann Howard (82 FEC gifts, fully Democratic lean). A John McGhee is a healthcare-software sales exec (Leading Reach / HealthMark Group) with an Austin 78731 business address, but that is a company address, not a confirmed residence, and 'John McGhee' is a common name; cannot corroborate this is the same person.",
+  "source_url": "https://www.linkedin.com/in/john-mcghee-3765aa/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-249ca200-70df-4ab0-91f2-c9d3b896240e",
+  "name": "High, Joy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78765 donor to Travis County Commissioner Brigid Shea (1 FEC gift, Democratic lean). No occupation/employer given and no public web record could be matched to this specific person; not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-22329932-03e9-4112-aadf-29abd11af8ff",
+  "name": "Harwell, Carol",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Georgetown, TX 78626 donor to Brigid Shea; politically active (137 FEC gifts, ~0.96 Democratic lean). Name collides with a well-known Chicago political consultant/NAACP figure (Carol Harwell, Obama's 1996 campaign manager), but that person is Chicago-based and this identity is not confirmed for the Georgetown TX donor. No occupation on file; cannot corroborate.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "c05c4ebc-b3be-454e-ae37-b0bff87f41ba",
+  "name": "Garrett, Jeanie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78731 donor to Kirk Watson (1 FEC gift, Democratic lean). A Jeanie Garrett runs Grace Communications & Consulting (video/strategic communications) in the Austin area and is a UT Austin grad, which would fit Consulting/PR, but the name is not uncommon and no occupation is on file to corroborate this is the same individual.",
+  "source_url": "https://www.gracecommunicationsconsulting.com/jeanie-garrett",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6adae752-87d8-4139-9285-ceb475a3d1e4",
+  "name": "Nickle, Barbara",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78749 donor to Kirk Watson (109 FEC gifts, fully Democratic lean). No occupation on file and no public web record could be matched to this specific person (searches mostly return 'Barbara Nichols'); not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "0abd9c98-0b8c-416c-803b-2871dafa3d97",
+  "name": "Oswald, William",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78735 donor to Kirk Watson (only 10 FEC gifts, Republican-leaning lean 0.0). Multiple William/Bill Oswalds exist in Texas; no occupation on file and none could be confidently tied to this donor; not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3404f83c-e472-45e5-b9b5-4e21b5ac79e4",
+  "name": "Amy Pattillo Campaign",
+  "resolved_employer": "Candidate/campaign committee of Amy Pattillo; Pattillo is COO of AvecMode LLC, a former local elected official in Travis County, and serves on the CAMPO Transportation Policy Board and the Precinct 3 Citizens Bond Advisory Committee",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "This donor is a political campaign committee (not an individual), which redistributed funds to Travis County Commissioners Jeff Travillion, Ann Howard and Margaret Gomez in Nov 2021. Travis County records identify Amy Pattillo as COO of AvecMode LLC, a ~19-year business owner across legal/humanitarian/high-tech/event/transportation sectors, a former Travis County local elected official, and current CAMPO Transportation Policy Board member.",
+  "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/7-amy-pattillo",
+  "affiliations": []
+ },
+ {
+  "donor_id": "96d324ac-c954-4e34-b8bb-a2b14ab54e6a",
+  "name": "Ranus, Karen",
+  "resolved_employer": "NAMI Central Texas (National Alliance on Mental Illness) — Executive Director; mental-health advocate/strategist",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Austin 78729 donor to Kirk Watson (76 FEC gifts, fully Democratic lean). Karen Ranus is a well-documented Austin public figure: first Executive Director of NAMI Austin/NAMI Central Texas (from 2014), trauma-informed mental-health strategist, and member of the Travis County Behavioral Health Advisory Committee and Mayor's Health and Fitness Council board — squarely nonprofit/health advocacy.",
+  "source_url": "https://www.linkedin.com/in/karen-ranus-75342732/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-dad797d6-bf7f-47d0-b4f4-82a36e71361e",
+  "name": "O'Donnell, Denis",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78744 donor, single 2017 gift to George Morales; no FEC history, no occupation on file, and no public web record could be matched to this specific person; not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bea900e1-be19-4641-8022-73fc14cf1bde",
+  "name": "Cantu, Sylvia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78752 donor, single 2025 gift to George Morales; no FEC history, no occupation on file, and 'Sylvia Cantu' is a common name in the Austin area; not identifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "fecf7155-b544-4ec1-9e5b-b916006fe6ea",
+  "name": "Mehta, Pranjal",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78759 donor to Krista Laine (Texas House candidate); occupation/employer redacted as 'XXX'. The prominent academic Pranjal H. Mehta (social psychoneuroendocrinology) is a UT Austin PhD alum but is now a professor at University College London, so almost certainly NOT this Austin resident; no other match confirmable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e891beba-87ac-4efd-9295-550fde189a4b",
+  "name": "Bullock, Jan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78703 donor, single 2022 gift to Kirk Watson (74 FEC gifts, ~0.81 Democratic lean). Not the philanthropist Jan Bullock (widow of Lt. Gov. Bob Bullock, a Texas-history donor) on available evidence; no occupation on file and no confident match for this specific person.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

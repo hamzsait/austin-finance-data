@@ -1,0 +1,154 @@
+[
+ {
+  "donor_id": "cc563210-d116-4fe2-bf85-b2921133a0f1",
+  "name": "Henderson, Olivia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing carries no occupation or employer (both 'N/A') and the donor has no FEC history, leaving only a common name plus zip 78731 (Northwest Hills). Web searches surface an Austin artist named Olivia Henderson and an Olivia Henderson who is a Morgan Stanley investment-banking analyst (UT Austin McCombs grad, now Houston-based), but nothing ties either to the 78731 address or to a Watson contribution, so neither is claimed. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "cb71c641-a8e3-4374-92ba-5610f50d4929",
+  "name": "Edmonds, Brendan",
+  "resolved_employer": "Metric Point Capital (Founding Partner) - private capital advisory / placement agent",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Brendan Edmonds is a Founding Partner at Metric Point Capital and is based in Austin, TX per the firm's own team page, matching the filed employer 'Metric Point Capital'; his role covers distribution and relationship management, consistent with the filed occupation 'Sales'. Metric Point is a boutique private capital advisory firm founded in 2017 when Edmonds and two colleagues spun out of Atlantic-Pacific Capital; it raises institutional capital for alternative investment managers across buyout, growth equity, real estate and real assets, and is headquartered at 201 W 5th St, Austin 78701. He is FINRA-registered (CRD 4940382, listed as a broker at Metric Point Capital in Austin) and holds an MBA from UC Berkeley. Donor's 78703 is a residential Austin zip near the downtown office.",
+  "source_url": "https://metricpoint.com/team/brendan-edmonds",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ca3636b2-65df-4765-9799-a3eb72f75ff1",
+  "name": "Harper, Lauren",
+  "resolved_employer": "PROS Holdings, Inc. (business analyst) - Houston AI pricing / revenue-management software",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "A Lauren Harper works at PROS and is based in Houston with a University of Houston education per LinkedIn, matching the filed employer 'Pros' and occupation 'Business analyst' plus the Houston 77027 (Galleria-area) address. PROS Holdings (NYSE: PRO) is a Houston-headquartered enterprise software company founded in 1985 that pioneered airline pricing software and now sells AI-driven pricing and revenue-optimization SaaS; it agreed to be acquired by Thoma Bravo for ~$1.4B in September 2025. Confidence held at medium because LinkedIn returned HTTP 999 on direct fetch, so the title match rests on the search snippet rather than the full profile. Caution on the attached FEC record: 184 contributions at a near-even 0.53 partisan lean is an implausible profile for a single business analyst and likely reflects same-name collisions in the FEC match layer, so it was not used as corroboration.",
+  "source_url": "https://www.linkedin.com/in/lauren-harper-a5820a55/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c7e5673b-f322-43e5-8150-472a75a54c36",
+  "name": "Routh , Todd and Stephanie",
+  "resolved_employer": "Routh Group / Routh Development Group (CEO, managing partner) - Texas shopping-center and commercial real estate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Todd Routh is CEO of Routh Group per his LinkedIn headline, matching the filed employer 'Routh Group' and the 'Family office' occupation description. Since 1994 he has been managing partner of Routh Development Group, which per his A&M PAC trustee bio oversees 10.8 million sq ft of shopping centers across TX, LA and Oklahoma (116 properties); he founded Commercial Retail Group in 1992, holds a BBA in Finance and Real Estate from Texas A&M (1986) and a CCIM designation (1995), and has developed 1,500+ residential lots. His holdings extend well beyond real estate - founder/partner in a six-location funeral home business, a municipal water supply company, and six country clubs including Riverplace, Twin Creeks and Onion Creek in Austin and The Dominion in San Antonio - which is what the 'family office' filing likely reflects; Real Estate is coded as the dominant business. Austin-area residence (78733, Bee Cave/Westlake) is consistent with his Austin country-club and Capital City A&M Club involvement. His FEC lean of 0.03 across 13 gifts is strongly Republican, making the Watson gift cross-partisan. Also a US Army Reserve officer 1979-1989 - personal military service, not defense-industry work, so no military-defense flag.",
+  "source_url": "https://www.aggieleadershippac.com/board-of-trustees/todd-routh/",
+  "affiliations": [
+   {
+    "org": "A&M PAC (Aggie Leadership PAC)",
+    "role": "Board of Trustees",
+    "category": "political",
+    "source_url": "https://www.aggieleadershippac.com/board-of-trustees/todd-routh/"
+   },
+   {
+    "org": "Texas A&M Health Science Center Foundation Board",
+    "role": "Vice Chairman (2006-2014)",
+    "category": "civic",
+    "source_url": "https://www.aggieleadershippac.com/board-of-trustees/todd-routh/"
+   },
+   {
+    "org": "Central Texas Red Cross",
+    "role": "Board member (2002-2006)",
+    "category": "civic",
+    "source_url": "https://www.aggieleadershippac.com/board-of-trustees/todd-routh/"
+   }
+  ]
+ },
+ {
+  "donor_id": "c539350b-1ba0-4db0-a374-3820f06eb6e0",
+  "name": "Varner, Yonilda",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify an occupation. Both occupation and employer fields read 'requested', meaning the campaign never obtained them, and the filed zip 78762 is an Austin PO-box zip rather than a residential one, so location corroboration is unavailable. The name is rare and a Yonilda Varner appears as a guest on a faith-based podcast describing a move from California to Austin to support her mother, but that source establishes no employer or industry and cannot be confirmed as the same person. Her FEC record (7 gifts, partisan lean 1.0, i.e. entirely Democratic) is consistent with a Watson contribution but says nothing about occupation. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "c2111e3c-d050-46fd-bd7a-306c06d06761",
+  "name": "Jones, Johnita",
+  "resolved_employer": "ExxonMobil Pipeline Company - Vice President, Southern Operations Manager (retired Feb. 2022)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Johnita (Davis) Jones was appointed Vice President - Southern Operations Manager of ExxonMobil Pipeline Company in 2019 and served until retiring in February 2022; her LinkedIn headline reads 'RETIRED Vice President / Southern...' and lists Austin, TX, which matches the filed occupation string 'Vice President / Southern Operations Manager' with employer 'Retired' almost verbatim, and the March 2022 gift falls one month after her retirement. She earned a chemical engineering degree from Texas A&M in 1983 and spent her career at Exxon/ExxonMobil: facilities engineer with Exxon Company U.S.A. in Louisiana on oil-and-gas assignments (corrosion, project engineering, reservoir analysis), supervisory roles from 1990, Pipeline Risk and Integrity Manager 2001-2016, then Midstream Americas Engineering Manager in 2016. She now serves as a Director of The Association of Former Students (Texas A&M's alumni association). Coded Energy / Environment for the oil-and-gas pipeline career. Note her FEC lean of 0.0 across 2 gifts is Republican-leaning, making this Watson gift cross-partisan.",
+  "source_url": "https://www.linkedin.com/in/johnita-jones-3bb501ab/",
+  "affiliations": [
+   {
+    "org": "ExxonMobil Pipeline Company",
+    "role": "Vice President - Southern Operations Manager (2019-2022, retired); ~39-year Exxon/ExxonMobil career in oil and gas engineering and midstream operations",
+    "category": "oil_gas",
+    "source_url": "https://www.linkedin.com/in/johnita-jones-3bb501ab/"
+   },
+   {
+    "org": "The Association of Former Students (Texas A&M University)",
+    "role": "Director",
+    "category": "civic",
+    "source_url": "https://theorg.com/org/the-association-of-former-students/org-chart/johnita-davis-jones"
+   }
+  ]
+ },
+ {
+  "donor_id": "c21037f5-e310-4e4b-98a9-a29eb9b2a978",
+  "name": "Eberle, Paul",
+  "resolved_employer": "Husch Blackwell LLP - Chief Executive Officer (2009-Jan. 2024); now CEO of Catholic Charities, Archdiocese of Milwaukee",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Best match is Paul J. Eberle, chief executive of Am Law 100 firm Husch Blackwell, notable as the only leader of an Am Law 100 firm who is not a lawyer by training. His Titan 100 bio lists him in Milwaukee, WI, and Elm Grove (the filed city, 53122) is a Milwaukee suburb; a prior Whyte Hirschboeck Dudek bio ties him to St. Mary's Visitation parish in Elm Grove, and public-records aggregators list a Paul John Eberle in Elm Grove, WI with prior addresses in Irving, TX, Milwaukee, Kansas City, MO and Brookfield, WI - a footprint matching Husch Blackwell's office map. He led Whyte Hirschboeck Dudek from 2009, stayed on as chief executive when it combined with Husch Blackwell in 2016, retired in January 2024, and became CEO of Catholic Charities of the Archdiocese of Milwaukee that June; he previously founded Capital Data, Inc., a Milwaukee technology and leasing company. A Watson gift is plausible because Husch Blackwell maintains a substantial Austin office, but confidence is held at medium: the Elm Grove residence rests on data-broker records plus the parish reference rather than a single authoritative source, the filing lists occupation and employer as 'requested' (never obtained), and there is no FEC history to corroborate. Coded Legal for the law-firm chief executive role, though he is a business executive rather than a practicing attorney.",
+  "source_url": "https://wisconsin.thetitan100.com/wisconsin_titan_2024/paul-eberle/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1f3c04f-7997-4ad5-a688-4ab4d8a58d9a",
+  "name": "Foster, Barbara",
+  "resolved_employer": "Presidio Ranch LP (manager) - entity not identifiable from public sources",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm. The filed employer 'Presidio Ranch LP' with occupation 'Manager' returns no matching Texas entity in web-accessible sources; searches surface only unrelated namesakes (Presidio Investors, an Austin private equity firm; Presidio Austin/Hogg Ranch, a Transwestern development; Foster Farm & Ranch, a separate Texas land brokerage). OpenCorporates and OpenSecrets were CAPTCHA/403-blocked and the FEC API was rate-limited, so the donor's 135-contribution FEC record (partisan lean 0.63) could not be pulled to recover a self-reported employer. The entity name suggests a family land-holding partnership, and there is a Foster Ranch Rd in the donor's own 78735 zip, but neither is evidence, and 'Barbara Foster' is too common to resolve on name plus zip alone. No industry assigned rather than guessing Real Estate off the entity name. Worth revisiting once FEC lookups can be run.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "bffc812f-3654-42bd-9381-a3745cc80b49",
+  "name": "Alter, Savannah",
+  "resolved_employer": "Student (Stanford University BS candidate)",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "A Savannah Alter with a Behance portfolio lists herself as a 'BS Candidate - Stanford University' located in Austin, TX, with visual-art projects and a Creative Cloud membership dating to March 2020 - consistent with the filed occupation 'Student', no employer, and the Austin 78738 (Bee Cave/Lakeway) address. No FEC history. She gave to Ryan Alter, who won the District 5 council seat in December 2022, and the shared surname points to a family gift, but the relationship could not be established: Ryan Alter's published bio names his wife Rita and three young children (Aurora, Atticus, Alistair), so she is not his child, and no source connects them further. Industry coded Student on the strength of the occupation field plus the matching Austin student profile; confidence held at medium because the Behance profile carries no zip and the name match is the main link.",
+  "source_url": "https://www.behance.net/savannahalter",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bfeb9839-33c1-48ee-842c-af06368f6806",
+  "name": "Kruger, Lea",
+  "resolved_employer": "Kruger's Diamond Jewelers (co-owner) - historic downtown Austin jewelry store; also a practicing psychotherapist at the Austin Child Guidance Center",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Lea Kruger is the wife of David Kruger, the third-generation owner of Kruger's Diamond Jewelers, and they have three children (Emily, Ethan and Rachel, the fourth generation now in the business) - which corroborates the filed occupation 'Co-Owner' at employer 'Kruger's Jewelers'. She is separately listed as a psychotherapist at the Austin Child Guidance Center, and appears in ACGC donor listings identified with 'Kruger Jewelry Co. of Austin, Inc.', tying her to both roles. The store was founded in 1906 by immigrant watchmaker Sam Kruger and has stood at Congress Ave and 8th St in downtown Austin since 1939, celebrating 80 years in 2019. Coded Retail per the filed employer and her ownership role; a Healthcare coding would fit her clinical practice, but the filing points to the jewelry business. Donor zip 78731 is residential Austin; no FEC history. No AIPAC/ADL/pro-Israel, oil, gun or defense affiliations found - the Kruger family business is a long-standing Austin Jewish-founded institution, but no organizational role at any Jewish civic body turned up, so nothing is flagged.",
+  "source_url": "https://www.krugersjewelers.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf3a6917-00d9-4806-86a8-be7c5277e732",
+  "name": "Cahoon, Kell",
+  "resolved_employer": "F. K. Cahoon Partners LLC (manager) - loan-out/holding company for his television writing and producing work",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Kell Cahoon's LinkedIn profile lists him at 'F. K. Cahoon Partners LLC' in Austin, TX, an exact match to the filed employer and the 'manager' occupation, indicating a personal loan-out entity rather than an operating business. He is a television writer and producer known for Psych (13 episodes, 2008-2014, also consulting producer), The Larry Sanders Show, and Just Shoot Me!, and has written and directed for All-American Girl and Titus and created Method & Red. His Austin ties are corroborated by his appearance as a 2012 Austin Film Festival conference panelist, consistent with the 78703 (Clarksville/Tarrytown) address. FEC lean 0.03 across 3 gifts is Republican-leaning, making the Watson gift cross-partisan.",
+  "source_url": "https://www.imdb.com/name/nm0128730/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc91c3d0-2c63-4663-a46a-a898a5604f60",
+  "name": "Pierce, David",
+  "resolved_employer": "Parallel Company (co-founder / principal) - Austin student-housing and urban infill multifamily developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "David M. Pierce co-founded and leads Austin-based Parallel Company with Kristen Penrod, matching the filed employer 'Parallel Company' and occupation 'Real Estate Development'. Parallel was formed in 2016 after the sale of the University House Communities portfolio, where Pierce was EVP of Development and delivered roughly 11,000 beds of Class-A student housing over 12 years - key assets in the $1.4B University House/Scion Group transaction. The firm develops complex mid- and high-rise urban infill multifamily and student housing, including MUZE and Torre in Austin, Rev and Otto in College Station, and projects near Texas Tech; Pierce has 30+ years of design, development, construction and real estate experience and practiced as an architect for his first 14 years. Donor zip 78746 (Westlake) is a residential Austin-area zip consistent with an Austin-based developer principal.",
+  "source_url": "https://www.parallel-co.com/david-pierce",
+  "affiliations": []
+ }
+]

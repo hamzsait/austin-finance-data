@@ -1,0 +1,129 @@
+[
+ {
+  "donor_id": "3af89236-bd33-41f3-9b71-d95263da451d",
+  "name": "Whitfield, John",
+  "resolved_employer": "Owner, Group Solutions RJW / RJW Operations Inc. (Austin public-involvement & communications firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "John Whitfield is owner of Group Solutions RJW (RJW Operations Inc., 314 E. Highland Mall Blvd, Austin), a public-involvement/consensus-building firm that helps clients communicate and reach agreement with stakeholders on major planning/infrastructure issues. Name, city and firm all match the filing.",
+  "source_url": "https://rocketreach.co/john-whitfield-email_102410415",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3923eca7-1b8f-4e89-ab4c-9782baed1883",
+  "name": "Elkins, Antony",
+  "resolved_employer": "Vice President, Business Development (North America), Meridiam (infrastructure investment / public-private-partnership fund)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Tony (Antony) Elkins is VP Business Development for Meridiam, a private infrastructure investment/PPP firm; he also sits on the board of Austin's $11B+ transit program (Austin Transit Partnership) as chair of its Finance & Risk Advisory Subcommittee. Austin residence and Meridiam employer match the filing.",
+  "source_url": "https://rocketreach.co/tony-elkins-email_8392646",
+  "affiliations": [
+   {
+    "org": "Austin Transit Partnership (Project Connect)",
+    "role": "Board member / Finance & Risk Advisory Subcommittee chair",
+    "category": "civic",
+    "source_url": "https://rocketreach.co/tony-elkins-email_8392646"
+   }
+  ]
+ },
+ {
+  "donor_id": "34bb0b23-3694-400d-a001-746582d9d862",
+  "name": "Shang, Stephen",
+  "resolved_employer": "CEO & Co-Founder, Falcon Structures (Austin shipping-container structures manufacturer)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Stephen Shang co-founded Falcon Structures in 2003 and is its CEO; the company modifies shipping containers into buildings/portable structures and he serves on the Texas Industrialized Building Code Council. UT-Austin grad, lives in Austin. Name, city and employer match the filing.",
+  "source_url": "https://www.falconstructures.com/stephen-shang",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3366f402-6057-4c39-bc14-64e85e49de2b",
+  "name": "Qunell, Kerri",
+  "resolved_employer": "Chief Marketing Officer, Trinity Episcopal School (Austin) at time of gift; now Dir. of Marketing & Communications, The Texas Tribune",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Kerri Qunell was CMO of Trinity Episcopal School in Austin (Nov 2016-Aug 2022), matching the employer and 2022 gift date; a marketing/communications leader who has also worked at St. Edward's University, KEYE-TV, Dell and now the Texas Tribune. Name, city and employer match.",
+  "source_url": "https://theorg.com/org/the-texas-tribune/org-chart/kerri-qunell",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2f5a2525-38f8-41d1-bfbe-7950f6a9605c",
+  "name": "Parker, David",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Charlotte, NC (Myers Park 28207) donor listing occupation 'Investor' and employer 'CEI'. 'CEI' is too ambiguous to resolve and no Charlotte investor named David Parker at CEI could be confirmed; not identifying to avoid a wrong classification.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "261ab868-3be2-4c26-8004-1803084f05da",
+  "name": "Saldana, Amanda",
+  "resolved_employer": "General Counsel / Government Relations, Pathfinder Public Affairs (McAllen/Edinburg government-consulting & lobbying firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Amanda Saldana is an attorney and General Counsel at Pathfinder Public Affairs, a Rio Grande Valley government-relations/lobbying firm (1508 S. Lone Star Way, Edinburg 78539). Prior roles: House Democratic Caucus, Filemon Vela for Congress, Bill White for Texas. Name, Edinburg zip and employer match the filing.",
+  "source_url": "https://texaspathfinder.com/amanda-saldana/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "23c7bdbb-4275-4953-8af4-1a85d04abc5f",
+  "name": "Zimmerman, Noah",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Sebastopol, CA (95472) donor, manager at 'Delwau LLC'. A Noah Zimmerman is on record in Sebastopol 95472, but Delwau LLC could not be identified and his occupation/industry cannot be confirmed. Not classifying.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "19045962-3237-42ec-b0a1-0ab9a63d5afd",
+  "name": "Swafford, Leslie Libby",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78704 donor with no occupation/employer disclosed (NA). A Leslie/Libby name appears associated with attorney Robert R. Swafford at a 78704 Austin address, but her own occupation could not be confirmed. Not classifying.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "17a4158f-3ed6-40c6-8cdb-b570fe697fa9",
+  "name": "Strub, Mark",
+  "resolved_employer": "Founder/Realtor, STRUB (Strüb Residential Group / HAUS of STRÜB), Austin real estate brokerage & development",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Mark Strüb founded STRÜB Residential in 2007; the Austin-based firm (1212 Guadalupe St) does brokerage, property management and ground-up development and operates in the Round Rock/Austin metro. Filing employer 'STR?B' = STRÜB; Round Rock 78681 residence and real-estate occupation match.",
+  "source_url": "https://strub.com/meet-mark-strub/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0d933d5b-1037-4dd2-906f-5dabf8d552ae",
+  "name": "Yeats, Jordan",
+  "resolved_employer": "Sales Leader, UiPath (enterprise automation/AI software) at time of gift; now B2B Commercial Leader, Shopify",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jordan Yeats, Austin-based, spent ~4 years as a sales leader at UiPath (robotic process automation / AI software) before moving to Shopify. Name, city and UiPath employer match the 2022 filing.",
+  "source_url": "https://www.linkedin.com/in/jordanyeats/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0d11b0de-7b16-4e70-98da-c5623dde07dd",
+  "name": "Brandes, Judy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78730 donor; occupation and employer both listed as 'requested' (undisclosed). No corroborating public record for a Judy Brandes in this zip/occupation could be found. Not classifying.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "072ed872-dced-46aa-8f5b-53467a0994d1",
+  "name": "Vetters, Bethany",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78733 donor; occupation/employer 'Requested' (undisclosed). A Bethany Vetters is on record at Circleview Dr, Austin 78733 (zip matches), but no reliable current occupation/employer could be confirmed, so industry is left null.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

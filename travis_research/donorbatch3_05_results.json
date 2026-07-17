@@ -1,0 +1,178 @@
+[
+ {
+  "donor_id": "tcv-8c9e0606-8091-4c65-a47c-3b233d33bb27",
+  "name": "Montemayor, Patricia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. Public records confirm a Patricia (Ojeda) Montemayor resident in Laredo TX 78045, but nothing ties her to the filed 'VP'/self-employed occupation, to any business, or to George Morales III / Travis County. Montemayor is a very common Laredo surname and no Laredo-to-Austin business, family, or political link was found.",
+  "source_url": "https://www.spokeo.com/Patricia-Montemayor/Texas/Laredo/p2018020819507598048424006303033",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-86efd965-e624-400b-b228-a46fca4f2ac2",
+  "name": "Garza, Rudy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify: no zip, occupation, or employer on file, and at least five distinct real Austin-area Rudy Garzas exist (GarzaEMC engineering president and ex-Austin assistant city manager; G-51 Capital VC founder; Rudy D. Garza of CPS Energy/LCRA; Del Mar College regent; an Austin anesthesiologist). The GarzaEMC figure best fits the donation pattern but no hard link was found — no Rudy Garza appears in the City of Austin lobbyist registry. The 219-donation FEC name-match almost certainly aggregates several of these people and should not be trusted.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-30e20b0e-fcca-4d22-8a20-f0a7f70ceb71",
+  "name": "Hernandez, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. Established only what the filing already states: a Robert Hernandez in Austin 78723 gave $1,030 to Brigid Shea across 2021-2023 with no occupation or employer disclosed. Texas Ethics Commission lists, Austin/Travis County board rosters, and LinkedIn surfaced only non-matching Robert Hernandezes (an Austin Telco FCU president/CEO with no 78723 or donation link, a Dallas business owner, a photographer).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-23c67469-2ff4-48af-a301-a8bb86d3bb84",
+  "name": "Duncan, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify which John Duncan. The pattern is consistent with a genuine constituent — 6 recurring gifts totaling $1,030 to Ann Howard 2022-2025, and Pct 3 covers 78738 (Bee Cave/Lakeway/Spanish Oaks) — but no employer or occupation is on file and no John Duncan in 78738 surfaced in LinkedIn, Austin Business Journal, Lakeway/Bee Cave rosters, or TEC records.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-fc118759-dc60-4228-a222-1bda108e74fa",
+  "name": "Jane E. Sanders",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. No local Austin/Travis County Jane E. Sanders located in news, TEC/Travis County filings, or professional sources. Explicitly rejecting the Bernie Sanders' spouse hypothesis: nothing ties her to a Travis County commissioner race and a $1,000 gift to a local Texas county race would be highly anomalous. The 320 name-only FEC matches (lean 0.77) are near-certainly an aggregation of many distinct people.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f041ee2f-b21c-4d6b-b7a3-cf0dd0c999c0",
+  "name": "Coleman, Charles",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. Extremely common name with no zip or occupation on file. The well-known Charles F. Coleman Jr. (civil rights attorney) is Brooklyn-based with no Austin or Travillion connection; the sole Texas bar hit, Charles E. Coleman, was licensed in 1949 with no Austin locality. The 700 name-only FEC matches aggregate many people.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d7af6695-8778-45d6-909b-f1ce0e2adbbb",
+  "name": "Schwertner, James",
+  "resolved_employer": "Schwertner Farms, Inc. dba Capitol Land & Livestock — President/CEO (probable)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Probably Jim (James) Schwertner, President/CEO of Schwertner Farms Inc. dba Capitol Land & Livestock (one of the largest US cattle dealers, Williamson County) and Chairman of Schwertner State Bank; Texas State Directory lists him as 'Jim Schwertner' of Austin, matching the filing's 'Austin, TX', and the surname is rare and tightly tied to this Williamson County family. NOT confirmed: the 78641/Leander residence, and whether he gives to Democrats (his 15 FEC gifts lean 0.0/all-Republican, so the $1,000 to Democrat Ann Howard is an outlier). Industry left null: his core business is cattle trading/ranching and the taxonomy has no Agriculture label — 'Finance' (bank chairmanship) or 'Transportation' would each capture only a secondary role.",
+  "source_url": "https://www.txdirectory.com/online/person/?id=35139",
+  "affiliations": [
+   {
+    "org": "Texas A&M University System Board of Regents",
+    "role": "Regent 2009-2015, appointed by Gov. Rick Perry; chaired Policy Review Committee",
+    "category": "political",
+    "source_url": "https://www.txdirectory.com/online/person/?id=35139"
+   },
+   {
+    "org": "Schwertner State Bank",
+    "role": "Chairman of the Board",
+    "category": "business",
+    "source_url": "https://nbaa.org/about/leadership/board-of-directors/jim-schwertner/"
+   },
+   {
+    "org": "National Business Aviation Association (NBAA)",
+    "role": "Board of Directors (since 2013)",
+    "category": "business",
+    "source_url": "https://nbaa.org/about/leadership/board-of-directors/jim-schwertner/"
+   },
+   {
+    "org": "National Cattlemen's Beef Association / National Beef Board",
+    "role": "Former board service",
+    "category": "business",
+    "source_url": "https://nbaa.org/about/leadership/board-of-directors/jim-schwertner/"
+   },
+   {
+    "org": "Lockhart Livestock Auction and Mid Tex Livestock Auction",
+    "role": "Partner",
+    "category": "business",
+    "source_url": "https://www.txdirectory.com/online/person/?id=35139"
+   },
+   {
+    "org": "Seton Hospital Williamson Foundation",
+    "role": "Chairman, Board of Trustees",
+    "category": "civic",
+    "source_url": "https://www.txdirectory.com/online/person/?id=35139"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-d1613184-f988-4720-9390-117ae47e26ab",
+  "name": "cunningham, g",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. No LinkedIn, Utah business record, news item, or campaign-finance record matches a 'G Cunningham' in marketing at an employer named 'EV' in Salt Lake City 84121, and the donor has zero FEC history to corroborate against. 'EV' could not be resolved to any Utah entity; no Utah EV-sector company shows a Cunningham in marketing.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c69a1658-d0da-41d7-9bf6-2b434785227f",
+  "name": "Brisa R. McClure",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify despite the distinctive first name: no record surfaced in Austin/Texas news, LinkedIn, Travis County or Austin boards-and-commissions rosters, business/obituary records, or FollowTheMoney. The filing lists occupation and employer as literally 'Don't Know' with no zip, and FEC shows 0 donations, so no independent attribute exists to corroborate against.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c344ac70-d7c3-4e8b-b297-f6ebdbc17980",
+  "name": "Porter, Daniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. Extremely common name with no zip, occupation, or employer on file, leaving no attribute to corroborate. Austin-area and Ann Howard campaign coverage returned nothing; the only Texas 'Porter' megadonors surfaced were Michael and Mary Porter (Hill Country GOP), a different name. The 439 name-only FEC matches aggregate many individuals.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b84e255a-fa9f-4b62-92f3-f04d30da9374",
+  "name": "Molina, Rene",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. No FEC, news, LinkedIn, obituary, or state-filing record ties a Rene Molina in Houston 77041 to any prior career; his federal records list only 'Ret'. Two other Texas Rene Molinas surfaced (a stucco/masonry owner in 77449, an unrelated profile) but neither matches zip 77041 nor the retiree Democratic-donation pattern.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ae9399ec-f5d5-43a7-b688-c7afbdfa8b7c",
+  "name": "Harper, Alan",
+  "resolved_employer": "Lenders & Members Service Group, Inc. (Arlington, TX) — President (probable)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "FEC 2012 itemizations show 'ALAN HARPER (LENDERS & MEMBERS SERVICES, INC./PRESIDENT), zip 76016' giving $2,500 to the Republican Party of Texas — exact zip match to this donor — plus $300 to the RNC and $250 to AOPA PAC under 'L & M Service Group Inc./President of Financial Services' (76015, business zip). The heavily Republican federal pattern matches this donor's 27 gifts / 0.057 lean; the $1,000 to Democrat Jeff Travillion remains an unexplained outlier. The firm is a small Arlington financial/tax services company (Stanley K. Harper, CEO), apparently family-run.",
+  "source_url": "http://www.city-data.com/elec2/12/elec-ARLINGTON-TX-12-part2.html",
+  "affiliations": [
+   {
+    "org": "Republican Party of Texas",
+    "role": "Donor ($2,500, 2012)",
+    "category": "political",
+    "source_url": "http://www.city-data.com/elec2/12/elec-ARLINGTON-TX-12-part2.html"
+   },
+   {
+    "org": "Republican National Committee",
+    "role": "Donor ($300, 2012)",
+    "category": "political",
+    "source_url": "http://www.city-data.com/elec2/12/elec-ARLINGTON-TX-12-part2.html"
+   },
+   {
+    "org": "Aircraft Owners and Pilots Association (AOPA) PAC",
+    "role": "Donor ($250, 2012)",
+    "category": "business",
+    "source_url": "http://www.city-data.com/elec2/12/elec-ARLINGTON-TX-12-part2.html"
+   }
+  ]
+ }
+]

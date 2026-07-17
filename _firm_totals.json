@@ -1,0 +1,326 @@
+{
+  "austin": [
+    {
+      "name": "Kirk Watson",
+      "seat": "Mayor",
+      "recipient": "Watson, Kirk P.",
+      "endeavor": {
+        "total": 51413.72,
+        "n": 126,
+        "dmin": "2022-02-23",
+        "dmax": "2024-05-01"
+      },
+      "armbrust": {
+        "total": 38650.0,
+        "n": 96,
+        "dmin": "2022-02-23",
+        "dmax": "2024-06-28"
+      },
+      "combined": 90063.72,
+      "span_min": "2022-02-23",
+      "span_max": "2024-06-28"
+    },
+    {
+      "name": "Paige Ellis",
+      "seat": "District 8",
+      "recipient": "Ellis, Paige",
+      "endeavor": {
+        "total": 33297.69,
+        "n": 132,
+        "dmin": "2018-11-15",
+        "dmax": "2025-06-30"
+      },
+      "armbrust": {
+        "total": 24059.16,
+        "n": 68,
+        "dmin": "2018-11-14",
+        "dmax": "2025-06-16"
+      },
+      "combined": 57356.85,
+      "span_min": "2018-11-14",
+      "span_max": "2025-06-30"
+    },
+    {
+      "name": "Jos\u00e9 Vel\u00e1squez",
+      "seat": "District 3",
+      "recipient": "Velasquez, Jose",
+      "endeavor": {
+        "total": 21401.15,
+        "n": 54,
+        "dmin": "2022-09-28",
+        "dmax": "2026-04-12"
+      },
+      "armbrust": {
+        "total": 15716.42,
+        "n": 39,
+        "dmin": "2022-09-03",
+        "dmax": "2025-12-19"
+      },
+      "combined": 37117.57,
+      "span_min": "2022-09-03",
+      "span_max": "2026-04-12"
+    },
+    {
+      "name": "Zohaib 'Zo' Qadri",
+      "seat": "District 9",
+      "recipient": "Qadri, Zohaib",
+      "endeavor": {
+        "total": 17420.0,
+        "n": 52,
+        "dmin": "2024-03-05",
+        "dmax": "2024-03-28"
+      },
+      "armbrust": {
+        "total": 17750.0,
+        "n": 47,
+        "dmin": "2021-11-13",
+        "dmax": "2024-04-18"
+      },
+      "combined": 35170.0,
+      "span_min": "2021-11-13",
+      "span_max": "2024-04-18"
+    },
+    {
+      "name": "Vanessa Fuentes",
+      "seat": "District 2",
+      "recipient": "Fuentes, Vanessa",
+      "endeavor": {
+        "total": 19600.0,
+        "n": 56,
+        "dmin": "2023-12-14",
+        "dmax": "2023-12-20"
+      },
+      "armbrust": {
+        "total": 14450.0,
+        "n": 34,
+        "dmin": "2023-12-11",
+        "dmax": "2023-12-19"
+      },
+      "combined": 34050.0,
+      "span_min": "2023-12-11",
+      "span_max": "2023-12-20"
+    },
+    {
+      "name": "Ryan Alter",
+      "seat": "District 5",
+      "recipient": "Alter, Ryan",
+      "endeavor": {
+        "total": 18211.64,
+        "n": 44,
+        "dmin": "2022-06-08",
+        "dmax": "2026-03-25"
+      },
+      "armbrust": {
+        "total": 13225.0,
+        "n": 22,
+        "dmin": "2022-12-13",
+        "dmax": "2026-03-08"
+      },
+      "combined": 31436.64,
+      "span_min": "2022-06-08",
+      "span_max": "2026-03-25"
+    },
+    {
+      "name": "Jos\u00e9 'Chito' Vela",
+      "seat": "District 4",
+      "recipient": "Vela, Jose \"Chito\", III",
+      "endeavor": {
+        "total": 15897.82,
+        "n": 48,
+        "dmin": "2021-12-28",
+        "dmax": "2023-12-20"
+      },
+      "armbrust": {
+        "total": 12796.18,
+        "n": 35,
+        "dmin": "2021-12-23",
+        "dmax": "2024-07-26"
+      },
+      "combined": 28694.0,
+      "span_min": "2021-12-23",
+      "span_max": "2024-07-26"
+    },
+    {
+      "name": "Natasha Harper-Madison",
+      "seat": "District 1",
+      "recipient": "Harper-Madison, Natasha N.",
+      "endeavor": {
+        "total": 16049.78,
+        "n": 51,
+        "dmin": "2022-03-14",
+        "dmax": "2022-10-05"
+      },
+      "armbrust": {
+        "total": 10646.0,
+        "n": 32,
+        "dmin": "2018-12-05",
+        "dmax": "2022-10-21"
+      },
+      "combined": 26695.78,
+      "span_min": "2018-12-05",
+      "span_max": "2022-10-21"
+    },
+    {
+      "name": "Mike Siegel",
+      "seat": "District 7",
+      "recipient": "Siegel, Mike",
+      "endeavor": {
+        "total": 0.0,
+        "n": 0,
+        "dmin": null,
+        "dmax": null
+      },
+      "armbrust": {
+        "total": 18025.0,
+        "n": 48,
+        "dmin": "2023-11-09",
+        "dmax": "2025-12-19"
+      },
+      "combined": 18025.0,
+      "span_min": "2023-11-09",
+      "span_max": "2025-12-19"
+    },
+    {
+      "name": "Marc Duchen",
+      "seat": "District 10",
+      "recipient": "Duchen, Marc",
+      "endeavor": {
+        "total": 10066.0,
+        "n": 27,
+        "dmin": "2025-05-01",
+        "dmax": "2025-05-13"
+      },
+      "armbrust": {
+        "total": 6300.0,
+        "n": 14,
+        "dmin": "2025-04-23",
+        "dmax": "2025-04-28"
+      },
+      "combined": 16366.0,
+      "span_min": "2025-04-23",
+      "span_max": "2025-05-13"
+    },
+    {
+      "name": "Krista Laine",
+      "seat": "District 6",
+      "recipient": "Laine, Krista M.",
+      "endeavor": {
+        "total": 0.0,
+        "n": 0,
+        "dmin": null,
+        "dmax": null
+      },
+      "armbrust": {
+        "total": 0.0,
+        "n": 0,
+        "dmin": null,
+        "dmax": null
+      },
+      "combined": 0.0,
+      "span_min": null,
+      "span_max": null
+    }
+  ],
+  "travis": [
+    {
+      "name": "George Morales",
+      "seat": "Precinct 4",
+      "recipient": "Morales, George",
+      "endeavor": {
+        "total": 19683.67,
+        "n": 53,
+        "dmin": "2025-09-11",
+        "dmax": "2026-03-25"
+      },
+      "armbrust": {
+        "total": 14105.9,
+        "n": 6,
+        "dmin": "2022-03-24",
+        "dmax": "2026-03-04"
+      },
+      "combined": 33789.57,
+      "span_min": "2022-03-24",
+      "span_max": "2026-03-25"
+    },
+    {
+      "name": "Andy Brown",
+      "seat": "County Judge",
+      "recipient": "Brown, Andy",
+      "endeavor": {
+        "total": 20654.0,
+        "n": 83,
+        "dmin": "2021-07-30",
+        "dmax": "2025-09-21"
+      },
+      "armbrust": {
+        "total": 10000.0,
+        "n": 1,
+        "dmin": "2025-09-03",
+        "dmax": "2025-09-03"
+      },
+      "combined": 30654.0,
+      "span_min": "2021-07-30",
+      "span_max": "2025-09-21"
+    },
+    {
+      "name": "Brigid Shea",
+      "seat": "Precinct 2",
+      "recipient": "Shea, Brigid",
+      "endeavor": {
+        "total": 0.0,
+        "n": 0,
+        "dmin": null,
+        "dmax": null
+      },
+      "armbrust": {
+        "total": 15890.0,
+        "n": 5,
+        "dmin": "2021-12-26",
+        "dmax": "2025-06-02"
+      },
+      "combined": 15890.0,
+      "span_min": "2021-12-26",
+      "span_max": "2025-06-02"
+    },
+    {
+      "name": "Jeff Travillion",
+      "seat": "Precinct 1",
+      "recipient": "Travillion, Jeff",
+      "endeavor": {
+        "total": 0.0,
+        "n": 0,
+        "dmin": null,
+        "dmax": null
+      },
+      "armbrust": {
+        "total": 12500.0,
+        "n": 3,
+        "dmin": "2017-06-12",
+        "dmax": "2025-08-26"
+      },
+      "combined": 12500.0,
+      "span_min": "2017-06-12",
+      "span_max": "2025-08-26"
+    },
+    {
+      "name": "Ann Howard",
+      "seat": "Precinct 3",
+      "recipient": "Howard, Ann",
+      "endeavor": {
+        "total": 0.0,
+        "n": 0,
+        "dmin": null,
+        "dmax": null
+      },
+      "armbrust": {
+        "total": 5050.0,
+        "n": 3,
+        "dmin": "2021-10-21",
+        "dmax": "2024-10-14"
+      },
+      "combined": 5050.0,
+      "span_min": "2021-10-21",
+      "span_max": "2024-10-14"
+    }
+  ]
+}

@@ -19,7 +19,9 @@ cur = conn.cursor()
 
 merged = separated = skipped = 0
 for row in csv.DictReader(open(path, encoding="utf-8-sig")):
-    decision = (row["decision"] or "").strip().upper()
+    # explicit user decision wins; blank falls back to the agent's guess (v2 CSV)
+    decision = (row["decision"] or "").strip().upper() or \
+               (row.get("agent_guess") or "").strip().upper()
     if decision not in ("MERGE", "SEPARATE", ""):
         print(f"  ?? unknown decision '{row['decision']}' for {row['county_donor']} — skipped")
         skipped += 1

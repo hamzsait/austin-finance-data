@@ -1,0 +1,168 @@
+[
+ {
+  "donor_id": "8776a426-2955-45d3-b211-56136ae389a4",
+  "name": "Stevens, Don",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing self-reports 'CEO' at 'D-BAT Geogetown' (a D-BAT franchise baseball/softball academy at 101 Patriot Way, Georgetown TX) and 'Self - DJS Investments'. D-BAT is a Dallas-founded franchise system (145+ locations) but publishes no franchisee names, and no Texas 'DJS Investments' entity could be tied to a Don Stevens. A prominent Austin 'Don Stevens' exists — Principal/President of Public Affairs at JHL Company, a governmental-affairs firm — but he is affirmatively NOT this donor: his bio places him in Westlake (78746, not the filing's 78701) and describes a lobbying career with no baseball, investment, or CEO role. Rejecting that match leaves no corroborated identity.",
+  "source_url": "https://www.dugoutedge.com/batting-cages/tx/georgetown/d-bat-georgetown-georgetown-tx-bit6rw",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7cf92180-5b57-44ab-ba7b-d9d6a76e5e8f",
+  "name": "Nickler, Jeff",
+  "resolved_employer": "Oak View Group — President/SVP, OVG Austin and General Manager of Moody Center ATX (the UT-affiliated arena); previously SVP of OVG's Arena Alliance and GM of the BOK Center in Tulsa for 11 years",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Jeff Nickler was named GM of Austin's Moody Center in Dec 2020 and is President/SVP of Oak View Group's Austin operation, running the arena that opened in April 2022; he was Pollstar's 2024 Venue Executive of the Year and reports to OVG CEO Tim Leiweke. Both employer strings ('Oak View Group' and 'Oak View Group/Moody Center') and the occupations ('Executive', 'Management') match exactly, and the 2022-05 to 2024-08 giving window to Kirk Watson sits inside his Moody Center tenure; the 78746 West Lake Hills zip is consistent with an Austin arena executive.",
+  "source_url": "https://moodycenteratx.com/2021/09/01/moody-center-austins-new-live-music-and-sports-arena-solidifies-leadership-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a41fca1-574d-4992-8765-3e6b6e0454a8",
+  "name": "Ciano, Sandra",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing self-reports 'Fitness Professional' and employer 'Business Owner' — a generic string that names no resolvable business. Searches against Austin fitness/pilates/yoga studio rosters, trainer directories, and business listings returned no Sandra (or Sandi) Ciano in the Austin area. With no independent source confirming the person or a specific business, the self-reported occupation is the only evidence and is not enough to assign an industry.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "64d004fc-7645-4718-a769-5b5e8e279d18",
+  "name": "Graham, Will",
+  "resolved_employer": "Hungry Giant Waste Systems LLC — Manager/consultant; the company sells food-waste bio-grinders and bio-dehydrators plus its 'Plate2Farm' restaurant food-waste-to-biomass service",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Will Graham is listed on Hungry Giant Waste Systems' management team as a Manager, matching the filing's employer 'Hungry Giant' and occupations 'Consultant, Food Waste'. Hungry Giant is an Austin, TX-based food-waste recycling equipment and services firm, which corroborates the 78703 Austin zip. Held at medium: 'Will Graham' is a common name and the one public profile for him lists a Houston base rather than Austin, so the match rests on the distinctive employer string plus the food-waste occupation rather than on a confirmed Austin residence.",
+  "source_url": "https://hungrygiant.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f39e4b8-0908-485c-82b9-4a190cf9cc0f",
+  "name": "Fuentes, Adrian",
+  "resolved_employer": "Brady Electrical Contractors LLC (Brady, TX) — owner/principal, an electrical contracting firm BBB-accredited since 2003 at 407 W. Commerce St., Brady TX 76825",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Adrian Fuentes is identified as an owner/principal of Brady Electrical Contractors in Brady, Texas alongside Carlos Fuentes, and holds a contractor listing under his own name in Brady. The filing's employer 'Brady Electric', occupation 'Owner', and the 76825 Brady zip all line up exactly. Note the giving pattern: he is a Brady (McCulloch County) resident giving to Austin council member Vanessa Fuentes across 2020-2023 with a strongly Democratic federal donation history (36 FEC gifts, 0.85 lean), consistent with a family or personal tie rather than an Austin business interest.",
+  "source_url": "https://www.bbb.org/us/tx/brady/profile/electrician/brady-electrical-contractors-1055-11723",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5165221c-eb0c-4d14-83de-ff35403b37c9",
+  "name": "Shiu, Daniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing self-reports 'Private Practice'/'Physician' in San Antonio 78209 (Alamo Heights). A full NPPES NPI registry query for the surname Shiu in Texas returns only two providers — Valerie Fisher Shiu, MD (dermatologist/Mohs surgeon, San Antonio) and Ching Yi Shiu (pharmacist, Windcrest) — with no Daniel Shiu at all, so the self-reported physician claim cannot be verified against the federal provider registry. He may be a spouse or relative of Dr. Valerie Shiu, whose San Antonio practice is near this zip, but nothing public establishes that link. Deliberately not classified as Healthcare on an unverifiable self-report.",
+  "source_url": "https://npiregistry.cms.hhs.gov/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "44321531-0d29-4649-b86d-92b2afad7608",
+  "name": "Trigger, Jeff",
+  "resolved_employer": "La Corsha Hospitality Group — Founder and President; Austin-based luxury hotel/restaurant management and consulting firm (the Driskill, San Antonio's Saint Anthony, Marfa's Hotel Saint George, Hotel Settles)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Jeff Trigger, a 40-year hotel industry veteran, founded La Corsha Hospitality Group in Austin in early 2006 and serves as its President; the firm specializes in luxury hotels and restoring historic properties. The filing's employer string and 'Hotel Management' occupation match exactly, and he has lived in Austin since 1999, consistent with the 78746 zip. Notably civic-embedded in the exact orbit of the candidate he gave to (Kirk Watson): chair emeritus of the Texas Hotel & Lodging Association, the Downtown Austin Alliance, ECHO (Ending Community Homelessness Coalition), and First Night Austin.",
+  "source_url": "http://www.lacorsha.com/about",
+  "affiliations": [
+   {
+    "org": "Downtown Austin Alliance",
+    "role": "Chair Emeritus — downtown property-owner business advocacy organization",
+    "category": "business",
+    "source_url": "http://www.lacorsha.com/about"
+   },
+   {
+    "org": "Texas Hotel & Lodging Association",
+    "role": "Chair Emeritus — statewide hospitality industry trade/lobbying association",
+    "category": "business",
+    "source_url": "http://www.lacorsha.com/about"
+   },
+   {
+    "org": "ECHO (Ending Community Homelessness Coalition)",
+    "role": "Chair Emeritus",
+    "category": "civic",
+    "source_url": "http://www.lacorsha.com/about"
+   }
+  ]
+ },
+ {
+  "donor_id": "3e088b2b-b605-47ff-a122-8e89ad3fbc4c",
+  "name": "Samuels, Marc",
+  "resolved_employer": "ADVI Health, LLC — Founder and CEO; healthcare/life-sciences advisory and consulting firm serving pharma, digital health, and provider clients. Previously a partner at HillCo Partners (Austin public affairs/lobbying) and Chief of Staff to Texas Medicaid",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Marc B. Samuels (JD, University of Texas; MPH, Yale) is founder and CEO of ADVI Health, a healthcare and life-sciences consultancy, and is publicly associated with Austin as one of his bases. He spent roughly 10 years in public-sector healthcare, advising George H.W. Bush and then-Gov. George W. Bush on health policy and serving as Chief of Staff to Texas Medicaid, and was previously a partner at Austin lobbying firm HillCo Partners. The filing's employer 'ADVI Health LLC' and occupation 'Consultant' match exactly, and the 78733 Austin zip is consistent with his stated Austin base. Classified Healthcare rather than Consulting/PR because the firm operates wholly within the health/life-sciences sector.",
+  "source_url": "https://www.advi.com/people/marc-samuels/",
+  "affiliations": [
+   {
+    "org": "Alliance for Health Policy",
+    "role": "Board member — nonpartisan health policy nonprofit",
+    "category": "civic",
+    "source_url": "https://www.allhealthpolicy.org/news/alliance-for-health-policy-announces-two-board-members-and-names-new-board-leadership"
+   }
+  ]
+ },
+ {
+  "donor_id": "372f0d7a-665b-4bb5-b548-6cfb02f36ece",
+  "name": "Rathgeber, Julia",
+  "resolved_employer": "Berkshire Hathaway Energy — VP of Governmental & Regulatory Relations and Business Development (approx. 2022-2024) at the time of these gifts; since Feb 2024 Vice Chancellor for Governmental Relations, University of Texas System (retired from BHE role)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Julia Jeffrey Rathgeber is registered on Texas Legislature witness lists for the 88th session (2023) literally as 'Rathgeber, Julia VP (Berkshire Hathaway Energy), Austin', confirming employer, title, and Austin base against the filing's 'Betkshire Hathaway Energy' (misspelled) and 'VP, gov and regulatory issues and economic develop'. Her 2022 gifts to Kirk Watson fall inside her ~two-year BHE tenure, and the 78746 zip fits. She has 30+ years in Texas government, including senior roles in the Governor's, Lt. Governor's, and Speaker's offices, and left BHE for UT System in Feb 2024. Industry recorded as of the donation-era employer.",
+  "source_url": "https://capitol.texas.gov/tlodocs/88R/witlistmtg/pdf/C5102023032308001.PDF",
+  "affiliations": [
+   {
+    "org": "Berkshire Hathaway Energy",
+    "role": "VP, Governmental & Regulatory Relations and Business Development (~2022-2024) — registered lobbying/regulatory representative before the Texas Legislature. BHE is a diversified energy holding company: predominantly regulated electric/gas utilities and renewables, but it also owns major interstate natural-gas pipelines (Northern Natural Gas, Kern River). Flagged as fossil-energy-adjacent rather than an oil & gas exploration/production tie — she is a government-affairs executive, not an oil & gas operator.",
+    "category": "oil_gas",
+    "source_url": "https://capitol.texas.gov/tlodocs/88R/witlistmtg/pdf/C5102023032308001.PDF"
+   }
+  ]
+ },
+ {
+  "donor_id": "2ec46eba-622d-41b9-a49f-559899fca18e",
+  "name": "Wenske, Catherine",
+  "resolved_employer": "Wendow Fine Living — Owner; home-furnishings boutique at 1512 W 35th St Cutoff, Austin, dealing in 18th/19th-century antiques, custom textiles, lighting, and industrial salvage (~7 employees)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Catherine Wenske is listed across LinkedIn, ZoomInfo, and the company's own site as Owner of Wendow Fine Living, matching the filing's employer string and 'Owner' occupation exactly. The shop sits at 1512 W 35th St Cutoff in the Tarrytown/Bryker Woods area, directly corroborating the donor's 78703 zip. The store was originally opened by Shannon Dyer Dowell in 2007 and specializes in high-end furnishings.",
+  "source_url": "http://www.wendowfineliving.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2c1d95c5-32b9-4fcf-a8b6-0384cd172d4a",
+  "name": "Eakin, Kandace",
+  "resolved_employer": "Dennis Eakin Kia (Killeen, TX) — family-owned Kia dealership serving the Killeen/Fort Hood/Austin corridor since 1987; Kandace Eakin is co-owner/family principal (filing occupation 'Marketing')",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Kandace Eakin is the wife of Dennis Eakin, founder of Dennis Eakin Kia — the dealership's founder profile records that Dennis met Kandace in 1968 while she was a senior at TCU and he was an instructor pilot at Ft. Wolters, and that he became one of the first Kia dealers in Texas in 1994. The filing's employer 'Dennis Eakin Kia' and occupations 'Marketing, auto' fit her role in the family business. Held at medium because the dealership is in Killeen while the donor zip is 78701 (downtown Austin) — plausible as a residence or second home, and the dealership explicitly markets into Austin, but the Austin address is not independently confirmed. Note: the founder profile says Dennis has sold his other stores and a daughter now runs the Kia store.",
+  "source_url": "https://www.foundersfirm.com/founder-profiles-1/2017/3/2/interview-dennis-eakin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1dcce454-d695-42d2-9156-eed81a2ab496",
+  "name": "Young Brown, Patricia",
+  "resolved_employer": "Design Run Group, LLC — Partner/Chief Partnerships Officer, a mission-driven venture studio building health companies serving vulnerable communities in Texas; founding President & CEO of Central Health, the Travis County Healthcare District (2004-2016), then CEO of Thinkery (2017)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Patricia 'Trish' Young Brown was the inaugural and only President/CEO in Central Health's first 12 years — the Travis County Healthcare District created by voters in May 2004 — retiring in late 2016 and moving to the Thinkery children's museum in January 2017; she is now a partner at Design Run Group, a health-focused venture studio, matching the filing's employer string and 'Chief Partnerships Officer' title. The 78746 zip and her 20+ years leading Austin healthcare and community organizations corroborate. Directly relevant to this dataset: she ran the county healthcare district and gave to Kirk Watson.",
+  "source_url": "https://www.centralhealth.net/central-health-president-ceo-retire-end-year/",
+  "affiliations": [
+   {
+    "org": "Central Health (Travis County Healthcare District)",
+    "role": "Founding President & CEO, 2004-2016 — the county's public healthcare district, funded by a dedicated property tax levied by Travis County Commissioners Court",
+    "category": "civic",
+    "source_url": "https://www.centralhealth.net/central-health-president-ceo-retire-end-year/"
+   },
+   {
+    "org": "Integral Care (Austin Travis County Integral Care)",
+    "role": "Trustee — the local mental health/IDD authority",
+    "category": "civic",
+    "source_url": "https://integralcare.org/en/people/"
+   }
+  ]
+ }
+]

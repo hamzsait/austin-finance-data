@@ -1,0 +1,129 @@
+[
+ {
+  "donor_id": "42092a88-366b-4375-9593-f80d43371bbd",
+  "name": "Cody, Madeline",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing carries no occupation or employer ('NA'/'N/A'), so there is no self-reported detail to corroborate, and there are no federal gifts to cross-reference. A Madeleine Cody, PA-C practices emergency medicine in Austin, but her listed office is 78730 and nothing ties her to the donor's 78703 address or to this single $450 gift to Ryan Alter. No classification asserted.",
+  "source_url": "https://www.healthgrades.com/providers/madeleine-cody-323pt",
+  "affiliations": []
+ },
+ {
+  "donor_id": "41b51c49-1e06-4ba3-a5ae-6abfec736db5",
+  "name": "Maseredjian, John",
+  "resolved_employer": "JJM Holdings (self-reported, unverifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Person probably identified but industry not assertable. Public records place a John J. Maseredjian at 5239 Bubbling Well Ln, La Canada Flintridge, CA 91011 — an exact match to the donor's zip — and 'JJM' matches his initials, suggesting a personal holding entity; no California registry or web footprint for a 'JJM Holdings' in La Canada was found. A John Maseredjian (Chapman University, prior PR work in Shanghai) appears as VP of JohnHart Real Estate in the Los Angeles area and, per LinkedIn, later as SVP at inKind, an Austin restaurant-capital/hospitality company — which would explain a Los Angeles-county resident giving to a Travis County commissioner race (Krista Laine, June 2024). Career reads as real estate then hospitality finance, and the self-reported employer corroborates neither, so no industry assigned.",
+  "source_url": "https://www.linkedin.com/in/maser/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "40a9cf5f-91ad-4147-8216-894e5c8a317d",
+  "name": "Huffman, Kent",
+  "resolved_employer": "Phoenix-Lamar Corporation — President/Owner",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "President and owner of Phoenix-Lamar Corporation, an Austin electronics manufacturer (founded 1972 by Maitland Huffman) making custom molded cable assemblies, coaxial cables and wire harnesses for computer, instrument, telecom and medical OEMs; ~$7M revenue, small workforce. Corroborated by the filing's own employer string ('Phoenix-Lamar Corp') and occupation ('President'), by his company email khuffman@phoenix-lamar.com, and by two LinkedIn profiles listing him as President/Owner. Donor zip 78759 is residential; the company operates in north Austin (8868 Research Blvd / 1515 Dungan Ln).",
+  "source_url": "https://www.linkedin.com/in/kent-huffman-63594719/",
+  "affiliations": [
+   {
+    "org": "Phoenix-Lamar Corporation",
+    "role": "President/Owner of an electronics manufacturer that industrial directory listings describe as producing military cable assemblies and as ITAR-registered / AS9100, serving avionics, aerospace, radar and defense markets — NOTE: unverified, the ThomasNet profile could not be retrieved directly (HTTP 403) and the company's own About page lists only commercial, medical, telecom and instrumentation markets with no defense mention. Flagged as a lead, not an established affiliation.",
+    "category": "military_defense",
+    "source_url": "https://www.thomasnet.com/company/phoenix-lamar-corp-72205/profile"
+   }
+  ]
+ },
+ {
+  "donor_id": "3dfd1c2a-bd2f-406c-9102-0bb3d168e30a",
+  "name": "Foor, David",
+  "resolved_employer": "InTown Homes — VP of land acquisition (per filing); now SVP at Lovett Commercial",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Houston real-estate development executive. Reported in trade press as vice president of land acquisition for Houston-based luxury townhome developer InTown Homes, which builds in Houston, Dallas and Austin — matching the filing's employer string ('Intown Homes') and occupation ('Real Estate') and explaining an Austin council gift (Vanessa Fuentes) from a Houston 77002 address. His LinkedIn and ZoomInfo now list him as SVP at Lovett Commercial, a Houston commercial real-estate firm; earlier Director of Acquisitions at Cedarwood Development. Both employers are real-estate development, so the classification holds either way.",
+  "source_url": "https://communityimpact.com/austin/round-rock-pflugerville-hutto/development-construction/2017/02/06/stakeholders-hopeful-round-rock-townhomes-will-boost-area/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d74ce32-5cb7-48f9-ba9f-a6fbe91860eb",
+  "name": "Farrell, Mark and Lori",
+  "resolved_employer": "Presidium Group — President of Development (now President of Development Emeritus)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Mark T. Farrell joined Presidium Group — a Dallas/Austin multifamily developer and operator with ~$2.6B AUM — as President of Development in January 2019, and is now President of Development Emeritus. 36 years in the industry: 17 years at The Vestcor Companies ending as President/CEO (developed 7,000+ apartments), then founder of Killashee Investments, a Ponte Vedra Beach commercial/multifamily advisory firm — which corroborates the donor's Ponte Vedra Beach 32082 address, and Presidium's Austin presence explains the gift to Austin council member Jose Velasquez. Note the filing has the fields swapped: occupation reads 'Presidium' and employer reads 'Executive'. CPA; licensed real-estate broker in FL, NC, GA, IN.",
+  "source_url": "https://multistory.media/2019/01/mark-t-farrell-joins-presidium-group-as-president-of-development/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d3af3e4-a13e-4d1e-b584-2f626a5a9e1e",
+  "name": "Byerly, Alexandra",
+  "resolved_employer": "Wilson Sonsini Goodrich & Rosati — attorney recruiting",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Works in attorney recruiting at Wilson Sonsini Goodrich & Rosati's Austin office; University of Texas at Austin educated. Her LinkedIn profile lists exactly the filing's employer ('Wilson Sonsini') and role ('Legal Recruiter'), and places her in Austin, consistent with the donor's 78703 address and the gift to Kirk Watson.",
+  "source_url": "https://www.linkedin.com/in/alexandrabyerly1",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ca9687a-d1c1-464c-accd-b3df72994356",
+  "name": "Meade Jr, Mark",
+  "resolved_employer": "UTA (self-reported) — student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Classification rests ONLY on the donor's own disclosure (occupation 'Student', employer 'UTA', i.e. UT Arlington). No web, directory or news footprint confirms a Mark Meade Jr. in Austin 78739. Nikelle Meade, a prominent Austin land-use attorney at Husch Blackwell, appears in FEC records at the same 78739 zip, raising a possible family tie, but nothing links her to this donor and the suffix 'Jr' is not explained by any source. The 154 federal gifts attributed to this record are inconsistent with a student and likely reflect loose name matching, so they are not treated as corroboration.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "3c692a63-15c7-41c0-b3f3-5a1df5b415ed",
+  "name": "Clary, Sarah",
+  "resolved_employer": "Omaze (self-reported, uncorroborated)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not confidently identified. 'Sarah Clary' returns several distinct people — a New York stylist/creative director, an Austin marketing lead at Switch Energy Alliance, a Hamilton Beach product manager — and none is tied to Omaze or to the donor's 78704 address. Omaze itself is a for-profit online sweepstakes platform that runs charity prize campaigns (including an Austin dream-house giveaway), which fits the reported 'Events' occupation, but since the person cannot be pinned down and Omaze straddles media/fundraising/events, no industry is asserted.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ac9a892-1c08-496c-a9b6-c719f4135444",
+  "name": "Carvalho, Pedro",
+  "resolved_employer": "The Far Out Lounge & Stage — co-owner",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Co-owner of The Far Out Lounge & Stage, the South Austin bar and outdoor music venue at 8504 S. Congress, which he and Bay Anthon opened in 2019 in a building dating to 1908. A longtime Austin musician, he expanded the venue's booking to acts including Bikini Kill, Courtney Barnett and Kurt Vile. Matches the filing exactly (occupation 'Owner', employer 'The Far Out Lounge'); his LinkedIn lists 'Bar/venue Owner at The Far Out Lounge'. Donor zip 78723 is residential, not the venue.",
+  "source_url": "https://communityimpact.com/austin/southwest-austin-dripping-springs/business/2021/09/24/far-out-lounge-owner-of-venue-with-history-hopes-to-keep-south-austin-spirit-alive/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ab8dde2-4ff8-4455-96ec-c27281990944",
+  "name": "Ruby, Douglas",
+  "resolved_employer": "ATX 1031 — Founder",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Founded ATX 1031, an Austin qualified-intermediary firm handling forward, reverse and construction 1031 exchanges (capital-gains deferral on investment property), in November 2022 — shortly before this June 2024 gift to Kirk Watson. An experienced Texas real-estate broker and UT-Austin graduate; previously President of Summit 1031 Exchange (1996–2009), founder of Homefront Tax Loans, and in commercial real estate at Cresa and Key Title Group. Matches the filing's employer ('ATX 1031') and occupation ('Founder'); his firm contact is dougruby@atx1031.com.",
+  "source_url": "https://www.linkedin.com/in/doug-ruby-430a282/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "394d3d81-a022-46df-a563-bf604bf724c2",
+  "name": "Garber, Scott",
+  "resolved_employer": "A24 — Head of Information Technology & Cybersecurity",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Head of Information Technology and Cybersecurity at A24, the independent film and television studio; joined as consulting director of IT in 2013 and moved into the IT/cybersecurity lead role in 2021. B.S. in computer science, George Washington University. Address records associate a Scott Garber with Fir Court in Norwood, NJ 07648, matching the donor's zip. Classified by employer — A24 is a film studio — though the filing's self-reported 'Technology' accurately describes his function within it.",
+  "source_url": "https://www.linkedin.com/in/scott-garber-aa69933/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "393c1bf9-cda7-4059-a396-8e927e8af768",
+  "name": "Kucera, Gerald",
+  "resolved_employer": "The Kucera Companies / Kucera Management, Inc. — Founder",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Founder of The Kucera Companies, an Austin-headquartered commercial real-estate development and investment management firm operating since 1976 (he began in real estate in 1972) with 40+ employees and a portfolio exceeding 7 million sq ft of office and retail; active in Texas, other U.S. markets and Europe. Matches the filing's employer ('Kucera Management, Inc.' — a BBB-listed Austin real-estate entity) and occupation ('Real Estate Management'); the firm's address, 7200 N MoPac Expy Ste 400, is in the donor's exact 78731 zip.",
+  "source_url": "https://www.kuceraco.com/team/detail/gerald-kucera",
+  "affiliations": []
+ }
+]

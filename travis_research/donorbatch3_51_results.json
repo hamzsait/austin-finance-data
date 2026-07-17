@@ -1,0 +1,128 @@
+[
+ {
+  "donor_id": "91eeab5e-7ab3-4ca3-a91b-be66d6451ea9",
+  "name": "Jackson, Clark",
+  "resolved_employer": "Manager, Spillar Custom Hitches (Austin/South I-35 truck-accessory & trailer-hitch retail shop)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Spillar Custom Hitches is a long-established Austin truck-accessory and trailer-hitch retail/installation shop on South I-35; the filing's employer ('Spillar Custom Hitches') and occupation ('manager') are internally consistent, and Manchaca/78652 is a South-Austin zip adjacent to the shop's service area. Could not independently pin the specific individual named Clark Jackson beyond the employer match, so confidence is medium. Gave $400 to Kirk Watson; a single FEC gift at partisan_lean 1.0 (Democratic).",
+  "source_url": "https://www.yelp.com/biz/spillar-custom-hitches-austin-3",
+  "affiliations": []
+ },
+ {
+  "donor_id": "91b5175b-2f12-4d29-bcc1-92fffd402b22",
+  "name": "Galindo, Angela",
+  "resolved_employer": "Galindo Group (Bryan, TX land-development / construction / property-management firm) — filing lists occupation 'Executive assistant'",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "The Galindo Group is a Bryan-area real-estate development, construction and management firm headquartered at 1920 W Villa Maria Rd, Bryan TX 77807 — an exact match to the donor zip 77807, and Angela Galindo appears associated with the firm in professional listings. Industry follows the employer (real-estate development) regardless of her 'Executive assistant' role. A prolific federal donor: 148 FEC gifts at partisan_lean 1.0 (uniformly Democratic). Gave $400 to Austin council member Natasha Harper-Madison.",
+  "source_url": "https://www.linkedin.com/in/angela-galindo-40693817/",
+  "affiliations": [],
+  "interest_tags": "real-estate-development"
+ },
+ {
+  "donor_id": "916c0d95-bfaf-4661-a240-db40c91f6685",
+  "name": "Reimers, Brandy",
+  "resolved_employer": "Licensed real-estate agent, Compass RE Texas (Austin) — filing self-reported 'Stay at home mom' / employer 'None'",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Todd E. and Brandy M. Reimers appear on Tarrytown property records in Austin 78703 (exact zip match); a Brandy Reimers is a licensed Compass RE Texas agent active in Austin luxury/Tarrytown listings and renovations. Because the filing itself reported 'Stay at home mom' / employer 'None', the Real Estate classification rests on her verified professional identity rather than the filing text — hence medium confidence and a noted discrepancy. Gave $400 to Kirk Watson; no FEC history.",
+  "source_url": "https://www.compass.com/agents/brandy-reimers/",
+  "affiliations": [],
+  "interest_tags": "luxury-real-estate"
+ },
+ {
+  "donor_id": "9115f1d1-5b19-4c32-b152-f43170671144",
+  "name": "Mauro, Katherine",
+  "resolved_employer": "Senior Field Access Manager, Takeda Pharmaceutical (patient-access / reimbursement, OnePath patient services)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "A Katherine Mauro is listed as a Senior Field Access Manager at Takeda Pharmaceutical, specializing in patient access and reimbursement — an exact match to the filing's occupation ('Patient Access Manager') and employer ('Takeda Pharmaceutical'). Field-access roles are territory-based, consistent with an Austin 78703 residence. Gave $400 to Kirk Watson; 10 FEC gifts at partisan_lean 1.0 (strongly Democratic).",
+  "source_url": "https://www.zoominfo.com/p/Katherine-Mauro/1850321091",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8e536312-6e2c-418d-bd8e-1047e67df280",
+  "name": "Jessup, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing provided no occupation or employer ('requested'), and 'Lisa Jessup' is a common name with no West Lake Hills / 78746-specific match that can be corroborated. Cannot confirm the specific person, so industry is left null. Gave $400 to Kirk Watson; 17 FEC gifts at partisan_lean 0.005 (Democratic federally).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d690225-e11e-46c4-b000-d52e2c317c7c",
+  "name": "Sathyasuba, Baskaran",
+  "resolved_employer": "Panduit (network-infrastructure / electrical-components manufacturer, Chicago area)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "The filing states employer 'panduit'; Panduit is a network-infrastructure and electrical-components manufacturer headquartered in Tinley Park, IL, and a Sathyasuba household is confirmed in Naperville 60564 (a Chicago suburb), matching the donor location. The individual's exact role at Panduit could not be located, so confidence is medium. An out-of-state donor to Austin's Kirk Watson; no FEC history (count 0, lean null). Part of a small Chicago-area Indian-American professional cluster giving to Watson (see also 'Kuppan, Mrs. Baskaran').",
+  "source_url": "https://www.panduit.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8a42bd2f-dca2-4e16-b71b-57d9ea6c1150",
+  "name": "Whitworth, Scott",
+  "resolved_employer": "Founder & Managing Partner (CEO), WM Capital Partners — Austin-based alternative-investment firm (private equity / venture / real assets), founded 2008",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Scott Whitworth is Founder & Managing Partner of WM Capital Partners, an Austin alternative-investment firm; his background includes a Goldman Sachs VP role, a Cravath associate stint, and a Georgetown JD. Matches the filing's occupation ('CEO') and employer ('WM Capital Partners') and Austin 78701. Gave $400 to Kirk Watson; 3 FEC gifts at partisan_lean 0.0 (Republican federally), which sits oddly against a Watson gift.",
+  "source_url": "https://www.linkedin.com/in/scott-whitworth-2a014642",
+  "affiliations": [],
+  "interest_tags": "private-equity"
+ },
+ {
+  "donor_id": "893eb39c-9950-460c-a207-57c96cbc7fe8",
+  "name": "Miller, Jennifer",
+  "resolved_employer": "Brand Manager / consultative media sales, NextTribe (Austin-based digital magazine & events brand for women 45+)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "A Jennifer Miller is listed in a brand-management/sales role at NextTribe, an Austin digital-media and events brand aimed at women over 45, with a background in media/publishing consultative sales — matching the filing's occupation ('Sales') and employer ('NextTribe') and Austin 78732. 'Jennifer Miller' is a very common name, so confidence is medium. Gave $400 to Kirk Watson; no FEC history.",
+  "source_url": "https://www.zoominfo.com/p/Jennifer-Miller/7188391182",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8841f66d-24cc-48d0-87e5-c6bae09170d5",
+  "name": "Pound, Ashley",
+  "resolved_employer": "Supervisor, Marketplace Billing (later Deal Strategy Manager), MongoDB — database-technology company with an Austin office",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "An Ashley Pound in Austin, TX was Supervisor, Marketplace Billing at MongoDB during 2022–2024 before moving to a Deal Strategy Manager role, with a UT Austin BA — matching the filing's occupation ('Billing Supervisor') and employer ('MongoDB') and Austin 78741. Gave $400 to Kirk Watson; 18 FEC gifts at partisan_lean 1.0 (uniformly Democratic).",
+  "source_url": "https://rocketreach.co/ashley-p-email_75913626",
+  "affiliations": []
+ },
+ {
+  "donor_id": "85eff549-820a-42d7-b0d6-a31b6bd26164",
+  "name": "Smith, Haley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Both occupation and employer are 'N/A' on the filing, and 'Haley Smith' is a very common name in Austin's 78703; no unique identifier lets me confirm which Haley Smith this is or her industry. FEC records show an active small Democratic donor (partisan_lean 1.0, 25 gifts), but that does not resolve identity. Gave $400 to Austin council member Paige Ellis.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "85330d16-b64c-44d7-aef3-0339efd5422a",
+  "name": "Kuppan, Mrs. Baskaran",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The household is identifiable — a Baskaran/Kuppan family owns property in Buffalo Grove, IL 60089 (matches donor zip), with the husband an IT professional (LinkedIn/ZoomInfo listings at Cognizant / Persistent Systems). By South-Indian naming convention 'Mrs. Baskaran Kuppan' denotes the spouse, whose own occupation and employer were undisclosed ('requested'), so her personal industry cannot be confirmed. A Chicago-area Indian-American tech household giving to Austin's Kirk Watson; $400, no FEC history. Part of the same out-of-state cluster as 'Sathyasuba, Baskaran'.",
+  "source_url": "https://lakeco.blockshopper.com/il/lake-county/buffalo-grove/property/1520304001/1979-wilshire-court",
+  "affiliations": []
+ },
+ {
+  "donor_id": "840e2ccf-1135-40e6-976e-d3e1e455219f",
+  "name": "Klutts, Clayton",
+  "resolved_employer": "Owner, Gentry Holdings GP, LLC (Austin real-estate firm)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Clayton Klutts is listed as Owner of Gentry Holdings GP, LLC, an Austin real-estate firm — matching the filing's occupation ('Real estate') and employer ('Gentry Holdings') and Austin 78703. Gave $400 to Kirk Watson; no FEC history.",
+  "source_url": "https://www.linkedin.com/in/clayton-klutts-4482124",
+  "affiliations": [
+   {"org": "Gentry Holdings GP, LLC", "role": "Owner", "category": "business", "source_url": "https://www.linkedin.com/in/clayton-klutts-4482124"}
+  ],
+  "interest_tags": "real-estate-development"
+ }
+]

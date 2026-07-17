@@ -1,0 +1,123 @@
+[
+ {
+  "donor_id": "tcv-b1cf4c89-e3cc-4e6c-9707-5f0d0441a6ea",
+  "name": "Powell-Gould, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Partially placed but not occupationally identified. She is corroborated as the widow of Gary Richard Gould (1954-2021) of Austin, a psychotherapist/LCSW in private practice since 1996; his Dignity Memorial obituary names 'Lisa Powell-Gould' as his wife, and FEC records show a GOULD, GARY at zip 78757 (employer SELF, occupation CLINICAL SOCIAL WORKER) — matching this donor's 78757 zip exactly. The obituary says nothing about her own career, she has no FEC record of her own under Powell-Gould or Lisa Gould at 78757, and no LinkedIn/licensing/news source establishes her occupation. Her husband's profession is not evidence of hers, so no industry is assigned.",
+  "source_url": "https://www.dignitymemorial.com/obituaries/austin-tx/gary-gould-10239106",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-185615b4-61fb-4652-b66a-29b8699307ea",
+  "name": "New, Joe",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify, and the attached FEC signal appears to be a false match that should not be relied on. FEC has exactly one AUSTIN, TX 'NEW, JOE' — 200 Jockey Bluff Cv, zip 78748, occupation/employer RETIRED, a WinRed donor to Trump 2024, Ted Cruz, the RNC, NRCC and Save America. That is a different zip from this donor's 78735 (a query restricted to zip 78735 returns no Joe/Joseph New at all), and the partisan profile conflicts with this donor's giving to Ann Howard, a Democratic Travis County commissioner. The record's fec_partisan_lean 0.143 / 91 donations was almost certainly matched on name+city to the 78748 Republican retiree and is likely wrong. No LinkedIn, news, or business record places a Joe New in 78735.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Joe+New&contributor_city=AUSTIN&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "abee5a1a-39f1-4b2d-8ebf-4c6e888a614c",
+  "name": "Timmermann, Barth",
+  "resolved_employer": "Greenview Development Corp. — director/president and owner; also a partner in Greenview Development 973 LP, an Austin land-development entity",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Barth Timmermann is director and president of Greenview Development Corp. (formed August 2000), with a business/mailing address of 501 Vale St, Austin, TX 78746 — matching the filing's 78746 zip and its 'Greenview' employer string and 'Investor' occupation. He holds an MS in Real Estate Development from MIT plus UT Austin and UT Law credentials, and Greenview Development 973 LP appears on Travis County tax rolls as owner of property on U.S. Highway 290.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/barth-timmermann/34400510.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a469b5bb-6968-4dad-8ced-6f0a3cab28b5",
+  "name": "Allensworth, Anne",
+  "resolved_employer": "Employees Retirement System of Texas (ERS) — Director of Enterprise Efficiency; previously policy analyst at the Texas Sunset Advisory Commission",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Anne R. Allensworth appears in the Texas Tribune Government Salaries Explorer as a Director V at the Employees Retirement System, and is listed as Director of Enterprise Efficiency at ERS in the Austin metro. This matches the filing's occupation strings 'State of Texas' / 'Analyst' and employer strings 'Analyst' / 'Ers' exactly; her earlier role was as a Sunset Advisory Commission policy analyst (reviews of DSHS, HHSC, and the State Board of Dental Examiners), which explains the 'Analyst' self-description.",
+  "source_url": "https://salaries.texastribune.org/employees/anne-r-allensworth-339273/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "88c283b8-3a08-4eaf-90d2-95767c9e5483",
+  "name": "Dixit, Puneet",
+  "resolved_employer": "Alliant Insurance Services — Senior Vice President, Employee Benefits consulting (leads Alliant's proprietary 'ResultsFirst' diligence process)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Puneet Dixit is a Senior Vice President at Alliant Insurance Services based in Austin, matching the filing's 'Alliant' employer string, 'Consultant' occupation, and Austin location; Alliant maintains an Austin office. He was named a 2020 Employee Benefits Power Broker by Risk & Insurance, which describes him managing a client portfolio of over $2.5M in annual revenue and specializing in employee-benefits issues during mergers and acquisitions. Classified Finance as an insurance brokerage/benefits consultancy rather than the unrelated Houston-based 'alliantgroup' tax firm.",
+  "source_url": "https://riskandinsurance.com/award-profile/alliant-broker-puneet-dixit-recognized-as-a-2020-employee-benefits-power-broker/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a8de49f-3625-4781-9134-0198cf731ed7",
+  "name": "Valdez, Ruben",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Located but not occupationally identified. FEC records confirm a VALDEZ, RUBEN G. at Austin zip 78736 — matching this donor's zip — who gave to the Democratic Congressional Campaign Committee, consistent with the record's Democratic lean (0.64) and with gifts to Vanessa Fuentes and George Morales. However, no FEC filing for him ever discloses an employer or occupation, and the filing's own strings are non-informative ('Requested Info', 'Ret'). No web, licensing, or news source identifies a retired Ruben Valdez in 78736; the prominent Ruben A. Valdez (Colorado House Speaker, d. 2019) is a different person. 'Ret' indicates retirement but the former career cannot be established, so no industry is assigned.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Valdez&contributor_zip=78736&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4fa7593b-ee25-4302-aa6a-04542d325f2e",
+  "name": "Benkendorfer, Susan",
+  "resolved_employer": "ImplantBase — Manager, Accounting; previously Manager, Accounting & Finance at Bandspeed and a consultant at 9Gauge Partners",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Susan Benkendorfer is Manager of Accounting at ImplantBase, and her work history independently lists Bandspeed — matching BOTH of the filing's employer strings ('ImplantBase' and 'Bandspeed') and its 'Accounting Manager' / 'Bookkeeper' occupations. ImplantBase is an Austin software company (7415 SW Pkwy, Austin 78735) selling an operations platform to orthopedic medical-device makers; she is a Texas A&M BS graduate. Classified Technology as a SaaS vendor, though its vertical is healthcare/medtech, so Healthcare is a defensible alternative.",
+  "source_url": "https://www.zoominfo.com/p/Susan-Benkendorfer/1358893536",
+  "affiliations": []
+ },
+ {
+  "donor_id": "37f27185-8f9f-47b6-b045-6d7744bcd4d8",
+  "name": "Knox, Bruce",
+  "resolved_employer": "Lamborghini Austin — Managing Partner; also managing partner of Lamborghini San Antonio",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Bruce Knox is Managing Partner of Lamborghini Austin, the luxury-car dealership that opened in 2018 and has won Lamborghini's Campione award five consecutive years, matching the filing's 'Lamborghini Austin' employer and 'Manging Partner' [sic] occupation. He is named in dealership press announcing the 2023 Lamborghini Super Trofeo partnership with Valkyrie Velocity and the 2024 NIL deals with UT Longhorns players. The dealership's own staff bio additionally claims he helped bring Formula 1 to Austin and build the Circuit of the Americas; that claim is self-reported and I could not corroborate it independently, so it is not recorded as an affiliation.",
+  "source_url": "https://www.prweb.com/releases/valkyrie-velocity-and-lamborghini-austin-join-forces-as-texas-powerhouse-for-lamborghini-super-trofeo-season-833717874.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a93b9de-59d2-4a4f-99ed-208ba4c400ba",
+  "name": "Clark, Thomas",
+  "resolved_employer": "Vacasa (Nasdaq: VCSA) — Chief Commercial Officer through 2024; co-founder of Austin-based TurnKey Vacation Rentals, acquired by Vacasa",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "T.J. Clark — an Austin resident — co-founded TurnKey Vacation Rentals in 2012 and became Chief Commercial Officer of Vacasa after Vacasa acquired TurnKey, serving until 2024; this matches the filing's 'Vacasa LLC' / 'Vacasa Vacation Rentals' employers, 'Exec'/'Executive' occupation, Austin location, and 2022 gift dates. 'T.J.' is taken to be Thomas (his son is named Tommy), which is the one inferential step here. Earlier career: trial attorney in Chicago, then Hotwire.com, IAC/InterActiveCorp, and President/CEO of Limos.com. Classified Real Estate as short-term-rental property management, though Vacasa is tech-enabled and Hospitality / Events is a defensible alternative.",
+  "source_url": "https://www.casouthdevelopment.com/team/t-j-clark/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-74594557-753e-401a-a17a-a563ec4e1b2f",
+  "name": "Claybrook, JoEllen",
+  "resolved_employer": "Not employed (self-reported in FEC filings)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "FEC records show CLAYBROOK, JOELLEN at 6311 Mountain Park Cove, Austin, TX 78731 — matching this donor's 78731 zip — with both employer and occupation self-reported as 'NOT EMPLOYED'. Her federal giving runs through ActBlue to March On PAC and House Majority PAC, consistent with the record's fully Democratic lean (1.0) and its 37 FEC donations, and with her gifts to Travis County Commissioner Ann Howard. Russell and William Claybrook appear at the same address; a JoEllen and Russell Claybrook are named together as survivors in a 2013 Austin obituary.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Claybrook&contributor_city=AUSTIN&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f2132e72-4c29-4b19-84d7-f7d95b374014",
+  "name": "Carter, Graham",
+  "resolved_employer": "Cordova Real Estate Ventures — Partner/Principal; Austin land entitlement and development firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "interest_tags": "real-estate-development",
+  "evidence": "Graham Carter is a Partner/Principal at Cordova Real Estate Ventures, an Austin-based development firm specializing in land entitlement and development — its domain, cordovarev.com, matches the filing's 'Cordova REV' employer string, alongside the 'Real Estate' occupation and Austin location. He has two decades of Central Texas commercial real estate experience in site selection, leasing and land acquisition (tenants including JP Morgan Chase, 7-Eleven, Outback; landlords including Kimco, Lincoln Properties, InvenTrust), began at Weitzman after Baylor, and serves on the board of the Austin Commercial Real Estate Society.",
+  "source_url": "https://www.cordovarev.com/team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "de285966-f28b-41a0-b22f-bff1b512060e",
+  "name": "Mudd, Steve",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing self-reports 'Executive' at 'Verb', Austin 78745, giving in 2022. The Austin company named Verb (Verb Inc., goverb.com, a leadership-development software firm co-founded in 2013 by Suzi Sosa and Tom Meredith, later a Paycor company) lists no Steve/Steven Mudd on its team or in any coverage. The prominent Austin Steve Mudd — founder/CEO of Talentless AI — is affirmatively a poor match: his bio places him at NetApp running content marketing immediately before founding Talentless AI, spans Ogilvy and the Greater Denver area, and shows no Verb role. A Steven Brian Mudd is an Austin attorney, but nothing ties him to Verb either. No corroborated identity.",
+  "source_url": "https://goverb.com/team/suzi-sosa/",
+  "affiliations": []
+ }
+]

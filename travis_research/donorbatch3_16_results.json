@@ -1,0 +1,149 @@
+[
+ {
+  "donor_id": "tcv-9bce0a4c-94f0-4a4b-98da-1df350825e9c",
+  "name": "Krusee Campaign",
+  "resolved_employer": "Campaign committee of Michael (Mike) Krusee — former Republican Texas House member for District 52 (1993-2009), chairman of the House Transportation Committee (78th-80th Legislatures), later a registered Texas lobbyist and transportation/government-relations consultant and a Congress for the New Urbanism board member. This donor is the committee, not the individual.",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "This is an entity, not a person: the campaign account of former state Rep. Mike Krusee. Travis County's own filings for Jeff Travillion carry both 'Michael Krusee Campaign' ($250, 2017-05-10) and 'Krusee Campaign' ($500, 2024-08-28) at the same Austin 78729 address, which ties the abbreviated name in this record to Krusee's committee; 78729 is the northwest-Austin/Williamson County area matching the Legislative Reference Library's listing of his hometown as Austin, Williamson County, and his District 52 (north Austin/Round Rock) base. Krusee's campaign fund was still active and spending years after he left office — Texas Watchdog reported in 2012 that he was using the leftover account for hotels and meals while lobbying — so a 2024 committee-to-committee gift is consistent. Classified Consulting / PR to match the separate donor record for 'Krusee, Michael' (tcv-7f1eb29f, batch 2) rather than as a government employer, since the funds are those of a lobbyist/consultant's political account. Note the cross-party pattern: a Republican ex-legislator's committee giving to Democratic commissioner Jeff Travillion, alongside Krusee's own personal gifts of $515 (2022) and $50 (2023) from a downtown 78701 address.",
+  "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=196",
+  "affiliations": [
+   {
+    "org": "Texas House of Representatives (R, District 52)",
+    "role": "Former State Representative 1993-2009; chair of the House Transportation Committee, 78th-80th Legislatures; co-author of HB 3588 (2003) creating the public-private-partnership toll road model",
+    "category": "political",
+    "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=196"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-22edcd1d-d904-4532-a9bd-4c6cca028553",
+  "name": "Zeller, Charles",
+  "resolved_employer": "Retired (former technology executive) — co-founder and Vice President of Business Development at iTaggit, Inc., an Austin consumer/enterprise technology startup founded in 2006 by David Altounian; now reports himself as retired/not employed and is a major Democratic donor",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Charles Zeller is an Austin technology-startup co-founder turned full-time Democratic megadonor. Campaign-finance records for the 2014 cycle show 35 contributions totalling $104,300 from Charles Zeller of Austin, self-reporting variously as 'Retired' and once as 'Itaggit, Inc./Co-Founder' — including $33,100 to the DNC, $16,000 to Battleground Texas and $10,000 to the Texas Democratic Party — with a further $67,100 in 2016; corporate records list him as a vice-president of Itaggit Inc. of Austin. His current FEC record is heavy and uniformly Democratic (Greg Casar, James Talarico, DSCC, ActBlue, running into 2026), reported as 'Not Employed'/'Retired', which fits a $500 gift to Democratic commissioner Ann Howard. Held at medium, not high, because of a zip discrepancy: every federal record places him at Austin 78733 (Bee Cave Road/Westlake), while this county filing gives 78735 (Barton Creek) — adjacent southwest-Austin areas, consistent with a move or a differing address on file, but not an exact corroboration. Note also that this record's fec_donation_count of 0 is a pipeline matching failure, not a real absence: FEC holds an extensive Charles Zeller history. Classified Technology on his iTaggit career per the retiree rule.",
+  "source_url": "https://www.campaignmoney.com/political/contributions/charles-zeller.asp?cycle=14",
+  "affiliations": [
+   {
+    "org": "iTaggit, Inc. (Austin)",
+    "role": "Co-founder and Vice President of Business Development at the Austin technology startup",
+    "category": "business",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/charles-zeller/61087769.aspx"
+   },
+   {
+    "org": "Democratic National Committee / Texas Democratic Party / Battleground Texas",
+    "role": "Major individual donor — $104,300 across 35 gifts in the 2014 cycle alone ($33,100 DNC, $16,000 Battleground Texas, $10,000 Texas Democratic Party) and $67,100 in 2016; continuing large gifts to Greg Casar, James Talarico and the DSCC through 2026",
+    "category": "political",
+    "source_url": "https://www.campaignmoney.com/political/contributions/charles-zeller.asp?cycle=14"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-7e0c1f15-4c4c-4b04-9a6e-381e0be86542",
+  "name": "Simmons, Thomas",
+  "resolved_employer": "Austin real estate development/investment — either Thomas D. Simmons Jr., co-founder and chairman (1992-2014) of Simmons Vedder & Company and now principal of his family office T.D. Simmons Company, or his namesake Thomas Simmons III of Cypress Real Estate Advisors / Crea Capital / Argyle Residential; both report at Austin 78703",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "The donor's 78703 (Tarrytown/west-central Austin) zip matches exactly, and every federal record for a Thomas Simmons at Austin 78703 reports a real-estate occupation — 'Crea Capital / Real Estate' (2022), 'Cypress Real Estate Advisors / Real Estate Developer' (2019-2020), 'Argyle Residential / Real Estate Developer' (2015) and 'T.D. Simmons Company / Real Estate Investor' (2012) — so the industry is solid even though the individual is not fully pinned down. Tom Simmons co-founded Simmons Vedder & Company in 1992 and chaired it through 2014, developing over 8 million square feet worth more than $2 billion across Austin, Houston, Denver, Atlanta and other markets after 21 years at Trammell Crow Company, and now runs the family office T.D. Simmons Company; on his retirement the Austin unit of Simmons Vedder Partners was spun off and rebranded as W2 Real Estate Partners. Held at medium because the FEC records distinguish a 'Thomas D. Simmons Jr.' from a 'Thomas Simmons III' at the same 78703 zip — apparently father and son, both in real estate — and this filing carries no occupation or middle initial to separate them. Notable pattern: the matched federal giving is uniformly Republican (Romney, Lamar Smith, John Carter, Tony Gonzales, Nathaniel Moran; lean 0.0), while this $500 gift went to Democratic commissioner Brigid Shea. No oil & gas, gun, defense or pro-Israel affiliation surfaced.",
+  "source_url": "https://crea.com/about-us/",
+  "affiliations": [
+   {
+    "org": "Simmons Vedder & Company / T.D. Simmons Company",
+    "role": "Co-founder and chairman 1992-2014 of the Austin real-estate development firm; now principal of the T.D. Simmons Company family office, which invests in real estate development and acquisition, private equity, hedge funds and securities. Previously 21 years at Trammell Crow Company, rising to Managing Partner of the Houston Industrial Division",
+    "category": "business",
+    "source_url": "https://crea.com/about-us/"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-8a082816-6828-408f-9826-101b5534b99f",
+  "name": "Deyoung, Claire",
+  "resolved_employer": "Associate school psychologist (retired) — Austin",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "A nationwide FEC search for 'Claire DeYoung' returns only three records, and all three are in Austin, TX: Claire N. DeYoung (78751, 'Retired', $100 to the DNC in 2016), Claire H. DeYoung (78768, employer 'Retired', occupation 'Associate School Psychologist', $50 to Obama for America in 2012) and Claire DeYoung (78768, 'Unemployed', 'Associate School Psychologist', $25 to Joe Kennedy for Congress in 2012). That the name is rare enough to have no other federal donor anywhere in the country, that every instance is an Austin Democratic donor, and that this $500 gift went to Democratic commissioner Jeff Travillion together make the identification reasonable. Classified Education on the retiree rule — 'Associate School Psychologist' is a Texas public-school credential (the LSSP track) rather than a clinical practice. Held at medium rather than high because this filing carries no zip, occupation or employer of its own, so nothing in the county record itself corroborates the match, and the differing middle initials (N. vs H.) leave open that the FEC entries are two related people rather than inconsistent data entry on one. No web presence for a Claire DeYoung in Austin school psychology could be found to confirm independently.",
+  "source_url": "https://www.fec.gov/data/receipts/?contributor_name=Claire+Deyoung",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c89f54a8-59f5-484c-a7cd-200f0a84ad18",
+  "name": "Girard, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not disambiguate — there are two established Michael Girards in Austin working in entirely different industries, and this record has no zip, location, occupation or employer to separate them. Candidate one: Michael Girard, a business-development executive who was Director of Business Development at Vantage Media 2012-2015 and then joined Frequence (local-media ad-sales automation) in the same role, with earlier stops at ActiveProspect and Pluck/Demand Media — he is the Michael Girard in the FEC data, at Austin 78738, employer 'Vantage Media', occupation 'Business Development', and his six matched gifts are all $5-$15 ActBlue donations, which sit oddly against a $500 county gift. Candidate two: Michael Girard, founder and CEO of Girard Diversified Interests (GDI), an Austin firm grown out of the city's 1990s hospitality scene into downtown real-estate development, owner-operator of the Speakeasy live-music venue and of prime downtown development sites, who sits on the Downtown Austin Alliance board as its 'Property Director' representative — a profile far more consistent with a $500 gift to a county commissioner. The first would classify as Technology or Media, the second as Real Estate, so no industry is assigned. Note that this record's fec_partisan_lean of 1.0 and count of 6 derive from a name+state match to candidate one only and are not evidence of identity.",
+  "source_url": "https://gdiaustin.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3da8dba7-6463-46ac-9773-4fc69c9af274",
+  "name": "Joseph, Brian",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A leading candidate exists but cannot be corroborated. The only Brian Joseph in Austin with any federal donor footprint is Brian Joseph of Austin 78749, employer 'Bydee Art', occupation 'Artist' (six gifts) — that is Brian 'Bydeeman' Joseph, the Trinidad-born Austin artist who began painting in 1986, created the Bydee People style ('Bringing You Delightful Entertaining Experiences'), owned and operated the Bydee Art Gallery in Austin for 25 years, painted Austin's largest mural (30ft x 340ft), holds commissions from the City of Austin and UT, and won the Austin Links Community Arts Award. A longtime Black Austin civic-arts figure giving to Jeff Travillion, the Precinct 1 commissioner representing East Austin, is a plausible fit. But this filing carries no zip, location, occupation or employer, so nothing corroborates the match beyond a name that combines two common given names, and per the standing rule no industry is assigned on that basis. Caution on the metadata: this record's fec_donation_count of 138 is a fuzzy name-match artifact — the FEC query for 'Brian Joseph' in Texas sweeps in unrelated people such as Brian Joseph Krueger (American Airlines pilot), Brian Joseph Novicki (Valero Services) and a Brian Joseph at CVR Energy in Rosenberg, none of whom is the Austin artist.",
+  "source_url": "https://minimurals.org/artist/brian-joseph-aka-bydee/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b58745ba-6989-42c5-94e3-7dd6d345d3ae",
+  "name": "Albert, Steven",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify — no zip, location, occupation or employer on the record, and the matched federal history conflates two different men. The six FEC records for a Steven Albert in Texas split into five from a Steven Albert in Houston 77092, employer 'Binkley Barfield', occupation 'Civil Engineer', all small WinRed (Republican) gifts in 2023-2024, and one from a 'Steven F. Albert' of Bee Cave 78738, employer 'Coastal Securities', occupation 'Broker', a $200 gift to the Coastal Securities Inc. federal PAC in 2012. The Bee Cave man is the geographically plausible one — Bee Cave sits inside Travis County Precinct 3, which Ann Howard represents and which this $500 gift supports — and Coastal Securities was a Houston-based fixed-income broker-dealer in municipal bonds and SBA/USDA loans, later acquired by Hilltop Holdings, which would classify as Finance. But nothing in the county record corroborates either candidate, no source could confirm a Steven F. Albert at Bee Cave beyond the single 2012 filing, and the record's fec_partisan_lean of 0.0 is driven by the Houston engineer, so it cannot be used to identify the donor. No industry assigned.",
+  "source_url": "https://brokercheck.finra.org/firm/summary/27834",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-75ee245e-348b-43b4-a074-62b6c63edd7b",
+  "name": "Carter, Darryl",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify — the record has no zip, location, occupation or employer, and the matched federal history conflates at least two Texas attorneys of this name. Candidate one: Darryl B. Carter, a University of Houston Law Center graduate (1994) who joined Linebarger Goggan Blair & Sampson in 1995 as legal counsel and became one of Houston's leading city lobbyists, spending alternate years in Austin representing Harris County clients; he died in early 2025. His giving appears at Houston 77019 under 'Linebarger Goggan Blair & Sampson / Attorney'. Candidate two: Darryl Kent Carter of Carter & Bachynsky, LLP (now CB Litigation), a UT Law 1984 graduate and Super Lawyers-listed business and employment litigator with Houston and San Antonio offices, whose gifts appear from Spring Branch 78070 under 'Carter & Bachynsky / Lawyer'. Both would classify as Legal, and the Linebarger connection is worth flagging given that firm's Austin headquarters and its delinquent-tax collection contracts with Texas counties — a Linebarger lawyer giving to a Travis County commissioner would be a notable relationship. But nothing corroborates that this $500 gift to Jeff Travillion came from either man rather than a third Darryl Carter with no federal record, so no industry is assigned.",
+  "source_url": "https://cblitigation.com/attorney-profiles/darryl-k-carter/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d243a078-f2a4-4de6-bf47-d531a59b973f",
+  "name": "Aldrich, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify, and the federal data attached to this record is a false match that should not be relied on. The donor is in Austin 78745 (south Austin) and gave $500 to George Morales (Travis County Pct 4) on 2025-11-17. The 30 FEC gifts and 0.99 Democratic lean on this record come from a name+state search that returns no Austin Robert Aldrich at all: 29 of the records belong to Robert E. Aldrich Jr., a Fort Worth (76102/76132) trial lawyer at Cantey Hanger LLP and formerly Gardner Aldrich, LLP, who gives to Obama, Marc Veasey and Wendy Davis, and the remainder to a self-employed rancher in Nome, TX (77629) giving via WinRed. Neither is the south-Austin donor. Searches for a Robert Aldrich in 78745 surfaced only an unverifiable LinkedIn profile of an Austin-area Robert Aldrich with a background in transportation security, environmental consulting and home remodeling, which no source ties to this donation. No industry assigned.",
+  "source_url": "https://canteyhanger.com/attorneys/robert-e-aldrich-jr/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cc29eefa-2cd4-4dea-bca6-a36c10fe90bc",
+  "name": "Gonzalez, Andres",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The donor is in San Antonio 78216 (north-central San Antonio, the airport/Castle Hills corridor) with no occupation or employer on file and no matching federal record. 'Andres Gonzalez' is very common in San Antonio — candidates include Andres 'Andy' Gonzalez, a civil litigator at Chasnoff Stribling with 25+ years in personal injury, trucking and construction work; Andres R. Gonzalez, a construction litigator who runs the San Antonio office of Steptoe & Johnson PLLC; and Andres Humberto Gonzalez Jr., a banking and personal-injury lawyer — but none of them is documented at 78216 (the Chasnoff Stribling man's federal gifts come from Fair Oaks Ranch 78015), and none can be tied to these gifts. The donation pattern is the one genuinely notable feature and is worth flagging for later review: a San Antonio resident who gave to three different Travis County commissioners — Jeff Travillion, Brigid Shea and Ann Howard — across 2021-2023, which is the shape of a vendor, contractor or lobbying relationship rather than constituent giving. Not enough to classify, so no industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a761a71b-183c-4da9-97d5-af6af5c6b22c",
+  "name": "Baldwin, Stephen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The donor is in Greeley, CO 80634 and gave $500 to Ann Howard (Travis County Pct 3) on 2024-10-28, with no occupation or employer on file. No Stephen Baldwin in Greeley appears in federal records or in web sources; the only Colorado FEC matches are three same-day 2024 gifts from a Stephen Baldwin in Denver 80231, employer IBM, occupation 'Technical', all to Republican committees (WinRed, Trump National Committee JFC, Never Surrender Inc.) — a different city and a partisan profile that contradicts a gift to a Democratic county commissioner, so that man is very likely not this donor. The record's fec_donation_count of 12 and lean of 1.0 could not be reproduced against either Colorado or the donor's own state and appear to be a broader name-match artifact. An out-of-state gift from northern Colorado to a Travis County commissioner is unusual and may reflect a personal or professional tie, but nothing found supports a classification. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-956f37ae-96bd-4b23-a415-4e9da210892b",
+  "name": "Martinez, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify — 'Michael Martinez' is one of the most common names in Texas and this record carries no zip, location, occupation or employer, leaving nothing to corroborate against. The only signal is the single $500 gift to Jeff Travillion (Travis County Pct 1) on 2021-09-09. The record's 1,497 FEC gifts and 0.92 Democratic lean are a name-aggregation artifact spanning an unknown number of unrelated people and are not usable as identity evidence; note also that an Austin City Council member named Mike Martinez served 2006-2014 and later ran for mayor, but no source ties him to this contribution and his name is not confirmable from this record. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

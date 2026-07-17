@@ -1,0 +1,189 @@
+[
+ {
+  "donor_id": "0eb37989-b9c3-4574-bb14-9d65a6214633",
+  "name": "Wu, Faye",
+  "resolved_employer": "Cigna Health Insurance — Sr. Engineer Advisor (self-reported on the filing; individual not independently confirmed)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "No public profile for this specific Faye Wu could be confirmed — the only 'Faye Wu' profiles that surfaced are a Bayer Healthcare scientist and a Sarah Lawrence student, neither matching Austin 78734 or Cigna. The classification rests on the self-reported employer on the filing rather than on an identity match: Cigna operates a large Austin engineering office and posts 'Software Engineering Senior Advisor' roles there, an exact title match, so the employer and its Healthcare industry are corroborated even though the person is not.",
+  "source_url": "https://cigna.dejobs.org/austin-tx/software-engineering-senior-advisor/4A1AF985BF364377B2142EB2DD776961/job/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0e0ede50-c2b1-4832-bf28-eee7b67436ff",
+  "name": "Goodner, Sam",
+  "resolved_employer": "FlashParking, Inc. — Chief Strategy Officer (formerly President); founder and former CEO of Catapult Systems",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed Austin tech figure: founded Catapult Systems in 1993 and built it into Microsoft's leading global systems integrator before its 2013 sale; invested in FlashParking in 2016 and served as President and later Chief Strategy Officer — the exact title on the 2022-09-09 filing. Also founder and manager of Four Winds Capital LP, a family investment holding company, and a Capital Factory mentor. Austin residence since 1992 is consistent with the 78701 downtown zip.",
+  "source_url": "https://samgoodner.com/about/",
+  "affiliations": [
+   {
+    "org": "Four Winds Capital LP",
+    "role": "Founder and Manager",
+    "category": "business",
+    "source_url": "https://samgoodner.com/about/"
+   },
+   {
+    "org": "Capital Factory",
+    "role": "Mentor",
+    "category": "business",
+    "source_url": "https://samgoodner.com/about/"
+   }
+  ]
+ },
+ {
+  "donor_id": "0d7e0800-29c5-4cda-911e-1282bd96389f",
+  "name": "Carson, Jaime",
+  "resolved_employer": "SkinCandy ATX / Carson Skin Rejuvenation — founder, licensed master esthetician (own studio)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Jaime Aislinn Carson is the founder of both SkinCandy ATX and Carson Skin Rejuvenation, licensed to practice esthetics in New York and Texas — an exact match on name, the occupation 'Esthetician' and the employer 'Skincandy'. She trained at NYC's Atelier Esthetique in 2007, opened Carson Skin Rejuvenation in Manhattan in 2011, and relocated to Austin, operating from a Rollingwood studio. Coded Self-Employed because SkinCandy is her own solo practice rather than an outside employer; 78766 is an Austin PO-box zip consistent with a small business.",
+  "source_url": "https://carsonskin.com/meet-jaime-carson/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0d7ba3ca-7cc8-4b80-ad8d-c63db0e447a4",
+  "name": "Glassco, David",
+  "resolved_employer": "Neone Inc. — founder and CEO; Austin-based private, ad-free social networking / personal cloud hardware startup",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Dave Glassco is founder and CEO of Neone Inc., an Austin technology company making private social-network devices (NeoBase), founded in 2012. FEC records match exactly on name, employer, occupation and zip — 'David Glassco / NEONE / CEO / Austin / 78745' — including $2,500 to Ro for Congress (2026-02-05) and $1,000 via ActBlue (2026-01-12), consistent with the 1.0 Democratic partisan lean on the city filing.",
+  "source_url": "https://www.crunchbase.com/person/dave-glassco",
+  "affiliations": [
+   {
+    "org": "Mother Jones Magazine / Foundation for National Progress",
+    "role": "Former board member (c. 2010-2016)",
+    "category": "civic",
+    "source_url": "https://www.crunchbase.com/person/dave-glassco"
+   },
+   {
+    "org": "Participatory Culture Foundation",
+    "role": "President",
+    "category": "civic",
+    "source_url": "https://www.crunchbase.com/person/dave-glassco"
+   }
+  ]
+ },
+ {
+  "donor_id": "0c263cf2-9ba0-40cf-9a3c-1426e58e1f65",
+  "name": "Solis, Ralph",
+  "resolved_employer": "Higginbotham Insurance & Financial Services — insurance broker / commercial lines specialist, Austin office",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "LinkedIn and a BBB business profile both confirm a Ralph Solis working as Vice President / Broker, Commercial Lines Specialist at Higginbotham's Austin office, matching the filing's employer 'Higginbotham'. Confidence is medium because the title differs slightly (public sources show VP, the filing says Executive VP) and the residential zip 78750 is unconfirmed. Caution: the 12 FEC donations attributed to this donor appear to be a name-only mismatch — FEC 'Ralph Solis' records in Texas belong to a Catholic priest in El Paso (79907) and a retiree in Stamford (79553), not the Austin insurance broker, so the 0.765 partisan lean should not be relied on.",
+  "source_url": "https://www.bbb.org/us/tx/austin/profile/insurance-agency/ralph-solis---higginbotham-insurance-0825-1000243467",
+  "affiliations": [
+   {
+    "org": "Higginbotham Insurance & Financial Services",
+    "role": "Vice President / Broker, Commercial Lines",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/ralph-solis-b0ba678/"
+   }
+  ]
+ },
+ {
+  "donor_id": "0b74ec0b-b4c0-4375-a5f1-26d8c5438b5a",
+  "name": "Linebarger, Carol",
+  "resolved_employer": "360 MD (Carol Ann Linebarger, M.D., Integrative Primary Care) — physician and owner, self-employed",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Although the Watson filing lists occupation and employer as 'requested', FEC records for 'CAROL LINEBARGER, AUSTIN, 78703' consistently self-report 'SELF / PHYSICIAN' across 17 ActBlue and People Powered Action contributions in 2019, matching the donor's zip exactly and consistent with the 1.0 Democratic lean. This corroborates Dr. Carol Ann Linebarger, MD, a native Austinite, UT Austin biology graduate, family-medicine physician and owner of 360 MD integrative primary care. No evidence connects her to the Linebarger Goggan Blair & Sampson law firm — the surname link was investigated and is not supported.",
+  "source_url": "https://www.360mdaustin.com/team/dr-carol-ann-linebarger",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a47ff19-bd56-4b9b-8e95-31ab7e39f881",
+  "name": "Sooch, Alexandria",
+  "resolved_employer": "OSSIO, Inc. — Vice President, Digital Marketing",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Alexandria Sooch, Austin TX, is VP of Digital Marketing at OSSIO, the bio-integrative orthopedic fixation (OSSIOfiber) medical-device company — matching the filing's occupation 'Digital Marketing' and employer 'Ossio'. Prior roles at Itamar Medical, LDR Spine and TALLAC Digital confirm a medical-device marketing career, establishing that the medical-device OSSIO is the right match. No evidence links her to the Sundeep/Sunny Sooch family or the Sooch Foundation; that connection was investigated and is not asserted.",
+  "source_url": "https://www.linkedin.com/in/alexandriasooch/",
+  "affiliations": [
+   {
+    "org": "Foster Angels of Central Texas",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://www.fosterangelsctx.org/about-us/"
+   }
+  ]
+ },
+ {
+  "donor_id": "09469ab6-b767-4a76-a6d7-8215a3957c89",
+  "name": "Spilman, Tom",
+  "resolved_employer": "Wholesale Beer Distributors of Texas (WBDT) — Executive Vice President at the time of the 2022 gift; now President",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Tom Spilman is a longtime executive of Wholesale Beer Distributors of Texas, a 501(c)(6) trade association at 823 Congress Ave, Austin, that lobbies on behalf of Texas malt-beverage distributors. LinkedIn lists him as President, having previously been EVP — consistent with the 2022-12-10 filing's 'Executive Vice President'. He submitted testimony to the Texas Sunset Advisory Commission on WBDT's behalf during the TABC review. Industry coded Nonprofit / Advocacy because the employer is a trade association and lobbying body, not a beer retailer or distributor itself.",
+  "source_url": "https://www.linkedin.com/in/tom-spilman-99702618b/",
+  "affiliations": [
+   {
+    "org": "Wholesale Beer Distributors of Texas",
+    "role": "Executive Vice President, later President — trade association lobbying for Texas beer distributors",
+    "category": "business",
+    "source_url": "https://www.sunset.texas.gov/public/uploads/Spilman_T_Wholesale%20Beer%20Distributors%20of%20Texas_11-15.pdf"
+   }
+  ]
+ },
+ {
+  "donor_id": "0912b86c-8a03-450f-92c7-02f57587e602",
+  "name": "Steen, D. Jennings",
+  "resolved_employer": "Crossroads Cattle Company, Ltd. — co-founder and owner",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "The company's own team page names 'D. Jennings Steen' as co-founder of Crossroads Cattle Co., Ltd., an Austin-based feeder-cattle trading and stocker operation established in August 2002 that trades 300,000-325,000 yearlings annually across TX/OK/KS — an exact match to the filing's employer and 'owner' occupation, including the distinctive 'D. Jennings' form. Raised near Cuero, TX; Texas A&M B.S. Agricultural Economics 1990; formerly bought feeder cattle for Koch Industries. Identity is high-confidence, but the industry code is marked medium because the taxonomy has no Agriculture/Livestock label and Retail is only the closest available fit for wholesale commodity/livestock trading. No oil & gas ties found for Steen personally — the sole oil-and-gas mention on the company site refers to a different employee (Don Graham) and his pre-2011 employer.",
+  "source_url": "https://crossroadscattle.com/our-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "06f2a7bc-cd4e-4198-abaf-c345ef75e304",
+  "name": "Nickerson, Nathan",
+  "resolved_employer": "Common Ground (commonground.works) — Austin mixed-use real estate development firm; Managing Partner",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Common Ground's own About page lists Nathan Nickerson as Managing Partner with 30+ years in commercial real estate, and describes the firm as developing 'mixed-use properties from concept to completion' — resolving the name ambiguity in favor of real-estate development rather than a consultancy or nonprofit. Corroborated by his LinkedIn ('Common Ground') and prior Austin CRE roles: Managing Partner at Primus Real Estate Services, Director of Real Estate at Tacodeli, SVP at The Weitzman Group, BBA from UT Austin — consistent with the filed occupation and an Austin 78746 (Westlake) address.",
+  "source_url": "https://commonground.works/about/",
+  "affiliations": [
+   {
+    "org": "Common Ground",
+    "role": "Managing Partner",
+    "category": "business",
+    "source_url": "https://commonground.works/about/"
+   }
+  ]
+ },
+ {
+  "donor_id": "06d841d0-f1ec-431d-9a60-c16d7974c3d4",
+  "name": "Momin, Zahra Rahimali",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify this person. Occupation and employer were both filed as 'requested' (not disclosed) and there is no FEC history to cross-check. Searches surfaced only non-matching same-surname individuals: a 'Zahra Momin' listed as a Houston-based real estate investor (properties in Wharton/El Campo/Crosby/Spring, no Westlake 78746 residence and no 'Rahimali' middle name), a Zahra Momin at UT San Antonio, and Dr. Zahir Momin, an Austin internist with a different first name. Nothing corroborates zip, occupation or donation pattern, so no industry is assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "0530e55d-110e-4e72-83ab-4506bf9de883",
+  "name": "Denton, Morris",
+  "resolved_employer": "Texas Original (Texas Original Compassionate Cultivation) — co-founder and CEO",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Morris Denton, an Austin native, is co-founder and CEO of Austin-based Texas Original Compassionate Cultivation, holder of one of only three state licenses under the Texas Compassionate Use Program — matching the filed occupation 'CEO' and employer 'Texas Original' and an Austin-area 78733 address; confirmed by the company's own CEO letter, his LinkedIn, Crunchbase and Texas Tribune coverage. Coded Healthcare rather than Retail because the company cultivates, processes and dispenses low-THC medicine available only by physician prescription to patients with qualifying conditions, and its storefronts are prescription pickup points rather than open retail. As a licensee CEO he publicly lobbies the Texas Legislature and DPS on the Compassionate Use Program, a business interest worth flagging alongside his contributions to Texas officials.",
+  "source_url": "https://texasoriginal.com/blog/a-letter-from-morris-denton-ceo-of-texas-original-compassionate-cultivation",
+  "affiliations": [
+   {
+    "org": "Texas Original Compassionate Cultivation",
+    "role": "Co-founder and CEO",
+    "category": "business",
+    "source_url": "https://www.crunchbase.com/person/morris-denton-fae8"
+   },
+   {
+    "org": "Texas Compassionate Use Program (Texas Legislature / Texas DPS)",
+    "role": "Industry advocate — publicly lobbies state lawmakers and regulators on the medical cannabis program as a licensee CEO",
+    "category": "political",
+    "source_url": "https://www.sacurrent.com/cannabis-2/ceo-of-texas-medical-cannabis-supplier-talks-about-changes-he-wants-from-state-lawmakers-30119671/"
+   }
+  ]
+ }
+]

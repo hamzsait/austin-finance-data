@@ -1,0 +1,199 @@
+[
+ {
+  "donor_id": "bc4d8dfc-cee9-4606-8c41-84fa71b61708",
+  "name": "Borders, Mary",
+  "resolved_employer": "Tapestry Foundation of Mary Carmel and Thomas P Borders (co-founder / family foundation)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Mary Carmel Borders co-founded the Tapestry Foundation in 1995 with Thomas P. Borders; the foundation is registered at 1904 W 35th St, Austin TX 78703 and property records list Thomas P & Mary C Borders at 2500 Matthews Dr, also 78703 — both match the donor zip. The family foundation (~$2.2M revenue) funds AISD, UT, Dell Medical School and local education initiatives. Occupation was not disclosed on the filing, so the role is inferred from the foundation rather than a stated employer.",
+  "source_url": "https://www.tapestryfoundation.org/",
+  "affiliations": [
+   {
+    "org": "Tapestry Foundation of Mary Carmel and Thomas P Borders",
+    "role": "Co-founder / namesake of family foundation",
+    "category": "civic",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/383196007"
+   }
+  ]
+ },
+ {
+  "donor_id": "badbd48d-ae85-4a69-a7f6-95611879ad51",
+  "name": "Becker, Matthew",
+  "resolved_employer": "Evolve Capital (Partner)",
+  "industry": "Finance",
+  "interest_tags": "private-equity",
+  "confidence": "high",
+  "evidence": "Matt Becker is a Partner at Evolve Capital in the Austin metro, which he joined in 2016 — matching the self-reported occupation 'Partner' and employer 'Evolve Capital'. Evolve Capital is an Austin private equity firm doing leveraged recapitalizations of founder-run businesses with $2-5MM EBITDA; Becker coordinates investments, debt/equity financings and exits, and sits on boards of Evolve platform companies.",
+  "source_url": "https://mergr.com/private-equity/evolve-capital/matt-becker",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba51814a-383b-45c2-adec-ce098c0f3b30",
+  "name": "Peters, Alan",
+  "resolved_employer": "Savills (Senior Managing Director & Austin Branch Manager)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Alan Peters joined Savills (then Savills Studley) in 2016 as Senior Managing Director and became Austin branch manager in 2018, specializing in office tenant representation — matching the self-reported 'Commercial Real Estate' / 'Savills'. Previously Director of Office Tenant Representation at Austin-based Live Oak-Gottesman; SIOR, CCIM, and an Austin Business Journal tenant-rep 'Heavy Hitter'.",
+  "source_url": "https://www.savills.us/people/alan-peters.aspx",
+  "affiliations": [
+   {
+    "org": "Austin Technology Council",
+    "role": "Board of Directors",
+    "category": "business",
+    "source_url": "https://www.savills.us/people/alan-peters.aspx"
+   }
+  ]
+ },
+ {
+  "donor_id": "b77245b9-10c7-4761-a3e0-673a3cd4d68f",
+  "name": "Utt, Courtney",
+  "resolved_employer": "CHU Interiors (Courtney Hill Utt Interiors LLC) — founder/owner",
+  "industry": "Architecture",
+  "interest_tags": "luxury-real-estate",
+  "confidence": "high",
+  "evidence": "Courtney Hill Utt is founder and owner of CHU Interiors, an Austin high-end residential interior design firm — matching the self-reported 'Interior design' / 'CHU Interiors'. Austin-born, interior design degree from the University of Georgia, worked at high-end residential firms in NYC and Dallas before founding her namesake firm; recognized among Austin's best interior design firms 2022-2024. Classified under Architecture as the closest taxonomy label for design services.",
+  "source_url": "https://www.chuinteriors.com/about-",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b600b7cf-263f-434c-aabd-2c6e67c82644",
+  "name": "Helble, Steve",
+  "resolved_employer": "SCC Development Company / self (real estate development & investment)",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "high",
+  "evidence": "Steve Helble is an Austin-area real estate developer with 25+ years in the industry (BBA Finance, UT; MBA Real Estate & Finance, University of Houston), tied to SCC Development Company doing development and brokerage in Austin/Central Texas. Lender records list a West Lake Hills mailing address — matching the donor's 78746 zip — and holding companies including SCC Ronald Reagan Partners LLC, MWC Development Irving LLC and 121 Louis Henna LP, corroborating the self-reported 'Real Estate Development' filed under his own name.",
+  "source_url": "https://elementix.ai/investors/tx/steve-helble",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5f81ca0-50c1-4c1b-8a63-84ec76a614cb",
+  "name": "Miller, Kris",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing lists no occupation or employer ('NA'), and 'Kris Miller' is a common name that is also gender-ambiguous. An interior designer named Kris Miller operates Decorating Den Interiors serving Westlake Hills and nearby areas, but nothing confirms her own residence is 78746 or ties her to this donation, and there is no occupation on the filing to corroborate. Not classified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "b4da4c02-af41-4bfc-885f-829ceb391b0e",
+  "name": "Dunn, Patrick",
+  "resolved_employer": "Urban Constructors, Inc. (President)",
+  "industry": "Construction",
+  "interest_tags": "homebuilders",
+  "confidence": "high",
+  "evidence": "Patrick N. Dunn is listed in Texas corporate records as President of Urban Constructors, Inc., matching the self-reported employer. Urban Constructors is a family-owned full-service construction company founded by the Dunn brothers in Houston in 1997, with residential and commercial divisions; it expanded to custom homes in 2013 and is headquartered at 112b E 7th St in Austin. It is a member of the Texas Association of Builders and the Austin HBA.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/patrick-n-dunn/30941156.aspx",
+  "affiliations": [
+   {
+    "org": "Texas Association of Builders / Home Builders Association of Greater Austin",
+    "role": "Member firm (Urban Constructors, Inc.)",
+    "category": "business",
+    "source_url": "https://members.texasbuilders.org/builder-directory/Details/urban-constructors-inc-1230615"
+   }
+  ]
+ },
+ {
+  "donor_id": "b38bc21b-e3bc-4eaa-b24f-d226cbdace84",
+  "name": "Espiricueta, Israel",
+  "resolved_employer": "Hen House / Rhino Room, Austin (bar owner)",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "medium",
+  "evidence": "The Austin American-Statesman, citing state documents, reported that Israel Espiricueta owns the Rhino Room bar in East Austin; he has also been reported as an owner of the Love Goat in Austin and the Library Bar in Fort Worth. Hen House — the self-reported employer — operates at 1012 E 6th St, the same address as the former Rhino Room, indicating a rebrand or successor venue at his location. Surname is uncommon and the bar-owner occupation matches the filing, but direct documentation naming him as Hen House's owner was not located, so the specific venue link is medium rather than high; the hospitality classification holds either way.",
+  "source_url": "https://www.facebook.com/statesman/posts/israel-espiricueta-owns-the-rhino-room-bar-in-east-austin-state-documents-say/10156628288824208/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ae82698e-d597-486f-b459-7528e1c2dde8",
+  "name": "Jastrow, Kenneth",
+  "resolved_employer": "Temple-Inland Inc., Chairman & CEO 2000-2007 (retired); currently lead independent director, Genesis Energy LP general partner",
+  "industry": "Energy / Environment",
+  "interest_tags": "fossil-fuel-advocacy,real-estate-development",
+  "confidence": "high",
+  "evidence": "Kenneth M. Jastrow II was Chairman and CEO of Austin-based Fortune 500 Temple-Inland Inc. (paper, forest products, real estate, financial services) from 2000-2007 after 27 years there including CFO and COO — exactly matching the self-reported 'Retired Chairman & CEO of Temple Inland' and the 78746 Westlake/Hill Country residence. Since March 2010 he has been a director of Genesis Energy LP's general partner, serving as lead independent director and chair of its G&C Committee; he formerly chaired Forestar Group and was a director of KB Home and MGIC Investment Corp. Industry recorded as Energy / Environment reflecting the ongoing Genesis Energy (midstream oil & gas) board role; his executive career was in forest products/manufacturing.",
+  "source_url": "https://www.genesisenergy.com/about-us/board-directors",
+  "affiliations": [
+   {
+    "org": "Genesis Energy, L.P. (midstream oil & gas MLP — crude oil pipelines, offshore Gulf of Mexico gathering, refinery services)",
+    "role": "Director of the general partner since March 2010; lead independent director and chair of Governance & Compensation Committee",
+    "category": "oil_gas",
+    "source_url": "https://www.genesisenergy.com/about-us/board-directors"
+   },
+   {
+    "org": "Temple-Inland Inc.",
+    "role": "Chairman & CEO 2000-2007 (retired)",
+    "category": "business",
+    "source_url": "https://phideltatheta.org/news-stories/staff-boards/kenneth-m-jastrow-ii/"
+   },
+   {
+    "org": "Forestar Group Inc.",
+    "role": "Former Non-Executive Chairman",
+    "category": "business",
+    "source_url": "https://www.genesisenergy.com/about-us/board-directors"
+   },
+   {
+    "org": "KB Home",
+    "role": "Former director and Director Emeritus",
+    "category": "business",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/0000795266/000079526618000026/kbh2018proxystatement.htm"
+   },
+   {
+    "org": "MGIC Investment Corporation",
+    "role": "Former director",
+    "category": "business",
+    "source_url": "https://www.genesisenergy.com/about-us/board-directors"
+   },
+   {
+    "org": "University of Texas",
+    "role": "Chairman of the Commission of 125 and of UT's $3B capital campaign; chair of the Development Board and McCombs School of Business Advisory Council",
+    "category": "civic",
+    "source_url": "https://phideltatheta.org/news-stories/staff-boards/kenneth-m-jastrow-ii/"
+   },
+   {
+    "org": "Washington National Cathedral",
+    "role": "Governing board member",
+    "category": "civic",
+    "source_url": "https://cathedral.org/about/leadership/kenneth-m-jastrow-ii/"
+   }
+  ]
+ },
+ {
+  "donor_id": "adf0d7ce-e269-410b-946e-e7db50eebb3f",
+  "name": "Galindo Soto, Lis",
+  "resolved_employer": "40 Days for Life (Administrative Assistant)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "40 Days for Life is a real registered nonprofit — an international anti-abortion campaign organization headquartered at 4112 E 29th St, Bryan, TX 77802 with roughly 31 employees — which corroborates the self-reported employer and the donor's Bryan, TX 77807 location. The individual could not be found by name in the organization's public staff listings, so the employment is accepted from the filing itself rather than independently verified; the nonprofit classification follows from the employer.",
+  "source_url": "https://www.causeiq.com/organizations/40-days-for-life,260308665/",
+  "affiliations": [
+   {
+    "org": "40 Days for Life",
+    "role": "Administrative Assistant (self-reported on campaign finance filing)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/40_Days_for_Life"
+   }
+  ]
+ },
+ {
+  "donor_id": "ad70c78f-2e85-401b-97d5-51db03f6912a",
+  "name": "Mundy, Megen",
+  "resolved_employer": "The Herb Bar (Owner)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Megen Mundy is the owner of The Herb Bar, Austin's oldest apothecary, matching the self-reported 'Owner' / 'The Herb Bar'. She took over the shop from prior owner Twila Willis around 2022 and later relocated it from Bouldin Creek to the Cherrywood neighborhood; the store sells teas, tinctures, herbs, crystals, incense, candles and books. Her LinkedIn lists her as Owner at The Herb Bar.",
+  "source_url": "https://tribeza.com/culture/the-herb-bar-austin-new-location/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac2f2cd1-71ca-4334-b8b6-9d52565c6893",
+  "name": "Hu, Julia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The filing's occupation ('Manager') and employer ('Finance') are generic and name no actual company. Searches surfaced a Julia Hu recorded as a small Austin real estate investor (one property, one holding company) but nothing ties that record to the 78730 zip, to a finance-manager role, or to this donation. 'Julia Hu' is a common name in the Austin area. Not classified.",
+  "source_url": null,
+  "affiliations": []
+ }
+]

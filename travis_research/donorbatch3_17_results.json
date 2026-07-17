@@ -1,0 +1,186 @@
+[
+ {
+  "donor_id": "tcv-1450d2d3-5521-44c6-92c9-58414d570c79",
+  "name": "Hudkins, Michael",
+  "resolved_employer": "Self-employed — real estate investor, Tucson AZ; one FEC filing gives his employer as 'Aspen Prop' with occupation 'Investor'",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "FEC individual-contribution records for MICHAEL HUDKINS of Tucson, AZ carry the zip 85750 (one filing gives the full 85750-1378) — an exact match to the donor's 'Tucson, AZ 85750-1378' — and self-report his occupation as 'Real Estate' with employer 'Self' or 'Self-Employed' across multiple 2022-2026 filings; an earlier entry reads 'Investor' at 'Aspen Prop', and one later entry reads 'Not Employed'. The zip-plus-name match to the filer's own federal disclosures is what carries the identification; no web profile, company page or news coverage for a Michael Hudkins in Tucson real estate could be located, so 'Aspen Prop' could not be tied to any specific firm (Aspen Properties Inc. of Pinetop, AZ appears unrelated). Note the pattern: an out-of-state Tucson donor making a single $500 gift to Travis County Commissioner Brigid Shea in June 2025, against a uniformly Democratic federal record (53 FEC gifts, lean 1.0).",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Michael+Hudkins&contributor_state=AZ",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0b0f4ddc-5613-468d-932d-a18adaaa2110",
+  "name": "Brown, Charles",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. The record carries no zip, no location, no occupation and no employer, and 'Charles Brown' is one of the most common names in the country, so there is nothing to corroborate against. The attached federal history — 4,256 FEC gifts at a 0.18 partisan lean — is almost certainly an artifact of name-matching many different Charles Browns nationally rather than one person's record, so it cannot be used as a signal here: an FEC query restricted to Austin, TX alone returns 283 records spanning at least two distinct people (a Johnson Controls control technician in 78748 and a retiree at the same zip, both giving to WinRed/NRSC/Cruz), neither of whom can be linked to this $500 gift to Ann Howard (Travis County Pct 3) on 2021-10-26. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-05e3e790-8ee6-4494-9f15-4ba0a496df3e",
+  "name": "Chapin, Jessica",
+  "resolved_employer": "Not employed — self-reported as 'Not Employed' across her federal filings",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC records for JESSICA CHAPIN of Austin, TX show 66 contributions — matching the donor record's count of 65 — at zip 78751 (one filing gives the full 787514519), an exact match to the donor's 'Austin, TX 78751', and every filing self-reports occupation and employer as 'Not Employed'. That self-report is the basis for the industry label and is solid. Separately, and NOT confirmed as the same person: a Dr. Jessica Chapin holds a doctorate in cultural anthropology (dissertation on gender and border industrialization in Ciudad Juarez), taught for many years as an adjunct professor at UT Austin, works with asylum-seekers detained at the Karnes County Residential Center and at Posada Esperanza in Austin, and joined the board of Women on the Border in 2019. Her Austin base and immigrant-rights advocacy are consistent with this donor's uniformly Democratic federal record (lean 1.0) and gifts to progressive county commissioners Jeff Travillion and Brigid Shea, but no source gives her zip or ties her to the 78751 address, so the link is suggestive only — hence medium overall. If the two are the same person, 'Not Employed' would reflect that her advocacy work is unpaid or volunteer rather than that she has no career.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jessica+Chapin&contributor_city=AUSTIN&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f94819ec-b525-4d52-b8ab-70ad2aabdc2b",
+  "name": "Santis, Rosa",
+  "resolved_employer": "Pedro SS Services, Inc. (S S Pedro Services Inc) — President, CEO and founder; an Austin power-line and telecommunications infrastructure construction contractor at 403 Springdale Rd, ~70 employees and roughly $10.7M in annual revenue, which she founded in 1980. The firm is also registered with FMCSA as a private intrastate carrier (USDOT 2136284, 7 power units) hauling general freight, logs/lumber, building materials and machinery",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "FEC records for ROSA SANTIS of Austin, TX 78703 self-report occupation 'President' / 'CEO' at 'PEDRO SS SERVICES, INC.' (also abbreviated 'PSS INC') across 2008, 2012 and 2021 filings — an exact match to the donor record's employer string 'Pedro SS Services, Inc.', occupation 'President', and 78703 zip. Dun & Bradstreet places S S Pedro Services Inc in the power-line and telecommunications infrastructure construction contractors industry at 403 Springdale Rd, Austin, and FMCSA's SAFER database confirms the same company as an Austin-based private intrastate carrier. She holds a B.A. in Government and an M.S. in Political Science from UT Austin (magna cum laude) and serves on the board of directors of Southwest Key Programs. Gifts went to Kirk Watson (city) and Jeff Travillion (Travis County Pct 1), 2017-2022.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.s_s_pedro_services_inc.f048efc53c14dd3914327956bbffa90d.html",
+  "affiliations": [
+   {
+    "org": "Southwest Key Programs, Inc.",
+    "role": "Member, Board of Directors — Southwest Key is the large Austin-headquartered nonprofit known for operating immigrant-youth shelters and charter schools",
+    "category": "civic",
+    "source_url": "https://theorg.com/org/southwest-key-programs-inc/org-chart/rosa-santis"
+   }
+  ]
+ },
+ {
+  "donor_id": "916cb7f7-48e6-4172-805a-197bb51b2c0d",
+  "name": "Braun, Peggy Davis",
+  "resolved_employer": "Not employed — self-reported as 'Not Employed' across her federal filings; possibly the spouse of attorney David Braun of Braun & Gresham (unconfirmed)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC records carry a PEGGY DAVIS BRAUN in Austin, TX at zip 78746 (one filing gives the full 787464625) self-reporting occupation and employer as 'Not Employed', with the same name also appearing at Austin 78701 and Dripping Springs 78620 across 2019-2024 ActBlue gifts to Democratic candidates. The full-name-plus-exact-zip match to the donor's 'Austin, TX 78746' supports the 'Not Employed' label. A separate FEC entry reads 'BRAUN, PEGGY AND DAVID | San Antonio, TX 78201 | Attorney | Braun & Gresham' — a joint contribution on which the attorney occupation and the Braun & Gresham employer (a Dripping Springs law firm representing Texas landowners) would belong to David Braun; combined with the Dripping Springs address variant this suggests she is his spouse, but no source confirms the relationship, so it is recorded as unconfirmed and no legal-industry label is applied to her. Held at medium because the donor record itself lists no occupation, employer or federal history (0 FEC gifts matched, lean null), so the identification rests entirely on name plus zip. Single $500 gift to Ann Howard (Travis County Pct 3), 2022-12-10.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Peggy+Braun&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7d988743-2675-479e-8f5c-b09408fb676a",
+  "name": "Barton, Mary",
+  "resolved_employer": "Quiddity Engineering (formerly Jones & Carter, Inc.) — Vice President of Business Development, responsible for business development, strategic partnerships and growth initiatives across Central Texas; Quiddity is a Texas civil engineering and land-development firm",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Mary Barton is Vice President of Business Development at Quiddity (the rebranded Jones & Carter, Inc.), with 13 years' experience across the public and private sectors and responsibility for business development and long-term relationships across Central Texas — matching the donor record's employer strings 'Engineer, Jones Carter' and 'Consultant' occupation. The identification is nailed down by her own federal filing: FEC records show BARTON, MARY of Austin, TX at zip 787482434 — an exact match to the donor's 78748 — self-reporting occupation 'BUSINESS DEVELOPMENT' at employer 'QUIDDITY'. Classified Engineering after the employer's actual business (civil engineering/land development) rather than the 'Consultant' self-description. Worth noting for pattern: that single Austin FEC gift was $47 to WinRed earmarked for the Trump National Committee JFC (2024-10-24), while her city-level giving went to Democrat Kirk Watson, 2022-2024; the donor record's 197-gift, 0.02-lean federal history looks like a name-collision artifact and should not be relied on.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mary+Barton&contributor_city=AUSTIN&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2ccb76c9-f1e0-48ee-8f53-7927199e96f8",
+  "name": "Rhode, Patrick",
+  "resolved_employer": "Cintra (US arm of Spanish infrastructure group Ferrovial) — Vice President of Corporate Affairs for sixteen years, where he helped secure and protect more than $10 billion in toll-road and P3 infrastructure projects and created a US Advisory Board for parent company Ferrovial. Also Founder and President of Patrick Rhode Strategies; appointed by Gov. Greg Abbott to the Public Utility Commission of Texas effective April 1, 2026 (term expiring September 1, 2027)",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Patrick Rhode's own site and the Texas Governor's appointment announcement establish him as a sixteen-year VP of Corporate Affairs for Cintra — an exact match to the donor record's employer string 'Cintra' and 'Executive' occupation — and state that he and his family reside in Dripping Springs, Texas, corroborating the donor's 78737 zip (the Austin zip covering the Dripping Springs/southwest Travis County area). His federal-government career is extensive: Special Assistant to the President of the United States, Chief of Staff for two FEMA administrations inside the newly created Department of Homeland Security after 9/11 (holding high-level national security clearances, and Acting Deputy Director during Hurricane Katrina), NASA Senior Advisor, and Associate Administrator of the U.S. Small Business Administration. Classified Transportation after Cintra's toll-road concession business, which is the employer on the filing during the 2022-2024 gift window; his current PUC role is regulatory and postdates the gifts. The donor record's 83-gift, 0.0-lean federal history appears to be a mismatch to a 'RHODES, PATRICK' retiree in Childress, TX and should not be relied on. Gifts went to Kirk Watson, 2022-2024.",
+  "source_url": "https://patrickrhode.com/about/",
+  "affiliations": [
+   {
+    "org": "Cintra / Ferrovial",
+    "role": "Vice President of Corporate Affairs (16 years) — the corporate-affairs and government-relations lead for the US arm of a Spanish toll-road and infrastructure concession group, credited with securing and protecting $10B+ in P3 infrastructure projects and with creating Ferrovial's US Advisory Board",
+    "category": "business",
+    "source_url": "https://patrickrhode.com/about/"
+   },
+   {
+    "org": "American Road and Transportation Builders Association (ARTBA)",
+    "role": "President, Public-Private Partnership Division",
+    "category": "business",
+    "source_url": "https://patrickrhode.com/about/"
+   },
+   {
+    "org": "Texas Association of Business; Austin Chamber of Commerce",
+    "role": "Twice-elected board member of the Texas Association of Business; board member, Austin Chamber of Commerce",
+    "category": "business",
+    "source_url": "https://patrickrhode.com/about/"
+   },
+   {
+    "org": "Public Utility Commission of Texas",
+    "role": "Commissioner — appointed by Gov. Greg Abbott effective 2026-04-01, term expiring 2027-09-01; the PUC regulates the state's electric, water, wastewater and telecommunications utilities",
+    "category": "political",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-rhode-to-public-utility-commission-of-texas"
+   },
+   {
+    "org": "Federal Emergency Management Agency / U.S. Department of Homeland Security; The White House",
+    "role": "Chief of Staff for two FEMA administrations and Acting Deputy Director within DHS after 9/11; Special Assistant to the President of the United States; NASA Senior Advisor; Associate Administrator, U.S. Small Business Administration",
+    "category": "political",
+    "source_url": "https://patrickrhode.com/about/"
+   }
+  ]
+ },
+ {
+  "donor_id": "1b3ae66f-279b-483b-b171-9c8eaa8dfd33",
+  "name": "Gaston, Jennifer",
+  "resolved_employer": "The Gaston Company — an Austin commercial real estate investment and development firm at 7600 Burnet Rd, founded in 1986 by president Brian Gaston (her role given on the filing as 'Manager')",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "The employer named on the filing checks out: The Gaston Company is listed in the Austin Chamber of Commerce directory as a real-estate firm at 7600 Burnet Rd Ste 210, Austin, and its president Brian Gaston is a licensed commercial real estate professional with 25+ years' experience who started the company in 1986 and specializes in commercial real estate investment and development. Jennifer Gaston herself, however, could not be independently confirmed — no source places her at the company or in Austin, the surname match to Brian Gaston suggests a family relationship that no source establishes, and the donor's 78766 zip is an Austin PO-box zip that gives no residential corroboration. The 8-gift, 1.0-lean federal history in the donor record also appears to be a name-collision artifact: FEC records for Jennifer Gaston in Texas return only people in San Antonio (HR generalist at Arrive Logistics), Mansfield and Duncanville — none in Austin. Industry therefore rests on the self-reported employer alone, which is why this is medium rather than high. Single $500 gift to Kirk Watson, 2022-12-06.",
+  "source_url": "https://www.austinchamber.com/directory/the-gaston-company",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1421ea7e-5f5a-4919-8cd5-da2d793764ef",
+  "name": "Hufford, Amy",
+  "resolved_employer": "MembershipWorks — Technologist (membership/donor management software); also founder and Principal of Stellar Communications, the Austin creative agency she started in 2000 building websites, brand identities and online marketing for solopreneurs, small businesses and nonprofits. Previously Director of Internet Technology at the Austin Board of Realtors",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Amy Hufford's published author bio reads 'Amy Hufford is a Technologist at MembershipWorks. She has worked in nonprofit technology for more than 20 years and has experience with a variety of donor and member management software platforms' — an exact match to the donor record's occupation 'Technologist' and employer string 'MembershipWorks'. She is based in Austin, TX, where she founded and runs Stellar Communications (web design and development, brand strategy, online marketing) after serving as Director of Internet Technology at the Austin Board of Realtors, where she led the development of austinhomesearch.com; she holds a Bachelor of Journalism from UT Austin (1990-1994) and is listed as a freelancer with Women Communicators of Austin. Austin residence corroborates the 78757 (Crestview/north-central Austin) zip. Gifts went to Mike Siegel (city) and Brigid Shea (county), 2021-2024, alongside a uniformly Democratic federal record (9 FEC gifts, lean 1.0).",
+  "source_url": "https://nonprofithub.org/author/amy-hufford/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "113bc4b8-cb10-45f4-a098-2a3d3f38d23e",
+  "name": "Young, Patricia",
+  "resolved_employer": "Design Run Group, LLC — Chief Partnerships Officer and partner; a mission-driven Austin venture studio (1005 La Posada Dr) that partners with health organizations to create companies serving the health and wellness needs of vulnerable communities in Texas, with a ~$3M venture fund. She is Patricia 'Trish' Young Brown, CPA — the inaugural President and CEO of Central Health, the Travis County Healthcare District, for nearly 12 years, and afterward CEO of Thinkery, Austin's STEAM children's museum",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "The Austin Area Research Organization member roster lists Patricia Young Brown as 'Chief Partnerships Officer' at 'Design Run Group, LLC' — an exact match to the donor record's occupation 'Chief Partnerships Officer' and employer string 'Design Run Group'. She is a partner in Design Run Group, a venture studio for health, and has more than 20 years leading healthcare and community-based organizations: she was the inaugural President and CEO of Central Health, the Travis County Healthcare District created by county voters in May 2004, holding that role for nearly 12 years until her retirement announced in late 2016, then became CEO of Thinkery in January 2017. She is a CPA with a BS in Accounting from the University of Denver and serves as a trustee of Integral Care. Classified Healthcare on the strength of both the current employer (health venture studio) and her career. The 78746 (West Lake Hills) zip is consistent with her profile, and the donation pattern corroborates strongly: her gifts went to Kirk Watson, 2022-2024, and Watson was the mayor and state senator behind the creation of the Travis County healthcare district she was hired to run.",
+  "source_url": "https://aaroregion.com/members",
+  "affiliations": [
+   {
+    "org": "Central Health (Travis County Healthcare District)",
+    "role": "Inaugural President and CEO, ~2004-2016 — head of the public entity, created by Travis County voters, that serves low-income and uninsured county residents",
+    "category": "civic",
+    "source_url": "https://www.centralhealth.net/central-health-president-ceo-retire-end-year/"
+   },
+   {
+    "org": "Integral Care",
+    "role": "Trustee — Travis County's local mental health and IDD authority",
+    "category": "civic",
+    "source_url": "https://theorg.com/org/integral-care/org-chart/patricia-young-brown"
+   },
+   {
+    "org": "Thinkery (Austin Children's Museum)",
+    "role": "Chief Executive Officer from January 2017",
+    "category": "civic",
+    "source_url": "https://thinkeryaustin.org/wonder-women-in-steam-trish-young-brown/"
+   }
+  ]
+ },
+ {
+  "donor_id": "af792b79-585e-4af2-bad9-a0de796c2e70",
+  "name": "Koubaa, Mohamed",
+  "resolved_employer": "Ansys Inc. — software engineer (Austin); now Synopsys, which acquired Ansys in 2025. Ansys makes engineering simulation software; his own work is on GPU-accelerated compute and cross-language interoperability",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Mohamed Koubaa's GitHub profile gives his location as Austin, TX and his employer as Synopsys — the company that acquired Ansys in 2025 — and his LinkedIn likewise shows Synopsys; contact-directory records tie a Mohamed Koubaa in Austin, TX to an ansys.com address. That matches the donor record's employer string 'Ansys Inc', 'Engineer' occupation and 78728 (north Austin/Wells Branch) zip. His public repositories are consistent with the role: he maintains 'Goldy', a Rust runtime for GPU-accelerated compute, and contributes to Python, .NET and protocol-buffer projects. Note this is a distinct person from the same-named professor at the National Engineering School of Tunis and from the Linde Engineering sales manager. Classified Technology (engineering-simulation software) rather than Engineering, since he is a software developer at a software company. Gifts went to Mike Siegel, 2024.",
+  "source_url": "https://github.com/koubaa",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3a014176-605a-4552-9a8e-af5b1511e663",
+  "name": "Sesil, Joseph (Mr.)",
+  "resolved_employer": "MWH Constructors — Senior Vice President; a heavy-civil construction management firm specializing in water and wastewater infrastructure. Previously Vice President at Stantec (which acquired MWH Global in 2016) and roles at AECOM and Earth Tech",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Joseph 'Joe' Sesil is documented as Senior Vice President at MWH Constructors, with more than 31 years in engineering and construction management on projects exceeding $2 billion, spanning water and wastewater, sanitary sewer overflow and highway work, and previously VP at Stantec, AECOM and Earth Tech; his LinkedIn profile gives his location as Austin, Texas and shows him circulating MWH water/wastewater job postings. 'Sesil' is a rare surname with no other Austin presence, and the Austin location fits the donor's 78701 (downtown) zip. Held at medium rather than high because the filing lists no occupation or employer of its own, the corporate directory listings place MWH Constructors' SVP role at the firm's Broomfield, Colorado headquarters, and no source ties him to the 78701 address or establishes what he was doing during the 2016-2017 gift window specifically; no FEC record exists for him (0 federal gifts), so there is no self-reported occupation to check against. Worth flagging for conflict-of-interest purposes: MWH is a major City of Austin water contractor — construction manager for Austin Water Treatment Plant No. 4 and prime contractor on the $1.2B Walnut Creek wastewater plant expansion — and these gifts went to Brigid Shea, who sat on the Austin City Council through 2016 and has served on the Travis County Commissioners Court since.",
+  "source_url": "https://www.zoominfo.com/p/Joseph-Sesil/1474589620",
+  "affiliations": [
+   {
+    "org": "MWH Constructors",
+    "role": "Senior Vice President — heavy-civil construction manager on public water and wastewater infrastructure, including City of Austin water projects",
+    "category": "business",
+    "source_url": "https://theorg.com/org/mwh-constructors/org-chart/joe-sesil"
+   }
+  ]
+ }
+]

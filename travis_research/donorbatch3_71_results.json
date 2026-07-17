@@ -1,0 +1,138 @@
+[
+ {
+  "donor_id": "c1a38876-b51e-41bb-9b9c-5c49350c8371",
+  "name": "Dickensheets, Ruth",
+  "resolved_employer": "Dickensheets Design Associates (President/owner) - Austin acoustics, sound/noise-abatement and AV systems design consultancy",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Ruth Ann Paul-Dickensheets is President of Dickensheets Design Associates LLC (10919 Conchos Trl, Austin 78726 - matches donor zip), an acoustical/AV-systems design consulting firm (BBB category 'acoustical consultant'; projects incl. Texas Stadium sound system). Employer string 'Dockensheets Design Assoc' is a misspelling of this firm.",
+  "source_url": "https://dickensheets.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bbc9394e-6336-4711-af76-eaa0c46d7de5",
+  "name": "Garcia, Danielle",
+  "resolved_employer": "U.S. Department of Housing and Urban Development (HUD) - public service",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing lists employer HUD and occupation 'Public Service'; a Danielle D. Garcia is an Associate Deputy Assistant Secretary at HUD, though that person appears DC-based and the San Antonio 78209 address cannot be firmly matched to a specific individual. Government classification rests on the stated HUD employer, not on confirmed identity.",
+  "source_url": "https://www.linkedin.com/in/danielle-d-garcia/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b740eea6-ba18-4069-a75e-25bc07878f7d",
+  "name": "Jett, Dean",
+  "resolved_employer": "Dean Jett Custom Clothier (owner) - men's custom clothing/tailoring shop, Austin",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Dean Jett owned Dean Jett Custom Clothier at 2117 W 10th St, Austin 78703 (matches donor zip) for 45+ years, a men's custom clothing/bespoke tailoring business. Employer string matches exactly.",
+  "source_url": "https://www.deanjett.com",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5b6b91e-7726-4cc6-b28f-1c33a95daeeb",
+  "name": "Millman, Kenneth",
+  "resolved_employer": "BMO Wealth Management / BMO Family Office (Director of Investment Advisory Services, Team Lead) - wealth management for ultra-affluent families",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Kenneth Millman, CFA/CAIA, is a Director of Investment Advisory Services at BMO Family Office who 'lives in Orinda, California' (matches donor zip 94563); 25+ years in wealth/investment management (prior BNY Mellon, US Trust, BofA Wealth). Employer string 'BMO' and email ken.millman@gmail.com corroborate.",
+  "source_url": "https://uswealth.bmo.com/why-bmo-wealth-management/our-team/ken-millman/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b20c295d-839f-4007-bb9f-b68c57de98ec",
+  "name": "Wyatt, Jessica",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer both filed as 'requested' (not disclosed). Multiple Jessica Wyatts exist; a Jessica Iven Wyatt has an Austin 78730 tie but no verifiable occupation/employer. Not enough corroboration to classify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "b174f783-5930-4bb2-b675-2649bb3ede54",
+  "name": "Marwill, Tim",
+  "resolved_employer": "RBC Wealth Management - Marwill Wittek Group (Senior VP / Financial Advisor, CFP)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Tim Marwill, CFP, is Senior VP and Financial Advisor leading the Marwill Wittek Group at RBC Wealth Management, Austin (5301 SW Parkway, 78735), managing ~$300M AUM. Employer string 'RBC Wealth Managemebt' matches; occupation 'Investor' consistent.",
+  "source_url": "https://us.rbcwealthmanagement.com/marwillwittekgroup/about-our-team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa7beab6-230b-4390-a395-5c2f0cdca6b6",
+  "name": "Andry, Monica",
+  "resolved_employer": "Greater Austin Hispanic Chamber of Commerce (President & CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Monica Munoz Andry, based in Pflugerville, is President & CEO of the Greater Austin Hispanic Chamber of Commerce (nonprofit) since Aug 2022, after 20+ years at UFCU. Employer string 'NPO' + occupation 'CEO' corroborate a nonprofit chief executive.",
+  "source_url": "https://www.gahcc.org/gahcc-team/monica-munoz-andry",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a33dd504-8bb1-4cd8-a58f-c1d261be1533",
+  "name": "Xiao, Xia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer both filed as 'Requested' (not disclosed). Common name, Cedar Park 78613; no verifiable public record ties a specific occupation/employer to this donor. Not classifiable.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f4e3daa-63d5-479d-a628-f3ab565e7489",
+  "name": "Stack, Dan",
+  "resolved_employer": "Stack Wall Install - commercial construction / wall (drywall/framing) installation, Austin",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'Commercial Construction' and employer 'Stack Wall Install' indicate a commercial wall-installation/drywall contracting business in Austin 78748; no independent web presence for the specific firm/person was found, so classification rests on the self-reported construction trade.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e491eb5-8721-4652-b27e-4f74fa948df2",
+  "name": "Coleman, Ryan",
+  "resolved_employer": "LRC Design Build (Principal) - Austin design-build / general contracting firm",
+  "industry": "Construction",
+  "confidence": "high",
+  "interest_tags": "homebuilders,real-estate-development",
+  "evidence": "Ryan Coleman is Principal of LRC Design Build, an Austin design-build/general contractor (renovations, additions, commercial buildout) and member of the Home Builders Association of Greater Austin; serves Rollingwood/West Lake area (matches donor Rollingwood 78746). Employer and occupation 'Real estate/construction' match.",
+  "source_url": "https://www.lrcdesignbuild.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a67eafd-9ea6-4e2b-a344-745d471101c2",
+  "name": "Alcedo, Marc",
+  "resolved_employer": "Elevance Health Inc. (Government Affairs / lobbyist); registered lobbyist and former Chief of Staff, Texas House of Representatives",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "interest_tags": "political-consulting",
+  "evidence": "Marc Alcedo works in Government Affairs for Elevance Health (health-insurance company) and is a registered lobbyist for Elevance affiliates; previously Chief of Staff in the Texas House. Classified by employer (health insurer); role is in-house lobbying/government affairs. Employer string 'Elevance Health Inc' matches, Austin 78746.",
+  "source_url": "https://www.linkedin.com/in/marcalcedo/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "973a2fdb-3925-4ff9-94a2-f8c4c031bdfc",
+  "name": "McHale, John",
+  "resolved_employer": "Genesis Inventions, L.P. (Partner) - Austin serial-entrepreneur/investment partnership; founder of multiple tech companies (IntelliQuest, TippingPoint, BreakingPoint) and of TrackingPoint (precision-guided firearms)",
+  "industry": "Technology",
+  "confidence": "high",
+  "interest_tags": "military-defense",
+  "evidence": "John McHale is a well-known Austin serial tech entrepreneur/investor and Partner at Genesis Inventions; founded IntelliQuest (NASDAQ 1996), NetSpeed, TippingPoint, BreakingPoint. He also founded TrackingPoint, Inc. (2011), maker of Precision Guided Firearm systems, and Genesis Inventions/McHale Labs led its $29M Series D in 2014. Employer 'Genesis Inventions' + occupation 'Partner' match; Austin 78703.",
+  "source_url": "https://www.linkedin.com/in/john-mchale-156b4a16/",
+  "affiliations": [
+   {
+    "org": "TrackingPoint, Inc.",
+    "role": "Founder (2011) and lead investor (via Genesis Inventions L.P. / McHale Labs, $29M Series D 2014) of a precision-guided firearm / smart-rifle maker that also pursued military/defense applications",
+    "category": "gun_rights",
+    "source_url": "https://en.wikipedia.org/wiki/TrackingPoint"
+   },
+   {
+    "org": "TrackingPoint, Inc.",
+    "role": "Precision-guided firearm technology firm marketed for long-range/sniper use with military-defense interest",
+    "category": "military_defense",
+    "source_url": "https://www.pehub.com/2014/06/genesis-inventions-mchale-labs-lead-29-mln-funding-in-trackingpoint/"
+   }
+  ]
+ }
+]

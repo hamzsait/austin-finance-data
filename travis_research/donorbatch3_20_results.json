@@ -1,0 +1,186 @@
+[
+ {
+  "donor_id": "ebe566de-e119-4bb4-a142-4946e0e14051",
+  "name": "Rangabashyam, Ramachandran",
+  "resolved_employer": "International Marketing & Technology Solutions, Inc. (President & CEO)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Ramachandran 'Ram' Rangabashyam (a.k.a. Ram Bashyam) is President & CEO of International Marketing and Technology Solutions, Inc., an Austin-based IT services/consulting firm. Corroborated by an Austin-area listing on the Austin Hindu Temple Board of Trustees under the full name 'Ramachandran Rangabashyam', consistent with the 78733 (west Austin) address.",
+  "source_url": "https://wiza.co/d/international-marketing-and-technology-solutions-inc/456b/ram-bashyam",
+  "affiliations": [
+   {
+    "org": "Austin Hindu Temple",
+    "role": "Member, Board of Trustees",
+    "category": "civic",
+    "source_url": "https://austinhindutemple.org/board-of-trustees/"
+   }
+  ]
+ },
+ {
+  "donor_id": "eaa930f2-1236-4a29-8d26-82eebe4e2813",
+  "name": "Jones Schoenbaum, Anika",
+  "resolved_employer": "Vuka (Community Engagement Partner)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Anika Jones-Schoenbaum is listed as a Partner / Community Engagement Partner at Vuka, an Austin coworking collective and event venue; she is married to Vuka founder Brian Schoenbaum, who gave the same day from the same 78702 address. Vuka operates community hubs combining coworking space, event venues and programming, so the events/hospitality label is the best fit but her specific function is only partly documented.",
+  "source_url": "https://www.linkedin.com/in/anika-jones-schoenbaum-a27079284/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea84210d-5ca1-4300-a566-718d1a0d5362",
+  "name": "Fleschman, Sanford",
+  "resolved_employer": "Star Senior Communities (founder/President); also Operating Partner at NxStep Opportunity Partners and founder of North American Self Storage Group",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Sanford 'Sandy' Fleschman is a UT Austin-educated Austin real estate veteran who founded Star Senior Communities, a senior-living developer/operator later sold to a large private equity firm, and North American Self Storage Group. His LinkedIn lists him as President of Star Senior Communities in Austin, matching the self-reported employer and the 78746 (Westlake) address.",
+  "source_url": "https://nxstep.com/team/sandy-fleschman/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea35b9ba-72cd-4c02-b459-b0519508a23c",
+  "name": "Mitzner, Ira",
+  "resolved_employer": "RIDA Development Corporation (President & CEO)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ira Mitzner is President and CEO of RIDA Development Corporation, a Houston-headquartered real estate development/investment firm with a global portfolio over $5 billion and the largest private developer of multi-branded conference resorts. RIDA's Houston office and his self-reported 'Real Estate'/'RIDA Development' entry match the 77010 downtown-Houston address.",
+  "source_url": "https://ridadev.com/leadership/",
+  "affiliations": [
+   {
+    "org": "Yeshiva University",
+    "role": "Chairman of the Board",
+    "category": "jewish_civic",
+    "source_url": "https://ridadev.com/leadership/"
+   },
+   {
+    "org": "Texas Holocaust, Genocide, and Antisemitism Advisory Commission",
+    "role": "Commissioner (appointed by Gov. Greg Abbott, 2023); son of a Holocaust survivor",
+    "category": "jewish_civic",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-mitzner-to-texas-holocaust-genocide-and-antisemitism-advisory-commission"
+   },
+   {
+    "org": "Baylor College of Medicine",
+    "role": "Trustee",
+    "category": "civic",
+    "source_url": "https://ridadev.com/leadership/"
+   }
+  ]
+ },
+ {
+  "donor_id": "e848ef16-3069-4580-8156-290a0dda64b4",
+  "name": "Gottesman, Grant",
+  "resolved_employer": "Gottesman Interests / GMG Ventures, LLC (real estate development)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Public business records list a Grant M. Gottesman in Austin 78703 as a developer at Gottesman Interests and manager of GMG Ventures, LLC, with a residential address in the 78703 zip that matches this donor. This corroborates the self-reported 'Real Estate' / 'Gottesman Co' entry, though no first-party firm bio was found. Not the same firm as Laura Gottesman's Gottesman Residential Real Estate, which lists no Grant Gottesman on its roster.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/grant-m-gottesman/38198044.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e83839c7-c332-40c3-9ca6-f48dd1e189bd",
+  "name": "Wilkerson, Ray",
+  "resolved_employer": "Ray Wilkerson Companies, Inc. (President & CEO) — Austin real estate investment/development",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ray Wilkerson is President and CEO of Ray Wilkerson Companies, Inc., an Austin real estate investment and development firm, and was named the Austin Chamber's 2018 'Austinite of the Year'. He chairs the Central Texas Regional Mobility Authority (appointed by Gov. Rick Perry, 2009) and formerly chaired the Lower Colorado River Authority; the Austin base and 'Investor / Ray Wilkerson Co.' self-report match.",
+  "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year",
+  "affiliations": [
+   {
+    "org": "Central Texas Regional Mobility Authority (CTRMA)",
+    "role": "Chairman (appointed by Gov. Rick Perry, 2009)",
+    "category": "political",
+    "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year"
+   },
+   {
+    "org": "Lower Colorado River Authority",
+    "role": "Former Chairman (appointed 2001)",
+    "category": "political",
+    "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year"
+   },
+   {
+    "org": "Greater Austin Crime Commission",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year"
+   },
+   {
+    "org": "HeartGift Foundation",
+    "role": "Co-founder (2000), vice chair of finance",
+    "category": "civic",
+    "source_url": "https://www.austinchamber.com/press-releases/ray-wilkerson-named-2018-austinite-of-the-year"
+   }
+  ]
+ },
+ {
+  "donor_id": "e7c0075f-4604-45ab-91d4-f9025c5f2a86",
+  "name": "Matin, Arshad",
+  "resolved_employer": "Avetta (President & CEO)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Arshad Matin has been President and CEO of Avetta, a cloud-based supply-chain risk management software company, since October 2019; he is Houston-based (board member of the Houston Endowment and Texas Children's Hospital), matching the 77019 Houston address and the self-reported 'CEO / Avetta'.",
+  "source_url": "https://houstonendowment.org/people/arshad-matin",
+  "affiliations": [
+   {
+    "org": "Paradigm Ltd. and Seismic Micro-Technology, Inc.",
+    "role": "Former President & CEO of both — geoscience/seismic software firms whose customers are oil & gas E&P companies; also former EVP of global products and services at IHS Inc. Adjacent to the oil & gas sector via software, not an operator or producer role.",
+    "category": "oil_gas",
+    "source_url": "https://houstonendowment.org/people/arshad-matin"
+   },
+   {
+    "org": "ASGN Incorporated (NYSE: ASGN)",
+    "role": "Board member",
+    "category": "business",
+    "source_url": "https://investors.asgn.com/governance/board-of-directors/person-details/default.aspx?ItemId=2d3665ca-38f5-4054-83fc-b0d052e57057"
+   }
+  ]
+ },
+ {
+  "donor_id": "e40d1651-aab6-483f-a0b4-a4736910efdf",
+  "name": "Walker, Lynn",
+  "resolved_employer": "Walker Energy, Inc., Austin (Office Administrator)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm this specific person. A 'Walker Energy' business is listed at 1717 W 6th St in Austin, but no public profile establishes what it does (multiple unrelated Walker Energy entities exist in oil & gas, solar and utility services), and no Lynn Walker could be tied to it. The self-reported title 'Office Administrator' is not itself an industry, and the 78746 address alone does not corroborate. Not classified rather than guess an Energy label off the company name.",
+  "source_url": "https://www.yelp.com/biz/walker-energy-austin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e3e37c02-bd5a-48be-b113-c421782d72ca",
+  "name": "Wilson, Porter",
+  "resolved_employer": "Employees Retirement System of Texas (Executive Director)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Porter Wilson has been Executive Director of the Employees Retirement System of Texas (ERS) since 2015, the Austin-based state agency administering retirement and benefits for 256,000+ Texas state employees and retirees; previously associate vice chancellor for governmental relations at the Texas Tech University System and chief of staff to state Sen. Robert Duncan. Matches the self-reported 'Executive / ERS of Texas' and Austin 78759 address.",
+  "source_url": "https://www.ers.texas.gov/About-ERS/ERS-Organization/Executive-Director",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e2e6ca65-5991-4188-90f5-94b05065d9b1",
+  "name": "Erwin, Andy",
+  "resolved_employer": "Legacy MCS (Austin multi-family / build-to-rent general contractor)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Legacy MCS is a confirmed Austin-based general contractor specializing in multi-family and build-to-rent construction, founded by the Brewer family in 2015, and an Andy Erwin has a LinkedIn profile located in Austin. His self-reported occupation is 'Contruction' [sic] at Legacy MCS. The employer and industry are solid; his specific role at the firm is not documented publicly.",
+  "source_url": "https://legacymcs.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e22181a7-4296-4965-ad36-3149244cec41",
+  "name": "Eiland, Gray",
+  "resolved_employer": "None — student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Self-reported as a student with no employer, at a 78746 (Westlake) address. The likeliest match is William Gray Eiland, a son of former state Rep. Craig Eiland (D-Galveston), an attorney whose family residence in Austin was the subject of 2012 reporting — but this identification is not confirmed and rests only on the name and the Austin address. The 'Student' label reflects the self-reported occupation, not an independently verified identity.",
+  "source_url": "https://www.texastribune.org/2012/10/18/faircloth-ad-eiland-lives-in-austin-not-galveston/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "df737b26-0d05-429d-b60c-5726fdf6f558",
+  "name": "Schoenbaum, Brian",
+  "resolved_employer": "Vuka / Vuka Collective (Founder & CEO)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Brian Schoenbaum is the founder and CEO of Vuka Collective, an Austin coworking collective and event venue on the east side that also runs professional-development programming; he has been an SXSW speaker. Matches the self-reported 'Partner / Self Employed - Vuka' and the 78702 East Austin address; gave the same day as Anika Jones Schoenbaum from the same address.",
+  "source_url": "https://vuka.co/our-story/our-team/",
+  "affiliations": []
+ }
+]

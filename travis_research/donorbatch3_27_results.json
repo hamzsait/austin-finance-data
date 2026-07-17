@@ -1,0 +1,168 @@
+[
+ {
+  "donor_id": "9c187b9d-aca9-42c1-a475-2f05ced9a948",
+  "name": "Weir, Jaspar",
+  "resolved_employer": "TaskUs, Inc. (NASDAQ: TASK) — Co-Founder and President since 2008; board member since October 2018",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jaspar Weir co-founded TaskUs in 2008 with CEO Bryce Maddock and has served as its President since founding and as a director since October 2018; TaskUs is a publicly traded provider of outsourced digital customer experience, content moderation and back-office services. He was on Inc.'s 2016 30 Under 30 list and won the 2017 EY Entrepreneur of the Year award. The self-reported 'President / TaskUs' matches exactly and is unique. Note on address: the Austin filing carries a Los Angeles 90067 (Century City) address, but his FEC filings show him at Austin 78731/78703 continuously since 2017 and his LinkedIn lists Austin, Texas — the 90067 entry appears to be a corporate/LA address rather than his residence.",
+  "source_url": "https://ir.taskus.com/board-member/jaspar-weir",
+  "affiliations": [
+   {
+    "org": "United Democracy Project (AIPAC's super PAC)",
+    "role": "Major individual donor — $25,000 on 2023-10-17 and $25,000 on 2026-01-20, both reported with employer TaskUs. UDP is the federal super PAC created by AIPAC in late 2021 to run independent expenditures in Democratic primaries on behalf of candidates supportive of the U.S.-Israel relationship; it spent $14.5M to defeat Rep. Jamaal Bowman and $8.6M to defeat Rep. Cori Bush in 2024.",
+    "category": "aipac_direct",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jaspar+Weir"
+   },
+   {
+    "org": "Trump 47 Committee / Republican National Committee / Save America / Never Surrender, Inc.",
+    "role": "Major donor in July 2024 — $25,000 to Trump 47 Committee, $13,400 to the RNC, $25,000 via WinRed, $5,000 to Save America and $6,600 to Never Surrender; also $6,600 to Vivek 2024 in October 2023 (partially refunded). Earlier in his career he gave to Democrats: $2,700 to Beto O'Rourke in 2018 and $3,300 twice to Mark Kelly for Senate in 2023.",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jaspar+Weir"
+   },
+   {
+    "org": "Founders Pledge",
+    "role": "Member — commitment by entrepreneurs to donate a share of exit proceeds to charity",
+    "category": "civic",
+    "source_url": "https://www.founderspledge.com/members/2407"
+   }
+  ]
+ },
+ {
+  "donor_id": "9b6e9e07-b10a-4d3c-ab7b-9da9ca72f8dd",
+  "name": "Wilson, Randall",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identifiable. The filing reports occupation and employer as 'requested' (i.e. the campaign requested but never obtained the information), leaving only the name and the 78732 (Steiner Ranch / Lake Travis) zip. 'Randall Wilson' is a common name and no public profile ties a specific person to that zip. Caution on the attached FEC statistics: an FEC search of contributor_name=Wilson within zip 78732 returns no Randall Wilson at all (only unrelated Eric and Joe Wilsons), and the only Austin Randall Wilson in FEC records is a William Randall Wilson in 78757 (IT at Blanton & Associates) with just 10 small gifts to Mike Siegel — not the 101 donations recorded on this donor. The fec_partisan_lean of 0.467 and fec_donation_count of 101 therefore appear to be a name-based mismatch and should not be used to characterize this donor.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Randall+Wilson&contributor_city=AUSTIN&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "99d7f81a-a36c-4e5c-9fee-87b116f046b5",
+  "name": "Sherrod, Jesse",
+  "resolved_employer": "Self-employed (self-reported 'Owner' of an entity recorded only as his own name); possibly a life insurance agent in Monrovia, CA — unconfirmed",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Only weakly identified. The 'Self-Employed' label reflects nothing more than the self-reported filing entry — occupation 'Owner', employer 'Jesse Sherrod' — which is the standard pattern for a sole proprietor, not an independently verified fact. The single corroborating hit is an AgentVerified directory listing for a 'Jesse Sherrod, Life Insurance Agent' in Monrovia, California, which matches the 91016 location but is an unverified auto-generated profile with no agency name, license or address, so it is not sufficient to classify him as Finance/insurance. Caution on the attached FEC statistics: FEC records contain no Jesse Sherrod anywhere in California (0 results for both Monrovia and statewide CA); the Jesse Sherrods on file are a retired masonry worker in Baltimore MD 21212 and a not-employed donor in Killeen TX 76543, so the recorded fec_donation_count of 11 and lean of 1.0 are a name-based mismatch and do not describe this donor.",
+  "source_url": "https://www.agentverified.com/monrovia/life-insurance-agent/jesse-sherrod/connect",
+  "affiliations": []
+ },
+ {
+  "donor_id": "986bda3a-9588-45de-9d71-375f9fb65e64",
+  "name": "Beckham, Bell",
+  "resolved_employer": "Caprock (Client Advisor at the time of the 2022 gift) — multi-family office and wealth manager with $8B+ in assets under advisement; subsequently Co-Founder and President of Ultranative, an Austin holding company",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Bell Beckham was a Client Advisor at Caprock, a founding B Corp multi-family office known for its impact-investing platform, managing capital for ultra-high-net-worth families with over $8 billion under advisement; Caprock's Austin office is at 1607 Nueces Street, consistent with a 78703 residence. She holds a bachelor's degree in public relations, advertising and applied communication from UT Austin, has invested in 20+ early-stage companies, and helped develop and launch the spirits company Madres Mezcal; she is now Co-Founder and President of Ultranative, an Austin-based holding company at 108 W Gibson St. The identification is corroborated tightly by FEC records: the only Bell Beckham on file is in Austin 78703, self-describing as 'Investor', with exactly 2 contributions (both March 2024, earmarked to the Jane Fonda Climate PAC) — matching this donor's fec_donation_count of 2 and partisan lean of 1.0 as well as the self-reported 'Investor / Caprock'. Classified Finance for the wealth-advisory role held at the time of the gift.",
+  "source_url": "https://caprock.com/about/locations/wealth-management-austin/",
+  "affiliations": [
+   {
+    "org": "Ultranative",
+    "role": "Co-Founder and President — Austin holding company that builds and invests in businesses addressing human and planetary health",
+    "category": "business",
+    "source_url": "https://www.ultranative.com/"
+   },
+   {
+    "org": "Madres Mezcal",
+    "role": "Played a significant role in the development and U.S. launch of the spirits company",
+    "category": "business",
+    "source_url": "https://pitchbook.com/profiles/person/204005-98P"
+   }
+  ]
+ },
+ {
+  "donor_id": "95fc3d08-a54e-445c-87a1-bc3571f1a027",
+  "name": "Synnott, James",
+  "resolved_employer": "Domain Industries, Inc. (President per corporate records; self-reported 'Manager') — Austin-area wholesale supplier of kitchen, bath and stone-fabrication products",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "James D. Synnott is listed in Texas corporate records as President of Domain Industries Incorporated of Austin, a business operating since 2002 and incorporated in 2005; he has been associated with seven companies over a 28-year span. Domain Industries is a wholesale-only distributor supplying surfacing materials, sinks, faucets, power tools and fabrication accessories to countertop fabricators nationwide, with a Better Business Bureau listing in Buda, immediately south of the donor's 78747 far-south-Austin zip. Identification rests on the exact employer self-report plus the geographic match. Two caveats: the filing self-reports 'Manager' while corporate records show 'President' (both are consistent with a closely held company), and the industry label is a judgment call — Domain Industries is a wholesale/distribution business, classified here as Retail rather than Construction because it distributes materials rather than performing construction work, though it serves the construction and remodeling trade exclusively and appears in The Blue Book construction directory.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/james-d-synnott/33730212.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "94e9529f-776c-4b2b-913b-e43b5a4664d5",
+  "name": "Keese, Stacy",
+  "resolved_employer": "High Five Events (Co-Owner, with Dan Carroll and Jack Murray)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Stacy Keese is a co-owner of High Five Events, an Austin-based company that has grown from launching a single triathlon in 2003 into one of the largest privately owned event-production companies in the United States, appearing on the Inc. 5000 and the 2020 Inner City 100 list. She moved back to Texas in 2000 and created Jack's Generic Triathlon (2003) and the Rookie Triathlon (2004) with partner Jack Murray; the firm acquired Conley Sports Productions in 2015, bringing the Austin Marathon and Half Marathon into its portfolio, and she is credited with driving the company's design and marketing. Her career in event production began producing a 5K in high school. The self-reported 'Events / High Five Events' matches exactly and the 78741 southeast-Austin zip is consistent with the company's Austin base.",
+  "source_url": "https://youraustinmarathon.com/meet-high-five-events/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "932d8811-5a64-4bd9-87fa-265da98175b1",
+  "name": "Tung, Caleb",
+  "resolved_employer": "Latent AI, Inc. (AI Research Scientist) — edge-AI software company",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Caleb Tung is an AI Research Scientist at Latent AI, Inc., a company founded in 2018 whose platform compresses and deploys AI models to run efficiently on edge devices. He earned his PhD at Purdue University working on robust and energy-efficient computer vision, developing a pixel-masking convolutional method that improved inference time and energy use; he was previously a machine-learning research intern at Arm accelerating object detection, and at Southwest Research Institute built a deep neural network deployed via drone to detect methane and oil leaks as part of the R&D 100 Award-winning SLED platform. He has an indexed publication record on Google Scholar and IEEE Xplore. The self-reported 'AI Research Scientist / Latent AI' matches his LinkedIn title exactly, and Latent AI's remote-friendly staffing is consistent with the 78759 northwest-Austin address.",
+  "source_url": "https://www.linkedin.com/in/calebtung/",
+  "affiliations": [
+   {
+    "org": "Latent AI, Inc.",
+    "role": "AI Research Scientist (employee, not an executive, board member or owner). Recorded because Latent AI is a substantial defense contractor: it holds military and government contracts with the Air Force, Navy and Army supporting unmanned systems, was selected for the DoD's APFIT (Accelerate the Procurement and Fielding of Innovative Technologies) program, worked with the Defense Innovation Unit and the Navy on Project AMMO, maintains a dedicated defense business line, and its co-founder/CTO Sek Chai chairs the EDGE AI Foundation's Defense Working Group. No evidence that Tung personally holds a defense policy or lobbying role.",
+    "category": "military_defense",
+    "source_url": "https://latentai.com/industry/defense/"
+   }
+  ]
+ },
+ {
+  "donor_id": "92c8aca0-767c-488d-9b81-21996657c80a",
+  "name": "Holley, Janna",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identifiable. The filing reports both occupation and employer as 'Requested', leaving only the name and the 78733 (Bee Cave Road / west Austin) zip. Public-records aggregators show a Janna Renee Holley in her 40s in Austin (with possible relatives Dale, Mary Rae and Regan Dale Holley) and a separate Janna Holley listed across Austin and Fairview, TX, but nothing establishes which — if either — made this contribution, and neither has a public occupational profile. A ZoomInfo entry for a Janna Holley as an AMCC warehouse supervisor at Hunt Companies exists but is not tied to this zip or otherwise corroborated. She has no FEC contribution history (contributor_name=Holley within zip 78733 returns 0 results), consistent with the recorded fec_donation_count of 0, so donation pattern provides no corroboration either.",
+  "source_url": "https://www.peekyou.com/janna_holley",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8e0863ba-2533-4175-9dce-60de0e49c952",
+  "name": "Meserole, Greg",
+  "resolved_employer": "Watkins Insurance Group (Executive Vice President and Shareholder) — the filing's 'Watson Insurance Group' is a misspelling",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Gregory 'Greg' Meserole is Executive Vice President and a shareholder of Watkins Insurance Group, the largest locally owned independent insurance agency in central Texas (founded in Austin in 1949). He joined in May 2018 after serving as Austin president of another independent agency, has about 30 years in the industry, holds a finance degree from Stephen F. Austin State University and the Certified Insurance Counselor (CIC) designation, and specializes in property/casualty and risk-management solutions for business owners and investors; he serves on the WGC Dell Match Play host committee. The employer as filed, 'Watson Insurance Group', does not exist in Austin — this is a filer error, very likely contaminated by the recipient's name (the gift went to Kirk Watson). The correction is confirmed by FEC records showing 'MESEROLE, GREG | Austin, TX | Watkins Insurance Group | Insurance Agent' giving $250 to INSURPAC (the independent insurance agents' PAC) in December 2021; the self-reported occupation 'Insurance Agency' and the 78746 West Lake Hills address are both consistent.",
+  "source_url": "https://watkinsinsurancegroup.com/who-we-are/meet-our-team/team-member/greg-meserole/",
+  "affiliations": [
+   {
+    "org": "INSURPAC (Independent Insurance Agents & Brokers of America PAC)",
+    "role": "Donor — $250 in December 2021, reported as an insurance agent at Watkins Insurance Group",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Meserole&contributor_state=TX"
+   }
+  ]
+ },
+ {
+  "donor_id": "8dff6d40-b21b-4586-bacf-0b4e57c03aff",
+  "name": "Meade, Bailey",
+  "resolved_employer": "Student at the University of Texas at Arlington ('UTA'); FEC filings from 2025 onward list her as an administrative assistant at ServiceLink",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "The self-reported 'Student / UTA' is corroborated by geography and donation pattern. FEC records show a Bailey Meade in Arlington, TX 76013 — the zip immediately around the University of Texas at Arlington campus — making regular small ActBlue contributions, consistent with a student living at school while filing under a family home address. The 78739 (southwest Austin / Circle C) filing zip is the household of Nikelle Meade, a prominent Austin land-use and zoning attorney and partner at Husch Blackwell (2021 Best Lawyers 'Lawyer of the Year' for Land Use and Zoning in Austin, and a Central Texas Regional Mobility Authority board member), who is by far the dominant FEC contributor at that zip and gives heavily to Democrats including Greg Casar and Lloyd Doggett; that pattern fits this donor's recorded lean of 1.0. The relationship between the two is inferred from the shared surname and address rather than documented, so confidence is medium; note also that the FEC Arlington records date from 2025-2026 (after the July 2024 gift) and list ServiceLink employment, suggesting she has since taken administrative work alongside or after her studies.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bailey+Meade",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8c5ef5bd-a7e9-437c-9095-81e7fc0e2458",
+  "name": "Pielet, Uri",
+  "resolved_employer": "Pielet Brothers Construction (Principal) — Brooklyn-based general contractor and Harlem multifamily developer, run with his brother Yoni Pielet",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Uri Pielet is a Principal of Pielet Brothers Construction, a licensed New York general contractor headquartered at 1500 Ocean Parkway in Brooklyn; he and his brother Yoni develop rental apartment buildings in Harlem designed by Melamed Architect, and the firm also acquires multifamily property (e.g. 145 West 123rd Street). The location corroborates the identification precisely: the filing zip 10026 is central Harlem, and the Pielets' six-story, 16-unit rental development at 15 West 119th Street sits inside that zip — a related state case is captioned Pielet v 15-19 W. 119 LLC. The self-reported 'Construction / Pielet Brothers' matches exactly. Note the filing's location field reads 'New York, TX, 10026', which is a state-code error in the source record; the zip and the person are unambiguously New York, NY. He has no FEC history, matching the recorded fec_donation_count of 0. No relation established to the unrelated Pielet Bros. scrap-metal business of McCook, Illinois.",
+  "source_url": "https://www.buildzoom.com/contractor/pielet-brothers-construction",
+  "affiliations": []
+ },
+ {
+  "donor_id": "8bd9154f-e176-4a82-a63f-ddd1fc120c47",
+  "name": "Walters, Bill",
+  "resolved_employer": "Walters Southwest (William S. Walters III — Owner/President; Austin commercial real estate development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Bill Walters is the owner and CEO/President of Walters Southwest, an Austin commercial real estate development firm established in 1996 and headquartered downtown; it develops mixed-use projects combining offices, retail, restaurants and financial institutions, including the 16.8-acre Park at Bee Cave at RR 620 and Highway 71. FEC records confirm the identification and the sector: 'WALTERS, WILLIAM S' and 'WALTERS, WILLIAM S III' of Austin 78701 file under employer Walters Southwest with occupations 'President', 'Real Estate Investor' and 'Real Estate Developer'. His own federal giving is modest (11 records, 2002-2026) and bipartisan — $1,000 each to Democrats Chris Bell, Ron Kirk and Mark Warner, and smaller gifts to Republicans Michael McCaul and Chris Gober. Caution on the attached FEC statistics: the recorded fec_donation_count of 66 and lean of 0.089 correspond exactly to the 66 FEC records for the surname Walters in zip 78703, which are overwhelmingly Warren Walters (a Real Estate Investor at W2 Real Estate Partners giving to WinRed, Trump and the RNC) plus an Emmy Walters — not Bill Walters. That heavily Republican profile is a name/zip mismatch and should not be attributed to this donor.",
+  "source_url": "https://communityimpact.com/news/2014/12/09/park-at-bee-cave-plans-cleared-for-development-at-hwy-71-and-rr-620/",
+  "affiliations": []
+ }
+]

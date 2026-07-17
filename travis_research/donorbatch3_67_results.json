@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "tcv-8dbb27e5-1aab-4c32-bc2a-ac13aa712b1d",
+  "name": "Phillips, William",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78739 (Circle C area) donor to Ann Howard; prolific Democratic-leaning small donor (90 FEC gifts, lean 1.0). No occupation/employer in filings and 'William Phillips' is too common to confirm a specific individual from zip alone.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-848dfb8c-46d9-4d71-84a5-1c0826b39e18",
+  "name": "Duncan, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor to Ann Howard with no zip, city, occupation or employer recorded; 'John Duncan' is an extremely common name and 611 FEC gifts alone cannot identify the person. Not confidently identifiable.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5e2b72cc-7ecf-4b16-b0d1-a8f340ec3bb9",
+  "name": "Beechner, Sara",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity corroborated: Travis CAD/property records list 'BEECHNER K SARA' (with Mark J Aitala) as owner at 2909 Creek's Edge Parkway, Austin 78733 - matches donor zip. Democratic-leaning Howard donor (FEC lean 1.0). No occupation or employer found, so industry left unclassified.",
+  "source_url": "https://www.city-data.com/austin-properties/C/Creek-s-Edge-Parkway-7.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-54818822-cf33-48c9-8577-97b35382c97a",
+  "name": "Long, Robert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78746 (Westlake) donor to Ann Howard, Democratic-leaning (FEC lean 1.0). 'Robert Long' is common (multiple Austin attorneys of that name exist) and none could be tied to zip 78746 with corroborating detail. Not confidently identifiable.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5380f3fd-6cae-4dd0-b924-9a310772e05f",
+  "name": "Matlock, Veronica",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity corroborated: Veronica Matlock of Pflugerville 78660 appears as a named endorser on Commissioner Jeff Travillion's campaign site and public records place her at a 78660 Pflugerville address - matches donor. No occupation/employer found, so industry unclassified.",
+  "source_url": "http://jefftravillion.com/endorsements",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2a783abb-3ce5-4bfb-bf23-ee200c24b8c4",
+  "name": "Phillips, David",
+  "resolved_employer": "Self-employed computer programmer",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Prior FEC/ActBlue filings list a David Phillips at Austin zip 78736 (Oak Hill) as a self-employed computer programmer - matches this donor's zip and heavy Democratic small-dollar pattern (679 gifts, lean 1.0) to Ann Howard. Occupation self-reported in federal filings.",
+  "source_url": "http://www.city-data.com/elec2/16/elec-AUSTIN-TX-16-part12.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1d79c805-6256-4885-a60b-f156119abe44",
+  "name": "Pope, Edwin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Leander 78641 donor to Commissioner Jeff Travillion. No occupation/employer in filings and no corroborating public record found to identify the specific Edwin Pope. Not confidently identifiable.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-13a6774a-f550-4c4f-8d71-4cbbd76eefd8",
+  "name": "Johnson, Jennifer",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78750 donor to Ann Howard, Democratic-leaning (FEC lean 0.93, 26 gifts). 'Jennifer Johnson' is one of the most common name combinations and cannot be tied to a specific individual from zip alone. Not confidently identifiable.",
+  "source_url": "",
+  "affiliations": []
+ },
+ {
+  "donor_id": "84b41956-87f9-491c-bd59-1b8307646644",
+  "name": "Wintemute, Mike",
+  "resolved_employer": "Texas State University System - Vice Chancellor for Marketing & Communications (also Exec. Director, TSUS Foundation)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Mike Wintemute is Vice Chancellor for Marketing & Communications at the Texas State University System (Austin HQ), matching his self-reported title/employer and 78731 zip. Notable background: former GOP operative - Communications Director for Lt. Gov. David Dewhurst, appointee under Gov. Schwarzenegger, and press secretary for the California Republican Party; here donating to Kirk Watson.",
+  "source_url": "https://www.tsus.edu/offices/bio-wintemute.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "63978339-c763-41fd-88c9-1ff2e6f35f77",
+  "name": "Wintemute, Kelly",
+  "resolved_employer": "Texas State University System - Compliance Officer / Title IX Coordinator",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Kelly Wintemute, MBA/CCEP, is the System Compliance Officer and Title IX Coordinator for the Texas State University System (Austin), matching her self-reported title/employer and 78731 zip (co-resident with Mike Wintemute). Donor to Kirk Watson.",
+  "source_url": "https://www.tsus.edu/offices/bio-kelly-wintemute.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b1f7e1e4-4927-45ce-8547-63ed6ef00646",
+  "name": "George, Jill",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Jill George of College Station 77845 confirmed as a Kirk Watson donor in a public campaign-finance complaint (listed among out-of-Austin contributors). No occupation/employer found and 'Jill George' is too common to classify an industry.",
+  "source_url": "https://theaustinbulldog.org/wp-content/uploads/2024/07/20240731-Watson-Complaint.pdf",
+  "affiliations": []
+ },
+ {
+  "donor_id": "eba227d8-0e8f-4cb6-8973-a6529b4d9e92",
+  "name": "Singh, Arati",
+  "resolved_employer": "Raise Achievement, LLC (founder) - educational evaluation consultant; Austin ISD At-Large Trustee",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Arati Singh founded Raise Achievement, LLC (8101 Cobblestone, Austin 78735 - matches zip), an educational evaluation firm assessing NSF/NASA/US Dept. of Education college-access and STEM programs for clients like Texas A&M and UT. Former Austin ISD board president and current At-Large trustee. Matches self-reported employer/occupation and gifts to Alter/Siegel/Shea.",
+  "source_url": "https://www.singhforaisd.com/about",
+  "affiliations": []
+ }
+]

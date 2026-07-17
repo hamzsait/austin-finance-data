@@ -1,0 +1,144 @@
+[
+ {
+  "donor_id": "0e2946ac-b78a-43c2-a984-bbc272a627be",
+  "name": "Novik, Jay",
+  "resolved_employer": "Principal / co-founder, Black Diamond Capital Partners (Austin private equity fund specializing in insurance); 30+ year reinsurance executive, formerly senior leader at Swiss Re; director of AmeriLife Group and chairman of Shenandoah Life Insurance",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Jay A. Novik is Managing Principal/co-founder of Black Diamond Capital Partners, an Austin-based insurance-focused private equity firm — matching the filing's employer strings ('Black Diamond Partners','Black Diamond Capital') and occupation ('Investor') exactly. Career reinsurance executive: founded Atrium Corp. and European International Reinsurance Co. at Swiss Re, Fellow of the Society of Actuaries. Black Diamond ceased operations in Dec 2022, the same month as his last gift. Notable: 284 FEC gifts at a 0.012 partisan lean = a near-uniformly Republican federal donor giving to Democrat Kirk Watson locally. No AIPAC/pro-Israel, oil/gas, gun or defense affiliations found.",
+  "source_url": "http://www.blackdiamondpartners.com/team.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b7696c0-d9c5-4ee3-a465-8896ef3eb6c5",
+  "name": "Elizondo, Sarah",
+  "resolved_employer": "Trade Marketing Manager, Nulo Pet Food (Austin-HQ premium pet food brand); since moved to Director of Business Development & Acquisitions at Pyramid Global Hospitality",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "LinkedIn and The Org both list Sarah Elizondo as Trade Marketing Manager at Nulo Pet Food, based in Austin, TX (Texas State University alum) — matching the filing's employer ('Nulo Pet Food','Nulo') and occupations ('Manager','Marketing') exactly; she spent ~3.5 years at Nulo, spanning the Oct-Dec 2022 gifts. Nulo is an Austin-headquartered consumer pet-food brand, classified here as Retail (the taxonomy has no consumer-packaged-goods label). Zip 78748 not independently confirmed, but employer/occupation/city align.",
+  "source_url": "https://theorg.com/org/nulo-pet-food/org-chart/sarah-elizondo",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0160043c-5bcd-4702-9439-02c925d98ecf",
+  "name": "Garza, Oscar",
+  "resolved_employer": "External Affairs, AEP Texas (electric transmission & distribution utility); registered Texas lobbyist for AEP Texas, 400 W. 15th St. Ste. 1500, Austin 78701",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Oscar L. Garza is a registered Texas Ethics Commission lobbyist for AEP Texas with an Austin office address, and appeared on a March 2023 Texas Senate Business & Commerce witness list as an AEP Texas representative from Austin — matching the filing's self-reported employer ('AEP Texas') and occupation ('External Affairs') exactly. AEP Texas is a regulated electric utility, so this is utility/energy-sector government affairs rather than oil & gas. Residential zip 78739 not independently confirmed, and an 'Oscar Garza III' now lists Director of Government Relations at ERCOT (plausibly the same person post-move); giving to Ryan Alter and Kirk Watson fits a utility-affairs profile.",
+  "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/oscar-l-garza-84473",
+  "affiliations": [
+   {"org": "AEP Texas (American Electric Power)", "role": "external affairs / registered Texas lobbyist", "category": "political", "source_url": "https://capitol.texas.gov/tlodocs/88R/witlistmtg/pdf/C5102023033008301.PDF"}
+  ]
+ },
+ {
+  "donor_id": "e2f00935-b87c-49eb-9e37-285a5b338b03",
+  "name": "Steen, Jennings",
+  "resolved_employer": "Co-founder/owner, Crossroads Cattle Company, Ltd. (Austin cattle trading firm, 5901 Old Fredericksburg Rd) — trades 300,000-325,000 yearlings annually across TX/OK/KS",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Crossroads Cattle Co.'s own team page states the firm was founded in August 2002 by Leslie Callahan and Jennings Steen; Steen was raised near Cuero, TX and holds a 1990 Texas A&M B.S. in Agricultural Economics. This matches the filing's employer strings ('Rancher and business owner','Crossroads Cattle Company') and occupations ('Broker','Co-Founder') exactly, and the company is Austin-based (donor resides 78733). Classified Self-Employed because the taxonomy has no agriculture/ranching label and he self-reports as a rancher and business owner.",
+  "source_url": "https://crossroadscattle.com/our-team/",
+  "affiliations": [
+   {"org": "Koch Industries, Inc.", "role": "former employee 1993-2002, Wichita KS — purchased feeder cattle and managed pasture cattle for Koch's feed yards. Note: this was an agricultural procurement role, NOT an oil/gas role, despite Koch's oil & gas conglomerate status; recorded for completeness only", "category": "business", "source_url": "https://crossroadscattle.com/our-team/"}
+  ]
+ },
+ {
+  "donor_id": "a203a7fa-6873-4e8b-a1f7-bd687dc24324",
+  "name": "Rogers, Elizabeth",
+  "resolved_employer": "Vice President, Wolff Companies (Houston-based commercial real estate and land development firm); leads planning/development of Gates Ranch plus marketing and communications",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Elizabeth Wolff Rogers, VP of Wolff Companies since 2005, is confirmed at 3909 Balcones Drive, Austin, TX 78731 via Travis County property records — an exact match to the donor's zip, which resolves the Houston-firm/Austin-donor discrepancy. Matches the filing's employer ('Wolff Companies') and occupation ('real estate') exactly. Amherst College magna cum laude 1999; MIT master's in Real Estate Development and Urban Planning; previously at Fremont Realty Capital, Legacy Partners and Catellus Development. Also a key member of the Independence Preservation Trust (historic preservation/conservation, Washington County, TX).",
+  "source_url": "https://wolffcompanies.com/about/leadership/elizabeth-wolff-rogers/",
+  "affiliations": [
+   {"org": "Independence Preservation Trust", "role": "key member (historic preservation and conservation, Washington County, TX)", "category": "civic", "source_url": "https://wolffcompanies.com/about/leadership/elizabeth-wolff-rogers/"}
+  ]
+ },
+ {
+  "donor_id": "97c436e0-d37a-4a94-8607-71882d44a21a",
+  "name": "Clark, Steve",
+  "resolved_employer": "Founding Partner, Cypress Invest, LLC (Austin real estate investment company); founder and former partner/chairman of Cypress Real Estate Advisors, Inc.",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Stephen T. Clark is a founding partner of Cypress Invest, LLC, an Austin-based privately held real estate investment company — matching the filing's employer ('Cypress Invest') and occupation ('Partner') exactly; Austin 78746 is consistent with the firm's Westlake-area base. He founded Cypress Real Estate Advisors in 1995, was previously a Managing Director at Harvard Management Company directing Harvard's real estate investing, and spent 1982-89 at Trammell Crow Company as Philadelphia managing partner. Duke undergrad, Harvard MBA. Notable: 138 FEC gifts at a 0.083 partisan lean = an overwhelmingly Republican federal donor giving to Democrat Kirk Watson locally.",
+  "source_url": "https://cypvest.com/profile/",
+  "affiliations": [
+   {"org": "Explore Austin", "role": "board member", "category": "civic", "source_url": "https://crea.com/about-us/"},
+   {"org": "JDRF Austin", "role": "former board member", "category": "civic", "source_url": "https://crea.com/about-us/"},
+   {"org": "Urban Land Institute / National Multi Housing Council / Pension Real Estate Association", "role": "member", "category": "business", "source_url": "https://crea.com/about-us/"}
+  ]
+ },
+ {
+  "donor_id": "7d16e969-871b-4c79-ae44-dccd9d1606ee",
+  "name": "Smalling, Anne",
+  "resolved_employer": "CEO and Managing Partner, HM International, LLC (Austin-headquartered private equity/family holding company, founded 1979 by the Hojel and Meinig families)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Anne Meinig Smalling has been President/Managing Partner of HM International since 1999 and CEO since 2017; HMI is headquartered in Austin, TX and her LinkedIn lists Austin — matching the filing's employer ('HM International') and occupations ('General Manager','Chief Executive Officer'). Cornell '87, Harvard MBA '92; daughter of the late Peter C. Meinig and elected chair of the Cornell Board of Trustees. Her Austin civic role on the Waterloo Greenway board corroborates the local giving (Watson, Velasquez). Significant oil & gas exposure through HMI board seats (below); FEC lean 0.0 across 2 gifts indicates Republican federal giving.",
+  "source_url": "https://lucerno.com/board-of-directors/",
+  "affiliations": [
+   {"org": "Igasamex", "role": "board member and principal holder — Mexican natural gas distribution/pipeline operator; HM International exited the investment on 2024-10-01", "category": "oil_gas", "source_url": "https://en.wikipedia.org/wiki/HM_International"},
+   {"org": "American Innovations", "role": "board member — provider of pipeline compliance, cathodic protection and data-transmission solutions for the oil and gas industry (HMI acquisition)", "category": "oil_gas", "source_url": "https://en.wikipedia.org/wiki/HM_International"},
+   {"org": "HM International, LLC", "role": "CEO/Managing Partner — the firm's first acquisition was an oil field valve company", "category": "oil_gas", "source_url": "https://en.wikipedia.org/wiki/HM_International"},
+   {"org": "Cornell University Board of Trustees", "role": "chair (trustee since 2017)", "category": "civic", "source_url": "https://607newsnow.com/news/258852-anne-smalling-of-the-meinig-family-elected-chair-of-cornell-board-of-trustees/"},
+   {"org": "Waterloo Greenway (Austin)", "role": "board member", "category": "civic", "source_url": "https://lucerno.com/board-of-directors/"},
+   {"org": "Quality Sausage Company, Garrison Brothers, Cantaloupe, Lucerno, TSG, rateGenius", "role": "director / board member", "category": "business", "source_url": "https://littlesis.org/person/436993-Anne_Meinig_Smalling"}
+  ]
+ },
+ {
+  "donor_id": "685b6761-f526-47c7-af8d-e742f8ddbf3e",
+  "name": "Braecklein, Gayle",
+  "resolved_employer": "Managing Partner/administrator, Yellow Jacket Social Club (Austin bar/restaurant, 1704 E 5th St); previously Owner & GM of Ambiente Holdings (Texas fine wine/craft beer distributor); now an ITMI-certified tour director",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Gayle Braecklein — a distinctive name — is documented as Managing Partner at Yellow Jacket Social Club in Austin, overseeing restaurant operations and event catering, matching the filing's employer ('Yellow Jacket Social Club') and occupation ('Administrator'). Prior role as Owner/GM of Ambiente Holdings, a Texas fine wine and craft beer distributor; UT Austin BA and MBA; currently based in Austin as an ITMI-certified tour director. Downtown Austin 78701 is consistent.",
+  "source_url": "https://www.zoominfo.com/p/Gayle-Braecklein/-2106849564",
+  "affiliations": []
+ },
+ {
+  "donor_id": "04fabea4-4421-42db-ad24-1300055c02d6",
+  "name": "Bennett, Kyndel",
+  "resolved_employer": "Founder and CEO, Cayetano Development (Texas developer of affordable residential communities; formerly Bennett Interests)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Kyndel Bennett is founder/CEO of Cayetano Development, an Austin-based developer of affordable residential communities statewide, matching the filing's employer ('Cayetano Development' / misspelled 'Cayatano Development') and occupation ('Real Estate Development') exactly. A 30-year real estate veteran and former principal in a billion-dollar real estate investment fund; UT Austin BA, UNC Kenan-Flagler MBA. Deep Austin civic footprint corroborates the local giving: past chair of Big Brothers Big Sisters of Central Texas, the Colorado River Alliance and Trinity Episcopal School trustees; Salvation Army advisory board; member of the Austin Area Research Organization.",
+  "source_url": "https://www.cayetanodevelopment.com/history-cayetano-development",
+  "affiliations": [
+   {"org": "Texas Land Developers Association", "role": "board member", "category": "business", "source_url": "https://txlanddevelopers.com/about-us/board/kyndell-w-bennett-2/"},
+   {"org": "Big Brothers Big Sisters of Central Texas / Colorado River Alliance / Trinity Episcopal School", "role": "past board chair (each); Salvation Army advisory board; Austin Area Research Organization member", "category": "civic", "source_url": "https://texaslanddevelopers.org/kyndel-bennett/"}
+  ]
+ },
+ {
+  "donor_id": "dcfbdfd7-83ac-44e8-861d-81b65f03d49a",
+  "name": "Kunik, Max",
+  "resolved_employer": "Co-founder/owner, Wingman Kitchens (Austin shared/commercial kitchen space, 1023 Springdale Rd); also runs Foodie Wingman LLC food consulting and formerly Taster's Table Club",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Max Kunik co-founded Wingman Kitchens with Robert Strong in August 2019 — an Austin shared commercial kitchen with a pop-up window for chefs — matching the filing's employer ('Wingman Kitchen'/'Wingman's Kitchen') and occupation ('Owner') exactly. St. Edward's University entrepreneurship degree; a career Austin food-industry operator (Austin Restaurant Week ops, employee #1 at Favor, Jaime's Foods LLC, 8 years running Taster's Table Club). Austin 78741 residence is consistent with the East Austin business base.",
+  "source_url": "https://www.wingmankitchens.com/leadership",
+  "affiliations": []
+ },
+ {
+  "donor_id": "90c921bb-be9d-43eb-ad07-e116c284ddb5",
+  "name": "Kunik, Sophie",
+  "resolved_employer": "Account Executive / agent, Goosehead Insurance (4201 Bee Cave Rd Ste 209, Austin 78746)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Sophie Kunik is a Goosehead Insurance agent operating from 4201 Bee Cave Rd Ste 209, Austin, TX 78746 — an exact match to the donor's zip (78746 / West Lake Hills) — and matching the filing's employer ('Goosehead Insurace'/'Goosehead Insurance') and occupation ('Account Executive'). Goosehead is a personal-lines insurance brokerage; classified Finance (insurance). Gave on the same dates and to the same three candidates as Max Kunik, indicating a household/family pair.",
+  "source_url": "https://nextdoor.com/pages/goosehead-insurance-sophie-kunik-austin-tx/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-896543df-92e1-4b30-b53b-890398f85a0d",
+  "name": "Margaret Gomez Campaign",
+  "resolved_employer": "Campaign committee of Margaret Gómez, Travis County Commissioner for Precinct 4 (1995-2026); previously Travis County Constable Pct. 4, 1980-1993",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is a political committee, not an individual. Margaret Gómez held the Travis County Precinct 4 commissioner seat from 1995 until retiring at the end of her term in 2026, and was the first Latina elected to the Commissioners Court; she served as Pct. 4 constable 1980-1993 before resigning to run for commissioner. The committee's transfers corroborate the identification: it gave to County Judge Andy Brown and to George Morales, the former county constable who won the 2026 Democratic primary runoff to succeed her in Pct. 4 — candidate-to-candidate transfers to an ally and a designated successor. South Austin 78704 is inside Pct. 4.",
+  "source_url": "https://ballotpedia.org/Margaret_G%C3%B3mez",
+  "affiliations": [
+   {"org": "Travis County Commissioners Court, Precinct 4", "role": "Commissioner 1995-2026 (first Latina elected to the court); Travis County Constable Pct. 4, 1980-1993", "category": "political", "source_url": "https://www.kut.org/politics/2026-05-26/austin-tx-primary-runoff-election-travis-county-commissioner-precinct-4"}
+  ]
+ }
+]

@@ -1,0 +1,161 @@
+[
+ {
+  "donor_id": "af059015-6fe6-46ae-994f-316558eb66c0",
+  "name": "Sanchez, Louie",
+  "resolved_employer": "Hance Scarborough, LLP — Legislative Consultant (contract lobbyist)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Louie M. Sanchez is the Legislative Consultant at Hance Scarborough LLP in Austin, an exact match to the filed employer and the filed occupation 'Consultant'. He joined the firm in December 2020/2021 after roughly a decade as Chief of Staff to Sen. Eddie Lucio Jr. (D-Brownsville), and the firm bio says he represents trade associations, local governments, and industry clients in aerospace, energy, health policy, private equity, and technology. A Capitol lobbyist giving to Kirk Watson in Oct 2022 fits the pattern; no FEC federal giving history.",
+  "source_url": "https://hancescarborough.com/attorneys/louie-sanchez/",
+  "affiliations": [
+   {
+    "org": "Hance Scarborough, LLP",
+    "role": "Legislative Consultant; his own firm bio describes a client portfolio that includes 'industry leaders in aerospace, energy, health policy, private equity, and technology,' and credits him with work on Texas space launch authorization and spaceport infrastructure funding. Specific registered clients were not verified against Texas Ethics Commission filings, and the cited aerospace work is commercial spaceflight rather than defense contracting, so this is recorded as a lobbying portfolio and not as an oil/gas or military-defense affiliation.",
+    "category": "political",
+    "source_url": "https://hancescarborough.com/attorneys/louie-sanchez/"
+   },
+   {
+    "org": "Texas Wildlife Association",
+    "role": "Member, Board of Directors",
+    "category": "civic",
+    "source_url": "https://hancescarborough.com/attorneys/louie-sanchez/"
+   },
+   {
+    "org": "DPAC (Diabetes Patient Advocacy Coalition)",
+    "role": "Vice Chair, national board",
+    "category": "civic",
+    "source_url": "https://hancescarborough.com/attorneys/louie-sanchez/"
+   }
+  ]
+ },
+ {
+  "donor_id": "aee88917-5efb-40dd-9980-96143ce42949",
+  "name": "Cabrera, Cynthia",
+  "resolved_employer": "Hometown Hero (Austin-based hemp-derived THC/CBD products company) — Chief Strategy Officer",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Cynthia Cabrera was appointed Chief Strategy Officer of Hometown Hero CBD in June 2022, matching the filed employer 'Hometown Heros' and the filed occupation 'CSO' exactly. Hometown Hero is headquartered in Austin and she lives in Buda (78610, Hays County, Austin metro), consistent with a 2024 gift to Austin Mayor Kirk Watson. She is also founder/president of the Texas Hemp Business Council and previously ran the Cating Group, a hemp/medical-marijuana consultancy. Classified Retail as the closest taxonomy fit for a direct-to-consumer hemp products brand; note her heavy federal giving history (48 FEC donations, strongly Republican-leaning lean score of 0.07) is consistent with an industry lobbying posture toward the party controlling Texas.",
+  "source_url": "https://hometownhero.com/learn/team/cynthia-cabrera/",
+  "affiliations": [
+   {
+    "org": "Texas Hemp Business Council",
+    "role": "Founder and President",
+    "category": "business",
+    "source_url": "https://texashempbusinesscouncil.com/about-us/"
+   },
+   {
+    "org": "Hemp Industries Association — Cannabinoids Council",
+    "role": "Chair (appointed 2023)",
+    "category": "business",
+    "source_url": "https://thehia.org/hometown-hero-cbds-cynthia-cabrera-appointed-chair-of-cannabinoids-council/"
+   }
+  ]
+ },
+ {
+  "donor_id": "addb6e05-527d-4d77-9a22-c3646a629149",
+  "name": "Norris, Genie",
+  "resolved_employer": "ColorGenie Color Consulting — owner and creative director (architectural color consultant)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Genie Norris is the owner/creative director of ColorGenie Color Consulting, an architectural color consulting practice she opened in Austin in 2009. Business listings place ColorGenie in Austin 78746, an exact match to the donor zip, and the filed occupation 'Color Consultant' and employer 'ColorGenie' both match. She has been featured in HGTV, Domino, Tribeza, and Austin Home. Her 22 FEC donations lean fully Democratic (lean 1.0), consistent with a gift to Kirk Watson. Classified Architecture as the closest taxonomy fit for architectural/interior color consulting; Yelp categorizes the business under Interior Design.",
+  "source_url": "https://www.colorgenie.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ad545cf6-9248-4042-933d-a143c6d72763",
+  "name": "Ferrier, Julian",
+  "resolved_employer": "Double Line, Inc. (Austin data and technology strategy consultancy serving state/local government and nonprofits)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "The filed employer resolves cleanly: Double Line, Inc. is an Austin firm founded in 2009 that provides data and technology strategy services to state and local government and nonprofit clients in K-12 education, health, and justice, and was a 2022 Inc. 5000 honoree. The individual could not be confirmed — no LinkedIn or other profile for a Julian Ferrier at Double Line in Austin surfaced (searches returned a UK estate agent of the same name). The industry is assigned from the verified employer rather than from the person, and the filed occupation 'Business Analyst' is consistent with Double Line's line of work, so confidence is medium.",
+  "source_url": "https://wearedoubleline.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "acc9d658-a77f-4eeb-93a0-a3ff483319e7",
+  "name": "O'Hara, Andrew",
+  "resolved_employer": "Modern Pediatrics (Austin concierge pediatric primary care) — co-founder and CEO",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Andrew O'Hara is co-founder and CEO of Modern Pediatrics, based in Austin, matching the filed employer and the filed occupation 'CEO' exactly. He previously founded and led Chiron Health, an Austin telemedicine platform, and holds a master's in medical informatics from Northwestern. Austin 78704 residence and 14 FEC donations that lean fully Democratic (lean 1.0) are consistent with the 2022 gift to Kirk Watson.",
+  "source_url": "https://www.crunchbase.com/person/andrew-o-hara",
+  "affiliations": []
+ },
+ {
+  "donor_id": "acbd5652-4c8a-4994-98e4-8e7d2398214a",
+  "name": "Broaddus, Linda Sue",
+  "resolved_employer": "Broaddus Enterprises, Inc. — bookkeeping; the company is part of the Broaddus family petroleum business (Broaddus Petroleum Corporation), a Central Texas fuel distributor and Chevron/Texaco station operator",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Broaddus Petroleum's own site identifies Scott W. 'Bill' Broaddus Jr. as president of Broaddus Petroleum Corporation, Broaddus Enterprises, Inc., and Broaddus Properties G.P., and names his wife Linda; public records place Linda S Broaddus (age ~71) on Lime Creek Rd in Volente, an exact match to the filed location of Volente, TX 78641. The filed occupation 'Bookkeeping' at Broaddus Enterprises matches the company's stated function of handling retail store operations and accounting for the family's fuel business. Industry is a judgment call between fuel distribution and convenience-store retail — Bloomberg profiles Broaddus Enterprises itself as a supplier of fuel, lubricants, LPG, and petrochemical products, so Energy / Environment was chosen.",
+  "source_url": "https://www.broadduspetroleum.com/index.php/about-us",
+  "affiliations": [
+   {
+    "org": "Broaddus Petroleum Corporation / Broaddus Enterprises, Inc.",
+    "role": "Bookkeeper at the family-owned Central Texas petroleum distribution and Chevron/Texaco branded station business; wife of president/owner Scott W. 'Bill' Broaddus Jr.",
+    "category": "oil_gas",
+    "source_url": "https://www.broadduspetroleum.com/index.php/about-us"
+   }
+  ]
+ },
+ {
+  "donor_id": "ac95974c-0607-4927-a158-901774db1e9b",
+  "name": "Girard, Kristen",
+  "resolved_employer": "None — self-reported 'Stay at Home Mom' on the filing",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "The industry comes only from the filer's own self-report of 'Stay at Home Mom' as both occupation and employer; the specific individual could not be identified. Public-records aggregators show a Kristen Rene Girard in Austin (previously Kyle, Burnet, and Marble Falls) but nothing corroborates her as this donor, and the filed zip 78768 is an Austin PO-box ZIP that gives no residential signal. No FEC federal giving history.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac714e33-44ba-4085-9a47-20b878b29b56",
+  "name": "Cordero, Avery",
+  "resolved_employer": "None — self-reported student on the filing",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "The classification rests entirely on the filer's own self-report of occupation 'Student' with employer 'None'. No web presence for an Avery Cordero in Austin 78731 could be found to corroborate the person or the school, and there is no FEC federal giving history. A small 2024 gift to Council Member Vanessa Fuentes is consistent with a student donor but does not identify anyone.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac02d7ac-eeb2-4f06-9d75-603a9be60769",
+  "name": "Ripple, Christopher",
+  "resolved_employer": "Bento Box Entertainment (Los Angeles animation studio — 'Bob's Burgers', 'The Great North') — Supervisor, Digital Production",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Christopher Ripple is Supervisor of Digital Production at Bento Box Entertainment in the Los Angeles area, matching the filed employer 'Bento box entertainment' and the filed occupation 'Production supervisor'. He rose from production assistant to digital production coordinator on 'Bob's Burgers' and 'The Great North'. The filed Glendale, CA 91202 address sits in Bento Box's LA base, and his 4 FEC donations lean fully Democratic (lean 1.0), consistent with an out-of-state 2024 gift to Travis County Commissioner candidate Krista Laine — presumably a personal rather than industry connection.",
+  "source_url": "https://www.zoominfo.com/p/Christopher-Ripple/-1878359638",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ab51cbcd-6577-496e-a846-bedb26c1997e",
+  "name": "Taylor, Kathy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot be identified. The filing lists 'requested' for both occupation and employer, meaning the campaign had no employment data, and 'Kathy Taylor' is a very common name with no distinguishing detail beyond Austin 78746 (West Lake Hills/Rollingwood). No FEC federal giving history exists to cross-reference. Nothing in public sources ties any specific Kathy Taylor to that ZIP or to the September 2024 Kirk Watson gift.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa7d90ab-193a-46ec-afd3-27506389b775",
+  "name": "Lyon, Benjamin",
+  "resolved_employer": "C.C. Carlton Industries, Ltd. (Austin-area commercial/residential site and civil construction contractor) — Chief Executive Officer",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Benjamin Lyon is CEO of C.C. Carlton Industries, Ltd., matching the filed employer exactly and the filed occupation 'Executive'. He rose through the firm as Estimator, Director of Estimating, and VP of Estimating, and holds a Texas A&M degree. The company is Austin-based and the donor's Leander 78641 residence is in its immediate service area, consistent with the 2024 gift to Kirk Watson. No FEC federal giving history.",
+  "source_url": "https://cccindltd.com/about/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa6e64dd-97f5-4743-883e-f2962b22d0ce",
+  "name": "Ali, Mehdi",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm. No entity named 'Escarpment Enterprises Inc' could be located in Texas records or anywhere on the web (the similarly named Escarpment Construction LLC of Austin is run by Warren Spain, not an Ali). A plausible but unproven lead: a Mehdi Ali in Austin is president of the Greater Austin Merchants Cooperative Association (GAMA), a 600-member convenience-store and gas-station buying cooperative, and holds an accounting/finance degree from Karachi University — an Austin 'Businessman' consistent with the filed occupation, and 'Escarpment' would be a natural entity name for a store-holding company given Escarpment Blvd in southwest Austin. But nothing links him to the filed employer or to the donor's 78738 (Bee Cave/Lakeway) ZIP, so no industry is assigned.",
+  "source_url": "https://corp.gamaus.com/",
+  "affiliations": []
+ }
+]

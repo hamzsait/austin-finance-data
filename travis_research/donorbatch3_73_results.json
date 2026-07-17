@@ -1,0 +1,135 @@
+[
+ {
+  "donor_id": "61a5820a-be00-4e15-b4fd-444610c6d70c",
+  "name": "Tellez, Juany Castilla",
+  "resolved_employer": "Owner, Juany Cleaning Service LLC (Austin residential/office cleaning & maid service, est. 2005)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Juany Castilla is the named founder/owner of Juany Cleaning Service, a woman- and minority-owned Austin house-cleaning company (2800 S IH-35); VoyageAustin profile and company site confirm her as owner. Small-business owner, not tied to any flagged interest.",
+  "source_url": "https://voyageaustin.com/interview/hidden-gems-meet-juany-castilla-of-juany-cleaning-service-llc/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "61448a0f-9f5c-4cc9-9180-434e0be9ec9b",
+  "name": "Ghwari, Fayez",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Fayez Ghwari of Richmond, TX 77407 gave $250 to Austin CM Zohaib Qadri (2022); public records confirm a Ghwari family at that Richmond ZIP. Occupation listed 'Manager' at 'PH' could not be resolved to a specific employer. A Fayez Ghwari appears as a treasurer of the Islamic Society of Greater Houston (2018), but identity match is unconfirmed. No industry asserted.",
+  "source_url": "https://www.spokeo.com/Hamad-Ghwari/Texas/Richmond/p15865497051",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5aafce85-9fef-44e9-bd52-2360ff392eeb",
+  "name": "Brandes, Robert",
+  "resolved_employer": "Owner, Robert J. Brandes Consulting (water-resources / civil engineering); Ph.D., P.E.",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Robert J. Brandes, Ph.D., P.E., is a water-resources/civil engineer and owner of Robert J. Brandes Consulting at 6000 Maurys Trail, Austin 78730 (matches donor ZIP). Retained as a hydrology/water-resources expert for the State of Texas and listed as a director of the Texas Water Conservation Association. Gave to Kirk Watson.",
+  "source_url": "https://www.linkedin.com/in/bob-brandes-962a9453/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5a4d4813-313f-4c7f-b620-c4f4d89ee2d8",
+  "name": "Vilkin, Kevin",
+  "resolved_employer": "Co-Founder & Managing Partner, Emergent Strategic Partners (Austin strategic-partnerships advisory firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Kevin Vilkin is co-founder/managing partner of Emergent Strategic Partners, an Austin-based advisory firm building corporate partnerships; Forbes 30 Under 30, Milken Young Leaders. Sits on Conservation International board and is a member of Business Executives for National Security (BENS). Gave to Kirk Watson.",
+  "source_url": "https://www.linkedin.com/in/kevin-vilkin/",
+  "affiliations": [
+   {
+    "org": "Business Executives for National Security (BENS)",
+    "role": "Member (BENS is a nonprofit network of business leaders advising the U.S. defense/national-security establishment; member, not a defense contractor)",
+    "category": "military_defense",
+    "source_url": "https://www.globenewswire.com/news-release/2025/04/25/3068385/0/en/Kevin-Vilkin-Joins-Business-Executives-for-National-Security-BENS.html"
+   },
+   {
+    "org": "Conservation International",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://www.globenewswire.com/news-release/2025/04/18/3064140/0/en/kevin-vilkin-joins-conservation-international-board-of-directors.html"
+   }
+  ]
+ },
+ {
+  "donor_id": "572724f1-4087-4f99-8cac-fa396b5d1d0e",
+  "name": "Walters, Melanie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Melanie Walters, Austin 78701, occupation/employer 'requested' (undisclosed). Multiple unrelated Austin women named Melanie Walters/Melanie in 78701 exist; could not corroborate a specific person by occupation or donation pattern. No industry asserted.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "570a4ac9-b0c1-4456-9595-4cb605fbfad5",
+  "name": "Maldonado, Hilbert",
+  "resolved_employer": "Founder/Owner, Hill-Bert's Burgers (Central Austin family burger restaurant, est. 1973)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Hilbert Maldonado founded Hill-Bert's Burgers with wife Lucille in 1973; LinkedIn lists him as founder/CEO and Community Impact profiles the long-running Central Austin family restaurant (now run with his children). Gave to Kirk Watson.",
+  "source_url": "https://communityimpact.com/austin/south-central-austin/dining/2025/09/03/hill-berts-burgers-dishes-up-the-classic-burger-experience-in-central-austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5661f688-df54-4422-9d8c-74386b08d9e7",
+  "name": "Carter, Graham",
+  "resolved_employer": "Partner/Principal, Cordova Real Estate Ventures (Central Texas commercial real estate investment & development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Graham Carter is a partner/principal at Cordova Real Estate Ventures ('Cordova REV'), an opportunistic Central Texas real-estate investment and development firm; two decades of commercial CRE (site selection, leasing, land acquisition), Baylor grad, ex-Weitzman. Austin 78739 matches. Gave to Kirk Watson.",
+  "source_url": "https://www.cordovarev.com/team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ecf95ac-73ba-42eb-9464-72541c43b4f5",
+  "name": "Howard, Eric",
+  "resolved_employer": "H2O Contracting LLC (consultant); likely Eric Howard, EVP of H2O Partners, Inc., an Austin disaster-recovery / flood-insurance consulting firm",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Eric Howard, Austin, is EVP of H2O Partners, Inc., a disaster-recovery/insurance consulting firm founded by Jo Ann Howard (ex-FEMA). Donor employer string reads 'H2O Contracting LLC' and occupation 'consultant', a close but not exact match (ZIP 78750 vs firm's 78746), so identity is probable but not certain. Gave to Kirk Watson.",
+  "source_url": "https://www.linkedin.com/in/eric-howard-312b0385/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4df9ea8a-2e50-47d2-9e3f-74ec71dd017f",
+  "name": "Leurig, Sharlene",
+  "resolved_employer": "Founding CEO, Texas Water Trade (water/environmental finance nonprofit); now Texas Regional Director, WestWater Research",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Sharlene Leurig founded and led Texas Water Trade (sustainable water finance / environmental-flows nonprofit) 2018-2024 and chaired Austin's Water Forward 100-year water plan task force; now Texas Regional Director at WestWater Research. Austin 78704 water executive matches. Gave to Kirk Watson.",
+  "source_url": "https://texaswatertrade.org/team/sharlene-leurig-2/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4d17941e-7d60-4234-9a7b-6758b045cab6",
+  "name": "Jones, Marshall",
+  "resolved_employer": "T. Marshall Jones, principal of Bon Vivant Consulting (food & tech M&A / corporate-development advisory); founder of Sumptuary Austin",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "T. Marshall Jones runs Bon Vivant Consulting, a C-suite advisory doing corporate development, FP&A and M&A for food & tech clients; former consumer-industry M&A investment banker (Robertson Stephens, Cowen, ThinkEquity). Austin 78701 matches. Gave to Kirk Watson.",
+  "source_url": "https://www.linkedin.com/in/tmarshalljones/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "419fdd60-0cf2-460f-9651-1c607e3be057",
+  "name": "McDonald, Leonard",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Leonard McDonald, Austin 78731, occupation/employer 'requested' (undisclosed). No public source could corroborate a specific person at this ZIP with an identifiable occupation. No industry asserted.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "3b1b903b-417d-4862-9cd9-86fc734249ad",
+  "name": "Brooks Hiller, Joshua",
+  "resolved_employer": "Senior Loan Officer & Team Manager, JB Mortgage Group (Austin residential mortgage lender)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Josh (Joshua) Hiller is a Senior Loan Officer/Team Manager at JB Mortgage Group in Austin (NMLS 223903), originating loans since 2008; son of a former Texas Assn. of Mortgage Brokers president, UT-Austin '04, and a USMC Iraq veteran (military service, not defense industry). Austin 78759 matches. Gave to Marc Duchen.",
+  "source_url": "https://loanpeople.com/loan-officers/josh-hiller/",
+  "affiliations": []
+ }
+]

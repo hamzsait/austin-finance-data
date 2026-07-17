@@ -1,0 +1,161 @@
+[
+ {
+  "donor_id": "1d032ae0-01e4-4e78-a44b-8bcc51c2b1b3",
+  "name": "Melton, Jeff",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported as 'owner, Glenview Avenue Holdings' in Austin 78746 (Westlake). No record of a 'Glenview Avenue Holdings' entity could be found in web or corporate-registry searches, and no FEC contributions exist for any Jeff Melton at 78746 (FEC 78746 Meltons are John/Rebecca/Janine Melton, unrelated names). 'Jeff Melton' is a common name with 100+ LinkedIn profiles; none corroborated to this zip or entity. Not identified.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Melton&contributor_zip=78746&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "1968efa1-4b04-4000-9cef-64106211d66c",
+  "name": "Felsenthal, David",
+  "resolved_employer": "Aleysian LLC (partner)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "David Felsenthal is a Partner at Aleysian, a Chicago-based cloud consulting firm and systems integrator (Salesforce, Salsify, ServiceNow implementation partner); he later became a Managing Director at Spaulding Ridge in Chicago. Self-reported employer 'Aleysian LLC' + occupation 'Partner' + Chicago 60614 (Lincoln Park) match exactly. Distinct from the David Felsenthal who is CEO of EAB in Washington DC. No FEC history (consistent with fec_donation_count 0); the Chicago FEC Felsenthals are Steven A. Felsenthal, a different person.",
+  "source_url": "https://www.builtinchicago.org/company/aleysian",
+  "affiliations": []
+ },
+ {
+  "donor_id": "16f8c925-6cef-49a3-99cc-ae46eff36363",
+  "name": "Damen, Jason",
+  "resolved_employer": "Energy Transfer — Director of Government Affairs (registered Texas lobbyist)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Jason Damen is Director (previously Senior Manager) of Government Affairs at Energy Transfer, the Dallas-based oil and gas pipeline company, based in Austin, TX — matching the self-reported employer 'Energy Transfer' and Austin 78723. He is a registered Texas lobbyist contracted by Energy Transfer for $417,410–$626,110. Prior roles: American Electric Power, Office of Gov. Rick Perry, and State Sen. Mike Jackson; BA in Government, UT Austin.",
+  "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/jason-damen-69730",
+  "affiliations": [
+   {
+    "org": "Energy Transfer",
+    "role": "Director of Government Affairs / registered lobbyist for the oil & gas pipeline company",
+    "category": "oil_gas",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/jason-damen-69730"
+   }
+  ]
+ },
+ {
+  "donor_id": "16039879-9c90-41aa-916e-9050f0563b49",
+  "name": "Mason, Norman",
+  "resolved_employer": "Not employed / retired (self-reported to FEC)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC records for Norman Mason at Austin, TX 78717 show a long run of small-dollar contributions (Harris for President, Colin Allred for Senate, Elect Democratic Women, ActBlue) consistently self-reporting employer 'NOT EMPLOYED' and occupation 'NOT EMPLOYED' or 'RETIRED'. Zip, name, and the heavily Democratic pattern corroborate the batch record (fec_partisan_lean 0.82, 85 donations). Former career could not be determined, so no prior industry is assigned.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Norman+Mason&contributor_zip=78717&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "156ea72d-7e92-4bbd-8c66-5672c0a93949",
+  "name": "Scott, Tiffany",
+  "resolved_employer": "RÓEN Beauty LLC — co-founder and CEO",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Tiffany Thurston Scott is co-founder and CEO of RÓEN Beauty (rendered 'R?EN Beauty, llc' in the filing due to the accented Ó), a luxury clean-cosmetics brand founded in 2019 and headquartered in Salt Lake City, Utah — matching the self-reported title 'Chief Executive Officer' and Salt Lake City 84111. A Utah native; brand sold through Bluemercury and other beauty retailers.",
+  "source_url": "https://www.crunchbase.com/person/tiffany-scott-64b2",
+  "affiliations": []
+ },
+ {
+  "donor_id": "13da4ab2-b653-4d6f-b526-46aaf97884d8",
+  "name": "Hancock, Holly Jones",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer reported ('NA'), no FEC history, and nothing corroborates a specific person. A Holly Hancock is a Los Angeles Superior Court judge elected 8 Nov 2022 (one day before this 9 Nov 2022 gift) and a former LA County deputy public defender, and FEC records show a Seth Hancock, LA County public defender, at this same 90025 zip — but the judge is Holly L. Hancock, not 'Holly Jones Hancock', no spousal or household link is documented, and no connection to Kirk Watson or Austin was found. Not identified; the resemblance is unconfirmed and may be coincidental.",
+  "source_url": "https://ballotpedia.org/Holly_Hancock",
+  "affiliations": []
+ },
+ {
+  "donor_id": "12e7f6ad-13df-469c-984a-35520e06d8e7",
+  "name": "Lee, Jackie",
+  "resolved_employer": "Pearlstone Partners — Administrative Assistant to the CEO",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jacqueline 'Jackie' Lee is Administrative Assistant to the CEO at Pearlstone Partners, an Austin luxury-urban-living real estate development firm with over half a billion in assets. The filing's swapped fields (occupation 'Pearlstone Partners', employer 'Admin') match her title exactly. A UT Austin graduate (Asian Culture and Languages) who has held internal real-estate support roles in marketing and operations since 2017; Austin 78750.",
+  "source_url": "https://www.pearlstonepartners.com/team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "12649863-38a5-410d-aea1-33e2205dadbe",
+  "name": "Baker, Laura",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer both filed as 'requested' (i.e. the campaign never obtained them). FEC contributions from a Laura Baker in Austin place her at zips 78764 and 78722 (employer Edelman, marketing) — not the 78750 in this record — and total only four small gifts, so the batch's fec_donation_count of 133 appears to be a loose name match rather than this person. 'Laura Baker' is a common name and nothing corroborates a specific individual at 78750. Not identified.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Laura+Baker&contributor_state=TX&contributor_city=AUSTIN",
+  "affiliations": []
+ },
+ {
+  "donor_id": "11bae40e-72f5-407f-8df7-3f2f319c1f19",
+  "name": "Clay, Reed",
+  "resolved_employer": "Crestline Solutions / Crestline Group — founder and CEO (government affairs / lobbying firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Reed Clay (John R. Clay Jr.) founded and runs Crestline Solutions, an Austin government-affairs and lobbying firm, matching the self-reported 'Consultant, Crestline Solutions' and Austin 78704. He spent eight years with Gov. Greg Abbott, rising from the attorney general's office to Chief Operating Officer for the State of Texas and Abbott's deputy chief of staff. Texas Scorecard ranks him the seventh highest-paid lobbyist in Texas (up to $4,675,000); clients include the Texas Oil and Gas Association, Dow Chemical, Motorola Solutions, Hyundai, NextDecade LNG, Superior HealthPlan, and the Port of Corpus Christi. He is also president of the Texas Nuclear Alliance.",
+  "source_url": "https://texasscorecard.com/state/reed-clay-from-government-to-lobbying/",
+  "affiliations": [
+   {
+    "org": "Texas Oil and Gas Association / NextDecade LNG",
+    "role": "Registered lobbyist — both are Crestline Solutions clients; his firm represents the state's principal oil & gas trade association and an LNG export developer",
+    "category": "oil_gas",
+    "source_url": "https://texasscorecard.com/state/reed-clay-from-government-to-lobbying/"
+   },
+   {
+    "org": "Texas Nuclear Alliance",
+    "role": "President — nuclear industry trade association founded 2022",
+    "category": "business",
+    "source_url": "https://texasnuclearalliance.org/about-us/"
+   },
+   {
+    "org": "Office of Texas Gov. Greg Abbott",
+    "role": "Chief Operating Officer for the State of Texas and deputy chief of staff (former)",
+    "category": "political",
+    "source_url": "https://texasscorecard.com/state/reed-clay-from-government-to-lobbying/"
+   }
+  ]
+ },
+ {
+  "donor_id": "10a7de99-ee68-47fb-82e9-3b14a8b72213",
+  "name": "Wang, Shin-Tower",
+  "resolved_employer": "Ensoft, Inc. / Lymon C. Reese & Associates — President and Project Manager",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Shin-Tower Wang, Ph.D., P.E., is president and project manager of Ensoft, Inc./Lymon C. Reese & Associates, an Austin geotechnical-engineering software firm — matching the self-reported 'Project Manager/President, Ensoft' and Austin 78750. A registered professional engineer in Texas and Oklahoma with 40+ years in civil engineering, he holds an M.S. (1982) and Ph.D. (1986) from UT Austin, is a member of its Academy of Distinguished Alumni, and co-authored Wiley's 'Analysis and Design of Shallow and Deep Foundations'. Consults on deep foundations for offshore platforms, wind farms, and long-span bridges.",
+  "source_url": "https://www.caee.utexas.edu/alumni/academy-of-distinguished-alumni/1173-shin-tower-wang",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0fb2c7cd-ff92-4ac1-b0f3-c2c73dfad0f5",
+  "name": "Kozlowski, James",
+  "resolved_employer": "Venturi Wealth Management (Venturi Private Wealth) — Senior Managing Director, Private Equity",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "James 'Jim' Kozlowski is Senior Managing Director for Private Equity and a named principal at Venturi Wealth Management, an Austin-based independent wealth management firm and multi-family office — matching the self-reported 'Investor, Venturi wealth management' and Austin 78746 (Westlake). He previously co-founded and was president of TGF Management Corp., managing the Texas Growth Fund and Southwest Opportunity Partners, investing more than $700 million across 47 middle-market companies.",
+  "source_url": "https://venturiprivatewealth.com/meet-our-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f6b0bf1-ace6-4669-bb70-ce916219552a",
+  "name": "LaMantia, Greg",
+  "resolved_employer": "L&F Distributors, LLC — manager/owner (Budweiser beer wholesaler)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Greg LaMantia is a manager/owner of L&F Distributors, LLC, the McAllen-headquartered Budweiser wholesaler his family has owned and operated since 1977 — matching the self-reported 'Administrator, L&F Dist. LLC' and McAllen 78501. The company employs 1,100+ across seven locations serving 53 counties in Texas and New Mexico with roughly 70% market share. He helped establish the Stars Scholarship Fund in 2002, which has disbursed over $35 million to 17,000+ South Texas students. The LaMantias are a prominent South Texas Democratic donor family (fec_partisan_lean 0.76).",
+  "source_url": "https://www.ushbc.com/greg-lamantia",
+  "affiliations": [
+   {
+    "org": "Stars Scholarship Fund",
+    "role": "Founder/board member — South Texas student scholarship nonprofit",
+    "category": "civic",
+    "source_url": "https://starsscholarship.org/board-members/"
+   },
+   {
+    "org": "United States Hispanic Business Council",
+    "role": "Listed member/leadership",
+    "category": "business",
+    "source_url": "https://www.ushbc.com/greg-lamantia"
+   }
+  ]
+ }
+]

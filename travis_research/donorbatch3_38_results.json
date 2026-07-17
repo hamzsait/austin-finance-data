@@ -1,0 +1,187 @@
+[
+ {
+  "donor_id": "28bd66b4-9f3e-43ba-b704-4920ea373d8e",
+  "name": "Abramowitz, Josh",
+  "resolved_employer": "Austin Radiological Association / ARA Diagnostic Imaging (neuroradiologist)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Joshua G. Abramowitz, MD is a board-certified diagnostic radiologist with a neuroradiology subspecialty practicing at ARA Diagnostic Imaging (Austin Radiological Association) in Austin; he did his residency at UT Health San Antonio and a neuroradiology fellowship at UCLA. The filing's 'Radiologist / Austin Radiological Association (ARA)' and Austin 78746 match his ARA physician profile, and he is listed as a member of the Travis County Medical Society.",
+  "source_url": "https://www.ausrad.com/doctors/dr-joshua-abramowitz/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "286b2fe6-214c-4084-ad4a-3e864fd319d4",
+  "name": "McLean, John",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Classification rests solely on the filer's self-report of 'Student' with no employer on the Kirk Watson filing. 'John McLean' is a very common name with ~2,000 directory matches nationally and nothing corroborates a specific person at Austin 78727 by school, occupation, or donation pattern. The 47 FEC contributions with a mixed partisan lean (0.41) are not consistent enough with a student profile to use as corroboration; not identified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "2654e0bc-9927-472e-88c1-373130225a0b",
+  "name": "Hempfling, Bobby",
+  "resolved_employer": "AllTerra Central, Inc. (president; authorized Trimble dealer for survey, mapping/GIS and forensics equipment)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Bobby (Robert) Hempfling has been president of AllTerra Central, Inc. since 2018; the firm is the premier authorized Trimble dealer for survey, mapping/GIS, forensics and marine equipment across Texas, Oklahoma and Arizona, with eight offices. He is a 1994 UT Austin economics graduate previously at AT&T Wireless and Nokia, and is based in the Austin metro, matching the filing's 'President / AllTerra Central' and Austin 78746. Classified as Technology for the geospatial hardware/software business; note the company is a B2B equipment dealer serving civil engineering and survey clients.",
+  "source_url": "https://theorg.com/org/allterra-central-inc/org-chart/bobby-hempfling",
+  "affiliations": []
+ },
+ {
+  "donor_id": "24e562fb-406b-4b4e-a1d1-264bf3ea65ea",
+  "name": "Pincoffs, Peter",
+  "resolved_employer": "Marsh McLennan Agency / Wortham Insurance & Risk Management, Austin (insurance broker; former president and board chairman of Wortham)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Edmund Peter Pincoffs is an Austin insurance broker who was president and board chairman of Wortham Insurance & Risk Management's Austin operation; Wortham was acquired by Marsh and now operates as part of Marsh McLennan Agency (MMA), which matches the filing's employer string 'MMA' and occupation 'Insurance'. Property and licensing records place Peter E. Pincoffs at 1707 Cromwell Hill, Austin 78703, matching the filing's zip exactly; the surname is rare in Austin.",
+  "source_url": "https://www.insuranceproviders.com/agents/pincoffs-wortham-insurance-and-risk-mgmt-austin/",
+  "affiliations": [
+   {
+    "org": "Wortham Insurance & Risk Management (now Marsh McLennan Agency)",
+    "role": "President; Chairman of the Board, Austin operation",
+    "category": "business",
+    "source_url": "https://www.insuranceproviders.com/agents/pincoffs-wortham-insurance-and-risk-mgmt-austin/"
+   }
+  ]
+ },
+ {
+  "donor_id": "24665ba7-4c6e-47b8-9f7a-0f706bc8b83e",
+  "name": "Bhaidani, Munira",
+  "resolved_employer": "Margolin & Keinarth, M.D., P.A. (family medicine physician assistant)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Munira A. Bhaidani, PA-C is a board-certified family medicine physician assistant at Margolin & Keinarth, M.D., P.A., 5222 Burnet Rd, Austin; she earned a Master of Physician Assistant Studies from UT Southwestern in 2006. The filing's misspelled 'Physican Assistant / Margolyn and Keinart' resolves cleanly to this practice, and her NPI registration places her in Austin, consistent with the 78731 residential zip.",
+  "source_url": "https://npiregistry.cms.hhs.gov/provider-view/1841481108",
+  "affiliations": []
+ },
+ {
+  "donor_id": "236d4624-b7b5-4ed4-89dd-313cff7f0356",
+  "name": "Stamatopoulos, Athanases",
+  "resolved_employer": "Benelux Corporation, d/b/a The Palazio (president/owner; Austin adult cabaret, formerly The Show Palace)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Athanases Stamatopoulos is listed in Texas corporate records as president of Benelux Corporation, which operates The Palazio, an Austin adult cabaret that traded as The Show Palace from 1995 to 2005; he was named personally alongside the company in FremantleMedia's 2008 trademark suit over its 'Stripper Idol' contests and in a wage suit by former wait staff. The filing's 'Club owner / Benelux Corporation' and Austin 78735 match this distinctive name and company.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/a-stamatopoulos/34201159.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "21f3c9c5-85b3-45ab-aff3-900720068f70",
+  "name": "Ruf, Linda",
+  "resolved_employer": "St. John Paul II Life Center / Vitae Clinic (chief executive officer; Catholic pro-life pregnancy resource center and clinic)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Linda Ruf is CEO of the St. John Paul II Life Center and its affiliated Vitae Clinic in Austin, a faith-based pro-life pregnancy resource center and women's health clinic in the Catholic Diocese of Austin; she is a CPA with roughly 20 years of nonprofit service and was formerly EVP of Development for Relevant Radio. The filing's 'Chief Executive Officer / JPII Vitae Life Cemter' resolves to this organization, and her FEC record (167 contributions, partisan lean 1.0 Republican) is consistent with this profile.",
+  "source_url": "https://jpiilifecenter.org/about-us/",
+  "affiliations": [
+   {
+    "org": "Heartbeat International",
+    "role": "Board of Directors member",
+    "category": "civic",
+    "source_url": "https://jpiilifecenter.org/about-us/"
+   },
+   {
+    "org": "St. John Paul II Life Center / Vitae Clinic",
+    "role": "Chief Executive Officer",
+    "category": "civic",
+    "source_url": "https://jpiilifecenter.org/about-us/"
+   }
+  ]
+ },
+ {
+  "donor_id": "207f27b6-5a68-4662-abe7-538dda41aab7",
+  "name": "Ferdman, Rebecca",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Classification rests solely on the filer's self-report of 'Student' (employer entered as 'Stufent') on the Kirk Watson filing. No web source identifies a Rebecca Ferdman in Austin 78746; the only findable people of that name are a Los Angeles County sustainability official and an Austin professional whose surname is actually spelled Feferman. Not identified.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "1e53aa8d-00b6-4b62-981a-9d37e765ef67",
+  "name": "Krier, Joseph",
+  "resolved_employer": "Krier Consulting Group, Inc. (principal; strategic/governmental affairs counsel). Former San Antonio City Council member (District 9) and former president/CEO of the Greater San Antonio Chamber of Commerce",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Joseph R. 'Joe' Krier is principal of Krier Consulting Group in San Antonio, providing strategic counsel on local, regional, statewide and national issues; he served on the San Antonio City Council for District 9 from November 2013 to June 2017 and was president/CEO of the Greater San Antonio Chamber of Commerce from 1987 to 2007. Texas corporate records list him as an officer of Krier Consulting Group, Inc. in San Antonio, matching the filing's 'Consultant / Krier Consylting Group, Inc.' and San Antonio 78216. He is married to former state Senator Cyndi Taylor Krier.",
+  "source_url": "https://ballotpedia.org/Joe_Krier",
+  "affiliations": [
+   {
+    "org": "San Antonio City Council (District 9)",
+    "role": "Council member, 2013-2017; chair, Economic and Human Development Committee",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Joe_Krier"
+   },
+   {
+    "org": "Greater San Antonio Chamber of Commerce",
+    "role": "President and CEO, 1987-2007",
+    "category": "business",
+    "source_url": "https://www.mlpsa.org/about-us/mlp-emeritus/members/joe-krier/emeritus"
+   },
+   {
+    "org": "SH 130 Concession Company board",
+    "role": "Chair",
+    "category": "business",
+    "source_url": "https://www.mysh130.com/krier-elected-chair-of-sh-130-board/"
+   },
+   {
+    "org": "College for All Texans Foundation",
+    "role": "Board of Trustees member",
+    "category": "civic",
+    "source_url": "https://college4texans.org/board-of-trustees-2/joseph-krier/"
+   }
+  ]
+ },
+ {
+  "donor_id": "1df135f2-fb0f-4114-8061-b06817a44b55",
+  "name": "Jaffe, Jordan",
+  "resolved_employer": "Spectre Air Capital (co-founder & CEO; mid-life aircraft and engine leasing, freighter and VIP conversions)",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Jordan Elliott Jaffe has led Spectre Air Capital as co-founder and CEO since its 2013 founding; the firm leases mid-life aircraft and engines and converts passenger aircraft to freighters and VIP jets, and is a subsidiary of the Jaffe family's Jetran aircraft-leasing business. He is a 2006 UT Austin government graduate; corporate records place a Jordan E. Jaffe in Horseshoe Bay, TX, matching the filing's Horseshoe Bay 78657 and 'Co-Founder & Chief Executive Officer / Spectre Air Capital'. Searched specifically for defense ties: Spectre Air Capital is a commercial aviation lessor with no defense contracts found (the defense-sector hits for 'Specter Aerospace' and QinetiQ's 'SPECTRE' sensor are unrelated companies), so no military-defense affiliation is recorded.",
+  "source_url": "https://spectre.aero/about/",
+  "affiliations": [
+   {
+    "org": "St. Stephen's Episcopal School (Austin)",
+    "role": "Board of Directors member, joined May 2020",
+    "category": "civic",
+    "source_url": "https://people.equilar.com/bio/person/jordan-jaffe-st-stephens-episcopal-school/32904527"
+   }
+  ]
+ },
+ {
+  "donor_id": "1dafcb03-c1c9-442e-80bc-5582e44885ae",
+  "name": "Shamir, Nachum",
+  "resolved_employer": "Retired medical-device/diagnostics executive; former chairman & CEO of Luminex Corporation, Austin (2014-2021) (retired)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Nachum 'Homi' Shamir was president, CEO and board chairman of Austin-based Luminex Corporation, a clinical-diagnostics and life-science testing company, from October 2014 until its 2021 acquisition by DiaSorin S.p.A.; the September 2022 gift and the filing's 'Executive / Retired' at Austin 78735 are consistent with that exit. Earlier he was president/CEO of Given Imaging (2006-2014, PillCam capsule endoscopy, sold to Covidien for ~$1B), corporate VP of Eastman Kodak and president of its Transaction and Industrial Solutions Group, and president/CEO of Scitex Corporation. He holds a B.Sc. from Hebrew University of Jerusalem and an M.P.A. from Harvard, and has since chaired MediWound's board. Searched specifically for Israeli military, AIPAC or pro-Israel organizational ties: none found in available sources; his Israeli education and Given Imaging tenure alone are not evidence of affiliation and none is recorded.",
+  "source_url": "https://ir.mediwound.com/board-directors/nachum-homi-shamir",
+  "affiliations": [
+   {
+    "org": "MediWound Ltd.",
+    "role": "Chairman of the Board of Directors since August 2022",
+    "category": "business",
+    "source_url": "https://ir.mediwound.com/board-directors/nachum-homi-shamir"
+   },
+   {
+    "org": "Luminex Corporation",
+    "role": "President, CEO and Chairman, 2014-2021",
+    "category": "business",
+    "source_url": "https://people.equilar.com/bio/nachum-shamir-luminex-corporation/salary/927676"
+   }
+  ]
+ },
+ {
+  "donor_id": "1d85cd8e-7da5-4020-9c85-adb4dc6f4b93",
+  "name": "Whitfield, Marcus",
+  "resolved_employer": "The Whitfield Company / Whitfield RE Services (commercial real estate broker and investor)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Marcus J. Whitfield is a commercial real estate broker with The Whitfield Company, a Manchaca, TX firm founded in 1988 that specializes in Austin-area commercial real estate; he joined in 2003 and holds a finance degree from Texas A&M. His LinkedIn lists 'Whitfield RE Services' matching the filing's employer string, and both LoopNet and public records place him in Manchaca 78652, matching the filing's zip; property records show investment activity concentrated in Austin and Manchaca.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/marcus-whitfield/jy6s2f7b",
+  "affiliations": []
+ }
+]

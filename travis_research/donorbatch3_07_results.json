@@ -1,0 +1,243 @@
+[
+ {
+  "donor_id": "efae3eaf-c92b-4416-868a-5e3e902b567a",
+  "name": "Ettin, Ross",
+  "resolved_employer": "TRIMEDX — SVP, Centurion Sales Channel Development; previously co-founder & President of Centurion Service Group (medical equipment auction/appraisal, acquired by TRIMEDX)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Ross A. Ettin co-founded Centurion Service Group and served there 2001-2024 as VP Business Development then President; since Jan 2023 he is SVP, Centurion Sales Channel Development at TRIMEDX, a healthcare clinical-engineering firm. The filing's occupation ('President') and both employer strings ('Trimedx - SVP' and 'Centurion') map onto this one rare-named individual. Held at medium because public profiles place him in Chicago/Franklin Park IL (Centurion HQ) and no independent source corroborates a West Lake Hills 78746 residence — the zip is consistent with a relocation or remote role but is unverified.",
+  "source_url": "https://theorg.com/org/trimedx-llc/org-chart/ross-ettin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "e8c702c7-5d3b-428d-ac81-758f239e1bc3",
+  "name": "Zimmerman, Bruce",
+  "resolved_employer": "Tresalia Capital — Investment Director (Apr 2024-Oct 2025), family office managing the Aramburuzabala/Bailleres fortune; former CEO & CIO of UTIMCO (2007-2016, Austin); former CIO of the Dalio Family Office; Lead Independent Director, Oaktree Specialty Lending",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Bruce Zimmerman was CEO/CIO of the Austin-based University of Texas Investment Management Company 2007-2016 (grew assets $20B to $40B), later CIO of Ray Dalio's family office, and joined Tresalia Capital as Investment Director in April 2024 — confirmed by Bloomberg and his Oaktree Specialty Lending director bio. The filing's employer 'Tresalia' and occupation 'Investor' match, and the donation window (2024-08-01 to 2024-10-15) falls squarely inside his Tresalia tenure; the 78731 Austin zip is consistent with his long UTIMCO residency.",
+  "source_url": "https://www.oaktreespecialtylending.com/team/bruce-zimmerman",
+  "affiliations": [
+   {
+    "org": "B'nai B'rith Youth Organization",
+    "role": "Former International President (youth leadership role)",
+    "category": "jewish_civic",
+    "source_url": "https://www.oaktreespecialtylending.com/team/bruce-zimmerman"
+   },
+   {
+    "org": "Vistra Energy Corp.",
+    "role": "Board member; resigned effective the 2020 Annual Meeting of Stockholders. Vistra is an integrated electric power generator with a large natural-gas-fired fleet, not an oil & gas E&P company — fossil-energy adjacent rather than a pure oil & gas tie",
+    "category": "oil_gas",
+    "source_url": "https://www.directorsandboards.com/roster/individual/bruce-zimmerman"
+   },
+   {
+    "org": "CommonFund",
+    "role": "Vice Chairman, Board of Trustees (nonprofit asset management)",
+    "category": "business",
+    "source_url": "https://www.oaktreespecialtylending.com/team/bruce-zimmerman"
+   },
+   {
+    "org": "Houston Endowment",
+    "role": "Former Investment Committee member",
+    "category": "civic",
+    "source_url": "https://www.oaktreespecialtylending.com/team/bruce-zimmerman"
+   }
+  ]
+ },
+ {
+  "donor_id": "e31a1aa3-482a-468a-803f-13961a4d424a",
+  "name": "Tynberg, Alex",
+  "resolved_employer": "Tynberg LLC — Principal/owner; real estate developer (multifamily and mixed-use, Central/North Texas; developer of the 115-acre Northline project in Leander)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Alexander Hollander Tynberg, Principal of Tynberg LLC, an Austin-based real estate development firm he founded in 2008; formerly a developer at Andrews Urban LLC, Program Director at the Trust for Public Land, and an environmental/real-estate litigation attorney in San Francisco (LEED AP). Zip corroborated: his Avvo attorney record lists 2501 Tarryhill Pl, Austin, TX 78703-1500 — exact match to the filing zip, and the self-reported occupation 'Owner, Real Estate Professional' / employer 'Tynberg LLC' matches the company exactly.",
+  "source_url": "https://tynberg.com/about/",
+  "affiliations": [
+   {
+    "org": "Downtown Austin Alliance",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://tynberg.com/about/"
+   },
+   {
+    "org": "Greater Austin Chamber of Commerce",
+    "role": "Committee Member",
+    "category": "business",
+    "source_url": "https://tynberg.com/about/"
+   },
+   {
+    "org": "Long Center for the Performing Arts",
+    "role": "Corporate Council Member",
+    "category": "civic",
+    "source_url": "https://tynberg.com/about/"
+   },
+   {
+    "org": "Congress for the New Urbanism",
+    "role": "Policy advisor",
+    "category": "civic",
+    "source_url": "https://tynberg.com/about/"
+   }
+  ]
+ },
+ {
+  "donor_id": "d634e116-7936-4524-8fb2-245f9e5d818b",
+  "name": "Goehring, Katherine",
+  "resolved_employer": "Vianovo — Partner (Austin office); strategic brand, policy and crisis communications consultancy",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Katherine Nash Goehring, partner in Vianovo's Austin office since March 2015; previously head of corporate communications/investor relations at Martha Stewart Living Omnimedia, AVP at Rubenstein Associates, and a principal at Public Strategies in New York working with former Gov. Ann Richards. Zip corroborated: public-records aggregators place Katherine Nash Goehring at 2502 Jarratt Ave, Austin, TX 78703 (Tarrytown) — exact match to the filing zip; further West Austin corroboration via WAYA Family Day Chair and Seton Development Board roles. Held at medium because the filing lists no occupation/employer to cross-check, there is no FEC record, and the address match rests on commercial aggregator data rather than a primary source. A separate Katherine Goehring (founder of 'Everybody Wins', nonprofit development in New York/Seattle/Chicago) was checked and ruled out as a different person.",
+  "source_url": "https://vianovo.com/people/katherine-nash-goehring",
+  "affiliations": [
+   {
+    "org": "Vianovo",
+    "role": "Partner, Austin office",
+    "category": "business",
+    "source_url": "https://vianovo.com/news/katherine-goehring-joins-vianovo"
+   },
+   {
+    "org": "Seton Development Board (Ascension Seton Foundation)",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://vianovo.com/people/katherine-nash-goehring"
+   },
+   {
+    "org": "West Austin Youth Association (WAYA)",
+    "role": "Family Day Chair",
+    "category": "civic",
+    "source_url": "https://westaustinnews.com/community/wayas-legacy-luncheon-honors-board-members-supporters-and-staff/"
+   }
+  ]
+ },
+ {
+  "donor_id": "d22b7761-4c10-4ede-879d-2411adc4c794",
+  "name": "Gebhard, Thomas",
+  "resolved_employer": "GDS Associates, Inc. — engineering/consulting firm for electric utilities (Austin office)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "No independent trace of a Thomas Gebhard at GDS Associates could be found: absent from the GDS team page, from FEC records (0 results for 'Thomas Gebhard' anywhere in TX), from PUC Texas testimony filings, and from LinkedIn (the Thomas/Tom Gebhard profiles found are a NextCoal exec in Boston and a Bluerock Energy person in Westwood — neither matches). Classification rests on the donor's own sworn Austin filing (occupation 'Engineer', employer 'GDS Associates'), which checks out contextually: GDS self-describes as a 'multi-service consulting and engineering firm' serving electric co-ops, munis and IOUs, and has a real Austin office (6836 Bee Caves Rd). Weak zip corroboration only — FEC shows a Carole Gebhard in the same 78731 zip (a tax preparer), likely a relative but a different person. 'Engineering' over 'Energy / Environment' because GDS is an engineering consultancy whose clients are electric/power utilities, not an energy producer.",
+  "source_url": "https://www.gdsassociates.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d1f363c7-6031-4a75-8470-996dbe8d1292",
+  "name": "Epstein, Josh",
+  "resolved_employer": "Socati Corp. — CEO; hemp-derived cannabinoid ingredient manufacturer, Austin (acquired by Yooma Wellness March 2021; employment status as of the Dec 2022 gift unverified)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Identity confirmed: FEC Schedule A returns 'EPSTEIN, JOSH', Austin, zip 78746, employer SOCATI, occupation CEO, on six 2019 records (earmarked via ActBlue to Shannon Hutcheson for Congress, a Democrat — consistent with the 1.0 Democratic lean). Matches the LinkedIn profile of Josh Epstein, CEO of Socati Corp. in Austin (J.D. UT Law; previously president/COO of cannabis firm Nuvera and a partner at FastForward Innovations, an early-stage VC). Distinct from the Boston-area marketing exec Josh Epstein (AtScale/Aras/Coder). Industry left null deliberately: Socati is a B2B hemp-extract ingredient manufacturer and no taxonomy label fits it honestly (not Healthcare, not Retail; 'Venture Capital' reflects only a prior role), and Socati was absorbed by Yooma in 2021, so his employer at the Dec 2022 gift date is unconfirmed. Confidence is medium for identity, not for industry. Disambiguation note: a separate ROBERT EPSTEIN (Austin 78746, Prophet Capital) gave $50k-$250k to AIPAC's United Democracy Project super PAC — a different person, no established link to Josh.",
+  "source_url": "https://www.fec.gov/data/receipts/?contributor_name=Josh+Epstein&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf06b81d-743c-4176-bbe6-7de7d0ece6ad",
+  "name": "Womack, Daniel",
+  "resolved_employer": "Dow (Dow Chemical) — Global Director for Climate & Carbon Policy; previously Dow's State Government Affairs Director, Southwest Region",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Daniel Womack is a Dow corporate policy executive based in Austin, TX, whose title is 'Global Director for Climate and Carbon Policy' / 'Global Lead for Carbon & Energy Policy' — matching the donor's 'Policy' and 'Government Affairs' occupation strings and the 'Dow' employer ('Doe' is a typo). Career corroborates: policy staff for two Texas state Senators, Chief of Staff to the Chairman of the TCEQ, then VP of Government Affairs at the Texas Chemical Council (2010-~2015), then Dow state government affairs (TX/CO/AR) and now global carbon/energy policy. Classified Energy / Environment rather than Consulting / PR because he is an in-house carbon/energy policy director (not a retained consultant) and his regulatory career is environmental/energy-specific. No oil_gas flag: Dow is a chemical manufacturer and the Texas Chemical Council a chemical trade association; no sourced evidence places him as an exec/board member/owner of an oil & gas company, so despite petrochemical adjacency the flag is not warranted. FEC lean 0.0 across 150 donations is consistent with a Texas chemical-industry government-affairs exec giving to Republicans; the Watson gift is a nonpartisan municipal race.",
+  "source_url": "https://texaswatertrade.org/team/daniel-womack/",
+  "affiliations": [
+   {
+    "org": "Texas Chemical Council",
+    "role": "Vice President of Government Affairs (from Nov 2010, ~5 years; former)",
+    "category": "business",
+    "source_url": "https://www.bicmagazine.com/resources/people-going-places/daniel-womack-people/"
+   },
+   {
+    "org": "Texas Commission on Environmental Quality (TCEQ)",
+    "role": "Chief of Staff to the Chairman (former)",
+    "category": "political",
+    "source_url": "https://texaswatertrade.org/team/daniel-womack/"
+   },
+   {
+    "org": "Texas Water Trade",
+    "role": "Listed team/board member (water conservation nonprofit)",
+    "category": "civic",
+    "source_url": "https://texaswatertrade.org/team/daniel-womack/"
+   }
+  ]
+ },
+ {
+  "donor_id": "c75a45df-f58a-4055-a6ac-830ecb020806",
+  "name": "Luchak, Matthew",
+  "resolved_employer": "The Beck Group — construction superintendent (listed as Assistant Superintendent on Beck's SMU Residential Commons project; likely more senior by the 2022 donation date)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Matthew Ryan Luchak's residential address (15509 Fox Run Dr, Austin TX) sits in zip 78737 — an exact independent match to the donor zip. A U.S. Green Building Council profile identifies Matt Luchak, a 2011 Texas A&M graduate, as an Assistant Superintendent running Trimble robotic layout at the SMU Residential Commons — a project The Beck Group's own site confirms it built; a Texas A&M construction-science writeup also places a Matt Luchak in that major. This corroborates the record's 'Construction' occupation and 'The Beck Group' employer, and Beck has an Austin office. Held at medium because the role/title comes from an older USGBC profile and no single current source simultaneously confirms Beck Austin employment and the 78737 residence. Classified Construction, not Architecture — Beck is a design-build firm but his sourced role is field construction supervision. Note: the Matthew Luchak at AlayaCare (healthcare software, Canada) is a different person.",
+  "source_url": "https://www.usgbc.org/people/matt-luchak/0010689778",
+  "affiliations": []
+ },
+ {
+  "donor_id": "be2638e9-2184-4406-b0f0-02132f580568",
+  "name": "Hornblower, Josiah",
+  "resolved_employer": "Hornblower Capital Holdings (personal/family investment vehicle); Managing Principal of Blue Pine Partners LLC and Founder/Executive Chairman of Shattuck Labs, Inc. (Austin biotech)",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Josiah C. Hornblower, b. Oct 1975, Vanderbilt/Whitney heir featured in the 2003 documentary 'Born Rich'; identity corroborated by zip 78703 matching Shattuck Labs' Austin HQ at 1018 W 11th St Ste 100 (SEC CIK 1680367), a public Austin listing for 'Josiah C Hornblower, 50, Austin TX', and the self-reported occupation 'Investor' matching his role as Managing Principal of Blue Pine Partners LLC (VC firm, since 2008) and founder of Shattuck Labs and Pelican Therapeutics. Industry set to Venture Capital rather than Finance/Healthcare because his documented investing activity is early-stage venture and company founding, not asset management or clinical operations. No oil_gas flag: no oil-and-gas executive, board, or ownership role could be verified; the only energy link found is two years as a machinist in the Texas oil fields in the mid-1990s, which does not meet the exec/board/owner threshold.",
+  "source_url": "https://www.crunchbase.com/person/josiah-hornblower",
+  "affiliations": [
+   {
+    "org": "Shattuck Labs, Inc. (NASDAQ: STTK)",
+    "role": "Founder, Executive Chairman (CEO 2016-2021)",
+    "category": "business",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680367"
+   },
+   {
+    "org": "Blue Pine Partners LLC",
+    "role": "Founder / Managing Principal (since 2008)",
+    "category": "business",
+    "source_url": "https://www.crunchbase.com/person/josiah-hornblower"
+   },
+   {
+    "org": "Pelican Therapeutics, Inc.",
+    "role": "Founder / Director (CEO 2009-2017)",
+    "category": "business",
+    "source_url": "https://www.crunchbase.com/person/josiah-hornblower"
+   }
+  ]
+ },
+ {
+  "donor_id": "bc5453a0-3243-4403-beed-99bbb6c75159",
+  "name": "Chandlee, Jamie",
+  "resolved_employer": "Rank & Style — Austin-based fashion/beauty product-ranking commerce publisher; Co-owner & CEO",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Jamie Chandlee is co-owner and CEO of Rank & Style, confirmed as Austin-based: she, Dalton Young, and Beth Zerdecki purchased the company (originally founded in NYC in 2013) in 2016 and relocated it to Austin, consistent with the 78703 zip; she publicly describes Austin as her home. Prior career: ~12 years in advertising, including a leadership role on Facebook's retail team. Note: the filing's self-reported occupation 'Founder' is imprecise — she acquired rather than founded the company. Industry classified as Media rather than Retail or Technology because Rank & Style holds no inventory and sells no products of its own — it publishes data-driven editorial 'best of' rankings and derives most revenue from affiliate links to retailers like Nordstrom, Sephora, and J.Crew; its leadership self-describes the business as a 'commerce publisher'.",
+  "source_url": "https://www.builtinaustin.com/articles/rank-and-style-fashion-tech-austin",
+  "affiliations": [
+   {
+    "org": "Rank & Style",
+    "role": "Co-owner & Chief Executive Officer (acquired 2016)",
+    "category": "business",
+    "source_url": "https://www.builtinaustin.com/articles/rank-and-style-fashion-tech-austin"
+   }
+  ]
+ },
+ {
+  "donor_id": "b623c6eb-e64b-4453-a0aa-8da90e9044b7",
+  "name": "Gregg, Ashley",
+  "resolved_employer": "tvg hospitality — Development Manager (live-music venue development/operation company, managing partner Ben Lovett of Mumford & Sons)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Ashley Gregg is listed on tvg hospitality's own team page with the exact title 'Development Manager', matching the filing's occupation and employer strings verbatim; her LinkedIn places her in Austin, TX (consistent with the 78704 South Austin zip) at tvg since Sept 2022, following 10 years at Austin music/events outlet Do512 (Operations Manager 2012-14, Director of Operations 2015-22). Chose 'Hospitality / Events' over 'Real Estate' and 'Entertainment' because tvg self-identifies as a hospitality company and its business is developing AND operating live-music venues/amphitheaters (team roster includes GMs for the Orion Amphitheater and Saturn) rather than being a standalone real-estate developer; her Do512 events-operations background corroborates the events/hospitality read.",
+  "source_url": "https://tvghospitality.com/people/ashley-gregg/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b160ceb2-14ae-43fa-bcec-d815a72e8f22",
+  "name": "Nassour, Sam",
+  "resolved_employer": "Right of Way of Texas, LLC (Austin) — owner/manager and designated real estate broker; right-of-way acquisition, relocation and advisory services",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Samuel Nasrallah Nassour is the designated broker (TREC Broker license 366866) for Right Of Way Of Texas, LLC (TREC Real Estate Broker LLC license 9005106, 'Current and Active', 6103 W Courtyard Dr, Austin TX 78730), listed as owner/president/manager with company email sam.nassour@rightofwayoftexas.com — an exact match to the filing's employer string and both occupation strings. His LinkedIn places him in the Austin metro (consistent with the 78737 residential zip, distinct from the 78730 office), with IRWA SR/WA certification and prior roles at Burns & McDonnell, Atkins, and TxDOT. Chose 'Real Estate' because the firm is a licensed Texas real estate brokerage whose product is land and easement acquisition and his own credential is a broker license; 'Transportation' and 'Energy / Environment' describe the firm's CLIENTS rather than its own industry, and public materials do NOT confirm pipeline or oil & gas work, so no oil_gas affiliation is asserted. On the Austin GOP question: searches surfaced a separate Jimmy Nassour (a City of Austin lobbyist client) and Rosemary Edwards (former Travis County GOP chair), but NO source establishes any family or organizational relationship to Sam Nassour, so no relation is claimed.",
+  "source_url": "https://licensee.io/real-estate/9005106-right-of-way-of-texas-llc-tx/",
+  "affiliations": [
+   {
+    "org": "International Right of Way Association (IRWA)",
+    "role": "Member; Senior Right of Way Professional (SR/WA) certification",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/sam-nassour-939388a/"
+   }
+  ]
+ }
+]

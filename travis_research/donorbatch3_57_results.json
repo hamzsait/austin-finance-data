@@ -1,0 +1,130 @@
+[
+ {
+  "donor_id": "3d80199d-1e70-41a5-9726-9020fa1029d2",
+  "name": "Skillern, Alek",
+  "resolved_employer": "VP of Sales, Tarquin LLC (Tarquin Coolpro) — Texas chemical & petrochemical distributor serving the oilfield/energy sector",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Alek Skillern is VP of Sales at Tarquin LLC / Tarquin Coolpro, a Texas chemical and petrochemical distributor (bleach, caustic soda, HCl, petrochemicals) serving oilfield/energy customers; a UT Austin economics grad based in Austin. This matches the filing's employer string ('Tarquin') and occupation ('Oil and Gas Services') exactly, consistent with donor zip 78703. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.linkedin.com/in/alek-skillern-20268533/",
+  "affiliations": [
+   {"org": "Tarquin LLC (Tarquin Coolpro)", "role": "VP of Sales at a petrochemical/oilfield-services chemical distributor", "category": "oil_gas", "source_url": "https://www.linkedin.com/in/alek-skillern-20268533/"}
+  ]
+ },
+ {
+  "donor_id": "376359d5-c20a-404a-b60b-9a86beeae28c",
+  "name": "Lai, Barry Zhang",
+  "resolved_employer": "Co-Founder and CEO/President, Quantico Energy Solutions — oil & gas data-analytics / machine-learning firm (AI petrophysics, synthetic well logs for shale)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Barry Zhang (Lai) is Co-Founder and CEO/President of Quantico Energy Solutions, an oil & gas data-analytics/ML company (AI petrophysics, synthetic well logs) backed by Shell Technology Ventures and Statoil Technology Invest; Kellogg MBA with prior roles at Axon Energy, HitecVision and Kenda Capital (Shell Ventures). The exact employer match ('Quantico Energy Solutions'), 'President' title and Austin 78746 zip make the identification solid. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.hartenergy.com/exclusives/spotlight-potential-data-analytics-roi-barry-zhang-founder-and-ceo-quantico-energy",
+  "affiliations": [
+   {"org": "Quantico Energy Solutions", "role": "Co-Founder and CEO/President of an oil & gas analytics company funded by Shell and Statoil ventures", "category": "oil_gas", "source_url": "https://www.hartenergy.com/exclusives/spotlight-potential-data-analytics-roi-barry-zhang-founder-and-ceo-quantico-energy"}
+  ]
+ },
+ {
+  "donor_id": "35a9c899-3258-4e05-87ea-d14ef7645d9d",
+  "name": "Beecham, Rachel",
+  "resolved_employer": "Medical-technology / digital-health sales executive at Baxter (formerly Hillrom, acquired by Baxter in 2021); later connected-care/digital-health roles at Diligent Robotics and Glooko",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Rachel Beecham is a medical-technology sales executive — a Digital Health Executive at Hillrom, which Baxter acquired in 2021 (explaining the filing's employer string 'Baxter'), later in connected-care/digital-health growth roles; a UT Austin grad based in Austin. Matches occupation 'Sales Executive'; donor zip 78702 and the shared household with ALTR CTO James Beecham (also 78702, same batch) corroborate the identification. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.linkedin.com/in/rachelbeecham",
+  "affiliations": []
+ },
+ {
+  "donor_id": "34fa566d-fd9d-41cc-800a-f0fcf98ffe25",
+  "name": "Cotton, Austin",
+  "resolved_employer": "The Burt Group (Austin general contractor) at time of filing; a licensed Austin real estate agent, now founder of Cotton Ventures Real Estate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Austin Cotton holds a Baylor BBA in Real Estate, has been a licensed Austin real estate agent since 2021, and per his LinkedIn/Cotton Ventures bio did development work at a local contractor doing ground-up and tenant-improvement construction — The Burt Group's exact specialty. Donor zip 78759 matches The Burt Group's office (9737 Great Hills Trail, 78759), corroborating the 'Burt Group' employer string and the 'Real Estate' occupation. Classified Real Estate per the person's own occupation rather than the firm's construction line. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.cottonventures.com/team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "341f9177-9b7c-49f1-8c5b-6446ab6ee142",
+  "name": "Stroup, Hilry",
+  "resolved_employer": "President, Key Title Group — Central Texas title insurance company (Westlake office)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Hilry S. 'Hil' Stroup is President of Key Title Group, a Central Texas title insurance company, with ~30 years in the title/banking industry, leading its Westlake office (zip 78746 matches the donor's Westlake location). Occupation 'Title Insurance' and employer 'Key Title Group' both confirmed. Classified Real Estate because title/settlement services are tied entirely to real-estate transactions (Finance is the defensible alternative). Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://keytitlegroup.com/about/meet-the-team/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "341df408-86cc-4029-aef0-586685025989",
+  "name": "Harkrider, Mark",
+  "resolved_employer": "Manager/owner, The Harkrider Group, LLC — Austin government-relations/consulting practice; Texas Ethics Commission registered lobbyist and attorney",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Mark D. Harkrider is manager/owner of The Harkrider Group, LLC and a Texas Ethics Commission registered lobbyist every year 2018-2025 (Austin government-relations/consulting practice); he is also an Austin attorney and president of the Hancock Neighborhood Association (Hancock is in central Austin 78705, matching the donor zip). Occupation 'Consultant' and employer 'The Harkrider Group, LLC' confirmed; 19 FEC gifts at 0.89 partisan lean fit an established Austin political operative. Specific lobbying clients were not identifiable from public TEC summary lists. Gave only to Kirk Watson.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+  "affiliations": [
+   {"org": "The Harkrider Group, LLC", "role": "Manager/owner; Texas Ethics Commission registered lobbyist (2018-2025)", "category": "political", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf"}
+  ]
+ },
+ {
+  "donor_id": "328bcd38-3a42-4aab-b5b7-e4a433b9553b",
+  "name": "Beecham, James",
+  "resolved_employer": "Co-Founder of ALTR (ALTR Solutions), an Austin data-security/governance software company; CTO at time of filing, promoted to CEO in Oct 2022",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "James Beecham is the Austin-born co-founder of ALTR, a data-security/governance software company; he served as CTO before being promoted to CEO in October 2022 (co-founder Chris Struttmann became CTO). A UT Austin ECE alum, he matches the filing's occupation ('CTO') and employer ('ALTR') exactly, consistent with donor zip 78702. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.businesswire.com/news/home/20221010005218/en/ALTR-Announces-Promotion-of-James-Beecham-to-Chief-Executive-Officer",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3280661e-864c-417a-9c56-c2316f45a7d7",
+  "name": "Temple, Owen",
+  "resolved_employer": "Self-employed musician, Owen Temple Music — Austin-based Americana/folk-country singer-songwriter",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Owen Temple (b. 1976, Kerrville TX) is an Austin-based Americana/folk-country singer-songwriter with a roughly three-decade catalog (General Store, Dollars and Dimes, etc.), matching the filing's occupation ('Songwriter') and employer ('Owen Temple Music') and donor zip 78703. Heavy federal donor: 274 FEC gifts at 1.0 partisan lean (uniformly Democratic). Gave only to Kirk Watson.",
+  "source_url": "https://en.wikipedia.org/wiki/Owen_Temple",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2fe05814-ea40-40a5-89da-4371bd31c9e8",
+  "name": "Waxman, Lorena",
+  "resolved_employer": "Maven Wave Partners (an Atos company) — Google Cloud Premier / digital-transformation technology consultancy",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Lorena Waxman (formerly Sinjari), Austin TX, works at Maven Wave Partners per LinkedIn — a Chicago-based Google Cloud Premier / digital-transformation technology consultancy acquired by Atos. She is active in Shalom Austin's Jewish Women's Philanthropy (Pomegranate Society), consistent with an Austin Democratic-leaning donor (4 FEC gifts at 1.0 partisan lean). Confidence capped at medium: the filing listed occupation/employer as 'requested' (blank), so the employer comes from an independent LinkedIn match rather than the filing; her specific job title is unconfirmed. Technology is the label used (Consulting / PR is a defensible alternative). Gave only to Kirk Watson.",
+  "source_url": "https://www.linkedin.com/in/lorena-waxman-7404211a/",
+  "affiliations": [
+   {"org": "Shalom Austin Women's Philanthropy (Pomegranate Society)", "role": "Member/ambassador", "category": "jewish_civic", "source_url": "https://www.linkedin.com/in/lorena-waxman-7404211a/"}
+  ]
+ },
+ {
+  "donor_id": "2eb57c34-f395-4fad-852d-ba9064d600ab",
+  "name": "Smith, Elizabeth",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'stay at home mom' with employer 'N/A' in Austin 78703. 'Elizabeth Smith' is an extremely common name and no zip/occupation-specific corroboration could be found, so the specific individual is unresolvable; the 'Not Employed' classification rests solely on the self-reported homemaker status, not any web identification, hence low confidence. Gave only to Kirk Watson; 4 FEC gifts at 1.0 partisan lean (Democratic).",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d8d0ca9-d1f8-4d05-af79-446fc0bf3505",
+  "name": "Scharrer, Anne Marie",
+  "resolved_employer": "Co-founder and partner / Director of Client Services, Arsenal Advertising, LLC — Austin creative branding, PR and marketing agency (est. 2005)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Anne Marie Smith-Scharrer is co-founder and partner (Director of Client Services) of Arsenal Advertising, LLC, an Austin creative branding, PR and marketing agency (est. 2005, 1201 W 6th St) she runs with her brother Jonathan Smith. Name, self-reported employer ('Arsenal Advertising LLC') and Austin location all match; 78746 (Westlake) residence is consistent with an agency principal. Her title is Partner/Director rather than the filing's 'CEO', but she is a firm principal. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://rocketreach.co/anne-marie-smith-scharrer-email_46877579",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d678092-b803-4242-88b3-f5d3ca1ca0e0",
+  "name": "Drenner, Jean",
+  "resolved_employer": "Harben House — woman-owned Austin skincare / clean-beauty retail shop (2117 Goodrich Ave)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "The self-reported employer 'Harben House' is confirmed as a woman-owned Austin skincare/clean-beauty retail small business, and the occupation 'consumer services specialist' (customer service) is internally consistent with a retail shop. No independent record ties this specific Jean Drenner to the store, and despite the prominent Austin land-use attorney 'Drenner' name (Steve Drenner / Drenner Group), her reported employer is the beauty retailer, not the law firm, and no relation was corroborated — hence medium. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://harbenhouse.com/",
+  "affiliations": []
+ }
+]

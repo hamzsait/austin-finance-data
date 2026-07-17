@@ -1,0 +1,122 @@
+[
+ {
+  "donor_id": "6b712f29-9110-4751-9ae2-d70687357a55",
+  "name": "Arethimmappa, Chai",
+  "resolved_employer": "SOG (medical group) — physician/medicine",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Medicine' at 'SOG', San Antonio-area zip 78260; distinctive surname but no independent web/licensing record found to confirm the specific individual. Industry inferred from self-reported medical occupation only.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "6af35e1c-7156-4a7a-a4fa-b10e213c0344",
+  "name": "Hamon, Clark",
+  "resolved_employer": "Cross Waters East / real estate investor (Upbeat Properties I LLC, 177Suniland LLC)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Clark Hamon is a real estate investor/operator based in Austin, activity concentrated in ZIP 78732 (matches donor zip) with holding companies Upbeat Properties I LLC and 177Suniland LLC; corroborates self-reported Real Estate occupation.",
+  "source_url": "https://elementix.ai/investors/tx/clark-hamon",
+  "affiliations": []
+ },
+ {
+  "donor_id": "68f9f807-0bbf-49cc-b9b3-f4792678bc26",
+  "name": "Schneider, John",
+  "resolved_employer": "Harvey Cleary Builders (general contractor) — manager",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Self-reported as a manager at Harvey Cleary Builders, an Austin general-contractor/construction-management firm; 'John Schneider' is a common name so specific individual not independently verified, but employer string ties him to the construction industry.",
+  "source_url": "https://www.harveycleary.com/about-us/locations/austin-tx/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "67b01c4b-6ca9-4820-9cc0-83d8e7e1f734",
+  "name": "Anguamea, Eric",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer both filed as 'requested' (not provided). No corroborating web/public record found for an Eric Anguamea in Austin 78703. Cannot identify.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "667c3758-6a27-48c9-bd6a-d879e0a9a643",
+  "name": "Lipscomb, Amanda",
+  "resolved_employer": "Homemaker (self-reported 'mom', no employer)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'mom' with no employer; public records show an Amanda Secor Lipscomb resident in Austin ZIP 78737 (matches donor zip), consistent with a homemaker.",
+  "source_url": "https://www.linkedin.com/in/amanda-secor-lipscomb",
+  "affiliations": []
+ },
+ {
+  "donor_id": "66439b67-8df2-4ee6-a9f1-2342419f80d6",
+  "name": "Attal, Jeff",
+  "resolved_employer": "El Patio (Austin Tex-Mex restaurant) — owner/operator; also El Patio Foods",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Jeff Attal Jr. is part of the ownership/management of El Patio, the long-running Austin Tex-Mex restaurant, and a principal of El Patio Foods (salsa); matches self-reported restaurateur occupation and Austin 78704.",
+  "source_url": "https://www.texasmonthly.com/food/el-patio-salsa/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "66403951-fabb-4463-85fc-efb97b18b548",
+  "name": "Goodman, Barry",
+  "resolved_employer": "The Goodman Corporation — founder & president (transportation/mobility planning consulting firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Barry M. Goodman, JD, is founder/president of The Goodman Corporation, an Austin-based transportation and mobility planning consulting firm (est. 1980); former FTA senior counsel and Houston METRO's first executive director; Texas Transportation Hall of Honor inductee. Matches Austin 78732 and consultant occupation. Heavy political donor (261 FEC gifts, lean ~0.59).",
+  "source_url": "https://www.thegoodmancorp.com/barry-goodman",
+  "affiliations": []
+ },
+ {
+  "donor_id": "65e5eb99-fb22-4e48-bdc2-c73b60b5ef22",
+  "name": "Barksdale, Jacqueline",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation/employer filed as 'NA'; zip 78767 is an Austin PO-box zip. Multiple people named Jacqueline Barksdale exist; cannot confirm the specific individual or an occupation.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "64062ef3-19a4-4ed0-85bf-cad54048ee4d",
+  "name": "Simmons, Amelia",
+  "resolved_employer": "Amy's Ice Creams, Inc. — owner/founder & CEO",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Amelia 'Amy' Miller Simmons founded Amy's Ice Creams in Austin in 1984 and serves as owner/CEO of the local ice-cream shop chain; matches self-reported Owner of 'Amy's Ice Creams Inc' and Austin 78703.",
+  "source_url": "https://en.wikipedia.org/wiki/Amy's_Ice_Creams",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6397e8c8-1ac1-4bdf-84e7-7d4888a02668",
+  "name": "Hinojosa, Daniel",
+  "resolved_employer": "Lift ATX (East Austin community gym) — founder/owner; former educator",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Daniel Hinojosa founded and owns Lift ATX, a community gym opened 2020 at Springdale/Airport in East Austin; former teacher/coach. Matches self-reported gym owner at 'Lift ATX' and East Austin 78723; gave to Velasquez (District 3).",
+  "source_url": "https://www.kvue.com/article/news/local/hispanic-heritage-month/lift-atx-gym-owner-community-service-austin-east/269-fff74e37-129f-4afd-b387-a27944b0a1b5",
+  "affiliations": []
+ },
+ {
+  "donor_id": "62f5317d-efb3-4ac1-b196-fc9011a83706",
+  "name": "Panzer, Debra",
+  "resolved_employer": "Centene Corporation (managed-care/health insurer) — marketing",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported marketing role at Centene, a Fortune 500 managed-care/health-insurance company; Austin 78731. A Centene VP of Marketing Communications (Debra Danziger) is based at an Austin 78731 address, a possible name discrepancy; classified Healthcare on the self-reported employer regardless of exact surname.",
+  "source_url": "https://www.linkedin.com/in/debradanziger/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6039460a-f0d2-43f7-be00-210c432c4334",
+  "name": "Priske, Joseph",
+  "resolved_employer": "Priske Development LLC — real estate developer/investor",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Joseph Priske is an Austin real-estate investor/developer operating Priske Development LLC (est. 2008/2015; commercial projects, multiple holding LLCs); matches self-reported real estate occupation and Austin 78733.",
+  "source_url": "https://elementix.ai/investors/tx/joseph-priske",
+  "affiliations": []
+ }
+]

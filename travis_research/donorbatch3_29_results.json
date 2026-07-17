@@ -1,0 +1,169 @@
+[
+ {
+  "donor_id": "7d62b917-7035-4af4-8766-e099351028e1",
+  "name": "Sloan, Jon",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records place a Jon E Sloan in Georgetown, TX 78628 (zip matches) with a Round Rock Chamber business listing and a Greater Round Rock Community Foundation board bio, but no record of 'Southern Leasing & Rental Company' could be found in Texas business registries, chamber directories, or web sources, so neither the business nor its line of work (equipment vs. property leasing) can be confirmed. Not classified.",
+  "source_url": "https://web.roundrockchamber.org/directory/results/directions.aspx?listingid=1470",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c7d7792-1bf4-4c67-854d-f452bf82d8c7",
+  "name": "Kennedy, Christopher",
+  "resolved_employer": "Emmaus Projects (Partner/CEO) - Austin consultancy for church, school and nonprofit property redevelopment",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Christopher Kennedy leads strategic visioning and project structuring at Emmaus Projects, an Austin firm that helps churches and nonprofits redevelop underutilized property (he led conceptual design of the $45M St. Austin Catholic Church/School redevelopment). Corroborated by exact employer string, Austin location, and the filed occupation 'Consultant/Chief Executive Officer'. Prior: 7 years CEO of Leadership Austin, 2+ decades at the Lower Colorado River Authority. FEC lean 0.94 D over 63 gifts is consistent with his Austin civic profile.",
+  "source_url": "https://www.emmausprojects.com/meet-the-team",
+  "affiliations": [
+   {
+    "org": "Leadership Austin",
+    "role": "former Chief Executive Officer (approx. 7 years)",
+    "category": "civic",
+    "source_url": "https://www.emmausprojects.com/meet-the-team"
+   },
+   {
+    "org": "Lower Colorado River Authority (LCRA)",
+    "role": "former administrative executive, 20+ years",
+    "category": "civic",
+    "source_url": "https://www.emmausprojects.com/meet-the-team"
+   }
+  ]
+ },
+ {
+  "donor_id": "7c6512f2-222b-40b6-accc-7d2770df0d02",
+  "name": "Khalil, Syed",
+  "resolved_employer": "BLiNK AI (BLiNk AI Inc.), Austin - co-founder/CTO; AI customer-engagement and scheduling software for auto dealerships",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Tracxn lists Syed Khalil as a co-founder of BlinkAI, an Austin AI-marketing/service platform for auto dealers (11-50 employees); company org charts list a Khalil as Founder & CTO (sources vary between 'Syed Khalil' and 'Muasir Khalil', likely the same person under a fuller name - Syed is a common name prefix). Corroborated by exact employer string 'BLiNK AI', filed occupation CTO, and Austin location.",
+  "source_url": "https://tracxn.com/d/companies/blinkai/__2yCeAnBZVwnTAktANnA73k4fbzexIa3LftmkPeFZDTY",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c0e75a8-fe5c-4ced-8dba-64b7def0439a",
+  "name": "Galan Comenero, Estella",
+  "resolved_employer": "Network Funding, LP - mortgage loan officer (NMLS #896325), Round Rock/Austin office",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Network Funding, LP's own loan-officer directory lists Estella Galan, Loan Officer, NMLS #896325, at 1717 N. IH-35 Ste. 210, Round Rock, TX. Exact match on employer string, filed occupation 'Loan Originator', and Austin-area location; 'Comenero' appears to be a second surname she does not use professionally.",
+  "source_url": "https://nflp.com/loanofficer/estellagalan/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7bbc8ae9-b9a7-47db-b957-40e8ef563ed4",
+  "name": "Averitt, Kip",
+  "resolved_employer": "Averitt & Associates, Inc. - Austin lobbying/public-affairs and tax consulting firm he founded in 2010; former Republican Texas state senator (SD-22, 2002-2010)",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting,military-defense",
+  "confidence": "high",
+  "evidence": "Barry Kip Averitt served 17 years in the Texas Legislature (Texas Senate District 22, 2002-2010), chairing the Senate Natural Resources Committee and authoring the 2007 water bill SB 3; he opened Averitt & Associates in 2010 and is a registered Texas lobbyist. Exact employer-string match, Austin 78736, filed occupation 'Consultant', and an FEC partisan lean of 0.0 (all-Republican) across 22 gifts corroborate the former GOP senator.",
+  "source_url": "https://en.wikipedia.org/wiki/Kip_Averitt",
+  "affiliations": [
+   {
+    "org": "Texas Aerospace Partnership (TAP)",
+    "role": "Chair (per his LinkedIn headline and W Public Affairs firm bio); TAP is an Austin-based aerospace industry partnership of 150+ for-profit aerospace companies, research institutions and local governments, and his profile cites defense-industry specialties including workforce and security clearances. Aerospace/defense-adjacent; TAP's own site does not describe itself as a defense-contractor group.",
+    "category": "military_defense",
+    "source_url": "https://www.linkedin.com/in/kip-averitt-7111202b/"
+   },
+   {
+    "org": "Texas Ethics Commission registered lobbyist",
+    "role": "Registered lobbyist; 2023-2024 clients include AMA Communications LLC, Bexar County Education Coalition, Harris-Galveston Subsidence District, Texas Optometric Association. Also affiliated lobbyist/advisor to W Public Affairs.",
+    "category": "political",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/kip-averitt-19725"
+   }
+  ]
+ },
+ {
+  "donor_id": "7acdf282-e80d-4444-8f9c-2b0bf7350608",
+  "name": "Williams, Bryn",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer were 'requested' (never disclosed) on the filing. 'Bryn Williams' is a common name (90+ US records); people-search data shows past 78704 addresses and one LinkedIn profile for a Bryn Williams in Austin as a clinical research assistant, but nothing corroborates that this is the donor. Not classified.",
+  "source_url": "https://www.linkedin.com/in/bryn-williams-95338b2/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "79a8678c-ec69-4df3-911e-fbb8dabeca1a",
+  "name": "Thornton, Kyle",
+  "resolved_employer": "Halff (Halff Associates) - Director of Land Development Engineering / Deputy Operations Manager, Austin office; the filed employer 'Hal' appears to be a truncation of 'Halff'",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Kyle Thornton, PE, is Director of Land Development at Halff's Austin office (civil/land development and transportation engineering), profiled in Halff's own news post for its Home Run Award. The filed occupation 'Engineer' and Austin location match; the employer string 'Hal' is truncated, so the Halff link is inferred rather than stated, hence medium.",
+  "source_url": "https://halff.com/news-insights/inside-halff/director-of-land-development-kyle-thornton-awarded-halffs-home-run-award/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "78de334d-724a-4978-ac3d-3e550c751d02",
+  "name": "Carr, Jonathan",
+  "resolved_employer": "Vehicle Reman - President; fleet-vehicle remanufacturing company (Jarrell, TX; Austin-based leadership)",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Jonathan Carr is President of Vehicle Reman, which remanufactures fleet vehicles (including ambulances) as an alternative to buying new; he is based in Austin, TX and is the son of Christian Brothers Automotive founder Mark Carr. Exact employer-string match plus Austin location and 'Owner' occupation; FEC lean 0.91 D across 139 gifts. Note the filing says 'Owner' while public sources title him President and name Greig Latham as founder.",
+  "source_url": "https://www.vehiclereman.com/about-us-1/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "78d59f9c-716b-4514-8d44-ac56939d623b",
+  "name": "Seidlits, Curtis",
+  "resolved_employer": "Focused Advocacy (founded 2008) - Austin public-affairs/lobbying firm; Founder & CEO. Former Democratic Texas House member (1987-1996)",
+  "industry": "Consulting / PR",
+  "interest_tags": "political-consulting",
+  "confidence": "high",
+  "evidence": "Curtis L. Seidlits Jr. is Founder and CEO of Focused Advocacy, an Austin lobbying firm practicing in legislative advocacy, municipal government, and utilities/energy regulation; he is a registered Texas lobbyist and licensed attorney (Baylor Law). Exact match on employer string and the filed occupation 'Founder and Chief Executive Officer'. He served 5 terms in the Texas House, chairing State Affairs (1993), and later ran the Association of Electric Companies of Texas and was SVP of Public Affairs at Energy Future Holdings/TXU. Horseshoe Bay 78657 residence is consistent with an Austin-Capitol lobbyist.",
+  "source_url": "https://www.focusedadvocacy.com/",
+  "affiliations": [
+   {
+    "org": "Energy Future Holdings (formerly TXU Corp.)",
+    "role": "former Senior Vice President of Public Affairs, overseeing federal/state/local advocacy for Texas's largest fossil-fuel power generator. Note: coal/gas electric generation, not oil & gas exploration/production.",
+    "category": "oil_gas",
+    "source_url": "https://www.focusedadvocacy.com/"
+   },
+   {
+    "org": "Association of Electric Companies of Texas (AECT)",
+    "role": "former President and CEO",
+    "category": "business",
+    "source_url": "https://www.focusedadvocacy.com/"
+   },
+   {
+    "org": "Texas Ethics Commission registered lobbyist",
+    "role": "Registered Texas lobbyist (Curtis L Seidlits Jr)",
+    "category": "political",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/curtis-l-seidlits-jr-20939"
+   }
+  ]
+ },
+ {
+  "donor_id": "7890edc3-716f-4324-99e5-20a302db2e56",
+  "name": "Peeler, Jahnna",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer were reported 'NA' on the filing. Public records show a Jahnna S. Peeler in Austin 78703 (donor zip 78763 is an Austin P.O. box range, so it neither confirms nor contradicts), who appears on an Ascension Seton Foundation gala participant list. No occupation or employer could be established, so no industry is assigned.",
+  "source_url": "https://blockshopper.com/tx/travis-county/austin/property/115743/1501-gaston-avenue",
+  "affiliations": []
+ },
+ {
+  "donor_id": "77060f37-76d1-4ad6-8913-280ce080b6d4",
+  "name": "Maknojia, Sairoz",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer were 'requested' (never disclosed) on the filing. Maknojia is an established Austin-area family surname and public records reference a Sairoz N. Maknojia with Texas ties, but no occupation, employer, or 78704 corroboration could be found. Not classified.",
+  "source_url": "https://www.mylife.com/rahim-maknojia/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "761adcc6-589a-47a5-a72c-e8f8689d2e54",
+  "name": "Medina, Ramon",
+  "resolved_employer": "WCI Solutions (unverified) - filed as a mover/truck driver",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Industry rests on the filing's own self-reported occupation 'Move/Truck Driver' rather than independent web corroboration: no Austin moving or trucking company named 'WCI Solutions' could be found (the only Texas 'WCI Solutions' is WCI Data Solutions, a Plano business-intelligence consultancy, which does not fit a truck-driver role). The individual could not be identified - 'Ramon Medina' is common in Austin - so the person, not the occupation, is the weak link. FEC lean 1.0 D across 92 gifts suggests small recurring ActBlue-style giving.",
+  "source_url": "https://wciconsulting.com/about-wci/",
+  "affiliations": []
+ }
+]

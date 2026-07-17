@@ -1,0 +1,244 @@
+[
+ {
+  "donor_id": "a9ccc96b-0c0b-442b-b27d-c00965afcfa4",
+  "name": "Shanmugasundaram, Marudhachalam",
+  "resolved_employer": "One Group Realty LLC (Round Rock, TX) — real estate investor",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Texas Secretary of State records (via CorporationWiki) tie a 'Shanmugasundaram Marudachalam' to shared Texas entities with Arulnambi Raju, Managing Member of One Group Realty LLC, a Round Rock-based real estate company — matching the filing's occupation string 'one group realty' and employer 'real estate investor' at a Round Rock 78665 address. The same name (rendered 'Shanmugasundaram Marudhachalam') appears as an Austin Hindu Temple trustee and a 2018-2019 Austin Tamizh Sangam board member, consistent with an Austin-metro South Asian community figure. Name-order is ambiguous in the filing and the CorporationWiki linkage is indirect, so identity is probable rather than certain.",
+  "source_url": "https://www.corporationwiki.com/p/34v4c4/arulnambi-raju",
+  "affiliations": [
+   {
+    "org": "Austin Hindu Temple",
+    "role": "Board of Trustees member",
+    "category": "civic",
+    "source_url": "https://austinhindutemple.org/board-of-trustees/"
+   },
+   {
+    "org": "Austin Tamizh Sangam",
+    "role": "Board member (2018-2019)",
+    "category": "civic",
+    "source_url": "https://austintamilsangam.com/aboutus/team/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a936f702-bdd5-49b2-b3d4-82d45ecf23eb",
+  "name": "Murray, Jack",
+  "resolved_employer": "High Five Events (co-founder/owner)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Jack Murray is a founding partner and co-owner of High Five Events, one of the largest privately owned event-production companies in the US (produces the Austin Marathon, 3M Half Marathon, and Jack's Generic Triathlon, which he founded in 2003); he is also a founding partner of Jack & Adam's Bicycles and EventDog.com, and a partner in Austin bars/restaurants including Gibson Bar, The Wheel Bar, Burro Cheese Kitchen, TenTen, Devil May Care, and Mayfair. Filing employer string 'High Five Events' and occupation 'Events' match exactly, and he is the only Jack Murray at the firm; company office is at 211 E Alpine Rd, Austin 78704, with the donor's 78741 residential zip in adjacent East Riverside.",
+  "source_url": "https://youraustinmarathon.com/meet-high-five-events/",
+  "affiliations": [
+   {
+    "org": "Austin Sports Commission",
+    "role": "Chair of the Board",
+    "category": "civic",
+    "source_url": "https://youraustinmarathon.com/meet-high-five-events/"
+   },
+   {
+    "org": "USA Triathlon (Team USA)",
+    "role": "Head mechanic / support staff since 2003",
+    "category": "civic",
+    "source_url": "https://youraustinmarathon.com/meet-high-five-events/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a8d78ea5-8b05-4dcd-a6e5-e638e7df4252",
+  "name": "Poston, Bill",
+  "resolved_employer": "The Launch Box (Austin, TX) — founder/CEO & Executive Chairman; a platform that launches and grows professional-services firms",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Bill Poston is the founder, CEO and Executive Chairman of The Launch Box, headquartered in Austin, TX — an exact match to the filing's occupation (CEO), employer (Launch Box), and Austin 78701 location. He previously co-founded innovation consultancy Kalypso (2004-2020, sold to Rockwell Automation) and was a partner at Deloitte Consulting (1994-2004); he also chairs Muy'Ono Hospitality and Kianalei Capital and is Vice Chairman of the national-service nonprofit Service Year Alliance, consistent with his strongly Democratic FEC history (lean 0.99997, 39 gifts).",
+  "source_url": "https://www.thelaunchbox.com/meet-bill-poston",
+  "affiliations": [
+   {
+    "org": "Service Year Alliance",
+    "role": "Vice Chairman (2023-present); previously board member",
+    "category": "civic",
+    "source_url": "https://www.serviceyearalliance.org/bill_poston"
+   },
+   {
+    "org": "Stelos Alliance",
+    "role": "President (2008-present)",
+    "category": "civic",
+    "source_url": "https://bill-poston.com/resume"
+   },
+   {
+    "org": "Kalypso (innovation consultancy, sold to Rockwell Automation 2020)",
+    "role": "Co-founder / Founding Partner Emeritus",
+    "category": "business",
+    "source_url": "https://bill-poston.com/resume"
+   },
+   {
+    "org": "Muy'Ono Hospitality",
+    "role": "Founder & Chairman",
+    "category": "business",
+    "source_url": "https://bill-poston.com/resume"
+   },
+   {
+    "org": "Kianalei Capital",
+    "role": "Chairman & Managing Member",
+    "category": "business",
+    "source_url": "https://bill-poston.com/resume"
+   }
+  ]
+ },
+ {
+  "donor_id": "a8a4b241-8474-41e5-bfd6-e36b4857e1c2",
+  "name": "Felsenthal, Nooshin",
+  "resolved_employer": "Tishman Speyer — Managing Director / Regional Director for Chicago and Austin (acquisitions & development, Central U.S.)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Nooshin Felsenthal is a Managing Director and Regional Director at Tishman Speyer's Chicago office, covering the Central U.S. including the Chicago and Austin markets — matching the filing's employer (Tishman Speyer), Chicago 60614 address, and 'Investor' occupation (she leads acquisitions/development). She joined Tishman Speyer in 2019 from JLL Chicago, where she executed over $14B in investment sales; her firm's Austin market responsibility explains the out-of-state gift to Kirk Watson.",
+  "source_url": "https://rejournals.com/nooshin-felsenthal-joining-tishman-speyers-chicago-office/",
+  "affiliations": [
+   {
+    "org": "Tishman Speyer",
+    "role": "Managing Director, Regional Director (Chicago/Austin), acquisitions & development",
+    "category": "business",
+    "source_url": "https://theorg.com/org/tishman-speyer/org-chart/nooshin-felsenthal"
+   },
+   {
+    "org": "Wisconsin School of Business (Univ. of Wisconsin-Madison)",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://business.wisc.edu/board-member/profile/nooshin-felsenthal/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a708a471-9a3e-4a60-8d2a-7ad051991ebd",
+  "name": "Kocurek, Jeff",
+  "resolved_employer": "Urology Austin (board-certified urologist)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Jeffrey N. Kocurek, MD is a board-certified urologist at Urology Austin (1301 W 38th St, Austin), matching the filed occupation 'Urologist' and employer 'Urology Austin' exactly; 35 years in practice, past president of the Texas Urological Society, and a self-described third-generation Austin resident consistent with the 78703 (Tarrytown) address.",
+  "source_url": "https://urologyaustin.com/doctors/jeffrey-kocurek-md/",
+  "affiliations": [
+   {
+    "org": "Texas Urological Society",
+    "role": "Past President",
+    "category": "business",
+    "source_url": "https://urologyaustin.com/doctors/jeffrey-kocurek-md/"
+   },
+   {
+    "org": "Travis County Medical Society",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://urologyaustin.com/doctors/jeffrey-kocurek-md/"
+   },
+   {
+    "org": "American Urological Association",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://urologyaustin.com/doctors/jeffrey-kocurek-md/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a5241c4a-c8f8-40ef-93d9-c5d81c521e70",
+  "name": "Sanford, Max",
+  "resolved_employer": "Menlo Equities — Partner, Acquisitions & Asset Management",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Max Sanford is Partner, Acquisitions & Asset Management at Menlo Equities, a Menlo Park-based commercial real estate investment firm, and is explicitly listed on the firm's team page as based in Austin — matching the filed employer 'Menlo Equities' and occupation 'Real Estate Investment'. He led Menlo's expansion into Austin and has been involved in $2B+ in transaction volume; the firm keeps an Austin office at 816 Congress Ave, corroborating the 78703 residential zip.",
+  "source_url": "https://www.menloequities.com/team/",
+  "affiliations": [
+   {
+    "org": "NAIOP (Commercial Real Estate Development Association)",
+    "role": "Forums member; former group head, NAIOP Silicon Valley Developing Leaders",
+    "category": "business",
+    "source_url": "https://www.menloequities.com/team/"
+   }
+  ]
+ },
+ {
+  "donor_id": "a47d53e6-0a8a-4610-a6ae-2db7f49e140d",
+  "name": "Walters, Melanie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reports homemaker (occupation 'Home', employer 'Spouse'), Austin 78703, single $450 gift to Kirk Watson 2024-09-14; the specific person and household could not be identified. DATA CAVEAT: the attached fec_partisan_lean 0.99 / fec_donation_count 36 appears to be a name-only false join — all 36 Texas FEC records for 'WALTERS, MELANIE' are either Austin 78757 (NOT EMPLOYED, small-dollar recurring ActBlue, plus one WinRed 'RETIRED' gift) or Arlington 76016 (RN, Surgical Care Affiliates); none are 78703. The only Walters in FEC at 78703 is Warren Walters (W2 Real Estate Partners, Republican/WinRed giving), but no public source ties him to a spouse named Melanie, so no household link is asserted.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Melanie+Walters&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a4246939-e07b-469e-8c01-f9a067ee43d7",
+  "name": "Cohen, Alec",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reports occupation 'Consultant' / employer 'Property Tax Consultant', Austin 78745, single $450 gift to Kirk Watson 2022-08-27; identity not independently corroborated. Zero FEC contribution records exist for any Alec Cohen in Texas, so there is no donation pattern to cross-check. No property tax consultant by this name was found at Austin-area firms (Texas Protax, Five Stone, Ownwell, KE Andrews, Ryan) or in TDLR property tax consultant materials. The only 'Alec Cohen' found in tax work is the owner/founder of Hopson & Associates CPAs, a North Texas income-tax practice — wrong metro and wrong specialty, so not treated as a match.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Alec+Cohen&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "a10712c5-625d-48de-a8fe-85bc2a80e7ab",
+  "name": "Peisen, Lisa Marie",
+  "resolved_employer": "L&F Distributors (El Paso) — Managing Partner",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Lisa Peisen is managing partner of L&F Distributors, a family-owned (LaMantia family) beer/beverage wholesale distributor in El Paso that employs 1,200+ and distributes Anheuser-Busch, White Claw and Nestle products; she was quoted by El Paso Inc. as managing partner discussing the company's $31M Lower Valley warehouse expansion. Corroborated by the donor's stated occupation 'Managing Partner' at 'L & F Distributors El Paso' and the El Paso 79922 (west side) zip; NBWA video content separately identifies her by full name 'Lisa Marie Peisen' with L&F Distributors.",
+  "source_url": "https://www.elpasoinc.com/news/local_news/el-paso-beverage-distributor-announces-31-million-investment-in-lower-valley/article_2cda5e0c-3bae-11ee-a115-df813cfbf436.html",
+  "affiliations": [
+   {
+    "org": "National Beer Wholesalers Association (NBWA)",
+    "role": "Featured L&F Distributors representative in NBWA member content",
+    "category": "business",
+    "source_url": "https://www.facebook.com/NBWABeer/videos/hear-from-lisa-marie-peisen-about-how-lf-distributors-of-roswell-is-getting-invo/263954001752045/"
+   }
+  ]
+ },
+ {
+  "donor_id": "9f92e9d7-936c-4a5a-9717-52924350ea43",
+  "name": "Churi, Salen",
+  "resolved_employer": "Trust Ventures — Co-Founder and General Partner",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Salen Churi is co-founder and general partner of Trust Ventures, an Austin-based venture capital firm founded in 2017 that invests in startups in heavily regulated markets and helps founders overcome regulatory obstacles. He is a former University of Chicago law professor and founder of its Innovation Clinic; previously associate director of the Institute for Justice's Clinic on Entrepreneurship and an attorney at Kirkland & Ellis and Sidley Austin. Corroborated by the donor's stated occupation 'General Partner' at 'Trust Ventures' and the Austin 78746 (West Lake Hills) zip, matching the firm's Austin base.",
+  "source_url": "https://www.mercatus.org/people/salen-churi",
+  "affiliations": [
+   {
+    "org": "Mercatus Center at George Mason University",
+    "role": "Board Member (since 2020)",
+    "category": "political",
+    "source_url": "https://www.mercatus.org/people/salen-churi"
+   },
+   {
+    "org": "Federalist Society",
+    "role": "Contributor",
+    "category": "political",
+    "source_url": "https://fedsoc.org/contributors/salen-churi"
+   },
+   {
+    "org": "Institute for Justice",
+    "role": "Former associate director, Clinic on Entrepreneurship",
+    "category": "civic",
+    "source_url": "https://www.mercatus.org/people/salen-churi"
+   }
+  ]
+ },
+ {
+  "donor_id": "9ee1f03b-408c-46be-8bff-aca27cc71760",
+  "name": "Johnson, Chase",
+  "resolved_employer": "University of Texas at Arlington — Clinical Imaging Research Center (MRI Technologist, RT(R)(MR))",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Chase Johnson is listed as MRI Technologist, RT(R)(MR), at the UT Arlington Clinical Imaging Research Center (655 W Mitchell St, Arlington, TX 76010; chase.johnson@uta.edu), a university 3T MRI research facility opened 2023-24. Matches the filing exactly on employer (UTA), occupation (MRI Researcher), and geography — Fort Worth 76116 is roughly 20 minutes from the Arlington campus. Note: an unrelated UTA MRI-math PhD student named Talon Johnson surfaces in searches and is not this donor.",
+  "source_url": "https://circ-center.uta.edu/contact-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ca8efc0-efc1-41d0-9c9a-f8de0fbec07f",
+  "name": "Steele, Katherine M.",
+  "resolved_employer": "Berry Austin (BerryAUSTIN) — founder/owner, local frozen yogurt, smoothie and bowl shops; previously owner of Steele Design & Associates",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Kathy (Katherine) Steele is the founder and owner of Berry Austin, a self-serve frozen yogurt business she started in Austin around 2009-2010 after a trip to California; an artist/graphic designer by training (BA, CSU Sacramento; MFA, Texas Woman's University) who previously ran Steele Design & Associates. The filing's employer string 'Berry Austin Desserts LLC', 'Founder' occupation, and Austin 78746 (West Lake Hills) zip all corroborate. Several retail locations have since closed, with the brand continuing at Austin-Bergstrom airport.",
+  "source_url": "https://www.berryaustin.com/home",
+  "affiliations": []
+ }
+]

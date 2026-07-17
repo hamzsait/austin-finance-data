@@ -1,0 +1,129 @@
+[
+ {
+  "donor_id": "d65f9a47-1caf-4c8e-9c71-45550a420441",
+  "name": "Whitley, Megan",
+  "resolved_employer": "None — stay-at-home parent (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Classification rests entirely on her own filed occupation, 'Stay at Home Mom', with employer 'none' — self-report, so it identifies the work status even though the individual is not otherwise traceable. No independent record of a Megan Whitley in 78735 was found. IMPORTANT: the batch's fec_donation_count=1 / lean=1.0 is a FALSE MATCH — the only Megan Whitley in FEC's Texas records is a pharmacist at Safeway in San Antonio 78263 (ActBlue, 2019-05-01), a different person. Do not treat her FEC lean as corroboration.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MEGAN+WHITLEY&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d530720e-b7ea-4006-805b-966ec6bef8ba",
+  "name": "Novakovich, John",
+  "resolved_employer": "Guideline (401(k) retirement-plan provider / fintech; HQ California, has an Austin office) — Analyst",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Rests on the self-reported filing (Analyst @ Guideline, Austin 78741) plus confirmation that Guideline is a real 401(k) recordkeeping and retirement-plan company with an Austin office, so the employer string is plausible on its face. Classified Finance for the substance of the business (retirement-plan administration), though Guideline is also commonly listed as a fintech/tech employer. The specific individual is NOT pinned down: the Austin John Novakovich findable online is a Tesla Autopilot data lead whose public LinkedIn shows no Guideline history, and no Guideline-employed John Novakovich profile could be verified.",
+  "source_url": "https://www.builtinaustin.com/company/guideline",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4f68d07-bcca-4c6b-af34-cb1e8264a41d",
+  "name": "Stein, Steven",
+  "resolved_employer": "Etude Capital LLC — founder, chairman & CEO (private investment holding company, Austin; self-storage investing, insurance/reinsurance affiliates, activist positions e.g. RENN Fund)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Steven Isaac Stein founded Etude Capital in 2012; the firm is headquartered in Austin, matching the donor's downtown 78701 zip, and the filed occupation 'Executive' matches his founder/CEO role. Corroborated independently by SEC filings (Form 13D on RENN Fund) and an SEC IAPD adviser report in his name. His FEC lean of 0.03 across 22 gifts is strongly Republican, notable given the gift went to Austin council candidate Marc Duchen.",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1297704/000092189517002356/sc13d09076030_09292017.htm",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4ca4507-a50c-42f9-8f70-112b70d3794c",
+  "name": "Peel, MD, Deborah C.",
+  "resolved_employer": "Patient Privacy Rights — founder, chair and president (health-privacy nonprofit); formerly a practicing Freudian psychoanalyst/psychiatrist in Austin for ~30 years",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Deborah C. Peel, MD founded Patient Privacy Rights in Austin in 2006 after a long Austin psychiatry career, and leads it as founder/chair/president — a nationally known health-privacy advocate (Modern Healthcare's 100 Most Powerful People in Healthcare, #72; convened the bipartisan Coalition for Patient Privacy; testified to HHS/NCVHS). Note the filing has the fields swapped: 'occupation' holds the employer (Patient Privacy Rights) and 'employer' holds the title (President). Classified Nonprofit / Advocacy for her role at the time of the 2024 gift rather than Healthcare, though her underlying credential is medical.",
+  "source_url": "https://ncvhs.hhs.gov/wp-content/uploads/2014/05/090609p9.pdf",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d3cdad52-ea18-4cbb-8652-0a0b83c7235f",
+  "name": "Cordero, Calista",
+  "resolved_employer": "None — student (self-reported)",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Only basis is the donor's own filed occupation, 'Student', employer 'None', Austin 78731. No independent trace of a Calista Cordero in Austin was found — no LinkedIn, UT/ACC roster, news mention, or FEC record — so the person cannot be corroborated and the industry label is simply the self-report restated.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "d0607415-1de6-40f5-a53c-804805e75a2b",
+  "name": "Delk, Maria",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Residence corroborates but occupation is unknown. Public records place Maria Downing Delk (b. April 1976, married to Joshua Eric Delk) at 9004 Sautelle Ln, Austin TX 78749 since ~2016 — matching the donor zip at the 2022 gift date. However the filing lists occupation and employer as 'requested' (never supplied), she has no FEC contribution history in Texas, and no LinkedIn or other professional record could be tied to her, so no industry can be assigned.",
+  "source_url": "https://www.fastbackgroundcheck.com/people/maria-delk/id/f3354055285638539603",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d031324a-8737-4dc8-9372-0e0c6dfc06b8",
+  "name": "Buechler, William",
+  "resolved_employer": "Buechler & Associates / B&A Law Firm (3660 Stoneridge Rd Ste D101, Austin 78746) — attorney practicing exclusively education/school law for school districts, charter and private schools",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "William M. Buechler, Texas-licensed attorney since 1988 (St. Mary's J.D.), runs a small Austin education-law firm whose office address is in 78746 — matching the donor zip. FEC corroborates the same man as a political donor with a legal employer: a 1994 gift to Doggett for Congress recorded employer 'BUECHLER & SWARTZ', an earlier firm, and his Democratic lean fits the gift to Watson. Caveat: the filing lists occupation/employer as 'requested', and 78746 here is his firm's address — his residence was not independently confirmed, so a same-named neighbor cannot be fully excluded.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=161832",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cfa2c65b-63b2-473a-9820-8022e086cf20",
+  "name": "Boenig, Adam",
+  "resolved_employer": "Brohn Homes — co-founder and Co-President (Austin production homebuilder; acquired 2018 by Clayton Properties Group, a Berkshire Hathaway company)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Adam Boenig co-founded Brohn Homes in 2003 with his brother Aaron and is Co-President; both are Texas Tech graduates in landscape architecture and land planning/development, which matches the filed occupation 'Land Development-Homebuilding' at employer 'Brohn Homes' almost exactly. Trade-press coverage of the Clayton/Berkshire acquisition names him in that role. Classified Construction (homebuilding); the work is also squarely real-estate development — a homebuilders / real-estate-development interest lens applies to this donor.",
+  "source_url": "https://www.builderonline.com/builder-100/berkshires-clayton-acquires-austin-based-brohn-homes_o",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf98e920-1ec7-474f-8c5b-9e208f8185f0",
+  "name": "Epstein, Susan",
+  "resolved_employer": "Self-employed physician — Susan Zane Epstein, M.D., family/general practice, 100 Pascal Ln, Austin TX 78746-2506 (UT Health San Antonio med school, 1993)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "An NPI/provider record establishes Dr. Susan Zane Epstein, family medicine, at 100 Pascal Ln in 78746 — the donor's zip — and FEC records for that exact address suffix (78746-2506) list her occupation as 'PHYSICIAN / SELF EMPLOYED', tying the medical identity to the address. Caveat: at least two same-named Susan Epsteins may live in 78746 — FEC rows split across suffixes -2506, -1087 and -1069, with the -1069/plain-78746 rows recorded as 'HOMEMAKER' giving to Republicans (McCaul, Dewhurst, Lamar Smith) while the physician rows give to Democrats (ActBlue, Hillary, MJ Hegar, Mark Kelly, Giffords). The filing lists occupation as 'Requested', so which one gave to Watson is not provable; the batch's blended 0.87 lean and 18-gift count mix these people and should not be relied on.",
+  "source_url": "https://opennpi.com/provider/1407101744",
+  "affiliations": [
+   {
+    "org": "Giffords PAC (gun-violence-prevention organization founded by Gabrielle Giffords)",
+    "role": "individual donor (2019-12-31 contribution recorded at Austin 78746-2506, the physician's address)",
+    "category": "gun_control",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=SUSAN+EPSTEIN&contributor_state=TX"
+   }
+  ]
+ },
+ {
+  "donor_id": "ceb49d09-0f49-41bb-9053-dda5e97ca241",
+  "name": "Whitworth, Scott",
+  "resolved_employer": "WM Capital Partners LLC — founder and managing partner (Austin alternative-investment firm founded 2008; opportunistic credit, private equity and real assets, $1B+ deployed)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Scott Whitworth founded and runs WM Capital Partners, an Austin-based alternative investment firm, matching the filed occupation 'Investor' at employer 'WM Capital Partners' and the Austin 78703 (Tarrytown) zip. Career corroborated across sources: Georgetown J.D. (2002), associate at Cravath Swaine & Moore, VP at Goldman Sachs, and the Office of the Texas Lieutenant Governor before founding the firm; the firm appears in SEC Form D filings. His FEC lean is 0.0 (fully Republican) across 3 gifts. The firm invests in 'real assets' but no oil & gas or defense holding was found — nothing supporting an energy or military-defense affiliation.",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1846042/000184604221000002/xslFormDX01/primary_doc.xml",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ce2fb461-d42b-4ef5-a323-57959f8e933f",
+  "name": "Weir, Jaspar",
+  "resolved_employer": "TaskUs (NASDAQ: TASK) — co-founder and President, and board member since Oct 2018 (global digital outsourcing / BPO and customer-experience company, ~48,000 employees)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jaspar Weir co-founded TaskUs in 2008 and has served as President since; TaskUs's own investor-relations board page and corporate bio confirm the role, matching the filing exactly ('President' @ 'TaskUs'). He is based in Austin, consistent with the 78731 zip. USC B.S. in Communication (2008); Inc. 30 Under 30 (2016) and EY Entrepreneur of the Year (2017).",
+  "source_url": "https://ir.taskus.com/board-member/jaspar-weir",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd025311-ab43-448b-8cb9-013ebfee893e",
+  "name": "Price, Laura",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot identify. The filing lists occupation and employer as 'requested', the name is very common, and the donor is out of state (Overland Park, KS 66209) with no obvious connection to an Austin mayoral race. Searches of Overland Park business, chamber and government directories surfaced no matching Laura Price. IMPORTANT: the batch's fec_donation_count=41 / lean=0.055 is a FALSE MATCH — FEC returns zero contributions for any Laura Price in Overland Park or zip 66209; the 41 gifts belong to a different, Texas-based Laura Price picked up because the enrichment pipeline filters on contributor_state=TX regardless of the donor's actual state. Her partisan lean is unknown.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=LAURA+PRICE&contributor_city=OVERLAND+PARK",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,161 @@
+[
+ {
+  "donor_id": "82fce1f7-ebf9-4304-9268-a241056599df",
+  "name": "Zamarripa, Ricardo",
+  "resolved_employer": "American Structurepoint, Inc. — Vice President, Austin office (July 2015–Sept 2022); now Texas Transportation Group Manager at Alfred Benesch & Company",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Ricardo Zamarripa, PE — licensed civil engineer (Texas A&M BS Civil Engineering, St. Edward's MBA) who was VP at American Structurepoint's Austin office at 1717 W. Sixth St. through Sept 2022, matching the filing's employer and the May 2022 gift date; prior VP/Regional Manager at Klotz Associates and senior PM at LJA Engineering. Transportation/infrastructure engineering.",
+  "source_url": "https://www.benesch.com/leadership/office-contact-austin/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "821bbbad-75f4-4101-867c-58bd35049eee",
+  "name": "Rower, Penny",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No identifying information. Filing lists occupation and employer as 'requested' (never supplied), no FEC donation history, and web searches on the name plus Pflugerville/78660 returned no person by this name. Cannot corroborate identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "8174148c-4788-4b22-8a77-dc9be1635e81",
+  "name": "Hill, Andrew",
+  "resolved_employer": "Berkadia — Senior Director, commercial/multifamily mortgage banking (Austin)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Andy (Andrew) Hill has worked in real estate finance for 20+ years at Berkadia, whose Austin office is at 2500 Bee Cave Road — inside the donor's 78746 zip; he has originated ~$8.1B in debt financing and equity placement for multifamily and commercial properties. Occupation ('Real Estate Finance'), zip, and city all corroborate.",
+  "source_url": "https://base.berkadia.com/people-and-locations/people/andrew-hill/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "81540785-f90d-4134-9cca-9f967369e25d",
+  "name": "Hentrich, Gianni",
+  "resolved_employer": "Catus Labs (self-reported, unverified) — NFT/crypto venture; a Gianni Hentrich is listed on LinkedIn as VP at SOLDOUT.COM, a ticket-resale platform, but the match to this donor is unconfirmed",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Industry rests on the donor's own filed occupation ('NFT creator') and employer ('Catus Labs'); no company by that name could be verified in Austin or elsewhere — the nearest matches (CAT Labs of Hollywood FL, Cactus Labs AI) are unrelated. The only web presence for the name is a LinkedIn VP at SOLDOUT.COM with no Austin/78731 corroboration. Treat the tech classification as self-reported only.",
+  "source_url": "https://www.linkedin.com/in/gianni-hentrich-821780237",
+  "affiliations": []
+ },
+ {
+  "donor_id": "80c6a816-eaf7-4275-b03f-924d4bd65d75",
+  "name": "Cunningham, Carson",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Classification is the donor's own filed occupation ('student', employer 'n/a'). Searches for a Carson Cunningham in Lakeway/78734 returned no match — other people of this name (an Air Force basketball coach, an energy-sector manager) are clearly different individuals. Identity not independently corroborated.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e9a793c-a7fa-4023-afeb-ec013c7261b9",
+  "name": "Arledge, Sarah",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Classification is the donor's own filing ('Mom' / 'Not employed'). A Sarah Aragona Arledge with Austin ties married into the Arledge family at a Lake Austin home near the 78746 zip, but her LinkedIn shows employment at Levi Strauss & Co., which conflicts with the filing — cannot confirm these are the same person. No FEC history to corroborate.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e8ca110-f4da-427b-9762-09e7575a566d",
+  "name": "Wesner, Alexa",
+  "resolved_employer": "Collective Retreats — Board Member; former U.S. Ambassador to Austria (2013–2017); founder of HireTECH and Recruiting Labs; founder of Be One Texas",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Alexa Lange Wesner is listed on Collective Retreats' own site as a board member, matching the filing exactly; she is the former U.S. Ambassador to Austria (Obama appointee, sworn in Oct 2013), a longtime Austin tech entrepreneur (Trilogy Software, then founded HireTECH), and a major Democratic donor/bundler — consistent with the 1.0 Democratic FEC lean across 125 donations. Industry reflects her filed employer (Collective Retreats is luxury outdoor hospitality); her broader career is tech and Democratic politics. Married to venture capitalist Blaine Wesner.",
+  "source_url": "https://collectiveretreats.com/people/alexa-wesner/",
+  "affiliations": [
+   {
+    "org": "Be One Texas",
+    "role": "Founder — Democratic voter-turnout/civic-engagement donor network",
+    "category": "political",
+    "source_url": "https://collectiveretreats.com/people/alexa-wesner/"
+   },
+   {
+    "org": "Nuclear Threat Initiative (NTI)",
+    "role": "Board/leadership affiliation — nonproliferation nonprofit (not a defense contractor)",
+    "category": "civic",
+    "source_url": "https://www.nti.org/about/people/alexa-wesner/"
+   },
+   {
+    "org": "U.S. Department of State",
+    "role": "U.S. Ambassador to Austria, 2013–2017",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Alexa_L._Wesner"
+   }
+  ]
+ },
+ {
+  "donor_id": "7d4fd1aa-b51b-41fc-800b-f8c4d8d86614",
+  "name": "Norris, Robert",
+  "resolved_employer": "VoltaGrid — senior finance/operating executive (capital formation, corporate planning, operational scale-up); later President of CapturePoint Solutions and AMP Robotics; CFO of El Paso Electric since 2025",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "El Paso Electric's leadership bio confirms a Robert Norris who held a senior role at VoltaGrid — matching the filing's employer — and who holds BA (Economics) and MBA degrees from UT Austin, consistent with the donor's Austin 78703 address; his career is entirely energy/infrastructure. VoltaGrid, per its own site, supplies power generation to oil & gas, mining, and data centers. Confidence is medium because the VoltaGrid tenure dates are not published and cannot be pinned precisely to the May 2022 gift, and no team-page listing survives to confirm his title.",
+  "source_url": "https://www.epelectric.com/company/about-epe/leadership/robert-norris",
+  "affiliations": [
+   {
+    "org": "Legacy Reserves Inc.",
+    "role": "Chief Financial Officer of a publicly traded oil and gas company",
+    "category": "oil_gas",
+    "source_url": "https://www.epelectric.com/company/about-epe/leadership/robert-norris"
+   },
+   {
+    "org": "VoltaGrid",
+    "role": "Senior finance/operating executive at a power-generation firm whose named service lines include Oil & Gas and Mining",
+    "category": "oil_gas",
+    "source_url": "https://voltagrid.com/our-team"
+   }
+  ]
+ },
+ {
+  "donor_id": "7d240329-e0be-4797-99ee-37bcdc18409a",
+  "name": "Bratton, Rhonda",
+  "resolved_employer": "The Bratton Firm, P.C. — bookkeeper at the Austin plaintiff-side personal injury firm of R. Louis Bratton",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "The filed employer is verified: The Bratton Firm, P.C. is a board-certified personal injury/wrongful death firm founded in 1983 at 1100 B Guadalupe St., Austin, led by fifth-generation Austinite R. Louis Bratton. The donor's Austin 78731 address is consistent, and the shared surname suggests a family connection to the firm, but Rhonda Bratton herself has no independent web footprint, so her specific role rests on the filing alone. Note: her 32 FEC donations carry a 0.0 partisan lean (consistently Republican) despite this gift to a Democrat — recorded as an observation, not a classification.",
+  "source_url": "https://www.brattonfirm.com/About/R-L-Bratton.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7d10f719-b275-44c2-8191-b221b031c563",
+  "name": "Zozokos, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No identifying information. Filing lists occupation and employer as 'N/A', there is no FEC donation history, and the donor is out-of-state (Sleepy Hollow, IL 60118) giving to an Austin council race. The only web result for the surname in Sleepy Hollow is a Tom Zozokos, a Princeton track athlete — a different person. Cannot corroborate identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "7b9431a1-00ae-4cde-89e3-49b4a6f8554f",
+  "name": "Ryan, Alison",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No identifying information. Filing lists occupation and employer as 'requested' (never supplied). Searches on the name plus Austin/78735 surfaced only similarly named people (an Allison Ryan at The Way Group, a realtor Allison Olson) with no zip or occupation corroboration. Alison/Allison Ryan is a common name in Austin; cannot confirm the specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "78d49bab-79c4-4642-8706-bb9f1d4d1904",
+  "name": "Milloy, Ross",
+  "resolved_employer": "Greater Austin–San Antonio Corridor Council — President since July 1994",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ross Milloy has been president of the Austin–San Antonio Corridor Council — a regional nonprofit public/private partnership of 130+ jurisdictions, authorities and businesses — since 1994, matching the filing's title and employer exactly; the council's office address appears in Austin city campaign-finance filings. He helped pass the legislation creating the Austin–San Antonio Commuter Rail District and secured $57.6M in federal planning funds; previously a New York Times writer and Texas House/Senate staffer. Regional transit and passenger-rail advocacy.",
+  "source_url": "https://www.thecorridor.org/about/staff",
+  "affiliations": [
+   {
+    "org": "Austin–San Antonio Commuter Rail District",
+    "role": "Helped draft and pass the state legislation creating the district; regional passenger-rail advocate",
+    "category": "civic",
+    "source_url": "https://www.thecorridor.org/about/staff"
+   }
+  ]
+ }
+]

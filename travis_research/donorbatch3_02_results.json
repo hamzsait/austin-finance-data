@@ -1,0 +1,180 @@
+[
+ {
+  "donor_id": "tcv-5433fa24-d4d2-43b9-b5bf-1b9ceacef41f",
+  "name": "Rhoden, Lisa",
+  "resolved_employer": "Brite Sun Technology, Inc. (Vice President)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "FEC individual-contribution records for Lisa Rhoden list occupation Vice-President, employer Brite Sun Technology, Austin TX zip 787387419 — an exact match to the donor's 78738 zip; her contributions (Eckhardt for Congress, Colin Allred for Senate, Harris for President, ActBlue, Obama Victory Fund) match the all-Democratic fec_partisan_lean of 1.0. Travis County property records for 7111 Destiny Hills Dr, Austin 78738 list DESI RHODEN & LOUDON LISA RHODEN; Desi Rhoden is President/CEO of Brite Sun Technology, Inc. (Austin), confirming the household-company link. Brite Sun Technology is a small Austin technology-consulting firm.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/desi-rhoden/38816625.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac432469-fc79-4213-bec6-dbecb0289fa7",
+  "name": "Price, Joe",
+  "resolved_employer": "CampusOptics, Inc. (CEO & co-founder); also co-founder/chairman & president of 4E Therapeutics",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem,higher-education",
+  "confidence": "high",
+  "evidence": "Joe Price is CEO and co-founder of CampusOptics, an Austin-based higher-education compliance software company, and co-founder/chairman/president of 4E Therapeutics — both employer strings appear verbatim in his filings. Previously co-founder, president and general counsel of AcademicWorks; earlier at UT-Austin's Office of Technology Commercialization, Baker Botts LLP, and PeopleAdmin. BA UT-Austin, JD Baylor Law, MBA Acton; licensed Texas attorney.",
+  "source_url": "https://www.campusoptics.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0dba5116-1c71-4262-a7b3-8be36acdb58a",
+  "name": "Yates, Ira",
+  "resolved_employer": "Self-employed rancher / agriculture, Grand Junction, CO",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "FEC individual-contribution records for Ira Yates of Grand Junction, CO consistently list occupation AGRICULTURE or RANCHER with employer SELF EMPLOYED (one later record lists RETIRED), matching the donor's Grand Junction 81507 location. His federal giving — ActBlue, Congressional Black Caucus PAC, Colin Allred for Senate, Gallego for Arizona, and Doggett for Congress (the Austin-area seat) — matches the Democratic-leaning fec_partisan_lean of 0.69 and explains the out-of-state gifts to Travis County Democrats Shea and Howard. Note: despite sharing a name with the historic Texas oilman Ira G. Yates, no oil & gas connection was found for this donor.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=YATES%2C+IRA&contributor_state=CO",
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4d1001a5-c867-469c-b0dc-1864b9d6cfee",
+  "name": "Rhone, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confidently identify. The filing lists no occupation or employer, and the single $2,000 gift to Jeff Travillion (Aug 2025) gives no pattern to work from. Public people-search aggregators show at least two Michael Rhones in the Pflugerville/Austin area (a Michael L Rhone, ~60, in Pflugerville 78660, and a Michael C Rhone with Austin/Pflugerville/Denton addresses) with no occupation data. The only FEC record for a Michael Rhone in Texas lists NOT EMPLOYED in Manor (78653) — a different zip from this donor's 78660, so it is not a confirmed match. No industry assigned.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "cafb088d-7300-45ad-9245-31eac4eda65f",
+  "name": "Ander, Jesse",
+  "resolved_employer": "Adcelerium (Partner) — early-stage investment and advisory firm, Austin",
+  "industry": "Venture Capital",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Jesse Ander is a partner at Adcelerium, an Austin-headquartered early-stage investment/advisory firm (founded 2022; pre-equity grants and seed investments of $50K–$250K) with a San Diego office — matching the employer string and his 'Consultant, Investor' occupations. BAs in Economics and Law from UC Santa Barbara, JD from Boston College; formerly CEO of Affinity Engineering, and earlier at Grundfos, Willdan, NSTAR and Southern California Edison. His Adcelerium focus includes energy-saving initiatives and student entrepreneurship. Serves on the boards of Austin Sister Cities International and Ballet Austin.",
+  "source_url": "https://www.adcelerium.com/about",
+  "affiliations": [
+   {
+    "org": "Ballet Austin",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://balletaustin.org/about/board-of-directors/"
+   },
+   {
+    "org": "Austin Sister Cities International",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.adcelerium.com/about"
+   }
+  ]
+ },
+ {
+  "donor_id": "b3899c3b-d6a9-461b-b2ca-71ef7e1acaac",
+  "name": "Wehbe, Roberta",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Partially identified but not enough to classify. Her filings list occupation and employer as 'requested' (never disclosed) and she has no FEC record (consistent with fec_donation_count 0). The Austin American-Statesman obituary of Faez Najib Wehbe (1921-2017), a Lebanese businessman who moved to Austin in 1991, names among survivors 'Najib (Roberta) Wehbe'; Najib Wehbe is an Austin commercial real estate / mobile-home-park investor listed at Austin 78731 — the same zip as this donor — and appears as a client in City of Austin lobbyist registrations. That makes her identity as Najib Wehbe's spouse likely, but her own occupation is unknown and I will not impute her husband's industry to her. No industry assigned.",
+  "source_url": "https://www.dignitymemorial.com/obituaries/austin-tx/faez-wehbe-7633806",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6728d22-2577-41cb-8bdd-542d8834b092",
+  "name": "Annis, Philip",
+  "resolved_employer": "Embree Development Group, Inc. (President, CEO & Chairman of the Board)",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development",
+  "confidence": "high",
+  "evidence": "Philip Annis was promoted to CEO of Embree Development Group, Inc. — a national single-tenant, build-to-suit developer headquartered in Georgetown, TX — in January 2022, continuing as President; he joined the company in 1996. He also serves as EVP of Embree Construction Group and Embree Capital Markets Group and sits on the boards of Embree Asset Group, Embree Capital Markets Group and Embree Construction Group. Holds a Texas Real Estate Broker's license and is an ICSC member. Employer strings ('Embree Group', 'Embree Development Group, Inc') and occupations ('CEO and President', 'Commercial Real Estate Development') match exactly.",
+  "source_url": "https://www.embreegroup.com/blog/embree-development-group-inc-announces-new-ceo/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f0831bca-1228-4642-a713-a3d1b5c50de0",
+  "name": "Murphy, Kerry",
+  "resolved_employer": "Workday, Inc.",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "medium",
+  "evidence": "Filings list employer Workday (enterprise HR/finance cloud software) with occupation Consultant at Austin 78730. A LinkedIn profile for a Kerry Murphy at Workday based in Austin corroborates the employer and metro. Confidence is medium rather than high: 'Kerry Murphy' is a common name with several Austin-area LinkedIn profiles, and I could not tie the specific individual to zip 78730 — no FEC records surfaced for a Kerry Murphy at that zip or with employer Workday, despite the record's fec_donation_count of 50, so the federal giving history could not be used to corroborate.",
+  "source_url": "https://www.linkedin.com/in/kerryamurphy/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ddea8631-8b8a-4e6b-9931-0dce80ad358c",
+  "name": "Rouhani, Jinous",
+  "resolved_employer": "Austin Area Obstetrics, Gynecology & Fertility (Chief Executive Officer)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Jinous Rouhani, MBA, FACMPE, of Austin is CEO of Austin Area Obstetrics, Gynecology, and Fertility — matching the employer strings and CEO occupation. Previously CEO of Medexecs and chief administrative officer for Texas Cardiovascular Consultants; secretary, vice president and president of the Central Texas Chapter of the Medical Group Management Association. Identity confirmed via the Texas Governor's office, which names her by title and city. Note the cross-partisan pattern: an Abbott appointee whose federal giving is entirely Democratic (fec_partisan_lean 1.0).",
+  "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-15-to-governors-commission-for-women",
+  "affiliations": [
+   {
+    "org": "Governor's Commission for Women (State of Texas)",
+    "role": "Appointee (appointed and later reappointed by Gov. Greg Abbott)",
+    "category": "civic",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-15-to-governors-commission-for-women"
+   },
+   {
+    "org": "Medical Group Management Association, Central Texas Chapter",
+    "role": "Past secretary, vice president and president",
+    "category": "business",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-15-to-governors-commission-for-women"
+   }
+  ]
+ },
+ {
+  "donor_id": "cbf4a66a-1eb6-4209-b33c-5477d6af3a97",
+  "name": "Auler, Charles",
+  "resolved_employer": "C. Auler Holdings LP (President) — private holding company spanning oil & gas, real estate, ranching and private equity; co-founder of Deep Eddy Vodka",
+  "industry": "Finance",
+  "interest_tags": "private-equity,energy-mineral-rights",
+  "confidence": "high",
+  "evidence": "Charles 'Chad' Auler is President of C. Auler Holdings LP, located in Austin 78703 — matching the donor's employer string and zip — and his 'Investments' occupation. A sixth-generation Texan and son of Fall Creek Vineyards founders Ed and Susan Auler, he joined the family winery after graduating from UT in 1992, earned an MBA from UT's McCombs School, and co-founded Deep Eddy Vodka (acquired by Heaven Hill Brands in 2015). Per his Caesar Kleberg Wildlife Research Institute board bio, he maintains business interests in oil and gas, real estate, commercial ranching and private equity through C. Auler Holdings LP, and he and his wife Stacy own Fall Creek Ranch (Llano County) and Rancho Aparejo (Presidio County). Corporation records also list a Charles Edwin Auler as general partner of Fall Creek Ranch Partnership, Ltd.",
+  "source_url": "https://www.ckwri.tamuk.edu/about/chad-auler",
+  "affiliations": [
+   {
+    "org": "C. Auler Holdings LP (oil & gas business interests)",
+    "role": "President / owner — holds oil and gas interests among the firm's investments",
+    "category": "oil_gas",
+    "source_url": "https://www.ckwri.tamuk.edu/about/chad-auler"
+   },
+   {
+    "org": "Caesar Kleberg Wildlife Research Institute",
+    "role": "Board member since 2015",
+    "category": "civic",
+    "source_url": "https://www.ckwri.tamuk.edu/about/chad-auler"
+   },
+   {
+    "org": "West Austin Youth Association",
+    "role": "Leader",
+    "category": "civic",
+    "source_url": "https://www.ckwri.tamuk.edu/about/chad-auler"
+   },
+   {
+    "org": "University of Texas (McCombs Alumni Board, UT Development Board, Chancellor's Council Executive Committee)",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.ckwri.tamuk.edu/about/chad-auler"
+   }
+  ]
+ },
+ {
+  "donor_id": "a203f56a-00d9-468b-be83-b9685602bb80",
+  "name": "Near, Jason",
+  "resolved_employer": "Pisces Foods LP / Near Holdings LP — longtime Austin-market Wendy's franchisee (sold to Wendy's in 2019)",
+  "industry": "Hospitality / Events",
+  "interest_tags": "hospitality-entertainment",
+  "confidence": "high",
+  "evidence": "Jason Near is associated with Pisces Foods LP and Near Holdings LP of Austin — both employer strings in his filings — matching his 'Business Owner / Restaurants and Real Estate' occupations. Pisces Foods LP (founded 1995, Austin) was a Wendy's International franchisee; Nation's Restaurant News reported that The Wendy's Co. paid $19.8 million in cash to Pisces Foods LP, Near Holdings LP, and Dave and Jason Near for 30 franchised restaurants in the Austin market, identifying Dave and Jason Near as the longtime operators.",
+  "source_url": "https://www.nrn.com/restaurant-franchising/wendy-s-buys-30-franchised-restaurants-in-texas",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6f654aed-c095-4ae5-9382-442746236bc9",
+  "name": "Nelson, John",
+  "resolved_employer": "Skimmer, Inc. (CEO); also Nelson Homestead Management, LLC / Nelson Investments (family real estate)",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "medium",
+  "evidence": "The filings pair three employer strings for this 78703 donor — Skimmer Inc, Nelson Homestead Management LLC and Nelson Investments — with occupations CEO, Manager and Real Estate. Nelson Homestead Management, L.L.C. is registered at 3404 Glenview Ave, Austin TX 78703 (matching the donor's zip) with John Corley Nelson as registered agent/contact, alongside a related Nelson Homestead Family Partnership, Ltd. Skimmer, Inc. is an Austin pool-service software company whose CEO since October 2020 is Jack Nelson (Jack being a standard diminutive of John), previously co-founder and CEO of Propel Financial Services LLC — a property-tax lender he founded in 2007 with Red McCombs — and before that a lawyer at Akin Gump's Austin office; UT-Austin (Plan II / Finance & Business Honors) and University of Chicago Law. Confidence is medium: the Skimmer-CEO and Nelson-Homestead identities are linked here by the filings themselves plus the 78703 match, not by an independent source naming Jack Nelson as John Corley Nelson.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/nelson-homestead-management-llc/30265480.aspx",
+  "affiliations": []
+ }
+]

@@ -1,0 +1,166 @@
+[
+ {
+  "donor_id": "6d360096-d5fa-4cbd-8963-aec822a26eb1",
+  "name": "Le, Kevin",
+  "resolved_employer": "1618 Asian Fusion (owner/restaurateur)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Kevin Le is the co-founder/owner of 1618 Asian Fusion, a family-owned pan-Asian restaurant he created with Lynn Tran at 1618 E Riverside Dr, Austin. The restaurant's address sits in ZIP 78741, matching the donor's reported ZIP, and the filing lists him as 'Business Owner' at '1618 Asian Fusion'.",
+  "source_url": "https://1618asianfusion.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6d261bd5-08a3-406f-a274-023eebae49b5",
+  "name": "Spilman, Tom",
+  "resolved_employer": "Wholesale Beer Distributors of Texas (EVP at time of gift; now President)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Tom Spilman is a longtime executive of Wholesale Beer Distributors of Texas (WBDT), the Austin-based beer-distribution trade association; Texas House/Senate witness lists from the 85th Legislature register him as WBDT's Executive Vice President, matching the filing's title, and he has since become WBDT President. Classified as trade association/advocacy rather than Retail because WBDT is a 501(c)(6) lobbying body, not a distributor itself.",
+  "source_url": "https://capitol.texas.gov/tlodocs/85R/witlistmtg/html/C5102017050908001.HTM",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6c97343e-cff3-434d-9d9d-fd5e1c780f4a",
+  "name": "Archer, Jack",
+  "resolved_employer": "Austin Commercial, L.P. (VP/SVP, Central Texas Division)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "The filing's employer string 'ACLP' most plausibly denotes Austin Commercial, L.P., the Texas limited partnership operating one of the largest general contractors in the U.S. Jack Archer is Vice President / Division Senior VP of Operations for Austin Commercial's Central Texas division, an Austin-based role matching the donor's 'Executive' occupation and Austin 78731 address. Marked medium because the 'ACLP' abbreviation is inferred, not directly documented.",
+  "source_url": "https://www.austin-ind.com/our-company/leadership",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b42a8eb-471d-4d2b-844a-7fb639c19722",
+  "name": "Chamberlin, Anastasia",
+  "resolved_employer": "Office of Texas State Sen. Kelly Hancock (R) — Chief of Staff (at time of gift)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Anastasia Kounelias Chamberlin ('Stacey') served as Chief of Staff to Texas State Sen. Kelly Hancock (R) from January 2020 to June 2025, which spans the September 2022 gift date, and she now appears on the Texas Ethics Commission's 2026 registered lobbyist list. A Capitol chief of staff living in Austin 78703 fits the donation to then-State Sen. Kirk Watson. Marked medium because the filing lists occupation/employer as 'requested', so nothing in the record itself corroborates the match beyond the uncommon name and Austin residence.",
+  "source_url": "https://www.legistorm.com/person/bio/13165/Anastasia_Kounelias_Chamberlin.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6ac0e5c5-fb41-4cc7-bfaa-32e7190b4f07",
+  "name": "Smith, Haley",
+  "resolved_employer": "ECR (Equitable Commercial Realty) — commercial real estate broker",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Haley (Berry) Smith, SIOR, has been a commercial real estate broker at ECR / Equitable Commercial Realty in Austin since 2013, specializing in office leasing and tenant representation; she is an Austin Business Journal 'Heavy Hitter'. Matches the filing's occupation 'Broker' and employer 'ECR' in Austin.",
+  "source_url": "https://www.ecrtx.com/team/haley-smith/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "68a7e5a4-3f8d-460f-9e41-31648ce47c39",
+  "name": "Leger, Janine",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm. An Austin-based Janine Leger is the co-founder of Edge City and Zuzalu (crypto/network-society community incubator) and a former Gitcoin contributor, but no public record ties her to 'JAdventures, LLC' and no Texas entity filing for that LLC could be retrieved. Nothing corroborates the identification beyond the shared name and Austin location, so no industry assigned.",
+  "source_url": "https://www.austinnextpodcast.com/activating-the-future-of-human-flourishing-with-janine-leger-co-founder-edge-city/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6679c82d-f4ac-4772-bc2f-a4be5b663634",
+  "name": "Ferguson, Kent",
+  "resolved_employer": null,
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Not identified. The filing's employer string is the placeholder 'Company', and the only industry signal is the donor's own self-reported occupation 'Real Estate' on the filing, which is the sole basis for the classification. A Kent Ferguson works at HealthCare Facilities Development Corporation (a commercial real estate firm) and studied at UT Austin's McCombs School, but nothing corroborates him as this donor (no ZIP, employer, or donation-pattern match), so no employer is recorded.",
+  "source_url": "https://www.linkedin.com/in/kent-ferguson-1578531a/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "660d0b00-ac86-4a1b-8ccd-ed5e0cdf512c",
+  "name": "RODELL, LEONARD",
+  "resolved_employer": "Rodell Investments, Inc. (president; real estate investment / commercial lending)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Leonard M. Rodell is president of Rodell Investments, Inc., a TREC-licensed Austin real estate firm engaged in real estate acquisitions, wholesaling, fix-and-flips and rental portfolio holdings. The company's registered address (6904 Pascal Ct, Austin 78746) corresponds to Travis County property records listing Leonard M. Rodell as owner, matching the donor's 78746 ZIP and 'Real Estate' occupation.",
+  "source_url": "http://rodellinvestments.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "65f2e64f-5fa7-4450-b689-c8aec951b62e",
+  "name": "Factor, Mallory",
+  "resolved_employer": "IntraBio Inc. (founder, chairman & CEO) — biopharmaceutical",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Mallory Factor is founder and executive chairman/CEO of IntraBio Inc., a commercial-stage biopharmaceutical company that relocated from Oxford, UK to Austin and won FDA approval for AQNEURSA (levacetylleucine) in September 2024, matching the filing's 'Pharmaceuticals'/IntraBio entry and the October 2024 gift. He is also a conservative political organizer: co-founder and chairman of the Free Enterprise Fund, co-founder of the Monday Meeting, a Council on Foreign Relations life member who vice-chaired its Task Force on Terrorism Financing, and was appointed by Gov. Greg Abbott to the Governor's University Research Initiative. No AIPAC/ADL/pro-Israel, oil & gas, gun-lobby or defense-contractor role is documented in public sources.",
+  "source_url": "https://en.wikipedia.org/wiki/Mallory_Factor",
+  "affiliations": [
+   {
+    "org": "Free Enterprise Fund",
+    "role": "Co-founder and chairman (free-market advocacy 'do tank')",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Mallory_Factor"
+   },
+   {
+    "org": "The Monday Meeting / The New York Meeting / The Charleston Meeting",
+    "role": "Co-founder and co-chair; host (conservative organizing forums)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Mallory_Factor"
+   },
+   {
+    "org": "Gatestone Institute",
+    "role": "Listed contributor/author (hawkish foreign-policy think tank)",
+    "category": "political",
+    "source_url": "https://www.gatestoneinstitute.org/biography/Mallory+Factor"
+   },
+   {
+    "org": "Council on Foreign Relations",
+    "role": "Life member; vice-chair, Task Force on Terrorism Financing",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Mallory_Factor"
+   },
+   {
+    "org": "Governor's University Research Initiative (State of Texas)",
+    "role": "Appointee of Gov. Greg Abbott",
+    "category": "political",
+    "source_url": "https://gov.texas.gov/news/post/governor-greg-abbott-appoints-factor-to-governors-university-research-initiative"
+   }
+  ]
+ },
+ {
+  "donor_id": "65a40c29-c0c5-42f5-ac1d-d1c6f841fdf7",
+  "name": "Palandino, Pamela",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identified. NCP Equity, LLC appears as a registered Austin, TX entity in business directories but no substantive record of its business, officers, or line of work could be retrieved, and no public profile for a Pamela Palandino in Austin HR was found. A 'Pam Paladino' (different spelling) is a private-equity HR executive but shows no Austin connection and cannot be tied to this donor. No industry assigned.",
+  "source_url": "https://www.bizapedia.com/tx/ncp-equity-llc.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "64cc98e4-f870-41e1-9352-e3aac5317cbe",
+  "name": "Garcia, Buddy",
+  "resolved_employer": "Modern Stewardship (founder/president) — Texas government affairs & regulatory consulting",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Buddy Garcia (Hector Steven Garcia) founded Modern Stewardship, an Austin government-consulting firm, in 2013 after 22 years in Texas state government, matching the filing's 'Consultant'/'Modern Stewardship' entry and Austin 78759 address. His practice covers regulatory policy, energy production, water and Gulf coastal resilience. Prior career: senior advisor to Gov. Rick Perry, Deputy Secretary of State/Border Commerce Coordinator (2004), TCEQ Commissioner 2007-2012 (Chairman two years), and Railroad Commissioner in 2012 by Perry appointment.",
+  "source_url": "https://modernstewardship.com/",
+  "affiliations": [
+   {
+    "org": "Railroad Commission of Texas",
+    "role": "Commissioner (interim), appointed April 2012 by Gov. Rick Perry — the RRC is the state regulator of the oil and natural gas industry; he now consults on energy-production regulatory matters",
+    "category": "oil_gas",
+    "source_url": "https://en.wikipedia.org/wiki/Buddy_Garcia"
+   },
+   {
+    "org": "Texas Commission on Environmental Quality (TCEQ)",
+    "role": "Commissioner 2007-2012; Chairman for two of those years",
+    "category": "political",
+    "source_url": "https://stateimpact.npr.org/texas/2012/04/12/please-welcome-buddy-garcia-to-the-railroad-commission/"
+   }
+  ]
+ },
+ {
+  "donor_id": "6373f01d-db95-42a3-9c56-966431dad509",
+  "name": "Midgley, Leslie",
+  "resolved_employer": "Texas Land Title Association (Executive Vice President & CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Leslie Midgley, CAE has been Executive Vice President and CEO of the Texas Land Title Association since 2001, with four decades of service to the Austin-based trade association for the title insurance industry; she received TSAE's Distinguished Executive Award in 2013. Matches the filing's CEO/Texas Land Title Association entry and Austin 78703 address. Classified as trade association/advocacy rather than Real Estate because TLTA is a member advocacy body, though its membership is the title/real-estate closing industry.",
+  "source_url": "https://tlta.com/TLTA/tlta/about/staff.aspx",
+  "affiliations": []
+ }
+]

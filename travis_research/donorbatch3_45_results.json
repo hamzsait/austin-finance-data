@@ -1,0 +1,214 @@
+[
+ {
+  "donor_id": "de4f5306-7eaf-47df-8d08-0f92f3b994aa",
+  "name": "Harvell, Kaitlyn",
+  "resolved_employer": "Hyatt Regency Austin — manager (self-reported on the filing only; not independently verified)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "confidence_note": "The industry rests entirely on the donor's own sworn disclosure ('manager', 'Hyatt Regency'). No LinkedIn, news, roster or other public record for a Kaitlyn Harvell in Austin was found, so the individual is not independently identified and the employer string could not be corroborated.",
+  "evidence": "Self-reported as a manager at Hyatt Regency; the Hyatt Regency Austin is a large downtown hotel at 208 Barton Springs Rd, a plausible employer for an Austin-resident (78747, far south Austin) hotel manager. Extensive searching turned up no public web presence tying this specific person to the property.",
+  "source_url": "https://www.hyatt.com/hyatt-regency/en-US/ausra-hyatt-regency-austin/hotel-info",
+  "affiliations": []
+ },
+ {
+  "donor_id": "de284464-18c1-4600-833c-7d2a9031cf19",
+  "name": "Izmirlian, Avedis",
+  "resolved_employer": "Cyan LLC — real estate (self-reported on the filing only; not independently verified)",
+  "industry": null,
+  "confidence": "low",
+  "confidence_note": "Industry left null per instructions: the person could not be identified. The filing self-reports 'Real estate' / 'Cyan llc', but no Austin-area Avedis Izmirlian and no Austin entity named Cyan LLC could be located, so nothing corroborates the self-report.",
+  "evidence": "No public record found for an Avedis Izmirlian in Austin or in the 78704 zip. The Izmirlians findable online are elsewhere — Avedis Charles Izmirlian, a real estate salesperson in Atherton, California; Avedik Izmirlian, president of DigiFab Systems in Los Angeles; and the Bahamas-based Izmirlian family (Sarkis Izmirlian of Lyford Cay, whose late father was also named Avedis). None of them corroborate an Austin resident, and no Austin 'Cyan LLC' real estate entity surfaced in business registries or Austin city vendor/lobbyist rosters.",
+  "source_url": "https://licensee.io/ca-real-estate/01919004-avedis-charles-izmirlian/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "ddea9540-2a0f-4349-8e43-332a1213a45e",
+  "name": "Morales, Jose",
+  "resolved_employer": "Martha's Contemporary (now Martha's Gallery) — founder; Austin contemporary art gallery focused on early-career artists, with locations in Hyde Park and the Westside Market on West 6th",
+  "industry": "Entertainment",
+  "confidence": "medium",
+  "confidence_note": "The gallery is certain; the name match is inferential. Martha's Contemporary has exactly one male founder, publicly known as 'Ricky Morales' — surname matches and 'Ricky' is a common diminutive for a Jose Ricardo, but no source states his legal first name, so the Jose/Ricky equivalence is unconfirmed.",
+  "evidence": "The filing's employer ('Martha's Contemporary') and occupation ('Art Gallery founder') point to a single, unambiguous Austin business: the gallery founded in 2018 by Ricky Morales and his partner Meredith Williams (the 'Martha' of the name). Morales is a native Austinite, Austin High graduate, no formal art background, who started the gallery on Webberville Road; the 78704 (South Austin) address is consistent. FEC shows 6 donations with a fully Democratic lean, consistent with an Austin arts-scene small donor.",
+  "source_url": "https://sightlinesmag.org/making-marthas-contemporary",
+  "affiliations": []
+ },
+ {
+  "donor_id": "db653eb6-b84a-4d11-bb74-6b72795bfcc1",
+  "name": "Davis, Alexander",
+  "resolved_employer": "Disruptive — Founder, Chairman and CEO; late-stage global technology investment firm he started in 2012, with a large-check portfolio including Palantir, Airbnb, Spotify, Shield AI, Databricks, Stripe and Slack",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Alexander 'Alex' Davis is Founder/Chairman/CEO of Disruptive, which was headquartered in Austin at the time of this February 2022 gift (Davis relocated the firm's center of gravity to Dallas in 2023, per D Magazine), matching the filing's 'Founder/CEO' at 'Disruptive' and the 78731 northwest-Austin address. The firm invests at or near public scale rather than in startups, doing roughly six deals a year. His heavy FEC record (75 donations) with a near-zero (Republican) lean is consistent with a high-net-worth investor donor.",
+  "source_url": "https://review.brunswickgroup.com/article/disruptive-ceo-alex-davis/",
+  "affiliations": [
+   {
+    "org": "Disruptive (defense-focused investment fund)",
+    "role": "Founder, Chairman and CEO; announced Disruptive's inaugural mid-stage defense-focused fund investing in defense technology and dual-use companies positioned to move from pilots to major defense contracts — portfolio includes Onsights (intelligence data processing), General Radar, ZeroEyes (AI weapons detection), and Shift5 (aircraft data analytics/cybersecurity)",
+    "category": "military_defense",
+    "source_url": "https://www.prnewswire.com/news-releases/disruptive-closes-inaugural-mid-stage-defense-focused-investment-fund-301945274.html"
+   },
+   {
+    "org": "Shield AI / Palantir Technologies (via Disruptive's portfolio)",
+    "role": "Firm founder/CEO; Disruptive holds positions in both defense-sector companies",
+    "category": "military_defense",
+    "source_url": "https://www.disruptive.tech/"
+   }
+  ]
+ },
+ {
+  "donor_id": "db367af0-dd3a-4854-a781-5e6f2d954ba9",
+  "name": "Bell, Mark",
+  "resolved_employer": "Association of Electric Companies of Texas (AECT) — President and CEO; Austin-based trade association of Texas electric companies, founded 1978, that lobbies and communicates with state government on electricity public policy",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Mark Bell was named President and CEO of AECT, matching the filing's 'President' at 'Association of Electric Companies of Texas' and an Austin 78759 address (AECT is an Austin organization). Bell has 30+ years in and around the Texas Legislature and executive branch: he served as Deputy Chief of Staff to Speakers Dade Phelan and Dennis Bonnen, and worked for Speaker Pete Laney in the 1990s. AECT and Bell appear regularly on Texas House/Senate committee witness lists on electricity bills.",
+  "source_url": "https://www.aect.net/mark-bell-announcement",
+  "affiliations": [
+   {
+    "org": "Association of Electric Companies of Texas (AECT)",
+    "role": "President and CEO of the Texas electric utility industry's trade and lobbying association; registers on electricity legislation before the Texas Legislature",
+    "category": "business",
+    "source_url": "https://www.aect.net/about"
+   },
+   {
+    "org": "Texas House Speaker's office (Dade Phelan, Dennis Bonnen, Pete Laney)",
+    "role": "Deputy Chief of Staff to Speakers Phelan and Bonnen; earlier staff to Speaker Laney",
+    "category": "political",
+    "source_url": "https://www.aect.net/mark-bell-announcement"
+   }
+  ]
+ },
+ {
+  "donor_id": "da90a2a4-409a-4033-8aeb-6a23094038ad",
+  "name": "Honeycutt, Henley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "confidence_note": "Unidentifiable. The filing itself carries no information — both occupation and employer are recorded as 'requested', meaning the campaign had not obtained them — and no public record matches the name in Austin.",
+  "evidence": "No public web presence found for a Henley Honeycutt in Austin or anywhere in Texas; searches surface only unrelated Honeycutts (a Burleson-area coach, a Honeycutt Construction firm, David Honeycutt of Texas American Resources). With 'requested/requested' for occupation and employer, no FEC history, and only a downtown 78701 zip, there is nothing to corroborate an identity.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9785d4d-5717-4986-a58c-cf2c317abea8",
+  "name": "Laneri Keel, Lara",
+  "resolved_employer": "LLK LLC — founder/principal; Austin contract lobbying and government-relations firm she launched in 2020 representing Fortune 500 companies and Texas business associations before the Legislature, agencies and regulators",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lara Laneri Keel is a registered Texas lobbyist with three decades at the Texas Capitol, matching the filing's 'Government Relations Consultant' at 'LLK LLC' and a central-Austin 78703 address. She was an in-house lobbyist for the Texas Association of Business, then a founding partner of the Texas Lobby Group from 2002 (alongside Mike Toomey and Bill Messer) before starting LLK in 2020. Capitol Inside's Texas Lobby Power Rankings have listed her as the top female hired-gun lobbyist since 2011 and among the ten most powerful lobbyists at the Capitol. Her firm markets itself as pro-business advocacy. She appears on the Texas Ethics Commission registered-lobbyist list.",
+  "source_url": "https://llkllc.com/lara-keel/",
+  "affiliations": [
+   {
+    "org": "Texas Association of Business",
+    "role": "Former in-house business lobbyist for the state's largest business association",
+    "category": "business",
+    "source_url": "https://llkllc.com/lara-keel/"
+   },
+   {
+    "org": "Texas Lobby Group",
+    "role": "Founding member and partner, 2002–2020",
+    "category": "political",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/lara-laneri-keel-42780"
+   }
+  ]
+ },
+ {
+  "donor_id": "d972ba74-f9bd-4f91-86ec-fc35116c47b9",
+  "name": "Gaston, Jenny",
+  "resolved_employer": "Bill Gaston, Inc. / The Gaston Company — Austin real estate development and construction firm (incorporated in Texas in 1959; offices at 7600 Burnet Rd), listed by the Austin Chamber under Real Estate & Construction / Commercial Real Estate",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "confidence_note": "The employer is verified as a real, long-established Austin real estate company, and the self-reported occupation ('Real Estate') fits it. Jenny Gaston's own role is not documented anywhere public — the named principals are Bill (Wm D.) Gaston, chairman, and Brian Gaston, president — so she is presumably a family member/principal, but that link is inferred from the shared surname rather than sourced.",
+  "evidence": "Bill Gaston, Inc. is a family real estate development/contracting business in Austin, filed as a Texas domestic for-profit corporation on Feb 27, 1959, with Wm D. Gaston as a previous chairman and Bill Gaston currently listed as chairman; related entities include Bill Gaston Enterprises and Gaston Premier Homes. The donor's 78703 (Old West Austin/Pemberton Heights) address is consistent with the family's Austin footprint — Gaston Avenue in 78703 carries the family name.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/bill-gaston-inc/30750139.aspx",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8ece0e8-ca98-41ae-98d4-8ef47fa91e36",
+  "name": "Averitt, Kip",
+  "resolved_employer": "Averitt & Associates, Inc. — registered Texas lobbyist/consultant; former Texas State Senator (R-Waco, SD-22, 2003–2010) and chair of Senate Natural Resources",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "confidence_note": "Same individual as donor fdf6c75e-1908-498d-b545-3068135a193f (batch 18), which listed a 78723 zip — that is his TEC lobbyist/office address (1900 Simond Ave #2048); this record's 78737 is a southwest Austin/Dripping Springs residential zip. The distinctive name plus the exact employer string 'Averitt and Associates, Inc' make the identification firm.",
+  "evidence": "Barry Kip Averitt served in the Texas House (1993–2003) and Senate (2003–2010), chairing Senate Natural Resources and authoring the 2007 water-rights bill SB 3, and resigned in March 2010 for health reasons. He opened Averitt & Associates that same year and has since been recognized for water policy, water conservation and clean-energy work; he remains on the Texas Ethics Commission's registered lobbyist list as of 2025. Matches the filing's 'consultant' at 'Averitt and Associates, Inc'. His 22 FEC donations with a zero (Republican) lean fit his party history.",
+  "source_url": "https://en.wikipedia.org/wiki/Kip_Averitt",
+  "affiliations": [
+   {
+    "org": "America's Natural Gas Alliance (via Paschall Strategic Communications)",
+    "role": "Registered Texas lobbyist for the client, per TEC lobby registration",
+    "category": "oil_gas",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2012/lobcon2012a.htm"
+   },
+   {
+    "org": "Texas Aerospace Partnership",
+    "role": "Registered lobbyist; TAP's listed address (1900 Simond Ave #2048, Austin 78723) is Averitt's own lobbyist address, and TAP appears in his LinkedIn headline",
+    "category": "business",
+    "source_url": "https://www.taptx.space/"
+   },
+   {
+    "org": "Harris-Galveston Subsidence District",
+    "role": "Governmental affairs consultant / registered lobbyist (groundwater-subsidence regulator)",
+    "category": "civic",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2012/lobcon2012a.htm"
+   },
+   {
+    "org": "Texas Water Foundation",
+    "role": "Former state senator profiled for water-policy leadership; associated with the foundation's water-policy work",
+    "category": "civic",
+    "source_url": "https://www.texaswater.org/former-sen-kip-averitt"
+   }
+  ]
+ },
+ {
+  "donor_id": "d8719ec1-9f6f-4319-8fde-05b0f2ca7342",
+  "name": "Manuel, Courtney",
+  "resolved_employer": "I Live Here I Give Here — Chief Executive Officer (2019–June 2023); Austin nonprofit that runs Amplify Austin Day, the region's community-wide giving campaign",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Courtney Manuel became executive director of I Live Here I Give Here on Jan 22, 2019 and served as CEO for about five years, stepping down effective June 30, 2023 to spend more time with family — so she was CEO on the May 2022 gift date, matching the filing exactly. She has 15+ years in fund development and previously held roles at UT Austin, serving as executive director for development at Dell Medical School where she led a campaign that raised over $210 million. The 78731 northwest-Austin address and a 13-donation FEC record with a fully Democratic lean are consistent.",
+  "source_url": "https://ilivehereigivehere.org/blog/2019/1/23/courtney-manuel-is-i-live-here-i-give-heres-executive-director",
+  "affiliations": [
+   {
+    "org": "University of Texas at Austin / Dell Medical School",
+    "role": "Former Executive Director for Development, Dell Medical School",
+    "category": "civic",
+    "source_url": "https://austin.culturemap.com/news/city-life/i-live-here-i-give-here-ceo-steps-down-amplify-austin/"
+   }
+  ]
+ },
+ {
+  "donor_id": "d7c84a99-2cf3-4c6b-83a2-1683871c26d8",
+  "name": "Warden, Kevin",
+  "resolved_employer": "Good Call Food Co. — co-founder; Austin CPG brand selling cauliflower-based dips (non-GMO, vegan-certified, keto) sold at Whole Foods. Very likely the same Kevin J. Warden who is founder/president of Flyrite Chicken, Inc., the Austin fast-casual chicken chain.",
+  "industry": "Retail",
+  "confidence": "medium",
+  "confidence_note": "Good Call Food Co. is confirmed as an Austin company and a 'Co-Founder — Good Call' reference surfaced in search, but the company publishes no founder names on its site, so the specific Warden-to-Good Call link is not directly sourced. The overlap with Kevin J. Warden of Flyrite Chicken (same name, same Austin food-entrepreneur niche) is plausible but unproven.",
+  "evidence": "The filing's 'Co-founder' at 'Good Call Foods' matches Good Call Food Co., whose About page confirms it is Austin-based ('We're from beautiful Austin, Texas'); it makes cauliflower dips carried in select Whole Foods. Texas corporate records list a Kevin J. Warden of Austin as president of Flyrite Chicken, Inc., an Austin drive-thru/dine-in chicken concept with locations including Austin-Bergstrom airport, and he has spoken at restaurant-industry conferences. The 78701 downtown zip is consistent with an Austin food entrepreneur. Classified Retail following this project's precedent of labeling packaged-food/CPG brands (e.g. Nulo Pet Food) as Retail rather than Hospitality.",
+  "source_url": "https://www.goodcallfoodco.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d72d3df4-510a-4581-b3de-a912391966bc",
+  "name": "Kunik, Burton",
+  "resolved_employer": "Sharps Compliance Corp. (Nasdaq: SMED) — founder and Chairman/CEO 1994–2010 (retired); medical-waste management company. Earlier a practicing endodontist for ~24 years and co-founder of 3CI Complete Compliance Corporation.",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "confidence_note": "Identification is firm, but note the self-reported occupation 'CEO' at 'Sharps Compliance' was already out of date at the June 2022 gift — Kunik retired as CEO in 2010, so this is effectively a retiree record.",
+  "evidence": "Dr. Burton J. Kunik founded Sharps Compliance in 1994 and was its Chairman and CEO until retiring effective Sept 30, 2010 (succeeded by David P. Tusa), per the company's own SEC filings and retirement announcement; he had 24 years' experience as an endodontist and co-founded 3CI Complete Compliance Corporation. Corroborated by his Austin obituary: Burton Jerry Kunik, born Sept 14, 1938 in Chicago, raised in McAllen, Texas, died Aug 8, 2024 in Austin — a UT and UT Dental Branch (Houston) graduate who spent 25 years as an endodontist in Houston and was president of the Greater Houston Dental Society and founder of the Greater Houston Dental Meeting. The dental/endodontics career and Houston-to-Austin path match the Sharps founder exactly, and the 78746 (Westlake) address fits a retired public-company founder. His 44 FEC donations with a ~0.52 lean indicate a bipartisan giving pattern.",
+  "source_url": "https://investor.sharpsinc.com/news-releases/news-release-details/sharps-compliance-announces-planned-retirement-chairman-and-ceo",
+  "affiliations": [
+   {
+    "org": "Sharps Compliance Corp. (Nasdaq: SMED)",
+    "role": "Founder, Chairman and CEO, 1994–2010",
+    "category": "business",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/0000898770/000114420408058554/v128893_def14a.htm"
+   },
+   {
+    "org": "Greater Houston Dental Society",
+    "role": "President; also founder of the Greater Houston Dental Meeting",
+    "category": "civic",
+    "source_url": "https://www.austinnaturalfunerals.com/obituaries/Burton-Kunik/"
+   }
+  ]
+ }
+]

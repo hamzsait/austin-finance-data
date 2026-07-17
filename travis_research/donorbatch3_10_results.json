@@ -1,0 +1,138 @@
+[
+ {
+  "donor_id": "d2f564f5-3fc5-48af-9e42-1d433969342b",
+  "name": "Hurt, Debra",
+  "resolved_employer": "Owner, Debra Hurt Interior Design (Austin residential interior design firm, founded 2000)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Debra Hurt Interior Design's own site states the firm has 'been bringing great style and sophistication to clients in Texas since 2000' and is based in Austin, with Debra Hurt as the principal — matching the filing's employer strings ('Debra Hurt Interior Design','DH Interior Design') and occupations ('Owner','Interior designer') exactly. A Facebook profile for 'Debra Brenner Hurt' lists Austin, Texas, consistent with donor zip 78733 (west Austin / Bee Cave Rd). Classified Architecture because the taxonomy has no separate design label and interior design is the nearest fit; Self-Employed would be the alternative. Gave only to Kirk Watson; 9 FEC gifts at 1.0 partisan lean (uniformly Democratic federally).",
+  "source_url": "https://www.debrahurtinteriordesign.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf765743-b274-4879-930d-c0d7e8ee9a8d",
+  "name": "Faeder, Lindsay",
+  "resolved_employer": "Co-Founder and CEO, WayWiser (WAYWISER.LIFE, INC.) — Austin-based technology platform protecting older adults from financial exploitation and elder fraud; founded 2019",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Lindsay Faeder is Co-Founder and CEO of WayWiser, which she started after her grandfather lost his life savings to financial exploitation, following 15+ years in management consulting; she holds an MBA from Thunderbird School of Global Management and a BA from the University of Virginia. Public-records aggregators list her at an Austin, TX 78704 address — matching the donor zip 78704 exactly — and WAYWISER.LIFE, INC. is registered as a Texas corporation, corroborating the filing's employer strings ('Waywiser','WayWiser') and occupation ('CEO'). Classified Technology (software platform) rather than Finance, since the product is a consumer-facing app rather than a financial services provider. Gave only to Kirk Watson; 1 FEC gift at 1.0 partisan lean (Democratic).",
+  "source_url": "https://www.linkedin.com/company/waywiser-life",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c9ea154d-4bf1-4628-ba1d-98c90c562ce3",
+  "name": "Midgley, Leslie",
+  "resolved_employer": "Executive Vice President & CEO, Texas Land Title Association (TLTA) — Austin-based statewide trade association for the title insurance industry; in the role since 2001, with service to TLTA spanning four decades",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "TLTA's own staff page and association correspondence (e.g. its FinCEN letter to the TREC Committee, signed 'Executive Vice President & CEO Leslie Midgley, CAE') confirm Leslie Midgley as EVP/CEO of the Texas Land Title Association — matching the filing's employer string ('Texas Land Title Association') and occupations ('Executive','Executive Vice President') exactly. TLTA is headquartered in Austin, consistent with donor zip 78731 (northwest Austin); she holds a bachelor's in human resource management from St. Edward's University in Austin and is a Certified Association Executive, and received TSAE's Distinguished Executive Award in 2013. Classified Real Estate because TLTA is the title-insurance industry's trade and legislative-advocacy body for real-estate transactions; Nonprofit / Advocacy is the defensible alternative given it is a 501(c)(6) association. Also serves on the Board of Directors of the Girl Scouts of Central Texas and volunteers with Impact Austin. Gave only to Kirk Watson; 12 FEC gifts, partisan lean not scored.",
+  "source_url": "https://www.tlta.com/tlta/about/staff.aspx",
+  "affiliations": [
+   {"org": "Texas Land Title Association", "role": "Executive Vice President & CEO (statewide title insurance trade association that lobbies the Texas Legislature)", "category": "business", "source_url": "https://www.tlta.com/tlta/about/staff.aspx"},
+   {"org": "Girl Scouts of Central Texas", "role": "Board of Directors", "category": "civic", "source_url": "https://www.alta.org/news-and-publications/news/20131119-TLTA-CEO-Awarded-Top-Association-Honor"}
+  ]
+ },
+ {
+  "donor_id": "c8838809-52e5-4e11-a302-5661a0baafff",
+  "name": "Opalka, Elizabeth",
+  "resolved_employer": "Homemaker (self-reported 'Full time Mom' on the filing); specific individual not identified",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Could NOT confirm which Elizabeth Opalka this is. Austin-area searches surface at least three distinct candidates — a Liz Opalka who is a Business Development Manager at Progenity (UT Austin advertising grad), an Elizabeth Opalka listed as an attorney with Advocate Consulting, and an Elizabeth K. Opalka tied to a Douglas Opalka at a Greenlee Drive property — none of which can be tied to this donor. A KVUE story on Bryker Woods mail problems quotes a resident named Liz Opalka, and Bryker Woods sits inside zip 78703 matching the donor, but that is a name-plus-neighborhood coincidence and not sufficient corroboration. The 'Not Employed' classification rests solely on her own sworn filing ('n/a','Full time Mom'), not on any web identification; confidence is marked low because the person behind the filing remains unresolved. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://www.kvue.com/article/news/bryker-woods-residents-upset-with-mail-issues/269-259330824",
+  "affiliations": []
+ },
+ {
+  "donor_id": "c5a7a43e-8919-4480-acca-8eb4ea6ee915",
+  "name": "Delk, Meredith",
+  "resolved_employer": "Senior Vice President & General Manager, Government Markets, Magellan Rx / Magellan Health (later Prime Therapeutics, which acquired Magellan Rx); based in Austin. Named Executive VP & Chief Administrative Officer of InnovAge effective September 30, 2025",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Meredith Delk, PhD, MSW is listed as Senior Vice President and General Manager of Government Markets for Magellan Rx (Magellan Health), located in Austin, Texas, overseeing more than 40 state government Medicaid contracts; Prime Therapeutics — which acquired Magellan Rx — carries her profile page, explaining why the filing shows both employer strings ('Prime Therapeutics','Magellan Health') across the 2022–2024 gift window. The Austin base matches donor zip 78731 and the occupation string ('Executive'). Classified Healthcare (pharmacy benefit management / Medicaid administration) rather than Government, since she is a private-sector executive selling to state agencies. Notably heavy federal donor: 109 FEC gifts at 1.0 partisan lean (uniformly Democratic). Gave only to Kirk Watson.",
+  "source_url": "https://www.primetherapeutics.com/meredith-delk-phd-msw-prime-therapeutics",
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc11e2f9-fa2c-4011-bb11-8940a28ec79b",
+  "name": "Williams, Michael",
+  "resolved_employer": "President & CEO, Texas Electric Cooperatives (TEC) — Austin-based statewide association founded in 1940, representing 67 distribution co-ops and 9 generation & transmission co-ops serving ~2 million Texas homes and businesses",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "TEC's own About page names Mike Williams as President and Chief Executive Officer, and TEC is headquartered in Austin — matching the filing's employer string ('TEC'), occupation ('CEO') and Austin location. The employer-plus-title combination resolves the otherwise very common name 'Michael Williams' to a single person; he was honored with the National Rural Electric Cooperative Association's 2014 President's Award. Classified Energy / Environment: TEC is an electric-cooperative trade association, NOT an oil & gas entity, so no oil_gas flag is warranted. Caveat: donor zip 78703 is a residential west-Austin zip and was not independently tied to him — TEC's offices are elsewhere in Austin — so identity rests on the employer/title/city match. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://texas-ec.org/about/",
+  "affiliations": [
+   {"org": "Texas Electric Cooperatives", "role": "President & CEO (statewide electric cooperative trade association)", "category": "business", "source_url": "https://texas-ec.org/about/"}
+  ]
+ },
+ {
+  "donor_id": "b5633819-7ffe-4fe0-b2fa-be3214420b42",
+  "name": "O'Dea, Daniel",
+  "resolved_employer": "President and founding partner, Delphi Affordable Housing Group, Inc. (Austin real estate and consulting firm founded 1997, specializing in Low Income Housing Tax Credit projects); also Principal, DAHG Capital Partners, LLC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Delphi Affordable Housing Group's own About page describes Mr. O'Dea as the founding partner responsible for the firm's strategic direction and overall management, with 25+ years in corporate and partnership taxation, law, real estate, accounting and financial analysis — matching the filing's employer/occupation strings ('Delphi Affordable Housing','President') exactly, and his LinkedIn carries the same title. Before founding Delphi in 1997 he was President of Intrust of Texas, underwriting 20+ LIHTC projects, and earlier worked at Coopers and Lybrand (tax specialist), Hershey Foods (tax attorney) and Rite Aid (corporate tax director). Delphi is based in Austin 78746; donor zip 78734 (Lakeway) is a nearby western Travis County residential zip and was not independently confirmed. Gave to council member Ryan Alter, consistent with an affordable-housing developer's interest in city land-use decisions. 2 FEC gifts at 0.0 partisan lean (Republican federally).",
+  "source_url": "http://delphihousing.com/about-us/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5483da9-937e-4043-8443-f5f758515458",
+  "name": "Moriarty Jr., Bill",
+  "resolved_employer": "SAP/Salesforce/ERP recruiter and Account Executive, K2 Partnering Solutions (international consultative technology staffing firm with an Austin office); more recently associated with Talent Navigator Group",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Bill (William) Moriarty is listed as an ERP/SAP and Salesforce recruiter and Account Executive at K2 Partnering Solutions, a consultative staffing firm specializing in ERP (SAP, Oracle), Enterprise Cloud (Salesforce), analytics/big data and enterprise mobility; K2's own blog profiles him as a member of its 'Boomerang Club' of returning employees and notes client travel to France, Russia, Greece and London. This matches the filing's employer strings ('K2 Partnering Solutions','K2 Partnering') and occupations ('IT Recruiter','Sales'), and K2 has an Austin office consistent with donor zip 78749 (southwest Austin). Confidence is medium rather than high: 'Bill Moriarty' is a common name, the LinkedIn results split across two profiles (one at K2, one at Talent Navigator Group) that may or may not be the same person, and the 'Jr.' suffix could not be verified. Classified Technology (tech staffing) — Consulting / PR is the alternative reading. Gave only to Kirk Watson; 5 FEC gifts at 0.003 partisan lean (essentially uniformly Republican federally), which sits oddly against a Watson gift.",
+  "source_url": "https://k2partnering.com/k2-blog/the-k2-boomerang-club/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "b3da3ea7-8aab-401f-af64-c787e1612322",
+  "name": "Woody McKnight, Jenniann",
+  "resolved_employer": "Event Coordinator and Bookkeeper (12+ years) for her family-owned Austin restaurant and bar businesses: The Old Pecan Street Café, The Ranch, Shakespeare's Pub and The Blind Pig",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "A Rise School of Austin profile states Jenniann has served as Event Coordinator and Bookkeeper for the past 12 years for her family-owned businesses — The Old Pecan Street Café, The Ranch, Shakespeare's Pub and The Blind Pig — which are Sixth Street bars and restaurants; this matches the filing's employer string ('The Blind Pig') and occupations ('Business Person','Business owner'). She graduated with honors from the College of Education at UT Austin with a minor in Dance and American Sign Language, and is married to Matt McKnight with three daughters. Her Austin-area civic footprint corroborates zip 78746 (Westlake): she appears on the Austin History Center Association's 2022-23 Board of Directors and in Eanes Education Foundation and Rise School Gala coverage. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://riseschoolaustin.org/profiles/jenniann-woody-mcknight/",
+  "affiliations": [
+   {"org": "Austin History Center Association", "role": "Board of Directors (2022-23)", "category": "civic", "source_url": "https://www.austinhistory.net/boardofdirectors"}
+  ]
+ },
+ {
+  "donor_id": "9d63f88c-c4fe-4ae7-9445-f12a6b6de4b3",
+  "name": "Eakin, Dennis",
+  "resolved_employer": "Owner/General Partner, Dennis Eakin Kia (Killeen, TX dealership serving Central Texas including Austin since 1987); also equal partner in Andice Development Co. (commercial real estate, Georgetown TX) and owner of Nolan Creek Vineyard",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Dennis Eakin is the founder and General Partner of Dennis Eakin Kia — matching the filing's employer string ('Dennis Eakin Kia') and occupations ('Auto Dealer','Auto') exactly, and his LinkedIn headline reads 'Owner, Dennis Eakin Mazda Kia'. A Founders Firm profile traces his path: helicopter pilot in Vietnam, insurance business from 1971 including 17 years as Regional VP for Academy Services, purchased part of a Mazda/Jeep/Volkswagen store in Killeen in 1987, became one of the first Kia dealers in Texas in 1994 and bought out his partner in 1997; he has since sold his other stores, with his daughter Kimberley now running the Kia store as General Manager. Caveat: the dealership is in Killeen (Bell County), while the donor zip is 78701 (downtown Austin) — a plausible residence/second home but not independently confirmed. His Vietnam military service is personal service, not a defense-industry affiliation, so no military_defense flag. Gave only to Kirk Watson; 20 FEC gifts at 0.17 partisan lean (predominantly Republican federally).",
+  "source_url": "https://www.foundersfirm.com/founder-profiles-1/2017/3/2/interview-dennis-eakin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a1f5b17-0b16-4846-84dc-a98b3e6d313c",
+  "name": "Honeycutt, David",
+  "resolved_employer": "Founder, CEO and President, Texas American Resources Company (private independent oil & gas exploration and production company headquartered in Austin, founded 1990)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Texas American Resources Company's own leadership page identifies David Honeycutt as the original founder and current CEO and President, specializing in project finance and property acquisitions, having overseen acquisitions and divestitures totaling over $1 billion including two South Texas private equity realizations worth $360 million — matching the filing's employer strings ('Texas American Resources Company','Texas American Resources') and occupations ('Owner','President / CEO') exactly. The company is headquartered in Austin, consistent with donor zip 78701, and he holds a BA in Government from UT Austin. NOTABLE: a direct oil & gas industry principal and IPAA member. Also a conservation figure — founder and former president of the Devils River Conservancy and former board member of the Texas Chapter of the Nature Conservancy — and sits on the UT Austin Development Board. A very heavy federal donor: 196 FEC gifts at 0.53 partisan lean (split roughly evenly between parties).",
+  "source_url": "https://www.texasarc.com/leadership/david-honeycutt",
+  "affiliations": [
+   {"org": "Texas American Resources Company", "role": "Founder, CEO and President (oil & gas exploration and production company)", "category": "oil_gas", "source_url": "https://www.texasarc.com/leadership/david-honeycutt"},
+   {"org": "Independent Petroleum Association of America (IPAA)", "role": "Member", "category": "oil_gas", "source_url": "https://www.texasarc.com/leadership/david-honeycutt"},
+   {"org": "Devils River Conservancy", "role": "Founder and former President (also former board chair)", "category": "civic", "source_url": "https://www.texasarc.com/leadership/david-honeycutt"},
+   {"org": "The Nature Conservancy, Texas Chapter", "role": "Former board member", "category": "civic", "source_url": "https://www.texasarc.com/leadership/david-honeycutt"},
+   {"org": "University of Texas at Austin Development Board", "role": "Member", "category": "civic", "source_url": "https://www.texasarc.com/leadership/david-honeycutt"}
+  ]
+ },
+ {
+  "donor_id": "8968ca39-2cac-4bb3-a7e6-1a27c50e3337",
+  "name": "Tate, Margo",
+  "resolved_employer": "Founder, Tate Art Advisory (Austin art consulting firm launched 2014, procuring fine art collections for residential, commercial and hospitality spaces)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Tribeza's profile of Austin art dealers describes Margo Tate as a third-generation UT alumna who graduated in Design and Conservation, stayed in Austin and launched Tate Art Advisory in 2014, sourcing from Austin galleries such as Lora Reynolds and fairs including Art Basel Miami and Frieze New York — matching the filing's employer string ('Tate Art Advisory') and occupations ('art consultant','art consultant/dealer') exactly, and the firm's Instagram (@tateartadvisory) confirms the Austin base. She resides in Austin with her husband Jonathan and two daughters, consistent with donor zip 78703. Classified Entertainment as the nearest taxonomy label for the arts sector — the taxonomy has no distinct Arts category, and Retail (art dealing) or Consulting / PR are defensible alternatives. Civic footprint: a decade of service to The Contemporary Austin, including three years on its board of directors, co-chair of its first family fundraiser at Laguna Gloria, and a committee member for its Art Dinner fundraiser; also a 2025-26 new member of UT's College of Fine Arts Advisory Council. Gave only to Kirk Watson; no FEC donation history.",
+  "source_url": "https://tribeza.com/uncategorized/art-dealers/",
+  "affiliations": [
+   {"org": "The Contemporary Austin", "role": "Board of Directors (3 years); Art Dinner committee member; co-chair of inaugural Laguna Gloria family fundraiser", "category": "civic", "source_url": "https://tribeza.com/uncategorized/art-dealers/"},
+   {"org": "UT Austin College of Fine Arts Advisory Council", "role": "Member (2025-26 new member)", "category": "civic", "source_url": "https://sites.utexas.edu/fineartscouncil/membership-roster/new-members/"}
+  ]
+ }
+]

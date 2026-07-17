@@ -1,0 +1,238 @@
+[
+ {
+  "donor_id": "7475bd29-13d2-4449-92e8-f1011e2f66cd",
+  "name": "Wynne Ressler, Rick",
+  "resolved_employer": "KASAMA Retreat Hotels — Co-Founder; concurrently Partner and Austin Office Managing Partner at law firm Michael Best & Friedrich LLP",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Rick (Richard J.) Ressler is listed on KASAMA's own site as a Co-Founder of KASAMA Retreat Hotels — a Hill Country 'purpose-driven' retreat hotel / social club venture about 40 minutes from Austin — matching the filing's occupation 'Owner' and employer 'Kasama Retreat Hotels'. KASAMA was founded by his wife Shari Wynne Ressler (Founder & CEO), which explains the filing's rendering of his surname as the household 'Wynne Ressler'; Rick's KASAMA bio says he 'builds the legal architecture that protects what KASAMA builds' and cites 30+ years in corporate law, securities and finance (formerly Sullivan & Cromwell and Skadden). His day job is Partner and Austin Office Managing Partner at Michael Best & Friedrich, which he joined in Feb 2020 when Michael Best absorbed his Austin startup boutique RWR Legal; J.D. cum laude, Harvard Law. Industry is set from the self-reported employer (KASAMA); note his primary profession is corporate/securities law. Austin 78704 residential zip is consistent.",
+  "source_url": "https://kasama.is/",
+  "affiliations": [
+   {
+    "org": "KASAMA Retreat Hotels",
+    "role": "Co-Founder",
+    "category": "business",
+    "source_url": "https://kasama.is/"
+   },
+   {
+    "org": "Michael Best & Friedrich LLP",
+    "role": "Partner; Austin Office Managing Partner (joined 2020 via RWR Legal combination)",
+    "category": "business",
+    "source_url": "https://www.michaelbest.com/people/richard-ressler/"
+   }
+  ]
+ },
+ {
+  "donor_id": "73bea197-296d-4e72-a76e-7231e2aff507",
+  "name": "Payervand, Ava",
+  "resolved_employer": "Chapman University (Orange, CA) — undergraduate student, Crean College of Health & Behavioral Sciences",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "Ava Bella Payervand appears on Chapman University's Crean College of Health & Behavioral Sciences Spring 2023 Dean's List (GPA 3.600-3.799), matching the filing's occupation 'Student' and the misspelled employer string 'Champman' (= Chapman). The Dallas 75209 address is corroborated by the Payervand family's Dallas footprint — Roozbeh Payervand (Dallas), Darian Payervand (SMU student, Dallas) and Kiana Payervand (Dallas) — consistent with a college student filing under a parental home address. Chapman does not publish her major or class year, and no source directly ties her to the 75209 household, so identity is probable rather than certain. She has no FEC history, so there is no federal donation pattern to cross-check.",
+  "source_url": "https://blogs.chapman.edu/crean/2023/06/30/crean-college-of-health-behavioral-sciences-2023-spring-deans-list/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "736a85d9-dc37-46e5-a890-2d20a8882953",
+  "name": "Manasiya, Jamshed",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reports occupation 'Business Owner' and employer 'Momisiya', Austin 78704, single $450 gift to Kirk Watson 2022-10-12; the specific person could not be confirmed. No Texas entity or business named 'Momisiya' was found in Secretary of State, comptroller or business-directory searches — the string appears garbled and may be a mangled rendering of the donor's own surname. FEC returns zero contribution records nationwide for any Manasiya, so there is no donation pattern to cross-check. A Jamshed Manasiya does exist in the Austin metro as a real estate investor/operator (public filings show ~9 properties via 13 holding companies, activity concentrated in San Antonio, Leander, Von Ormy, Richmond and Granger; listed residentially in Leander, age 40), but Leander/San Antonio is not the filed 78704 address and nothing links him to 'Momisiya', so that match is not asserted. Other Manasiyas in Austin (e.g. Jimmy Manasiya, accountant at the Greater Austin Merchants Cooperative Association) are likewise unconfirmed as this donor.",
+  "source_url": "https://elementix.ai/investors/tx/jamshed-manasiya",
+  "affiliations": []
+ },
+ {
+  "donor_id": "73249dce-fe6b-49f7-bb11-5c0392d0ed63",
+  "name": "Zeifman, Clifford",
+  "resolved_employer": "Supergenius Holdings LLC / Supergenius Management Services LLC (d/b/a CZ Companies), Riesel, TX — CEO; back-office and operational support for University Sports Publications (2012 USP Holdings Inc.), a collegiate sports publisher",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "FEC records match the filing exactly: 'ZEIFMAN, CLIFFORD', Riesel TX 76682, employer 'Supergenius Holdings', occupation 'CEO'. Supergenius Holdings LLC and Supergenius Management Services LLC (trade name CZ Companies) are both registered at 5120 State Highway 6, Riesel, TX 76682 with Clifford Zeifman as agent and Clifford and Mitchell Zeifman as members; CZ Companies describes itself as providing exclusive back-office administrative and operational support for a 30+ year-old sports publishing company. That publisher is University Sports Publications (Elmont, NY) — Zeifman is the registered agent of 2012 USP Holdings Inc. at USP's 570 Elmont Rd address and filed with the FEC in 2021 as an 'Executive' of 2012 USP Holdings. USP is the largest publisher of collegiate sports souvenir magazines and yearbooks, serving 500+ colleges. His FEC history is consistently Democratic and large-dollar: repeated max-out gifts to Doggett for Congress ($2,700 in 2015, 2016 and 2018; $2,900 in 2021; $3,300 in 2023), matching the fec_partisan_lean of 1.0 across 95 gifts.",
+  "source_url": "https://www.buzzfile.com/business/Cz-Companies-254-896-3750",
+  "affiliations": [
+   {
+    "org": "University Sports Publications / 2012 USP Holdings Inc. (Elmont, NY)",
+    "role": "Executive; registered agent of 2012 USP Holdings Inc.",
+    "category": "business",
+    "source_url": "https://www.privco.com/company/2012-usp"
+   },
+   {
+    "org": "Supergenius Holdings LLC / Supergenius Management Services LLC (CZ Companies)",
+    "role": "CEO / member (with Mitchell Zeifman)",
+    "category": "business",
+    "source_url": "https://www.corporationwiki.com/Texas/Riesel/supergenius-holdings-llc/37638883.aspx"
+   }
+  ]
+ },
+ {
+  "donor_id": "714c80dd-2f07-4509-8d6b-828d90ffebeb",
+  "name": "Shafer, Kristine",
+  "resolved_employer": "Self-employed artist / studio owner (Austin)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "All 16 of the donor's FEC contributions are a clean single-person match: 'Kristine Shafer', Austin TX 78757 — the filed zip exactly — with employer 'Self-Employed' and occupation 'Artist' (2019 and 2025 gifts) or 'Not Employed' (2018 and 2020 gifts). This corroborates the filing's self-reported occupation 'Studio Owner' with her own name as the employer, i.e. a self-employed artist working out of her own studio. Her federal giving is entirely small-dollar Democratic (ActBlue, plus Talarico for Texas), consistent with the fec_partisan_lean of 1.0 and with the $450 gift to progressive Democrat Mike Siegel. The specific studio/business name is not published and no Austin gallery or arts-directory listing for her was found, so the medium is unidentified.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kristine+Shafer&contributor_state=TX",
+  "affiliations": []
+ },
+ {
+  "donor_id": "70a31f26-9286-4027-8fa6-0690e45cb24a",
+  "name": "Eastridge, Arianna",
+  "resolved_employer": "Woof Gang Bakery & Grooming Westlake (701 S Capital of Texas Hwy, Austin 78746) — Key Holder; concurrently a University of Texas at Austin undergraduate",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "The filing's occupation and employer fields are transposed: 'Woofgang Westlake' is the employer — Woof Gang Bakery & Grooming Westlake, a specialty pet food/supply and grooming retailer at 701 S Capital of Texas Hwy in Austin 78746 — and 'Key Holder' is the retail role. Identity is corroborated by an August 2023 Cameron Herald scholarship announcement reporting that Arianna Eastridge of Rockdale attends the University of Texas pursuing a degree in Applied Learning and Development (ESL, preK-6): a UT student matches the filed Austin 78705 campus-area zip and is consistent with a part-time retail key-holder job. No source directly places her at the Woof Gang store and she has no FEC history, so the employment link rests on the filing itself; classified Retail on the filed job rather than Student because the filing reports active employment.",
+  "source_url": "https://www.cameronherald.com/news-newsletter/104000-scholarships-given-area-college-students-honor-christine-holcombe",
+  "affiliations": []
+ },
+ {
+  "donor_id": "70216eff-823d-44ce-b014-5e8f4ab1e2cb",
+  "name": "Wehbe, Nagi",
+  "resolved_employer": "Wehbe Properties LLC (5808 Balcones Dr Suite 200, Austin 78731) — President; Austin commercial real estate developer/investor",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "The filing discloses no occupation or employer ('requested'), so identification rests on name and geography. Najib 'Nagi' Wehbe is an Austin developer and president of Wehbe Properties LLC at 5808 Balcones Dr Suite 200, Austin 78731 — matching the donor's filed 78731 zip — and the City of Austin lobbyist registry lists him as a client under 'Wehbe, Najib' with a real estate business at 5902 Mountain Villa Dr, Austin 78731, also an exact zip match. He retained two City of Austin lobbyists (Glen Coleman, 2016-2019; Josiah Stevenson of South Llano Strategies, 2019-2020) and has pursued multiple Central Texas rezonings (a 5.87-acre retail rezoning in Kyle via FM 150 LLC; a truck-stop/convenience-store rezoning in San Marcos; a commercial-liquor overlay at 3131 E SH 71 via 3131 East 71 LLC); TDLR/permit records show 16-24 projects worth $14.5M-$19.7M. A developer with an active City of Austin lobbying history giving to the mayor is a coherent pattern. Confidence is medium because the filing's given name is 'Nagi' while all public records read 'Najib' — a plausible short form but not independently confirmed — and no FEC history exists to cross-check.",
+  "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?client=Wehbe,+Najib",
+  "affiliations": [
+   {
+    "org": "City of Austin lobbyist registry",
+    "role": "Registered lobby client (Glen Coleman 2016-2019; Josiah Stevenson / South Llano Strategies 2019-2020)",
+    "category": "political",
+    "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?client=Wehbe,+Najib"
+   },
+   {
+    "org": "Wehbe Properties LLC / Wells Branch Market LLC",
+    "role": "President / owner",
+    "category": "business",
+    "source_url": "https://www.zabalist.com/projects/owner/wehbe-najib-f"
+   }
+  ]
+ },
+ {
+  "donor_id": "700ce798-ea6c-4250-80df-f64766ef8106",
+  "name": "Bartram, john",
+  "resolved_employer": "Armbrust & Brown, PLLC (Austin) — attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "The filing's occupation and employer fields are transposed: John W. Bartram is an attorney at Armbrust & Brown, PLLC, an Austin civil practice firm he joined in 2003. A fifth-generation Texan, he practices real estate and business transactions, urban development and land use, utility development and financing, local government regulation, and representation of special utility districts (water, sewer, drainage, road, recreation infrastructure). Texas A&M B.A. summa cum laude 1995; J.D. cum laude Washington & Lee 1999; clerked for Judge Ellsworth Van Graafeiland (2d Cir.) 1999-2000; associate at Vinson & Elkins 2000-2003. He is the only John Bartram at the firm and the West Lake Hills 78746 address is consistent with an Austin land-use partner. NOTE: his firm bio lists Safari Club International membership — SCI is a hunting-advocacy organization that lobbies on firearms and hunting policy — recorded below per the gun-lobby flag; this is rank-and-file membership, not board or industry office.",
+  "source_url": "https://www.abaustin.com/the-team/john-bartram/",
+  "affiliations": [
+   {
+    "org": "Safari Club International",
+    "role": "Member (listed on firm bio)",
+    "category": "gun_rights",
+    "source_url": "https://www.abaustin.com/the-team/john-bartram/"
+   },
+   {
+    "org": "Quail Coalition",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://www.abaustin.com/the-team/john-bartram/"
+   },
+   {
+    "org": "Real Estate Council of Austin",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.abaustin.com/the-team/john-bartram/"
+   },
+   {
+    "org": "Urban Land Institute",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.abaustin.com/the-team/john-bartram/"
+   },
+   {
+    "org": "Capital Area Suburban Exchange",
+    "role": "Board of Directors",
+    "category": "business",
+    "source_url": "https://www.abaustin.com/the-team/john-bartram/"
+   },
+   {
+    "org": "The Nature Conservancy Conservation Council",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://www.abaustin.com/the-team/john-bartram/"
+   }
+  ]
+ },
+ {
+  "donor_id": "6fd33b3a-db66-4038-b808-65439eef6cf6",
+  "name": "Whitworth, Scott",
+  "resolved_employer": "WM Capital Partners (Austin) — Founder & Managing Partner; alternative investment firm (venture capital, private equity, real assets)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Scott Whitworth is founder and managing partner of WM Capital Partners, an Austin-based alternative investment firm founded in 2008 investing across venture capital, private equity and real assets — an exact match to the filing's occupation 'Managing Partner' and employer 'WM Capital Partners'. FEC records independently confirm the person and address: all three of his federal gifts list employer 'WM Capital Partners' with a West Lake Hills / Austin 78746 address matching the filing. Previously Vice President at Goldman Sachs and an associate at Cravath, Swaine & Moore; J.D., Georgetown Law. His federal giving is Republican — $2,700 to McCaul for Congress (R-TX-10) in 2016 and $2,000 via WinRed in May 2020 to Streicker for Congress (Margaret Streicker, R, Connecticut's 3rd district) — consistent with the fec_partisan_lean of 0.0 across 3 gifts.",
+  "source_url": "https://www.linkedin.com/in/scott-whitworth-2a014642",
+  "affiliations": [
+   {
+    "org": "WM Capital Partners",
+    "role": "Founder & Managing Partner",
+    "category": "business",
+    "source_url": "https://rocketreach.co/wm-capital-partners-profile_b4443f4afaad057d"
+   },
+   {
+    "org": "Goldman Sachs",
+    "role": "Former Vice President",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/scott-whitworth-2a014642"
+   }
+  ]
+ },
+ {
+  "donor_id": "6fb900bb-5649-4555-935c-d783b515cfee",
+  "name": "Booth, Lawson",
+  "resolved_employer": "Revival Health, LLC (Bee Cave, TX) — Founder & CEO; healthcare workflow-automation software for ophthalmology and optometry practices",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Lawson Boothe (filed as 'Booth') founded Revival Health, LLC in 2021 and is its CEO; the company, headquartered at 12535 W. Hwy 71 in Bee Cave, builds automations that eliminate manual data-entry tasks for large ophthalmology and optometry practices, and donates a portion of revenue to fund vision-restoration care. This matches the filing's employer 'Revival Health, LLC' and occupation 'Software' exactly, and the donor's Austin 78735 (southwest Austin) zip sits directly between central Austin and the Bee Cave headquarters. He is a developer and entrepreneur who previously founded Vital Interaction, a healthcare patient-communication platform; B.S. Computer Science, Texas Christian University. The surname is spelled 'Boothe' in company sources versus 'Booth' in the filing.",
+  "source_url": "https://www.revivalhealth.io/about",
+  "affiliations": [
+   {
+    "org": "Vital Interaction",
+    "role": "Founder",
+    "category": "business",
+    "source_url": "https://www.revivalhealth.io/about"
+   }
+  ]
+ },
+ {
+  "donor_id": "6fa25b47-66db-4717-92c1-c49b8f77ec73",
+  "name": "Manley, Paul",
+  "resolved_employer": "Driftwood Recovery (Driftwood, TX) — Executive Vice President & Partner, Jul 2018-Jan 2024; now Founder & CEO of Halo Mental Health",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Paul Manley served as Executive Vice President and Partner at Driftwood Recovery — a residential substance-abuse, chronic-pain and mental-health treatment center on a ranch campus in Driftwood, TX, southwest of Austin — from July 2018 to January 2024, after joining as Director of Admissions in 2016. This matches the filing's occupation 'Evp and partner' and employer 'Driftwood Recovery' exactly, and the October 2022 gift falls squarely inside his tenure; the West Lake Hills 78746 address is consistent with the Driftwood campus commute. Since March 2023 he has been Founder and CEO of Halo Mental Health. DATA CAVEAT: the attached fec_partisan_lean 0.3132 / fec_donation_count 69 appears to be a name-only false join and should not be attributed to this donor — a targeted FEC query for contributor 'Manley' at zip 78746 returns only two 2012-2013 ActBlue gifts from Peggy Manley (Austin 78746, self-employed counselor), and every FEC 'Paul Manley' in Texas is either Sherman 75092 (Trident, engineer) or Irving 75060 (not employed), none in West Lake Hills.",
+  "source_url": "https://driftwoodrecovery.com/our-team",
+  "affiliations": [
+   {
+    "org": "Driftwood Recovery",
+    "role": "Executive Vice President & Partner (2018-2024); Director of Admissions (2016-2018)",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/paul-manley-956a1949/"
+   },
+   {
+    "org": "Halo Mental Health",
+    "role": "Founder & CEO (2023-present)",
+    "category": "business",
+    "source_url": "https://theorg.com/org/halo-mental-health/org-chart/paul-manley"
+   }
+  ]
+ },
+ {
+  "donor_id": "6ec45a93-54cb-401a-b06e-d64a9c5680ed",
+  "name": "Hunziker Hendrix, Tracey",
+  "resolved_employer": "Austin Title Company — Vice President / Escrow Officer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Tracey Hendrix is a Vice President / Escrow Officer at Austin Title Company, listed on the firm's escrow team; she has been an escrow officer there since June 2005 and previously at Fidelity National Title Co. from 1997 to 2005, and attended Texas A&M University. Her practice covers title insurance, REO, foreclosures, short sales, first-time homebuyers and investment property transactions. This matches the filing's occupation 'VP/Escrow Officer' and employer 'Austin Title Co.' exactly; 'Hunziker' is an additional/maiden surname, and the Hunziker-Austin Title link is reinforced by a Jennifer Hunziker also working as an escrow officer at Austin Title's Cedar Park office. The Austin 78749 (southwest Austin) zip is consistent. Classified Real Estate as title/escrow closing services. She has no FEC history.",
+  "source_url": "https://www.linkedin.com/in/hendrix-tracey-b4490712/",
+  "affiliations": [
+   {
+    "org": "Austin Title Company",
+    "role": "Vice President / Escrow Officer (since 2005)",
+    "category": "business",
+    "source_url": "https://www.austintitle.com/about/our-team"
+   }
+  ]
+ }
+]

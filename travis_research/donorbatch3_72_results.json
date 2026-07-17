@@ -1,0 +1,149 @@
+[
+ {
+  "donor_id": "8d42f0ec-c267-442e-9796-a230758cc7c9",
+  "name": "Imig, Sally",
+  "resolved_employer": "AD Health Advisors, LLC (self-employed healthcare consultant)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Sally Imig runs AD Health Advisors LLC, an Austin healthcare advisory/consulting practice; her LinkedIn lists her as principal there, matching the filing employer 'Self Employed ADHealth Advisors LLC' and Austin 78731 location.",
+  "source_url": "https://www.linkedin.com/in/sally-imig-6b894a16/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "87870e91-399c-4eee-b7cf-de08cdd7fa44",
+  "name": "Collins, Deborah",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer both 'Requested' (undisclosed); 'Deborah Collins' is a very common name and no distinguishing detail beyond Austin 78703 could be corroborated to a specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "8588c387-e51b-4613-9fff-b1f1e6c43da7",
+  "name": "Alexander, Avril",
+  "resolved_employer": "Homemaker / independent artist (self-described)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported on filing as 'Housewife and artist' with no employer; an Avril Alexander (@avrilrae) with an Austin presence exists on social media but no professional art career or other identity could be independently corroborated to classify an industry.",
+  "source_url": "https://www.instagram.com/avrilrae/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "81b764cd-485e-467f-9538-bdd594f457e2",
+  "name": "DSOUZA, PRAVEEN",
+  "resolved_employer": "Ambiq (Ambiq Micro) - Director, Program Management",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Praveen D'Souza is Director of Program Management at Ambiq, the Austin low-power semiconductor company named in the filing; LinkedIn confirms the role and Austin base, matching employer 'AMBIQ' and 78731.",
+  "source_url": "https://www.linkedin.com/in/praveen-d-souza-0845264/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "7dbbe5cf-6fb3-44f1-ae26-2b97600fd1a0",
+  "name": "Hasz, Adam",
+  "resolved_employer": "U.S. Department of Energy - Implementation Advisor, IRA Home Energy Rebates Program",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Adam Hasz is an Implementation Advisor at the U.S. DOE Office of State and Community Energy Programs (IRA Home Energy Rebates), previously a DOE Building Technologies fellow and a leader of youth climate org SustainUS; DOE bio and LinkedIn confirm, matching 'US DOE' and Washington DC 20003.",
+  "source_url": "https://www.energy.gov/eere/buildings/contributors/adam-r-hasz",
+  "affiliations": [
+   {
+    "org": "SustainUS (youth climate advocacy)",
+    "role": "Former delegate/leader",
+    "category": "civic",
+    "source_url": "https://sustainus.org/people/adam-hasz/"
+   }
+  ]
+ },
+ {
+  "donor_id": "7853630f-c00a-4541-8816-3a1118159753",
+  "name": "Molad, Ofer",
+  "resolved_employer": "PerSys Medical / Safeguard Medical (CEO); Molad Consulting LLC; Austin real-estate investor",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Ofer Molad (Ben-Gurion Univ.) is CEO of PerSys Medical, the tactical/emergency medical-device maker of the 'Israeli Bandage' and Blizzard trauma blanket supplied to elite militaries incl. the U.S. Army; also an Austin real-estate investor at 54 Rainey St #PH18, 78701 (co-owned with spouse Sonia Molad-Einstein), matching donor address.",
+  "source_url": "https://www.linkedin.com/in/ofer-molad-99641324/",
+  "affiliations": [
+   {
+    "org": "PerSys Medical (Safeguard Medical division)",
+    "role": "CEO / founder (Performance Systems); manufacturer of tactical/military trauma medical equipment for militaries incl. U.S. Army",
+    "category": "military_defense",
+    "source_url": "https://www.prnewswire.com/news-releases/safeguard-medical-acquires-persys-medical-bringing-the-broadest-portfolio-of-options-for-life-saving-medical-equipment-technologies-and-services-to-first-responders-301322840.html"
+   },
+   {
+    "org": "Texas-Israel Chamber of Commerce",
+    "role": "Named 'Israeli Company of the Year' 2008 (as Performance Systems founder/CEO); Israeli-origin business ties",
+    "category": "business",
+    "source_url": "https://tjpnews.com/texas-israel-chamber-of-commerce-promotes-economic-development/"
+   }
+  ]
+ },
+ {
+  "donor_id": "7225ffd8-9153-40e1-b2e3-0c143395c872",
+  "name": "Gutierrez Saenz, Christian",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists 'Project Manager' at 'Austin CG' in 78724; several Christian Gutierrez individuals exist in Austin (building engineer, software technician, trucking owner) but none could be confidently matched to 'Austin CG' or this exact name/zip.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b0c4dd0-fc44-4472-9006-49434ee109b6",
+  "name": "Wilson, Suzanna",
+  "resolved_employer": "Texas Senate - Senior Policy Advisor / Policy Analyst",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Suzanna Wilson is a Senior Policy Advisor at the Texas Senate, appearing in Texas legislative staff directories and LinkedIn; matches filing occupation 'Texas Senate' / 'Policy Analyst' and Austin location. Gave to Austin CM Ryan Alter.",
+  "source_url": "https://www.linkedin.com/in/suzannareneewilson",
+  "affiliations": []
+ },
+ {
+  "donor_id": "68a689dc-2f61-4ccd-9030-21be7a6b275a",
+  "name": "Atkinson, Tamara",
+  "resolved_employer": "Workforce Solutions Capital Area - CEO (stepped down Sept 2025)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Tamara Atkinson was longtime CEO of Workforce Solutions Capital Area, Austin's public workforce-development board, until stepping down Sept 19, 2025; extensively documented in ABJ and org press, matching employer 'Workforce Solutions' and Austin 78759.",
+  "source_url": "https://www.wfscapitalarea.com/in-the-news/tamara-atkinson-to-step-down-as-ceo-of-workforce-solutions-capital-area/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "68034a68-17cb-478c-98d3-eaacbc904d27",
+  "name": "Einstein, Sonia",
+  "resolved_employer": "PerSys Medical - Director, Marketing",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Sonia Molad-Einstein is Director of Marketing at PerSys Medical (medical-equipment manufacturing) and co-owner with spouse Ofer Molad of 54 Rainey St #PH18, Austin 78701; LinkedIn/Wiza and county property records confirm identity behind the 'requested' filing (same address and same-day gift to Watson as Ofer Molad).",
+  "source_url": "https://wiza.co/d/persys-medical/bbe7/sonia-molad-einstein",
+  "affiliations": [
+   {
+    "org": "PerSys Medical (Safeguard Medical division)",
+    "role": "Director of Marketing; firm manufactures tactical/military trauma medical equipment supplied to militaries",
+    "category": "military_defense",
+    "source_url": "https://www.prnewswire.com/news-releases/safeguard-medical-acquires-persys-medical-bringing-the-broadest-portfolio-of-options-for-life-saving-medical-equipment-technologies-and-services-to-first-responders-301322840.html"
+   }
+  ]
+ },
+ {
+  "donor_id": "67bb519f-0436-40ef-a89f-5d7a17fcfe7c",
+  "name": "Rooney, Ian",
+  "resolved_employer": "Coinbase - Head of Enterprise Compliance (Senior Director)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Ian Rooney is Senior Director & Head of Enterprise Compliance at Coinbase (former Morgan Stanley global financial-crimes MD); a New Jersey resident, matching filing 'Compliance Officer / Coinbase' and Atlantic Highlands NJ 07716. Gave to Austin CM Paige Ellis.",
+  "source_url": "https://blockworks.co/news/coinbase-hires-morgan-stanley-lawyer-to-head-enterprise-compliance",
+  "affiliations": []
+ },
+ {
+  "donor_id": "6616dd83-be54-4337-a2ec-dfd25d2cb79b",
+  "name": "Houghton, Adam",
+  "resolved_employer": "ForeFlight (co-founder / COO, 2008-2022); now CEO of Tailsight",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Adam Houghton is co-founder and former COO/EVP Engineering of ForeFlight, the Austin aviation-software (electronic flight bag) company named in the filing, and is now CEO of aviation-software startup Tailsight; LinkedIn confirms Austin base and roles, matching 'ForeFlight LLC' and 78746.",
+  "source_url": "https://www.linkedin.com/in/adamsehoughton/",
+  "affiliations": []
+ }
+]

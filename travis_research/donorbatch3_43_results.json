@@ -1,0 +1,180 @@
+[
+ {
+  "donor_id": "f0843419-62ea-4439-bb2e-14bc8f775dac",
+  "name": "Kuppan, Baskaran",
+  "resolved_employer": "Persistent Systems (Baskaran 'Basky' Kuppan) - IT services / digital engineering",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "ZoomInfo and LinkedIn both list a Baskaran 'Basky' Kuppan at Persistent, matching the filer's self-reported employer 'Persistent Systems' and occupation 'IT Leader'; the Buffalo Grove, IL 60089 address is consistent with Persistent Systems Ltd's Chicago-area delivery presence. IMPORTANT AMBIGUITY: two unrelated firms use this name - Persistent Systems Ltd/Inc. (Indian-origin IT services and digital engineering, the likely employer here) and Persistent Systems LLC (New York-based maker of Wave Relay military MANET radios, a defense contractor). The 'IT Leader' occupation and Illinois location point to the IT services firm, not the defense contractor, so no military-defense flag is recorded. Could not open the LinkedIn/ZoomInfo profiles directly to confirm title and exact entity, hence medium.",
+  "source_url": "https://www.zoominfo.com/p/Baskaran-Kuppan/3782235045",
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "ee502d82-3098-4198-b562-b62282821771",
+  "name": "Cunningham, Haden",
+  "resolved_employer": "None - student (self-reported)",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Industry rests only on the filer's own disclosure ('student', employer 'n/a', Lakeway TX 78734). Searches of LinkedIn, the Lakeway residents directory and Austin-area news found no Haden Cunningham in 78734 who could be corroborated by school, age or address; the LinkedIn 'Haden Cunningham' found works for the Colorado Cattlemen's Agricultural Land Trust and there is a youth athlete by the same name, neither matched to Lakeway. Notable but unresolved: 12 FEC donations with a fully Democratic lean (1.0) is a heavy federal giving history for someone reporting as a student.",
+  "source_url": null,
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "eb9cb7ae-705a-44a8-ab97-1eeb79a53e14",
+  "name": "Johnson, Stephanie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identifiable. Occupation and employer were both left as 'requested' on the filing, and 'Stephanie Johnson' is an extremely common name. Searches against Austin 78732 (Steiner Ranch) surfaced only a Stephanie Johnson who is a family nurse practitioner at Advanced Pain Care in Austin, with nothing tying her to the 78732 ZIP or to this donation. No FEC history to corroborate. Do not classify.",
+  "source_url": null,
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e9fb072c-972e-4fa1-a59e-f1430017d424",
+  "name": "Oliver, Guy",
+  "resolved_employer": "V&S Enterprises, LC (Austin real estate/property holding) and MTG Management, Inc. d/b/a Major Brand Gasoline - president",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Corporationwiki lists Guy Oliver as president of MTG Management, Inc. at 3267 Bee Caves Rd, Austin 78746 - the same address as V&S Enterprises, LC (3267 Bee Cave Rd Ste 107), the employer he self-reported, and Vicki H. Oliver (president/director of V&S Enterprises) is listed as sharing companies with him. His self-reported occupation 'Real Estate' matches V&S Enterprises' recorded activity as an Austin property owner and general contractor. Medium rather than high because no source names Guy Oliver as an officer of V&S Enterprises itself; the link runs through the shared address and the shared associate. AI-generated aggregator profiles (Elementix) claim he holds 36-108 properties across 13 holding companies with $330M-$679M in mortgage exposure, but the figures are mutually inconsistent across their own pages and were not relied on.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/guy-oliver/30437191.aspx",
+  "interest_tags": "real-estate-development",
+  "affiliations": [
+   {
+    "org": "MTG Management, Inc. (d/b/a Major Brand Gasoline)",
+    "role": "President - Austin wholesale gasoline/diesel distribution company, ~30 years in operation, 3267 Bee Caves Rd",
+    "category": "oil_gas",
+    "source_url": "https://www.buzzfile.com/business/Major-Brand-Gasoline-512-927-6100"
+   },
+   {
+    "org": "V&S Enterprises, LC",
+    "role": "Self-reported employer; Austin property owner / general contractor at the same Bee Caves Rd address, Vicki Oliver president",
+    "category": "business",
+    "source_url": "https://www.bizapedia.com/tx/vs-enterprises-lc.html"
+   }
+  ]
+ },
+ {
+  "donor_id": "e995c845-4241-41ce-86e6-f2cb4196b172",
+  "name": "Richards, Zach",
+  "resolved_employer": "Brown Note Productions, Inc. - Director of Integration (Austin & Denver)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Zach (Zachary M.) Richards is Director of Integration for Brown Note Productions' Denver and Austin locations, hired to lead its AVL (audio/video/lighting) systems-integration division; he previously spent 22 years at Big House Sound, 11 of them as Director of Installations. Self-reported occupation 'Audio Engineer' and employer 'Brown Note Productions' match exactly, and Brown Note opened its Austin integration office in 2019, consistent with the Austin 78757 address. Trade press credits him on the Austin Stone Church AV build. Heavy Democratic federal giving history (223 FEC donations, lean 1.0).",
+  "source_url": "https://fohonline.com/newsroom/on-the-move/brown-note-productions-to-open-second-location-in-texas/",
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e82e7148-27ef-426e-aee5-7c1d37bc2f6e",
+  "name": "Edwards, Mark",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identifiable, and the self-reported title does not check out. The filing claims 'Chief Revenue Officer' at 'Trinet' (Austin 78716), but TriNet Group's CRO in 2022 was Alex Warren (appointed November 2022, previously SVP Customer Experience), succeeded by Shea Treadway in 2024 - no Mark Edwards appears in TriNet's executive record. The one Mark Edwards found who has held CRO titles works at HomeStory Rewards (previously Vast/Vroom), not TriNet, though he holds a UT-Austin marketing degree. He may hold a regional or divisional revenue role at TriNet's Austin office, or the employer string may be a different 'Trinet' entirely; neither could be confirmed. No FEC history to corroborate. Do not classify.",
+  "source_url": "https://www.trinet.com/about-us/news-press/press-releases/trinet-appoints-shea-treadway-as-chief-revenue-officer",
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e82a9ba0-e411-4aea-9062-7958b44322f0",
+  "name": "Allen, Sled",
+  "resolved_employer": "El Patio (Austin Tex-Mex restaurant, est. 1954) - third-generation manager/owner; co-founder of El Patio Foods",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Sled Allen is the third-generation manager of El Patio, the Guadalupe St Tex-Mex restaurant open since 1954 and the oldest Austin restaurant still in its original building; he returned from a job with the Denver Nuggets to run day-to-day operations when the family reopened it in September 2019. Self-reported occupation 'Restauranteur' and employer 'El Patio' match exactly. With first cousin Jeff Attal Jr. he founded El Patio Foods in 2021, jarring the restaurant's salsa for retail (Tiny Grocer, Thom's Market, Spec's statewide). Family: grandson of Lubbock-raised songwriter/sculptor Terry Allen; his and Attal's uncle is Charles Attal, co-founder of ACL Fest promoter C3 Presents.",
+  "source_url": "https://www.texasmonthly.com/food/el-patio-salsa/",
+  "interest_tags": "hospitality-entertainment",
+  "affiliations": [
+   {
+    "org": "El Patio / El Patio Foods",
+    "role": "Third-generation manager of the restaurant; co-founder of the retail salsa venture",
+    "category": "business",
+    "source_url": "https://www.texasmonthly.com/food/el-patio-salsa/"
+   }
+  ]
+ },
+ {
+  "donor_id": "e81233e6-b2d7-4210-aa0a-2795952c199c",
+  "name": "Fonteno, Claire",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identifiable. Occupation and employer were both left as 'requested' on the filing. Searches for 'Claire Fonteno' in Austin 78746 returned only near-miss spellings (a Claire Fontenot who is a senior technical program manager in Austin, and a Claire Fonteno named as a spouse in a Houston-family obituary) - neither could be tied to the 78746 ZIP or to this donation. FEC history (3 gifts, lean 0.0 = Republican-leaning) sits oddly with a gift to Democrat Kirk Watson and did not help disambiguate. Do not classify.",
+  "source_url": null,
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6fec7f0-48d9-4160-a00a-f4e2a4b136ff",
+  "name": "Kahn, Adolph",
+  "resolved_employer": "Multimedia Partners (Austin) - Senior Partner; producer, documentary filmmaker and music supervisor",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Adolph Robert 'Fito' Kahn III (b. 1955, Laredo TX) is a Senior Partner at Multimedia Partners in Austin - matching the self-reported employer 'Multimedia Partners' and the Austin 78759 address - and works as a producer, documentary filmmaker and music supervisor; he also teaches at Austin Community College. The filer's occupation string 'IT services' is a poor description of the work but is consistent with how business directories categorize Multimedia Partners (listed as a 'Software & Internet' company). Also a percussionist with the Duane Carter Band and president of ISMS Records and ARKIII Publishing.",
+  "source_url": "https://www.stage32.com/profile/657732/about",
+  "interest_tags": null,
+  "affiliations": [
+   {
+    "org": "Austin Jazz Alliance",
+    "role": "Founder (also founded the Texas Jazz Jam Cruise)",
+    "category": "civic",
+    "source_url": "https://en.everybodywiki.com/Fito_Kahn"
+   },
+   {
+    "org": "Austin Music Foundation / Austin Creative Alliance / The Recording Academy",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://en.everybodywiki.com/Fito_Kahn"
+   },
+   {
+    "org": "ISMS Records and ARKIII Publishing",
+    "role": "President / founder (2008)",
+    "category": "business",
+    "source_url": "https://en.everybodywiki.com/Fito_Kahn"
+   }
+  ]
+ },
+ {
+  "donor_id": "e6cabc79-34f4-42b3-bba6-116642e45cb3",
+  "name": "Berber, Jake",
+  "resolved_employer": "None - MBA student (self-reported)",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "Industry follows the filer's own disclosure ('MBA Student', employer 'None'), which is unambiguous regardless of identity. The likely person is the Jake Berber who sits on the board of the A Glimmer of Hope Foundation alongside Philip and Donna Berber (its co-founders) and Ryan and Shane Berber - the family is Austin-based and the Westlake-area 78746 ZIP is consistent, but no source states Jake Berber's age, school or address, so the match rests on surname plus family location and is not confirmed. Philip and Donna Berber endowed the foundation with $100M from the sale of online trading firm CyBerCorp to Charles Schwab and were ranked #7 on Barron's '25 Best Givers' in 2010. No FEC history.",
+  "source_url": "https://en.wikipedia.org/wiki/A_Glimmer_of_Hope_Foundation",
+  "interest_tags": null,
+  "affiliations": [
+   {
+    "org": "A Glimmer of Hope Foundation",
+    "role": "Board of Directors (identity match to this donor is probable but unconfirmed - see evidence)",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/A_Glimmer_of_Hope_Foundation"
+   }
+  ]
+ },
+ {
+  "donor_id": "e4a98005-e9d0-4854-9958-d0043e4f667e",
+  "name": "Webster, Jesse",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Not identifiable. Occupation and employer were both left as 'requested' on the filing. People-search aggregators do show a Jesse Webster household in Sunset Valley, TX 78745, which is consistent with the donation record's address, but no occupation, employer or public-record profile could be found for that person, and no news, LinkedIn or professional listing matched. No FEC history to corroborate. Do not classify.",
+  "source_url": null,
+  "interest_tags": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "e48cf455-1ebb-4394-bfde-c09ea18bb0ce",
+  "name": "Williams, Evan",
+  "resolved_employer": "Joseph & Williams (self-reported) - real estate management",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Classification rests only on the filer's own disclosure ('Real Estate Management' at 'Joseph & Williams', Wimberley TX 78676). No company named 'Joseph & Williams' could be found in Texas corporate records, business directories or Wimberley-area real estate listings; 'Evan Williams' is a common name and the candidates found (a Zillow/Trulia-listed Evan Williams agent brokered at 1801 S Mopac Expy, Austin 78704, and an 'Evan Thomas Williams' TREC licensee) could not be tied to Wimberley, to the 78676 ZIP or to that employer. Notable but unresolved: 81 FEC donations with a 0.86 Republican-leaning score alongside a gift to Democrat Kirk Watson.",
+  "source_url": null,
+  "interest_tags": null,
+  "affiliations": []
+ }
+]

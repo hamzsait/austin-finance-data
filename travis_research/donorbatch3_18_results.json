@@ -1,0 +1,193 @@
+[
+ {
+  "donor_id": "feaeba5b-8aab-46d4-ad73-05b9e8f2633d",
+  "name": "Slad, S.R.",
+  "resolved_employer": "Mike's Finest Wholesale Flowers, Inc. (wholesale floral distributor, Doraville GA)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Employer string matches a real Atlanta-area wholesale florist; the only Slad on its published staff roster is Suzanne Slad, Controller, whose finance role corroborates the filed occupation 'Bookkeeper' and the 'S' initial. Waleska GA 30183 is a plausible ~45-mi commute to Doraville, but residence was not independently confirmed and 'S.R.' could be another Slad at the same firm. Reason for a Georgia donation to an Austin mayoral race remains unexplained.",
+  "source_url": "http://mikesfinest.com/staff-information.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "fe98bde8-37ad-44ce-9b6c-ed5f0d0f8718",
+  "name": "Baggs, Erin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot confirm. Search summaries of Watson's 2022 filing attach 'Construction Manager, Karlin Real Estate, 5006 Trail West Dr, 78735' to Erin Baggs, but Karlin's construction manager is verifiably Grant Baggs, and this filing records Erin's own occupation/employer as 'requested' — almost certainly row-bleed from an adjacent same-household entry. A spouse's employer is not her industry; other Austin-area Erin Baggses exist with no corroborating zip or donation pattern.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=394416",
+  "affiliations": []
+ },
+ {
+  "donor_id": "fe812eb8-5a23-4338-b6df-203d5c3e4f18",
+  "name": "Nassour, Hayat",
+  "resolved_employer": "Office of the Attorney General of Texas — Assistant Attorney General V (Transportation Division)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Hayat Faddoul Nassour is the only person of that rare name in Austin: Texas Bar licensed 11/06/2003, hired by the Texas OAG 05/15/2024 as Assistant Attorney General V — a state employee at the time of the 2024-10-25 donation (previously at Davidson Troilo Ream & Garza). Corroboration is name-rarity plus SW Austin geography; public records list her residence as 78739 rather than the filed 78737, so the zip does not match exactly. No confirmed family tie to Jason R. Nassour or Rosemary/Alice Nassour.",
+  "source_url": "https://salaries.texastribune.org/employees/hayat-f-nassour-107128/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "fdf6c75e-1908-498d-b545-3068135a193f",
+  "name": "Averitt, Kip",
+  "resolved_employer": "Averitt & Associates — registered Texas lobbyist/consultant; former Texas State Senator (R-Waco, SD-22, 2003–2010) and chair of Senate Natural Resources",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Barry Kip Averitt, former Texas House (1993–2003) and Senate (2003–2010) member known for water/environmental policy, now an Austin lobbyist. Corroborated by zip: his TEC lobbyist address is 1900 Simond Ave #2048, Austin TX 78723 — matching the donor zip — an address independently confirmed on the Texas Aerospace Partnership site, the client named in his LinkedIn headline.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/2012/lobcon2012a.htm",
+  "affiliations": [
+   {
+    "org": "America's Natural Gas Alliance (via Paschall Strategic Communications)",
+    "role": "Registered Texas lobbyist for the client, per TEC lobby registration",
+    "category": "oil_gas",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2012/lobcon2012a.htm"
+   },
+   {
+    "org": "Texas Aerospace Partnership",
+    "role": "Registered lobbyist; TAP's listed address (1900 Simond Ave #2048, Austin 78723) is Averitt's own lobbyist address, and TAP appears in his LinkedIn headline",
+    "category": "business",
+    "source_url": "https://www.taptx.space/"
+   },
+   {
+    "org": "Harris-Galveston Subsidence District",
+    "role": "Governmental affairs consultant / registered lobbyist (groundwater-subsidence regulator)",
+    "category": "civic",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2012/lobcon2012a.htm"
+   }
+  ]
+ },
+ {
+  "donor_id": "fd840022-1056-4555-85d2-de7a2e3ad9a1",
+  "name": "Samuels, Marc",
+  "resolved_employer": "ADVI Health, LLC — founder and CEO (healthcare/life-sciences advisory firm, Washington DC)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Marc Samuels, JD/MPH, founder & CEO of ADVI Health, whose DC headquarters at 1000 F St NW is zip 20004 — an exact match to the donor zip, alongside the exact employer and title. Texas ties explain the Watson donation: UT School of Law JD, chief of staff to Texas Medicaid, Texas HHSC and the Governor's Office of Policy, later partner at Austin lobby firm HillCo Partners.",
+  "source_url": "https://www.advi.com/people/marc-samuels/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa134372-fe3d-4306-bffd-6e6afa63e5c4",
+  "name": "Uzbanowicz-Pollock, Paulina",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Almost certainly Paulina Urbanowicz-Pollock, AICP (filing misspells the surname), a UT-Austin community & regional planning grad and certified planner — consistent with the Austin 78731 zip and 'environmental planner' occupation. But the filing withholds her employer ('Requested') and her two documented employers (City of Austin planning offices; later Port Authority of NY/NJ) cannot be dated to Nov 2022, so Government would be an inference across an unverified gap.",
+  "source_url": "https://sites.utexas.edu/cm2/paulinatrb/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f966a81a-cc64-4d66-99b2-f2cbac9ba5e5",
+  "name": "Bhagat, Raju",
+  "resolved_employer": "RGB Hospitality — founder/CEO, Corpus Christi hotel developer and owner",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Raju Bhagat is founder/CEO of RGB Hospitality in Corpus Christi, in Texas hospitality 40+ years, with ownership interest in 25+ hotels (Hampton Inn, Hyatt Place, SpringHill Suites, Holiday Inn Express). Matches donor zip 78410, occupation 'Hotelie' and employer 'Rgb hospitality' exactly.",
+  "source_url": "https://rgbhospitality.com/about-us/",
+  "affiliations": [
+   {
+    "org": "Del Mar College Board of Trustees",
+    "role": "Trustee, Executive Committee Member",
+    "category": "civic",
+    "source_url": "https://rgbhospitality.com/about-us/"
+   },
+   {
+    "org": "Corpus Christi Police Foundation",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://rgbhospitality.com/about-us/"
+   },
+   {
+    "org": "Downtown Marina District (Corpus Christi)",
+    "role": "Board of Directors",
+    "category": "business",
+    "source_url": "https://rgbhospitality.com/about-us/"
+   }
+  ]
+ },
+ {
+  "donor_id": "f9136be7-65de-4e33-b17a-868996e2c5a5",
+  "name": "LaMantia, Greg",
+  "resolved_employer": "L&F Distributors — manager/owner (partner), Budweiser/beverage wholesale distributor",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Gregory M. LaMantia is a manager/owner and family partner in L&F Distributors, the McAllen-based Budweiser wholesaler the LaMantia family has owned since 1977 (1,100+ employees, 53 counties in TX/NM); one of five children of founder Joe LaMantia Jr. Donor occupation 'Partner' and employer match directly, and FEC filings list Gregory M. LaMantia of L&F giving to Texas Democrats, consistent with the 0.76 Democratic lean.",
+  "source_url": "https://www.opensecrets.org/orgs/l-f-distributors/recipients?cycle=CAREER&id=D000035205",
+  "affiliations": [
+   {
+    "org": "STARS Scholarship Fund (South Texas Academic Rising Stars)",
+    "role": "Co-founder (2002); L&F funds all operating expenses",
+    "category": "civic",
+    "source_url": "https://www.ushbc.com/greg-lamantia"
+   },
+   {
+    "org": "BevCap Management, LLC",
+    "role": "Family co-founder (2008), captive insurance for beer distributors",
+    "category": "business",
+    "source_url": "https://www.ushbc.com/greg-lamantia"
+   },
+   {
+    "org": "United States Hispanic Business Council (USHBC)",
+    "role": "Featured business leader",
+    "category": "business",
+    "source_url": "https://www.ushbc.com/greg-lamantia"
+   }
+  ]
+ },
+ {
+  "donor_id": "f6294665-868c-4353-8809-6dd4f6e1241f",
+  "name": "Shepherd, Robin",
+  "resolved_employer": "5 Birds Dwellings LLC — owner/founder, historic home restoration and rental",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Preservation Austin's Historic Tax Credit Workshop lists speaker Robin Shepherd as 'owner and founder of 5 birds dwellings llc. She purchases and restores historic homes that require significant restoration, taking advantage of the tax credit system.' Matches donor employer '5 Birds Dwellings' and occupation 'Business Owner - Real Estate'; Austin-based, consistent with zip 78703, and a 2023 Preservation Austin Stewardship Award recipient.",
+  "source_url": "https://www.preservationaustin.org/events/historic-tax-credit-workshop",
+  "affiliations": [
+   {
+    "org": "Preservation Austin",
+    "role": "Speaker, Historic Tax Credit Workshop; 2023 Preservation Merit Stewardship Award recipient",
+    "category": "civic",
+    "source_url": "https://www.preservationaustin.org/events/historic-tax-credit-workshop"
+   }
+  ]
+ },
+ {
+  "donor_id": "f542ce9e-0cca-43f9-bed5-8cffc7e2228b",
+  "name": "Jaffee, Nikie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm this specific individual. Zip 78657 places her in Horseshoe Bay, home to the prominent Jaffe family (Jetran/Spectre Air Capital aviation businesses; controlling owners of Horseshoe Bay Resort since 1995), and TEC records show Morris Jaffe Jr. and Jordan Jaffe donating from that same zip. But the donor's surname is spelled 'Jaffee', no biographical source for 'Nikie Jaffee' exists in TEC or FEC data or any Austin Jewish civic listing, and the self-reported 'Philanthropist'/'Unemployed' is uncorroborated. Family connection plausible but unproven.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f4d32dbc-54e5-4789-a9cb-640b70b1f359",
+  "name": "Umatiya, Najam",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm this specific individual. TEC statewide data shows an Austin Umatiya family of convenience-store owners, including Sameer Umatiya at zip 78729-7150 (employer 'Spring Mart', 'Business owner') — an exact zip match — and Abid Umatiya at 78750 ('Sam's Mini Mart', Owner). But no record of 'Najam Umatiya' appears in TEC, FEC, or business registries, and this filing's occupation/employer is 'requested'. The zip match suggests a likely retail family but does not identify this person.",
+  "source_url": "https://www.bizapedia.com/tx/umatiya-enterprise-inc.html",
+  "affiliations": []
+ },
+ {
+  "donor_id": "f3bbb389-b21d-4db3-ac58-4324a08f69b2",
+  "name": "Campbell, Grover",
+  "resolved_employer": "Texas Association of School Boards (TASB) — Associate Executive Director, Governmental Relations (retired)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Grover Campbell was Associate Executive Director for Governmental Relations at TASB in Austin, matching the filing's employer and occupation ('Administrator'). Corroborated by Texas House Education Committee witness lists showing him registered as 'Assoc Ex Dir Gov Relations' for TASB and by TEC lobby registration (Filer ID 68684, 1101 Trinity, Austin 78701). Earlier career: Texas House staff from 1973, UT System governmental relations 1978–84, then Vice Chancellor for Governmental Relations at the University of Houston System until 2012.",
+  "source_url": "https://capitol.texas.gov/tlodocs/86R/witlistmtg/html/C5302019040909001.HTM",
+  "affiliations": [
+   {
+    "org": "Texas Association of School Boards (TASB)",
+    "role": "Associate Executive Director, Governmental Relations — registered Texas lobbyist (TEC Filer ID 68684)",
+    "category": "civic",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2018/2018RegisteredLobbyists.pdf"
+   }
+  ]
+ }
+]

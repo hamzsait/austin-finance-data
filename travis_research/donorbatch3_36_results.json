@@ -1,0 +1,125 @@
+[
+ {
+  "donor_id": "38d1099b-0a1f-4705-9c47-44f1c22893f5",
+  "name": "Carbajal, Michelle",
+  "resolved_employer": "Lone Star Bail Bonds (Austin bail bond / surety company)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Filing lists occupation 'bail bonds' at 'Lone Star Bail Bonds'; a Lone Star Bail Services operates at 7901 Cameron Rd, Austin (near zip 78702). A Michelle Carbajal appears on Texas Legislature bail-industry witness lists (2017/2019) as a bail bond operator. Bail bonding is a surety/insurance financial service, hence Finance. The specific person-to-Austin-company link is plausible but not fully confirmed, hence medium. Gave only to Kirk Watson; FEC: 9 gifts, partisan lean 1.0.",
+  "source_url": "https://www.yelp.com/biz/lone-star-bail-services-austin-2",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3750c0cc-5b8c-4755-9f8e-067157fe1742",
+  "name": "Bratton, Rhonda",
+  "resolved_employer": "The Bratton Firm, P.C. / Bratton Firm Subrogation Services (Austin personal-injury & subrogation law firm) — bookkeeper/comptroller",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Rhonda Bratton is listed as comptroller/bookkeeper at The Bratton Firm, an Austin (1100 Guadalupe St, 78701) personal-injury and hospital-lien/subrogation law firm founded by R. Louis Bratton. Name + employer string ('The Bratton Firm Subrogation Services Inc') + occupation ('Bookkeeper') + 78701 zip all match the filing. Gave only to Kirk Watson; FEC: 32 gifts, partisan lean 0.0 (fully one-sided federally).",
+  "source_url": "https://www.tha.org/services-for-hospitals/partners/the-bratton-firm-subrogation-services/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "36aa935e-7979-4287-a098-515551a18f70",
+  "name": "Factor, Elizabeth",
+  "resolved_employer": "Chief Administrative Officer & board member, IntraBio Inc. (clinical-stage pharmaceutical company developing treatments for neurodegenerative diseases)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Elizabeth Weir Factor is Chief Administrative Officer and a board member of IntraBio Inc., a pharma company developing treatments for neurodegenerative disease — matching the filing's occupation ('Chief Admin Officer') and employer ('IntraBio Inc.') exactly. Former international tax lawyer (Cleary Gottlieb) and Babcock & Brown executive; ex-Council on Foreign Relations term member and NY State Financial Control Board member; Yale Law / Columbia. Austin zip 78701 consistent. FEC: 0 gifts.",
+  "source_url": "https://intrabio.com/our-team/elizabeth-factor/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "36516cc6-5468-4089-814a-4beb15d5b0fe",
+  "name": "DeJernett, Susanne",
+  "resolved_employer": "Owner & speech-language pathologist (MA, CCC-SLP), Austin Area Speech & Language Services (Bee Caves Rd clinic)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Susanne Schlankey DeJernett (NPI 1457462368) is the owner/SLP of Austin Area Speech & Language Services on Bee Caves Rd; UT-Austin M.A. 1996, owner since 2004. Exact name + occupation ('Speech Pathologist') + employer string ('Austin Area Speech and Language') match; zip 78703 is adjacent to the Bee Caves Rd (78746) clinic. Gave only to Kirk Watson; FEC: 1 gift, partisan lean 1.0 (Democratic).",
+  "source_url": "https://npiprofile.com/npi/1457462368",
+  "affiliations": []
+ },
+ {
+  "donor_id": "3555eff5-fbdb-495b-8fa0-1973177938b1",
+  "name": "Maxwell, Nancy",
+  "resolved_employer": "Family partner/owner, Nyle Maxwell Family of Dealerships (Central Texas Chrysler-Dodge-Jeep-Ram auto dealer group); wife of Nyle Maxwell (CEO, former Round Rock mayor)",
+  "industry": "Retail",
+  "confidence": "high",
+  "interest_tags": "republican-money",
+  "evidence": "Nancy Maxwell is the wife of and family partner with Nyle Maxwell, CEO of the Nyle Maxwell Family of Dealerships, a well-known Central Texas auto-dealer family based in Round Rock/Georgetown (Williamson County) — matching the filing's employer string ('Nyle Maxwell Family of Dealerships') and occupation ('Partner') exactly. Classified Retail (auto dealership). FEC: 254 gifts, partisan lean 0.007 = near-uniformly Republican federally, consistent with the family's GOP donor/philanthropy profile, which sits notably against this Democratic Watson gift.",
+  "source_url": "https://rrcommunityfoundation.org/donor-story-nancy-nyle-maxwell-family/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "34d3c608-80c0-4302-884a-1739f8753fb5",
+  "name": "Jaffe, Justin",
+  "resolved_employer": "Owner of Horseshoe Bay Resort and EVP of Jetran International (aircraft sales); principal of Jaffe Group, Ltd. (Horseshoe Bay, TX)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "interest_tags": "hospitality-entertainment",
+  "evidence": "Justin Jaffe is the owner of the ~7,000-acre Horseshoe Bay Resort (AAA Four-Diamond Marriott) and EVP of Jetran International (aircraft sales); Jaffe Group, Ltd. is registered at 1449 Airpark, Horseshoe Bay, TX. Exact name + employer string ('Jaffe Group, Ltd.') + Horseshoe Bay zip 78657 + 'Entrepreneur' occupation all match. Classified Hospitality / Events for the resort ownership (his principal business). FEC: 40 gifts, mixed partisan lean 0.107.",
+  "source_url": "https://about.me/justinjaffeaustin",
+  "affiliations": []
+ },
+ {
+  "donor_id": "34529946-38e0-482a-844a-963b6016d41c",
+  "name": "Demkowicz, Rachel",
+  "resolved_employer": "Student (self-reported; employer 'none')",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation on the Watson filing is 'student' with no employer, zip 78757 (north-central Austin). No independent web profile confirms the specific person; the rare Demkowicz surname is associated with a UT Austin academic family (Prof. Leszek Demkowicz, Oden Institute) but the link is unconfirmed. Classified Student on the strength of the primary filing occupation; confidence medium because the individual could not be independently identified. FEC: 0 gifts.",
+  "source_url": "https://www.ae.utexas.edu/faculty/faculty-directory/demkowicz",
+  "affiliations": []
+ },
+ {
+  "donor_id": "33d96ca5-acbc-4839-8175-8044609a91e3",
+  "name": "Gottsegen, Joel",
+  "resolved_employer": "Co-founder / technical director (self-described CEO), Petty Karma — Austin-based indie video game studio; previously founder of Qualia (real-estate closing software)",
+  "industry": "Technology",
+  "confidence": "high",
+  "interest_tags": "tech-startup-ecosystem",
+  "evidence": "Joel Gottsegen is co-founder and technical director of Petty Karma, an Austin-based indie video game studio — matching the filing's occupation ('Video Game Studio CEO') and employer ('Petty Karma') exactly. Stanford CS background; earlier founded Qualia real-estate closing software. East Austin zip 78702 consistent. Gave only to Kirk Watson; FEC: 0 gifts.",
+  "source_url": "https://www.pettykarma.com/team",
+  "affiliations": []
+ },
+ {
+  "donor_id": "32e93595-cbfe-4d1f-9eee-5f0269eaf75e",
+  "name": "Sanchez, Tani",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Houston zip 77056 (Galleria/Uptown), with no occupation or employer reported on the filing ('n/a'). No public web source (OpenSecrets, LinkedIn, news, donor lists) confirms a specific 'Tani Sanchez' at this zip. FEC: 3 gifts, partisan lean 1.0 (fully Democratic-leaning giving), but insufficient detail to identify the individual. Cannot confidently classify; industry left null per instructions.",
+  "source_url": "https://www.opensecrets.org/donor-lookup/results?name=sanchez+tani",
+  "affiliations": []
+ },
+ {
+  "donor_id": "300bb6b9-045c-4a71-acb7-e54eb0d20ec6",
+  "name": "Markim, Jeff",
+  "resolved_employer": "Founder & CEO/owner, LeasePoint Funding Group (Austin commercial/equipment financing firm)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Jeff Markim is the confirmed Founder & CEO/owner of LeasePoint Funding Group, an Austin-based commercial financing company (equipment financing, working capital, merchant services); Texas A&M alumni-owned, named #1 on the Aggie 100 in 2022. Distinctive name + exact employer string ('LeasePoint Funding Group') + 'Owner' occupation + Austin zip 78732 (Steiner Ranch) all match. FEC: 0 gifts.",
+  "source_url": "https://www.linkedin.com/in/jeffmarkim/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2f488820-fdc4-4dc9-a976-dc39e3992eb4",
+  "name": "Mearig, Mary",
+  "resolved_employer": "Independent skincare direct-sales / network-marketing distributor (Neora/Nerium-type MLM)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Mary J. Mearig is a Texas-based network-marketing entrepreneur (per an Austin Moms profile, 'earned her first million in network marketing in four years'), consistent with the filing's 'Sales' occupation + 'Skin Care' employer string and Bee Cave/Lakeway zip 78738; a personalized Neora skincare store (mary.neora.com) surfaces for the name. Direct-sales consumer skincare = Retail. The exact brand affiliation is not fully confirmed, hence medium. FEC: 0 gifts.",
+  "source_url": "https://austinmoms.com/2019/02/02/meet-mary-mearig/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "2f1279ac-151b-439e-9004-f34f699ad353",
+  "name": "Wood, Stafford",
+  "resolved_employer": "Founder & President/owner, Covalent Logic (corporate communications / public-relations firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Stafford Wood is the confirmed Founder & President/owner of Covalent Logic, a corporate communications and public-relations firm (internal comms, graphic design, web dev, PR) that maintains an Austin office in addition to Baton Rouge/Houston. Distinctive name + exact employer string ('Covalent Logic') + 'Owner' occupation match; East Austin zip 78702 fits the firm's Austin presence. FEC: 0 gifts.",
+  "source_url": "https://www.covalentlogic.com/team-member/stafford",
+  "affiliations": []
+ }
+]

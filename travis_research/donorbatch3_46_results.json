@@ -1,0 +1,223 @@
+[
+ {
+  "donor_id": "d72b335d-4f8a-4aa4-a40d-981478063d8d",
+  "name": "Finnegan, Shane",
+  "resolved_employer": "Trend Micro — enterprise cybersecurity software company with a large Austin office (self-reported on the filing only; the specific individual was not independently identified)",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "low",
+  "confidence_note": "The employer string is unambiguous and Trend Micro's Austin presence is well documented, but no public record ties a Shane Finnegan in 78738 (Bee Cave/Lakeway) to Trend Micro: no FEC record exists for any Shane Finnegan in Texas, and no LinkedIn/ZoomInfo profile corroborates. Several unrelated Shane Finnegans exist (an AMD account manager, a construction VP, a general contractor). The stated title 'BMA Manager' could not be decoded against any known Trend Micro role. Industry rests entirely on the donor's own sworn disclosure.",
+  "evidence": "Self-reported as a 'BMA Manager' at Trend Micro, a Japanese-headquartered cybersecurity firm whose U.S. operations include a substantial Austin engineering and product office — a plausible employer for a west-Travis-County (78738) resident. Extensive searching found no public web presence for this specific person.",
+  "source_url": "https://www.builtinaustin.com/company/trend-micro",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d6abb39b-077f-4701-b6b4-bbf0bac78827",
+  "name": "Varghese, Rejimon",
+  "resolved_employer": "Qorvo (Greensboro, NC) — RF/semiconductor manufacturer formed by the 2015 merger of RF Micro Devices (RFMD) and TriQuint; engineer",
+  "industry": "Technology",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Corroborated by an independent FEC record for 'VARGHESE, REJIMON' at zip 27310, occupation ENGINEER, employer RFMD — Qorvo's predecessor company — matching this filing's zip, occupation and employer lineage exactly. Residence at Oak Ridge, NC 27310 is further corroborated by a Triad Malayalee Association business-entity registration at his home address. An out-of-state donor to an Austin mayoral race; his own filings describe RF engineering, and his ActBlue giving indicates a Democratic pattern.",
+  "source_url": "https://www.city-data.com/business-entities/NC/Triad-Malayalee-Association-1944305-NC.html",
+  "affiliations": [
+   {
+    "org": "India Association of the Triad (Greensboro, NC)",
+    "role": "Director, Social Events",
+    "category": "civic",
+    "source_url": "https://www.zoominfo.com/p/Rejimon-Varghese/17453238315"
+   },
+   {
+    "org": "Triad Malayalee Association",
+    "role": "Associated principal; entity registered at his Oak Ridge, NC 27310 address",
+    "category": "civic",
+    "source_url": "https://www.city-data.com/business-entities/NC/Triad-Malayalee-Association-1944305-NC.html"
+   }
+  ]
+ },
+ {
+  "donor_id": "d5cdb033-38e5-45b6-b351-51745652a82f",
+  "name": "Azopardi, Tommy",
+  "resolved_employer": "Texans for Economic Development — the Texas horse- and dog-racing industry's political umbrella group and PAC, whose central legislative goal is legalizing slot machines / video gaming at pari-mutuel racetracks; President. Also executive director/CEO of the Texas Horsemen's Partnership.",
+  "industry": "Nonprofit / Advocacy",
+  "interest_tags": "hospitality-entertainment,political-consulting",
+  "confidence": "high",
+  "evidence": "Texas Horse Racing Hall of Fame biography: Azopardi became CEO of the Texas Horsemen's Partnership in 1997 and president of Texans for Economic Development in 2009, building a coalition spanning every Texas racetrack plus horse and dog racing organizations to pursue gambling-expansion legislation. Texans for Public Justice's Lobby Watch identified TED PAC as Texas's top gambling PAC, raising $841,214 in the 2008 cycle under Azopardi, funded overwhelmingly by horseracing interests. Zip corroborates exactly: Azopardi is publicly listed at Wimberley, TX 78676.",
+  "source_url": "https://www.txhorseracingmuseumandhalloffame.org/tommy-azopardi.html",
+  "affiliations": [
+   {
+    "org": "Texans for Economic Development / TED PAC (Texas gambling-expansion PAC)",
+    "role": "President",
+    "category": "political",
+    "source_url": "https://www.txhorseracingmuseumandhalloffame.org/tommy-azopardi.html"
+   },
+   {
+    "org": "Texas Horsemen's Partnership, LLP",
+    "role": "Executive Director / CEO",
+    "category": "business",
+    "source_url": "http://www.texashorsemen.com/personnel/index.asp"
+   },
+   {
+    "org": "Groom Elite",
+    "role": "President",
+    "category": "business",
+    "source_url": "https://www.bloodhorse.com/horse-racing/articles/156225/azopardi-now-heads-groom-elite"
+   }
+  ]
+ },
+ {
+  "donor_id": "d4a3674a-a177-420f-81c4-b443f8f6261c",
+  "name": "Timmerman, Leslie",
+  "resolved_employer": "Timmerman Family Limited Partnership — the family investment/holding vehicle of Austin real-estate developer Timothy 'Tim' Timmerman (Timmerman Capital LLC); general partner",
+  "industry": "Real Estate",
+  "interest_tags": "real-estate-development,republican-money",
+  "confidence": "high",
+  "evidence": "Leslie E Timmerman resides in Austin 78746 (Westlake) at an address that is also the registered address of the Timmerman Family Limited Partnership, where she is listed as a general partner — matching this filing's stated occupation and employer verbatim. Public records list co-general partner and registered agent Timothy T Timmerman as her spouse: the Austin real-estate developer behind Timmerman Capital, a three-term LCRA board member and 14-year LCRA chairman, appointed by Gov. Greg Abbott to the Texas Parks and Wildlife Commission in April 2025 — consistent with the household's all-Republican FEC giving (lean 0.0 across 5 donations).",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/leslie-timmerman/33766881.aspx",
+  "affiliations": [
+   {
+    "org": "Hospice Austin (Fund Board)",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://www.hospiceaustin.org/wp-content/uploads/Annual-Report-2020.pdf"
+   },
+   {
+    "org": "Texas Parks and Wildlife Commission",
+    "role": "Spouse of commissioner Timothy Timmerman (Abbott appointee, 2025)",
+    "category": "political",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-timmerman-patton-to-texas-parks-and-wildlife-commission"
+   }
+  ]
+ },
+ {
+  "donor_id": "d4522247-50b7-4c1e-a48f-7c9aef002f09",
+  "name": "Papermaster, Justin",
+  "resolved_employer": "LoudCrowd — Austin influencer/creator-marketing SaaS startup (founded 2019); co-founder and President",
+  "industry": "Technology",
+  "interest_tags": "tech-startup-ecosystem",
+  "confidence": "high",
+  "evidence": "Justin Papermaster is co-founder and President of LoudCrowd, an Austin-based user-generated-content and influencer marketing SaaS company; previously a sales leader at TrendKite, Spredfast and RealSavvy. The filing's occupation ('President') and employer ('LoudCrowd') match his public role exactly, and he self-identifies as an Austinite (78746 = Westlake). No source connects him to AMD CTO Mark Papermaster; a people-search site lists a 'Justin D Papermaster' among possible relatives of an Aaron A Papermaster in Austin, but no record ties him to Mark, so no family link is asserted.",
+  "source_url": "https://www.crunchbase.com/person/justin-papermaster",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4414807-2e90-415a-9821-3e9159c49257",
+  "name": "Ulmann, Chris",
+  "resolved_employer": "Jones-Heroy & Associates — Austin civil engineering firm serving water districts, MUDs, river authorities and municipal utilities; Senior Project Manager / District Engineer",
+  "industry": "Engineering",
+  "interest_tags": "",
+  "confidence": "high",
+  "evidence": "Chris S. Ulmann, P.E., is Senior Project Manager in Jones-Heroy's North Austin office, serving as District Engineer for Municipal Utility Districts — matching the filing's 'Engineer' / 'Jones Heroy' entry. UT Austin civil engineering BS (2001), licensed Texas PE (2008), roughly a decade of private-sector land-development consulting, then TCEQ from 2011 to 2022 (last six years managing the Districts Section). His firm bio states he joined Jones-Heroy in February 2022, three months before this May 2022 donation.",
+  "source_url": "https://jones-heroy.com/chris-s-ulmann/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d41f1d1f-91ea-4be3-bdf8-23de0d974621",
+  "name": "Phenix, Monika",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "interest_tags": "",
+  "confidence": "low",
+  "confidence_note": "The individual is not independently identified. The filing's 78768 is a PO Box zip that cannot be matched to a residence, so nothing corroborates a specific person. Industry reflects only the donor's own sworn disclosure ('stay at home' / employer 'none'). A Monika B Phenix appears in Austin public records at a Westlake (78746) address with a prior accounting career (Pier 1 Imports, RadioShack lease audit), and a circumstantial link to Austin lobbyist Billy Phenix (Phenix & Saenz) exists — rare shared surname, his 2012 Texas Ethics Commission registration used a PO Box in 78768, and he sits on the Eanes Education Foundation board — but no source names his wife, so the spousal connection is unverified and is NOT asserted.",
+  "evidence": "Self-reported as a stay-at-home spouse with no employer, giving from an Austin PO Box zip (78768). No public record confirms which Monika Phenix this is.",
+  "source_url": "https://clustrmaps.com/person/Phenix-96temh",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d3f774e8-59c8-4c57-a72d-6be7a0778274",
+  "name": "Adams, Celine",
+  "resolved_employer": "First American Title / First American Data & Analytics — VP, Business Development at the time of the donation; now Director of Partner Integrations, National Commercial Services",
+  "industry": "Finance",
+  "interest_tags": "insurance-finance",
+  "confidence": "high",
+  "evidence": "Celine Adams is an Austin-based First American Title executive, currently Director of Partner Integrations for National Commercial Services; during her First American tenure she served as Vice President, Business Development for First American Data & Analytics — matching the filing's occupation ('Business Development') and employer ('First American'). Previously Principal Consultant at NIA Consulting (a division of Interthinx) doing forensic financial risk analysis; BBA from Texas Tech. Her all-Democratic FEC lean (1.0 across 2 donations) is consistent with the Watson contribution.",
+  "source_url": "https://www.zoominfo.com/p/Celine-Adams/995075241",
+  "affiliations": []
+ },
+ {
+  "donor_id": "d357188e-8489-46f4-b80b-eeef5a332806",
+  "name": "Miller, Kris",
+  "resolved_employer": null,
+  "industry": null,
+  "interest_tags": "",
+  "confidence": "low",
+  "confidence_note": "Unidentified. The filing lists occupation and employer as 'NA' and there is no FEC record, leaving zip 78746 as the only identifying detail. 'Kris Miller' is a very common Texas name (Spokeo lists roughly 1,781 in the state). One candidate exists — a Kris Miller who runs Decorating Den Interiors, an Austin interior design studio serving the Westlake/78746 area — but her business address and service area do not establish 78746 residency, and with no occupation or employer on the filing nothing corroborates the match. No industry assigned.",
+  "evidence": "A $400 March 2022 gift to Kirk Watson from a 78746 (Westlake) address with no occupation or employer disclosed and no FEC history. Not identifiable from public sources.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "d04063cc-1c2f-4a79-a925-0dde7ef0e71e",
+  "name": "Klein, Phil",
+  "resolved_employer": "Viva Learning LLC — Austin-based global dental e-learning / continuing-education company; founder and Chairman of the Board",
+  "industry": "Education",
+  "interest_tags": "republican-money",
+  "confidence": "high",
+  "confidence_note": "The identity is confirmed independently, but the FEC record's zip could not be verified firsthand (FEC API access was unavailable during research), so the 'republican-money' tag — which rests on the supplied FEC lean of ~0.003 across 17 donations — is one degree less certain than the identification itself.",
+  "evidence": "Dr. Philip Klein, DMD, endodontist and founder/Chairman of Viva Learning LLC, headquartered in Austin — matching the filing exactly on employer ('Viva Learning LLC'), occupation ('Executive') and Austin zip 78746. Penn Dental DMD plus a Penn engineering degree; 14-year endodontic practice in Philadelphia; founded Dental Logics (1994) and Learn HealthSci (1999) before Viva Learning; hosts The Dr. Phil Klein Dental Podcast. Explicitly NOT the Texas conservative activist Philip Klein who publishes the Southeast Texas Political Review out of the Port Arthur area — a different region, with no dental or Viva Learning connection.",
+  "source_url": "https://vivalearningllc.com/about-us",
+  "affiliations": [
+   {
+    "org": "Viva Learning LLC",
+    "role": "Founder and Chairman of the Board",
+    "category": "business",
+    "source_url": "https://vivalearningllc.com/about-us"
+   }
+  ]
+ },
+ {
+  "donor_id": "cfbf7d8a-88b5-4edf-b67a-b6037fb534a6",
+  "name": "Choate, Guy",
+  "resolved_employer": "Webb, Stokes & Sparks, L.L.P. — San Angelo, TX plaintiffs'/personal-injury law firm; partner",
+  "industry": "Legal",
+  "interest_tags": "progressive-money",
+  "confidence": "high",
+  "evidence": "Guy Don Choate, partner at Webb, Stokes & Sparks in San Angelo (76902), matches the filing on employer, occupation ('Partner') and zip. Board certified in personal injury trial law since 1985; joined the firm in 1982 and made partner in 1984; B.A. Angelo State University 1975. A prominent statewide trial lawyer: President of the Texas Trial Lawyers Association for the 2005 legislative session, President of the Texas chapter of the American Board of Trial Advocates (2016), State Bar of Texas Executive Committee member and District 15 Director, and President of the Tom Green County Bar Association (1994-95). The 0.90 Democratic lean across 64 FEC donations is consistent with a plaintiffs'-bar trial lawyer. San Angelo sits in the Permian Basin region and was checked specifically for oil & gas exec/board/owner ties — none found in public sources. As a TTLA leader he is aligned AGAINST tort reform, so no tort-reform tag.",
+  "source_url": "https://webbstokessparks.com/our-firm/guy-choate/",
+  "affiliations": [
+   {
+    "org": "Texas Trial Lawyers Association",
+    "role": "President (2005); Director from 1988",
+    "category": "political",
+    "source_url": "https://webbstokessparks.com/our-firm/guy-choate/"
+   },
+   {
+    "org": "American Board of Trial Advocates, Texas Chapter (TEX-ABOTA)",
+    "role": "President (2016)",
+    "category": "civic",
+    "source_url": "https://webbstokessparks.com/our-firm/guy-choate/"
+   },
+   {
+    "org": "State Bar of Texas",
+    "role": "Executive Committee member; Director, District 15",
+    "category": "civic",
+    "source_url": "https://www.lawyers.com/san-angelo/texas/guy-don-choate-1700755-a/"
+   },
+   {
+    "org": "Tom Green County Bar Association",
+    "role": "President (1994-1995)",
+    "category": "civic",
+    "source_url": "https://www.lawyers.com/san-angelo/texas/guy-don-choate-1700755-a/"
+   }
+  ]
+ },
+ {
+  "donor_id": "cc88b52c-1064-48c4-8bfa-106318032fab",
+  "name": "Lee, Matthew",
+  "resolved_employer": "Teo Gelato (Tèo Espresso, Gelato & Bella Vita) — Austin gelato maker and cafe; owner and founder",
+  "industry": "Hospitality / Events",
+  "interest_tags": "",
+  "confidence": "high",
+  "confidence_note": "Identity is confirmed via the unique employer match, but the supplied FEC record (126 donations, lean 0.49) could NOT be verified as belonging to this person — 'Matthew Lee' is an extremely common name and the record may be conflated with other Matthew Lees. No partisan interest tag applied for that reason.",
+  "evidence": "Matthew Lee, owner and founder of Tèo Gelato in Austin — matches the filing exactly on employer ('Teo Gelato'), occupation ('owner') and Austin zip 78703 (Tarrytown/Clarksville, near the shop's 1206 W 38th St location). He left a high-tech job in 2002 to open Tèo Espresso, Gelato & Bella Vita in Central Austin, trained in Florence under gelato maker Antonio Lisciandro ('Teo' is short for Matteo, the nickname they gave him), is the only American to have competed in the World Gelato Championships (placing fourth), and won H-E-B's 'Quest for Texas Best' grand prize in 2015, putting Tèo pints into H-E-B stores.",
+  "source_url": "https://austinot.com/teo-gelato",
+  "affiliations": [
+   {
+    "org": "Tèo Gelato (Tèo Espresso, Gelato & Bella Vita)",
+    "role": "Owner and founder",
+    "category": "business",
+    "source_url": "https://austinot.com/teo-gelato"
+   }
+  ]
+ }
+]

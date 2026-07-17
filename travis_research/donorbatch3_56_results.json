@@ -1,0 +1,128 @@
+[
+ {
+  "donor_id": "562e098c-a042-4fb0-8163-8700283e780c",
+  "name": "Smith, Benjamin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer were 'requested' (not disclosed on the filing), and 'Benjamin Smith' in Austin 78703 is an extremely common name with no distinguishing detail. No FEC donation history. Cannot confirm a specific individual; industry left null per instructions.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "555982cc-c204-4cc4-a1e5-efc3ed6a82c5",
+  "name": "Amaha Gollnick, Naomi",
+  "resolved_employer": "Public-health policy/advocacy leader; VP of Health Strategies at the American Heart Association (Colorado), later Director of Policy & Government Affairs at The Denver Foundation (2021)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Distinctive name plus the filing's occupation ('Health Strategies') and employer ('AHA') and the Evergreen/Denver-area zip 80439 match Naomi Amaha(-Gollnick), a Denver public-health advocate who was VP of Health Strategies at the American Heart Association and joined The Denver Foundation in 2021 in policy/government affairs. Gave to Austin council member Vanessa Fuentes; no FEC history. Classified Nonprofit / Advocacy (health-policy nonprofit sector).",
+  "source_url": "https://denverfoundation.org/2021/05/denver-foundation-welcomes-naomi-amaha-director-of-policy-government-affairs/",
+  "affiliations": [
+   {"org": "American Heart Association (Colorado)", "role": "VP of Health Strategies / state policy & government-relations leadership", "category": "civic", "source_url": "https://www.heart.org/en/affiliates/colorado"}
+  ]
+ },
+ {
+  "donor_id": "5538727a-0a0f-4395-8008-087870ab16d9",
+  "name": "Cooke, Carlton",
+  "resolved_employer": "Founder/CEO, Habitek International, Inc. (Austin medical-device polymer manufacturer, dba U.S. Medical Systems / Medical Polymers); also the 52nd Mayor of Austin (1988-1991)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "The filing's 'Carlton' Cooke, Business Owner of Habitek International in Austin, resolves to Carlton Lee Cooke (b. 1944), founder/CEO of Habitek International, which manufactures FDA-authorized medical-device polymers via subsidiary U.S. Medical Systems; he was also the 52nd Mayor of Austin and the city's last Republican mayor. Employer string ('Habitek International, Inc.') and occupation ('Business Owner') match exactly; zip 78763 is an Austin PO-box zip. 2 FEC gifts at 0.0 partisan lean (Republican federally), consistent with his GOP background. Classified Healthcare (medical-device manufacturing).",
+  "source_url": "https://en.wikipedia.org/wiki/Lee_Cooke",
+  "affiliations": [
+   {"org": "City of Austin", "role": "Mayor (1988-1991), Republican", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Lee_Cooke"}
+  ]
+ },
+ {
+  "donor_id": "55376058-0ac8-465a-af5f-099f3738411b",
+  "name": "Lindenmuth, Allison",
+  "resolved_employer": "Founder/Owner, Anook Athletics (Anook LLC) — Austin-based maternity/postpartum activewear apparel brand launched Fall 2019",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "'Allison/Allie Lindenmuth,' Owner of Anook LLC in Austin 78703, matches Allie Lindenmuth, a prenatal yoga teacher who founded Anook Athletics, a maternity- and postpartum-friendly activewear brand headquartered in Austin, covered by Forbes at its 2019 launch. Employer string ('Anook LLC') and occupation ('Owner') match exactly. Gave only to Kirk Watson; no FEC history. Classified Retail (apparel brand); Self-Employed is the alternative.",
+  "source_url": "https://www.forbes.com/sites/viviennedecker/2019/10/11/allie-lindenmuth-launches-anook-athletics-a-maternity-and-postpartum-friendly-activewear-brand/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "5478b207-cecf-4f76-a095-d4c491c37e8a",
+  "name": "Chapa, Elvira",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation and employer were 'requested' (not disclosed on the filing); 'Elvira Chapa' in Corpus Christi 78414 is a common South Texas name and no source confidently ties this specific donor to an employer or industry. No FEC history. Cannot confirm; industry left null per instructions.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "533b9e70-b225-42d1-92bc-c0c04dc2b999",
+  "name": "Andrew, Lai",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Houston, TX 77077 donor whose contribution to Kirk Watson was RETURNED by the campaign; the occupation/employer fields are literally 'contribution returned' placeholders, not real data. Name is likely transposed (Lai Andrew / Andrew Lai). No FEC history. Cannot confirm a specific individual.",
+  "source_url": null,
+  "affiliations": []
+ },
+ {
+  "donor_id": "53103054-be82-4c30-b496-29cfe33d552c",
+  "name": "Zion, Mark",
+  "resolved_employer": "Consultant; self-reported employer CPS Energy (San Antonio municipal electric/gas utility) — specific individual not independently confirmed",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "West Lake Hills 78746 donor, occupation 'Consultant,' filer-provided employer CPS Energy (a municipal UTILITY, not an oil & gas company), 17 FEC gifts at 1.0 partisan lean. Web searches for 'Mark Zion' + CPS Energy / Austin energy consultant did not surface a confirmable profile, so identity is unverified; the Energy / Environment classification rests solely on the self-reported utility employer and is marked low confidence. No oil_gas flag warranted (CPS Energy is a public utility).",
+  "source_url": "https://www.cpsenergy.com/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "523c59c0-5f1b-431b-8dec-2560bf0f37b4",
+  "name": "Robshaw, David",
+  "resolved_employer": "President/CEO, AIC Ventures (Austin net-lease / sale-leaseback commercial real-estate investment firm)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Austin/West Lake Hills 78746, occupation 'Investor,' employer 'AIC Ventures.' The distinctive surname matches David M. Robshaw, longtime President/CEO of AIC Ventures, an Austin-based real-estate sale-leaseback and net-leased property investment firm (200+ deals, ~$1.6B); UT Austin BBA. LinkedIn and firm team pages corroborate name + Austin + AIC Ventures. Gave only to Kirk Watson; no FEC history. Classified Real Estate (net-lease commercial real-estate investment).",
+  "source_url": "https://www.linkedin.com/in/davidmrobshaw/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "4fc2f15d-516b-4719-a570-de972dad41da",
+  "name": "Walker, Jeremy",
+  "resolved_employer": "Loan officer, Adelo Mortgage (boutique Austin residential mortgage lender, 904 West Ave)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Austin 78739, occupation 'Loan officer,' employer 'Adelo Mortgage.' Adelo Mortgage is a confirmed boutique residential mortgage firm in Austin; a 'Jeremy' is referenced as part of the Adelo team in client testimonials, though he lacks a dedicated bio on the current About page, so the exact individual is only partially corroborated (hence medium). 57 FEC gifts at 1.0 partisan lean (Republican federally). Gave to council candidate Jose 'Chito' Vela III. Classified Finance (mortgage lending).",
+  "source_url": "https://adelomortgage.com/about",
+  "affiliations": []
+ },
+ {
+  "donor_id": "43905f2f-f552-48be-a2ee-edb68a63d60e",
+  "name": "Buhrdorf, Ross",
+  "resolved_employer": "Co-Founder & CEO, ZenBusiness Inc. (Austin business-formation tech unicorn); previously founding CTO of HomeAway",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Ross Buhrdorf is the co-founder/CEO of ZenBusiness in Austin and the former founding CTO of HomeAway (acquired by Expedia for $3.9B). The distinctive name plus Austin 78703 and the filing's occupation ('CEO') / employer ('ZenBusiness Inc.') match exactly. Heavy federal donor: 49 FEC gifts at 1.0 partisan lean (Democratic). Gave only to Kirk Watson. Classified Technology; interest tag tech-startup-ecosystem applies.",
+  "source_url": "https://www.zenbusiness.com/ross-buhrdorf/",
+  "affiliations": []
+ },
+ {
+  "donor_id": "432d851c-7481-43d0-81d9-87b29153a2c8",
+  "name": "Berber, Shane",
+  "resolved_employer": "Co-Founder & COO, Crystal Creek Moonshine / Crystal Creek Distillery (Spicewood, TX craft distillery, opened 2013, closed ~2019); later Recovery Outside",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Shane Berber co-founded Crystal Creek Moonshine/Distillery near Austin with Sam Wakefield (opened 2013); the filing's employer string ('Crystal Creek Moonshine LLC'), occupation ('Co-Founder') and Austin-area zip 78746 match. The distillery donated proceeds to A Glimmer of Hope, the anti-poverty charity founded by his parents. 1 FEC gift at 1.0 partisan lean. Gave only to Kirk Watson. Classified Hospitality / Events (craft distillery); Retail is the alternative.",
+  "source_url": "https://www.austinchronicle.com/food/2014-12-19/crystal-creek-persuasion/",
+  "affiliations": [
+   {"org": "A Glimmer of Hope", "role": "supporter / family-linked (anti-poverty charity founded by his parents)", "category": "civic", "source_url": "https://www.papercitymag.com/restaurants/crystal-creek-moonshine-austin-road-trip-defy-stigma/"}
+  ]
+ },
+ {
+  "donor_id": "3ee3e996-87b0-47d4-8538-9d8bd9a90117",
+  "name": "Hahn, Laurie Ann",
+  "resolved_employer": "Senior Vice President / CHRO, Global Human Resources, Itron, Inc. (smart metering / grid technology company); previously HR leadership at Motorola and Freescale Semiconductor",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Laurie Ann Hahn is SVP & CHRO of Global HR at Itron, based in the Austin metro area; the filing's occupation ('Human Resources Executive') and employer ('iTron Corporation') and Austin zip 78749 match. Itron is confirmed as the smart-grid/water-metering technology firm (not oil & gas), so classified Technology with no energy affiliation flag. Gave only to Kirk Watson; no FEC history.",
+  "source_url": "https://na.itron.com/w/itron-promotes-laurie-hahn-to-senior-vice-president-of-human-resources",
+  "affiliations": []
+ }
+]
