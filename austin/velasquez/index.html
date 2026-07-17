@@ -1782,28 +1782,26 @@ function renderCycleNav(cycles) {
     nav.appendChild(lbl);
   }
 
-  // "All Time" tab
+  // "All Time" tab — this is the default view (union of every cycle)
   const allBtn = document.createElement('button');
-  allBtn.className = 'cycle-tab';
+  allBtn.className = 'cycle-tab active';
   allBtn.dataset.cycle = '-1';
   allBtn.textContent = 'All Time';
   allBtn.onclick = () => switchCycle(-1);
   nav.appendChild(allBtn);
 
-  // Per-cycle tabs; the CURRENT (most recent) cycle is the default view
-  const defaultCycleIdx = cycles.length - 1;
+  // Per-cycle tabs
   cycles.forEach((c, i) => {
     const btn = document.createElement('button');
     btn.className = 'cycle-tab';
-    if (i === defaultCycleIdx) btn.classList.add('active');
     btn.dataset.cycle = i;
     btn.textContent = `${c.label} (${c.year_range})`;
     btn.onclick = () => switchCycle(i);
     nav.appendChild(btn);
   });
 
-  // Default to the current election cycle (fall back to All Time if none)
-  switchCycle(defaultCycleIdx >= 0 ? defaultCycleIdx : -1);
+  // Default to All Time (the union of every cycle)
+  switchCycle(-1);
 }
 
 function switchCycle(idx) {
