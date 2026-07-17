@@ -52,17 +52,91 @@ TRAVIS = [
     ("George Morales III","Precinct 4",  'Morales, George',   "tc-morales.webp"),
 ]
 
-# ---- Firm match patterns (case-insensitive; matches donor name OR employer) ----
-ENDEAVOR_WHERE = (
-    "((lower(donor) LIKE '%endeavor%' OR lower(donor_reported_employer) LIKE '%endeavor%') "
-    "AND lower(donor) NOT LIKE '%grand endeavor%' "
-    "AND lower(donor_reported_employer) NOT LIKE '%grand endeavor%')"
-)
-ARMBRUST_WHERE = (
-    "((lower(donor) LIKE '%armbrust%' OR lower(donor_reported_employer) LIKE '%armbrust%') "
-    "AND lower(donor) NOT LIKE '%armbruster%' "
-    "AND lower(donor_reported_employer) NOT LIKE '%armbruster%')"
-)
+# ---- Firm match rules (see endeavor_armbrust_match_notes.md for the full audit) ----
+# Matching is done row-by-row in Python (explicit + traceable, not fuzzy). A row
+# counts for a firm if ANY of:
+#   (1) LITERAL   — firm name (incl. known typos) appears in the donor name,
+#                   reported employer, OR reported occupation field.
+#   (2) ERG/EREG  — the Endeavor abbreviation as a whole field, but ONLY for a
+#                   donor already confirmed Endeavor by rule 1 (excludes unrelated
+#                   "ERG" environmental-consulting donors).
+#   (3) PRINCIPAL + GENERIC EMPLOYER — the donor is a confirmed firm principal
+#                   (spelled the firm out on some filing) AND this gift's employer
+#                   is blank/generic (retired/self/none/homemaker/...). Recovers
+#                   e.g. Kirk Rudy's gifts filed under "None"/"Retired" while still
+#                   EXCLUDING rows that name a different employer (Holland & Knight,
+#                   MD Anderson, Long View Equity, JMI Realty, ...).
+ENDEAVOR_SUBSTR  = ("endeavor", "endevor", "endeavour", "emdeavor")   # incl. typos
+ENDEAVOR_TOKEN   = ("erg", "ereg")                                    # abbreviation (confirmed only)
+ENDEAVOR_EXCLUDE = ("grand endeavor",)                                # unrelated homebuilder
+ARMBRUST_SUBSTR  = ("armbrust", "armbrst", "armburst", "armrbust", "ambrust")  # incl. typos
+ARMBRUST_EXCLUDE = ("armbruster",)                                    # different surname (Milestone)
+GENERIC_EMPLOYER = {
+    "", "none", "n/a", "na", "n/a.", "n\\a", "retired", "self", "self employed",
+    "self-employed", "selfemployed", "self employeed", "self-employeed", "homemaker",
+    "home maker", "housewife", "mother", "father", "not employed", "note employed",
+    "not applicable", "unemployed", "unknown", "requested", "tbd",
+    "community volunteer", "student", ".", "..", "...",
+}
+
+# Confirmed-principal donor-name sets, populated once from the DB at runtime.
+ENDEAVOR_PEOPLE = set()
+ARMBRUST_PEOPLE = set()
+
+
+def _norm(x):
+    return (x or "").strip().lower()
+
+
+def _endeavor_strong(donor, emp, occ):
+    for f in (donor, emp, occ):
+        lf = _norm(f)
+        if any(x in lf for x in ENDEAVOR_EXCLUDE):
+            continue
+        if any(s in lf for s in ENDEAVOR_SUBSTR):
+            return True
+    return False
+
+
+def _armbrust_strong(donor, emp, occ):
+    for f in (donor, emp, occ):
+        lf = _norm(f)
+        if any(x in lf for x in ARMBRUST_EXCLUDE):
+            continue
+        if any(s in lf for s in ARMBRUST_SUBSTR):
+            return True
+    return False
+
+
+def load_firm_people(cur):
+    """Build the confirmed-principal donor-name sets from the whole dataset."""
+    ENDEAVOR_PEOPLE.clear()
+    ARMBRUST_PEOPLE.clear()
+    cur.execute("SELECT DISTINCT donor, donor_reported_employer, donor_reported_occupation "
+                "FROM campaign_finance")
+    for donor, emp, occ in cur.fetchall():
+        if _endeavor_strong(donor, emp, occ):
+            ENDEAVOR_PEOPLE.add(donor)
+        if _armbrust_strong(donor, emp, occ):
+            ARMBRUST_PEOPLE.add(donor)
+
+
+def is_endeavor(donor, emp, occ):
+    if _endeavor_strong(donor, emp, occ):
+        return True
+    if donor in ENDEAVOR_PEOPLE and any(_norm(f) in ENDEAVOR_TOKEN for f in (donor, emp, occ)):
+        return True
+    if donor in ENDEAVOR_PEOPLE and _norm(emp) in GENERIC_EMPLOYER:
+        return True
+    return False
+
+
+def is_armbrust(donor, emp, occ):
+    if _armbrust_strong(donor, emp, occ):
+        return True
+    if donor in ARMBRUST_PEOPLE and _norm(emp) in GENERIC_EMPLOYER:
+        return True
+    return False
 
 # ---- Decode Politics brand palette (from decodepolitics.org) ----
 C_NAVY     = (0.094, 0.192, 0.310)   # #18314f  primary ink
@@ -101,12 +175,15 @@ def parse_date(s):
     return None
 
 
-def firm_stats(cur, recipient, where):
+def firm_stats(cur, recipient, matcher):
     cur.execute(
-        f"SELECT contribution_amount, contribution_date FROM campaign_finance "
-        f"WHERE recipient = ? AND {where}", (recipient,))
+        "SELECT donor, donor_reported_employer, donor_reported_occupation, "
+        "contribution_amount, contribution_date FROM campaign_finance WHERE recipient = ?",
+        (recipient,))
     total, n, dates = 0.0, 0, []
-    for amt, dt in cur.fetchall():
+    for donor, emp, occ, amt, dt in cur.fetchall():
+        if not matcher(donor, emp, occ):
+            continue
         total += parse_amt(amt)
         n += 1
         d = parse_date(dt)
@@ -122,8 +199,8 @@ def firm_stats(cur, recipient, where):
 def build(cur, roster):
     rows = []
     for name, seat, recip, photo in roster:
-        e = firm_stats(cur, recip, ENDEAVOR_WHERE)
-        a = firm_stats(cur, recip, ARMBRUST_WHERE)
+        e = firm_stats(cur, recip, is_endeavor)
+        a = firm_stats(cur, recip, is_armbrust)
         dmins = [d for d in (e["dmin"], a["dmin"]) if d]
         dmaxs = [d for d in (e["dmax"], a["dmax"]) if d]
         rows.append({
@@ -333,15 +410,19 @@ def draw_page(c, title, subtitle, rows, date_str):
     c.setFont("Helvetica", 9.5)
     c.drawRightString(x1, footer_top - 19, date_str)
     c.setFillColorRGB(*C_GREY)
-    c.setFont("Helvetica", 7.5)
-    c.drawCentredString(W / 2, footer_top - 33,
-        "All-time contributions (monetary + in-kind) where donor name or reported employer matches the firm  ·  "
-        "Source: austin_finance.db  ·  Bars scaled to page maximum")
+    note = ("All-time contributions (monetary + in-kind) where the donor, employer, or occupation matches the firm"
+            "  ·  Source: City of Austin campaign finance dataset (data.austintexas.gov)  ·  Bars scaled to page maximum")
+    fsize = 7.5
+    while fsize > 5.5 and c.stringWidth(note, "Helvetica", fsize) > cw:
+        fsize -= 0.25
+    c.setFont("Helvetica", fsize)
+    c.drawCentredString(W / 2, footer_top - 33, note)
 
 
 def main():
     conn = sqlite3.connect(DB)
     cur = conn.cursor()
+    load_firm_people(cur)               # populate confirmed-principal name sets
     austin = build(cur, AUSTIN)
     travis = build(cur, TRAVIS)
     conn.close()
