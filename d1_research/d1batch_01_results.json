@@ -1,0 +1,434 @@
+[
+ {
+  "donor_id": "09a0a545aab26bf7",
+  "name": "Hellman-Mass, Samuel",
+  "resolved_employer": "Suerte / Este / Bar Toti — owner-restaurateur (self-employed)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Sam Hellman-Mass is the founder/owner of the East Austin restaurants Suerte and Este (and previously involved in opening Barley Swine and Odd Duck); his LinkedIn headline is 'Business Owner at Suerte, Este and ...'. Donation record occupation 'Owner / Self employed' and employer 'Self, Suerte' match exactly, and the 78702 zip is the East Austin zip where Suerte operates. No FEC PAC contributions, no Texas Ethics Commission lobbyist registration, and no ideological-advocacy affiliations surfaced in public records on either side of any tracked spectrum.",
+  "source_url": "https://www.austinchronicle.com/daily/food/2020-03-05/suertes-owner-announces-new-restaurant-concept-on-manor-road/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Mike & Sherry Project",
+    "role": "Team member (listed as 'Owner, Suerte')",
+    "category": "civic",
+    "source_url": "https://www.mikeandsherryproject.com/team-member/sam-hellman-mass/",
+    "snippet": "Listed on the team page of the Mike & Sherry Project, an Austin nonprofit providing affordable mental healthcare to bar and restaurant workers in partnership with Capital Area Counseling, identified as 'Owner, Suerte.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "0f7244c2057dc7a0",
+  "name": "Wood, Ellen",
+  "resolved_employer": "vcfo (Austin fractional-CFO firm) — Founder & CEO",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Ellen Wood founded vcfo in Austin in 1996 and is its CEO; a UT graduate and registered Texas CPA who has spent her whole career in Austin. Filing occupations 'CEO/CFO' and employer 'vcfo/VCFO' match her firm bio exactly. Her full bio documents an extensive Austin business-civic record (Austin Chamber past chair, Opportunity Austin board, Texas Business Leadership Council). No Texas Ethics Commission lobbyist registration found and no PAC/ideological affiliations on any tracked spectrum (Israel/Palestine, guns, oil & gas, defense) surfaced in public records; her documented affiliations are business/economic-development civic bodies.",
+  "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Chamber of Commerce",
+    "role": "Past chair",
+    "category": "business",
+    "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+    "snippet": "Firm bio lists her as past chair of the Austin Chamber of Commerce (and past chair of the UFCU board)."
+   },
+   {
+    "org": "Opportunity Austin",
+    "role": "Board member",
+    "category": "business",
+    "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+    "snippet": "Firm bio lists board membership in Opportunity Austin, the Austin Chamber's regional economic-development initiative."
+   },
+   {
+    "org": "Texas Business Leadership Council",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+    "snippet": "Firm bio lists membership in the Texas Business Leadership Council, a statewide CEO public-policy organization."
+   },
+   {
+    "org": "Austin Area Research Organization (AARO)",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+    "snippet": "Firm bio lists membership in the Austin Area Research Organization, a local civic-policy group."
+   },
+   {
+    "org": "University Federal Credit Union (UFCU)",
+    "role": "Audit Committee member; past board chair",
+    "category": "business",
+    "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+    "snippet": "Firm bio lists her as an Audit Committee member and past chair of the UFCU board."
+   },
+   {
+    "org": "E3 Alliance",
+    "role": "Advisory role",
+    "category": "civic",
+    "source_url": "https://vcfo.com/our_team/ellen-wood-bio/",
+    "snippet": "Firm bio lists an advisory role with E3 Alliance, a Central Texas education-outcomes collaborative."
+   }
+  ]
+ },
+ {
+  "donor_id": "143f6cdeb2ea1c47",
+  "name": "Olbert, Arthur",
+  "resolved_employer": "FlexSkill Consulting LLC — Senior Partner / technology development and alliance management consultant (now retired)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Art (Arthur G.) Olbert is a senior partner at FlexSkill Consulting LLC in Round Rock; public-records listings place Arthur G Olbert at a Round Rock 78681 address, matching the donor zip, and his consulting title matches the filed occupation 'Technology development and alliance management consultant' with employer 'FlexSkill'. He served as interim CTO of Intershop Communications AG through FlexSkill; the later 'RETIRED' occupation is consistent with his reported 1946 birth year. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration surfaced; no affiliations found on any tracked policy spectrum.",
+  "source_url": "http://flexskill.com/olbert-named-interim-chief-technology-officer-of-intershop-ag/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austinites for Geographic Representation",
+    "role": "Webmaster",
+    "category": "civic",
+    "source_url": "https://theaustinbulldog.org/redistricting-veteran-shares-his-wisdom/",
+    "snippet": "The Austin Bulldog identifies Art Olbert as the webmaster for Austinites for Geographic Representation, the coalition behind Austin's move to geographic (10-1) council districts, quoting his question at a group luncheon on redistricting-commission independence."
+   }
+  ]
+ },
+ {
+  "donor_id": "15034fc1b627c44d",
+  "name": "Wheat, Brian",
+  "resolved_employer": "Texas Legislative Council (TLC) — software developer",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filed occupation 'Software developer' with employer 'TLC / Texas Legislative Council', the nonpartisan Texas legislative service agency in Austin whose information systems division employs software developers; the East Austin 78721 zip is consistent with a state-agency employee. Beyond the employer, no public profile could be confirmed for this specific Brian Wheat — multiple same-named Texans exist and no LinkedIn/bio page could be matched to the Austin 78721 TLC developer, so this is an employer-based classification. No FEC PAC contributions, no Texas Ethics Commission or City of Austin lobbyist registration, and no advocacy affiliations on any tracked spectrum surfaced.",
+  "source_url": "https://tlc.texas.gov/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "35c1d347d320cba3",
+  "name": "Ramirez, Lisa",
+  "resolved_employer": "Indeed (SVP, Operations & Client Success)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Filing occupation 'Operations SVP / SVP' with employer 'Indeed' matches the publicly listed Lisa Ramirez, Senior Vice President of Operations at Indeed, whose headquarters and executive team are based in Austin. She joined Indeed in 2019 as Chief of Staff to the CEO, was previously Chief Customer Officer and SVP of Communications at Netspend (also Austin), and holds a BA in Psychology from UT Austin. Identity is corroborated by exact employer+title match plus Austin location, but 'Lisa Ramirez' is a common name and no source ties the executive to zip 78723, so confidence is medium. FEC individual-contribution search returned no records attributable to this Lisa Ramirez (the only prominent FEC hits are a California congressional candidate, Lisa D. Ramirez, who is a different person); the elevated fec_donation_count in the local data is almost certainly name-collision aggregation. No Texas Ethics Commission lobbyist registration under 'Ramirez, Lisa' (the TEC registered-lobbyist lists show Ramirez, Erika and Ramirez, Ricardo, not Lisa). Full bio read found no board seats or advocacy roles; her pre-Indeed consulting work served energy, government and higher-education clients but she held no oil/gas executive, board or ownership role, so no oil_gas flag is warranted.",
+  "source_url": "https://www.indeed.com/lead/lisa-ramirez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "58ac00eda56c81bc",
+  "name": "Kelley, Ann",
+  "resolved_employer": "Self-employed licensed psychologist, Austin TX; co-founder/co-host, Therapist Uncensored podcast",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Filing occupation 'Psychologist' and employers 'Therapist Uncensored Podcast' and 'Self' match Dr. Ann Kelley, Ph.D., a licensed psychologist in private practice in Austin (office at 1001 West Ave, 78701; donor zip 78751 is nearby Hyde Park) who co-founded and co-hosts the Therapist Uncensored podcast with her wife Sue Marriott, LCSW, and co-authored 'Secure Relating' (HarperCollins, 2024). Doctorate from UT Austin; formerly Director of Clinical Treatment for the Texas Youth Commission (a state-agency clinical job, not a policy-advocacy role). Identity corroborated by the unusual employer name plus occupation plus Austin location. FEC individual-contribution search returned no federal PAC contributions attributable to this Ann Kelley of Austin 78751 (no AIPAC/UDP, DMFI, J Street, JVP/USCPR-linked, NRA, gun-control, oil-and-gas or defense-contractor PAC records found); the high local fec_donation_count reflects a common name. No Texas Ethics Commission lobbyist registration (TEC lists show Kelley, Casey H. and Kelley, Russell T., not Ann Kelley). Full bio read of annkelleyphd.com, the Therapist Uncensored About page and her Psychotherapy Networker contributor page found no policy-advocacy board seats; the GAINS board seat and Austin IN Connection presidency reported in search results belong to her spouse Sue Marriott, not to her, so they are not recorded here.",
+  "source_url": "https://www.annkelleyphd.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7f5833fe2cdbb27b",
+  "name": "Llanes, Carmen",
+  "resolved_employer": "Go Austin/Vamos Austin (GAVA) — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Carmen Llanes Pulido, native East Austinite (donor zip 78722 is East Austin), has been Executive Director of Go Austin/Vamos Austin (GAVA) since March 2017 and ran for Mayor of Austin in 2024, finishing second with about 20% of the vote. Filing employer/occupation ('Go Austin Vamos Austin (GAVA)', 'Executive Director / Nonprofit Executive Director') matches exactly. She previously organized with PODER (People Organized in Defense of Earth and her Resources) in East Austin and ran a fitness/nutrition program at Marathon Kids. FEC search returned no federal PAC contributions under her name; her documented political finance activity is her local Austin mayoral committee (~$71,000 raised through July 2024), which is city-level, not federal. No Texas Ethics Commission lobbyist registration under 'Llanes' was found. Full bio read of the Austin Monitor profile, InfluenceWatch and UT School of Architecture event bio found extensive local civic and land-use advocacy but no Israel/Palestine, gun, oil-and-gas or defense affiliations on either side of those spectrums.",
+  "source_url": "https://austinmonitor.com/stories/2024/01/east-side-activist-llanes-pulido-running-for-mayor/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Go Austin/Vamos Austin (GAVA)",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://www.influencewatch.org/non-profit/go-austin-vamos-austin-gava/",
+    "snippet": "GAVA is a community organizing group focused on anti-displacement funding, land use reforms, disaster preparedness and food system planning in Austin's Eastern Crescent; 'Carmen Llanes Pulido serves as executive director.'"
+   },
+   {
+    "org": "City of Austin Planning Commission",
+    "role": "Former commissioner (appointed by Council Member Kathie Tovo)",
+    "category": "civic",
+    "source_url": "https://austinmonitor.com/stories/2024/01/east-side-activist-llanes-pulido-running-for-mayor/",
+    "snippet": "Listed as a former Planning Commission member appointed by Council Member Kathie Tovo."
+   },
+   {
+    "org": "City of Austin Independent Citizens Redistricting Commission",
+    "role": "Inaugural member (drew the original 10 single-member council districts)",
+    "category": "civic",
+    "source_url": "https://austinmonitor.com/stories/2024/01/east-side-activist-llanes-pulido-running-for-mayor/",
+    "snippet": "Named as a member of Austin's inaugural Independent Citizens Redistricting Commission."
+   },
+   {
+    "org": "PODER (People Organized in Defense of Earth and her Resources)",
+    "role": "Environmental justice researcher and organizer",
+    "category": "civic",
+    "source_url": "https://soa.utexas.edu/events/city-forum-carmen-llanes-pulido-gava",
+    "snippet": "Bio describes her work as an environmental justice researcher and organizer for PODER in East Austin before leading GAVA."
+   },
+   {
+    "org": "Carmen Llanes Pulido for Mayor of Austin (2024)",
+    "role": "Candidate",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Carmen_Llanes_Pulido",
+    "snippet": "Ran for election for Mayor of Austin, Texas; lost in the general election on November 5, 2024."
+   }
+  ]
+ },
+ {
+  "donor_id": "bb29e24056c826cc",
+  "name": "Brown, Roslyn",
+  "resolved_employer": "HCA Healthcare (St. David's HealthCare, Austin) — senior surgical technologist / nursing staff, per filing",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback. The only information available is from the campaign filing itself: occupation 'Nurse / Sr. Surgical Technologist', employer 'HCA', Austin TX 78724. HCA Healthcare operates St. David's HealthCare in Austin and employs surgical technologists there, so the employer/occupation combination is consistent, but no public profile, bio, licensing record, news mention or social profile for a Roslyn Brown in Austin 78724 could be found to confirm the specific individual, so identity confidence is low and the industry is assigned from the stated occupation only. FEC individual-contribution search found no federal contributions (consistent with fec_donation_count 0). No Texas Ethics Commission lobbyist registration under this name (TEC lists show Brown, Jay P. and Brown, J. E. 'Buster', not Roslyn Brown). No bio, About, LinkedIn or firm page exists to read. Shares a surname with D1 candidate Steven Brown, to whom the contribution was made, but no public source documents any family or other relationship, so none is recorded.",
+  "source_url": "https://careers.hcahealthcare.com/pages/rn-pct-cst-careers-at-st-davids-healthcare",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b32d670efe28ce3f",
+  "name": "SAMSON, SCOTT THOMAS",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported occupation is RETIRED at Austin TX 78703 (Tarrytown/Clarksville). Public-records aggregators (Radaris, MyLife, Neighbor.Report) list a Scott R./Scott T. Samson at Austin 78703 addresses, but no published bio, news item, obituary, professional-licensing record, or LinkedIn profile ties an Austin 78703 Scott Thomas Samson to any identifiable former career. The several LinkedIn Scott Samsons found (San Francisco PR/wine, retired US Army EOD officer, medical-technology, Scottish Friendly) are all located outside Texas and none is corroborated by zip, occupation, or donation pattern. No former career could be established, so no industry is assigned rather than guessing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "04a07e9221138e50",
+  "name": "Fontanesi, Serita",
+  "resolved_employer": "URGE: Unite for Reproductive & Gender Equity — Integrated Voter Engagement Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Serita Fontanesi (MSW) is Integrated Voter Engagement Director at URGE: Unite for Reproductive & Gender Equity — matching the filing's stated occupation and employer exactly — and her own professional site states she is a resident of Austin, TX. She previously served as inaugural Executive Director of Emerge Texas and worked with the Texas Democratic Party on Black voter engagement.",
+  "source_url": "https://serita.co/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin African American Resources and Advisory Commission",
+    "role": "Commissioner",
+    "category": "civic",
+    "source_url": "https://serita.co/about/",
+    "snippet": "Her about page lists current roles including 'Commissioner, City of Austin's African American Resources and Advisory Commission' and notes she is a resident of Austin, TX."
+   },
+   {
+    "org": "City of Austin Joint Inclusion Commission",
+    "role": "Commissioner",
+    "category": "civic",
+    "source_url": "https://serita.co/about/",
+    "snippet": "Her about page lists 'Commissioner, Joint Inclusion Commission' among her current roles."
+   },
+   {
+    "org": "Emerge Texas",
+    "role": "Former Executive Director (inaugural)",
+    "category": "political",
+    "source_url": "https://serita.co/about/media/",
+    "snippet": "Media page describes her service as inaugural Executive Director of Emerge Texas, the Texas affiliate of the Democratic women's candidate-training organization, and her Black voter outreach work."
+   },
+   {
+    "org": "URGE: Unite for Reproductive & Gender Equity",
+    "role": "Integrated Voter Engagement Director",
+    "category": "political",
+    "source_url": "https://urge.org/press-release/youth-poised-as-leading-voting-force-new-poll-underscores-their-firm-commitment-to-voting/",
+    "snippet": "URGE press release quotes 'Serita Fontanesi, URGE's Integrated Voter Engagement Director' on building young people's political power around reproductive justice, with campaign work in Texas and Ohio."
+   }
+  ]
+ },
+ {
+  "donor_id": "0551176c855b500e",
+  "name": "Anderson, Alonzo",
+  "resolved_employer": "Chicago Public Schools — Special Education Classroom Assistant",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "A LinkedIn profile for Alonzo M. Anderson lists him as Special Ed Classroom Assistant at Chicago Public Schools, matching the filing's stated occupation ('Special Education Classroom') and employer; public-records listings also place an Alonzo Anderson at a Chicago 60619 address, matching the filing zip. Identity is corroborated by occupation + employer + city/zip but not by a bio page confirming the 60619 address on the LinkedIn profile itself, so confidence is medium rather than high.",
+  "source_url": "https://www.linkedin.com/in/alonzo-m-anderson-4b791b53/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "071e778eec39a8db",
+  "name": "Howard, Elizabeth",
+  "resolved_employer": "Brennan Center for Justice at NYU School of Law — Director of Partner Engagement, Elections and Government Program (previously Senior Counsel, Democracy Program)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Elizabeth 'Liz' Howard is a Washington, DC-based attorney at the Brennan Center for Justice, currently director of partner engagement in its Elections and Government Program (formerly senior counsel, Democracy Program), matching the filing's occupation 'Attorney' and employer 'Brennan' plus DC location. Prior roles: Deputy Commissioner of the Virginia Department of Elections, General Counsel of Rock the Vote, and election-law senior associate at Sandler Reiff in Washington, DC; JD from William & Mary. Full bio read on brennancenter.org, protectdemocracy.org and bfa.us shows no board seats or memberships beyond her employer.",
+  "source_url": "https://www.brennancenter.org/experts/elizabeth-howard",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Brennan Center for Justice at NYU School of Law",
+    "role": "Director of Partner Engagement, Elections and Government Program (previously Senior Counsel, Democracy Program)",
+    "category": "civic",
+    "source_url": "https://www.brennancenter.org/experts/elizabeth-howard",
+    "snippet": "'Liz Howard serves as director of partner engagement in the Brennan Center's Elections and Government Program. Her work focuses on election security.' She has testified before the U.S. House Committee on Homeland Security, the U.S. Senate Rules Committee, and state legislatures on election security and administration."
+   }
+  ]
+ },
+ {
+  "donor_id": "075a21d13ea7a898",
+  "name": "Samson, Fernand",
+  "resolved_employer": "Pediatrix Medical Group / Obstetrix Maternal-Fetal Medicine Specialists (physician, maternal-fetal medicine)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Fernand Daniel Samson, M.D. is a board-certified OB/GYN sub-specialized in maternal-fetal medicine practicing with Pediatrix Medical Group; his listed employer (Pediatrix) and occupation (Physician) match the filing exactly. He did residency and fellowship at the University of Tennessee College of Medicine (Memphis) through 2019 and holds a Tennessee license, which corroborates the Germantown TN 38138 (Memphis suburb) address on the filing; his current NPI practice address is in the Houston metro (Shenandoah, TX). Only one NPI record exists nationwide for this name, so the identification is unlikely to be a different same-named person; the residual uncertainty is only about which address is current.",
+  "source_url": "https://www.pediatrix.com/find-care/doctors/samson-fernand-1982964524",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "08de0c7c363f8d6f",
+  "name": "Ellis, Rodney",
+  "resolved_employer": "Harris County, Texas — County Commissioner, Precinct 1 (also senior advisor, Dentons public policy & regulation practice)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Rodney Glenn Ellis, sitting Harris County Commissioner for Precinct 1 since 2017 and previously a Texas state senator (SD-13, 1990-2016) and Houston City Council member; occupation 'Commissioner' and employer 'Harris County' on the filing match exactly, and the 77005 (West University Place/Houston) zip is consistent with his Houston base. A genuine public figure researched only on documented public roles.",
+  "source_url": "https://en.wikipedia.org/wiki/Rodney_Ellis",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Harris County Commissioners Court, Precinct 1",
+    "role": "County Commissioner (2017-present); previously Texas State Senator, District 13 (1990-2016) and Houston City Council member",
+    "category": "political",
+    "source_url": "https://www.hcp1.net/CommissionerEllis",
+    "snippet": "Rodney Ellis has served on the Harris County Commissioners Court Precinct 1 since 2017; before joining the Texas Senate in 1990 he served three terms on the Houston City Council and as chief of staff to U.S. Rep. Mickey Leland."
+   },
+   {
+    "org": "Innocence Project",
+    "role": "Chair of the board of directors (served roughly 14 years, through 2018)",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Rodney_Ellis",
+    "snippet": "Ellis was chairman of the Innocence Project in New York, serving as chair of its board of directors until 2018; his signature policy area is criminal-justice reform, including overhaul of the state indigent defense system and compensation for the wrongfully imprisoned."
+   },
+   {
+    "org": "Council on Foreign Relations",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Rodney_Ellis",
+    "snippet": "Listed among Ellis's memberships alongside the LBJ Foundation board of trustees and the University of Texas School of Law Foundation board of trustees."
+   },
+   {
+    "org": "Dentons (Public Policy and Regulation practice group)",
+    "role": "Senior advisor",
+    "category": "business",
+    "source_url": "https://en.wikipedia.org/wiki/Rodney_Ellis",
+    "snippet": "Ellis is 'a senior advisor in the Public Policy and Regulation practice group for Dentons, the world's largest law firm.' No Texas Ethics Commission lobbyist registration was found for him; as commissioner he has instead pushed to require lobbyist registration at Harris County."
+   },
+   {
+    "org": "National Commission on Energy Policy; U.S. Secretary of Energy Advisory Board; Commission to Engage African Americans on Energy, Climate Change, and the Environment",
+    "role": "Former board/commission member (energy policy bodies, not industry positions)",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Rodney_Ellis",
+    "snippet": "Former board member of the National Commission on Energy Policy and former member of the U.S. Secretary of Energy Advisory Board. Recorded as public-policy service; no evidence found of oil-and-gas industry ownership, executive, or board roles."
+   }
+  ]
+ },
+ {
+  "donor_id": "0b83e2820c940d6f",
+  "name": "Villalobos, Pedro",
+  "resolved_employer": "The Law Office of Pedro Villalobos, PLLC / now partner at Cofer & Connelly, PLLC (criminal defense attorney, Austin); formerly Travis County Attorney's Office and Travis County District Attorney's Office",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Pedro Adrian Villalobos, Texas-licensed attorney (bar admission 11/04/2016), UT Austin and UT School of Law graduate, career prosecutor at the Travis County Attorney's and District Attorney's offices who led the Early Case Review / Counsel At First Appearance division before entering private criminal-defense practice in Austin in 2025. Occupation (Attorney), Austin 78701 zip, and self-titled law office all corroborate. Well-documented publicly as a former DACA recipient prosecutor.",
+  "source_url": "https://www.coferconnelly.com/about-us/pedro-villalobos/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Anti-Defamation League (ADL)",
+    "role": "Board member (2018-present)",
+    "category": "jewish_civic",
+    "source_url": "https://www.coferconnelly.com/about-us/pedro-villalobos/",
+    "snippet": "His firm bio lists verbatim: \"Board Member, Anti-Defemation League (2018 - Present)\" [sic]. Recorded because ADL maintains an active legislative/public-policy advocacy program."
+   },
+   {
+    "org": "AFSCME Local 1624 (American Federation of State, County and Municipal Employees)",
+    "role": "Elected President (2024-2025); delegate to AFL-CIO Central Labor Council (2018-2025)",
+    "category": "political",
+    "source_url": "https://www.coferconnelly.com/about-us/pedro-villalobos/",
+    "snippet": "Bio lists \"Elected President, American Federation of State, County, and Municipal Employees Local 1624 (2024-2025)\" and \"Delegate (AFSCME 1624), AFL-CIO Central Labor Council (2018-2025).\" Local 1624 is the union for City of Austin and Travis County employees; he stepped down as president effective March 31, 2025."
+   },
+   {
+    "org": "City of Austin Parks and Recreation Board",
+    "role": "Chair and member (2023-present)",
+    "category": "civic",
+    "source_url": "https://www.coferconnelly.com/about-us/pedro-villalobos/",
+    "snippet": "Bio lists \"Chair & Member, City of Austin Parks and Recreation Board (2023-Present).\""
+   },
+   {
+    "org": "City of Austin Ethics Review Commission; City of Austin Commission on Immigrant Affairs",
+    "role": "Member, Ethics Review Commission (2019-2020); Vice-Chair and member, Commission on Immigrant Affairs (2015-2019)",
+    "category": "civic",
+    "source_url": "https://www.coferconnelly.com/about-us/pedro-villalobos/",
+    "snippet": "Bio lists \"Member, City of Austin Ethics Rewview Commission (2019-2020)\" [sic] and \"Vice-Chair and Member, City of Austin Commission on Immigrant Affairs (2015-2019).\""
+   }
+  ]
+ },
+ {
+  "donor_id": "0c63c58e5d111e4d",
+  "name": "FITCH, JOE",
+  "resolved_employer": "Retired (former occupation not identifiable from public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists occupation RETIRED with no employer, in Hutto TX 78634. Searches for a Joe/Joseph Fitch in Hutto or the 78634 zip returned only unrelated same-named individuals in other Texas cities (Marshall/Longview, Denton, Little Elm) and out-of-state obituaries, none matching the location or a discoverable career. No public profile, news mention, business filing, or professional page could be tied to this specific person, so no industry is assigned rather than guessing. Filing shows fec_donation_count 0.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f4eda85052f15fe",
+  "name": "Black, Andre",
+  "resolved_employer": "Cisco Systems (per filing; solutions engineer) — no independent public profile located",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Solutions Engineer', employer 'Cisco', Pflugerville TX 78660. No LinkedIn, bio page, news mention, or FEC record could be located confirming this specific individual; searches surfaced only a same-named Austin/Pflugerville real-estate broker (Andre Black Realty, 21428 Windmill Ranch Ave, Pflugerville) whose occupation does NOT match the filing, so the two are treated as distinct and no real-estate classification is assigned. Industry assigned by employer fallback only (Cisco = Technology); identity not independently corroborated.",
+  "source_url": "https://www.andreblackrealty.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1035eec898287f84",
+  "name": "Shaw, Stuart",
+  "resolved_employer": "Bonner Carrington (Austin multifamily/commercial real estate developer) — Founder & CEO; filing lists 'RETIRED'",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Federal contribution records repeatedly show Stuart Shaw at Austin TX 78735 — an exact zip match to the D1 filing — with employer 'Bonner Carrington' and occupation CEO/President, and a 2020 record listing occupation 'Retired' at the same 78735 address, matching the filing's 'RETIRED'. Bonner Carrington's own leadership page identifies Stuart Shaw as Founder & CEO with 40 years in commercial real estate, original developer of Austin's Warehouse District and Second Street Retail District, and builder of 4,000+ apartment homes across twenty Texas communities. The unusually high federal donation count (2,941) is consistent with his FEC record: 36 transactions in the 2016 cycle and 221 in the 2020 cycle alone, dominated by small recurring NRSC/WinRed contributions.",
+  "source_url": "https://bonnercarrington.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Bonner Carrington",
+    "role": "Founder & Chief Executive Officer",
+    "category": "business",
+    "source_url": "https://bonnercarrington.com/about/",
+    "snippet": "Stuart Shaw is Founder and CEO of Bonner Carrington, a vertically integrated privately owned commercial real estate development, construction and property management company; 'an extensive background of forty years in commercial real estate,' developer of Austin's Downtown Warehouse District and Second Street Retail District, and since 2000 a portfolio of 4,000+ apartment homes across twenty branded Texas communities."
+   },
+   {
+    "org": "Republican federal committees and candidates (NRSC, RNC, NRCC, Trump Victory, Cruz for President, Ted Cruz for Senate, Texans for Lamar Smith, Team Ryan, Scalise Leadership Fund, Maggie's List, Stop Hillary PAC)",
+    "role": "Individual donor ($33,910 in the 2016 cycle; $54,375 across 221 transactions in the 2020 cycle)",
+    "category": "political",
+    "source_url": "https://www.campaignmoney.com/political/contributions/stuart-shaw.asp?cycle=16",
+    "snippet": "FEC-derived records for Stuart Shaw, Austin TX 78735, employer Bonner Carrington, include $7,500 to Trump Victory (8/30/2016), $5,400 and $2,700 to Cruz for President, $2,700 to Ted Cruz for Senate, $2,500 contributions to the NRSC, $500 to the Republican National Committee, and $2,700 to Texans for Lamar Smith."
+   }
+  ]
+ },
+ {
+  "donor_id": "110f712a790be941",
+  "name": "Couch, Linda",
+  "resolved_employer": "Solo-practice attorney, Frederick MD (real estate, business and trusts practice)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Avvo's Maryland attorney directory lists a Linda Ann Couch in zip 21703 (Frederick MD) — an exact zip match to the filing — licensed in Maryland since 2022, with no firm affiliation shown on the profile, consistent with the filing's employer 'Self' and occupation 'Attorney'. Practice areas listed as Real Estate 34% / Business 33% / Trusts 33%, no disciplinary record. Federal contribution searches surfaced only a different Linda Couch (Warrenton VA 20186, COO at Parrish Services, small recurring MoveOn.org Political Action gifts) and a well-known housing-policy Linda Couch at the National Low Income Housing Coalition / LeadingAge — neither corroborated to Frederick MD 21703 or to an attorney occupation, so neither is attributed to this donor. No FEC record specific to Frederick MD 21703 was locatable; the FEC OpenFEC API was rate-limited (HTTP 429) during this session and the FEC.gov search UI is client-rendered, so the federal check relied on FEC-derived third-party mirrors and web search.",
+  "source_url": "https://www.avvo.com/attorneys/21703-md-linda-couch-5262285.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "115dbfd17c3c5684",
+  "name": "Simon, Rochelle",
+  "resolved_employer": "Fulton County Government, Office of the Medical Examiner (Atlanta GA) — Medical Examiner Associate; forensic/anatomic pathologist",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Dr. Rochelle Anne Simon, MD is a board-certified anatomic and clinical pathologist with a forensic pathology fellowship (Office of the Chief Medical Examiner, 2019), MD from Howard University College of Medicine (2004), residency at Strong Memorial Hospital/University of Rochester (2008) and fellowship at Women and Infants Hospital (2010); she practices with DeKalb Pathology, P.C. in the Emory Healthcare Network. A ZoomInfo business record and a Yahoo Local listing both place a Rochelle Simon at Fulton County Medical Examiners in Atlanta with a fultoncountyga.gov email — matching the filing's occupation 'Physician' and employer 'Fulton County'. Industry classified by employer (Fulton County government). fec_donation_count of 0 is consistent with no federal contribution records surfacing.",
+  "source_url": "https://www.emoryhealthcare.org/providers/rochelle-anne-simon-2391547",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

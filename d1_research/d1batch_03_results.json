@@ -1,0 +1,500 @@
+[
+ {
+  "donor_id": "356a4a9baf83e4da",
+  "name": "Leal, Rebecca",
+  "resolved_employer": "Self-employed (self-reported \"Consultant\", employer \"Self\")",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be corroborated for a Rebecca Leal in the 78737 (southwest Austin / Dripping Springs area) zip working as a self-employed consultant. LinkedIn results for the name resolve to a teacher and a hospitality housekeeper, neither matching the occupation or zip; no bio page, firm page, news mention, TEC lobbyist entry, or PAC-linked FEC record was found. Classification rests solely on the self-reported occupation/employer on the filing.",
+  "source_url": "https://www.linkedin.com/pub/dir/Rebecca/Leal",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "35ccc118fb38889d",
+  "name": "Suddaby, Benjamin",
+  "resolved_employer": "Travis County — Purchasing Operations Specialist II",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Benjamin Cornelio Suddaby is an Operations Specialist II in Travis County Purchasing (county staff directory lists benjamin.suddaby@traviscountytx.gov; public payroll records show the same title), matching the filing's occupation \"Operations Specialist\" and employer \"Travis County\". He is also a longtime AFSCME Local 1624 activist who served as Local 1624 president (2023-2024) and is a Local 1624 delegate to the Austin Central Labor Council; the heavy Democratic federal giving pattern (178 contributions) is consistent with a union officer. No TEC lobbyist registration and no ideological-PAC contributions surfaced.",
+  "source_url": "https://www.traviscountytx.gov/purchasing/contact",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AFSCME Local 1624 (Austin/Travis County public employees union)",
+    "role": "Past President (2023-2024); 2025 candidate for President; current member",
+    "category": "political",
+    "source_url": "https://austinmonitor.com/stories/2023/05/as-city-ends-remote-and-telework-opportunities-county-receives-national-recognition-for-its-remote-work-initiative/",
+    "snippet": "Austin Monitor coverage identifies Ben Suddaby as \"an operations specialist for Travis County\" and president of Local 1624, who with business manager Carol Guthrie asked interim City Manager Jesus Garza to postpone telework changes."
+   },
+   {
+    "org": "Austin Central Labor Council (AFL-CIO)",
+    "role": "AFSCME Local 1624 delegate",
+    "category": "political",
+    "source_url": "https://afscme1624.org/central-labor-council-1",
+    "snippet": "Local 1624's site lists its Austin CLC delegates, including \"Ben Suddaby,\" among 16 named delegates."
+   }
+  ]
+ },
+ {
+  "donor_id": "36f9d1d99fc963bd",
+  "name": "Woodburn, Megan",
+  "resolved_employer": "Strategic Association Management (SAM), Austin — Founder & CEO",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Megan Lois Woodburn, CAE, is the founder and CEO of Strategic Association Management LLC, an Austin association-management company (3305 Steck Ave, Austin 78757) she started in 2011; this matches the filing's occupation \"Owner\" and employer \"Strategic Association Management\", and the 78731 residential zip is central-west Austin. Her published bio (read in full) shows she previously worked in fundraising/membership at the Texas Trial Lawyers Association and lists several civic board seats. No TEC lobbyist registration under her name and no ideological-PAC federal contributions surfaced.",
+  "source_url": "https://samw.memberclicks.net/megan-woodburn",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Monitor (Capital of Texas Media Foundation)",
+    "role": "Former board member; listed early supporter",
+    "category": "civic",
+    "source_url": "https://samw.memberclicks.net/megan-woodburn",
+    "snippet": "Her bio lists prior board service with \"Austin Monitor, nonprofit news organization\"; the Monitor's own early-supporters page also lists Megan Woodburn."
+   },
+   {
+    "org": "Texas Lyceum",
+    "role": "Former board member",
+    "category": "civic",
+    "source_url": "https://samw.memberclicks.net/megan-woodburn",
+    "snippet": "Bio lists \"Texas Lyceum (former board member)\" among her board service."
+   },
+   {
+    "org": "Entrepreneurs Organization, Austin Chapter",
+    "role": "Board member, finance chair",
+    "category": "business",
+    "source_url": "https://samw.memberclicks.net/megan-woodburn",
+    "snippet": "Bio lists \"Austin Chapter of the Entrepreneurs Organization (board member, finance chair).\""
+   },
+   {
+    "org": "AMC Institute / Texas Society of Association Executives",
+    "role": "Former board member (both); TSAE Young Professional Leadership Award, 2011",
+    "category": "business",
+    "source_url": "https://samw.memberclicks.net/megan-woodburn",
+    "snippet": "Bio lists former board service with the AMC Institute and TSAE, and a CAE credential from ASAE (2010)."
+   }
+  ]
+ },
+ {
+  "donor_id": "380980d56171c6a7",
+  "name": "Hamilton, Summer",
+  "resolved_employer": "Levrx (pharmacy-benefits technology company) — SVP, Growth and Partnerships / National Practice Leader",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Levrx's leadership page identifies Summer Hamilton as SVP of Growth and Partnerships / National Practice Leader, leading revenue strategy and national distribution across consultant, employer and PBM channels — matching the filing's occupation \"Sales\" and employer \"Levrx\". Prior roles at Rx Savings Solutions, BeneTral and Empyrean; her professional profile places her in the Charleston, SC area, matching the 29403 zip. Full bio read discloses no board seats, advocacy roles, or org memberships. No TEC lobbyist registration (out-of-state) and no ideological-PAC federal contributions surfaced.",
+  "source_url": "https://levrx.com/leadership/summer-hamilton/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3959409b52876502",
+  "name": "Valdez Sanchez, Raquel",
+  "resolved_employer": "Business & Community Lenders of Texas (BCL of Texas) — President & CEO",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Raquel Valdez Sanchez is President & CEO of BCL of Texas, a statewide nonprofit CDFI (community development lender) headquartered in Austin; she was named CEO in September 2024 after serving as COO. Filed occupation 'CEO' and employer 'BCL of Texas' match the public record exactly, and she is an Austin resident serving on a City of Austin commission, consistent with the 78745 Austin zip.",
+  "source_url": "https://www.bcloftexas.org/get-to-know-us/meet-our-ceo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Economic Prosperity Commission",
+    "role": "Vice Chair (District 3 appointee of Council Member Jose Velasquez), term Dec 14 2023 - Feb 28 2027",
+    "category": "civic",
+    "source_url": "https://austintexas.granicus.com/boards/w/a97572121002d392",
+    "snippet": "City of Austin board roster lists Raquel Valdez Sanchez as Vice Chair of the Economic Prosperity Commission, appointed by Council Member Jose Velasquez, first term Dec 14, 2023 to Feb 28, 2027."
+   },
+   {
+    "org": "Caritas of Austin",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://about.me/raquelvaldez",
+    "snippet": "Her public professional profile lists board service with Caritas of Austin, an Austin homelessness-services nonprofit."
+   },
+   {
+    "org": "Dream Come True Foundation (Austin)",
+    "role": "Board member 2017-2025; served as Secretary, Vice-Chair/Vice President, and Chair of the Program Services Committee",
+    "category": "civic",
+    "source_url": "https://www.thedreamcometruefoundation.org/uncategorized/thank-you-raquel-valdez-sanchez/",
+    "snippet": "Foundation thank-you post records her 2017-2025 board service, including Secretary and Vice-Chair roles and chairing the Program Services Committee."
+   },
+   {
+    "org": "NeighborWorks Alliance of Texas",
+    "role": "Treasurer",
+    "category": "civic",
+    "source_url": "https://about.me/raquelvaldez",
+    "snippet": "Professional profile lists her as Treasurer of the NeighborWorks Alliance of Texas, a community-development housing network."
+   },
+   {
+    "org": "Greater Austin Hispanic Chamber of Commerce",
+    "role": "Former board member (two completed terms)",
+    "category": "business",
+    "source_url": "https://www.gahcc.org/raquel-valdez",
+    "snippet": "GAHCC profile page for Raquel Valdez; she recently completed two board terms with the chamber."
+   },
+   {
+    "org": "Credit Builders Alliance (CBA) Fund",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://about.me/raquelvaldez",
+    "snippet": "Professional profile lists current board service with the Credit Builders Alliance Fund."
+   }
+  ]
+ },
+ {
+  "donor_id": "3ab66459e32e9bc8",
+  "name": "Lorfing, Russell",
+  "resolved_employer": "Keith & Lorfing (Abilene, TX criminal-defense and personal-injury law firm) — managing partner",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Russell Henry Thomas Lorfing is the managing partner of Keith & Lorfing in Abilene, TX, a former Assistant U.S. Attorney in the Northern District of Texas who now practices criminal defense, white-collar defense and personal injury. Filed occupation 'Attorney', employer 'Keith & Lorfing', and Abilene 79602/79605 all match the firm's public record. No Texas Ethics Commission lobbyist registration and no ideological-PAC affiliation (Israel/Palestine, oil & gas, gun-rights or gun-control, defense) was found in public records; his federal giving history could not be itemized directly because the FEC data API was rate-limited during research, so the reported partisan lean is uncorroborated here.",
+  "source_url": "https://lorfinglaw.com/meet-the-team/russell-lorfing/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Criminal Defense Lawyers Association",
+    "role": "Co-Chair, Federal Criminal Defense Committee (2024)",
+    "category": "business",
+    "source_url": "https://lorfinglaw.com/meet-the-team/russell-lorfing/",
+    "snippet": "Firm bio lists him as Co-Chair of the Federal Criminal Defense Committee of the Texas Criminal Defense Lawyers Association in 2024."
+   },
+   {
+    "org": "Texas Bar Foundation",
+    "role": "Lifetime Fellow; selected as 2025-2026 Nominating Chair",
+    "category": "business",
+    "source_url": "https://www.8newsnow.com/business/press-releases/ein-presswire/854642619/abilene-attorney-russell-lorfing-selected-as-a-2025-2026-nominating-chair-by-texas-bar-foundation/",
+    "snippet": "Press release: 'Abilene Attorney Russell Lorfing Selected As A 2025-2026 Nominating Chair By Texas Bar Foundation.'"
+   },
+   {
+    "org": "Freedom Fighters / Learn Federal Sentencing",
+    "role": "Founder and creator (private online leadership and legal-education programs)",
+    "category": "business",
+    "source_url": "https://lorfinglaw.com/meet-the-team/russell-lorfing/",
+    "snippet": "Bio identifies him as founder of Learn Federal Sentencing, an online educational program, and creator of Freedom Fighters, a leadership course."
+   }
+  ]
+ },
+ {
+  "donor_id": "3b23d74562c16773",
+  "name": "Trinh, Stephanie",
+  "resolved_employer": "Self-employed attorney (Austin); previously Chief of Staff to U.S. Rep. Greg Casar, Jan 2023 - March 2026",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Stephanie Kay Trinh is an Austin attorney (Texas bar #24089260, licensed 2014, UT Law 2014) who served as Chief of Staff to U.S. Rep. Greg Casar from January 2023 until March 2026, and earlier as senior advisor to Austin Mayor Steve Adler, policy advisor/counsel to then-Council Member Casar, and a fellow and staff attorney at Texas RioGrande Legal Aid. The filed employer 'Self' is consistent with her March 2026 departure from congressional staff, and the Austin location, attorney occupation, and heavily Democratic federal giving pattern all corroborate identity. No Texas Ethics Commission or City of Austin lobbyist registration was found. No affiliation with pro-Israel, liberal-Zionist, or pro-Palestine advocacy organizations, oil & gas, gun-rights, gun-control, or defense-contractor entities was found in public records; her itemized federal PAC recipients could not be enumerated directly because the FEC data API was rate-limited during research.",
+  "source_url": "https://law.utexas.edu/publicinterest/directory/stephanie-trinh/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Office of U.S. Rep. Greg Casar (D-TX)",
+    "role": "Chief of Staff, January 2023 - March 2026",
+    "category": "political",
+    "source_url": "https://www.legistorm.com/person/bio/444166/Stephanie_K_Trinh.html",
+    "snippet": "LegiStorm records Stephanie K. Trinh as Chief of Staff for Rep. Greg Casar (D-TX) from January 2023 through March 2026."
+   },
+   {
+    "org": "Office of Austin Mayor Steve Adler",
+    "role": "Senior Advisor (former)",
+    "category": "political",
+    "source_url": "https://law.utexas.edu/publicinterest/directory/stephanie-trinh/",
+    "snippet": "UT Law public-interest profile: previously senior advisor to former Austin Mayor Steve Adler, and policy advisor and counsel to then-Council Member Greg Casar."
+   },
+   {
+    "org": "Texas RioGrande Legal Aid",
+    "role": "Fellow and staff attorney (former), Austin office",
+    "category": "civic",
+    "source_url": "https://law.utexas.edu/publicinterest/directory/stephanie-trinh/",
+    "snippet": "Profile lists her as a fellow and staff attorney at Texas RioGrande Legal Aid in Austin, and work with Texas C-BAR and Disability Rights Texas."
+   }
+  ]
+ },
+ {
+  "donor_id": "3d577b4a8155cc0f",
+  "name": "ramos, hulda",
+  "resolved_employer": "Guardian Angels At Home Care (Carrollton, TX) — medical assistant",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "The filed employer 'Guardian angel' and occupation 'Medical assistant' match Guardian Angels At Home Care, a Medicare-certified home-care agency located in Carrollton, TX 75006 — the same zip code as the donor's filed address. No individual public profile, bio page, news coverage, professional listing, FEC contribution record, or Texas Ethics Commission lobbyist registration was found for her; this is an employer-fallback classification. A people-search aggregator lists a 'Hulda Ramos' among possible relatives of a Misael Ramos in Carrollton, but no primary or journalistic source documents a family relationship to candidate Misael Ramos, so none is asserted here.",
+  "source_url": "https://www.yellowpages.com/carrollton-tx/mip/guardian-angels-at-home-care-475026947",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e0893a5c71920dc",
+  "name": "Avery Tabrizi, Dona",
+  "resolved_employer": "None (reports unemployed); household holds Austin residential rental property entities (Tabrizi and Co Inc / Tabrizi Investments LLC) registered at her home address",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Dona Avery Tabrizi of 1102 Claire Ave, Austin TX 78703 (matches filing zip); named plaintiff with spouse Ali Tabrizi in Tabrizi v. City of Austin (Tex. App. 2018), a land-use suit over a building permit on a .56-acre remainder lot the couple bought in 2013, litigated against the City's Planning/Zoning, Development Services and Environmental officers. Public records list Tabrizi and Co Inc and Tabrizi Investments LLC (NAICS: lessors of residential buildings and dwellings) at the same address. Spouse Ali Tabrizi is an Austin angel/VC investor (CTAN, LiveOak, Capital Factory). She reports her own occupation as unemployed, so she is classified Not Employed; the real-estate and land-use exposure is household-level, not a personal employer.",
+  "source_url": "https://law.justia.com/cases/texas/eighth-court-of-appeals/2018/08-16-00209-cv.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Tabrizi v. City of Austin (land-use litigation)",
+    "role": "Named plaintiff / property owner",
+    "category": "business",
+    "source_url": "https://law.justia.com/cases/texas/eighth-court-of-appeals/2018/08-16-00209-cv.html",
+    "snippet": "Ali and Dona Tabrizi v. City of Austin; Greg Guernsey, Director of Planning and Zoning; J. Rodney Gonzales, Development Services; Charles Lesniak, Environmental Officer — dispute over the Tabrizis' effort to build on an undeveloped .56-acre lot purchased in 2013."
+   }
+  ]
+ },
+ {
+  "donor_id": "3fbfec95be9eb399",
+  "name": "Lorenz, Sheridan",
+  "resolved_employer": "Mitchell Family Corporation (The Woodlands, TX) — the Mitchell family holding company/family office; past vice president",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Sheridan Mitchell Lorenz, Austin TX 78703 — corroborated by FEC individual-contribution records listing 'Sheridan Lorenz, Austin TX 78703, employer Mitchell Family Corp.' She is a daughter of Cynthia and George P. Mitchell (Mitchell Energy & Development; credited with pioneering commercial shale-gas extraction), past vice president of the Mitchell Family Corporation and of Mitchell Historic Properties (Galveston real estate), president/director of G-1 Corporation, VP and managing member of Circle Ten Inc., and a director of Mitchell Island Investments. She is a board member of the Cynthia and George Mitchell Foundation, which funds climate-change, renewable-energy, aquifer-protection and land-conservation work. Her personal wealth derives from an oil-and-gas fortune, but no public record shows her holding an executive, board, or ownership role in an operating oil & gas company, so no oil_gas flag is recorded.",
+  "source_url": "https://www.ncfp.org/people/sheridan-lorenz/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Cynthia and George Mitchell Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.ncfp.org/people/sheridan-lorenz/",
+    "snippet": "Board member of The Cynthia and George Mitchell Foundation, a grant-making foundation addressing 'global climate change, the development of clean, renewable energy sources, the protection of Texas' aquifers and land conservation in Texas.'"
+   },
+   {
+    "org": "Mitchell Family Corporation / Mitchell Historic Properties",
+    "role": "Past vice president",
+    "category": "business",
+    "source_url": "https://cgmf.org/blog-entry/209/Sheridan-Mitchell-Lorenz-establishes-endowment-for-science-graduate-students.html",
+    "snippet": "Sheridan Lorenz is a past vice president of both the Mitchell Family Corporation and Mitchell Historic Properties, and a daughter of George and Cynthia Woods Mitchell."
+   },
+   {
+    "org": "End Citizens United",
+    "role": "Individual donor (federal)",
+    "category": "political",
+    "source_url": "https://www.campaignmoney.com/political/contributions/sheridan-lorenz.asp",
+    "snippet": "FEC-reported federal giving from Austin 78703 includes ActBlue, End Citizens United, Senate Majority PAC (SMP), Wendy Davis for Congress and Shannon Hutcheson for Congress — no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control or defense-contractor PACs found."
+   }
+  ]
+ },
+ {
+  "donor_id": "40c63e8b9a81afc9",
+  "name": "Puzycki, Ryan",
+  "resolved_employer": "Freelance writer; author of the 'City of Yes' urbanism newsletter; fellow, Roots of Progress Institute",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Ryan Puzycki of Austin (78702) is a writer and housing advocate who publishes 'City of Yes,' a weekly urbanism/housing/public-policy newsletter, and is a fellow of the Roots of Progress Institute — matching the filing's 'Writer / Freelance.' He is a serving City of Austin Zoning and Platting Commissioner (District 7 appointee, secretary; second term May 2025–Feb 2027), a board member of AURA (Austin's grassroots urbanist organization), and sits on the Austin Monitor's Strategic Advisory Council. Career background: equity research analyst on Wall Street, then a decade building and managing Montessori schools. Notable for transparency purposes: he is a sitting city land-use commissioner donating in a council race.",
+  "source_url": "https://rootsofprogress.org/fellow/ryan-puzycki/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Zoning and Platting Commission",
+    "role": "Commissioner (secretary), District 7 appointee; 2nd term May 2025–Feb 2027",
+    "category": "civic",
+    "source_url": "https://bandc.crccheck.com/zoning-and-platting-commission/",
+    "snippet": "Ryan Puzycki serves as secretary of the Austin Zoning and Platting Commission representing District 7, appointed to a second term running May 8, 2025 to Feb 28, 2027."
+   },
+   {
+    "org": "AURA (Austin urbanist advocacy organization)",
+    "role": "Board member and contributor",
+    "category": "civic",
+    "source_url": "https://rootsofprogress.org/fellow/ryan-puzycki/",
+    "snippet": "In Austin he sits on the Austin Monitor's Strategic Advisory Council and the board of AURA, Austin's grassroots urbanist organization, and has been active in the local and state housing reform movement."
+   },
+   {
+    "org": "Roots of Progress Institute",
+    "role": "Fellow",
+    "category": "civic",
+    "source_url": "https://rootsofprogress.org/fellow/ryan-puzycki/",
+    "snippet": "Listed as a Roots of Progress Institute fellow; writes on urbanism, housing and public policy from a progress/abundance perspective."
+   }
+  ]
+ },
+ {
+  "donor_id": "4340ae044bc34d70",
+  "name": "Harris, Andrew",
+  "resolved_employer": "inKind (Austin, TX) — co-founder and Chief Risk Officer; also an owner/investor in Austin restaurants",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Andrew Harris is a co-founder and Chief Risk Officer of inKind, the Austin-based restaurant-capital company (previously EquityEats; provides restaurants funding by pre-purchasing food-and-beverage credit resold via a consumer app), matching the filing's 'Risk officer / InKind.' He was previously inKind's COO and its compliance officer at EquityEats, and before that an employment lawyer at Linklaters, with earlier stints at RBS and a legal fellowship at Immigration Equality; educated at the London School of Economics. He has invested in 30+ restaurants and owned several, including The Guest House and Ember Kitchen in Austin. Caveat: 'Andrew Harris' is a common name, so the 206 aggregate prior FEC donations attributed to this donor record may include other individuals; no ideological PAC giving could be confirmed for this specific person.",
+  "source_url": "https://en.wikipedia.org/wiki/InKind",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "inKind",
+    "role": "Co-founder and Chief Risk Officer (formerly COO)",
+    "category": "business",
+    "source_url": "https://en.wikipedia.org/wiki/InKind",
+    "snippet": "Co-founders Johann Moonesinghe and Andrew Harris built inKind after their own experience as restaurant owners and investors; Harris serves as chief risk officer and has invested in over 30 restaurants, owning several including The Guest House and Ember Kitchen in Austin."
+   }
+  ]
+ },
+ {
+  "donor_id": "4461f0b9b9fe20aa",
+  "name": "Gonzalez, Cristina",
+  "resolved_employer": "Salesforce (Senior Strategic Program Manager)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Best public match is Cristi Gonzalez, Senior Program Manager, Strategic at Salesforce, listed as located in Brooklyn, NY — matching the filing's occupation 'Program Manager', employer 'Salesforce.com' and zip 11201. Prior roles at Jobvite (Director of Operations, Director of Professional Services); M.A. from St. Edward's University in Austin, which is a plausible source of the Austin tie. 'Cristina Gonzalez' is a very common name, so identity is corroborated but not certain; no board seats, lobbying registration or PAC giving found on any side of the Israel/Palestine, energy, or firearms spectrums.",
+  "source_url": "https://www.linkedin.com/in/gonzalezcristi/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44a371c78e0fe4e7",
+  "name": "Snyder, Rodney",
+  "resolved_employer": "Junction Strategies, LLC — Principal and Founder (agriculture, climate and environmental policy consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Rod (Rodney) Snyder founded Junction Strategies, LLC in November 2024, a consulting firm on agriculture, climate and environmental policy; he lives on his family farm in Shenandoah Junction, WV, immediately adjacent to Shepherdstown (zip 25443) — matching the filing's employer, occupation 'Consultant' and location. He served in the Biden-Harris Administration 2021-2024 as Senior Advisor for Agriculture to the EPA Administrator and as the first director of EPA's Office of Agriculture and Rural Affairs; previously President of Field to Market (2014-2021), Public Policy Director at the National Corn Growers Association, and Government Affairs Leader at CropLife America. FEC records show Rodney/Rod Snyder (Field to Market / Consultant, WV) giving to ActBlue, the Committee to Elect Richard Ojeda and Talley Sergent for West Virginia in 2018 — Democratic committees only; no PAC giving found on either side of the Israel/Palestine spectrum, no oil & gas, firearms, or defense-contractor PAC records, and no Texas Ethics Commission lobbyist registration.",
+  "source_url": "https://www.junctionstrategies.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Young Democrats of America",
+    "role": "President (2010-2013)",
+    "category": "political",
+    "source_url": "https://www.junctionstrategies.com/about",
+    "snippet": "Junction Strategies' About page lists Rod Snyder as President of Young Democrats of America, 2010-2013."
+   },
+   {
+    "org": "West Virginia Democratic Party",
+    "role": "Vice Chair (2020-2021)",
+    "category": "political",
+    "source_url": "https://www.junctionstrategies.com/about",
+    "snippet": "Junction Strategies' About page lists Rod Snyder as Vice Chair of the West Virginia Democratic Party, 2020-2021."
+   },
+   {
+    "org": "Sand County Foundation",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://sandcountyfoundation.org/news/2025/rod-snyder-joins-sand-county-foundation-board",
+    "snippet": "Sand County Foundation announced that Rod Snyder, principal and founder of Junction Strategies and former EPA Senior Advisor for Agriculture, joined its board of directors."
+   },
+   {
+    "org": "Cultivating Change Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.junctionstrategies.com/about",
+    "snippet": "His firm bio lists board memberships at the Sand County Foundation and the Cultivating Change Foundation."
+   },
+   {
+    "org": "Pesticide Policy Coalition / CropLife America",
+    "role": "Chair of the Pesticide Policy Coalition; formerly Government Affairs Leader at CropLife America (pesticide industry trade association)",
+    "category": "business",
+    "source_url": "https://www.croplife.com/management/legislation/epa-appoints-rod-snyder-agriculture-advisor/",
+    "snippet": "Coverage of his EPA appointment notes he held roles at the National Corn Growers Association and CropLife America and served as chair of the Pesticide Policy Coalition and on the board of the Conservation Technology Information Center."
+   }
+  ]
+ },
+ {
+  "donor_id": "4a34bed59020fdb6",
+  "name": "Egger, Shelli",
+  "resolved_employer": "Texas Legal Services Center — Managing Attorney, Legal Aid for Survivors of Sexual Assault (LASSA)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Shelli Lyons Egger is a Texas-licensed public interest attorney (UT School of Law J.D. 2005) practicing family law in the Austin area, currently Managing Attorney for the Legal Aid for Survivors of Sexual Assault program at Texas Legal Services Center — matching the filing's occupation 'Attorney', employer, and Pflugerville-area (78660) location. Previously a staff attorney on the Domestic Violence and Family Law team at Texas RioGrande Legal Aid's Austin office; admitted to the U.S. Supreme Court bar in October 2015. No Texas Ethics Commission lobbyist registration found, and no federal PAC contributions found on either side of the Israel/Palestine, energy, or firearms spectrums.",
+  "source_url": "https://law.utexas.edu/alumni/class-notes/shelli-egger/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ba60936fbc89c04",
+  "name": "Anderson, Ashlee",
+  "resolved_employer": "Medulla (TVG-Medulla, LLC) — clinical technician; healthcare management company operating Chiro One Wellness Centers and MyoCore, headquartered in the Chicago area",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "The filing's swapped occupation/employer fields resolve to TVG-Medulla, LLC ('Medulla'), a Chicago-area healthcare management company that operates the Chiro One Wellness Centers and MyoCore chiropractic clinics (owned by private equity firm The Vistria Group); Chiro One operates a clinic in Hyde Park at 1644 E 53rd St, within the donor's 60615 zip, which is consistent with a clinical technician role there. No individual public profile for this specific Ashlee Anderson could be confirmed, so identity confidence is low and the classification is an employer-based fallback. Her reported eight federal donations could not be resolved to itemized records through public search (FEC's contributor search UI and API were not retrievable), and no ideological PAC giving was surfaced on any side of the Israel/Palestine, energy, or firearms spectrums; no Texas Ethics Commission lobbyist registration. No public source was found linking her to District 1 candidate Alexandria Anderson, so no family relationship is asserted.",
+  "source_url": "https://medullallc.com/chiro-one/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c859c649bed95f3",
+  "name": "Moore, Karen",
+  "resolved_employer": "IEA (self-reported; most plausibly the Illinois Education Association teachers' union) — organizer",
+  "industry": "Labor",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Organizer' at 'IEA' from Oak Park IL 60304. No public profile could be matched to this specific person. The only publicly documented Karen Moore tied to the Illinois Education Association is Karen B. Moore, an NEA Director (District 4, 2024-2027) on the IEA Board of Directors and a special-education teacher in Harvey School District 152 — a member/board volunteer, not IEA staff, and not in Oak Park, so identity is NOT corroborated. Industry assigned by employer fallback (union staff organizer) only.",
+  "source_url": "https://ieanea.org/about/leadership/board-of-directors/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ced2574be178168",
+  "name": "Truair, Rachel",
+  "resolved_employer": "Demandbase — Chief Marketing Officer (B2B software/AI, appointed Jan 2026); previously CMO of Simpro Group and Cart.com, marketing leadership at Confluent, Adobe/Magento, Oracle",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Demandbase's own January 2026 press release names Rachel Truair as its new CMO, and the Simpro CMO announcement places her in Austin, Texas — matching the donor's Austin 78731 zip, 'CMO' occupation and 'Demandbase' employer. No Texas lobbyist registration found; no ideological/issue PAC (pro-Israel, pro-Palestine, oil & gas, gun-rights or gun-control) contributions surfaced in public federal records searches, only a general Democratic-leaning individual giving pattern.",
+  "source_url": "https://www.demandbase.com/press-release/rachel-truair-appointed-cmo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Fabien Cousteau Ocean Learning Center",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.fabiencousteauolc.org/about-us",
+    "snippet": "Rachel Truair is listed among the board of the Fabien Cousteau Ocean Learning Center, a marine-science education nonprofit, alongside Fabien Cousteau (President)."
+   }
+  ]
+ },
+ {
+  "donor_id": "4efde34fe1c39a8e",
+  "name": "vargas, cristina",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as 'Not Employed' at Los Angeles (Eagle Rock/Highland Park) zip 90041. 'Cristina Vargas' is an extremely common name in Los Angeles; multiple candidates surfaced (an LA County eligibility worker, a Snap Inc. client partner, an actor) and none could be corroborated against the zip, the not-employed status, or the donation pattern. No affiliation, lobbyist registration, or issue-PAC record could be tied to this individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4f4a8a0de093a8af",
+  "name": "Barnes, Robert",
+  "resolved_employer": "IBC Bank–Austin (International Bank of Commerce) — Chairman/President & CEO (retired); also president of IBC Mortgage and IBC First Equity",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "FEC records compiled by City-Data list 'Mr. Robert B. Barnes', employer International Bank of Comme[r]ce, occupation President & CEO, Lakeway TX zip 78734 — an exact zip match to this donor — giving $500 to Texans for Senator John Cornyn in 2014, consistent with the donor's 58 prior strongly Republican-leaning federal contributions. IBC's own leadership page carries his full bio: 50+ years in Texas banking, Chairman & CEO of IBC Bank-Austin, U.S. Army Vietnam veteran, Randolph-Macon BA and University of Arkansas MBA. Now reports as RETIRED.",
+  "source_url": "https://www.ibc.com/about-us/our-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Urban Land Institute (ULI Austin)",
+    "role": "Board member; 2019 ULI Impact Awards 'Influencer Award' recipient",
+    "category": "business",
+    "source_url": "https://www.ibc.com/newsroom/press-releases/ibc-bank-austin-president-ceo-bob-barnes-awarded-urban-land-institute-influencer-award-at-2019-impact-awards",
+    "snippet": "IBC: Barnes received the ULI Influencer Award, honoring 'the ULI member who has most-positively influenced ULI Austin'; his IBC bio lists the Urban Land Institute among his current board seats."
+   },
+   {
+    "org": "Downtown Austin Alliance",
+    "role": "Board member",
+    "category": "business",
+    "source_url": "https://www.ibc.com/about-us/our-team",
+    "snippet": "IBC bio: 'Currently serves on the boards of the Bob Bullock Texas State History Museum Foundation, the Urban Land Institute, Habitat for Humanity, and the Downtown Austin Alliance.'"
+   },
+   {
+    "org": "Real Estate Council of Austin (RECA)",
+    "role": "Recipient of RECA's Gary S. Farmer Commendation of Excellence Award for service to the Austin community",
+    "category": "business",
+    "source_url": "https://www.ibc.com/newsroom/press-releases/ibc-bank-austin-president-ceo-robert-b-barnes-awarded-real-estate-council-of-austin-gary-s-farmer-commendation-of-excellence",
+    "snippet": "IBC press release: IBC Bank-Austin President & CEO Robert B. Barnes awarded the Real Estate Council of Austin's Gary S. Farmer Commendation of Excellence."
+   },
+   {
+    "org": "Bob Bullock Texas State History Museum Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.ibc.com/about-us/our-team",
+    "snippet": "IBC bio lists the Bob Bullock Texas State History Museum Foundation among his current board seats."
+   },
+   {
+    "org": "Habitat for Humanity",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.ibc.com/about-us/our-team",
+    "snippet": "IBC bio lists Habitat for Humanity among his current board seats."
+   },
+   {
+    "org": "Texans for Senator John Cornyn Inc.",
+    "role": "Individual contributor ($500, 2014, listed as IBC President & CEO, Lakeway TX 78734)",
+    "category": "political",
+    "source_url": "https://www.city-data.com/elec2/elec-LAKEWAY-TX.html",
+    "snippet": "FEC data: 'Mr. Robert B. Barnes (International Bank of Comme[r]ce/President & CEO), Lakeway, TX 78734 — $500 to Texans for Senator John Cornyn Inc, 03/06/2014.'"
+   }
+  ]
+ }
+]

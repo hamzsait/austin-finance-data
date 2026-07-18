@@ -1,0 +1,98 @@
+{
+ "updated": "2026-07-18",
+ "note": "Race metadata for the 2026 Austin City Council cycle. Each entry drives one race view page at /austin/<race_id>/ via race_template.html. Adding a district = add one entry here + run build_race.py --race <race_id>. Candidate stats are on a common 2026-cycle basis (contributions from 2025-01-01 forward) so candidates who have run before are compared on this race only, not lifetime totals.",
+ "races": [
+  {
+   "race_id": "district1",
+   "seat": "District 1",
+   "title": "Austin City Council District 1",
+   "kind": "open",
+   "cycle_start_year": 2025,
+   "data_through": "2026-06-30",
+   "election_date": "2026-11-03",
+   "runoff_date": "2026-12-12",
+   "early_voting": "2026-10-19 to 2026-10-30",
+   "filing_opens": "2026-07-20",
+   "filing_closes": "2026-08-17",
+   "ballot_final": false,
+   "intro": "District 1 is an open seat. Natasha Harper-Madison, who has represented the district since 2019, is not seeking a third term. Austin's two-term limit permits a third term if a member gathers signatures from 5% of registered voters in the district; Harper-Madison declined to pursue that petition. Her term ends January 6, 2027.",
+   "context_note": "Candidate filing runs July 20 - August 17, 2026. Everyone listed here has declared and appointed a campaign treasurer, but filing has not closed. Expect additions, and expect some listed candidates not to complete filing.",
+   "outgoing": {
+    "slug": "harpermadison",
+    "name": "Natasha Harper-Madison",
+    "photo": "au1",
+    "note": "Not seeking a third term",
+    "href": "/austin/harpermadison/"
+   },
+   "candidates": [
+    {
+     "slug": "goodwin",
+     "name": "Amber Goodwin",
+     "recipient": "Goodwin, Amber K.",
+     "photo": null,
+     "website": "https://amberforaustin.com",
+     "bio": "Assistant district attorney in the Travis County DA's office; founder of the Community Justice Action Fund and former chair of Austin's Gun Violence Prevention Task Force.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "ramos",
+     "name": "Misael Ramos",
+     "recipient": "Ramos, Misael D.",
+     "photo": null,
+     "website": "https://misaelforaustin.com",
+     "bio": "Community organizer and affordable-housing development professional; president of the Rogers Washington-Holy Cross Neighborhood Association. Ran for this seat in 2022, finishing second.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "anderson",
+     "name": "Alexandria Anderson",
+     "recipient": "Anderson, Alexandria M.",
+     "photo": null,
+     "website": "https://alexandriaforaustin.com",
+     "bio": "Small-business owner and certified personal trainer; retired Nike-sponsored sprinter and UT graduate; president of the MLK Neighborhood Association.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "stevenbrown",
+     "name": "Steven Brown",
+     "recipient": "Brown, Steven A.",
+     "photo": null,
+     "website": "https://brownforaustind1.com",
+     "bio": "Born and raised in East Austin; clinical specialist for medical-technology firm Medtronic. Formerly a co-chair of the Save Austin Now PAC.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "riggins",
+     "name": "Portia Riggins",
+     "recipient": "Riggins, Portia T.",
+     "photo": null,
+     "website": null,
+     "bio": "Third-generation East Austinite raised near 12th & Airport; background in accounting, finance and administration; finishing an associate's degree at Austin Community College.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": null,
+     "name": "Michael Nahas",
+     "recipient": null,
+     "photo": null,
+     "website": "https://mike4austin.org",
+     "bio": "Computer science and economics background; housing-supply advocate.",
+     "status": "declared",
+     "has_data": false,
+     "placeholder_note": "Filed to run - no campaign finance data on file yet"
+    }
+   ],
+   "omitted": [
+    {
+     "name": "Kyra Rogers",
+     "reason": "Reported as a candidate by a single outlet we could not independently verify. Will be added once confirmed against the City Clerk's treasurer-appointment list."
+    }
+   ]
+  }
+ ]
+}

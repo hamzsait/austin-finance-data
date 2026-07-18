@@ -136,6 +136,30 @@
     .grphead[aria-expanded="false"] .chev{transform:rotate(-90deg)}
     .grpbody.collapsed{display:none}
 
+    /* ── 2026 race cards (link out to a race view page) ── */
+    .racegrid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .racecard{
+      display:flex;flex-direction:column;gap:12px;background:#fff;
+      border:1px solid var(--line);border-radius:12px;padding:18px 20px;
+      text-decoration:none;box-shadow:0 14px 30px -22px rgba(24,49,79,.45);
+      transition:border-color .13s ease,transform .13s ease;
+    }
+    .racecard:hover{border-color:var(--navy);transform:translateY(-2px)}
+    .racetop{display:flex;align-items:center;gap:9px}
+    .raceseat{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:17px;color:var(--navy)}
+    .racetag{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:9.5px;
+      border-radius:5px;padding:2px 7px;background:var(--navy);color:#fff;letter-spacing:.02em}
+    .racetag.pending{background:#fff3d6;color:#8a6410;border:1px solid #f0d089}
+    .racemeta{font-size:12.5px;color:var(--muted);line-height:1.55}
+    .racestats{display:flex;gap:8px;margin-top:2px}
+    .racestat{flex:1;background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:8px 6px;text-align:center}
+    .racestat .rv{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:15px;color:var(--navy);line-height:1.1}
+    .racestat .rk{font-family:'Oswald',sans-serif;font-weight:600;font-size:8.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+    .racego{display:flex;align-items:center;gap:6px;font-family:'Oswald',sans-serif;font-weight:700;
+      font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);margin-top:2px}
+    @media (max-width:1080px){.racegrid{grid-template-columns:repeat(2,1fr)}}
+    @media (max-width:680px){.racegrid{grid-template-columns:1fr}}
+
     /* status badges on card corners */
     .stbadge{position:absolute;top:11px;right:12px;z-index:3;font-family:'Space Grotesk',sans-serif;
       font-weight:700;font-size:10px;border-radius:5px;padding:2px 7px}
@@ -222,6 +246,15 @@
     <svg class="chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>
   </button>
   <div class="cardgrid grpbody" id="gridCounty"></div>
+</section>
+
+<section class="padx grpsec" id="racesSection" style="padding-top:20px;padding-bottom:52px;display:none">
+  <button class="grphead" data-grid="gridRaces" aria-expanded="true">
+    <span class="grptitle">2026 Races</span>
+    <span class="grpsub" id="subRaces"></span>
+    <svg class="chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>
+  </button>
+  <div class="racegrid grpbody" id="gridRaces"></div>
 </section>
 
 <section class="padx" style="padding-bottom:64px">
@@ -388,7 +421,7 @@ fetch('/austin_landing.json')
         name: c.name,
         office: c.seat + ' · ' + (c.status_note || c.race),
         pill: c.raised + ' raised', note: c.donors + ' donors',
-        photo: c.photo, href: '/austin/' + c.slug + '/', topGroups: c.topGroups
+        photo: c.photo, href: c.href || ('/austin/' + c.slug + '/'), topGroups: c.topGroups
       }));
       document.getElementById(def.grid).innerHTML = cards.map(cardHtml).join('');
       const total = members.filter(m => m.status !== 'retired')
@@ -402,6 +435,47 @@ fetch('/austin_landing.json')
     document.getElementById('gridCouncil').innerHTML =
       '<p style="grid-column:1/-1;color:var(--muted);font-size:14px">Couldn’t load candidate data — <a href="/austin/" style="color:var(--accent)">try refreshing</a>.</p>';
   });
+
+/* ══════════ 2026 Races — driven entirely by austin_races.json ══════════
+   Adding District 3/5/8/9 is a pure data change: add a race entry (and build
+   its page with build_race.py) and a card appears here automatically. */
+function raceCardHtml(race, stats){
+  const withData = race.candidates.filter(c => c.slug && stats[c.slug]);
+  const raised = withData.reduce((s, c) => s + stats[c.slug].raised, 0);
+  const donors = withData.reduce((s, c) => s + stats[c.slug].donors, 0);
+  const fmtM = n => n >= 1e6 ? '$' + (n/1e6).toFixed(1) + 'M'
+                  : n >= 1e3 ? '$' + Math.round(n/1e3) + 'K' : '$' + n;
+  const tag = race.ballot_final
+    ? '<span class="racetag">BALLOT SET</span>'
+    : '<span class="racetag pending">FILING OPEN</span>';
+  const kind = race.kind === 'open' ? 'Open seat' : 'Council race';
+  const outgoing = race.outgoing ? ' · ' + esc(race.outgoing.name) + ' not seeking re-election' : '';
+  return '<a class="racecard" href="/austin/' + esc(race.race_id) + '/">'
+    + '<div class="racetop"><span class="raceseat">' + esc(race.seat) + '</span>' + tag + '</div>'
+    + '<div class="racemeta">' + kind + outgoing + '</div>'
+    + '<div class="racestats">'
+    +   '<div class="racestat"><div class="rv">' + race.candidates.length + '</div><div class="rk">Candidates</div></div>'
+    +   '<div class="racestat"><div class="rv">' + fmtM(raised) + '</div><div class="rk">Raised</div></div>'
+    +   '<div class="racestat"><div class="rv">' + donors.toLocaleString() + '</div><div class="rk">Donors</div></div>'
+    + '</div>'
+    + '<div class="racego">See the race'
+    +   '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>'
+    + '</div></a>';
+}
+
+Promise.all([
+  fetch('/austin_races.json').then(r => r.ok ? r.json() : null),
+  fetch('/austin_race_stats.json').then(r => r.ok ? r.json() : {}),
+]).then(([races, stats]) => {
+  if (!races || !races.races || !races.races.length) return;
+  const list = races.races;
+  document.getElementById('gridRaces').innerHTML =
+    list.map(r => raceCardHtml(r, stats || {})).join('');
+  const nCand = list.reduce((s, r) => s + r.candidates.length, 0);
+  document.getElementById('subRaces').textContent =
+    list.length + (list.length === 1 ? ' race · ' : ' races · ') + nCand + ' candidates';
+  document.getElementById('racesSection').style.display = '';
+}).catch(() => { /* races file absent -> section stays hidden */ });
 </script>
 </body>
 </html>

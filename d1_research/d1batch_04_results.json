@@ -1,0 +1,445 @@
+[
+ {
+  "donor_id": "508b5256eb622dcc",
+  "name": "Gagen, Sean",
+  "resolved_employer": "Grassroots SG, LLC (principal) — Democratic/progressive field-organizing and ballot-access consulting firm; adjunct professor, GWU Graduate School of Political Management",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Sean Gagen is the principal of Grassroots SG, LLC, a Virginia-based field-organizing consultancy; the firm bio matches the filing's employer string 'Grassroots,sg,llc' and the Ashburn VA 20147 zip is corroborated by an FEC-derived contribution record listing 'Sean Gagen, GRASSROOTS, SG, LLC, Ashburn VA 20147'. Career: 13 years at Grassroots Solutions, Executive Director of the Missouri Democratic Party (1997-1999), National Director of Organizing for Bill Bradley for President (1999); firm clients include Human Rights Campaign and AFSCME.",
+  "source_url": "https://www.grassrootssg.com/who-we-are",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Grassroots SG, LLC",
+    "role": "Principal / founder",
+    "category": "business",
+    "source_url": "https://www.grassrootssg.com/who-we-are",
+    "snippet": "Sean Gagen is the principal at Grassroots SG, LLC; has worked as an organizer, campaign manager, advocacy strategist, recruiter, executive director and adjunct professor since 1992, and spent 13 years at Grassroots Solutions creating national field plans for clients including the Human Rights Campaign and AFSCME."
+   },
+   {
+    "org": "Missouri Democratic Party",
+    "role": "Executive Director (1997-1999)",
+    "category": "political",
+    "source_url": "https://www.grassrootssg.com/who-we-are",
+    "snippet": "Firm bio lists 'Executive Director, Missouri Democratic Party (1997-1999)' and 'National Director of Organizing for the Bill Bradley for President Campaign (1999)'."
+   }
+  ]
+ },
+ {
+  "donor_id": "510ebfa82ecae46f",
+  "name": "Fontanesi, Michael",
+  "resolved_employer": "AnswersNow (ABA telehealth provider) / self-employed — Board Certified Behavior Analyst (BCBA)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "No public profile could be confirmed for a Michael Fontanesi working as a BCBA in Austin TX 78742; searches of BCBA directories, AnswersNow staff references, FEC records and the Texas lobbyist registry returned no match to this specific person. AnswersNow is a real ABA/behavior-analysis telehealth company that employs BCBAs, so the employer string is plausible, but identity is not independently corroborated. Categorize-by-employer fallback applied: BCBA/behavior-analysis practice classified as Healthcare.",
+  "source_url": "https://www.glassdoor.com/Reviews/AnswersNow-Reviews-E4775668.htm?filter.jobTitleExact=Board+Certified+Behavior+Analyst+%28BCBA%29",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "52f7501927211ca2",
+  "name": "Oldham, Eli",
+  "resolved_employer": "Crunch Fitness — onsite owner/operator (gym); listed on filing as self-employed gym owner",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Best available public match is Elija ('Eli') Oldham, listed on LinkedIn as Onsite Owner at Crunch Fitness in the Austin, TX metropolitan area, a University of Texas at Austin alum — consistent with the filing's occupation 'Gym owner' and employer 'Self'. The specific 78702 address could not be independently confirmed, so identity is medium confidence. No FEC PAC records, lobbyist registration, or advocacy-organization roles found; his 17 federal donations appear to be ordinary small-dollar candidate/committee giving with no issue-PAC ties surfaced in public records.",
+  "source_url": "https://www.linkedin.com/in/elija-oldham-955866149/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "55fa616837366ea7",
+  "name": "Rodman, Megan",
+  "resolved_employer": "Bluebird Strategy Group (owner) — Dallas-based Democratic political and nonprofit fundraising consultancy; previously operated as Megan Rodman Strategies / MRM & Co.",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Megan Rodman (Megan Rodman McGilberry) is a Dallas-based political and nonprofit fundraising consultant whose published client list includes Sen. Kirsten Gillibrand, Rep. Colin Allred and Rep. Marc Veasey; she appears in Texas campaign-finance payee records as 'Megan Rodman Strategies' and 'Megan Rodman McGilberry (Consult)'. 'Bluebird Strategy Group' also appears as a Texas campaign-finance payee, consistent with the filing's employer string and her occupation 'Owner', though the direct Rodman-to-Bluebird ownership link is not documented in a source I could retrieve — hence medium confidence. Dallas 75206 and a heavily Democratic federal giving history (44 donations) corroborate the identity.",
+  "source_url": "https://www.linkedin.com/in/megan-rodman-mcgilberry-54348b10/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Democratic campaign / nonprofit fundraising consultancy (Megan Rodman Strategies / MRM & Co. / Bluebird Strategy Group)",
+    "role": "Owner / principal fundraising consultant",
+    "category": "political",
+    "source_url": "https://www.linkedin.com/in/megan-rodman-mcgilberry-54348b10/",
+    "snippet": "Profile describes providing non-profit, political and campaign fundraising strategy and implementation — event, major donor, online, direct mail and volunteer fundraising — for clients including Senator Kirsten Gillibrand, Congressman Colin Allred and Congressman Marc Veasey."
+   },
+   {
+    "org": "Bluebird Strategy Group",
+    "role": "Listed Texas campaign-finance payee matching donor's stated employer",
+    "category": "business",
+    "source_url": "https://www.transparencyusa.org/tx/payee/5819022/payments",
+    "snippet": "Transparency USA lists 'Bluebird Strategy Group' as a Texas campaign-finance payee receiving payments from Texas political committees/candidates."
+   }
+  ]
+ },
+ {
+  "donor_id": "5748388b8cbd396e",
+  "name": "YOKUBAITIS, R B",
+  "resolved_employer": "Data Foundry / Golden Frog / Giganews / Texas.net — co-founder and co-CEO (retired); previously practiced law in Houston and Austin",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Ronald B. Yokubaitis, Austin TX 78746 — FEC records list him at Austin, TX 78746 with employer 'Data Foundry', occupation 'Founder', matching the donor zip exactly; State Bar of Texas lists Ronald B. Yokubaitis at a Bee Caves Rd address in 78746. He and wife Carolyn co-founded Texas.net (1994, one of the first 50 US ISPs), Giganews, Data Foundry and Golden Frog (VyprVPN). Now 82 and listed as RETIRED on the D1 filing, consistent with the post-sale exit from Data Foundry.",
+  "source_url": "https://www.datafoundry.com/meet-founders-ron-carolyn-yokubaitis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "i2Coalition (Internet Infrastructure Coalition)",
+    "role": "Recipient of the first Internet Community Leadership Award, later named the 'Ron Yokubaitis Internet Community Leadership Award'; internet-privacy and open-internet advocate",
+    "category": "civic",
+    "source_url": "https://i2coalition.com/i2coalition-awards-david-snead-the-2020-ron-yokubaitis-internet-community-leadership-award/",
+    "snippet": "i2Coalition's Internet Community Leadership Award is named for Ron Yokubaitis, recognized for 'noteworthy advocacy for Internet privacy and open Internet legislation over the past decade.'"
+   },
+   {
+    "org": "Open-internet / ISP-encryption policy advocacy (public press conference with Sen. Ted Cruz)",
+    "role": "Speaker, as Golden Frog co-CEO, at Sen. Ted Cruz's open-internet press conference",
+    "category": "political",
+    "source_url": "https://www.vyprvpn.com/blog/post/golden-frog-co-ceo-ron-yokubaitis-speak-senator-ted-cruzs-open-internet-press-conference",
+    "snippet": "Golden Frog Co-CEO Ron Yokubaitis was announced as a speaker at Senator Ted Cruz's open-internet press conference, addressing the FCC's role in preventing ISPs from blocking encryption technologies."
+   }
+  ]
+ },
+ {
+  "donor_id": "5980d1085ef789a0",
+  "name": "Stansbury, Brian",
+  "resolved_employer": "Hunton Andrews Kurth LLP — Partner, Environmental team (Washington DC / Houston); previously Deputy General Counsel, US DOT and Chief Counsel, FMCSA; previously Partner, King & Spalding LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Brian T. Stansbury, partner in Hunton Andrews Kurth's Environmental practice, matches the filing's employer 'Hunton' and occupation 'Attorney'; prior FEC records list 'Brian Stansbury', Arlington VA 22201, Attorney, King & Spalding LLP — the same zip as the D1 donation, and King & Spalding is his documented prior firm. UVA Law JD, UT Austin BA (Government/History), which is consistent with giving to an Austin municipal race.",
+  "source_url": "https://www.hunton.com/people/brian-stansbury",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Voto Latino",
+    "role": "Former Board Member and Treasurer",
+    "category": "civic",
+    "source_url": "https://www.hunton.com/people/brian-stansbury",
+    "snippet": "Firm bio lists board experience: 'Former Board Member and Treasurer, Voto Latino' — a Latino voter-registration and civic-engagement organization."
+   },
+   {
+    "org": "School for Ethics and Global Leadership",
+    "role": "Former member, Board of Trustees",
+    "category": "civic",
+    "source_url": "https://www.hunton.com/people/brian-stansbury",
+    "snippet": "Firm bio lists 'Former Board of Trustees Member, School for Ethics and Global Leadership.'"
+   },
+   {
+    "org": "Democratic federal candidates and committees (Castro for Congress, Biden for President, People First Future, ActBlue, King & Spalding Nonpartisan Committee)",
+    "role": "Individual donor",
+    "category": "political",
+    "source_url": "https://www.campaignmoney.com/political/contributions/brian-stansbury.asp",
+    "snippet": "FEC-derived records show 16 contributions totaling $8,798 in the 2020 cycle from Brian Stansbury, Arlington VA 22201, Attorney, King & Spalding LLP — including Castro for Congress, Biden for President, People First Future and ActBlue."
+   }
+  ]
+ },
+ {
+  "donor_id": "5aeb4cbfe763eeb0",
+  "name": "Aberly, Naomi",
+  "resolved_employer": "Not employed — full-time political donor, fundraiser and nonprofit board member; former Board Chair, Planned Parenthood Federation of America",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Naomi Aberly of Boston, MA — FEC-derived donor records list her at Boston MA 02114 (and previously Dallas TX 75229) with employer/occupation 'Not Employed,' matching the D1 filing's zip and occupation exactly. She is a major Democratic donor and fundraiser: co-founder of Annie's List (2003) and Battleground Texas (2013), Board Chair of Planned Parenthood Federation of America 2017–2019, and spouse of hedge fund manager Larry Lebowitz; the Lebowitz-Aberly Family Foundation reported ~$54.7M in assets.",
+  "source_url": "https://www.influencewatch.org/person/naomi-aberly/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Planned Parenthood Federation of America / Planned Parenthood Votes",
+    "role": "Board Chair 2017–2019; co-chair of the $250M Second Century Campaign; donor of $775,000 to Planned Parenthood Votes since 2017",
+    "category": "political",
+    "source_url": "https://www.influencewatch.org/person/naomi-aberly/",
+    "snippet": "Aberly chaired the board of Planned Parenthood Federation of America and has donated $775,000 to Planned Parenthood Votes since 2017."
+   },
+   {
+    "org": "Giffords PAC",
+    "role": "Individual donor",
+    "category": "gun_control",
+    "source_url": "https://www.influencewatch.org/person/naomi-aberly/",
+    "snippet": "Her contributions since 2017 include donations to Giffords PAC, a PAC that works to elect supporters of gun-control legislation to Congress."
+   },
+   {
+    "org": "ACLU Foundation of Massachusetts",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.aclum.org/en/news/aclu-massachusetts-announces-new-board-leadership-2021",
+    "snippet": "Aberly is listed among ACLU of Massachusetts board leadership; she also serves on the boards of the Texas Future Project, the Fairness Project and the Voter Formation Project."
+   },
+   {
+    "org": "Annie's List and Battleground Texas",
+    "role": "Founding member (Annie's List, 2003); co-founder (Battleground Texas, 2013); co-chair of Wendy Davis's 2014 Texas gubernatorial campaign",
+    "category": "political",
+    "source_url": "https://www.influencewatch.org/person/naomi-aberly/",
+    "snippet": "She helped found Annie's List in 2003 and co-founded Battleground Texas in 2013, and co-chaired Wendy Davis's 2014 gubernatorial campaign."
+   },
+   {
+    "org": "Democratic National Committee / Obama for America",
+    "role": "Former DNC Vice Chair; National Finance Council member for Obama for America in 2008 and 2012",
+    "category": "political",
+    "source_url": "https://www.influencewatch.org/person/naomi-aberly/",
+    "snippet": "Aberly served as a Vice Chair of the Democratic National Committee and on the National Finance Council for Obama for America in both 2008 and 2012."
+   }
+  ]
+ },
+ {
+  "donor_id": "5cab27c353b38dd9",
+  "name": "Pruzina, Rachel",
+  "resolved_employer": "Aurora St. Luke's Medical Center, Milwaukee WI — Nurse (per the campaign filing's self-reported employer/occupation; not independently corroborated)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "No independent public profile found. Searches of news, professional directories, Wisconsin nursing license/provider directories, FEC-derived donor databases and the Texas lobbyist registry returned no record matching a Rachel Pruzina in Milwaukee 53225. Industry assigned by the categorize-by-employer fallback from the filing's own employer field (Aurora St. Luke's Medical Center, a Milwaukee hospital operated by Aurora Health Care / Advocate Health) and occupation 'Nurse'. Identity not corroborated beyond the filing itself.",
+  "source_url": "https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d08401f39189996",
+  "name": "BURTON, JOHN T.",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific person. The only zip-matching lead is a scraped real-estate lead-gen directory listing a 'John T. Burton, Jr.' of Burton Company at 5111 Concho Creek Bend, Austin, TX 78735 (Travis County) — exact zip match to the donor's 78735, but the filing lists occupation RETIRED with no employer, and no independent source (TREC license search, firm site, news) corroborates that this agent is the donor. Two other Austin John Burtons were checked and excluded: a State Bar of Texas attorney John T. Burton (bar #03479070) who practiced in Tyler and is listed as deceased, and a John Burton (1927-2016) who retired from GMAC in Austin in 1989. Per instructions, no industry guessed where identity is unconfirmed.",
+  "source_url": "https://agent-tx.org/list/john-t-burton-jr--burton-company--austin-tx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "62baa65d4a328b8d",
+  "name": "Tran, Vinh",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common name; identity not confirmed. The closest public candidate is Vinh M. Tran, an immigration/personal-injury/family-law attorney who owns the Law Office of Vinh M. Tran, P.C. in North Austin and whose firm bio states he lives in Round Rock, Texas with his wife Jenny and three children (UT B.S. Finance 1990, UT School of Law J.D. 1994). However, the firm bio does not state a zip, and the campaign filing lists occupation 'None' with no employer, which contradicts an actively practicing attorney. Multiple other Vinh Trans exist in Texas (including an Axiom Space employee and a UNM medical affiliate). Without a zip or occupation match, the specific donor cannot be identified and no industry is assigned.",
+  "source_url": "https://www.vinhtranlegal.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "65ddd9cf717fabf0",
+  "name": "Liu, Yiting",
+  "resolved_employer": "Agave Consulting, LLC (founder/owner); also IT Director of Applications and Data, Texas McCombs School of Business, UT Austin",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Yiting Liu of Austin, TX is listed on her LinkedIn profile as Founder of Agave Consulting, LLC (since January 2006) — an exact match to the filing's employer 'Agave Consulting LLC' and occupation 'Owner'. Her concurrent day job is IT Director of Applications and Data at UT Austin's McCombs School of Business; earlier she was lead architect on tax-system modernization at the Texas Comptroller of Public Accounts and led modernization work for the Office of the Attorney General. M.S. Computer Science, Texas A&M University-Kingsville. Zip 78759 (northwest Austin) is consistent with a UT Austin staff member. Full bio read found no policy-advocacy roles.",
+  "source_url": "https://www.linkedin.com/in/yiting-liu-austin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Toastmasters International, District 55 (Central and South Texas)",
+    "role": "District Director / Program Quality Director; Distinguished Toastmaster",
+    "category": "civic",
+    "source_url": "https://www.tmd55.org/post/our-program-quality-director-yiting-lui-recognized-as-an-asian-leader",
+    "snippet": "Profiled as Program Quality Director of District 55 Toastmasters and the first Asian American elected District 55 Director for Central and South Texas; a nonprofit communication/leadership organization with no policy-advocacy component."
+   }
+  ]
+ },
+ {
+  "donor_id": "68305c3f92668401",
+  "name": "Lorenz, Perry",
+  "resolved_employer": "Self-employed downtown Austin real-estate developer (office at 1311-A E. Sixth St., Austin 78702); advisor/consultant to Mitchell Family Corp, the Mitchell family office",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Perry Lorenz is a 50-year Austin resident who has worked primarily as a principal in the purchase, sale, development and management of downtown Austin real estate since 1977, forming and serving as managing general partner of numerous downtown development partnerships. With partners he has developed 1,000+ condominium units in mixed-use projects including Spring, BartonPlace, Este, The Pedernales, Saltillo Lofts and The Independent, and controlled full city blocks where several of downtown Austin's tallest towers now stand (including the site of the 1,022-ft Waterline). His Austin Chamber listing (Real Estate - Commercial, 1311-A E. Sixth St.) matches the East Austin office described in coverage of the Mitchell family. Zip 78703 (Old West Austin/Clarksville) is consistent. The filing's employer 'Mitchell Family Corp' is corroborated: Lorenz is the husband of Sheridan Mitchell Lorenz, daughter of the late Texas oil and gas billionaire George P. Mitchell, and father of Katherine Lorenz, president of the Cynthia and George Mitchell Foundation; Mitchell Family Corp is the family's Austin/The Woodlands family office. Note: Mitchell Family Corp is a family office and philanthropic-support entity, not an operating oil & gas company (Mitchell Energy & Development was sold to Devon Energy in 2002), so no oil_gas flag is asserted for Lorenz himself.",
+  "source_url": "https://www.bgmediagp.com/bgpodcast/episode75-perrylorenz-austin-realestate",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Design Commission",
+    "role": "Former longtime member and past chairman",
+    "category": "civic",
+    "source_url": "https://finance.yahoo.com/news/one-austin-developers-true-tall-144013354.html",
+    "snippet": "Described as a former longtime member, and past chairman, of the city of Austin's Design Commission; also listed among Design Commission members during drafting of the city's Downtown Design Guidelines and Urban Design Guidelines."
+   },
+   {
+    "org": "City of Austin Downtown Commission",
+    "role": "Former longtime member and past chairman",
+    "category": "civic",
+    "source_url": "https://finance.yahoo.com/news/one-austin-developers-true-tall-144013354.html",
+    "snippet": "Described as a former longtime member, and past chairman, of the city of Austin's Downtown Commission."
+   },
+   {
+    "org": "Mitchell Family Corp (Mitchell family office)",
+    "role": "Advisor/consultant (per campaign filing); married to Sheridan Mitchell Lorenz, daughter of George P. Mitchell",
+    "category": "business",
+    "source_url": "https://www.insidephilanthropy.com/home/2014-6-27-heres-where-katherine-lorenz-got-the-idea-of-saving-the-worl-html",
+    "snippet": "Coverage of the Mitchell philanthropic family notes Sheridan Mitchell Lorenz's husband Perry maintained his real estate office in then-down-at-heels East Austin; Sheridan is the daughter of George and Cynthia Mitchell and their daughter Katherine Lorenz leads the Cynthia and George Mitchell Foundation."
+   },
+   {
+    "org": "Austin Chamber of Commerce",
+    "role": "Member, Real Estate - Commercial directory listing",
+    "category": "business",
+    "source_url": "https://www.austinchamber.com/directory/perry-lorenz",
+    "snippet": "Listed in the Austin Chamber of Commerce member directory under Real Estate & Construction / Real Estate - Commercial at 1311-A E. Sixth St., Austin, TX 78702."
+   }
+  ]
+ },
+ {
+  "donor_id": "68ec63e41922edd8",
+  "name": "Xie, Selena",
+  "resolved_employer": "Austin-Travis County EMS (ATCEMS) — paramedic/EMS Commander and ICU nurse; President of the Austin EMS Association (labor union) 2019-2025",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Matches the well-documented Selena Xie, an ATCEMS paramedic who served six years as President of the Austin EMS Association, the union representing 500+ Austin paramedics, and who negotiated three City of Austin labor contracts. Occupation 'Paramedic' and employer 'ATCEMS' in the filing match her public record exactly; a Texas Ethics Commission campaign finance filing separately lists her as 'Xie, Selena — Paramedic, ATCEMS.' She is herself a 2026 candidate for Austin City Council District 8, so a fuller public record legitimately exists. Classified as Labor rather than Government because her policy-relevant public role is union leadership.",
+  "source_url": "https://selenaforaustin.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin EMS Association",
+    "role": "President (approx. 2019-2025)",
+    "category": "civic",
+    "source_url": "https://selenaforaustin.com/",
+    "snippet": "Served as President of the Austin EMS Association for six years, representing more than 500 paramedics and leading them through the COVID-19 pandemic, Winter Storm Uri, and the opioid crisis; negotiated three contracts with the City of Austin."
+   },
+   {
+    "org": "Austin City Council District 8 campaign (2026)",
+    "role": "Candidate",
+    "category": "political",
+    "source_url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-paige-ellis-reelection-ems-union-president-selena-xie-challenge/269-3baf2a30-4fc4-4f59-851f-70a19d78eced",
+    "snippet": "Former Austin EMS Association president Selena Xie announced a campaign for Austin City Council District 8, challenging incumbent Paige Ellis in the November 3, 2026 election."
+   }
+  ]
+ },
+ {
+  "donor_id": "6c13f12490a18fd7",
+  "name": "Brown, Andy",
+  "resolved_employer": "Travis County — County Judge (elected, sworn in November 17, 2020); attorney",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as Andrew Steven Brown, Travis County Judge, who presides over the Commissioners Court and serves as the county's chief administrator and Director of Emergency Management. The filing's occupation 'County Judge' and employer 'Travis County' match exactly, and the zip 78701 matches his official downtown office address at 700 Lavaca St., Austin, TX 78701. An elected public official, so an extensive public record legitimately exists.",
+  "source_url": "https://www.traviscountytx.gov/commissioners-court/county-judge/andy-brown-bio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Commissioners Court",
+    "role": "County Judge (presiding officer), 2020-present",
+    "category": "political",
+    "source_url": "https://www.traviscountytx.gov/commissioners-court/county-judge/andy-brown-bio",
+    "snippet": "Presides over the Commissioners Court overseeing the County's $2 billion annual budget; serves as chief administrator and Director of Emergency Management."
+   },
+   {
+    "org": "Travis County Democratic Party",
+    "role": "Chair (2008-2013)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)",
+    "snippet": "Served as Travis County Democratic Party Chair from 2008 to 2013; a member of the Democratic Party."
+   },
+   {
+    "org": "Beto O'Rourke U.S. Senate and presidential campaigns",
+    "role": "Finance Director and Senior Advisor",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)",
+    "snippet": "Was Finance Director and Senior Advisor to U.S. Senate and presidential candidate Beto O'Rourke; earlier managed Congressman Lloyd Doggett's campaign."
+   },
+   {
+    "org": "Sobering Center-Austin",
+    "role": "Helped create / founding involvement",
+    "category": "civic",
+    "source_url": "https://www.traviscountytx.gov/commissioners-court/county-judge/andy-brown-bio",
+    "snippet": "Before his current position, Judge Brown helped establish the Sobering Center-Austin."
+   }
+  ]
+ },
+ {
+  "donor_id": "6c907f08d9ec992b",
+  "name": "Kirk , Franceschini",
+  "resolved_employer": "Hi Tech Motorcars (filed as 'Hi Tech Motors') — Chief Operating Officer",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Name appears reversed in the filing; the person is Kirk Franceschini, Chief Operating Officer of Hi Tech Motorcars, Austin's largest luxury car dealer group (Audi, Porsche, Bentley, Rolls-Royce, Aston Martin, Maserati, Lotus), headquartered at 12989 Research Blvd., Austin. The filing's occupation 'New Car Dealer' and employer 'Hi Tech Motors' align with this role. Confidence is medium because the COO title and employer are well documented but the 78701 (downtown Austin) residential zip could not be independently corroborated to this individual.",
+  "source_url": "https://communityimpact.com/austin/northwest-austin/business/2021/11/16/audi-dealership-coming-to-north-austin-in-fall-2022/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Hi Tech Motorcars",
+    "role": "Chief Operating Officer",
+    "category": "business",
+    "source_url": "https://communityimpact.com/austin/northwest-austin/business/2021/11/16/audi-dealership-coming-to-north-austin-in-fall-2022/",
+    "snippet": "Kirk Franceschini, chief operating officer of Hi Tech Motorcars, on the new Audi dealership: 'It's a whole new concept in retail automotive marketing.' Hi Tech Motorcars is Austin's largest luxury car dealer group, established 2016, representing seven premium brands across Central and South Texas."
+   }
+  ]
+ },
+ {
+  "donor_id": "6d9b6e55736d2353",
+  "name": "Del Bianco, Tracy",
+  "resolved_employer": "Future Forward USA Action — Chief of Staff",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed via Future Forward USA Action's IRS Form 990 (EIN 82-4170762) as reported in ProPublica's Nonprofit Explorer, which lists Tracy Del Bianco as Chief of Staff with $365,000 in reported compensation plus $6,900 in other benefits, alongside president Chauncey McLean, treasurer Gaurav Shirole, COO Katie Melin, and secretary Jon Fromowitz. The filing's occupation 'Chief of Staff' and employer 'Future Forward USA Action' match exactly, and the Washington, DC zip 20016 is consistent with the organization's DC base. Future Forward is a major Democratic-aligned super PAC / 501(c)(4) network.",
+  "source_url": "https://projects.propublica.org/nonprofits/organizations/824170762",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Future Forward USA Action",
+    "role": "Chief of Staff",
+    "category": "political",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/824170762",
+    "snippet": "IRS Form 990 key-employee listing: Tracy Del Bianco, Chief of Staff, $365,000 compensation plus $6,900 other benefits, at Future Forward USA Action (EIN 82-4170762), the 501(c)(4) affiliated with the Democratic-aligned Future Forward super PAC network led by Chauncey McLean."
+   }
+  ]
+ },
+ {
+  "donor_id": "6fa84413e3a91a19",
+  "name": "Perez, Michael",
+  "resolved_employer": "Dell Medical School, UT Austin — Clinical Assistant Professor of Pediatrics; pediatric cardiologist at Dell Children's Medical Center / Texas Center for Pediatric and Congenital Heart Disease",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'Physician' / employer 'UT Dell Med' matches Michael Perez, MD, a board-certified pediatric cardiologist and Clinical Assistant Professor of Pediatrics at Dell Medical School who practices at Dell Children's (4910 Mueller Blvd, Austin) and is Co-Director of Preventive Cardiology there. Occupation and employer corroborate; the residential zip 78731 could not be independently confirmed and 'Michael Perez' is a very common name, so the specific-person match is probable rather than certain.",
+  "source_url": "https://www.doximity.com/pub/michael-perez-md-2d9d3573",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "719de3127e8e7e28",
+  "name": "Lorfing, Jessica",
+  "resolved_employer": "Keith & Lorfing, PLLC (Abilene, TX criminal-defense and personal-injury law firm) — manager; spouse of founding/managing partner Russell Lorfing",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Donor reports employer 'Keith & Lorfing' with occupation 'Manager' in Abilene (79602). Keith & Lorfing, PLLC is an Abilene criminal-defense/personal-injury firm at 265 S Leggett Dr; the firm's own attorney bio page states that founding partner Russell Lorfing 'is married to Jessica Lorfing.' She does not appear on the firm's published attorney/staff roster, consistent with a non-public management role.",
+  "source_url": "https://lorfinglaw.com/meet-the-team/russell-lorfing/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Keith & Lorfing, PLLC",
+    "role": "Manager; spouse of founding/managing partner Russell Lorfing",
+    "category": "business",
+    "source_url": "https://lorfinglaw.com/meet-the-team/russell-lorfing/",
+    "snippet": "Firm bio for founding partner Russell Lorfing: \"Russell is married to Jessica Lorfing, his beautiful wife, and he is the proud father to three amazing boys.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "7337784a5b343ec0",
+  "name": "Powers, Andre",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports 'Not Employed' at a Brooklyn, NY 11217 (Boerum Hill/Park Slope) address. No public profile could be matched to this specific person: searches surfaced only unrelated individuals (a Los Angeles-based DJ/producer 'Andre Power', an 'Andre M. Powers' in New York with a Capital One / New School background whose employment status contradicts the filing). Zip, occupation, and donation pattern could not be corroborated against any public profile, so no identification is asserted; industry reflects only the self-reported employment status on the disclosure.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "735b5b09c754fe02",
+  "name": "YOKUBAITIS, C M",
+  "resolved_employer": "Data Foundry / Golden Frog / Giganews / Texas.Net — co-founder and co-CEO (retired; Data Foundry sold to Switch Inc. in 2021)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "'C M Yokubaitis' at zip 78746 is Carolyn M. Yokubaitis of Austin, who with her husband Ron Yokubaitis co-founded Texas.Net (one of the first 50 U.S. ISPs, 1994), Giganews, Golden Frog (VyprVPN) and the Austin data-center company Data Foundry, where she served as co-CEO. Federal contribution records list the identical contributor string 'C M YOKUBAITIS' at zip 78746 with employer/occupation 'DATA FOUNDRY/CEO', matching this donor's name and zip exactly; 'RETIRED' on the current filing is consistent with Data Foundry's 2021 sale to Switch. The second Yokubaitis donor at the same zip in this batch is the household match (Ron Yokubaitis, same 78746 address).",
+  "source_url": "https://www.datafoundry.com/meet-founders-ron-carolyn-yokubaitis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Data Foundry / Golden Frog / Giganews / Texas.Net",
+    "role": "Co-founder and co-CEO (retired)",
+    "category": "business",
+    "source_url": "https://www.datafoundry.com/meet-founders-ron-carolyn-yokubaitis/",
+    "snippet": "Data Foundry's founders page: Carolyn co-founded Texas.Net with her husband Ron, \"one of the first 50 Internet service providers (ISPs) in the United States,\" and the couple later established Giganews and Golden Frog, which operates the VyprVPN service, before building Data Foundry's Austin data centers."
+   },
+   {
+    "org": "Republican federal candidate committees",
+    "role": "Individual donor",
+    "category": "political",
+    "source_url": "https://www.city-data.com/elec2/10/elec-AUSTIN-TX-10-part4.html",
+    "snippet": "FEC individual-contribution data mirrored by city-data lists \"C M YOKUBAITIS\" (zip 78746, DATA FOUNDRY/CEO) giving $500 to the Cornyn Majority Committee on 04/21/2010, and \"R YOKUBAITIS\" (same zip, SELF-EMPLOYED/INTERNET TECH) giving $1,000 to Scott Brown for US Senate on 01/10/2010."
+   }
+  ]
+ }
+]

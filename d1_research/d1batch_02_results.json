@@ -1,0 +1,529 @@
+[
+  {
+    "donor_id": "1163eef720a8e1ee",
+    "name": "Dorsey, Zenette",
+    "resolved_employer": "Remarcable (construction-procurement software); previously Manager, Strategic Product Consulting at Procore Technologies",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Zenette Dorsey is an Austin construction-software professional and Democratic civic activist. Austin Monitor (2019) places her in Austin City Council District 5 (which covers much of zip 78745) working as a strategic product consultant at Procore Technologies; her filed occupation 'Consultant' at Remarcable, another construction-procurement software firm, is a direct career continuation. The Monitor also reports she was 'an active presence in Dallas-area Democratic and political organizations prior to relocating to Austin,' consistent with the 37 FEC donations and 1.0 Democratic partisan lean in this record.",
+    "source_url": "https://www.austinmonitor.com/stories/2019/01/political-accelerator-ready-for-next-class-of-future-council-hopefuls/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "The ATXelerator / Center for Austin's Future",
+        "role": "Graduate, inaugural ATXelerator class",
+        "category": "civic",
+        "source_url": "https://www.austinmonitor.com/stories/2019/01/political-accelerator-ready-for-next-class-of-future-council-hopefuls/",
+        "snippet": "Dorsey is a graduate of the Center for Austin's Future's first ATXelerator class, one of 25 potential future elected officials or activists the group is cultivating; she 'has made inquiries into serving on various city boards and commissions' and hopes to run for office."
+      }
+    ]
+  },
+  {
+    "donor_id": "1293b74e1a045f14",
+    "name": "Buckner, Kam",
+    "resolved_employer": "OUTFRONT Media — Vice President of Governmental Affairs (since 2015); concurrently Illinois State Representative, 26th District (Speaker pro tempore)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Corroborated as Kambium Elijah 'Kam' Buckner, Democratic member of the Illinois House from the 26th District. Three independent points match the filing: the reported employer/title (fields swapped) matches his documented role as VP of governmental affairs at OUTFRONT Media since 2015, and zip 60653 is Bronzeville, a neighborhood explicitly within his 26th District. He is a public official, not a private individual; only his publicly documented roles are recorded here. No Texas lobbyist registration found (he is an Illinois official); no federal PAC contributions surfaced — his FEC-adjacent footprint is as a recipient of state campaign funds, not an ideological PAC donor.",
+    "source_url": "https://en.wikipedia.org/wiki/Kam_Buckner",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Illinois House of Representatives (26th District)",
+        "role": "State Representative; Speaker pro tempore (since Jan 2025); past chair, Illinois House Black Caucus; former Assistant Majority Leader",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Kam_Buckner",
+        "snippet": "Appointed to the Illinois House January 18, 2019; elected Illinois House Black Caucus chairman in December 2020; assumed the office of Speaker pro tempore on January 10, 2025."
+      },
+      {
+        "org": "OUTFRONT Media",
+        "role": "Vice President of Governmental Affairs",
+        "category": "business",
+        "source_url": "https://en.wikipedia.org/wiki/Kam_Buckner",
+        "snippet": "Vice president of governmental affairs for Outfront Media (an outdoor-advertising company) since 2015; previously government relations director for the Chicago Cubs and an aide to Sen. Dick Durbin."
+      },
+      {
+        "org": "Illinois assault weapons ban (Protect Illinois Communities Act) — legislative support",
+        "role": "Supporting state legislator / public advocate for the ban",
+        "category": "gun_control",
+        "source_url": "https://www.illinois26.com/post/rep-buckner-responds-to-7th-circuit-court-decision-to-uphold-assault-weapons-ban",
+        "snippet": "On his official legislative site, Rep. Buckner states he was proud to help enshrine Illinois' assault weapons ban into law and responded in support of the Seventh Circuit decision upholding it. (Chief sponsor of the bill was Rep. Bob Morgan, not Buckner.)"
+      },
+      {
+        "org": "Chicago State University",
+        "role": "Member, Board of Trustees (2017-2023)",
+        "category": "civic",
+        "source_url": "https://en.wikipedia.org/wiki/Kam_Buckner",
+        "snippet": "Board of Trustees member for Chicago State University, 2017-2023; also an instructor at the University of Chicago."
+      }
+    ]
+  },
+  {
+    "donor_id": "15884783d7222bb4",
+    "name": "Smith, Gregory",
+    "resolved_employer": "Austin Revitalization Authority — President & CEO (since 2009)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Gregory L. Smith is President & CEO of the Austin Revitalization Authority, the East Austin 501(c)(3) community development corporation that served as lead developer for the East 11th and 12th Street Redevelopment Program; his zip 78724 is East Austin, consistent with the organization's service area. ProPublica's IRS Form 990 data independently lists 'Gregory Smith, President' with FY2024 compensation of $213,622 on ~$1.06M total revenue. A lifelong Austinite, he previously spent roughly 18 years managing community development programs for the City of Austin's Neighborhood Housing and Community Development Department. Note: although classified Nonprofit / Advocacy, ARA's core activity is real-estate redevelopment in a corridor subject to active City land-use decisions, which is relevant context for a District 1 council donation.",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/742781623",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Revitalization Authority",
+        "role": "President & CEO (since 2009)",
+        "category": "civic",
+        "source_url": "https://projects.propublica.org/nonprofits/organizations/742781623",
+        "snippet": "IRS Form 990 data lists Gregory Smith as President of the Austin Revitalization Authority, a 501(c)(3) classified under 'Community Improvement, Capacity Building / Urban, Community Economic Development,' with FY2024 compensation of $213,622 plus $32,988 other benefits."
+      },
+      {
+        "org": "East 11th and 12th Street Redevelopment Program",
+        "role": "Lead developer (via ARA); previously implemented the program as a City of Austin staffer",
+        "category": "business",
+        "source_url": "https://austinmonitor.com/stories/2017/02/east-11th-12th-streets-two-different-tales-revitalization/",
+        "snippet": "When the city adopted the redevelopment plan in 1999 it signed an agreement with the Urban Renewal Board and the Austin Revitalization Authority, which served as lead developer; the ARA-city partnership was dissolved in 2010 and ARA now operates as a private nonprofit."
+      }
+    ]
+  },
+  {
+    "donor_id": "1890b2426a92fc80",
+    "name": "Samson, Joi",
+    "resolved_employer": "Pediatrix Neonatology of Tennessee (Pediatrix Medical Group) — neonatologist",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Resolved to Dr. Autumn Joi Goodwin-Samson, M.D., board-certified in Pediatrics and Neonatal-Perinatal Medicine, practicing with Pediatrix Neonatology of Tennessee at Methodist Le Bonheur Germantown Hospital. Her practice address, 7691 Poplar Ave, Germantown TN, carries zip 38138 — an exact match to the filing's zip — and the filed 'Doctor' / 'Pedatrix' fields match her specialty and employer. Howard University College of Medicine (2004), pediatrics residency at UT Health Science Center (2007), neonatal-perinatal fellowship at UT Health Science Center (2010). Employer-fallback classification: all three mandatory searches were run and returned no federal PAC giving, no Texas lobbyist registration, and no board seats or policy-advocacy roles on her full professional profile.",
+    "source_url": "https://www.pediatrix.com/find-care/doctors/goodwin-samson-joi-1407078710",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1b764c7bff452667",
+    "name": "Templeton, Laura",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Filing lists occupation RETIRED at Austin zip 78735; no public bio, LinkedIn, obituary, board roster, or news coverage ties a Laura Templeton in 78735 to an identifiable former career. A 'Templeton, Laura (RETIRED)' appears in 2020 federal contribution records giving $75 to WinRed, but at zip 78731 and to a Republican conduit, which conflicts with this donor's zip and with a $500 gift to a Democratic-leaning D1 candidate — treated as a different person and NOT attributed. Former career could not be established, so no industry beyond the retired/not-employed fallback.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part329.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1c283d461546a1d4",
+    "name": "Lafford, Devin",
+    "resolved_employer": "Arm Ltd — Senior CPU Performance Engineer, Austin office",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Devin Lafford is a Senior CPU Performance Engineer at Arm in Austin; UW-Madison computer/electrical engineering graduate (MS 2019-2020) who interned at Arm's Austin office and relocated there, with patents assigned to Arm Limited. Employer 'Arm', occupation 'Engineer' and Austin location all corroborate the filing.",
+    "source_url": "https://engineering.wisc.edu/news/ece-student-devin-lafford-gets-hands-hardware/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1c75097829bd107b",
+    "name": "Persad, Xavier",
+    "resolved_employer": "American Civil Liberties Union (ACLU) — Senior Policy Counsel, National Political Advocacy Department",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as the ACLU senior policy counsel: Xavier Persad is a civil rights attorney (JD, Florida A&M College of Law; LLM in human rights law, LSE; Florida Bar) who joined the ACLU's National Political Advocacy Department in November 2022 working on voting rights and democracy, after serving at the Human Rights Campaign as Legislative Counsel and Senior Legislative Counsel (2014-2021). His LinkedIn lists him as Los Angeles-based and a Los Angeles CA attorney listing exists, corroborating the 90046 zip alongside the filing's 'Lawyer'/'ACLU' occupation and employer.",
+    "source_url": "https://www.aclu.org/bios/xavier-persad",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "American Civil Liberties Union (ACLU)",
+        "role": "Senior Policy Counsel, National Political Advocacy Department (since Nov 2022)",
+        "category": "civic",
+        "source_url": "https://www.aclu.org/bios/xavier-persad",
+        "snippet": "Xavier Persad is a senior policy counsel at the ACLU, where he focuses on advancing voting rights and protecting democracy."
+      },
+      {
+        "org": "Human Rights Campaign (HRC)",
+        "role": "Legislative Counsel, then Senior Legislative Counsel (2014-2021)",
+        "category": "civic",
+        "source_url": "https://theorg.com/org/aclu/org-chart/xavier-persad",
+        "snippet": "Prior to the ACLU, Xavier served at the Human Rights Campaign from April 2014 to July 2021 as Legislative Counsel and Senior Legislative Counsel."
+      },
+      {
+        "org": "ACLU / Human Rights Campaign — gun violence prevention policy portfolio",
+        "role": "Policy expert and strategist on gun violence prevention (among other issues)",
+        "category": "gun_control",
+        "source_url": "https://www.aclu.org/bios/xavier-persad",
+        "snippet": "ACLU bio: has served as a policy expert and strategist for nearly a decade on a broad range of issues, including LGBTQ rights and gun violence prevention."
+      }
+    ]
+  },
+  {
+    "donor_id": "1ce889c80f643150",
+    "name": "Belizaire, Ritha",
+    "resolved_employer": "Houston Community Surgical — owner/founder, solo colorectal surgery practice (Houston Heights)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Ritha M. Belizaire, MD, FACS, FASCRS is a double board-certified general and colorectal surgeon in Houston who founded and owns Houston Community Surgical, a solo private practice — matching the filing's 'surgeon / self-employed' at a Houston zip. Yale BS in biomedical engineering (2002), UT Health San Antonio MD (2008), general surgery residency at Cincinnati, colorectal fellowship at Mt. Sinai West/St. Luke's; formerly Assistant Professor of Surgery at UT Health Houston. Federal giving pattern corroborates: a Ritha Belizaire listed as a UT Health surgeon gave to Biden for President in Oct 2020, consistent with this donor's 37 federal donations and fully Democratic lean.",
+    "source_url": "https://www.houstoncommunitysurgical.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "UT Health Houston, Department of Surgery",
+        "role": "Vice Chair of Diversity, Equity and Inclusion (former); Assistant Professor of Surgery from 2019",
+        "category": "civic",
+        "source_url": "https://www.houstoncommunitysurgical.com/about",
+        "snippet": "She served as Assistant Professor of Surgery at UT Health Houston and as Vice Chair of Diversity and Inclusion for the Department of Surgery, prior to Texas Senate Bill 17 dismantling DEI programs at Texas public institutions."
+      },
+      {
+        "org": "Heights Chamber of Commerce (Houston)",
+        "role": "Member representative for Houston Community Surgical",
+        "category": "business",
+        "source_url": "https://cca.heightschamber.org/10044663__Belizaire,+Ritha_repdirectory.aspx",
+        "snippet": "Listed in the Heights Chamber of Commerce member representative directory as Belizaire, Ritha."
+      }
+    ]
+  },
+  {
+    "donor_id": "2117845f8210025f",
+    "name": "Pavlovich, Kathy",
+    "resolved_employer": "Self-employed contractor (Leander, TX); possibly a member of Ezell-Pavlovich Marketing LLC, an Austin-registered LLC listing a Kathy Pavlovich as member",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation 'Contractor' with her own name as employer, zip 78641 (Leander, Williamson County). Public-records aggregators place a Kathy/Katherine Pavlovich in Leander 78641, and CorporationWiki lists a Kathy Pavlovich as a member of Ezell-Pavlovich Marketing LLC (Austin) — same name and same metro, but nothing in the public record ties that LLC to this donor's stated 'Contractor' occupation, so the classification rests on the self-employed occupation in the filing itself. No news coverage, bio page, board seat, or professional profile found. Employer-fallback classification only.",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/kathy-pavlovich/37839901.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "22d1c491454d3c63",
+    "name": "Hamilton III, Edward",
+    "resolved_employer": "Amwins (specialty/wholesale insurance brokerage), Charleston SC area — sales role per the filing",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation 'Sales' and employer 'Amwins' at zip 29403 (peninsular Charleston, SC); Amwins is a large wholesale/specialty insurance brokerage with Charleston-area offices, which places the donor in insurance brokerage (Finance under this taxonomy). No LinkedIn profile, firm bio, news mention, board seat, or other public profile for this specific individual was locatable — the employer/occupation on the filing is the only public identifier. The 93 federal contributions and Republican-side partisan lean noted in the input could not be independently verified: FEC's public API returned HTTP 429 rate-limit responses throughout this session, the FEC data UI is client-rendered and returned no records to a fetch, and OpenSecrets' donor-lookup returned HTTP 403. Treat the federal-giving lean as unverified here rather than as a documented finding. Employer-fallback classification only.",
+    "source_url": "https://www.amwins.com/who-we-are",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "286790e1c325acd6",
+    "name": "Cofer, Richard",
+    "resolved_employer": "Cofer & Connelly, PLLC — managing partner; Austin criminal defense, family law and personal injury firm",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Richard 'Rick' Cofer, managing partner of Cofer & Connelly, PLLC (602 W 11th St, Austin 78701 — matches the donor zip and the employer on the filing). Former Travis County assistant county attorney and assistant district attorney; long-serving Austin city board/commission member and a well-known figure in Travis County Democratic politics (he was the front-running, later withdrawn, candidate for Travis County Democratic Party chair in 2017), consistent with the input's 0.99 Democratic partisan lean. No Texas Ethics Commission lobbyist registration found for him in TEC registered-lobbyist lists.",
+    "source_url": "https://www.coferconnelly.com/about-us/rick-cofer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Democratic Party",
+        "role": "Declared candidate for county chair, 2017 (withdrew)",
+        "category": "political",
+        "source_url": "https://www.austinchronicle.com/daily/news/2017-10-25/rick-cofer-withdraws-from-race-for-travis-county-democratic-chair/",
+        "snippet": "Cofer, 'a fixture in Democratic circles for over a decade,' was the sole declared candidate to replace outgoing chair Vincent Harding and 'swept up just about every endorsement' before withdrawing."
+      },
+      {
+        "org": "Texas Health Action",
+        "role": "Vice Chair and Board Member, 2017–present",
+        "category": "civic",
+        "source_url": "https://www.coferconnelly.com/about-us/rick-cofer/",
+        "snippet": "Firm bio lists 'Vice Chair & Board Member, Texas Health Action Board of Directors (2017–Present)' — the nonprofit that operates Kind Clinic and engages in sexual-health/HIV access policy work."
+      },
+      {
+        "org": "Ending Community Homelessness Coalition (ECHO)",
+        "role": "Chair, Board of Directors, 2014–2018",
+        "category": "civic",
+        "source_url": "https://www.coferconnelly.com/about-us/rick-cofer/",
+        "snippet": "Firm bio: 'Chair, Ending Community Homelessness Coalition (ECHO) Board of Directors (2014–2018)' — Austin's homelessness continuum-of-care lead agency."
+      },
+      {
+        "org": "City of Austin Zero Waste Advisory Commission",
+        "role": "Chair and Member, 2007–2015",
+        "category": "civic",
+        "source_url": "https://www.coferconnelly.com/about-us/rick-cofer/",
+        "snippet": "Firm bio lists 'Chair & Member, City of Austin Zero Waste Advisory Commission (2007–2015)' and 'Founder & Chair, Austin Bag the Bags Coalition (2007–2012)' — the campaign behind Austin's single-use bag ordinance."
+      },
+      {
+        "org": "City of Austin Parks & Recreation Board",
+        "role": "Vice Chair and Member, 2015–2019",
+        "category": "civic",
+        "source_url": "https://www.coferconnelly.com/about-us/rick-cofer/",
+        "snippet": "Firm bio: 'Vice Chair & Member, City of Austin Parks & Recreation Board (2015–2019)'; also President & Board Member, Pease Park Conservancy (2015–2018) and member of the South Central Waterfront Advisory Board (2018)."
+      },
+      {
+        "org": "Austin AFL-CIO Central Labor Council",
+        "role": "Delegate, 2009–2018",
+        "category": "civic",
+        "source_url": "https://www.coferconnelly.com/about-us/rick-cofer/",
+        "snippet": "Firm bio lists 'Delegate, Austin AFL-CIO Central Labor Council (2009–2018).'"
+      }
+    ]
+  },
+  {
+    "donor_id": "29473b0a03c09081",
+    "name": "Ruiz, Emmy",
+    "resolved_employer": "Self-employed political consultant, Washington DC; previously White House Director of Political Strategy and Outreach and Assistant to the President (2021–Jan 2025), and co-founder/partner at NEWCO Strategies",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Best match is Emmy Ruiz, the Democratic political strategist who served as White House Director of Political Strategy and Outreach under President Biden (Jan 2021 – Jan 2025, elevated to Assistant to the President in Sept 2022). Corroborating factors: uncommon name; the donor's Washington DC address (20017), consistent with her DC-based White House tenure; occupation 'Consultant' with self as employer, matching her pre- and post-administration consulting career; strongly Democratic federal giving (input lean 1.0); and prior Austin/Texas ties — she was described as an 'Austin-based political consultant' when appointed in 2021 and was raised in La Feria, TX. No public record directly links the specific 20017 record to her, so identity is corroborated by pattern rather than by a source document; treated as medium confidence. No Texas Ethics Commission lobbyist registration found. Note the industry classification (Consulting / PR) holds regardless of which DC consultant this is.",
+    "source_url": "https://en.wikipedia.org/wiki/Emmy_Ruiz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "The White House (Biden administration)",
+        "role": "Director of Political Strategy and Outreach; Assistant to the President (2021–Jan 2025)",
+        "category": "political",
+        "source_url": "https://www.texastribune.org/2021/01/05/emmy-ruiz-white-house/",
+        "snippet": "Texas Tribune, Jan 5 2021: 'Austin-based political consultant Emmy Ruiz to join White House as director of political strategy and outreach.' She was elevated to Assistant to the President in September 2022."
+      },
+      {
+        "org": "NEWCO Strategies",
+        "role": "Co-founder / partner (from Feb 2019)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Emmy_Ruiz",
+        "snippet": "In February 2019 Ruiz became a partner at NEWCO Strategies, a DC-based, majority LGBTQ+- and women-owned strategic consulting firm; she also served as senior advisor to Kamala Harris's 2020 primary campaign and ran Clinton 2016 state operations in NV, OH and CO."
+      }
+    ]
+  },
+  {
+    "donor_id": "2a0baa99485acd68",
+    "name": "Hau, Jennifer",
+    "resolved_employer": "Jennifer T. Hau, MD, FAAD, FACMS — board-certified dermatologist / fellowship-trained Mohs surgeon, Houston-area private practice (Complete Dermatology / Cypress Dermatology; Memorial Hermann Sugar Land affiliation)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Occupation 'Physician' / self-employed at Houston zip 77098 (residential Upper Kirby/Montrose) matches Dr. Jennifer T. Hau, a Houston-born, board-certified dermatologist and Mohs surgeon in independent Houston-area practice (UTHealth med school, UCLA residency, UCSD Mohs fellowship). Practice addresses are Sugar Land/Cypress with a Houston (6431 Fannin St) listing; residential zip is consistent with a Houston-resident physician. No other Houston 'Jennifer Hau' with a physician occupation surfaced.",
+    "source_url": "https://cypressdermatology.com/jennifer-hau-m-d-faad-facms/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2b6528e91a04ba4a",
+    "name": "Thomas, Robyn",
+    "resolved_employer": "Community Violence Legal Network (CVLN) — co-founder; formerly Executive Director (2006-2022) and Senior Legal Advisor, Giffords Law Center to Prevent Gun Violence, San Francisco",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Donor's employer string 'CVLN' resolves to the Community Violence Legal Network, which Robyn Thomas co-founded; occupation 'Attorney' and San Francisco 94109 match the San Francisco-based gun-violence-prevention attorney who led Giffords Law Center to Prevent Gun Violence for 16 years (2006-June 2022) and testified before Congress as an expert witness on gun laws.",
+    "source_url": "https://www.gunviolencelegal.org/news/lawyers-legal-professionals-advocacy-organizations-amp-community-stakeholders-from-across-the-country-come-together-to-formally-launch-the-community-violence-legal-network",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Giffords Law Center to Prevent Gun Violence",
+        "role": "Executive Director (2006-2022), later Senior Legal Advisor",
+        "category": "gun_control",
+        "source_url": "https://giffords.org/press-release/2022/06/giffords-thanks-robyn-thomas-for-16-years-of-service-in-preventing-gun-violence/",
+        "snippet": "Giffords and Giffords Law Center thank Robyn Thomas for 16 years of service in preventing gun violence; she joined the Law Center to Prevent Gun Violence as executive director in 2006 and supervised its work drafting and defending safer gun laws and educating legislators on evidence-based gun policy."
+      },
+      {
+        "org": "Community Violence Legal Network (CVLN)",
+        "role": "Co-founder",
+        "category": "gun_control",
+        "source_url": "https://www.gunviolencelegal.org/",
+        "snippet": "CVLN is a network of lawyers, legal professionals, advocacy organizations and community stakeholders committed to supporting survivors of gun violence and the community violence intervention field — 'the nation's largest legal network dedicated to ending gun violence.'"
+      },
+      {
+        "org": "U.S. House Judiciary Committee / U.S. Senate Judiciary Committee",
+        "role": "Expert witness testimony on gun violence prevention (2007, 2019)",
+        "category": "gun_control",
+        "source_url": "https://www.congress.gov/116/meeting/house/108838/witnesses/HHRG-116-JU00-Bio-ThomasR-20190206.pdf",
+        "snippet": "Congressional witness biography for Robyn Barnett Thomas, Executive Director, Giffords Law Center to Prevent Gun Violence, testifying at the February 2019 House hearing 'Preventing Gun Violence: A Call to Action.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "2b7915d524c703b0",
+    "name": "Gustin, Charlie",
+    "resolved_employer": "Gustin Law Firm, PLLC — Managing Attorney (Houston-based plaintiff-side personal injury / trial firm serving Pearland and greater Houston)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Attorney' and employer 'Gustin Law Firm PLLC' match Charlie Christopher Gustin (State Bar of Texas #320171), managing attorney of the Gustin Law Firm, PLLC, a Houston plaintiff's personal-injury firm whose site markets a Pearland practice — consistent with the donor's Pearland 77584 zip.",
+    "source_url": "https://www.gustin.law/who-we-are/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Houston Trial Lawyers Association",
+        "role": "Member, Board of Directors",
+        "category": "business",
+        "source_url": "https://www.gustin.law/who-we-are/",
+        "snippet": "Firm bio states Charlie serves on the Board of Directors of the Houston Trial Lawyers Association and is a member of the Texas Trial Lawyers Association and the American Association for Justice."
+      },
+      {
+        "org": "Texas Trial Lawyers Association",
+        "role": "Member",
+        "category": "business",
+        "source_url": "https://www.gustin.law/who-we-are/",
+        "snippet": "Listed memberships include the State Bar of Texas, State Bar of New Mexico, State Bar of Arizona, American Association of Justice, North American Brain Injury Society, and Texas Trial Lawyers Association."
+      }
+    ]
+  },
+  {
+    "donor_id": "2fd958cf9ee6edaa",
+    "name": "Rogers, Victoria",
+    "resolved_employer": "Corpus Christi Realty Group (CCRG) — REALTOR, GRI (Texas license #623346); serves Corpus Christi, North Padre Island and Flour Bluff",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Employer 'CCRG' resolves to Corpus Christi Realty Group, where Victoria (Munt) Rogers is a listed agent; her Padre Island Business Association directory entry gives a Corpus Christi 78418 address (Grenadine Dr), matching the donor zip exactly, and her personal site is padreisland78418.com.",
+    "source_url": "https://www.corpuschristirealtygroup.com/agent/victoria-rogers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Padre Island Business Association",
+        "role": "Member (listed as Victoria Rogers - Realtor)",
+        "category": "business",
+        "source_url": "https://members.padreislandbusiness.org/member-directory/Details/victoria-rogers-realtor-3799840",
+        "snippet": "Member-directory listing: 'Victoria Rogers - Realtor,' 15837 Grenadine Dr, Corpus Christi, TX 78418."
+      }
+    ]
+  },
+  {
+    "donor_id": "318f8cb4912f43c2",
+    "name": "Brown, Tammie",
+    "resolved_employer": "Microsoft Corporation (sales / alliance executive)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "A Tammie Brown listed on LinkedIn as an information-technology / alliance-sales leader at Microsoft in the Austin, TX area matches the filing's occupation ('Sales') and employer ('Microsoft Corporation'); zip 78738 is the Bee Cave/Lakeway edge of the Austin metro. No public profile beyond the corporate sales role — no FEC PAC leadership, no Texas lobbyist registration, no board seats found. Employer-fallback classification only.",
+    "source_url": "https://www.linkedin.com/in/tammiebrown/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "31ce5c03f3501ca4",
+    "name": "Khataw, Ali",
+    "resolved_employer": "Ali Khataw Photography (photo-philanthropy practice); founder, President & CEO of Encotech Engineering Consultants, Inc.",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Same person confirmed: Ali Khataw's own Encotech resume page lists 'Ali Khataw Photography (1975-Present)' as his photo-philanthropy practice alongside his role as founder/President-CEO of Encotech Engineering Consultants in Austin, resolving the filing's 'CEO / Ali Khataw Photography' occupation. Zip 78746 (West Lake Hills) is consistent with an Austin engineering-firm principal. FEC records list him as CEO, Encotech Engineering, giving to Democratic committees (e.g., $1,000 to Hillary Victory Fund, 9/28/2016), consistent with the 1.0 partisan lean. No Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://encotechengineering.com/resume-ak/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Greater Austin Chamber of Commerce",
+        "role": "2023 Board Chair; board member since 2016",
+        "category": "business",
+        "source_url": "https://www.austinchamber.com/press-releases/austin-chamber-announces-2022-board-chair-and-2023-board-chair-elect",
+        "snippet": "Austin Chamber announced Ali Khataw as 2023 board chair-elect; he has served on the Chamber board since 2016."
+      },
+      {
+        "org": "E3 Alliance",
+        "role": "Immediate Past Chairman / board member",
+        "category": "civic",
+        "source_url": "https://encotechengineering.com/resume-ak/",
+        "snippet": "Resume lists 'Immediate Past Chairman, E3 Alliance' — a Central Texas education-policy collaborative."
+      },
+      {
+        "org": "Greater Austin Asian Chamber of Commerce",
+        "role": "Chair Emeritus and board member",
+        "category": "business",
+        "source_url": "https://encotechengineering.com/resume-ak/",
+        "snippet": "Resume lists 'Chair Emeritus and Board Member, Greater Austin Asian Chamber of Commerce.'"
+      },
+      {
+        "org": "Austin Area Research Organization",
+        "role": "Board member (2011-present)",
+        "category": "civic",
+        "source_url": "https://encotechengineering.com/resume-ak/",
+        "snippet": "Resume lists 'Board Member, Austin Area Research Organization (2011-Present)' — an Austin business/civic policy research group."
+      },
+      {
+        "org": "City of Austin Mayor's Task Force on Institutional Racism & Systemic Inequalities",
+        "role": "Member (2016-2020)",
+        "category": "civic",
+        "source_url": "https://encotechengineering.com/resume-ak/",
+        "snippet": "Resume lists membership on the Mayor's Task Force on Institutional Racism & Systemic Inequalities, 2016-2020."
+      },
+      {
+        "org": "KUT Public Radio",
+        "role": "Media Advisory Board member (2016-present)",
+        "category": "civic",
+        "source_url": "https://encotechengineering.com/resume-ak/",
+        "snippet": "Resume lists 'Media Advisory Board Member, KUT Public Radio (2016-Present).'"
+      },
+      {
+        "org": "Leadership Austin",
+        "role": "Chair (2017); board member (2011-2020)",
+        "category": "civic",
+        "source_url": "https://encotechengineering.com/resume-ak/",
+        "snippet": "Resume lists 'Chair, Leadership Austin (2017); Board Member (2011-2020).'"
+      }
+    ]
+  },
+  {
+    "donor_id": "320272a4f306dcc8",
+    "name": "Cunningham, Aimee",
+    "resolved_employer": "The Boone Family Foundation — President and CEO",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Aimee Boone Cunningham is President and CEO of The Boone Family Foundation and a long-time progressive fundraiser/organizer; her published bio states she lives in Austin with her husband Ed Cunningham and four children (zip 78734 Lakeway is in the Austin metro), matching the filing's employer and title exactly. Her federal giving history is extensive and Democratic-only (DNC, DSCC, multiple Democratic Senate candidates), consistent with 90 FEC donations at 1.0 partisan lean. No Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.ncfp.org/about/staff-board-members/aimee-boone-cunningham",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Planned Parenthood Federation of America",
+        "role": "Board member (2016-2022); Board Chair (2019-2022)",
+        "category": "political",
+        "source_url": "https://www.ncfp.org/about/staff-board-members/aimee-boone-cunningham",
+        "snippet": "Bio: board member of Planned Parenthood Federation of America, serving as board chair from 2019 to 2022."
+      },
+      {
+        "org": "The Boone Family Foundation",
+        "role": "President and CEO",
+        "category": "civic",
+        "source_url": "https://www.ncfp.org/about/staff-board-members/aimee-boone-cunningham",
+        "snippet": "Leads the foundation's mission to create equity for women and girls, drive innovation and justice for students in public schools, and steward accessible green spaces."
+      },
+      {
+        "org": "EMILY's List",
+        "role": "Board member",
+        "category": "political",
+        "source_url": "https://littlesis.org/person/245179-Aimee_Boone_Cunningham",
+        "snippet": "LittleSis profile lists Cunningham as a board director of EMILY's List, the Democratic pro-choice women's candidate PAC."
+      },
+      {
+        "org": "Center for Reproductive Rights",
+        "role": "Board member",
+        "category": "political",
+        "source_url": "https://www.ncfp.org/about/staff-board-members/aimee-boone-cunningham",
+        "snippet": "Bio: has served on the boards of national progressive organizations including the Center for Reproductive Rights."
+      },
+      {
+        "org": "Planned Parenthood Texas Votes",
+        "role": "Founder and Chair",
+        "category": "political",
+        "source_url": "https://littlesis.org/person/245179-Aimee_Boone_Cunningham",
+        "snippet": "LittleSis lists her as founder and chair of Planned Parenthood Texas Votes, the organization's Texas political arm."
+      },
+      {
+        "org": "Annie's List",
+        "role": "Board member",
+        "category": "political",
+        "source_url": "https://littlesis.org/person/245179-Aimee_Boone_Cunningham",
+        "snippet": "LittleSis lists board membership at Annie's List, the Texas PAC supporting Democratic women candidates."
+      },
+      {
+        "org": "Planned Parenthood of Greater Texas",
+        "role": "Vice President of Development (2011-2012)",
+        "category": "civic",
+        "source_url": "https://www.ncfp.org/about/staff-board-members/aimee-boone-cunningham",
+        "snippet": "Bio: VP of development at Planned Parenthood of Greater Texas, leading fundraising through a major merger and government funding cuts."
+      }
+    ]
+  },
+  {
+    "donor_id": "3311e9872691ca8b",
+    "name": "Pomeroy, Michael",
+    "resolved_employer": "Brighter Bites — Vice President of Programs, National (child nutrition / food-access nonprofit)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Mike Pomeroy, MPH, is Vice President of Programs, National at Brighter Bites and his staff bio states he resides in Houston with his husband Kris — matching the filing's employer, title, and Houston zip 77023. Prior career at the UT School of Public Health's Michael & Susan Dell Center for Healthy Living (2008-2015), where he helped launch the Brighter Bites pilot. No FEC PAC leadership role and no Texas Ethics Commission lobbyist registration found; his 38 federal donations at 0.40 partisan lean show no ideological-PAC pattern in public records.",
+    "source_url": "https://www.brighterbites.org/person/mike-pomeroy/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Houston ISD School Health Advisory Committee",
+        "role": "Member (since 2011)",
+        "category": "civic",
+        "source_url": "https://www.brighterbites.org/person/mike-pomeroy/",
+        "snippet": "Bio: has served on Houston ISD's School Health Advisory Committee since 2011."
+      },
+      {
+        "org": "Center for Science in the Public Interest",
+        "role": "Intern / advocate for national school lunch standards (2010)",
+        "category": "civic",
+        "source_url": "https://www.brighterbites.org/person/mike-pomeroy/",
+        "snippet": "Bio: interned with the Center for Science in the Public Interest in 2010, advocating for improved national school lunch standards."
+      }
+    ]
+  }
+]

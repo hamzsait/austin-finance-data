@@ -1,0 +1,28 @@
+
+===== d1batch_05.json exit=1 at 2026-07-18T22:34:19.259Z =====
+--- stderr (last 2000) ---
+
+--- stdout (last 2000) ---
+{"type":"result","subtype":"success","is_error":true,"api_error_status":429,"duration_ms":452,"duration_api_ms":0,"num_turns":1,"result":"You've hit your weekly limit · resets Jul 21, 6am (America/Chicago)","stop_reason":"stop_sequence","session_id":"d6831b81-b6f2-45c6-aed6-0a991c090a25","total_cost_usd":0,"usage":{"input_tokens":0,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":0,"server_tool_use":{"web_search_requests":0,"web_fetch_requests":0},"service_tier":"standard","cache_creation":{"ephemeral_1h_input_tokens":0,"ephemeral_5m_input_tokens":0},"inference_geo":"","iterations":[],"speed":"standard"},"modelUsage":{},"permission_denials":[],"terminal_reason":"api_error","fast_mode_state":"off","uuid":"4c95baac-7d95-4715-9b38-d5e093abcb10"}
+
+
+===== d1batch_06.json exit=1 at 2026-07-18T22:35:00.740Z =====
+--- stderr (last 2000) ---
+
+--- stdout (last 2000) ---
+{"type":"result","subtype":"success","is_error":true,"api_error_status":429,"duration_ms":465,"duration_api_ms":0,"num_turns":1,"result":"You've hit your weekly limit · resets Jul 21, 6am (America/Chicago)","stop_reason":"stop_sequence","session_id":"df0a7e5f-1c3a-4cf7-856a-964d911184a7","total_cost_usd":0,"usage":{"input_tokens":0,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":0,"server_tool_use":{"web_search_requests":0,"web_fetch_requests":0},"service_tier":"standard","cache_creation":{"ephemeral_1h_input_tokens":0,"ephemeral_5m_input_tokens":0},"inference_geo":"","iterations":[],"speed":"standard"},"modelUsage":{},"permission_denials":[],"terminal_reason":"api_error","fast_mode_state":"off","uuid":"5716c6e6-831c-4896-b27c-06f7fc3383e5"}
+
+
+===== d1batch_07.json exit=1 at 2026-07-18T22:35:05.254Z =====
+--- stderr (last 2000) ---
+
+--- stdout (last 2000) ---
+{"type":"result","subtype":"success","is_error":true,"api_error_status":429,"duration_ms":513,"duration_api_ms":0,"num_turns":1,"result":"You've hit your weekly limit · resets Jul 21, 6am (America/Chicago)","stop_reason":"stop_sequence","session_id":"01e049d2-3252-4d3e-be09-03ca78aa6964","total_cost_usd":0,"usage":{"input_tokens":0,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":0,"server_tool_use":{"web_search_requests":0,"web_fetch_requests":0},"service_tier":"standard","cache_creation":{"ephemeral_1h_input_tokens":0,"ephemeral_5m_input_tokens":0},"inference_geo":"","iterations":[],"speed":"standard"},"modelUsage":{},"permission_denials":[],"terminal_reason":"api_error","fast_mode_state":"off","uuid":"eeb018a9-f2fc-4683-baed-e068978f61e3"}
+
+
+===== d1batch_08.json exit=1 at 2026-07-18T22:36:12.504Z =====
+--- stderr (last 2000) ---
+
+--- stdout (last 2000) ---
+{"type":"result","subtype":"success","is_error":true,"api_error_status":429,"duration_ms":502,"duration_api_ms":0,"num_turns":1,"result":"You've hit your weekly limit · resets Jul 21, 6am (America/Chicago)","stop_reason":"stop_sequence","session_id":"ad8f95e6-fd85-4720-8e9a-845832047933","total_cost_usd":0,"usage":{"input_tokens":0,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":0,"server_tool_use":{"web_search_requests":0,"web_fetch_requests":0},"service_tier":"standard","cache_creation":{"ephemeral_1h_input_tokens":0,"ephemeral_5m_input_tokens":0},"inference_geo":"","iterations":[],"speed":"standard"},"modelUsage":{},"permission_denials":[],"terminal_reason":"api_error","fast_mode_state":"off","uuid":"f1db4552-14ca-404e-945a-4ccf13cbc97a"}
+

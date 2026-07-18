@@ -60,6 +60,37 @@ def og_meta_for(slug: str) -> dict:
     with open(os.path.join(ROOT, "austin_landing.json"), "r", encoding="utf-8") as f:
         landing = json.load(f)
     c = next((c for c in landing["candidates"] if c["slug"] == slug), None)
+
+    # 2026 candidates aren't in the landing roster (they live in austin_races.json
+    # and surface through the race view), so fall back to race metadata + stats.
+    if c is None and slug in CANDIDATE_SLUGS:
+        try:
+            with open(os.path.join(ROOT, "austin_races.json"), "r", encoding="utf-8") as f:
+                races = json.load(f)
+            with open(os.path.join(ROOT, "austin_race_stats.json"), "r", encoding="utf-8") as f:
+                stats = json.load(f)
+            for race in races["races"]:
+                cand = next((x for x in race["candidates"] if x.get("slug") == slug), None)
+                if not cand:
+                    continue
+                s = stats.get(slug)
+                if not s:
+                    break
+                g = s["topGroups"]
+                tops = " and ".join(f"{x['label']} (${x['amt']:,})" for x in g[:2]) or "—"
+                return {
+                    "title": f"{cand['name']} — {race['seat']} Candidate — decode(politics):",
+                    "desc": (
+                        f"{cand['name']} is running for Austin City Council {race['seat']}, an open seat. "
+                        f"Raised ${s['raised']:,} from {s['donors']:,} donors this cycle. "
+                        f"Top donor interests: {tops}. Every dollar decoded, donor by donor."
+                    ),
+                    "alt": (f"{cand['name']} ({race['seat']} candidate) — ${s['raised']:,} raised, "
+                            f"{s['donors']:,} donors, decoded by decode(politics):"),
+                }
+        except (OSError, json.JSONDecodeError, KeyError):
+            pass
+
     if c is None:
         return {
             "title": "Candidate Profile — Austin Campaign Finance — decode(politics):",
@@ -79,6 +110,25 @@ def og_meta_for(slug: str) -> dict:
 
 
 COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez", "morales"}
+
+# 2026 candidates for an open seat -- not officeholders. Rendered from the same
+# template with the officeholder-specific framing swapped out. NOTE: Steven
+# Brown is slug "stevenbrown" because "brown" is already Travis County Judge
+# Andy Brown; passing the exact recipient string keeps the LIKE match clean.
+CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins"}
+
+CANDIDATE_TEMPLATE_SUBS = [
+    # NOTE: the hero badge is NOT set here -- renderHero() overwrites it from
+    # meta.office at runtime. See OFFICE_OVERRIDE in generate_profile_data.py.
+    # The hero total covers every filing on record, not just the 2026 cycle --
+    # Ramos also ran in 2022, so "Raised This Cycle" would misstate his number
+    # ($37,837 lifetime vs $24,846 this cycle). The cycle selector below the
+    # hero breaks it out; the hero label stays neutral so both are honest.
+    ('<div class="lbl">Raised 2022+</div>',
+     '<div class="lbl">Total Raised</div>'),
+    ('<span class="hint">2022+</span>',
+     '<span class="hint">all filings</span>'),
+]
 
 # Template strings that are city-specific; swapped for Travis County profiles.
 COUNTY_TEMPLATE_SUBS = [
@@ -127,6 +177,10 @@ def make_profile_html(slug: str) -> str:
 
     if slug in COUNTY_SLUGS:
         for old, new in COUNTY_TEMPLATE_SUBS:
+            new_html = new_html.replace(old, new)
+
+    if slug in CANDIDATE_SLUGS:
+        for old, new in CANDIDATE_TEMPLATE_SUBS:
             new_html = new_html.replace(old, new)
 
     out_dir = os.path.join(ROOT, "austin", slug)

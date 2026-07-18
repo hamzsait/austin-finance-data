@@ -1,0 +1,137 @@
+{
+ "goodwin": {
+  "raised": 91346,
+  "donors": 482,
+  "contributions": 583,
+  "avg": 189.51,
+  "first_gift": "2026-02-06",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Legal",
+    "amt": 12022,
+    "w": 100
+   },
+   {
+    "label": "Government",
+    "amt": 9885,
+    "w": 82
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 6897,
+    "w": 57
+   },
+   {
+    "label": "Media",
+    "amt": 5925,
+    "w": 49
+   }
+  ]
+ },
+ "ramos": {
+  "raised": 24846,
+  "donors": 232,
+  "contributions": 280,
+  "avg": 107.09,
+  "first_gift": "2026-02-23",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Not Employed",
+    "amt": 3123,
+    "w": 100
+   },
+   {
+    "label": "Technology",
+    "amt": 2758,
+    "w": 88
+   },
+   {
+    "label": "Education",
+    "amt": 2210,
+    "w": 71
+   },
+   {
+    "label": "Government",
+    "amt": 2138,
+    "w": 68
+   }
+  ]
+ },
+ "anderson": {
+  "raised": 28092,
+  "donors": 189,
+  "contributions": 198,
+  "avg": 148.63,
+  "first_gift": "2026-02-09",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Healthcare",
+    "amt": 2950,
+    "w": 100
+   },
+   {
+    "label": "Technology",
+    "amt": 2885,
+    "w": 98
+   },
+   {
+    "label": "Real Estate",
+    "amt": 2350,
+    "w": 80
+   },
+   {
+    "label": "Education",
+    "amt": 2345,
+    "w": 79
+   }
+  ]
+ },
+ "stevenbrown": {
+  "raised": 21482,
+  "donors": 96,
+  "contributions": 112,
+  "avg": 223.77,
+  "first_gift": "2025-11-20",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Not Employed",
+    "amt": 3308,
+    "w": 100
+   },
+   {
+    "label": "Healthcare",
+    "amt": 3156,
+    "w": 95
+   },
+   {
+    "label": "Government",
+    "amt": 2535,
+    "w": 77
+   },
+   {
+    "label": "Finance",
+    "amt": 1575,
+    "w": 48
+   }
+  ]
+ },
+ "riggins": {
+  "raised": 800,
+  "donors": 2,
+  "contributions": 2,
+  "avg": 400.0,
+  "first_gift": "2026-02-21",
+  "last_gift": "2026-03-02",
+  "topGroups": [
+   {
+    "label": "Legal",
+    "amt": 300,
+    "w": 100
+   }
+  ]
+ }
+}

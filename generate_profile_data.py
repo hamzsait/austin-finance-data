@@ -105,6 +105,17 @@ CANDIDATE_CYCLES = {
     'guerrero':     [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
 
+    # -- 2026 District 1 candidates (open seat; not officeholders) --
+    # Ramos ran for this same seat in 2022, so he gets a prior cycle; the other
+    # four are first-time filers and have only the current cycle. Brown's
+    # campaign account opened Nov 2025, which is inside the 2026 cycle window.
+    'ramos':        [{'label': '2022 Run',    'election_year': 2022, 'start_year': None, 'end_year': 2022},
+                     {'label': 'This Cycle',  'election_year': 2026, 'start_year': 2023, 'end_year': None}],
+    'goodwin':      [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    'anderson':     [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    'stevenbrown':  [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    'riggins':      [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+
     # -- Travis County (March primaries are the real race; 4-year terms) --
     # Brown: won the Nov 2020 SPECIAL election for Eckhardt's unexpired term
     # (county filings begin after it — no cycle shown), then the regular 2022
@@ -134,6 +145,17 @@ CANDIDATE_CYCLES = {
 
 # Earliest contribution_year included in a profile (default 2018 = start of
 # clean city data). County officials have clean county filings back to 2016.
+# Hero badge text per slug. The profile template reads meta.office at runtime and
+# overwrites whatever is in the HTML, so candidate framing has to be set here --
+# a string substitution in build_candidate.py gets clobbered by renderHero().
+OFFICE_OVERRIDE = {
+    'goodwin':     'Austin City Council · District 1 Candidate',
+    'ramos':       'Austin City Council · District 1 Candidate',
+    'anderson':    'Austin City Council · District 1 Candidate',
+    'stevenbrown': 'Austin City Council · District 1 Candidate',
+    'riggins':     'Austin City Council · District 1 Candidate',
+}
+
 CANDIDATE_MIN_YEAR = {
     'brown': 2016, 'travillion': 2016, 'shea': 2016, 'howard': 2016, 'gomez': 2016,
     'morales': 2016,
@@ -1167,7 +1189,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     meta = {
         "candidate_name": candidate_name,
         "candidate_slug": slug,
-        "office": "Austin City Council",
+        "office": OFFICE_OVERRIDE.get(slug, "Austin City Council"),
         "generated_at": generated_at,
     }
 
