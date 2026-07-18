@@ -94,11 +94,22 @@ Update `campaign_finance.donor_id_2` and `joint_donations.donor_id_1/2`.
      canonical_employer = modal emp; total_donated = Σ amount; record_count; campaigns =
      ∪ recipients; campaign_count; first/last_seen.
    - **Union enrichment** across all old_ids collapsing into this new_id:
-     - FEC: Σ dem/rep/other/donations; `fec_partisan_lean = D/(D+R)` (None if 0);
-       `fec_matched = max`; `fec_matched_at = max`.
-     - TEC: Σ dem/rep/other/donations; `tec_matched = max`.
+     - **FEC (FIX #1 — recompute, do NOT column-sum):** each fragment independently queried
+       FEC and carries the *full* federal history, so summing the per-fragment
+       `fec_total_dem/rep/other` columns overcounts **37–180×** (audit: George Cofer naive
+       $1,457,658 vs correct $8,098 = 180×; Jonathan Coon 37×; Scott Hoff 135×). Instead:
+       **dedupe `fec_contributions_raw` by `fec_sub_id` across the merged fragments, then
+       recompute** `fec_total_dem/rep/other` by classifying each *distinct* contribution via
+       `fec_committee_cache.classification` (amount>0 only, matching `fec_enrich.py`).
+       `fec_total_donations = count(distinct sub_id)`; `fec_partisan_lean = D/(D+R)` (None if
+       0); `fec_matched = max` over fragments; `fec_matched_at = max`.
+     - **TEC (same FIX #1 rule):** dedupe `texas_contributions_raw` by
+       `contribution_info_id` across merged fragments, recompute `tec_total_dem/rep/other`
+       from the distinct rows via TEC filer→lean classification; `tec_matched = max`.
+       (Low volume — few dozen affected identities — but same overcount trap.)
      - ip/ff/gun (each): `total = Σ`; `tier = max`; `spectrum` from the old_id with the
-       largest panel total; `committees` = ∪ pipe-split, deduped.
+       largest panel total; `committees` = ∪ pipe-split, deduped. (These panel totals come
+       from the same FEC raw rows, so recompute from the **deduped** raw to stay consistent.)
      - resolved_industry/employer/confidence: from the old_id (with non-null industry) of
        highest `total_donated`.
 5. **Rewrite tables inside one transaction**:
@@ -108,19 +119,35 @@ Update `campaign_finance.donor_id_2` and `joint_donations.donor_id_1/2`.
    - `donor_identities`: `DELETE FROM` + bulk `INSERT` the staged rows (table **kept**, all
      37 columns preserved — not dropped).
    - `fec_contributions_raw`: rebuild via `INSERT OR IGNORE INTO new SELECT map(donor_id),…`
-     (the OR IGNORE dedupes collided `(new_id, fec_sub_id)`), then swap. Report dropped dups.
-   - `texas_contributions_raw`: `UPDATE austin_donor_id = map(austin_donor_id)` (set-based).
-   - `joint_donations`: `UPDATE donor_id_1/2` via row-level remap.
+     (the OR IGNORE dedupes collided `(new_id, fec_sub_id)` — this is REQUIRED so profile
+     committee drill-downs, which SUM raw by committee, don't overcount). Then swap. Row
+     count **DECREASES** by the collapsed duplicates — this is correct, not a violation.
+   - `texas_contributions_raw`: rebuild the same way, remapping `austin_donor_id` and
+     deduping on `(new_id, contribution_info_id)`.
+   - `joint_donations`: `UPDATE donor_id_1/2` via row-level remap. **Joint edge (audit C4):**
+     3 rows where donor_id_1 & donor_id_2 collapse to the same new_id — if equal after remap,
+     set `donor_id_2 = NULL, is_joint = 0` (keep `balanced_amount`) so we don't double-list
+     one person as their own joint partner.
    - `civic_affiliations`: untouched (name-keyed).
 6. **Verification gates** (query post-migration, pre-COMMIT — HALT + rollback if any fails):
    - total `COUNT(*)` unchanged · pre-2022 `COUNT(*)` unchanged · `SUM(amount)` unchanged
      (bit-identical — we never touch amount/date/rowset).
-   - `COUNT(DISTINCT donor_id)` **decreased** meaningfully.
-   - Judah Rice → exactly **1** donor_id, total ≈ $1,984 (±cents).
+   - per-candidate `SUM(amount)` unchanged (snapshot compare across all recipients).
+   - `COUNT(DISTINCT donor_id)` / `donor_identities` row count **decreases by ~108,561**.
+   - **Judah Rice → 3 identities (FIX #2)**, one per zip (78704 ≈ $1,488 · 78745 ≈ $15 ·
+     78752 ≈ $481), summing to his ~$1,984 lifetime. (The `(name,zip5)` key conservatively
+     keeps a mover's addresses separate; 4,957 names span >1 zip.)
+   - **NEW inflation-catcher gate (FIX #1):** for every consolidated donor, the recomputed
+     `fec_total_dem + fec_total_rep` must be **≤ the max single-fragment pre-migration value**
+     for that person (a correct dedup can never exceed the largest fragment's full history).
+     Any violation ⇒ residual overcount ⇒ HALT.
    - No new_id collision anomalies; `donor_identities` row count == distinct new ids.
-   - `fec_contributions_raw` post-count ≤ pre-count (dedupe only) and every remaining
-     donor_id exists in donor_identities.
-   - Only on all-pass → `COMMIT`. Else `ROLLBACK`, restore note, report.
+   - `fec_contributions_raw` / `texas_contributions_raw` post-count == distinct
+     `(new_id, sub_id)`/`(new_id, contribution_info_id)` pre-image count (i.e. dedupe only —
+     **no contribution lost**, only exact cross-fragment duplicates collapsed); every
+     remaining donor_id exists in `donor_identities`.
+   - Zero orphan donor_ids / donor_id_2 in `campaign_finance` after remap.
+   - Only on all-pass → `COMMIT`. Else `ROLLBACK`, DB untouched, report failure detail.
 7. **Report**: before/after identity-row + distinct-donor_id counts; top 20 previously-
    fragmented donors and their consolidated totals; fec dup rows dropped; institutional-zip
    caveat count.
