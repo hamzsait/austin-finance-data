@@ -1,0 +1,379 @@
+[
+  {
+    "donor_id": "c23084d61c08d70f",
+    "name": "Garza, Georgina",
+    "resolved_employer": "Retired (former career not identifiable from public records)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported occupation/employer on the filing is 'Ret' (retired), Austin 78745 (South Austin). No public professional profile, news mention, board seat, or business listing could be located for a Georgina Garza in Austin/78745; the only similarly-named public profile is a Georgina Garza in the Edinburg CISD / McAllen area, which does not match the Austin location or donation pattern. Former career could not be determined, so no industry beyond the retired-status fallback is asserted.",
+    "source_url": "https://www2.traviscountytx.gov/county_clerk/election/finance/reports.asp",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c5ed0fc576396dca",
+    "name": "Frank, Susan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm identity. 'Susan Frank' is a common name and the filing carries no occupation or employer string, only Austin 78757 (Crestview/Allandale/North Shoal Creek). The clean-energy lead was checked and NOT corroborated: the identifiable energy-sector Susan Frank is VP/Chief of Staff for Strategic Partnerships at the U.S. Energy Foundation (a national organization, no Austin/78757 tie shown), and no organization named 'Texas Business for Clean Energy' or 'Better Texas' with a Susan Frank as director could be found; the Texas Solar + Storage Association staff/board page contains no Susan Frank. Other LinkedIn 'Susan Frank' profiles resolve to Culver City CA, Montrose CO, and a healthcare firm, none in Austin. The donor's mixed federal partisan lean (0.31 over 60 donations) does not match the strongly progressive profile the clean-energy hypothesis would imply, a further reason not to assert the match. No industry asserted rather than guess.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c758984ef249d535",
+    "name": "McLean, Gentry",
+    "resolved_employer": "Gentry McLean, PLLC / KHMRG (Of Counsel) — registered patent attorney, Austin",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Gentry Crook McLean is a distinctively named Austin registered patent attorney (Ph.D. and J.D. from UT-Austin, Chief Articles Editor of Texas Law Review), practicing patent prosecution/counseling in semiconductors, circuits, computer hardware and software; formerly a patent litigator at Vinson & Elkins, law clerk to Fifth Circuit Judge Will Garwood, and assistant professor of electrical engineering at UW-Madison. Identity corroborated by rarity of the name, Austin location, and a donation pattern (consistently Democratic federal giving, 171 donations, plus a local Travis County commissioner race) consistent with an Austin professional; the filing zip 78751 is a residential Hyde Park zip and differs from the firm's business addresses, so identity is medium rather than high. No Texas Ethics Commission lobbyist registration found in the 2019-2026 registered-lobbyist lists, and no ideological PAC contributions (pro-Israel, pro-Palestine, gun, oil & gas, or defense) surfaced in FEC-derived records.",
+    "source_url": "https://www.intprop.com/team/gentry-crook-mclean/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Gentry McLean, PLLC / KHMRG",
+        "role": "Principal; Of Counsel — registered patent attorney",
+        "category": "business",
+        "source_url": "https://www.intprop.com/team/gentry-crook-mclean/",
+        "snippet": "Bio page lists Gentry McLean as Of Counsel, practice focused on patent prosecution and counseling in semiconductor devices, electronic circuits, computer hardware, networking technology and software applications; admitted in Texas, E.D. Tex., W.D. Tex., Federal Circuit and the USPTO."
+      }
+    ]
+  },
+  {
+    "donor_id": "f5ae3fa91ba97653",
+    "name": "London, Alice",
+    "resolved_employer": "Bishop London & Dodds, P.C., Austin — managing partner/attorney (State Bar status now inactive/retired)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Alice London is an Austin attorney, State Bar of Texas card no. 15292000, licensed 11/04/1983, UT School of Law 1983, listed at 3300 Bee Caves Rd, West Lake Hills 78746, bar status Inactive/Retired, no public disciplinary history; she practiced at Bishop London & Dodds, P.C. (business, professional-liability and injury litigation, 3701 Bee Cave Rd, Austin 78746), where she is identified as managing partner. Identity corroborated by an FEC-derived individual contribution record listing 'ALICE LONDON, Austin, 78746, Employer: Self, Occupation: Attorney' giving $500 to a Democratic Senate committee in 2011 — matching this donor's uniformly Democratic federal giving pattern (lean 1.0 across 195 donations) and her Travis County commissioner giving. She was NOT confirmed as a health-policy consultant; that lead did not corroborate and is not asserted. No Texas Ethics Commission lobbyist registration found in the 2019-2026 registered-lobbyist lists, and no pro-Israel, pro-Palestine, gun, oil & gas or defense PAC contributions surfaced.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=181546",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Bishop London & Dodds, P.C. (Austin law firm)",
+        "role": "Attorney / managing partner",
+        "category": "business",
+        "source_url": "https://www.martindale.com/organization/bishop-london-dodds-pc-1298189/austin-texas-1621380-f/",
+        "snippet": "Bishop London & Dodds, P.C. is an Austin firm (3701 Bee Cave Rd., Suite 200, Austin, TX 78746, established 1998) practicing business and personal injury litigation, professional liability, fiduciary, contract and fraud, energy and securities litigation; Alice London is listed with the firm as managing partner."
+      }
+    ]
+  },
+  {
+    "donor_id": "fc90ade8177cf7f9",
+    "name": "Weed, Elizabeth",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No zip, city, or employer on the record. Searches for an Elizabeth Weed in Austin/Travis County returned no matching person — the only prominent 'Elizabeth Weed' is a Brown University feminist-studies scholar in Rhode Island, which does not corroborate an Austin donor to a Travis County commissioner. No candidate could be anchored by location, occupation, or donation pattern; FEC PAC and Texas Ethics Commission lobbyist searches returned no Elizabeth Weed. No bio page was located to read, so bio_full_read is recorded false. Not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe145b7b269784e1",
+    "name": "Von Ohlen, Michael",
+    "resolved_employer": "Prism Development, Inc. (President) — Austin general contractor / development firm",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Michael Von Ohlen is President of Prism Development, Inc., 2709 E. 5th St., Austin, TX 78702 — the business address matches the donor's 78702 zip exactly. He has also served continuously on the City of Austin Board of Adjustment (the land-use variance board) since 2015, currently in his sixth term (March 1, 2025 - February 28, 2027) — a development-industry principal sitting on a city land-use body, which is exactly the small-dollar influence-adjacent pattern this pipeline tracks. FEC PAC search and Texas Ethics Commission lobbyist search returned no records under this name.",
+    "source_url": "https://austintexas.granicus.com/boards/w/63b694c8d56af43b/members/646715",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin Board of Adjustment",
+        "role": "Board member (6th term, 2015-present)",
+        "category": "civic",
+        "source_url": "https://austintexas.granicus.com/boards/w/63b694c8d56af43b/members/646715",
+        "snippet": "Michael Von Ohlen is listed as a member of the City of Austin Board of Adjustment, sixth term running March 1, 2025 through February 28, 2027, with continuous appointments since July 1, 2015."
+      },
+      {
+        "org": "Prism Development, Inc.",
+        "role": "President",
+        "category": "business",
+        "source_url": "https://www.thebluebook.com/iProView/265058/prism-development-inc/general-contractors/locations-contacts/",
+        "snippet": "Prism Development, Inc. is listed in the general contractors category with Michael Von Ohlen as President at 2709 E. 5th St., Austin, TX 78702."
+      }
+    ]
+  },
+  {
+    "donor_id": "fe68a2e47dd915cc",
+    "name": "Skarnulis, Steven",
+    "resolved_employer": "Cain & Skarnulis PLLC — founding partner, commercial litigation (retired from active practice July 31, 2025)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Steven Bradley 'Steve' Skarnulis, Baylor Law 2003, co-founded Cain & Skarnulis PLLC with Charlie Cain in 2007; the firm's Austin office at 303 Colorado Street, Suite 2850, Austin, TX 78701 matches the donor's 78701 zip. Practice covers business, construction, estate/trust, real estate and securities litigation. The firm announced he retired from active practice effective July 31, 2025 to focus on his battle with ALS. FEC PAC and Texas Ethics Commission lobbyist searches returned no records under this surname.",
+    "source_url": "https://cstrial.com/who-we-are/our-people/steve-skarnulis",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Cain & Skarnulis PLLC",
+        "role": "Founding partner / commercial litigator (retired 2025)",
+        "category": "business",
+        "source_url": "https://cstrial.com/who-we-are/about-the-firm",
+        "snippet": "Cain & Skarnulis was started by Charlie Cain and Steve Skarnulis in 2007 as a boutique commercial litigation firm in Austin, Texas."
+      }
+    ]
+  },
+  {
+    "donor_id": "ff85ffd2f1b817ad",
+    "name": "Jones, Benjamin",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No zip, city, or employer on the record, and 'Benjamin Jones' is an extremely common name with no distinguishing detail to anchor an Austin/Travis County identification. Searches of FEC PAC records, the Texas Ethics Commission lobbyist registry, and general web/bio sources produced no candidate that could be corroborated by location, occupation, or donation pattern. No bio page was located to read, so bio_full_read is recorded false. Not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7aa795ff32f60057",
+    "name": "Rosenthal, Leonard",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile found for a Leonard Rosenthal in Austin 78757 (Crestview/Brentwood). The record carries no occupation or employer string, so no employer fallback is available. The only Austin-area Leonard Rosenthal surfaced was an obituary for a Leonard Joe Rosenthal who died March 2014 — before this donor's 2017-10-23 first gift — so that is a non-match. No Austin academic/finance professor by this name was found at UT McCombs or other Austin institutions (the 'Len Rosenthal' finance professor is at Bentley University in Massachusetts). FEC PAC and Texas Ethics Commission lobbyist searches returned nothing matching. Cannot confidently identify this person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0350a1611aee4957",
+    "name": "Duchen, Marc",
+    "resolved_employer": "City of Austin — Council Member, District 10 (sworn in Jan 6, 2025); previously founder of a civic-engagement data/technology consulting business",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Marc Duchen is the sitting Austin City Council Member for District 10, which covers Northwest Austin including the donor's 78759 zip; his 2024 campaign address was 4711 Spicewood Springs Rd, Austin 78759. Donation pattern strongly corroborates: Travis County Commissioner Brigid Shea publicly endorsed Duchen in his 2024 District 10 race, calling him a 'proven progressive leader,' and this donor's only recipient is Shea (first gift 2025-06-30). Duchen is a UT Austin government grad with an MBA, a former Texas Democratic Party research director and Democratic campaign manager, and a leading neighborhood/land-use activist — board member of Community Not Commodity and spokesman for the plaintiffs in the litigation that killed CodeNEXT and later HOME-era code changes. FEC PAC search surfaced no ideological PAC giving (record shows 5 federal donations, fully Democratic lean); no Texas Ethics Commission lobbyist registration found under the Duchen surname.",
+    "source_url": "https://marcforaustin.com/my-story/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin City Council, District 10",
+        "role": "Council Member",
+        "category": "political",
+        "source_url": "https://austinmonitor.com/stories/2025/01/marc-duchen-readies-to-take-his-place-on-the-dais-for-district-10/",
+        "snippet": "Duchen won the November 5 election to claim Austin City Council District 10, succeeding retiring Council Member Alison Alter."
+      },
+      {
+        "org": "Community Not Commodity (dba of Save Our City Austin, Inc.)",
+        "role": "Board member; spokesman for plaintiffs in Austin land development code litigation",
+        "category": "civic",
+        "source_url": "https://austinmonitor.com/stories/2023/11/city-loses-second-suit-over-development-rules/",
+        "snippet": "Duchen served as spokesman for the plaintiffs suing over Austin's development ordinances: 'The only thing that we ever asked the city to do is to follow the law.'"
+      },
+      {
+        "org": "Austin Neighborhood Council",
+        "role": "Executive committee member",
+        "category": "civic",
+        "source_url": "https://marcforaustin.com/my-story/",
+        "snippet": "His bio lists volunteer and board service including the Austin Neighborhood Council executive committee and the Community Not Commodity board."
+      },
+      {
+        "org": "City Accountability Project PAC",
+        "role": "Involvement / participant",
+        "category": "political",
+        "source_url": "https://marcforaustin.com/my-story/",
+        "snippet": "Bio notes involvement with Political Action Committees, including the City Accountability Project PAC."
+      },
+      {
+        "org": "Texas Democratic Party",
+        "role": "Former Research Director; managed Democratic legislative and city council campaigns",
+        "category": "political",
+        "source_url": "https://marcforaustin.com/my-story/",
+        "snippet": "Career history includes Research Director for the Texas Democratic Party and managing Democratic campaigns in Texas in the 2000s."
+      }
+    ]
+  },
+  {
+    "donor_id": "a8b359bfbcc943e0",
+    "name": "Carrasco, Jose",
+    "resolved_employer": "Austin Voices for Education and Youth (AVEY) — Lead Community School Coordinator and Director of the Dobie Middle School Family Resource Center",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "The record's employer string 'Avey' and occupation 'Coordinator' match exactly: Jose Carrasco is AVEY's Lead Community School Coordinator (since 2018) and has directed the Dobie Family Resource Center since 2015, working in Austin's Rundberg corridor. He is a St. Edward's University graduate, a former Marine sergeant (5 years), a former AISD Parent Support Specialist at Mendez MS and LBJ HS, and was named 2023 National Community School Coordinator of the Year by the Institute for Educational Leadership and the Coalition for Community Schools. Taylor, TX 76574 residence is a plausible commute to his Austin worksite but was not independently confirmed. FEC PAC search found no ideological or industry PAC ties (record shows 146 small federal donations at a 0.69 Democratic lean, consistent with recurring small-dollar ActBlue-style giving); no Texas Ethics Commission lobbyist registration found for a Jose Carrasco.",
+    "source_url": "https://www.austinvoices.org/about-avey/staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Voices for Education and Youth (AVEY)",
+        "role": "Lead Community School Coordinator / Director, Dobie MS Family Resource Center",
+        "category": "civic",
+        "source_url": "https://www.austinvoices.org/about-avey/staff/",
+        "snippet": "Jose Carrasco has served as Dobie Family Resource Center Director since 2015 and Lead Community School Coordinator for AVEY since 2018."
+      }
+    ]
+  },
+  {
+    "donor_id": "02e1d0299c05ced4",
+    "name": "Borjon, Jesus",
+    "resolved_employer": "UPS — delivery driver",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Categorize-by-employer fallback. The filing itself reports occupation 'Delivery Driver' and employer 'UPS,' residing in Universal City, TX 78148 (San Antonio metro, near Randolph AFB) — an out-of-county donor to George Morales. No independent public profile, news coverage, bio page, or professional listing was found for a Jesus Borjon in Universal City. FEC PAC search returned no federal contributions (record shows 0 FEC donations, no partisan lean); Texas Ethics Commission lobbyist search returned no Jesus Borjon (the only 'Borjon' surfacing in TEC records is a Jose Borjon of Houston, a different person with a different first name and city). No affiliation is asserted.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0735afbc2b342a88",
+    "name": "Hill, Emily",
+    "resolved_employer": "City of Manor, TX — Mayor Pro Tem / Council Member Place 1",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Emily Hill is Mayor Pro Tem and Council Member Place 1 on the Manor, TX city council (serving since Dec. 2021, term expires Nov. 2028). Filing zip 78653 is Manor, TX, and the self-reported occupation 'Mayor Pro Tem' / employer 'City Council' match the official roster exactly — identity corroborated on name, title, city and zip. CAUTION: the record's fec_partisan_lean 0.29 across 240 federal donations is very likely name-collision noise against a common national name and should not be attributed to her without independent verification. No Texas Ethics Commission lobbyist registration found; no ideological PAC affiliation surfaced.",
+    "source_url": "https://www.manortx.gov/173/City-Council",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Manor, Texas — City Council",
+        "role": "Mayor Pro Tem, Council Member Place 1 (Dec. 2021-present, term expires Nov. 2028)",
+        "category": "political",
+        "source_url": "https://www.manortx.gov/directory.aspx?eid=51",
+        "snippet": "City of Manor staff directory lists Emily Hill as 'Mayor Pro Tem, Council Member Place 1,' Department: City Council, Term Expires November 2028."
+      }
+    ]
+  },
+  {
+    "donor_id": "0e256c683aa0a519",
+    "name": "Faz, Nora",
+    "resolved_employer": "Self (self-reported employer 'Self', occupation 'Employed')",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "No public profile, news mention, business listing, or professional record could be located for a Nora Faz in the Austin area; the only classification basis is the generic self-reported employer 'Self'. DATA-QUALITY CAVEAT: the filed zip 79718 is Balmorhea, TX (Reeves County, West Texas), which does not correspond to the stated city of Austin — likely a transcription error, so location could not be used to corroborate identity. FEC PAC and Texas Ethics Commission lobbyist searches returned no matches.",
+    "source_url": "https://www.zip-codes.com/zip-code/79718/zip-code-79718.asp",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "42f1e08a3e591bee",
+    "name": "Garrion, Fredrick",
+    "resolved_employer": "512 Shirtz (Austin, TX custom screen-printing / apparel business)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "The employer string resolves to 512 Shirtz, a verified small Austin-based custom screen-printing and apparel retailer (publicly listed as '512 Shirtz | Austin TX', associated with the ATX Hustlerz Club apparel line). No public profile, news mention, or professional record exists for Fredrick/Frederick Garrion himself, so this is an employer-fallback classification: employer confirmed, individual not independently corroborated beyond the Austin 78721 filing address being consistent with a local Austin employee. FEC PAC and Texas Ethics Commission lobbyist searches returned no matches.",
+    "source_url": "https://www.facebook.com/512shirtz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "531a0343ecbf1be8",
+    "name": "Limon, Louis",
+    "resolved_employer": "Travis County — Recording Specialist Lead (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "A LinkedIn profile for a Louis Limon listed as 'Recording Specialist Lead - Travis County' corroborates the self-reported occupation 'Travis Co retiree' and employer 'Formr Travis County' — name plus specific county-employment match. The LinkedIn page itself returned HTTP 999 and could not be fully rendered, so only the indexed profile headline was readable. DATA-QUALITY CAVEAT: the filed zip 79704 is a Midland, TX PO Box zip, not Austin — most likely a transcription error for the Austin zip 78704 — so location could not corroborate identity and confidence is held at medium. FEC PAC and Texas Ethics Commission lobbyist searches returned no matches.",
+    "source_url": "https://www.linkedin.com/in/louis-limon-69b71b53",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County, Texas",
+        "role": "Recording Specialist Lead (county employee, now retired per donor's own filing)",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/louis-limon-69b71b53",
+        "snippet": "LinkedIn profile headline: 'Louis Limon - Recording Specialist Lead - Travis County.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "73a0bda9b466178e",
+    "name": "Chidiac, Joseph",
+    "resolved_employer": "Econo Collision (auto body / collision repair shop), E Ben White Blvd, Austin TX",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Joseph Chidiac is a manager at Econo Collision, a family-owned Austin auto body shop on E Ben White Blvd; public review-aggregator copy for that specific shop describes the team as 'led by Joseph and George,' which corroborates the self-reported employer/occupation ('Manager', 'Econo collision') and the South Austin 78747 residence near the shop's location. Classified Retail rather than Transportation because the taxonomy's Transportation label covers movement of people/goods (trucking, transit, logistics), while a collision-repair shop is a consumer-facing retail service business. No FEC individual/PAC contribution records and no Texas Ethics Commission lobbyist registration surfaced for anyone named Chidiac; no bio, LinkedIn or professional profile page exists for him, so bio_full_read is recorded false. This is a categorize-by-employer fallback outcome.",
+    "source_url": "https://www.econocollision.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b12a771cffa1ed1",
+    "name": "Perez-Aguilera, Sylvia",
+    "resolved_employer": "Self-employed bookkeeper (Maplewood/St. Paul, MN area)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "A LinkedIn profile exists for Sylvia Perez-Aguilera in the St. Paul, MN area with the headline 'Self Employed & Enjoying Life,' consistent with the record's occupation 'Bookkeeper' / employer 'Self' and Maplewood, MN 55109 address (Maplewood is a St. Paul suburb). Identity corroboration is limited to the name+metro+self-employment match; the profile itself returned HTTP 999 and could not be read in full, so no board seats or affiliations could be checked on it and bio_full_read is recorded false. An out-of-state (Minnesota) donor to a Travis County race most likely indicates a personal/family connection to the candidate rather than an influence relationship, but no public source establishes that, so it is not asserted. No FEC individual/PAC contribution records and no Texas Ethics Commission lobbyist registration surfaced for this name. Employer-fallback classification only.",
+    "source_url": "https://www.linkedin.com/in/sylvia-perez-aguilera-99566b73/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7eca17a26e75e8c2",
+    "name": "Ramirez, Jill",
+    "resolved_employer": "Latino HealthCare Forum (LHCF), Austin — President/CEO and co-founder",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as Jill Ramirez, President/CEO and co-founder of the Latino HealthCare Forum (LHCF, 6601 Felix Ave, Austin TX 78741) — the employer string 'LHCF' plus occupation 'CEO' match exactly. Holds master's degrees from UT Austin; former AISD bilingual speech pathologist and educational consultant; LHCF was the only federal ACA Navigator in Central Texas under her leadership. NOTE: the record's zip 79745 is Kermit, TX (Winkler County) and conflicts with the 'Austin, TX' location — almost certainly a data-entry error for an Austin 787xx zip; identity is nonetheless confirmed by the employer/occupation match. SEPARATE CAUTION: the record's fec_partisan_lean 0.49 / 87 federal donations should not be attributed to her without verification — 'Jill Ramirez' is a common name and FEC.gov and OpenSecrets both blocked direct retrieval, so the FEC PAC search was run via web search only and returned no PAC records tied to this individual. No Texas Ethics Commission lobbyist registration found. Also of public record: DOJ announced in 2020 that a federal grand jury in Austin indicted her on one count of conspiracy, one count of falsification of records with intent to obstruct, and one count of false statements, over a September 2015 agreement to pay 10% of the nonprofit's federal grant proceeds to Frank Rodriguez, LHCF's co-founder and then a senior policy advisor to a City of Austin official; DOJ said Rodriguez pleaded guilty. These are charges, not convictions, and the disposition of her case is not established by the sources reviewed — recorded here as an unresolved allegation, and no affiliation is derived from it.",
+    "source_url": "https://www.lhcf.org/about-us-update",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Latino HealthCare Forum",
+        "role": "President/CEO and co-founder",
+        "category": "civic",
+        "source_url": "https://www.lhcf.org/about-us-update",
+        "snippet": "Jill Ramirez is the CEO and one of the founders of the Latino HealthCare Forum; under her guidance LHCF served as the only Federal Navigator for the Affordable Care Act in Central Texas and instituted the Rundberg Innovation Zone place-based initiative."
+      },
+      {
+        "org": "City of Austin Hispanic/Latino Quality of Life Resource Advisory Commission",
+        "role": "Chair (former)",
+        "category": "political",
+        "source_url": "https://services.austintexas.gov/edims/document.cfm?id=282602",
+        "snippet": "City of Austin memorandum addressed 'TO: Jill Ramirez, Chair & Hispanic/Latino Quality of Life Resource Advisory Commission' members."
+      },
+      {
+        "org": "City of Austin Joint Inclusion Committee",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://www.lhcf.org/about-us-update",
+        "snippet": "Her civic engagement includes memberships to various civic organizations such as Raza Round Table, Hispanic Quality of Life Commission and Joint Inclusion Committee for the city of Austin."
+      },
+      {
+        "org": "LULAC District VII, Dove Springs Chapter",
+        "role": "Vice President and Youth Deputy Director",
+        "category": "civic",
+        "source_url": "https://www.lhcf.org/about-us-update",
+        "snippet": "LULAC District VII Dove Springs Chapter as Vice President and Youth Deputy Director."
+      },
+      {
+        "org": "Raza Round Table",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://www.lhcf.org/about-us-update",
+        "snippet": "Her civic engagement includes memberships to various civic organizations such as Raza Round Table..."
+      },
+      {
+        "org": "Austin ISD Community Bond Oversight Committee and HUB Subcommittee; English Language Learners Advisory Board",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://www.lhcf.org/about-us-update",
+        "snippet": "English Language Learners Advisory Board, Community Bond Oversight Committee and HUB Subcommittee member at AISD."
+      },
+      {
+        "org": "U.S. Department of Justice, Western District of Texas — federal indictment (charges only; disposition not established)",
+        "role": "Defendant, indicted 2020 on conspiracy, falsification of records and false statements",
+        "category": "political",
+        "source_url": "https://www.justice.gov/usao-wdtx/pr/former-chairwoman-city-austin-advisory-commission-indicted-falsifying-records",
+        "snippet": "DOJ press release: a federal grand jury in Austin indicted the former chairwoman of a City of Austin advisory commission over a September 2015 agreement to pay 10% of a nonprofit's federal grant proceeds to a former executive director who was then a senior policy advisor to a city official. An indictment is an allegation; the defendant is presumed innocent unless and until proven guilty."
+      }
+    ]
+  },
+  {
+    "donor_id": "9dc09830318cad58",
+    "name": "Castaneda, Orlando",
+    "resolved_employer": "Travis County Constable Precinct 4 — Corporal (deputy constable)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Orlando Castaneda is listed by name and rank as a Corporal on the official Travis County Constable Precinct 4 command staff & deputies roster, matching the record's occupation 'Deputy' and employer 'Travis County Constable's Office' and the Austin 78753 address. Donation pattern strongly corroborates: recipient George Morales III was the elected Constable of Precinct 4 from 2017 to 2025 — i.e., Castaneda's own office head — and Morales went on to run for Travis County Commissioner Precinct 4; the first gift date of 2025-03-25 aligns with that campaign. This is law-enforcement employment, and the donation is from an employee to their own department head's campaign. No FEC individual/PAC contribution records surfaced for this name (FEC.gov and OpenSecrets blocked direct retrieval), and no Texas Ethics Commission lobbyist registration was found. No deputies' association or law-enforcement PAC affiliation is recorded: searches for a documented tie between this specific person and the Travis County Sheriff's Officers' Association, TCSLEA, or any peace-officer PAC returned nothing naming him, and membership must not be inferred from employment alone.",
+    "source_url": "https://www.traviscountytx.gov/constables/4/command-staff-deputies",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Constable Precinct 4",
+        "role": "Corporal (deputy constable)",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/constables/4/command-staff-deputies",
+        "snippet": "Official Precinct 4 command staff and deputies roster lists 'Corporal: Orlando Castaneda' under Constable Gabriel Padilla."
+      }
+    ]
+  }
+]

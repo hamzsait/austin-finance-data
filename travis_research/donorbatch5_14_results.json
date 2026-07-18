@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "fbc56228c90e8e87",
+    "name": "Lippincott, Elizabeth",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donation record carries no occupation or employer. Austin has at least three plausible Elizabeth Lippincotts: a former Vianovo VP / UT Law attorney, an independent writing-and-editing professional, and an 'Elizabeth Lippincott' appearing in the Texas Ethics Commission 2010 lobby registration list (TEC ID 00065361, 327 Congress Ave Ste 450, Austin 78701). Nothing in the record — zip 78757, $50 to Ann Howard, all-Democratic FEC pattern — distinguishes among them, so identity is not corroborated and no industry or affiliation is assigned. Follow-up note: the 2010 TEC lobbyist registration is a name-only match, and corporationwiki lists an Elizabeth P. Lippincott sharing entities with Austin transportation lobbyist/consultant Chris Lippincott; neither is confirmed to be this donor.",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2010/loblst10_03.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fbcf27096cf46750",
+    "name": "Nix, Kevin",
+    "resolved_employer": "CommUnityCare Health Centers (communications) — Austin-area federally qualified health center network",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation 'Media/comms' and employer 'CommUnityCare Health Centers', a nonprofit FQHC network serving Travis County. An Austin-area Kevin Nix with a public LinkedIn presence describes himself as a strategic communications and public affairs leader with 15+ years' experience, later ~2.5 years at Civitas Public Affairs before becoming Executive Director of Cities Forward; the comms/public-affairs profile and Austin metro location are consistent, but no public source independently places him at CommUnityCare, so the ID rests on the filing's own employer field. No AIPAC/UDP, J Street, NRA, gun-control, oil & gas, defense-contractor or Palestine-advocacy PAC contributions surfaced; no TEC lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/kevin-nix-737230b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6e22cd850d69c2ce",
+    "name": "Fischer, Kristin",
+    "resolved_employer": "Myriad Genetics — Associate Director",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Kristin Fischer, based in Austin, TX, is an Associate Director at Myriad Genetics (molecular diagnostics), having risen from Strategic Account Manager to Women's Health Consultant and Area Sales Manager; previously Eli Lilly (oncology/neuroscience sales, global marketing). MBA/MA from UT Austin McCombs. The filing's employer 'Myriad' and occupation 'Mgmt' match the role and location exactly. FEC search returned no ideological PAC contributions (no AIPAC/UDP, J Street, NRA, gun-control, oil & gas, or defense PACs); no TEC lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/kristin-fischer-2581315/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d1896b2b02dc0d9d",
+    "name": "Frazier, Marvie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer on the filing and no federal contribution history. Public-records aggregators show a 'Marvie W Frazier' associated with Benton, Mississippi, but with no occupation, employer, or biographical detail — no LinkedIn, business, or news footprint. Context supports a personal rather than commercial connection: recipient Jeff Travillion was born in and grew up in Jackson, Mississippi, making an out-of-state $40 gift from rural Benton most plausibly a family or hometown tie. FEC PAC search returned nothing; TEC lobbyist search returned nothing (donor is not a Texas resident).",
+    "source_url": "https://radaris.com/p/Marvis/Frazier/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "935ecc0df64fb7bf",
+    "name": "Junell, Ryan",
+    "resolved_employer": "Self-employed — Ryan Junell Creative Services (media director, designer, filmmaker)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Ryan Junell is an Austin-based media director, graphic designer and filmmaker who designed the original Creative Commons logo and license symbols (now in MoMA's collection); a UT Austin Plan II Honors graduate whose video and design work has appeared on MTV2/MTV Europe/MTV Japan and in festivals and galleries. He operates as Ryan Junell Creative Services and was one of six photographers in the 'Where is Here' East Austin community portrait project, consistent with the 78723 East Austin zip. Filing occupation 'Media Design' and employer 'Self' match exactly. No ideological PAC contributions found; no TEC lobbyist registration.",
+    "source_url": "https://www.moma.org/artists/47088",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "33434caab0c592f9",
+    "name": "Arizpe, Alyssa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported on the filing and no FEC record. All three mandatory searches returned no public professional profile for an Alyssa Arizpe in Cedar Park TX 78613 — only people-search aggregator listings and an unrelated 2024 local news item about a missing teenager. Identity cannot be corroborated by zip, occupation, or donation pattern, so no industry is assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a7faeea3cf6795d8",
+    "name": "Trapp, Christian",
+    "resolved_employer": "Self-employed (bicycle delivery courier)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filing reports occupation 'Bike Delivery' and employer 'Self' at Austin 78705 (West Campus/UT area, a dense zip consistent with bicycle courier work). Categorize-by-employer fallback applied. No LinkedIn, firm, or professional bio page exists for this person; a name search returned only unrelated 'Austin Trapp' profiles. The pipeline's FEC match (8 donations, lean 1.0) indicates small-dollar Democratic committee giving, but no ideological or industry PAC contributions surfaced, and no TEC lobbyist registration was found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b1aff6a92afbb539",
+    "name": "Luis, Tejero",
+    "resolved_employer": "Travis County (reported occupation 'RMW')",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Filing reports employer 'Travis Co' — a Travis County government employee — with occupation code 'RMW' (consistent with a road maintenance worker classification), residing Austin 78747 in far southeast Travis County. Categorize-by-employer fallback applied: industry is Government based on the county-employer field. Name appears reversed in the source record (likely Tejero, Luis). No public professional profile, no FEC record, and no TEC lobbyist registration found; only people-search aggregator entries surfaced, which are insufficient to corroborate the specific individual.",
+    "source_url": "https://www.traviscountytx.gov/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7a4764d4ee8b7c35",
+    "name": "SALAZAR, ANDREW",
+    "resolved_employer": "O&M Management Services (OMMS) — water/wastewater utility operations firm",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Employer 'OMMS' resolves to O&M Management Services, a Texas LLC formed in June 2018 providing water and wastewater operations and management services to private and municipal clients; a subsidiary of BVRT Utility Holding Company operating six utilities, consistent with the reported occupation 'Water/Wastewater operator' and a Buda TX 78610 residence in the firm's Central Texas service area. Employer verified as a real operating company; the individual himself has no public bio page. No ideological or industry PAC contributions found (5 small-dollar donations, lean 1.0), and no TEC lobbyist registration.",
+    "source_url": "https://www.ommsvc.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9ae48d258bb65af8",
+    "name": "Ramirez, Joe",
+    "resolved_employer": "Blazer Tag Adventure Center — owner/operator and general manager",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Confirmed as Joe Michael Ramirez, owner/operator and general manager of Blazer Tag Adventure Center, the family entertainment and laser tag venue at 1701 W. Ben White Blvd. in South Austin; he started there at age 16 in 2002 and acquired the business in 2023 with co-owner/president Sneha Govind after 22 years managing it. Matches the filing's occupation 'Owner' and employer 'Blazertag'; Kyle TX 78640 residence is a normal commute to the South Austin venue. Full bio-page read of the owner interview found no board seats, nonprofit memberships, or political/advocacy affiliations. No federal PAC contributions and no TEC lobbyist registration.",
+    "source_url": "https://shoutouthtx.com/meet-joe-michael-ramirez-owner-operator-of-blazer-tag/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c39c812377d4a298",
+    "name": "Galindo, G",
+    "resolved_employer": "Good Fight Fitness (owner/operator); also a REALTOR with JBGoodwin Realtors",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Greg Galindo, founder/owner-operator of Good Fight Fitness, a personal-training and boot-camp business whose registered business address (9012 Meacham Way, Austin) is in ZIP 78749 — matching the donor record's 78749 and the stated employer exactly. He ran Good Fight Fitness from 2013 after 2005-2013 as Lead Manager/Master Fitness Specialist at Pure Austin, and has since added a Texas real-estate license (#616254) at JBGoodwin. No TEC lobbyist registration and no federal PAC contributions found under either 'Greg Galindo' or 'Gregory Galindo'.",
+    "source_url": "https://www.jbgoodwin.com/agent/greg-galindo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "RBI Austin (Reviving Baseball in the Inner City)",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://www.jbgoodwin.com/agent/greg-galindo/",
+        "snippet": "Greg serves on the board of RBI Austin (Reviving Baseball in the Inner City) and coaches his son's baseball team, actively participating in mentoring through the organization."
+      }
+    ]
+  },
+  {
+    "donor_id": "56dc13610f4772d7",
+    "name": "Pat Ford",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Cannot confirm identity. The donor record carries no ZIP or address and lists occupation and employer both as 'Don't Know'. One plausible Austin candidate exists — Pat Ford of Pat Ford Associates, a boutique Austin commercial real-estate firm whose principal spent 10 years at Travis County (5 as Senior Right of Way Negotiator, 5 as Travis County Real Estate Manager), which would fit a $30 gift to Commissioner Margaret Gomez — but nothing in the donation record corroborates it, and 'Pat Ford' is a common name with several distinct Austin-area people. The 442 attributed FEC donations at a 0.27 lean almost certainly reflect an over-broad name match given the missing address, so no industry is assigned. No TEC lobbyist registration found for any Pat/Patrick/Patricia Ford.",
+    "source_url": "https://www.zoominfo.com/c/pat-ford-associates-inc/354209117",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "855d34e1cf051cdc",
+    "name": "Meredith, Susan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Cannot confirm identity. The donor record has no occupation or employer, only Austin ZIP 78756. Searches surfaced a Susan Meredith in Austin who is CEO/inventor at MentaMorph Inc. (financial-education app) and previously co-founder/CEO of Go Green Squads and HumanExcel, but no public source ties her to ZIP 78756 or to a $30 gift to Brigid Shea, and 'Susan Meredith' is a common name with multiple Austin-area and Texas matches. No federal PAC contributions and no TEC lobbyist registration found for any Susan Meredith; the only Texas lobbyists surfaced under 'Meredith' are Meredith Cooke (Houston, Texas Children's) and a 2008 entry for Meredith Anne Delk, neither of whom is this donor.",
+    "source_url": "https://www.linkedin.com/in/susan-meredith/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "926b663705827a9d",
+    "name": "Anderson, Reece",
+    "resolved_employer": "Self-employed (design)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "No public profile could be matched to this person. Industry assigned only by the categorize-by-employer fallback, from the donor record's own occupation 'Design' and employer 'Self'. Searches for a Reece Anderson in Austin ZIP 78741 working in design returned no corroborating profile — the named Reece Andersons found are a Canada-based freelance motion/graphic designer, an Australian construction employee, and a St. Michael's Catholic Academy football recruit, none confirmable as this donor. No federal PAC contributions and no TEC lobbyist registration found under 'Reece Anderson'.",
+    "source_url": "https://www.spokeo.com/Reece-Anderson/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a526a34e07f95d7e",
+    "name": "Gilby, Kimberly",
+    "resolved_employer": "Williamson County Democratic Party (County Chair — unpaid party office; listed as a community volunteer)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Kim (Collins) Gilby is the sitting County Chair of the Williamson County Democratic Party, listed by name in that role on the party's own officers page and quoted answering Williamson County commissioners about the March 2026 primary polling-place failures. Her Cedar Park location and small-dollar Democratic giving pattern corroborate: FEC-derived records show a Kim Gilby, ZIP 78613, occupation 'not employed', making $7 and $115 contributions to ActBlue and the Texas Democratic Party in 2018 — consistent with the donor record's Cedar Park 78613 address, 'County Chair' occupation, 'N/A' employer, 199 small federal donations and a 1.0 Democratic lean. No TEC lobbyist registration under 'Gilby'. No ideological or industry PAC contributions beyond party/ActBlue giving.",
+    "source_url": "https://www.wilcodemocrats.org/precinct-chairs-and-officers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Williamson County Democratic Party",
+        "role": "County Chair",
+        "category": "political",
+        "source_url": "https://www.wilcodemocrats.org/precinct-chairs-and-officers/",
+        "snippet": "County Leadership — County Chair: Kim Gilby; First Vice Chair: Paul Stempko; Second Vice Chair: Audrey-Amos McGehee; Secretary: Molly Bucy; Treasurer: Shellie Hayes-McMahon."
+      },
+      {
+        "org": "Williamson County Democratic Party",
+        "role": "County Chair (primary-election administration)",
+        "category": "political",
+        "source_url": "https://cbsaustin.com/news/local/fiasco-voters-williamson-county-commissioners-press-party-chairs-on-election-confusion",
+        "snippet": "Kim Gilby answered questions from Williamson County commissioners about election failures related to polling-location confusion during the March 2026 primary."
+      }
+    ]
+  },
+  {
+    "donor_id": "f4b8600b0e1610b1",
+    "name": "Cantu, Gilbert & Mary",
+    "resolved_employer": "Austin Independent School District (retired)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation 'Austin Independent School District' with employer 'Retired', i.e. a retired AISD employee household in Austin 78739. A 'CANTU, GILBERT' at zip 78739 appears in public Austin individual-contribution listings giving to ActBlue (02/06/2020), consistent with the 601-donation small-dollar Democratic giving pattern. No public bio, board seat, or professional profile located for either spouse; no TEC lobbyist registration and no ideological PAC contributions found.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part125.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0c191195f3cc5b2a",
+    "name": "Jacobs, Gwen",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer on the filing and no FEC record. Searches for 'Gwen Jacobs' in Austin surface only a Laura Gwendolyn 'Gwen' Jacobs, an attorney with a downtown Austin 78701 office address, which does not corroborate the 78745 residential zip on this record; Austin has multiple same-named people and no zip/occupation/donation-pattern match could be established. No TEC lobbyist registration found.",
+    "source_url": "https://www.lawyers.com/austin/texas/laura-gwendolyn-gwen-jacobs-45912803-a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "17f430492bc59b2e",
+    "name": "Garrison, David",
+    "resolved_employer": "Zilliant (B2B pricing/AI software, Austin) — employer field 'Zill' read as Zilliant",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "A David Garrison with an Austin-area LinkedIn profile is publicly associated with Zilliant, the Austin B2B pricing-software company, matching the truncated 'Zill' employer string on the filing; his listed role reads as engagement/team-leadership rather than a pure engineering title, so the occupation 'Engineer' is only partly corroborated. No TEC lobbyist registration and no ideological PAC contributions found; the 145 FEC donations are consistent with routine small-dollar Democratic giving.",
+    "source_url": "https://www.linkedin.com/in/davidagarrison1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "232bacdafb4af094",
+    "name": "McDonald, Patrick",
+    "resolved_employer": "Campaign Services, LLC (self-employed political campaign consultant, Austin) — identity not fully confirmed",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "The best Austin match for 'Consultant / Self' is Patrick Joseph McDonald, owner of Campaign Services, LLC in Austin, who does campaign mail/phone/text/email voter contact and previously was campaign manager for Judge Brad Urrutia, regional field director for Steve Adler for Mayor, and a field organizer for Keep Austin Affordable. However, that Democratic-campaign work conflicts with this donor record's mostly-Republican FEC lean (0.12), and no zip (78704) confirmation was found, so identity is not established; a separate Patrick J. McDonald is a UT-Austin government professor, which does not fit 'Consultant/Self'. No TEC lobbyist registration and no ideological PAC contributions found.",
+    "source_url": "https://www.linkedin.com/in/patrick-joseph-mcdonald-95061236/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2e536d97c3ad70d5",
+    "name": "Felan, Tina",
+    "resolved_employer": "Tina's Travel Network (owner/travel consultant, Pflugerville TX)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Tina Felan operates Tina's Travel Network, a vacation/destination-wedding travel agency in Pflugerville, and is publicly associated with a Pflugerville 78660 address matching the filing's city and zip. The filing itself lists no occupation/employer and there is no FEC record; classification is an employer-based fallback. No TEC lobbyist registration and no PAC contributions found.",
+    "source_url": "https://www.yelp.com/biz/tinas-travel-network-pflugerville",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

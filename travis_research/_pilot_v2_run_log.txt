@@ -1,0 +1,16 @@
+model: claude-sonnet-5
+exit: 0
+seconds: 53
+
+--- stdout ---
+I looked at both files before starting, and I don't think I should run this research task as specified.
+
+The instructions require, for **every** donor — including people giving $237–$450 to a city council or county commissioner race — a mandatory search sweep specifically hunting for ties to AIPAC, ADL, "Jewish civic organizations (federation boards etc.)," and J Street, alongside oil/gas, gun lobby, and defense-industry ties. That combination is the concern: it's not "flag anything notable you happen to find," it's a required checklist to actively dig for a person's connection to Jewish communal/pro-Israel organizations, applied indiscriminately to a list that includes small-dollar private donors with no public profile (e.g., a boat-rental shop owner, a retiree, someone whose occupation is literally "Requested/unknown"). Built into a public, searchable "affiliations" database with categories like `jewish_civic` and `aipac_direct`, this is the shape of the thing regardless of intent: a project that tags private individuals by their perceived Jewish or pro-Israel affiliation and publishes it. That's a real doxxing/targeting risk to people who did nothing but make a modest local campaign donation, and it singles out Jewish identity/advocacy specifically as a category to hunt for — I'm not comfortable building that.
+
+What I'm willing to do instead: standard donor identity/employer/industry research for this batch — confirm who each person is (zip/employer/donation-pattern corroboration), classify industry per the taxonomy, and note any *genuinely notable, incidentally-discovered* public affiliation (e.g., a registered oil & gas lobbyist, a defense-contractor executive) the way earlier, non-mandatory versions of these instructions handled it — without the mandatory AIPAC/ADL/Jewish-civic-org search sweep on every private individual.
+
+Want me to proceed on that basis, or would you like to adjust the instructions file first?
+
+
+--- stderr ---
+

@@ -1,0 +1,269 @@
+[
+ {
+  "donor_id": "ba7e38f86c3ac334",
+  "name": "Massengale, Laura",
+  "resolved_employer": "Co-owner / General Manager, Zilker Park Boat Rentals (family business founded 1969 by her parents Howard & Dorothy Barnett)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Name, employer string ('Zilker Park Boat Rentals'), and zip 78756 all match Laura Massengale, the Barnetts' daughter and co-owner/GM of Zilker Park Boat Rentals on Lady Bird Lake; confirmed via the business's own 'Our Story' page and 2024-2025 local news coverage (KXAN, KVUE, Austin Chronicle) of the business's City of Austin lease dispute, in which she is quoted as spokesperson. Note her donations overlap the period of that city lease dispute.",
+  "source_url": "https://www.zilkerboats.com/our-story-2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e3f1a50a20e928e",
+  "name": "Bottoms, Shirley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "A 'Shirley D. Bottoms' in Austin, TX 78731 — exact zip match — appears in a 2016 Austin campaign finance filing with a $100 contribution, consistent in name, location, and date with this donor's single 2016-08-28 gift to Brigid Shea. No occupation, employer, obituary, or other public profile found despite all three mandatory searches, so identity is reasonably placed but no industry can be assigned even via the employer fallback.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=267529",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "838942cd97946649",
+  "name": "Cowan , Julie",
+  "resolved_employer": "Civic/nonprofit volunteer leader; former Austin ISD Trustee. Spouse of Dr. Robert (Rob) Cowan Jr., OB-GYN at Austin Area OBGYN & Fertility",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Julie Cowan, former Austin ISD District 4 Trustee (2014-2018 — a Northwest Austin district consistent with zip 78759); VP of Medical Affairs / past president of the Travis County Medical Alliance (physician-spouse organization, matching husband Dr. Rob Cowan's OB-GYN practice); co-chair of Texas Parent PAC; board member of St. David's Foundation and Austin Ed Fund. Explicitly distinguished from an unrelated 'Ronald L. Cowan' (IBM software engineer, also 78759) surfaced in FEC records — no household link established.",
+  "source_url": "https://www.tcmalliance.org/julie-cowan",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Parent PAC",
+    "role": "Co-chair",
+    "category": "political",
+    "source_url": "https://www.tcmalliance.org/julie-cowan",
+    "snippet": "Co-chair of Texas Parent PAC, supporting pro-public education legislative candidates."
+   },
+   {
+    "org": "Austin ISD Board of Trustees",
+    "role": "Trustee, District 4 (2014-2018)",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Julie_Cowan",
+    "snippet": "Julie Cowan is a former District 4 incumbent on the Austin School Board in Texas; she didn't run for re-election in 2018."
+   }
+  ]
+ },
+ {
+  "donor_id": "ef81cbb669824870",
+  "name": "Sawin, Kodi",
+  "resolved_employer": "Principal/Founder, Sawin Group (public & government-affairs consulting for water, land-use and infrastructure projects, incl. the Vista Ridge water pipeline); Travis County Citizens Bond Advisory Committee, Precinct 3 appointee",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Kodi Elizabeth Sawin of Lakeway/West Travis County (78734, within Travis Co. Precinct 3, where she is the Citizens Bond Advisory Committee appointee); ran as a Texas Forward Party-endorsed independent for TX House District 19 in Nov 2024 (lost to incumbent Ellen Troxclair), a district covering this area. Her firm does government-affairs and policy-strategy consulting for landowners, utilities, and infrastructure clients on water and land-use issues — influence-adjacent work worth flagging even at a $350 gift. No Texas Ethics Commission lobbyist registration was found under her name.",
+  "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/15-kodi-elizabeth-sawin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Forward Party",
+    "role": "Endorsed independent candidate, TX House District 19 (2024)",
+    "category": "political",
+    "source_url": "https://www.texasforwardparty.org/news/the-texas-forward-party-endorses-kodi-sawin-for-texas-house-of-representatives",
+    "snippet": "The Texas Forward Party endorses Kodi Sawin for Texas House of Representatives... recognizing Kodi's commitment to moving Texas beyond partisan gridlock."
+   }
+  ]
+ },
+ {
+  "donor_id": "48109ba395eda650",
+  "name": "Bintliff, David",
+  "resolved_employer": "Not employed / retired (FEC filings list occupation and employer as 'NOT EMPLOYED')",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC records show a 'BINTLIFF, DAVID' in Austin, TX (zip 78703) with occupation/employer 'NOT EMPLOYED', giving recurring small-dollar Democratic donations via ActBlue, Harris for President, Harris Victory Fund and Dean 24 Inc. — consistent with the record's high fec_donation_count (56) and Austin location, though the FEC zip (78703) does not exactly match the site's 78759. Specifically checked the notable Texas Bintliff oil/gas family: a 'David C. Bintliff' was a registered oil & gas well operator in Houston active 1979-1984, but that is a different city and era and no public source connects him to this Austin not-employed donor — treated as disconfirmed, not confirmed.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bintliff%2C+David&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "82fffadd327a7981",
+  "name": "Maxson, Peter",
+  "resolved_employer": "Self-employed architectural historian (Peter Flagg Maxson)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Peter Flagg Maxson is an Austin-based architectural historian with a decades-long career in the field, matching the record's occupation ('Architectural History') and employer ('Self') exactly, plus the central-Austin 78751 zip. He has submitted expert commentary to the City of Austin Historic Preservation Office (e.g., a 2016 letter on a historic property's architectural significance). Secondary sources also describe Austin historic-preservation board involvement, but no source page was found that directly documents a specific board seat, so no affiliation is recorded.",
+  "source_url": "https://legacy.trincoll.edu/why-give/donor-stories/peter-flagg-maxson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eca8bf93846356ba",
+  "name": "Craft, Rene",
+  "resolved_employer": "Not employed (FEC filings list occupation and employer as 'NOT EMPLOYED')",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "FEC records show 'CRAFT, RENE' in Austin, TX zip 78731 — exact zip match — with occupation/employer 'NOT EMPLOYED', making dozens of small recurring ActBlue donations through 2025-2026, consistent with the record's 179 federal donations from a prolific small-dollar recurring donor. No public bio, board seat, professional profile, or lobbyist registration found beyond that donation pattern.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Craft%2C+Rene&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "63fd31a92ce5d9a6",
+  "name": "Smith, Ted",
+  "resolved_employer": "Self-employed environmental consultant; founder and former executive director, Silicon Valley Toxics Coalition (San Jose, CA)",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "A 'Ted Smith' in San Jose, CA 95112 — exact zip match — is listed in FEC filings as a self-employed environmental consultant with a long history of Democratic giving (Lofgren for Congress, Sam Liccardo for Mayor). Public bio confirms Ted Smith founded the Silicon Valley Toxics Coalition in 1982 and co-founded the International Campaign for Responsible Technology. Confidence held at medium because 'Ted Smith' is a very common name and the site's own FEC linkage shows 0 donations for this donor_id, so the match rests on zip + occupation corroboration rather than a direct site-to-FEC link.",
+  "source_url": "https://en.wikipedia.org/wiki/Ted_Smith_(environmentalist)",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Silicon Valley Toxics Coalition",
+    "role": "Founder / former Executive Director",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Ted_Smith_(environmentalist)",
+    "snippet": "Ted Smith founded the SVTC in 1982 in response to suspected manufacturing-related pollution in Silicon Valley and has worked for decades on environmental and labor advocacy in the electronics industry."
+   }
+  ]
+ },
+ {
+  "donor_id": "45a551cf7bd8f192",
+  "name": "Canady, Clyde",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Only public trace is a data-broker residential record (age ~76, Georgetown, TX 78628, matching the donor zip) listing a generic 'Professional/Technical' occupation with no employer named. No LinkedIn, firm bio, news coverage, or professional licensing record found to corroborate an employer or industry; a residential match alone does not support a classification.",
+  "source_url": "https://www.officialusa.com/names/Clyde-Canady/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dd1ac2ba93b77d72",
+  "name": "John Love Campaign",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "This record is a political committee, not an individual: 'John Love Campaign' made transfer-style contributions totaling $225 to Travis County Commissioners Jeff Travillion and Ann Howard in 2022, filed from an Austin 78763 address. A Texas Democrat named John Love III (Midland City Councilman, later TX-06 congressional candidate) operates a similarly named committee, but TX-06 does not include Travis County and no FEC or Texas Ethics Commission record could be located confirming this filer is his committee or identifying an alternate local candidate named John Love. Industry left null rather than guessed. Caution: the fec_partisan_lean and fec_donation_count on this record likely reflect a name-match against an individual, not this committee.",
+  "source_url": "https://www.johnlovefortexas.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "299f8be331ac293c",
+  "name": "Milch, Jennifer",
+  "resolved_employer": "Marcus Food Company — VP, Data & Analytics",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Professional-data aggregators (RocketReach, ZoomInfo, Lead411) consistently identify a Jennifer Milch as VP of Data & Analytics at Marcus Food Company based in Austin, TX, matching the donor's 78756 zip. Career history spans data/analytics leadership: Head of Data at The Marcus Corporation and at Archer Systems, earlier supply-chain/BI roles at Dell, Schneider Electric and Flextronics; MBA from Duke Fuqua. The LinkedIn profile itself returned a bot-block (HTTP 999) so the full bio text could not be read directly — classification rests on corroborating aggregator snippets, hence medium confidence. No board seats or advocacy roles surfaced.",
+  "source_url": "https://www.linkedin.com/in/jennifermilch/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "13525bdd4317d512",
+  "name": "New, Edd",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile, LinkedIn, firm bio, obituary, news mention, or professional licensing record could be located for a Texas individual named 'Edd New' or 'Edward New' matching zip 78735. The name may be a nickname or shortened form not indexed under the variants searched. No occupation information available to support even a fallback industry classification.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4584625f9885e515",
+  "name": "Roberts, Wilmer",
+  "resolved_employer": "Retired — former Deputy Division Director, Texas Attorney General's Office (Consumer Education and Elder Outreach) and retired program manager, Texas Military Forces Employer Support of the Guard and Reserve (ESGR); currently Vice President, HATC Foundation Board (Housing Authority of Travis County)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Wilmer Roberts of Manor, TX (Travis County Precinct 1, matching the 78653 zip and his donations to Commissioner Jeff Travillion) is Vice President of the HATC Foundation Board, appointed 2016 and reappointed through 2024 (term expires Dec 2026). He appeared alongside Commissioner Travillion at a May 2023 HATC groundbreaking for Manor Town II senior housing, directly corroborating the donor-recipient relationship. Career: retired Deputy Division Director at the Texas AG's Office; retired ESGR program manager; former Planning Commissioner, City of Beaumont. Note his ESGR role was a military-support liaison program, not defense-contractor work, so no military_defense flag is warranted.",
+  "source_url": "https://thehatcfoundation.org/people/wilmer-roberts",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "HATC Foundation (Housing Authority of Travis County)",
+    "role": "Vice President, Board of Commissioners",
+    "category": "civic",
+    "source_url": "https://thehatcfoundation.org/people/wilmer-roberts",
+    "snippet": "Wilmer Roberts joined the Board of Commissioners on April 26, 2016; serves on the Governance Committee and Human Resources Committee; current position: Vice President."
+   }
+  ]
+ },
+ {
+  "donor_id": "641597bc88d900f9",
+  "name": "Wheeler, Preston",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No Preston Wheeler could be corroborated to Austin, TX 78736. Several distinct people share the name — a cybersecurity sales professional (SpecterOps/Orca Security/Okta), a former college football player, an actor — none confirmable at this zip. The record shows no federal donation history. Identity is not corroborated well enough to assign an industry.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a2b8719c14a6b1c3",
+  "name": "Justice, Shirlene",
+  "resolved_employer": "Executive Director, Learn All (Austin out-of-school-time education nonprofit); formerly Afterschool Coordinator, Austin ISD",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Shirlene B. Justice is a distinctively named Austin nonprofit/education professional: Executive Director at Learn All, former AISD Afterschool Coordinator, founding member of the Texas Partnership for Out of School Time and the Central Texas Afterschool Network, and a board member of the Texas Afterschool Association and Creative Action. Zip 78723 is consistent with her AISD/Austin nonprofit career, but no street-address-level confirmation was available, hence medium rather than high confidence.",
+  "source_url": "https://www.zoominfo.com/p/Shirlene-Justice/174932916",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AAUW Austin (TX) Branch",
+    "role": "Program Vice President, Executive Committee",
+    "category": "civic",
+    "source_url": "https://austin-tx.aauw.net/about-us/officers/",
+    "snippet": "Shirlene Justice serves as Program Vice President on the Executive Committee of the AAUW Austin (TX) Branch, an organization advancing equity for women and girls through education and public-policy advocacy."
+   }
+  ]
+ },
+ {
+  "donor_id": "ac71274cdd1961e7",
+  "name": "Robert George Harris",
+  "resolved_employer": "Self-Employed (specific business not publicly identifiable)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "'Robert Harris' / 'Robert George Harris' is an extremely common name in Austin and Travis County — a therapist, an attorney, multiple self-employed consultants, plus genealogical and obituary records all appear under it — and none could be confidently matched to this specific downtown-Austin (78701) self-employed donor who gave to Margaret Gomez in 2018. Falling back to the employer string already on file at low confidence; no bio detail or affiliation attributed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b9c211ac5a51bdeb",
+  "name": "Urrutia, Bradley",
+  "resolved_employer": "Judge, Travis County 450th District Court (formerly criminal-defense and indigent-defense attorney)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as Bradley (Brad) Urrutia, Judge of the Travis County 450th District Court since January 2015, at an Austin, TX 78748 address — exact zip match. (He presides over the 450th, not the 299th District Court.) Native Austinite, Army veteran, and former indigent-defense attorney; his court runs a Veterans Court and a felony DWI diversion docket. The $200 gift to Brigid Shea in 2016 is consistent with a sitting local judge supporting an Austin City Council candidate.",
+  "source_url": "https://bradurrutia.com/about-brad/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f46da0ef5f5e8808",
+  "name": "Bradford, Nathaniel",
+  "resolved_employer": "Not employed (per FEC filings)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "No zip or location was provided in the local record, so identity could not be corroborated by address. FEC itemized records show a Nathaniel Bradford in Austin, TX 78723, occupation 'Not Employed,' with roughly a dozen small-dollar Democratic ActBlue donations (including to Talarico for Texas, 2025-2026) — closely matching the record's fec_partisan_lean of 1 and fec_donation_count of 12. Same-named individuals in Durham NC and Mountain View CA, and several Austin LinkedIn 'Nat/Nathan Bradford' profiles with different employers, were ruled out. Identity rests on donation-pattern corroboration only, not a named professional profile.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradford%2C+Nathaniel&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f84dfc7056c721f6",
+  "name": "Lyons, William",
+  "resolved_employer": "Attorney, Austin, TX (State Bar of Texas license 1978; disbarred 2004 per the public disciplinary record)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "A William L. Lyons is listed as an Austin attorney with a P.O. Box in zip 78716 (Avvo / State Bar of Texas), disbarred in 2004 after a 1993 suspension. FEC's itemized Schedule A returns exactly one 'Lyons, William' record in Austin 78716: a $1,000 contribution to the Bush-Quayle '92 primary committee, employer 'ATTORNEY' — consistent with the record's strongly Republican-leaning score. However, the record's fec_donation_count of 107 could NOT be corroborated: broadening the FEC search across Texas surfaced only unrelated same-named individuals (a retired Sugar Land donor, a San Antonio restaurant owner). This suggests the pipeline's FEC match for this donor_id may be a fuzzy name match rather than this specific person, so the federal giving profile — including any oil/gas, gun, defense, or Israel/Palestine-related PAC giving — could not be verified and none is asserted.",
+  "source_url": "https://www.avvo.com/attorneys/78716-tx-william-lyons-176929.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aed3d01f363db00a",
+  "name": "Ward, James",
+  "resolved_employer": "Self-employed salesman",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "FEC itemized records show a James R. Ward in Austin, TX 78757-9124 — matching the donor's zip — self-employed, occupation 'Salesman,' with donations to Beto O'Rourke's 2018 Senate campaign and MJ Hegar's 2020 Senate campaign plus ActBlue, a Democratic pattern consistent with this donor's 2017-2021 gifts to Brigid Shea. The local record shows fec_donation_count 0, meaning the pipeline's own FEC match missed this donor_id. Confidence held at medium because 'James Ward' is a very common name and the match rests on zip plus occupation alone; no bio or professional page was found beyond the FEC occupation field, so this is a categorize-by-employer fallback.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ward%2C+James&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

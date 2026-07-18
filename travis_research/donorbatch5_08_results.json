@@ -1,0 +1,347 @@
+[
+  {
+    "donor_id": "e5900abd28135188",
+    "name": "Quinn, Jo",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No zip, no employer/occupation string in the record, and no public web footprint for a 'Jo Quinn' in Austin/Travis County could be tied to this $103 gift to Ann Howard (2021-10-26). The reported fec_lean 0.374 across 633 FEC donations is consistent with a common-name aggregation across many different people rather than one identifiable individual, so it does not corroborate identity. Not confirmable; no classification made.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6a5c80c28078ef8",
+    "name": "Reynolds, Joseph",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Multiple distinct 'Joseph Reynolds' individuals exist in Austin (an independent research professional formerly at BAE Systems, a brand director at Backstory/Convoy, and others), and the record carries no zip or employer to disambiguate. FEC/city-data records show a Joseph Reynolds (not employed, 78731) giving via ActBlue in 2020, but nothing ties that person to this $103 gift to Ann Howard (2021-10-26). fec_lean 1.0 over 1041 donations reflects common-name aggregation, not a single verified donor. No TEC lobbyist registration found. Not confirmable; no classification made.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36351b0b7727eaa0",
+    "name": "Webster, Sheyna",
+    "resolved_employer": "Content/brand marketing manager at Austin software companies (Anaconda, Accruent; later SourceDay)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "'Sheyna Webster' is a rare name with a single Austin-area professional footprint: a content and brand manager whose own portfolio site lists work for Accruent, Anaconda (including AnacondaCON 2017 and @anacondainc social) and Atomic Axis, and who is listed as Senior Demand Gen Manager at Austin-based SourceDay. The 2017 Anaconda work matches the 2017-08-01 gift date and the Austin location matches the 78752 zip; classification is an employer/occupation fallback (marketing role at Austin B2B software firms). Note a likely later married name 'Sheyna Treiber' appears in the same SourceDay/Accruent/Anaconda role history, which is consistent but not independently confirmed. No FEC PAC records and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://sheynawebster.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e8189cdb072994de",
+    "name": "Steinhauser, Susan",
+    "resolved_employer": "Communities In Schools of Central Texas — CEO 2006-2024 (filed on IRS Form 990 as 'Susan Steinhauser'; publicly known as Suki Steinhauser); since 2024 Senior Director, Special Projects",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "IRS Form 990 filings for Communities In Schools of Central Texas (EIN 74-2369020) list the CEO for FY2020-2023 as 'Susan Steinhauser', also appearing as 'Suki Steinhauser' — confirming the legal-name/nickname bridge. Public records place a Susan M. Steinhauser in Austin 78756, matching the donor zip, and the gift to Travis County Commissioner Ann Howard (herself a former homelessness-services executive) fits a human-services nonprofit leader's giving pattern. She stepped down as CEO in September 2024, succeeded by Sharon Vigil, and remains at CIS as Senior Director, Special Projects; MBA, UT Graduate School of Business; Leadership Austin Essential Class of 2007; former Peace Corps teacher in Swaziland. No FEC ideological-PAC records and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/742369020",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Communities In Schools of Central Texas",
+        "role": "Chief Executive Officer (2006-2024); currently Senior Director, Special Projects",
+        "category": "civic",
+        "source_url": "https://projects.propublica.org/nonprofits/organizations/742369020",
+        "snippet": "In fiscal years 2020-2023 IRS Form 990 filings, Susan Steinhauser (also listed as 'Suki Steinhauser') held the CEO position at Communities In Schools of Central Texas; she was succeeded by Sharon Vigil."
+      },
+      {
+        "org": "Greater Austin Area My Brother's Keeper Initiative; Children's Optimal Health; Early Childhood Results Count; Austin Community College Truth, Racial Healing and Transformation Center Steering Committee",
+        "role": "Board member / advisory council member / steering committee member",
+        "category": "civic",
+        "source_url": "https://www.austinchamber.com/blog/suki-steinhauser-ceo-communities-in-schools-of-central-texas-wins-greater-austin-business-award",
+        "snippet": "Steinhauser \"serves on numerous nonprofit boards and advisory councils including, Greater Austin Area's My Brother's Keeper Initiative, Children's Optimal Health, Early Childhood Results Count and ACC's Truth, Racial Healing and Transformation Center Steering Committee.\""
+      }
+    ]
+  },
+  {
+    "donor_id": "00af1ea7e0ff4d98",
+    "name": "Harkey, Beverly",
+    "resolved_employer": "Self-employed owner/operator of a registered family home childcare business in Austin (Beverly Harkey Daycare)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Beverly Childress Harkey has owned and operated a licensed/registered family home childcare in Austin for ~24 years, caring for about 12 school-age children daily; a Goldthwaite, TX native who studied child development at UT Austin. Her daycare is indexed under the Allandale neighborhood of Austin, which is zip 78757, matching the donor's 78757 record. No listed street address was published, so the zip match is by neighborhood indexing rather than a direct address confirmation, hence medium rather than high confidence.",
+    "source_url": "https://www.wowwoman.com/child-whisperer-caregiver-austin-texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "02726f45c9d07f6b",
+    "name": "Limon, Joe",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm which Joe Limon this is. Two distinct Austin-area candidates surfaced and neither could be tied to the donor record: (a) a 'Joe Michael Limon' with a public-records address in Austin zip 78723, which matches the donor zip but carries no occupation or employer information, and (b) a Joe Limon who is a Battalion Chief with the Austin Fire Department (City of Austin), whose residential zip is not published anywhere found. No public source links the AFD battalion chief to zip 78723, so no industry is assigned. Repeat $100 giving to Brigid Shea from 2017 through 2025 is consistent with an ordinary recurring local donor.",
+    "source_url": "https://www.spokeo.com/Joe-Limon/Texas/Austin/p2018020704252058382345501977791",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0443ef1c886d6ce1",
+    "name": "Patterson, Patrick",
+    "resolved_employer": "Manor ISD Board of Trustees, Place 5 (elected Nov 2024); retired K-12 educator and principal, Austin ISD, and former director / assistant vice president at UT Austin",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Patrick Patterson is the Manor ISD school board trustee for Place 5, a Manor resident since 2017 (matching the Manor 78653 donor zip), a 30-year Austin ISD teacher and principal and 15-year UT Austin higher-education administrator. His $100 gift to Jeff Travillion, the Travis County commissioner whose precinct covers Manor, corroborates the identification. Chicago State University BA/MA in education plus Texas teacher certification from Southwest Texas State.",
+    "source_url": "https://www.manorisd.net/about-us/board-of-trustees/meet-the-board/patrick-patterson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Manor Independent School District Board of Trustees",
+        "role": "Trustee, Place 5 (assumed office Nov 19, 2024; term ends 2028)",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Patrick_Patterson_(Texas)",
+        "snippet": "Elected to Manor ISD Board of Trustees Place 5 in the Nov. 5, 2024 general election; assumed office Nov. 19, 2024, term ending 2028."
+      },
+      {
+        "org": "Communities in Schools of Central Texas",
+        "role": "Executive Board Member",
+        "category": "civic",
+        "source_url": "https://www.manorisd.net/about-us/board-of-trustees/meet-the-board/patrick-patterson",
+        "snippet": "Trustee bio lists him as an executive board member of Communities in Schools of Central Texas."
+      },
+      {
+        "org": "100 Black Men of Austin, Inc.",
+        "role": "Past President; executive board member",
+        "category": "civic",
+        "source_url": "https://www.manorisd.net/about-us/board-of-trustees/meet-the-board/patrick-patterson",
+        "snippet": "Bio identifies him as a past president of 100 Black Men of Austin, a youth-mentoring civic organization."
+      },
+      {
+        "org": "212 Catalysts",
+        "role": "Board Chair",
+        "category": "civic",
+        "source_url": "https://www.manorisd.net/about-us/board-of-trustees/meet-the-board/patrick-patterson",
+        "snippet": "Trustee bio lists him as board chair of 212 Catalysts."
+      }
+    ]
+  },
+  {
+    "donor_id": "0722c0c78d5c5788",
+    "name": "Anderson, Leslie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm identity. The only Austin-area 'Leslie Anderson' with a 78735 tie found is Leslie J. ('Lee') Anderson, CPA, of Leslie J. Anderson CPA PC at 4425 Mopac S Bldg 3 Ste 401, Austin TX 78735 -- but that is a commercial office address on Mopac, and 78735 is also a large residential zip (Barton Creek / Circle C / southwest Austin), so a zip match against a business address is not sufficient corroboration for a residential donor record with no employer string. 'Leslie Anderson' is a very common name with 300+ Texas matches. The single $100 gift to Brigid Shea in 2021 provides no occupational signal, and the reported FEC profile (277 donations at only 0.594 partisan lean) is more consistent with name-collision aggregation across multiple people than with a single identifiable donor, so it was not used as corroboration.",
+    "source_url": "https://cpadirectory.com/accounting-firms/texas/austin-tx/leslie-j-(lee)-anderson-cpa-pc/131277",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0b971c6e13ec37e7",
+    "name": "Brown, Freddie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not identify. The record carries no zip, no occupation, and no employer, and 'Freddie Brown' is a very common name with no Austin/Travis County public footprint that the donation pattern corroborates. Candidates surfaced in search (a Bowling Green KY pastor, a Brazosport TX auto dealer, a country musician, a Bold.org scholarship donor) are all in the wrong place or wrong era; none can be tied to a $100 gift to Travis County Commissioner Jeff Travillion (Pct 1) in Nov 2021. No employer string exists in the record to support the categorize-by-employer fallback, so industry is left null per the rules.",
+    "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-one",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "133cd3f235198c32",
+    "name": "Esparza, Thomas",
+    "resolved_employer": "Law Office of Thomas Esparza, Jr., P.C. (sole practitioner, board-certified immigration & nationality law)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Best match is Thomas Esparza Jr., the only Thomas Esparza licensed as an attorney in Austin per the State Bar of Texas (bar card 06666500, licensed 1977). The record's occupation 'Atty' and employer 'Self' match him precisely: he has been a sole practitioner for 43+ years under his own P.C. He is also a former Travis County Justice of the Peace, which makes a $100 gift to a Travis County Constable candidate (George Morales) a natural courthouse-community donation. CAVEAT lowering confidence to medium: his law office and all public listings show 78704 (1811 S 1st St, South Austin), while the donor record shows 78731 (Northwest Hills). 78731 could be a residence, but no public source confirms a 78731 address for him, so identity is corroborated by occupation/employer/civic pattern rather than by zip.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=166956",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Justice of the Peace",
+        "role": "Former Justice of the Peace",
+        "category": "political",
+        "source_url": "https://www.tomesparza.com/about-us",
+        "snippet": "His own firm bio and AILA profile list him as having 'served as Travis County Justice of the Peace' — prior elected/appointed judicial service in the same county as this donation."
+      },
+      {
+        "org": "American Immigration Lawyers Association (AILA), Texas/Oklahoma/New Mexico Chapter",
+        "role": "Past Chapter Chair; held every Executive Committee position; current chapter website editor",
+        "category": "business",
+        "source_url": "https://www.ailalawyer.com/english/AttorneyDetail.aspx?P=3275&A=67651",
+        "snippet": "'Past Chair of the Texas, Oklahoma, New Mexico Chapter of American Immigration Lawyers Association'; AILA engages in immigration-policy advocacy."
+      },
+      {
+        "org": "Center for Battered Women (Austin)",
+        "role": "Past Board Member",
+        "category": "civic",
+        "source_url": "https://www.tomesparza.com/about-us",
+        "snippet": "Bio lists 'past Board Member of the Center for Battered Women' among his Austin civic service."
+      },
+      {
+        "org": "South Austin Neighborhood Council",
+        "role": "Past President",
+        "category": "civic",
+        "source_url": "https://www.tomesparza.com/about-us",
+        "snippet": "Bio lists 'past president of the South Austin Neighborhood Council' — a local land-use/neighborhood civic body."
+      }
+    ]
+  },
+  {
+    "donor_id": "19aa55d02e8bc229",
+    "name": "Friday, Philip",
+    "resolved_employer": "Friday Milner Lambert Turner, PLLC (Of Counsel; formerly Friday, Friday & Kazen L.L.P.) — family law attorney",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Philip C. Friday Jr., Austin family-law attorney practicing since 1970, in the first class certified as a Family Law Specialist by the Texas Board of Legal Specialization (1975). His firm address, 3401 Glenview Ave, is in 78703 — an exact match to the donor zip — and his long Austin civic/bar profile and 38 FEC donations with a fully Democratic lean fit a $100 gift to Travis County Commissioner Brigid Shea. Confidence held at medium because his son, Jonathan Philip Friday, is also an attorney at the same firm in 78703; the record's 'Philip' (not Jonathan) points to the father, but the shared address/surname leaves residual ambiguity.",
+    "source_url": "https://www.fmltlaw.com/our-firm/attorney-profiles/philip-friday/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Bar Association",
+        "role": "Director (1974-75); 2010 Professionalism Award recipient (with Texas Center for Legal Ethics)",
+        "category": "business",
+        "source_url": "https://www.martindale.com/attorney/mr-philip-c-friday-jr-1625096/",
+        "snippet": "Professional associations list 'Director of the Austin Bar Association (1974-75)'; separately awarded the Austin Bar/Texas Center for Legal Ethics Professionalism Award in 2010."
+      },
+      {
+        "org": "Central Texas Family Law Council",
+        "role": "Charter President (1978-79)",
+        "category": "business",
+        "source_url": "https://www.martindale.com/attorney/mr-philip-c-friday-jr-1625096/",
+        "snippet": "Listed as 'Charter President of the Central Texas Family Law Council (1978-79)'."
+      }
+    ]
+  },
+  {
+    "donor_id": "1cbc09feb7138820",
+    "name": "Ballesteros, Adan",
+    "resolved_employer": "Travis County — elected Constable, Precinct 2",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Adan Ballesteros is the sitting elected Travis County Constable, a Democrat in office since 2009 with a term running through 2028 — a sitting county official donating $100 to another constable (George Morales). Identity is corroborated by the unique name, the employer string 'Travis Co', the occupation 'Constable', and the 78691 Pflugerville zip, which matches his documented Pflugerville residency (he received the 2009 City of Pflugerville Citizen of the Year Award). IMPORTANT DATA CORRECTION: the filing lists his occupation as 'Constable Pct 4', but he is and has always been the Precinct 2 Constable (Precinct 4's constable is Stacy Suits) — this appears to be a filer error in the campaign finance record. Career: law enforcement since 1979, Certified Master Texas Peace Officer, former Texas DPS trooper and narcotics investigator in the Rio Grande Valley, commanded the DPS Narcotics Training Section. No FEC records and no Texas Ethics Commission lobbyist registration found, as expected for a sitting law-enforcement officeholder.",
+    "source_url": "https://ballotpedia.org/Adan_Ballesteros",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Constable, Precinct 2",
+        "role": "Elected Constable (in office since 2009; term ends 2028); Democratic Party",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Adan_Ballesteros",
+        "snippet": "'Adan Ballesteros is a member of the Travis County Constable in Texas, representing Precinct 2... assumed office in 2009' and is affiliated with the Democratic Party."
+      },
+      {
+        "org": "Boy Scouts of America, Blackland Prairie District",
+        "role": "Scout Master, Unit Commissioner, former District Chair",
+        "category": "civic",
+        "source_url": "https://www.traviscountyconstable2.us/constable",
+        "snippet": "Official constable bio states he serves as a BSA Scout Master and Unit Commissioner and is former District Chair for the Blackland Prairie District."
+      },
+      {
+        "org": "American Red Cross",
+        "role": "Certified instructor (First Aid, CPR, AED, Wilderness First Aid)",
+        "category": "civic",
+        "source_url": "https://www.traviscountyconstable2.us/constable",
+        "snippet": "Official bio lists him as an American Red Cross instructor in First Aid, CPR, AED and Wilderness First Aid."
+      }
+    ]
+  },
+  {
+    "donor_id": "1e3823a85e9fa540",
+    "name": "Dieu Phan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Record carries no zip and 'Don't Know' for both occupation and employer, so there is nothing to corroborate identity against. The only public 'Dieu Phan' with a Vietnamese-American civic profile found in Texas is a Dallas-area man (Dallas College career coach, Vietnamese instructor at UT-Dallas, president of the Vietnamese American Community in the USA) who was formerly a staff writer and magazine editor in Austin; his current Dallas residence makes him an unlikely $100 donor to a Travis County Pct 4 commissioner in 2021, and the name may also belong to a woman ('Dieu' is commonly a Vietnamese feminine given name) or be stored surname-first. Identity not confirmed; no classification made.",
+    "source_url": "https://utdmercury.com/utd-professor-gives-back-to-vietnamese-community/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "207e26593a920252",
+    "name": "Merrill, Patricia",
+    "resolved_employer": "Not employed (per FEC contributor record)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "An FEC individual-contribution record aggregated by city-data.com lists 'PATRICIA MERRILL (NOT EMPLOYED), (Zip code: 78739) $50 to ACTBLUE on 11/15/2019' — an Austin resident in 78739 (Circle C / southwest Austin), which sits in Travis County Commissioner Precinct 3, the precinct Ann Howard represents. That geography plus the small-dollar ActBlue pattern matches this donor's profile (57 FEC donations, fully Democratic-leaning) and the $100 gift to Howard. No lobbyist registration and no professional bio page found; an Austin obituary for a Patricia Merrill (d. 2012) is a different person and is ruled out by the 2019-2021 activity.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part71.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "22e1df8fb6c6fed4",
+    "name": "Lofton, Elaine",
+    "resolved_employer": "African American Youth Harvest Foundation (Austin) — Director of Information Technology / Program Coordinator; previously a State of Texas CIO/Information Resource Manager (retired)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Elaine Mays-Lofton is Director of IT / Program Coordinator at the African American Youth Harvest Foundation in Austin and is the wife of AAYHF founder-CEO Michael Lofton (identified as such in his own LinkedIn post: 'Michael Lofton, Founder & CEO, AAYHF, wife, Elaine and grandson'). She is a retired State of Texas CIO/IRM with 30+ years in state government. AAYHF's affiliated Harvest Trauma Recovery Center describes its service area as 'Northeast Austin and Northeast Travis County' — the area covered by Commissioner Jeff Travillion's Precinct 1, consistent with the donor's Austin 78754 address and the 2025 gift to Travillion. Caveat: at least two other Austin-area women named Elaine Lofton appear on LinkedIn (Wells Fargo; Salvation Army), so identity is probable rather than certain. No FEC records and no Texas lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/posts/michael-lofton-74657716_michael-lofton-founder-ceo-aayhf-wife-activity-6906424614507941888-LpY_",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "African American Youth Harvest Foundation",
+        "role": "Director of Information Technology / Program Coordinator (spouse of founder-CEO Michael Lofton)",
+        "category": "civic",
+        "source_url": "https://www.zoominfo.com/p/Elaine-Lofton/-1153759267",
+        "snippet": "Listed as 'Director, Information Technology & Program Coordinator at African American Youth Harvest Foundation', Austin, Texas."
+      },
+      {
+        "org": "Harvest Trauma Recovery Center / African American Youth Harvest Foundation (Michael Lofton, CEO)",
+        "role": "Spouse of founder-CEO; organization serves Northeast Austin and Northeast Travis County",
+        "category": "civic",
+        "source_url": "https://harvesttrc.org/team-members/michael-lofton/",
+        "snippet": "Michael Lofton is Founder/CEO of the African American Youth Harvest Foundation, the Youth Resource Center and the Harvest Trauma Recovery Center, which 'serve as a central location for those youth and adults primarily in Northeast Austin and Northeast Travis County.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "250f780c935b2dde",
+    "name": "Chapa, Diane",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No zip, occupation, or employer on the record and no FEC contribution history. Searches for a Diane Chapa in Austin/Travis County returned no matching individual — only Travis County government pages and public-records-aggregator entries for a differently spelled 'Diana Chapa' in Houston and outside Texas. No Texas Ethics Commission lobbyist registration and no bio, LinkedIn, or news page could be tied to this donor. Identity not confirmed; no classification made.",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "252273dbc9c85f0e",
+    "name": "Roberts, Leon",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm identity. No zip, occupation, or employer in the record. Searches surfaced only a Leon Roberts who is an East Austin jazz/blues pianist profiled by the Texas Music Museum (plausible given the gift went to Travis Co. Pct 1, which covers East Austin), but nothing ties that musician to this donation, and 'Leon Roberts' is a common name nationally. The 321 FEC donations at lean 0.726 look like an aggregated/recurring small-dollar pattern rather than a single identifiable Austin figure. No FEC PAC record and no Texas lobbyist registration found under this name.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2d169a2528d015fa",
+    "name": "Koitzsch, Thomas",
+    "resolved_employer": "Arcon Inc / Arcon Architectural Construction Products, Inc. (Austin, TX) - owner; more recently listed as VP at Mend Construction",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Distinctive surname with a single Austin-area business match: Thomas Koitzsch, owner of Arcon Inc, Austin TX. Arcon Architectural Construction Products, Inc. is an Austin construction firm specializing in design/engineering and masonry. Location (Austin) matches the donor record; zip 78737 (SW Travis County / Dripping Springs side) could not be independently confirmed. LinkedIn profile could not be fetched directly (HTTP 999), so the full bio read relied on the indexed profile summary plus contractor-directory listings; no board seats, civic roles, or advocacy-org memberships surfaced. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration found under 'Koitzsch'.",
+    "source_url": "https://pegbo.com/contractor/arcon-architectural-construction-products-inc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2d5b97db852d5ae7",
+    "name": "Limon, Christopher",
+    "resolved_employer": "None - self-reported occupation and employer both 'Disabled'",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Classification rests on the filing's own self-reported occupation/employer ('Disabled'), which maps to 'Not Employed' in the taxonomy. Public-records aggregators show a Christopher Limon with a prior address on E. 7th St, Austin TX 78702, consistent with the record's zip, but that is weak corroboration and no professional or public profile exists for this person. No FEC PAC contributions found (searches surfaced only unrelated Santos Limon congressional records) and no Texas Ethics Commission lobbyist registration. No bio page exists to read. Quiet outcome: an ordinary small-dollar constable donor with no influence footprint.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "31e50b03be3774d4",
+    "name": "Heath, Robert",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm identity. No zip, occupation, or employer in the record. The most prominent Austin candidate is C. Robert 'Bob' Heath, partner at Bickerstaff Heath Delgado Acosta LLP (Austin, 78746), whose practice is administrative/county/municipal law, open government, and Voting Rights Act redistricting - a plausible profile for a $100 gift to a Travis County Commissioner. However, nothing links him to this specific donation, 'Robert Heath' is a common name, and the 1,098-donation FEC pattern reads as high-volume ActBlue recurring giving rather than a law-firm partner's giving pattern. Per the no-guess rule, industry left null. Full bio read done on the Martindale/Bickerstaff profile: practice areas and bar admissions only, no board seats, advocacy-org memberships, or policy affiliations surfaced. No Texas Ethics Commission lobbyist registration found for Robert Heath or C. Robert Heath.",
+    "source_url": "https://www.martindale.com/attorney/mr-claude-robert-bob-heath-1623611/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

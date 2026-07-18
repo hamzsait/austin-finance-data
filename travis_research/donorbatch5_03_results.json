@@ -1,0 +1,371 @@
+[
+ {
+  "donor_id": "256188edb18894ae",
+  "name": "McCreary, Robert",
+  "resolved_employer": "Law Offices of Lou McCreary — trial lawyer/mediator, Austin (deceased May 2026; formerly Executive Assistant Attorney General of Texas under Jim Mattox)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Robert C. 'Lou' McCreary (1940-2026), Austin trial attorney for 50+ years, Board Certified in Civil Trial Law, State Bar of Texas license 1964. Zip corroborates strongly: his firm address is 901 S MoPac Expy, Barton Oaks Plaza One, Austin TX 78746-5883 and a listed home address is in 78746. His obituary describes him as 'a proud Progressive Democrat,' consistent with the 0.78 Democratic FEC lean across 34 matched donations and the 2017 gift to Travis County Commissioner Jeff Travillion. Disambiguation: a distinct Robert McCreary (Washington DC, defense/aviation advisory boards, Trioscope) exists and is NOT this donor. FEC PAC search returned no ideological-PAC records on any side; no TEC lobbyist registration (the only surname hit is the unrelated firm McCreary, Veselka, Bragg & Allen, P.C.).",
+  "source_url": "https://opengovus.com/texas-lawyer/13488000",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Yeller Dawg Democrats (Austin)",
+    "role": "Regular participant / self-described progressive Democrat",
+    "category": "political",
+    "source_url": "https://www.legacy.com/us/obituaries/statesman/name/robert-mccreary-obituary?id=61633171",
+    "snippet": "Obituary: 'A proud Progressive Democrat, Lou was a fixture at the Yeller Dawg Democrats' Saturday gatherings.'"
+   },
+   {
+    "org": "Office of the Texas Attorney General (Jim Mattox administration)",
+    "role": "Executive Assistant Attorney General",
+    "category": "political",
+    "source_url": "https://www.legacy.com/us/obituaries/statesman/name/robert-mccreary-obituary?id=61633171",
+    "snippet": "Obituary notes he 'served as Executive Assistant Attorney General under Jim Mattox' and organized AG conferences on administrative law, eminent domain, highway preservation, crime victims compensation and workers' compensation job safety."
+   }
+  ]
+ },
+ {
+  "donor_id": "1d47d948f910ff6b",
+  "name": "Waxler, Melvin",
+  "resolved_employer": "Retired — former Executive Vice Chancellor & General Counsel, Blinn College; previously General Counsel (2000-2015) and Chief of Staff, Austin ISD (retired)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Melvin Ellis Waxler, Texas attorney (Bar #20988300, licensed 1978), listed in the State Bar directory in Austin with practice areas in arbitration/mediation and education law. Public record shows a 16-year Austin ISD career (created the district's first in-house legal department; chief of staff from 2012), then Blinn College's first executive VP/general counsel from 2015 until retiring January 2018. Identity is medium-confidence only: the donor record carries no zip or city to corroborate, though the surname is rare in Austin and the heavy Democratic FEC pattern (lean 1.0 across 132 donations) fits a retired public-education administrator giving to Commissioner Jeff Travillion in 2021. Employer-fallback classification; all three searches run and quiet. Note: his earlier role as legal counsel to the Texas Railroad Commission is a government-lawyer post, not an oil-and-gas industry affiliation, and is deliberately not recorded as one.",
+  "source_url": "https://www.austinisd.org/press-releases/2012/06/19/aisd-appoints-mel-waxler-chief-staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2a010f95efc5edec",
+  "name": "Karnak, Rebecca",
+  "resolved_employer": "Woodside Policy LLC — Principal & Founder (international trade/technology government-affairs consultancy); formerly Senior Director of Global Public Policy, Dell Technologies",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Rebecca Karnak is the founder/principal of Woodside Policy, a global trade-and-technology public policy consultancy, and a Senior Advisor to the American Leadership Initiative. Prior roles: Senior Director of Global Public Policy at Dell Technologies, U.S. Department of Commerce (incl. U.S. Embassy Beijing), the Information Technology Industry Council and the US-China Business Council; BA Ohio State, MA Johns Hopkins SAIS. Surname is rare and her LinkedIn locates her in the Washington DC metro, consistent with the Silver Spring MD 20910 donor zip. Her Dell (Austin-headquartered) tenure is the most plausible link to a 2024 gift to Commissioner Ann Howard, but that link is inferred, not documented — hence medium, not high. No TEC lobbyist registration; FEC PAC search returned nothing on any side, consistent with fec_donation_count of 0.",
+  "source_url": "https://woodsidepolicy.com/bio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Dell Technologies Inc. (federal lobbying registration)",
+    "role": "Listed lobbyist on Dell's Q3 2013 LD-2 federal lobbying disclosure",
+    "category": "business",
+    "source_url": "https://lda.senate.gov/api/v1/filings/?lobbyist_name=Karnak",
+    "snippet": "Senate LDA filing database: registrant 'Cris Turner - State and Federal Government Affairs', client 'DELL TECHNOLOGIES INC', Q3 2013, lobbyists listed include 'Rebecca Karnak'; issues covered healthcare IT, taxation, government operations and intellectual property."
+   },
+   {
+    "org": "American Leadership Initiative (ALI)",
+    "role": "Senior Advisor",
+    "category": "civic",
+    "source_url": "https://www.wita.org/wp-content/uploads/2024/05/ALI-White_Paper-05142024-FINAL.pdf",
+    "snippet": "ALI 2024 white paper lists Rebecca Karnak as a Senior Advisor to the American Leadership Initiative, a US trade-and-competitiveness policy project."
+   }
+  ]
+ },
+ {
+  "donor_id": "30a42d9c5ce060ba",
+  "name": "Flores, Maria",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cannot be identified. The donor record carries no zip, no city and no employer, and 'Maria Flores' is one of the most common name combinations in Texas. The FEC hint (lean 0.907 across 2,081 donations) is almost certainly an aggregation across many different people sharing the name rather than one individual, so it provides no corroboration. No public profile could be tied to the single 2021 gift to Commissioner Jeff Travillion. Per instructions, no industry is guessed. All three searches run and inconclusive by design: TEC lobbyist lists (2022-2026) contain several Flores registrants in Austin — Alicia M. Flores, Yaneth G. Flores, Juan Antonio Flores — but no Maria Flores; no bio page could be located to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "334657b0739e14a2",
+  "name": "King, Sterling",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "County record carries no zip, city, or employer. Web search surfaced no Austin/Travis County person named Sterling King. The only substantive US business match, Sterling King General Contracting LLC (Sterling King, managing member), is at 401 S Sherman St, Richardson, TX 75081 in the Dallas-Fort Worth metro, not Austin, so it does not corroborate a Travis County donor to Jeff Travillion. Nothing in the Texas Ethics Commission lobbyist lists or federal/PAC searches attaches to an Austin Sterling King. Identity unconfirmed; deliberately not guessing an industry.",
+  "source_url": "https://www.buzzfile.com/business/Sterling-King-General-Contracting-LLC-214-675-7775",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e35581ac1e03134",
+  "name": "Crugnale, Cara",
+  "resolved_employer": "Tegra Analytics (data analyst; life-sciences/pharma analytics and consulting firm headquartered in Columbia, SC)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Rare surname. A single LinkedIn profile for Cara Crugnale lists her location as Austin, Texas, United States and her title as Data Analyst; ZoomInfo places the same person at Tegra Analytics (tegraanalytics.com), which describes itself as providing visualization tools, customized reports and expert consulting services to life science companies. Austin location matches the 78728 (north Austin / Wells Branch) donor record for a Brigid Shea contribution. No federal contribution history (fec_donation_count 0), no Texas lobbyist registration, no board or advocacy roles found. Employer-fallback classification; a private-sector analytics consultant with no public policy footprint.",
+  "source_url": "https://www.linkedin.com/in/cara-crugnale-94b4b42/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "40d0255511dcf09b",
+  "name": "Holland, Leon",
+  "resolved_employer": "Not employed / retired (FEC filings for a Leon Holland of Austin list occupation 'UNEMPLOYED')",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "The county record has no zip or employer, and two different Austin Leon Hollands are plausible without being distinguishable. (1) Col. (Ret.) Leon L. Holland, BS 1961, a UT Austin 'Precursor' (one of the first Black undergraduates, first Black ROTC commissionee at UT), retired from the U.S. Army in 1991, lives in Austin, 2020 Texas Exes Distinguished Alumnus. (2) A 'LEON HOLLAND' at Austin zip 78750 who appears in FEC records as a high-frequency small-dollar DCCC donor ($5-$35 repeat gifts in Nov 2015) with occupation listed as UNEMPLOYED — this pattern matches the pipeline's fec_partisan_lean 0.99997 / 1,536-donation match. Both point to a retired/not-employed individual, so 'Not Employed' is the safest employer fallback, but I cannot confirm they are the same person or that either is the Travillion donor. No Texas lobbyist registration found; no ideological-PAC ties found on any side.",
+  "source_url": "https://www.city-data.com/elec2/16/elec-AUSTIN-TX-16-part11.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44a605d48e4accda",
+  "name": "Curry, Peter",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is Austin 78731 (Allandale/Northwest Hills), gave to Brigid Shea, and matches 65 FEC records with a fully Democratic lean. Two Austin-area candidates, neither corroborated to 78731: (a) Peter M. 'Michael' Curry Jr., State Bar of Texas #05273300, licensed 1976, solo attorney-mediator — but he practices and files under 'Michael', and his bar address is a 78703 PO box, so the name/zip do not match; (b) a Peter Curry on LinkedIn in the 'Austin, Texas Metropolitan Area' with ~16 years as a GIS/geospatial data professional at a utility company — no zip, employer name, or donation record to tie him to this contribution. Peter Curry is a common enough name that no industry is assigned on a metro-level match alone. No TEC lobbyist registration found for any Peter Curry; no ideological-PAC affiliations found on any side.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=164862",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4cae008352f9757d",
+  "name": "Lee, Jennifer",
+  "resolved_employer": "Public school educator, Central Texas (Killeen ISD and Waco ISD over ~15 years); 2024 Democratic nominee for Texas House District 55",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Best match is Jennifer Lee, a Central Texas classroom teacher who ran as the Democrat against Rep. Hugh Shine (R-Temple) in Texas House District 55 and lost on 11/5/2024; HD-55 is centered on Temple and her LinkedIn lists Temple, matching zip 76504, and the 8/27/2024 gift to a Democratic Travis County commissioner falls inside her own campaign year (fec_partisan_lean 1). Identity is NOT confirmed: 'Jennifer Lee' is a very common name, no source states her exact home address, and one aggregator summary placed a Jennifer Lee in Kilgore rather than Temple. Treat the Education classification as a corroborated-but-unproven employer fallback.",
+  "source_url": "https://ballotpedia.org/Jennifer_Lee_(Texas)",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4cfeb4cc5d18dab5",
+  "name": "Daemmrich, Janis",
+  "resolved_employer": "Bob Daemmrich Photography (Austin) — Senior VP / VP of client relations; former newspaper sportswriter and editor (incl. Austin American-Statesman, early 1980s)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Janis Loeb Daemmrich of Austin runs client relations at Bob Daemmrich Photography, the Austin editorial/commercial photo studio she has operated with her photographer husband Bob Daemmrich for ~28 years; journalism degree from Missouri, former sportswriter/editor at daily papers including the Austin American-Statesman, later communications roles at Independent Insurance Agents of Texas and Texas Professional Insurance Agents. Austin residency corroborated by a March 2021 Alamy news photo of 'Janis Daemmrich, 65' getting a COVID vaccine in Austin, matching the 10/22/2021 gift to Commissioner Ann Howard. The donor record's blank zip is not independently resolved, but the professional record is unambiguous.",
+  "source_url": "https://bookspring.org/en/board/32636/janis-daemmrich/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Downtown Austin Alliance",
+    "role": "Board member; member of the Active Urbanism committee",
+    "category": "business",
+    "source_url": "https://austinhelpshonduras.org/who-we-are/our-leadership/",
+    "snippet": "Bio lists her on the 'board of the Downtown Austin Alliance' and its 'Active Urbanism committee,' and describes her as a 'long-time business owner and downtown Austin property owner.' The Downtown Austin Alliance is the downtown property-owner/business improvement organization that advocates at City Hall on downtown land use, transit and homelessness policy."
+   },
+   {
+    "org": "Austin Monitor",
+    "role": "Advisory board member",
+    "category": "civic",
+    "source_url": "https://austinhelpshonduras.org/who-we-are/our-leadership/",
+    "snippet": "Bio lists her as an 'advisory board member, Austin Monitor' — the nonprofit local-government news outlet covering Austin City Council and Travis County."
+   },
+   {
+    "org": "Austin Helps Honduras",
+    "role": "Treasurer (since 2022); board member",
+    "category": "civic",
+    "source_url": "https://austinhelpshonduras.org/who-we-are/our-leadership/",
+    "snippet": "'Treasurer of Austin Helps Honduras (since 2022)'; made her first trip to Juticalpa in 2000."
+   },
+   {
+    "org": "BookSpring",
+    "role": "Finance committee member",
+    "category": "civic",
+    "source_url": "https://bookspring.org/en/board/32636/janis-daemmrich/",
+    "snippet": "Listed as a finance committee member at BookSpring, an Austin childhood-literacy nonprofit."
+   }
+  ]
+ },
+ {
+  "donor_id": "5679c9dcf3e8cc78",
+  "name": "Grey, Dianna",
+  "resolved_employer": "Strategic Housing Finance Corporation of Travis County — Executive Director (interim from Jan 2024, permanent Aug 2024); previously Homeless Strategy Officer, City of Austin (Jan 2021 - Aug 2023)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "This is the homelessness-services official. Dianna Grey served as the City of Austin's Homeless Strategy Officer from January 2021 until she resigned in August 2023, then became interim (Jan 2024) and permanent (Aug 2024) executive director of the Strategic Housing Finance Corporation of Travis County. Earlier career: Texas director of the Corporation for Supportive Housing, program director at Enterprise Community Loan Fund, executive director of Neighborhood Housing Services of Austin; UT-Austin BA (Plan II / Latin American Studies) and LBJ School MPA. KUT describes her as a '30-year Austinite,' consistent with an Austin 78704 address. The 10/18/2023 gift to Commissioner Ann Howard — herself the former head of ECHO, Austin's homelessness coalition — lands two months after Grey's city resignation and ~3 months before she took the Travis County SHFC job, a donation pattern that fits this person. Marked medium rather than high because no public source ties her personally to zip 78704.",
+  "source_url": "https://strategichfc.org/staff/dianna-grey",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Strategic Housing Finance Corporation of Travis County",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://strategichfc.org/news/dianna-grey-joins-shfc",
+    "snippet": "Dianna Grey joined the Strategic Housing Finance Corporation of Travis County as interim executive director in January 2024 and was named permanent executive director; SHFC is the Travis County-affiliated nonprofit that partners with private developers to expand affordable housing. Relevant because the recipient of her gift, Ann Howard, sits on the Travis County Commissioners Court."
+   },
+   {
+    "org": "City of Austin, Homeless Strategy Office",
+    "role": "Homeless Strategy Officer (2021-2023)",
+    "category": "civic",
+    "source_url": "https://www.austinmonitor.com/stories/2023/08/dianna-grey-austins-strategy-officer-for-homelessness-has-resigned/",
+    "snippet": "Grey led the city's homelessness response, implementing the 2021 camping ban and the permanent supportive housing strategy, before resigning in August 2023."
+   }
+  ]
+ },
+ {
+  "donor_id": "5966927500f2c521",
+  "name": "Hines, Vick",
+  "resolved_employer": "Retired (occupation self-reported as 'Retired' on federal contribution records); author of 'How to Make Your Own Lightweight Camping & Hiking Gear' (Tab Books, 1981)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity is well corroborated: property records list 'Hines Vick R & Dorothy J Lay' at 3104 Mohawk Rd, Austin, TX 78757, exactly matching the donor zip, and aggregated federal contribution listings show 'Vick Hines (Retired), zip 78757, Austin TX' giving small amounts ($25) to the DNC in 2016 — consistent with fec_partisan_lean 0.998 and a very high donation count (2,716), the signature of a prolific small-dollar recurring Democratic donor. His late wife Dorothy Jean Lay (d. 2018, married to Vick Roling Hines for 37 years) was a budget analyst and Texas Trail Tamers trail-builder who hiked the Appalachian Trail. Industry is left null: federal records list him only as 'Retired' and no source establishes his former career. His 1981 authorship of a single outdoor-gear how-to book is not sufficient to assign a Media career, so per instructions no industry is guessed.",
+  "source_url": "https://www.arivify.com/property/search/iMaz09d4Z",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e34b01ad05e1134",
+  "name": "Wilcox, Cynthia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm identity. No zip or location in the donor record, and 'Cynthia Wilcox' is a common name. The only Austin-area hit was a 'Cynthia Wilcox' listed as secondary mail recipient for the East Oakhill Neighborhood Association (2925 Trail West Dr, Austin 78735) in a City of Austin neighborhood-association dataset, which supplies no occupation and cannot be tied to this donor. The one LinkedIn 'Cynthia Wilcox' surfaced is self-employed in Boulder, CO — not a match. FEC PAC search, TEC lobbyist search, and bio search all run with no confirmable result; the pipeline's fec_partisan_lean=1/count=17 hint is name-only and not corroborated by zip or employer, so it is not treated as proof. Per instructions, no industry guessed.",
+  "source_url": "https://data.austintexas.gov/api/views/u3yy-shmz/rows.csv?accessType=DOWNLOAD",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "61e1e4b778423ffd",
+  "name": "Grosskopf, Bill",
+  "resolved_employer": "G&S Typesetters / book production and type composition for college textbook publishers and university presses (retired 2015); now manages a family-owned downtown Austin commercial building",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Bill Grosskopf, West Lake Hills/78746 — matches donor zip exactly. Son of Gus and Carolyn Grosskopf, who founded G&S Typesetters in Austin in 1955; Bill and brother Jack joined the family corporation (up to 140 employees) after UT engineering degrees, and the family sold the company in 2005. Bill continued operating it for the buyer about 10 years until retiring in 2015. Also an agent/member of Grosskopf Holdings, LLC, registered at 1500 Westlake Drive, West Lake Hills, TX 78746 — same zip as the donation record. FEC PAC search returned no federal PAC or ideological-PAC records (consistent with pipeline fec_donation_count=0); no TEC lobbyist registration found. Industry classified from career in book production/type composition serving publishers.",
+  "source_url": "https://www.dignitymemorial.com/obituaries/austin-tx/gus-grosskopf-8208766",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "SCORE (Austin chapter)",
+    "role": "Certified Mentor and Vice President for Education; 2016 Mentor of the Year",
+    "category": "civic",
+    "source_url": "https://score.org/austin/profile/bill-grosskopf",
+    "snippet": "Upon retirement Bill joined SCORE to help small business owners by sharing his own small business experience; he serves as a Certified SCORE Mentor and Vice President for Education, and was selected 2016 Mentor of the Year."
+   },
+   {
+    "org": "Grosskopf Holdings, LLC",
+    "role": "Agent / member",
+    "category": "business",
+    "source_url": "https://opencorporates.com/companies/us_tx/0801061287",
+    "snippet": "Grosskopf Holdings, LLC, Texas registration, mailing address 1500 Westlake Drive, West Lake Hills, TX 78746; Bill Grosskopf listed as agent, with Carolyn N Grosskopf and Jack Grosskopf among members."
+   }
+  ]
+ },
+ {
+  "donor_id": "6801903aa4d6c2ea",
+  "name": "Sawin, Kodi",
+  "resolved_employer": "Sawin Group — Principal, Public Affairs Strategist",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Kodi Elizabeth Sawin is Principal Public Affairs Strategist at Sawin Group, Austin. Travis County lists her as a Precinct 3 appointee to the Citizens Bond Advisory Committee — Precinct 3 is Ann Howard's precinct, directly corroborating the donation to Howard. Her practice is public strategy for politically complex infrastructure and natural-resource projects, especially water and land use at the urban-rural policy nexus. She ran as an Independent for Texas House District 19 (Blanco, Burnet, Kendall, Gillespie, far west Travis County). Unusual name plus Austin location plus Precinct 3 appointment make identity confident. FEC PAC search surfaced no federal ideological-PAC contributions; no state TEC lobbyist registration found for the surname in indexed TEC lobbyist lists — note this is absence of evidence, as the TEC list PDFs could not be full-text searched, and her work is public-affairs/political-risk strategy rather than registered direct lobbying on the record reviewed.",
+  "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/15-kodi-elizabeth-sawin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Citizens Bond Advisory Committee",
+    "role": "Precinct 3 appointee",
+    "category": "civic",
+    "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/15-kodi-elizabeth-sawin",
+    "snippet": "Kodi Elizabeth Sawin is listed among the Precinct 3 appointees to the Travis County Citizens Bond Advisory Committee, with the title 'Principal Public Affairs Strategist - Sawin Group.'"
+   },
+   {
+    "org": "Texas House District 19 campaign (Independent)",
+    "role": "Candidate for State Representative",
+    "category": "political",
+    "source_url": "https://www.kodifortexas.com/",
+    "snippet": "Sawin campaigned as an Independent for Texas House District 19, seeking 'a different path forward for our politics at the state level,' with a platform centered on land management, water resources, and school finance."
+   },
+   {
+    "org": "Texas Forward Party",
+    "role": "Endorsed candidate",
+    "category": "political",
+    "source_url": "https://www.texasforwardparty.org/news/the-texas-forward-party-endorses-kodi-sawin-for-texas-house-of-representatives",
+    "snippet": "The Texas Forward Party announced its endorsement of Kodi Sawin for the Texas House of Representatives."
+   }
+  ]
+ },
+ {
+  "donor_id": "71b1c3fcbbfbf5e4",
+  "name": "Germenis, Jerry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address is corroborated but occupation is not. Travis County property records show JERRY GERMENIS III & SANDRA M BANALES as owners of 9405 Sandstone St, Austin, TX 78737 — an exact match to the donor's zip, and a 2012 court filing places Sandra Moller Germenis at the same address. However, no occupation could be verified. The only 'Jerry Germenis' with a professional profile is a U.S. Marine Corps Unit Training Manager educated at Texas State University, listed as located in Bastrop (and, on a data-broker page, Washington D.C.) — neither location matches 78737, so it may be a relative rather than the donor. A search snippet referencing a 'J Germenis CPA' at 9405 Sandstone St did not survive verification: the underlying page contained no such listing and no Germenis appears in Austin CPA directories. Given two mutually inconsistent and unverified occupations, no industry is assigned. FEC PAC search found no federal PAC contributions under this surname (consistent with fec_donation_count=0); no TEC lobbyist registration found.",
+  "source_url": "http://www.city-data.com/austin-properties/S/Sandstone-Street-2.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "897820063fae3350",
+  "name": "LeBlanc-Arbuckle, Wendy",
+  "resolved_employer": "Pilates Center of Austin — co-founder and former director (1993-2018); now independent somatic movement educator/author, Asheville NC",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Wendy LeBlanc-Arbuckle co-founded the Pilates Center of Austin in 1993 with her husband Michael and directed it for 25 years before handing it to senior teacher Marcos Apodaca; her own site and teacher directories list her as now based in Asheville, NC, matching the donor's Asheville 28803 address, and the Austin business history explains the Travis County (Brigid Shea) gift. Small-business owner / independent movement educator and author; no political-industry footprint found. FEC PAC and TEC lobbyist searches both quiet.",
+  "source_url": "https://wendyleblancarbuckle.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Pilates Method Alliance (PMA)",
+    "role": "Founding member; served on the original role delineation committee for the PMA National Certification Exam (2005)",
+    "category": "business",
+    "source_url": "https://wendyleblancarbuckle.com/",
+    "snippet": "Founding Member of the Pilates Method Alliance (PMA); served on the original role delineation committee for the PMA National Certification Exam in 2005."
+   },
+   {
+    "org": "Fascia Research Society / International Association of Structural Integrators (IASI)",
+    "role": "Founding member",
+    "category": "business",
+    "source_url": "https://wendyleblancarbuckle.com/",
+    "snippet": "Founding Member of the Fascia Research Society and Founding Member of the International Association of Structural Integrators (IASI)."
+   }
+  ]
+ },
+ {
+  "donor_id": "8b21131c86c2b09f",
+  "name": "Heath, Claude",
+  "resolved_employer": "Bickerstaff Heath Delgado Acosta LLP — partner (government/administrative, municipal, county, redistricting and Voting Rights Act law)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "The only publicly documented Claude Heath in Austin is Claude Robert ('Bob') Heath, licensed in Texas since 1972 (Bar No. 09347500), partner at Bickerstaff Heath Delgado Acosta LLP practicing administrative, municipal, county, open-government and redistricting/Voting Rights Act law. His firm address is 78746, not the donor's residential 78731, so the home zip could not be independently confirmed; a government-law attorney giving to a Travis County commissioner (Ann Howard) is occupationally consistent. A suggested Bee Cave / Bee Creek civic or nonprofit connection could NOT be corroborated in any public source and is explicitly not asserted here.",
+  "source_url": "https://www.martindale.com/attorney/mr-claude-robert-bob-heath-1623611/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Bickerstaff Heath Delgado Acosta LLP",
+    "role": "Partner; administrative, municipal, county, open-government and redistricting law",
+    "category": "business",
+    "source_url": "https://www.martindale.com/attorney/mr-claude-robert-bob-heath-1623611/",
+    "snippet": "Mr. Claude Robert Heath, Partner at Bickerstaff Heath Delgado Acosta LLP, Austin, TX. Practice Areas: Administrative Law, County Law, Litigation, Municipal Law, Open Government, Public Law, Redistricting. J.D., University of Texas at Austin (1972)."
+   }
+  ]
+ },
+ {
+  "donor_id": "8f2e6984fe5cd317",
+  "name": "Workman, Antonio",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile could be found for an Antonio Workman in Pflugerville, TX 78660. Searches for the name in Pflugerville/Travis County, on LinkedIn, in Texas political-contribution coverage, in the Texas Ethics Commission lobbyist material and in FEC contributor sources returned only unrelated people (Paul Workman, Quincy Workman, Austin Workman, Workman Commercial). No employer or occupation is publicly discoverable, so no industry is assigned rather than guessing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "90268175ff0b9836",
+  "name": "Kotrla, Kathryn",
+  "resolved_employer": "Kathryn J. Kotrla, MD — psychiatrist, Leander/Austin TX (private practice, 22974 Nameless Rd); formerly vice dean, Texas A&M Health Science Center College of Medicine, Round Rock; president, Flying K Ranch",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Dr. Kathryn J. Kotrla, MD is a psychiatrist practicing in the Leander/greater Austin area (Texas A&M College of Medicine 1988; Baylor psychiatry residency; NIH fellowship), formerly vice dean of the Texas A&M HSC College of Medicine at Round Rock and founder of TexVet. The donor record carries no zip, so identity rests on name uniqueness plus Austin-area location and a physician's Democratic-leaning federal giving pattern (54 FEC records, lean 1) consistent with the gift to Commissioner Ann Howard — hence medium, not high, confidence. No lobbyist registration and no ideological or industry PAC ties surfaced.",
+  "source_url": "https://www.healthgrades.com/physician/dr-kathryn-kotrla-w6n26",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "TexVet (Texas A&M Health Science Center veterans resource initiative)",
+    "role": "Founder; author of the original proposal that secured VA start-up funding",
+    "category": "civic",
+    "source_url": "https://texvet.org/postings/texvet-history",
+    "snippet": "\"The original proposal written by Kathryn J. Kotrla, M.D. to secure start-up funds and initiate the collaborative venture\" — funded by the Veteran's Administration Central Office through the Center of Excellence, for post-deployment community, occupational and family re-integration."
+   },
+   {
+    "org": "Texas A&M Health Science Center College of Medicine, Round Rock",
+    "role": "Vice dean (former)",
+    "category": "civic",
+    "source_url": "https://texvet.org/postings/texvet-history",
+    "snippet": "Dr. Kathryn Kotrla served as vice dean of the Texas A&M Health Science Center College of Medicine at Round Rock and is the founder of TexVet, a multi-agency resource service for all veterans."
+   }
+  ]
+ }
+]

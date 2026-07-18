@@ -1,0 +1,385 @@
+[
+  {
+    "donor_id": "cdf84df92dcead60",
+    "name": "Chavez, Michelle",
+    "resolved_employer": "Boom Bam (fitness business); occupation self-reported as \"Fitness\" on the campaign finance filing",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "No public profile found for a Michelle Chavez in Del Valle/78617 tied to a fitness business. Searches for \"Boom Bam\" as an Austin/Del Valle gym returned only unrelated similarly-named businesses (BOOM Fitness, BAM Fit ATX, BAM Academy, Baby Boom Training Center in Del Valle 78617). Classified by employer fallback only, and the \"Retail\" label is a provisional best-fit for a consumer-facing fitness/personal-service business rather than a corroborated classification. Name is extremely common; identity not corroborated beyond the filing itself. FEC record shows 29 small-dollar donations, partisan lean 0.84, consistent with an ordinary small-dollar donor rather than an influence-adjacent one.",
+    "source_url": "https://babyboomtrainingcenter.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "da31f9b58bac55bd",
+    "name": "Lopez-Guerrero, Luz",
+    "resolved_employer": "WellMed Medical Management — growth & business development / community engagement (Austin); later principal owner, Getoma Consulting LLC",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Austin-based healthcare community-engagement leader; born in Cuba, raised in East Austin. Works for WellMed Medical Management in growth/business development, focused on connecting underserved and Latino communities to healthcare, caregiving and hospice resources. Former Medical Assistant and former Licensed Insurance Agent. Employer string \"WellMed\" and Austin location in the donor record match directly; the filing's occupation/employer fields appear transposed (\"WellMed\" = employer, \"Director\" = role).",
+    "source_url": "https://voyageaustin.com/interview/meet-luz-lopez-guerrero-of-austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Greater Austin Hispanic Chamber of Commerce (GAHCC)",
+        "role": "Board member; Chair, Hispanic Austin Leadership Program; Co-Chair, Membership Committee; member, Healthcare Committee",
+        "category": "business",
+        "source_url": "https://www.kvue.com/article/news/local/hispanic-heritage-month/hispanic-heritage-month-latino-leaders-austin/269-40ec45e7-2e53-44a6-8964-c3eacaca5141",
+        "snippet": "\"She is a board member for the Greater Austin Hispanic Chamber of Commerce, the City of Austin Commission on Seniors, Austin Geriatric Center\"; she currently serves on the GAHCC Board and chairs the Hispanic Austin Leadership Program."
+      },
+      {
+        "org": "City of Austin Commission on Seniors",
+        "role": "Board/commission member",
+        "category": "civic",
+        "source_url": "https://www.kvue.com/article/news/local/hispanic-heritage-month/hispanic-heritage-month-latino-leaders-austin/269-40ec45e7-2e53-44a6-8964-c3eacaca5141",
+        "snippet": "\"She is a board member for the Greater Austin Hispanic Chamber of Commerce, the City of Austin Commission on Seniors, Austin Geriatric Center and is a member of the annual Conley-Guerrero Senior Luncheon committee.\""
+      },
+      {
+        "org": "AGE of Central Texas (Austin Geriatric Center)",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://voyageaustin.com/interview/meet-luz-lopez-guerrero-of-austin",
+        "snippet": "\"A board member for AGE of Central Texas, where she helps raise awareness around caregiver support, mental health, and access to resources.\""
+      }
+    ]
+  },
+  {
+    "donor_id": "24f832bc91caa1e8",
+    "name": "Opdahl, Debra",
+    "resolved_employer": "Travis County Emergency Services District 8 (Pedernales Fire Department) — Board President; listed as \"Self\" for employment",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Spicewood resident at 541 Nomad Dr, Spicewood, TX 78669-1342 — an exact zip+4 match to the donor record. Registered on the Texas House 88R witness list for HB 1775 as \"Esd8 Board president\" representing Travis County ESD 8/16, Spicewood, TX (position: AGAINST). Also quoted in a 2012 Texas Tribune story as a Spicewood resident describing a neighbor's escape from the Pedernales wildfire. FEC record shows 33 donations, partisan lean 1.0.",
+    "source_url": "https://capitol.texas.gov/tlodocs/88R/witlistmtg/html/C5562023052117301.HTM",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Emergency Services District 8 (Pedernales Fire Department)",
+        "role": "Board President",
+        "category": "civic",
+        "source_url": "https://capitol.texas.gov/tlodocs/88R/witlistmtg/html/C5562023052117301.HTM",
+        "snippet": "Witness list entry for HB 1775 (88R): Opdahl, Debra — AGAINST — \"Esd8 Board president\", Travis County ESD 8/16, Spicewood, TX."
+      }
+    ]
+  },
+  {
+    "donor_id": "cd41d373f116f1ef",
+    "name": "Cleaves, Dorothy",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported on the filing and no corroborating public professional profile found. People-search records list a Dorothy Cleaves in Austin, TX (approx. age 81, with prior residences in Houston TX, Chicago and Glencoe IL), which is consistent with a retiree, but the 78735 zip was not independently confirmed and no former career could be established, so no industry fallback is asserted. FEC record shows 244 donations with partisan lean 1.0 — a prolific small-dollar Democratic recurring donor, not an influence-adjacent profile. Note: a Tad Cleaves is a registered Texas lobbyist (attorney, Austin), but no public record links him to this donor and no relationship is asserted.",
+    "source_url": "https://www.spokeo.com/Dorothy-Cleaves",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d306ed75b87ed874",
+    "name": "Davis, Annie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confidently identify this person. 'Annie Davis' is a very common name and no public profile ties an Annie Davis to Austin ZIP 78723. The prominent Austin-area matches (Kimberly 'Annie' Davis, alt-rock singer of Trashy Annie / Survivor 49; Annie Davis Lynch, artist; an Annie Davis in ASU enterprise-tech communications) have no corroborating zip, occupation, or donation-pattern link to this donor, so none is asserted. Record shows 13 FEC donations with a Democratic lean and a single $51.50 gift to Brigid Shea (12/31/2025), consistent with an ordinary small-dollar online donor.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Annie+Davis",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc627fdd46c339c8",
+    "name": "Puryear Kelley, Mariel",
+    "resolved_employer": "Williamson County Attorney's Office - prosecutor / appellate and criminal division lead (attorney, State Bar of Texas, licensed 2014)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Distinctive name matches Mariel Tatum Puryear Kelley, a Texas-licensed attorney (J.D., St. Mary's University, 2014) at the Williamson County Attorney's Office, resident of Austin (married John Kelley in Austin, 2019). She is a Democratic candidate for Travis County Justice of the Peace, Precinct 2, in the March 3, 2026 primary; her $51.50 gift to Travis County Commissioner Brigid Shea (6/24/2025) fits the pattern of a first-time countywide candidate networking within Travis County Democratic officeholders.",
+    "source_url": "https://www.avvo.com/attorneys/78626-tx-mariel-kelley-4640547.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Justice of the Peace, Precinct 2 (Democratic candidate, 2026)",
+        "role": "Candidate",
+        "category": "political",
+        "source_url": "https://marielkelley.com/",
+        "snippet": "Campaign site describes her as a former public school teacher, courtroom attorney who 'led a criminal division,' a 'progressive Democrat,' running for Justice of the Peace, Precinct 2: 'Justice doesn't start in Washington D.C, it starts right here, at home.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "ec6c210077d28149",
+    "name": "Rader, Willa",
+    "resolved_employer": "Pathologists' assistant, Pathology Associates (per FEC occupation/employer field; likely retired - public records list her as age ~71)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Public-records aggregators place a Willa (Willarae) Rader, b. ~1954, with an address history spanning Austin, TX and Scottsdale/Buckeye, AZ, matching the donor's current Austin 78723 address. FEC-derived records list 'WILLA RADER (PATHOLOGY ASSOCIATES/PATHOLOGISTS ASSISTANT), (Zip code: 85254) $25 to VOTER PROTECTION PROJECT on 09/26/2020' - the Scottsdale zip in her address history. Occupation is inferred from that FEC employer field rather than an independent bio, hence medium confidence. Her 220 FEC donations with a Democratic lean mark her as a prolific small-dollar Democratic donor; the $51.50 to Commissioner Jeff Travillion fits that pattern.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SCOTTSDALE-AZ-20-part109.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Voter Protection Project",
+        "role": "Small-dollar donor",
+        "category": "political",
+        "source_url": "https://www.city-data.com/elec2/20/elec-SCOTTSDALE-AZ-20-part109.html",
+        "snippet": "WILLA RADER (PATHOLOGY ASSOCIATES/PATHOLOGISTS ASSISTANT), (Zip code: 85254) $25 to VOTER PROTECTION PROJECT on 09/26/2020"
+      }
+    ]
+  },
+  {
+    "donor_id": "fa91e6270842b938",
+    "name": "McSween, Derek",
+    "resolved_employer": "St. Lucie County School System (St. Lucie Public Schools) - Director of Facilities and Capital Projects; background in CIP/construction program management, previously with HPM",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Only public Derek McSween matching Port Saint Lucie, FL is the Director of Facilities and Capital Projects for the Saint Lucie County School System, a program director / owner's representative in capital-improvement program management (self-described as having run a $2 billion K-12 construction program) and keynote speaker. Location match to the donor's Port Saint Lucie 34953 address is the corroborating detail; no independent zip/occupation confirmation was available, so confidence is medium. Out-of-state $51.50 gift to Travis County Commissioner Jeff Travillion (8/29/2024) with zero FEC donation history - most likely a personal or professional-network gift rather than local influence.",
+    "source_url": "https://www.linkedin.com/in/derek-mcsween/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "17dc14e6ea014d97",
+    "name": "Jeffries, Kedrick",
+    "resolved_employer": "Big Brothers Big Sisters of Central Texas (Chief Executive Officer)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Kedrick Jeffries is CEO of Big Brothers Big Sisters of Central Texas, an East Austin native (LBJ High School / ACC) whose prior roles include Chief Club Operations Officer at Boys & Girls Clubs of the Austin Area, Communities in Schools of Central Texas, Austin and Pflugerville ISD out-of-school-time programming, and staff work with the AFL-CIO and AFSCME in Washington, D.C. Public records and his LinkedIn place him in the Manor/east Travis County area (zip 78653), consistent with his $50 gift to Travis County Commissioner Jeff Travillion, who represents Precinct 1 (East Austin/Manor). Name is distinctive; no competing Central Texas match found.",
+    "source_url": "https://www.bigmentoring.org/meet-kedrick-jeffries-big-brothers-big-sisters-new-ceo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Big Brothers Big Sisters of Central Texas",
+        "role": "Chief Executive Officer",
+        "category": "civic",
+        "source_url": "https://www.bigmentoring.org/meet-kedrick-jeffries-big-brothers-big-sisters-new-ceo/",
+        "snippet": "Kedrick Jeffries serves as Chief Executive Officer of Big Brothers Big Sisters of Central Texas; an East Austin native who grew up near the organization's former Tillery Street office."
+      },
+      {
+        "org": "Manor Schoolhouse Foundation",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/kedrick-jeffries-212a19228/",
+        "snippet": "Listed as a board member of the Manor Schoolhouse Foundation, participating in awarding Innovation Grants to Manor ISD educators."
+      },
+      {
+        "org": "AFL-CIO / AFSCME",
+        "role": "Former staff (Washington, D.C.)",
+        "category": "political",
+        "source_url": "https://www.bigmentoring.org/meet-kedrick-jeffries-big-brothers-big-sisters-new-ceo/",
+        "snippet": "Career history includes work with the AFL-CIO and AFSCME, including a Washington, D.C. based role requiring extensive travel."
+      }
+    ]
+  },
+  {
+    "donor_id": "1b3442fc7fc1196f",
+    "name": "Nettles, Judy",
+    "resolved_employer": "Law Office of Malcolm S. Nettles, P.C., Austin (senior executive assistant / office staff)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "The 78733 address matches the Law Office of Malcolm S. Nettles, P.C. at 2909 Riviera Rd, Austin, TX 78733 (a residence-based family/criminal law practice founded 1980). Client reviews of the firm refer to 'Mr. Nettles and his trusty sidekick Judy,' and a Judy Nettles LinkedIn profile lists her as a Senior Executive Assistant in Austin, TX. Public sources suggest but do not conclusively establish that she is attorney Malcolm S. Nettles' spouse, so identity is corroborated by shared surname + exact zip + firm-staff reference rather than a direct bio. FEC-matched giving profile is 67 donations, fully Democratic-leaning, consistent with a small-dollar recurring donor to Travis County Commissioner Brigid Shea.",
+    "source_url": "https://www.avvo.com/attorneys/78733-tx-malcolm-nettles-191153.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Law Office of Malcolm S. Nettles, P.C.",
+        "role": "Office staff / senior executive assistant (household associated with the firm's 78733 address)",
+        "category": "business",
+        "source_url": "https://www.avvo.com/attorneys/78733-tx-malcolm-nettles-191153.html",
+        "snippet": "Firm located at 2909 Riviera Rd, Austin, TX 78733; a client review states 'Mr. Nettles and his trusty sidekick Judy work hard to protect your rights.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "1d127942d3725c77",
+    "name": "Aroian, Karen",
+    "resolved_employer": "Aroian Editorial (self-employed developmental editor / writing coach), Austin",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Karen Aroian runs Aroian Editorial in Austin, a solo practice doing developmental editing, book coaching and ghostwriting for historical novels, memoirs and business content; she began her career at Houghton Mifflin in Boston and later led editorial and copywriting teams at publishing and marketing firms. She served as 2017-2018 president and is now a peer mentor of Women Communicators of Austin. Surname is rare and the Austin location matches; the 78757 zip is not directly confirmed in public sources, and a distinct Karen Aroian is a nursing professor at the University of Central Florida (not this donor). No policy-advocacy affiliations surfaced.",
+    "source_url": "https://aroianeditorial.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Women Communicators of Austin",
+        "role": "President (2017-2018), current peer mentor",
+        "category": "civic",
+        "source_url": "https://wcaustin.org/2023/09/06/karen-aroian/",
+        "snippet": "Served as president of Women Communicators of Austin (2017-2018), an all-volunteer nonprofit with more than 250 members; currently a peer mentor with the organization."
+      }
+    ]
+  },
+  {
+    "donor_id": "308b14b0e94a12ac",
+    "name": "Black, Peter",
+    "resolved_employer": "PMB Consulting, Inc. — independent pharmaceutical consultant (clinical outcome assessment / eCOA, digital health, clinical operations), Austin",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Peter M. Black, BSc, MSc runs PMB Consulting, Inc. (pmbci.com) as an independent pharmaceutical consultant in Austin specializing in clinical outcome assessment (COA/eCOA), digital health and clinical operations; he previously held the title Senior Scientist, COA Consulting and Senior Director of Consulting Operations at Invivodata, and publishes on patient-meaningful change in digital endpoints. This matches the filing's occupation 'Scientist' and employer 'Self employed' in Austin. Public records list a Peter Black at a 78703 address, but the zip is not independently tied to the consultant profile, so identity is medium rather than high confidence. No PAC, lobbying, or policy-advocacy affiliations surfaced; FEC-matched profile is 58 donations at a 0.89 Democratic lean.",
+    "source_url": "https://pmbci.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "314378bd4eeedb4a",
+    "name": "Washington, Gerard",
+    "resolved_employer": "Retired (self-reported \"Rtd\"; former career not identifiable from public sources)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Austin 78753 retiree, $50 to Travis County Constable candidate George Morales, first gift 2025-06-29. Self-reported occupation/employer on the filing is \"Rtd\" (retired), which is the only sourced fact about him; no LinkedIn, bio, obituary, news, or business record for a Gerard Washington in Austin/78753 could be found. The one obituary match for the name (Lamb Funeral Home) is a Chicago-born substance-abuse counselor who retired from the State of Illinois and has no Austin connection, so it is a different person. Industry assigned from the self-reported retired status only; former career unknown, so no prior-career industry is inferred.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3605ad525f87d219",
+    "name": "Bryant, Laura",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Austin 78751 (Hyde Park), $50 to George Morales, first gift 2017-08-01. The donor record carries no occupation or employer string, so there is nothing to corroborate identity against. At least three distinct Austin-area candidates share the name: a landscape architect/project manager at Word + Carr Design Group, a separate Austin landscape-architecture listing tied to Design Workshop at 78701, and a Laura J. Bryant licensed with the State Bar of Texas. None is tied to 78751 by any public source, and 78751 is residential, so it cannot discriminate between them. Per instructions, no industry is guessed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36853107231a9ae6",
+    "name": "Kathleen Chen",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "$50 to Travis County Commissioner Margaret Gomez, first gift 2021-11-14. The record has no zip, no location, and occupation/employer recorded as \"Don't Know\", leaving no corroborating detail whatsoever. Public search surfaces several unrelated Kathleen/Cathleen Chens (a UT-Austin student, an anesthesiology professor at Baylor College of Medicine in Houston, an Austin psychiatrist spelled Cathleen), none linkable to this filing. Identity cannot be established; industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45794e719b879c7b",
+    "name": "Weiss, Doug",
+    "resolved_employer": "City of Pflugerville (Mayor, sworn in Dec. 2025; Pflugerville City Council member at the time of the donation); day job in technology management at Shutterfly",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed by exact address match: the donor address \"Pflugerville, TX 78691-0708\" matches the PO BOX 708, Pflugerville, TX 78691 published on Doug Weiss's official campaign site. He was a nine-year Pflugerville City Council member when he gave $50 to Travis County Commissioner Brigid Shea on 2025-06-21, and won the December 2025 mayoral runoff with 56% of the vote. Career: 17 years at Group 1 Software, then Shutterfly as solutions architect and later manager over three automation/enablement teams. Not a registered Texas lobbyist, and no ideological-PAC (pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense) ties surfaced in FEC or other public records. Note: the pipeline's fec_partisan_lean of 0 for this donor conflicts with the public record (TCDP-endorsed, ActBlue fundraising) and is likely an FEC name-collision artifact.",
+    "source_url": "https://www.dougweiss.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Pflugerville",
+        "role": "Mayor (sworn in Dec. 2025); previously City Council member for nine years",
+        "category": "political",
+        "source_url": "https://cbsaustin.com/news/local/doug-weiss-sworn-in-as-pflugerville-mayor",
+        "snippet": "Doug Weiss was sworn in as mayor of Pflugerville after winning a December runoff with 56% of the vote; he previously served nine years on the Pflugerville City Council."
+      },
+      {
+        "org": "Pflugerville Community Development Corporation",
+        "role": "Board member for over a decade; elected President in 2015",
+        "category": "business",
+        "source_url": "https://www.dougweiss.com/",
+        "snippet": "Spent over a decade on the Pflugerville Community Development Corporation board, championing job creation and an expanded commercial tax base."
+      },
+      {
+        "org": "Capital Area Emergency Communications District",
+        "role": "First Vice-Chair",
+        "category": "civic",
+        "source_url": "https://www.dougweiss.com/",
+        "snippet": "First vice-chair of the Capital Area Emergency Communications District, responsible for maintaining the regional 9-1-1 system across Central Texas."
+      },
+      {
+        "org": "Pflugerville Education Foundation",
+        "role": "Vice President of Governance",
+        "category": "civic",
+        "source_url": "https://www.dougweiss.com/",
+        "snippet": "Served in leadership roles at community organizations including Vice President of Governance for the Pflugerville Education Foundation."
+      },
+      {
+        "org": "Rotary Club of Pflugerville",
+        "role": "President (Rotary year June 2019 - July 2020)",
+        "category": "civic",
+        "source_url": "https://www.dougweiss.com/",
+        "snippet": "President of the Rotary Club of Pflugerville for the 2019-2020 Rotary year."
+      },
+      {
+        "org": "Travis County Democratic Party",
+        "role": "Endorsed candidate in the 2025 Pflugerville mayoral runoff",
+        "category": "political",
+        "source_url": "https://www.facebook.com/TravisCountyDemocraticParty/posts/1393408222153934/",
+        "snippet": "TCDP has endorsed Doug Weiss for Pflugerville Mayor in the runoff election."
+      }
+    ]
+  },
+  {
+    "donor_id": "4fd40e8bf2761ffd",
+    "name": "Mynarcik, Susan",
+    "resolved_employer": "Barton Springs Upholstery (owner)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Susan Mynarcik is the owner of Barton Springs Upholstery, a small furniture-reupholstery shop at 1410 Barton Springs Rd, Austin (est. 1989, ~2 employees). Surname is rare; business directory listing carries zip 78746, matching the donor's 78746-5123 address. No public policy-advocacy footprint found.",
+    "source_url": "https://www.linkedin.com/in/susan-mynarcik-4423013a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "50e6f41b461dac91",
+    "name": "Gomez, Cristina",
+    "resolved_employer": "CA Consulting, Strategies, Management (CACSM) — Principal & Managing Director (self-employed)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Best match is Cristina Ayala Gomez, an Austin-based fundraising and management consultant working exclusively on progressive political and nonprofit campaigns; formerly Deputy Executive Director at Annie's List and Finance Director at the Texas Democratic Party. Self-employed consultant + Austin residence + a 78-donation FEC record at a 1.0 partisan lean all corroborate a professional Democratic fundraiser; zip 78724 not independently confirmed, so medium.",
+    "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Annie's List",
+        "role": "Former Deputy Executive Director",
+        "category": "political",
+        "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez",
+        "snippet": "Bio lists her as former Deputy Executive Director at Annie's List, the PAC that recruits progressive, pro-choice Texas women to run for office."
+      },
+      {
+        "org": "Texas Democratic Party",
+        "role": "Former Finance Director",
+        "category": "political",
+        "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez",
+        "snippet": "Bio lists a prior role as Finance Director at the Texas Democratic Party."
+      },
+      {
+        "org": "Electing Women Alliance (Austin chapter)",
+        "role": "Board member",
+        "category": "political",
+        "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez",
+        "snippet": "Served on the Electing Women Alliance board, Austin, Texas chapter."
+      },
+      {
+        "org": "YWCA USA",
+        "role": "Vice-Chair, Board of Directors",
+        "category": "civic",
+        "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez",
+        "snippet": "Listed on the YWCA national Board of Directors page as Vice-Chair."
+      },
+      {
+        "org": "New Leaders Council — South Texas Frontera chapter",
+        "role": "Founder; national LEAD Trainer",
+        "category": "civic",
+        "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez",
+        "snippet": "Founded New Leaders Council South Texas Frontera, the organization's only chapter on the Border."
+      }
+    ]
+  },
+  {
+    "donor_id": "62edd91cf212fc2d",
+    "name": "Dicker, Rachel",
+    "resolved_employer": "Rachel Dicker Travel — owner, luxury travel advisor (independent affiliate of Brownell Travel; Virtuoso network)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Rachel Dicker is an Austin, TX luxury travel advisor who owns Rachel Dicker Travel, an independent affiliate of Brownell Travel, after fifteen years at TCS Expeditions and years living abroad in China. Occupation ('Travel advisor'), employer ('Self') and Austin location all match the filing. No lobbyist registration or policy-advocacy affiliation found.",
+    "source_url": "https://www.virtuoso.com/advisors/12430512/rachel-dicker",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "652f3798c7945dac",
+    "name": "Smith, Kirk",
+    "resolved_employer": "Self-employed, real estate (per filing) — specific individual not confirmed",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Could not confirm which Kirk Smith this is; the name is very common. Candidates checked and not confirmed: (a) a Kirk Smith operating as a self-employed general contractor/remodeler in Austin 78704 (Kirk Smith Construction, ~13 permitted residential projects) — zip and self-employment match but the trade is construction, not real estate; (b) an Austin musician Kirk Smith who also does construction and house remodeling, likely the same person; (c) Kirk Smith of EZ Breezy Home Buyers, ruled out as Chesapeake, Virginia; (d) a Kirk Smith at CBRE, page 404s and market unconfirmed. No Kirk Smith appears in City of Austin lobbyist registration results or Texas Ethics Commission lobbyist search results. Industry is classified from the filing's own self-reported occupation only; no real-estate-development or influence affiliation is supported by any source found.",
+    "source_url": "https://www.buildzoom.com/contractor/kirk-smith-austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

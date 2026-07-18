@@ -1,0 +1,297 @@
+[
+  {
+    "donor_id": "9fcf404db0f55cb9",
+    "name": "Dochen, Sanford",
+    "resolved_employer": "IBM (retired 2019) — Corporate Citizenship / Corporate Social Responsibility Manager for Texas, Arkansas and Louisiana; now board director, Amplify Credit Union",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Sanford \"Sandy\" Dochen is a native Austinite who spent ~21 years at IBM as its regional corporate citizenship/CSR manager (retired 2019), is past chair of the Austin Area Research Organization, and now sits on the boards of Amplify Credit Union and the Anti-Defamation League. No zip on the county record, so identity rests on the distinctive surname plus a well-documented Austin civic profile consistent with a small donation to a Travis County commissioner; \"Sandy\" is the standard diminutive of Sanford. Note: this is NOT the Dochen Realtors / Dochen Realty Group brokerage — no public source ties him to that firm, and no real-estate connection was assumed.",
+    "source_url": "https://www.sciencemill.org/sandy-dochen",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Anti-Defamation League (and Jewish Federation of Austin)",
+        "role": "Board member (ADL); registered witness FOR SB 326 at Texas House Education K-16 hearing, 3/25/2025, representing \"Self; Anti defamation League, Jewish Federation of Austin\"",
+        "category": "jewish_civic",
+        "source_url": "https://capitol.texas.gov/tlodocs/89R/witlistmtg/html/C5322025032508001.HTM",
+        "snippet": "Witness list entry: \"Sandy Dochen (Self; Anti defamation League, Jewish Federation of Austin)\" — registering, but not testifying, FOR SB 326. Recorded as jewish_civic because this is direct state legislative advocacy, not private communal membership."
+      },
+      {
+        "org": "Amplify Credit Union",
+        "role": "Board Director",
+        "category": "business",
+        "source_url": "https://theorg.com/org/amplify-credit-union/org-chart/sandy-dochen",
+        "snippet": "Listed as a Director on the board of Amplify Credit Union, an Austin-headquartered financial institution."
+      },
+      {
+        "org": "Austin Area Research Organization (AARO)",
+        "role": "Past chair; also Leadership Austin fellow, Science Mill board",
+        "category": "civic",
+        "source_url": "https://www.sciencemill.org/sandy-dochen",
+        "snippet": "Bio: retired from IBM in 2019 from a regional corporate social responsibility position; \"a consummate community volunteer\"; active in the Austin Area Research Organization and a Leadership Austin fellow."
+      }
+    ]
+  },
+  {
+    "donor_id": "a680309b0bbc8655",
+    "name": "Sawin, Kodi",
+    "resolved_employer": "Sawin Group — Principal / Public Affairs Strategist (infrastructure, water and land-use policy consulting)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Kodi Elizabeth Sawin is principal of Sawin Group, an Austin public-affairs/government-relations consultancy focused on water, land use and large infrastructure permitting; the firm's listed address is PO Box 12104, Austin TX 78711, an exact match to the donor zip. She is also a Travis County Citizens Bond Advisory Committee appointee for Precinct 3 — the precinct represented by Ann Howard, the recipient of this donation — which independently corroborates the identity. She ran as an Independent for Texas House District 19 (endorsed by the Texas Forward Party). Not found in Texas Ethics Commission lobbyist registrations, though her work is lobbying-adjacent public-affairs consulting.",
+    "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/15-kodi-elizabeth-sawin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Sawin Group",
+        "role": "Principal / Public Affairs Strategist",
+        "category": "business",
+        "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/15-kodi-elizabeth-sawin",
+        "snippet": "County bio: \"Kodi Sawin specializes in analyzing politically complex infrastructure and natural resource projects\" — assesses political risk and executes public strategy for projects requiring policy change at local, regional and state levels."
+      },
+      {
+        "org": "Travis County Citizens Bond Advisory Committee",
+        "role": "Precinct 3 appointee",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-3-appointees/15-kodi-elizabeth-sawin",
+        "snippet": "Listed on the Travis County website as a Precinct 3 appointee to the Citizens Bond Advisory Committee."
+      },
+      {
+        "org": "Texas Forward Party / Kodi Sawin for Texas (HD19)",
+        "role": "Independent candidate for Texas House District 19; party endorsee",
+        "category": "political",
+        "source_url": "https://www.texasforwardparty.org/news/the-texas-forward-party-endorses-kodi-sawin-for-texas-house-of-representatives",
+        "snippet": "The Texas Forward Party announced its endorsement of Kodi Sawin for Texas House of Representatives, citing her commitment to moving Texas past partisan gridlock."
+      }
+    ]
+  },
+  {
+    "donor_id": "a731c1f9762240d4",
+    "name": "Mennucci, William",
+    "resolved_employer": "Valli Kane & Vagnini LLP, Austin (previously Thompson, Coe, Cousins & Irons LLP) — trial and appellate attorney",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "William Leonard \"Bill\" Mennucci is the only William Mennucci with a public Austin footprint: State Bar of Texas #00788042, licensed 1993 (UT J.D.), board certified in Civil Appellate Law, practicing personal-injury litigation and civil appeals at Valli Kane & Vagnini LLP in Austin after a long run at defense firm Thompson Coe. Donor zip 78751 is a central-Austin residential zip consistent with an Austin-based attorney, but the residential zip itself is not independently confirmed against him, hence medium rather than high. No TEC lobbyist registration found; no federal PAC giving found under his name (an Anita Mennucci of Austin 78723 appears in FEC records, likely a relative, not this donor).",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=151477",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b1cf90ae7a8c141e",
+    "name": "Lawrence, Stanton",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm identity. The only Texan named Stanton Lawrence with a public profile is Dr. Stanton Eugene Lawrence, a career educator (teacher, principal, assistant superintendent and superintendent in Texas and Missouri) with M.Ed. and Ed.D. degrees from UT Austin, now regional coordinator for Huntsville/East Texas at the prison-reentry nonprofit Bridges To Life; he is publicly listed as residing in Cleveland, TX (Huntsville area), well outside Travis County. The county record carries no zip, so nothing corroborates him as the donor to Jeff Travillion beyond the name and a UT Austin educational tie. Per the instructions, no industry is forced onto an unconfirmed identity. All three mandatory searches were run and returned nothing: no TEC lobbyist registration under \"Lawrence, Stanton\" (the registry lists only unrelated Lawrences, e.g. \"Lawrence, Kevin F.\"), and no identifiable federal PAC giving.",
+    "source_url": "https://www.linkedin.com/in/dr-stanton-eugene-lawrence-4aa18a1b1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b9a064edb4c63502",
+    "name": "Oliver, Frances",
+    "resolved_employer": "Self-employed artist (FEC-reported occupation 'ARTIST', employer 'SELF', 2017-2018); reported 'NOT EMPLOYED' on all filings 2019-2026, consistent with retirement",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "FEC individual-contribution records for OLIVER, FRANCES at Austin TX 78735 (exact name + zip match to the site record) show a long run of small recurring ActBlue-processed donations from 2017 through 2026, self-reported occupation 'ARTIST'/employer 'SELF' in 2017-2018 and 'NOT EMPLOYED' thereafter. The high-frequency small-dollar Democratic giving pattern matches the 293-donation, strong-Dem-lean profile. No business, firm, lobbying, or advocacy-org affiliation found in any search.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=OLIVER%2C+FRANCES&contributor_zip=78735",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d4b2f7081db6e56e",
+    "name": "Phillips, James",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not corroborate the specific individual. The site record carries no zip or city, and 'James Phillips' is an extremely common name; the 866 attributed FEC donations are a name-match aggregate across what are almost certainly multiple distinct people, so no occupation/employer can be responsibly assigned. No Texas Ethics Commission lobbyist registration, news coverage, bio page, or public profile could be tied to the specific donor who gave to Jeff Travillion on 2021-11-09. Per instructions, industry left null rather than guessed.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=PHILLIPS%2C+JAMES&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc243d9c4d36737a",
+    "name": "Phillips, Cindy",
+    "resolved_employer": "None disclosed; reports 'NOT EMPLOYED' on all FEC filings (likely retired)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "FEC individual-contribution records for PHILLIPS, CINDY in Spicewood TX 78669 (exact city + zip match to the site record's 78669-6433 address) show consistent small recurring donations, most on a $3.00/month ActBlue recurring schedule running 2024-2026, with employer and occupation both self-reported as 'NOT EMPLOYED' on every record. The small-dollar recurring Democratic pattern matches the 334-donation, strong-Dem-lean profile and the $128.75 local giving to Brigid Shea across 2025. A LinkedIn profile headlined 'Cindy Phillips - Spicewood, Texas, United States' exists (linkedin.com/in/cindy-phillips-08488b5) but LinkedIn blocked automated retrieval, so its contents are not relied on here. No lobbyist registration, employer, or advocacy affiliation found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=PHILLIPS%2C+CINDY&contributor_zip=78669",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e15b19cf8ba17f60",
+    "name": "Jensen, Bridget",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No verifiable public profile found for the Bridget Jensen at Houston TX 77019 who gave to Ann Howard on 2024-10-10. A LinkedIn result 'Bridget Jensen - Rice University' surfaced but is not tied to the 77019 address and LinkedIn blocked retrieval, so it is not treated as corroboration; a city-data.com FEC mirror page returned by search was fetched directly and does NOT contain her, so that lead was discarded. Direct FEC API lookup was blocked by rate limiting during this run, so the FEC-reported occupation/employer field could not be confirmed firsthand — worth a re-run once quota resets. No Texas Ethics Commission lobbyist registration and no advocacy-org affiliation found. Industry left null rather than guessed.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=JENSEN%2C+BRIDGET&contributor_zip=77019",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea710b1b17a2764c",
+    "name": "Wolfe, Jan",
+    "resolved_employer": "Solo-practice attorney (law office listed at home address, West Lake Hills)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "FindLaw's Austin, TX law-firm directory lists an attorney entry 'Wolfe, Jan' at 2 Ledgeway St, Austin/West Lake Hills, TX 78746-3512 — an exact match to the donor's recorded address and zip. Public-records aggregator listings give the same address for a Jan (Jan Oliver) Wolfe, age ~66. The directory entry is a bare listing (last updated 1999) with no firm, practice areas, or bio page, so no fuller professional profile exists to read; the Legal classification rests on the directory listing plus the address match. No Texas Ethics Commission lobbyist registration and no PAC or ideological federal contributions surfaced under this name and zip.",
+    "source_url": "https://lawyers.findlaw.com/texas/austin/1677074_1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ec03574a2ff326cc",
+    "name": "Ita, Essien",
+    "resolved_employer": "WellPoint Energy / Wellpoint Exploration & Production LLC — founder, CEO & President (oil and gas exploration and production)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Essien E. Ita is the founder and CEO of WellPoint (Wellpoint Exploration & Production LLC / WellPoint-Orbis), an oil and gas E&P company headquartered in Austin, Texas; Travis County appraisal records list ESSIEN E ITA as owner of a single-family home on Varner Court in the Steiner Ranch area of Austin 78732, matching the donor's recorded zip. FEC records independently confirm the same person under the employer 'WELLPOINT ENERGY INC./PRESIDENT'.",
+    "source_url": "https://wellpointenergy.com/key-personnel/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "WellPoint Energy / Wellpoint Exploration & Production LLC",
+        "role": "Founder, CEO & President",
+        "category": "oil_gas",
+        "source_url": "https://wellpointenergy.com/key-personnel/",
+        "snippet": "Company bio: Ita 'founded Wellpoint in 2016 to take advantage of his contacts in the financial community both in the United States and Europe and his business network in the Federal Republic of Nigeria specifically in the oil and gas sector'; he led the 2018 acquisition effort for publicly traded Erin Energy (drilling licenses OML120/OML121) and was engaged by the Nigerian National Petroleum Corporation on OML119 funding."
+      },
+      {
+        "org": "National Republican Congressional Committee",
+        "role": "Individual contributor ($700, 03/29/2007, listed as WELLPOINT ENERGY INC./PRESIDENT)",
+        "category": "political",
+        "source_url": "https://www.city-data.com/elec2/elec-SOUTH-RIVER-NJ.html",
+        "snippet": "FEC individual-contribution record: 'Essien E Ita, zip 08882, WELLPOINT ENERGY INC./PRESIDENT, National Republican Congressional Committee, $700, 03/29/2007.' Matched on the employer string; consistent with his bio, which states he was born in New York City and raised in New Jersey before relocating to Austin."
+      }
+    ]
+  },
+  {
+    "donor_id": "f706ad28da778500",
+    "name": "Malone, Derwin",
+    "resolved_employer": "SHI International Corp. — Director of Corporate Inside Sales (IT products and services reseller), Austin area",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Derwin Malone II is a Director of Corporate Inside Sales at SHI International Corp., an IT reseller with a large Austin office, and is described in professional profiles as an Austin-area sales/communications leader with 20+ years in the field; the Round Rock 78665 residential zip is a standard Austin-metro commute for SHI's Austin office. Identity rests on the name plus Austin-metro location match; no additional corroborating detail (exact street address) is public, hence medium rather than high. No Texas Ethics Commission lobbyist registration and no federal PAC or ideological contributions found — consistent with the donor record showing 0 FEC donations.",
+    "source_url": "https://www.linkedin.com/in/derwin-malone-ii-297a151a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe73d59c01fcd641",
+    "name": "McKeown, Debra",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile could be tied to a Debra McKeown in Alexandria, VA 22308. The prominent web match (Dr. Debra McKeown, education professor at Texas A&M) is based in College Station, TX and does not match the Alexandria address, so she was ruled out. Noted as an unconfirmed lead only: FEC records show a Frank J. 'Mick' McKeown at the same 22308 zip, employer Triumph Group Inc., occupation 'MGMT GOV RELATIONS', who is Triumph Group's VP of Washington Operations and a registered federal lobbyist for that aerospace/defense manufacturer — but no public source establishes any household or family relationship between him and this donor, so no affiliation is recorded. All three mandatory searches were run; no Texas Ethics Commission registration and no PAC or ideological federal contributions were found under this donor's name.",
+    "source_url": "https://www.city-data.com/elec2/16/elec-ALEXANDRIA-VA-16-part9.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe8060d3e8c2ac9b",
+    "name": "Braunagel-Brown, Mary",
+    "resolved_employer": "State University of New York (SUNY) system, 20-year career (retired 2003); philanthropist/UT Austin donor",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Mary Braunagel-Brown (B.A. '68, M.A., Ph.D. '83, UT Austin) worked ~20 years for the SUNY system in upstate New York and retired to Austin with her husband Bruce Brown in 2003. Extremely distinctive hyphenated name with only one public bearer in Austin; her large volume of small-dollar Dem-leaning federal giving is consistent with a retired academic administrator. She is an Osage Nation member and funded the first-ever endowment for UT's Native American and Indigenous Studies program, using income she receives as an Osage shareholder from tribal oil rights — a passive inherited headright interest, not an industry role, so it is recorded here as context only and NOT flagged as an oil_gas affiliation.",
+    "source_url": "https://news.utexas.edu/2024/09/06/a-place-to-belong/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "University of Texas at Austin — Native American and Indigenous Studies (NAIS) Program",
+        "role": "Founding endowment donor; namesake of the Mary Braunagel-Brown Excellence Fund and the Braunagel-Brown Endowed Lecture. Also gave the initial gift to the INSPIRE Leadership program at UT's Center for Women and Gender Studies (2013).",
+        "category": "civic",
+        "source_url": "https://liberalarts.utexas.edu/nais/events/the-braunagel-brown-endowed-lecture-in-native-american-indigenous-studies-presents-buying-our-land-back-moving-the-osage-nation-into-the-future-by",
+        "snippet": "UT's NAIS program hosts \"The Braunagel-Brown Endowed Lecture in Native American & Indigenous Studies,\" launched fall 2023 from her endowment gift."
+      }
+    ]
+  },
+  {
+    "donor_id": "c05cdb6cf3a7424b",
+    "name": "Jack, Sanders",
+    "resolved_employer": "Design Build Adventure (founder/owner) — East Austin design-build, architecture and public-art studio",
+    "industry": "Architecture",
+    "confidence": "medium",
+    "evidence": "Name is almost certainly reversed in the filing: Jack Sanders, an Austin architectural designer and public artist who founded Design Build Adventure in 2005 (M.Arch UT Austin, B.Arch Auburn/Rural Studio). Matches the filing's occupation \"Artist\" and employer \"Self\" — he is a self-employed artist/designer who created the \"Construction Event\" sculpture for the City of Austin's Drawing Lines public-art project behind the Elisabet Ney Museum, in the Hyde Park area adjacent to the reported 78705 zip. Identity is medium, not high, because the zip could not be independently confirmed to him.",
+    "source_url": "https://designbuildadventure.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "103ca65d87872014",
+    "name": "Manyweather, Lila",
+    "resolved_employer": "NDSci Technologies, Inc. (CEO) — Austin technology training, IT certification and AI services firm",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Dr. Lila Manyweather is CEO of NDSci Technologies, Inc., whose registered business address is 8103 Valleyfield Dr, Austin TX 78724 — an exact match to the donor's reported 78724 zip. The firm provides technology certification training, data security and AI services (flagship product ACER) and holds an active federal supplier CAGE code (8PA03); no evidence found of defense-contracting work, lobbying registration, or policy advocacy.",
+    "source_url": "https://www.bizapedia.com/tx/ndsci-technologies-inc.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1d587e01b4b2e637",
+    "name": "Coniglio, Frank",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public record could be tied to a Frank Coniglio in San Antonio/Alamo Heights (78209). LinkedIn returns 30+ people by that name, none in San Antonio (closest Texas match is a retiree in Texarkana). No occupation or employer was reported on the filing and no obituary, business, professional-license, or news footprint corroborates the person. No TEC lobbyist registration and no federal PAC giving found. Identity unresolved; no industry assigned rather than guessed.",
+    "source_url": "https://www.linkedin.com/pub/dir/Frank/Coniglio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ec592a0243eb649",
+    "name": "Gonzales, Hector",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not identify. Record has no zip code, and 'Hector Gonzales/Gonzalez' is an extremely common name in Central Texas with no distinguishing detail (occupation, employer, or address) in the donation record. Searches surfaced only unrelated same-named individuals (a Texas school board member, a Texas Senate committee witness, a Texas State Directory listing) — none corroborable to an Austin/Travis County donor to Jeff Travillion. No Hector Gonzales appears in the TEC registered-lobbyist lists (nearest matches: Gonzales III Roman, Gonzales Larry Dean, Gonzales Walter, Gonzalez H. Analco). FEC contributor lookup could not be narrowed to a specific individual because no zip is available. Not classified rather than guessed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2664cd323668b3a0",
+    "name": "Rajkovich, Garrett",
+    "resolved_employer": "Garrett Rajkovich (self-titled real estate / property management business, 6475 Camden Ave Ste 202, San Jose CA); associated with Hacienda Gardens Shopping Center, San Jose",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Distinctive surname with an exact zip match: public records place Garrett A. Rajkovich at 1154 Starling View Dr, San Jose CA 95120 — the same 95120 zip on the Brigid Shea contribution — with listed occupation 'Real Estate/Realtor'. His business, founded 2000 at 6475 Camden Ave Ste 202, San Jose, is categorized as land subdividers/developers and property management, and is publicly associated with the Hacienda Gardens Shopping Center. Independently corroborated by IRS Form 990-PF filings, which list him as a compensated Director of the Martha E. Sanfilippo Foundation. Out-of-state donor to a Travis County commissioner; no Texas business or lobbying nexus found.",
+    "source_url": "https://www.spokeo.com/Garrett-Rajkovich/California/San-Jose/p2017022516479244803151503236112",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Martha E. Sanfilippo Foundation",
+        "role": "Director",
+        "category": "civic",
+        "source_url": "https://projects.propublica.org/nonprofits/organizations/820578141",
+        "snippet": "IRS Form 990-PF filings for the Martha E. Sanfilippo Foundation (EIN 82-0578141), a private independent 501(c)(3) foundation, list Garrett Rajkovich as a Director with $60,000 compensation, appearing consistently since at least 2017."
+      }
+    ]
+  },
+  {
+    "donor_id": "283ac49165984558",
+    "name": "Adams, Patricia",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not corroborate. 'Patricia Adams' is a common name and no public source ties a Patricia Adams to Austin zip 78731. The LinkedIn profiles surfaced are other people (Patricia A. Adams, President of Adams Consulting, financial services — location not confirmed as Austin; a retired CareFirst BlueCross BlueShield federal employee in Laurel MD; a Sage employee in Atlanta). Austin city campaign-finance records do show other Adams households in 78731 (Barbara Adams, 'Retired'; Cornelia Adams Foster, engineer at TrainATech) but no Patricia. Not in the TEC registered-lobbyist lists (nearest matches: Adams Aubree A., Adams Bryce). FEC occupation/employer lookup for 78731 could not be completed — the FEC API returned HTTP 429 and OpenSecrets returned 403 — so the pipeline's 12-donation Dem-lean figure remains unverified externally and this donor is worth a re-run once quota resets. No employer-fallback classification is possible because no occupation is discoverable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2dba95dee6603bc1",
+    "name": "Hale, Richard",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not identify despite targeted digging into the flagged anomaly (255 FEC donations at a ~0.005 lean, i.e. near-uniformly Republican federal giving, alongside a 2017 gift to Democratic county commissioner Jeff Travillion). No public footprint was found for a Richard Hale in Manor TX 78653: no LinkedIn, business registration, news coverage, obituary, or bio page. Same-named individuals found are elsewhere in Texas and not corroborable (a Houston obituary; Richard W. Hale, a Decatur TX police officer who died in 2018). Specifically checked for oil/gas, gun-rights, and military-defense ties and found nothing attributable to this person. Not a registered Texas lobbyist — the TEC lists contain no Richard Hale (nearest: Hale Justin D., Hale Angela). FEC individual-contribution occupation/employer records for Manor TX 78653 could not be retrieved (FEC API HTTP 429 rate-limit; OpenSecrets 403), so the partisan-lean pattern could not be attached to a verified identity or employer. The high donation count with a uniform partisan lean is consistent with recurring small-dollar online giving (e.g. WinRed-style), but that is an inference, not a sourced finding. No affiliation recorded rather than guessed. RECOMMEND: re-run the FEC Schedule A lookup for contributor_zip=78653 once API quota resets to recover employer/occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

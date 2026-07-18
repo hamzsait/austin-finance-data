@@ -1,0 +1,445 @@
+[
+  {
+    "donor_id": "363abece2d9b8c4d",
+    "name": "Efuribe, Chinwe",
+    "resolved_employer": "Centered Youth Clinic and Consulting (founder/CEO); pediatrician, Blueberry Pediatrics / Texas Children's Urgent Care",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Chinwe Oyeronke Efuribe, MD/MPH, board-certified pediatrician and adolescent-medicine specialist; public NPI/practice records list a Pflugerville, TX 78660 address matching the donor zip exactly, and the name is effectively unique in Travis County. Founded Centered Youth Clinic and Consulting in 2021 (Manor, TX).",
+    "source_url": "https://npino.com/npi/1093960718-chinwe-oyeronke-efuribe/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Black Physicians Association / Society for Adolescent Health and Medicine / Texas Youth Friendly Initiative",
+        "role": "Youth-engagement initiative developer",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/chinwe-efuribe-md-mph-faap-dipablm-b5b126175/",
+        "snippet": "Profile states she 'developed youth engagement initiatives for the Society for Adolescent Health Medicine, Austin Black Physicians Association, Texas Youth Friendly Initiative, Adolescent Health Initiative, and American Academy of Pediatrics.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "3b60d944db755ea5",
+    "name": "Lands, Sterling",
+    "resolved_employer": "Greater Calvary Bible Church International (senior pastor / archbishop); CEO, Rites of Passage Development Inc. (affordable-housing / apartment operator)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Archbishop Sterling Lands II, longtime Austin East Side pastor and civil-rights activist, founder of the Eastside Social Action Coalition and CEO of Rites of Passage Development, an affordable-housing entity at 6510 Berkman Dr, Austin 78723. Donor zip 78753 is adjacent to but not identical to the church address, so identity rests on the distinctive name plus a civic/East Austin giving pattern (Shea, Travillion).",
+    "source_url": "https://en.wikipedia.org/wiki/Sterling_Lands_II",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Eastside Social Action Coalition",
+        "role": "Founder",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/news/2001-01-12/80151/",
+        "snippet": "Austin Chronicle coverage of 'Sterling Lands' New Mission: The Eastside Social Action Coalition Confronts the Public Schools'; he founded the coalition in 2000 to press for equity in Austin schools."
+      },
+      {
+        "org": "Rites of Passage Development Inc.",
+        "role": "Chief Executive Officer",
+        "category": "business",
+        "source_url": "https://www.causeiq.com/organizations/rites-of-passage-development,742744850/",
+        "snippet": "Austin nonprofit that 'assisted low income families to meet their affordable housing needs,' operating as Meadow Glen Apts; Sterling Lands listed as CEO."
+      }
+    ]
+  },
+  {
+    "donor_id": "41c4cda17a38e060",
+    "name": "James, Derrek",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No employer or occupation was reported on the 2017 filing, and no public record could be tied to a Derrek James in Austin 78749. The only same-named public profiles are a Coppell, TX IT engineer and an Indiana resident, neither corroborated by zip, occupation, or donation pattern; no Travis County constable/deputy roster match either.",
+    "source_url": "https://ballotpedia.org/George_Morales_III",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "438548aa0b5aa148",
+    "name": "Friestman, Matthew",
+    "resolved_employer": "IBEW Local 520 (International Brotherhood of Electrical Workers, Austin) — union president/organizer; earlier electrical foreman at T Morales Co.",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Matt Friestman was president of IBEW Local 520 in Austin and in 2017 was nominated by Mayor Adler to the City of Austin Electric Board with a residency-requirement waiver — consistent with his Pflugerville 78660 (outside city limits) address and the May 2017 date of the $100 gift to Travis County Commissioner Travillion, who chaired the county's contractor wage/safety stakeholder process Friestman participated in.",
+    "source_url": "https://www.austinmonitor.com/stories/2018/05/contractor-drops-racial-slur-at-county-meeting-participants-say/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "IBEW Local 520 (Austin)",
+        "role": "President / organizer",
+        "category": "civic",
+        "source_url": "https://www.austinmonitor.com/stories/2018/05/contractor-drops-racial-slur-at-county-meeting-participants-say/",
+        "snippet": "Identified as president of the International Brotherhood of Electrical Workers Local 520, present at a Travis County stakeholder meeting on 10 recommendations for contractor wage certification and worksite safety on county projects."
+      },
+      {
+        "org": "City of Austin Electric Board",
+        "role": "Mayoral nominee/appointee (2017, residency waiver approved)",
+        "category": "civic",
+        "source_url": "https://services.austintexas.gov/edims/document.cfm?id=270647",
+        "snippet": "January 26, 2017 Board and Commission Nominations and Waivers item listing Matthew Friestman nominated to the Electric Board by Mayor Adler with a residency-requirement waiver."
+      }
+    ]
+  },
+  {
+    "donor_id": "43c2b8df54498367",
+    "name": "Heidrick, Robert",
+    "resolved_employer": "McGinnis Lochridge (Of Counsel) — corporate/M&A, real estate and nonprofit attorney; formerly Graves Dougherty Hearon & Moody",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Best match is R. Clarke Heidrick, Jr. (legal first name Robert), a 50-year Austin business attorney whose Travis County civic record corroborates a Nov 2021 gift to a county commissioner: he chaired the Travis County Hospital District (now Central Health) board 2004-2007 and the Greater Austin Chamber of Commerce. No zip or location was reported for this donor, so identity is not fully confirmed — a second Austin 'Rob Heidrick' (writer/editor) also exists.",
+    "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Hospital District / Central Health",
+        "role": "Former Chair of the Board (2004-2007)",
+        "category": "civic",
+        "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick",
+        "snippet": "Former Leadership: Chair, Travis County Hospital District (2004-2007)."
+      },
+      {
+        "org": "Greater Austin Chamber of Commerce",
+        "role": "Former Chair (2012)",
+        "category": "business",
+        "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick",
+        "snippet": "Former Leadership: Chair, Greater Austin Chamber of Commerce (2012); named Austinite of the Year in 2014."
+      },
+      {
+        "org": "Shivers Cancer Foundation / Austin Geriatric Center / Lebermann Foundation",
+        "role": "Board Chair (Shivers, Austin Geriatric Center); board member (Lebermann)",
+        "category": "civic",
+        "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick",
+        "snippet": "Current Board Roles: Chair, Shivers Cancer Foundation; Chair, Austin Geriatric Center; Board Member, Lebermann Foundation."
+      }
+    ]
+  },
+  {
+    "donor_id": "46251bfd8c491ef1",
+    "name": "Riley, Sarah",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm which Sarah Riley this is. Multiple Austin-area candidates exist — a Sarah Riley who is CEO/president of the Texas Alternative Investments Association and AIMA US director (finance), and a Sarah Riley who is a CPS program operations policy manager at the Texas Department of Family and Protective Services — and neither could be tied to the 78730 zip or to the single $100 August 2024 gift. No public record corroborates a specific match, so no industry is assigned.",
+    "source_url": "https://www.aima.org/widgets/team_members/teamMemberDetails/?id=D01E8DB2-49C1-4FB4-864666C84774E093",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5acd3e44537a0d4d",
+    "name": "White, Lois",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation, employer, or public profile could be tied to a Lois White at Austin 78723 giving $100 in May 2017. Several Austin obituaries for women named Lois White exist (e.g., Lois Jean White, funeral at David Chapel Missionary Baptist Church in East Austin, d. April 2020; Lois A. White, 83), but none can be corroborated to this donor by zip, occupation, or donation pattern. No FEC PAC records or Texas lobbyist registration found under this name.",
+    "source_url": "https://www.richardfuneralhome.com/obituary/Lois-White",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c9939fe12838177",
+    "name": "Stine, Mark",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Cannot be confidently identified. The record carries no zip, no location, no occupation and no employer string, leaving nothing to corroborate against. Web searches surfaced no Austin-area public profile; the only 'Mark Stine' bios found are out-of-area (a Wilkes University communications chair in Pennsylvania) and do not match. People-search aggregators list a Mark J Stine at Austin 78703/78704 addresses, but aggregator listings are not a reliable identity source and are not cited as confirmation. The pipeline's own FEC match (partisan lean 0.99 across 139 donations) indicates a heavily Democratic federal giving history but does not by itself establish which Mark Stine this is or what he does for a living. No employer/occupation info exists in the record, so the categorize-by-employer fallback is unavailable.",
+    "source_url": "https://www.linkedin.com/in/mark-stine-6a218815/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "680e7c9f96ac37cf",
+    "name": "Jacobson, Dina",
+    "resolved_employer": "Self-employed (marketing); founder and 'Chief Baking Officer' of Bake Back Better, a Democratic grassroots fundraising nonprofit",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as the Los Altos, CA resident who founded Bake Back Better in 2020, a volunteer grassroots operation that bakes and delivers cupcakes as thank-you gifts to donors giving to Democratic campaigns; it has raised over $340,000 and focuses explicitly on down-ballot and state-legislature races plus voter registration. Corroboration is strong: name, Los Altos 94024 residence, and the self-employed filing all align, and a $100 out-of-state gift to Travis County Judge Andy Brown is exactly the down-ballot Democratic giving pattern her organization is built around. No federal PAC contributions surfaced and she does not appear in Texas lobbyist registrant lists (she is a California resident).",
+    "source_url": "https://www.nbcbayarea.com/news/local/bake-back-better-cupcake-democrats-fundraiser/3627706/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Bake Back Better",
+        "role": "Founder and 'Chief Baking Officer'",
+        "category": "political",
+        "source_url": "https://www.nbcbayarea.com/news/local/bake-back-better-cupcake-democrats-fundraiser/3627706/",
+        "snippet": "Volunteer-run grassroots fundraising operation founded 2020; has raised over $340,000 for Democratic candidates, concentrating on tight state-legislature and down-ballot races and voter registration."
+      }
+    ]
+  },
+  {
+    "donor_id": "7a5bf463e46f7c9f",
+    "name": "Lands, Sterling",
+    "resolved_employer": "Greater Calvary Bible Church International (senior pastor / archbishop); CEO, Rites of Passage Development Inc. (affordable-housing / apartment operator)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Same individual as donor 3b60d944db755ea5 (no zip recorded on this record). Archbishop Sterling Lands II, Austin East Side pastor, Eastside Social Action Coalition founder, and CEO of affordable-housing entity Rites of Passage Development; identity rests on the distinctive name plus an East Austin civic giving pattern (Travillion, Shea).",
+    "source_url": "https://en.wikipedia.org/wiki/Sterling_Lands_II",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Eastside Social Action Coalition",
+        "role": "Founder",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/news/2001-01-12/80151/",
+        "snippet": "Austin Chronicle coverage of 'Sterling Lands' New Mission: The Eastside Social Action Coalition Confronts the Public Schools'; he founded the coalition in 2000 to press for equity in Austin schools."
+      },
+      {
+        "org": "Rites of Passage Development Inc.",
+        "role": "Chief Executive Officer",
+        "category": "business",
+        "source_url": "https://www.causeiq.com/organizations/rites-of-passage-development,742744850/",
+        "snippet": "Austin nonprofit that 'assisted low income families to meet their affordable housing needs,' operating as Meadow Glen Apts; Sterling Lands listed as CEO."
+      }
+    ]
+  },
+  {
+    "donor_id": "7cdee106e14df763",
+    "name": "Joy Diaz",
+    "resolved_employer": "Former reporter/host, KUT Austin and Texas Standard public radio (departed Nov 5, 2021); 2022 Democratic candidate for Texas governor",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Very likely the Austin public-radio journalist. KUT's own announcement confirms her final day in the newsroom was Nov 5, 2021, after 16 years at the station (joined 2005, joined Texas Standard at its 2015 launch), and that she was leaving specifically to run for public office; she announced her Democratic primary campaign for governor in December 2021 and lost the March 1, 2022 primary. The $100 gift to Travis County Commissioner Margaret Gomez is dated Nov 7, 2021 — two days after her last day in journalism and about a month before her campaign announcement — and the filing's 'Don't Know' occupation and employer entries are consistent with a donor who had just left her job. Held to medium rather than high confidence because the record carries no zip or address to corroborate identity directly; the match rests on name, Austin locale, and the donation-date timing. No federal PAC contributions surfaced and she does not appear in Texas Ethics Commission registered-lobbyist lists.",
+    "source_url": "https://www.kut.org/station-information/2021-11-02/texas-standards-joy-diaz-turns-the-page-on-her-journalism-career-to-start-a-new-season-of-public-service",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Democratic primary for governor, 2022",
+        "role": "Candidate",
+        "category": "political",
+        "source_url": "https://www.texasmonthly.com/news-politics/joy-diaz-beto-orourke/",
+        "snippet": "Diaz entered the 2022 Democratic primary for Texas governor against Beto O'Rourke and Deirdre Gilbert, campaigning on the border, public education, and state preparedness; she lost the March 1, 2022 primary."
+      }
+    ]
+  },
+  {
+    "donor_id": "7e04df143a32529e",
+    "name": "McNeil, Margaret",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Cannot be confidently identified. Location is corroborated only to Austin, TX 78704 (the Zilker/South Austin area); the record carries no occupation and no employer string, so the categorize-by-employer fallback has no input. Searches returned no Austin-area public profile under this name — LinkedIn matches are all out-of-area (Yarmouth ME, Belton TX, Chicago, Vancouver, Boulder CO) and none corroborate against the 78704 zip, and searches of Austin/Travis County boards and commissions rosters produced no match. No federal PAC contributions surfaced and the name does not appear in Texas Ethics Commission registered-lobbyist lists. This appears to be an ordinary small-dollar resident donor with no public influence footprint — a quiet outcome, not a research gap.",
+    "source_url": "https://www.traviscountytx.gov/commissioners-court/board-committee-appointments",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f554259c1d975ee",
+    "name": "Bamberger, J. David",
+    "resolved_employer": "Selah, Bamberger Ranch Preserve (founder & chairman emeritus; nonprofit conservation preserve, Johnson City/Blanco County) — earlier career as co-founder/executive of Church's Fried Chicken (retired)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "J. David Bamberger (1928–Jan 17, 2026), the Church's Fried Chicken executive turned Texas conservationist, lived at and ran the 5,500-acre Selah Bamberger Ranch Preserve at 2341 Blue Ridge Dr, Johnson City, TX 78636 — exactly matching the donor name and zip; he was alive and active in 2017 when the single $100 gift was made. Recipient Brigid Shea is Travis County's environmental-movement commissioner (Save Our Springs/Clean Water Action background), consistent with a conservation-motivated gift from a non-Travis resident.",
+    "source_url": "https://www.bambergerranch.org/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Selah, Bamberger Ranch Preserve",
+        "role": "Founder and Chairman Emeritus; converted the ranch to a nonprofit foundation in 2002",
+        "category": "civic",
+        "source_url": "https://www.bambergerranch.org/about/",
+        "snippet": "In 2002 Bamberger converted the ranch into a nonprofit foundation to ensure perpetual protection and continue educational programming, particularly welcoming kids from Title 1 schools in underserved communities in San Antonio and Austin."
+      },
+      {
+        "org": "Church's Fried Chicken",
+        "role": "Co-founder/executive with Bill Church; built the chain into a national brand before selling his holdings",
+        "category": "business",
+        "source_url": "https://www.texasmonthly.com/travel/remembering-j-david-bamberger/",
+        "snippet": "J. David Bamberger, Church's Chicken tycoon who made land conservation his mission, dies at 97."
+      },
+      {
+        "org": "Guadalupe River State Park / Bracken Cave Preserve / Bamberger Nature Park",
+        "role": "Had a hand in establishing each; conservation land-protection advocacy",
+        "category": "civic",
+        "source_url": "https://www.bambergerranch.org/about/",
+        "snippet": "Beyond Selah, Bamberger had a hand in establishing Bamberger Nature Park in San Antonio, Guadalupe River State Park, and Bracken Cave Preserve."
+      }
+    ]
+  },
+  {
+    "donor_id": "84bfa5736e37248b",
+    "name": "Grindstaff, Elizabeth",
+    "resolved_employer": "Freese and Nichols, Inc. — Account Director / client services leader for Central & West Texas (engineering and infrastructure consulting firm)",
+    "industry": "Engineering",
+    "confidence": "medium",
+    "evidence": "Elizabeth 'Liz' Miller Grindstaff is a 30-year planning/government-relations professional — San Angelo city council member and assistant city manager, then VP of Sales & Marketing at Texas Pacifico Transportation and stakeholder manager for Texas Central Railway covering Navarro County (Corsicana is the Navarro County seat, matching the 75110 zip), now Freese and Nichols' Austin-based account director building relationships with Central Texas cities and counties. Her single 2024 gift to a Travis County commissioner is consistent with that county-client business-development role rather than personal ideological giving (fec_donation_count 1).",
+    "source_url": "https://www.freese.com/news/freese-and-nichols-expands-services-for-central-west-tx-rio-grande-valley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Freese and Nichols, Inc.",
+        "role": "Account Director / client services leader; develops business with cities and counties across Central Texas",
+        "category": "business",
+        "source_url": "https://www.freese.com/news/freese-and-nichols-expands-services-for-central-west-tx-rio-grande-valley/",
+        "snippet": "Freese and Nichols added Liz Grindstaff as an Account Director in Austin to expand their ability to provide business solutions for municipal clients in Central and West Texas and the Rio Grande Valley; she builds trusted relationships with cities and counties across Central Texas."
+      },
+      {
+        "org": "City of San Angelo",
+        "role": "City Council member; previously Planning Director (2005–2006) and Assistant City Manager (2006–2012)",
+        "category": "political",
+        "source_url": "https://sanangelolive.com/news/politics/2016-04-29/realtors-endorse-liz-grindstaff-city-council",
+        "snippet": "Liz Grindstaff has more than 30 years' experience in planning, government relations and management, having served as a San Angelo City Council member and assistant city manager."
+      },
+      {
+        "org": "Texas Central Partners / Texas Pacifico Transportation",
+        "role": "Stakeholder manager for Navarro and Grimes counties (Texas Central high-speed rail); VP Sales & Marketing, Texas Pacifico (2012–2018)",
+        "category": "business",
+        "source_url": "https://www.corsicanadailysun.com/news/update-commissioners-clarify-position-on-high-speed-rail/article_edcfde34-96cb-11e9-8a11-13a4e97f3097.html",
+        "snippet": "TCR representative Elizabeth Grindstaff used the public comment portion of the June 24, 2019 Navarro County Commissioners meeting to give an update on the high-speed rail project."
+      }
+    ]
+  },
+  {
+    "donor_id": "85645f2bdc00f12f",
+    "name": "Steve Jackobs Campaign",
+    "resolved_employer": "Candidate campaign committee of Steve Jackobs, Austin Community College District Trustee (Place 6); Jackobs was the founding Executive Director of Capital IDEA (1998–2022)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "This is a political committee, not an individual: the name and the PO-Box-only 78763 Austin zip indicate the campaign committee of Steve Jackobs, elected ACC Trustee Place 6 in Nov 2022, making a $100 political contribution to Commissioner Travillion in Dec 2023. The underlying person is Steve Jackobs, founding Executive Director of Capital IDEA (1998–2022), an Austin workforce nonprofit that is partly funded by Travis County — a relevant context for the gift. The fec_partisan_lean/fec_donation_count values attach to an individual match and should not be read as the committee's record. Not independently confirmed against the Travis County Clerk filing image.",
+    "source_url": "https://offices.austincc.edu/board-of-trustees/board-members/steve-jackobs/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Community College District Board of Trustees",
+        "role": "Trustee, Place 6 (elected November 2022, term ends November 2028)",
+        "category": "political",
+        "source_url": "https://offices.austincc.edu/board-of-trustees/board-members/steve-jackobs/",
+        "snippet": "Trustee for Place 6, Austin Community College District Board of Trustees, elected November 2022; term ends November 2028."
+      },
+      {
+        "org": "Capital IDEA",
+        "role": "Founding Executive Director, 1998–2022",
+        "category": "civic",
+        "source_url": "https://offices.austincc.edu/board-of-trustees/board-members/steve-jackobs/",
+        "snippet": "Served from 1998 to 2022 as the founding Executive Director of Capital IDEA, a Central Texas nonprofit that supports low-income adults to succeed at ACC and enter good careers."
+      },
+      {
+        "org": "Capital IDEA / Travis County funding relationship",
+        "role": "Led an organization funded in part by Travis County, the body the recipient serves on",
+        "category": "civic",
+        "source_url": "https://www.capitalidea.org/about/",
+        "snippet": "Through partnerships including the City of Austin, Travis County, local and state agencies, and philanthropic supporters, Capital IDEA has helped thousands of individuals launch new careers."
+      },
+      {
+        "org": "Texas Industrial Areas Foundation",
+        "role": "Special projects across Texas; earlier community organizer in Massachusetts, Florida and San Antonio",
+        "category": "civic",
+        "source_url": "https://offices.austincc.edu/board-of-trustees/board-members/steve-jackobs/",
+        "snippet": "Community organizer in Massachusetts, Florida, and San Antonio, and special projects coordinator for the Texas Industrial Areas Foundation."
+      }
+    ]
+  },
+  {
+    "donor_id": "86d488e1a63945b4",
+    "name": "Boswell, Audrey",
+    "resolved_employer": "Independent documentary filmmaker (self-employed); elected President of the Austin ISD Board of Trustees, District 5",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Audrey Lynn Boswell is the legal name of Austin ISD Trustee 'Lynn' Boswell: the State Bar of Texas lists Audrey Lynn Boswell (bar #00790338, UT Law J.D. 1993, currently administratively suspended, 'non-law-related employment') at 1518 Mohle Dr, Austin, TX 78703 — matching the donor's 78703-1936 zip — and public address records tie 1518 Mohle Dr to Lynn Boswell, whose AISD bio independently confirms a UT law degree and a non-legal career as a broadcast journalist and documentary filmmaker. Her 2025 gift to Commissioner Travillion is one elected local official giving to another. Note: a search snippet claiming she is 'Associate Director of Public Affairs at the Texas Trial Lawyers Association' did NOT corroborate against the official AISD bio and is not recorded here.",
+    "source_url": "https://www.austinisd.org/board/members",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin ISD Board of Trustees",
+        "role": "Trustee, District 5 (elected 2020); Board President; chair of the Intergovernmental Relations Committee",
+        "category": "political",
+        "source_url": "https://www.austinisd.org/board/members",
+        "snippet": "President of Austin ISD Board of Trustees; board committees: Intergovernmental Relations (chair), Executive, Texas Association of School Board Directors, Capital Area Council of Governments."
+      },
+      {
+        "org": "Just Fund It TX",
+        "role": "Co-founder / leader of the statewide public-school funding advocacy group",
+        "category": "political",
+        "source_url": "https://www.lynnforaisd.com/",
+        "snippet": "Co-founder, Just Fund It TX — an organization focused on securing increased funding for Texas public schools."
+      },
+      {
+        "org": "Local Progress",
+        "role": "Member, national Local Progress School Board Steering Committee (network of progressive local elected officials)",
+        "category": "political",
+        "source_url": "https://www.lynnforaisd.com/",
+        "snippet": "Member of the national Local Progress School Board Steering Committee."
+      },
+      {
+        "org": "Texas Association of School Boards",
+        "role": "Director",
+        "category": "civic",
+        "source_url": "https://www.lynnforaisd.com/",
+        "snippet": "Director of Texas Association of School Boards; previously President, Austin Council of PTAs (2018–2020)."
+      },
+      {
+        "org": "Capital Area Council of Governments / Travis County Census 2020 Complete Count Committee",
+        "role": "AISD representative to CAPCOG; member of the Travis County Census 2020 Complete Count Committee and City of Austin Juvenile Justice Workgroup",
+        "category": "civic",
+        "source_url": "https://www.lynnforaisd.com/",
+        "snippet": "Member, Travis County Census 2020 Complete Count Committee; participant, City of Austin Juvenile Justice Workgroup."
+      }
+    ]
+  },
+  {
+    "donor_id": "902c3cb7fa46c7a6",
+    "name": "David for AISD Campaign",
+    "resolved_employer": "\"David For AISD\" — the 2016 Austin ISD Board of Trustees At-Large Place 8 candidate campaign committee of David Ryan Quintanilla (attorney, Quintanilla Law Firm PLLC / Cavanaugh Quintanilla PLLC; partner and CFO of Serrano's Tex-Mex restaurants)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Not an individual donor: this is a candidate campaign committee. \"David For AISD\" is confirmed as David Ryan Quintanilla's 2016 AISD At-Large Place 8 campaign (campaign Facebook page is facebook.com/davidforaisd; he ran July-Nov 2016, raised ~$100k, lost to Cindy Anderson). The 2016-08-31 gift date falls squarely inside that campaign window, consistent with a committee-to-committee contribution to Brigid Shea. Quintanilla is an Austin attorney and restaurant operator (Serrano's Tex-Mex). Caveat: the record's 78746-7757 zip does not match Quintanilla's Barton Hills home address (78704) reported in 2016 coverage — it is likely a committee/treasurer/business mailing address, and this address mismatch is why confidence is medium rather than high. The fec_partisan_lean 0.675 / 40 FEC donations attached to this record is a name-field artifact and should not be read as this committee's giving.",
+    "source_url": "https://www.kut.org/education/2016-10-27/get-to-know-the-austin-isd-at-large-place-8-candidates",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Education Austin (Austin's AFT/NEA-affiliated teachers union)",
+        "role": "Endorsed candidate; received a $20,000 contribution from the union, about a quarter of his 2016 AISD campaign total",
+        "category": "political",
+        "source_url": "https://kut.org/post/making-dollars-and-cents-austin-school-board-campaign-contributions",
+        "snippet": "Education Austin endorsed David Quintanilla, a local businessman and lawyer, and donated $20,000 to his campaign."
+      }
+    ]
+  },
+  {
+    "donor_id": "9361e97bf4e9de3a",
+    "name": "Smith, Guillaume",
+    "resolved_employer": "Possibly a residential real estate sales agent with Keller Williams Realty, Austin (TREC license #0689923) — identity not confirmed",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "The only public footprint matching this uncommon first/last name combination in Austin is a Homes.com agent listing for Guillaume Smith, a Keller Williams Realty sales agent in Austin, TX (license #0689923, 3 years experience, 2 closed sales totaling $905K). That listing does not publish a zip, so the 78704 donation address could not be corroborated; no LinkedIn, brokerage bio, news, or licensing page confirming the same person was found, and the agent page itself returned HTTP 403. Treat the Real Estate classification as tentative. The record's fec_partisan_lean of 1.0 across 219 FEC donations is consistent with a small-dollar recurring ActBlue-style giving pattern, but no individual FEC record under this name was located to confirm it.",
+    "source_url": "https://www.homes.com/real-estate-agents/guillaume-smith/l38t0pf/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a3bd5d10eefbcbf3",
+    "name": "McDonald, Craig",
+    "resolved_employer": "Texans for Public Justice — founder and Director (Austin-based nonpartisan campaign-finance and lobbying watchdog)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Craig McDonald founded Texans for Public Justice in Austin in 1997 and has directed it since; TPJ is the watchdog whose complaint led to the 2014 Rick Perry indictment. Corroboration for the West Lake Hills 78746 address: a public people-search record lists a Craig McDonald (b. 1950) at 1102 Live Oak Ridge Rd, West Lake Hills, TX 78746 — an age consistent with a career that began as a Michigan community organizer in the late 1970s. 78746 sits in Travis County Precinct 2, Brigid Shea's precinct, and a $100 gift from a campaign-finance-reform advocate to a progressive county commissioner fits the pattern. Identity is plausible but not conclusively confirmed (common name), hence medium. Important: the fec_partisan_lean of 0.015 across 131 FEC donations is a name-collision artifact — it almost certainly aggregates other Craig McDonalds and should not be read as this donor's partisan profile. No Texas Ethics Commission lobbyist registration found under this name in the 2016-2026 registered-lobbyist lists; his lobbying was federal and historical (Public Citizen's Congress Watch in the 1980s).",
+    "source_url": "https://en.wikipedia.org/wiki/Texans_for_Public_Justice",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texans for Public Justice",
+        "role": "Founder and Director (1997-present)",
+        "category": "civic",
+        "source_url": "https://texaslegacy.org/narrator/craig-mcdonald/",
+        "snippet": "Founded and directed this nonpartisan nonprofit investigating corporate and governmental responsibility, particularly the role of money in campaign finance and lobbying."
+      },
+      {
+        "org": "Public Citizen / Congress Watch",
+        "role": "Director of Congress Watch and lobbying director (1980s-early 1990s); helped launch Public Citizen's Texas office in 1984",
+        "category": "civic",
+        "source_url": "https://texaslegacy.org/narrator/craig-mcdonald/",
+        "snippet": "Served as Director of Public Citizen's Congress Watch, where he argued for stronger health, safety and environmental protection, an end to corporate subsidies, and improved access to the courts."
+      }
+    ]
+  },
+  {
+    "donor_id": "a5a1eaba069eb30f",
+    "name": "Nelson, Emile",
+    "resolved_employer": "REALTOR / real estate salesperson, Austin Board of Realtors member (office listed at 5818 Balcones Dr Ste 200, Austin, TX 78731)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Emile Nelson appears in the Austin Board of Realtors (ABOR/UnlockMLS) member directory as a REALTOR salesperson with a Central Austin office at 5818 Balcones Dr Ste 200. The listed address is the business office (78731), not the 78750 residential donation address, so the zip does not directly corroborate; the ABOR membership does place the person in the Austin market, and 78750 (NW Austin) is a plausible residence. The ABOR page itself redirected to unlockmls.com and could not be fetched in full. The record shows zero FEC donations and no federal giving history, and no Texas Ethics Commission lobbyist registration was found. Employer-fallback classification only — no further public profile, board seats, or advocacy roles discoverable.",
+    "source_url": "https://www.abor.com/agent/emile-nelson/5b19f7a3-bc16-45a3-8071-9b6b29f5bbb4",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

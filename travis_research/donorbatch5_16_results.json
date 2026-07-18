@@ -1,0 +1,217 @@
+[
+  {
+    "donor_id": "7ddea6f4793acef3",
+    "name": "Brook, Joan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Only plausible Austin match is Joan Brook, a lifestyle/documentary photographer and environmental science writer based in Austin who works on watershed protection and community conservation (collaborations with City of Austin Watershed Protection & Parks and Rec, TreeFolks, Keep Austin Beautiful, Windsor Park Neighborhood Association). Her environmental focus fits a donation to Brigid Shea, but her documented neighborhood work is Windsor Park (northeast Austin), not the 78703 zip on this record, and the donor record has no occupation/employer to corroborate. Identity not confirmed; no employer-fallback basis exists.",
+    "source_url": "http://joanbrook.com/contact",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8e7f2a2cde3ce0e1",
+    "name": "Jones, Maria",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Extremely common name with no occupation or employer on the record. Austin-area searches surfaced only unrelated individuals (a dermatology physician assistant on Ranch Road 620 and a family-law attorney in 78759), none of whom match the 78745 South Austin zip or any corroborating detail. FEC PAC and Texas Ethics Commission lobbyist searches returned no registration or PAC record attributable to this person. Note: the aggregated fec_partisan_lean of 0.293 across 134 federal donations is almost certainly name-collision noise for a name this common and should not be treated as this donor's profile.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e95f94a899d7674f",
+    "name": "Victoria, Jessica",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile found for a Jessica Victoria in Austin 78702 or anywhere in the Austin area; no occupation or employer on the record to anchor a search. FEC PAC search and Texas Ethics Commission lobbyist registry search both returned nothing attributable to this name. Single federal donation on file, consistent with an ordinary small-dollar resident donor to George Morales.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f841e8f30f1fb9c6",
+    "name": "Garrison, Donna",
+    "resolved_employer": "Austin Lakeside Properties — founder and realtor (self-employed boutique Lake Travis waterfront brokerage, Spicewood/Briarcliff)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Donna Garrison settled in the Briarcliff area of Lake Travis in 1987 and founded Austin Lakeside Properties, a boutique brokerage specializing in Lake Travis lakefront/waterfront homes, condos and luxury estates across Spicewood, Lakeway, Bee Cave, Briarcliff and Lago Vista; her son Will Garrison is now owner-broker and leads the firm 'alongside his mother.' Corroborates on all three available fields: Briarcliff/78669 residence, 'Real Estate' occupation, and 'Self' employer (she is the firm's founder, not an employee of an outside brokerage). Brokerage/agency work only — no evidence found of land development, homebuilding, or entitlement activity.",
+    "source_url": "https://austinlakeside.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Lakeside Properties",
+        "role": "Founder (1987); realtor specializing in Lake Travis waterfront property",
+        "category": "business",
+        "source_url": "https://austinlakeside.com/about",
+        "snippet": "Austin Lakeside Properties is a boutique Lake Travis real estate firm founded in 1987; Will Garrison 'took leadership of Austin Lakeside Properties alongside his mother,' Donna, who started the company in the Briarcliff area of Lake Travis."
+      }
+    ]
+  },
+  {
+    "donor_id": "506c13714e794256",
+    "name": "Fridrich, Pamela",
+    "resolved_employer": "Austin Monitor / In Fact Daily — Subscriptions Manager (campaign filing self-reported 'Self' / Administrative Assistant); also listed as a partner in Division 8 CAD, LLC at the same Buda address",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Pamela K. Fridrich of Buda, TX 78610 is Subscriptions Manager at the Austin Monitor and previously served as Executive Director/State Organizer for NARAL Pro-Choice Texas and as Texas State Director/organizer for Common Cause. Buda 78610 zip, the uniqueness of the name in Texas records, and a heavily Democratic small-dollar donation pattern (lean 1.0, 1,101 federal gifts; gave to Democrat Andy Brown) all corroborate; the self-reported 'Self / Administrative Assistant' occupation on the filing conflicts with the LinkedIn employer, so confidence is held at medium.",
+    "source_url": "https://www.linkedin.com/in/pam-fridrich-64b1984/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "NARAL Pro-Choice Texas",
+        "role": "Executive Director and State Organizer (former)",
+        "category": "political",
+        "source_url": "https://www.linkedin.com/in/pam-fridrich-64b1984/",
+        "snippet": "Served as Executive Director and State Organizer for NARAL Pro-Choice Texas, leading activist efforts and state-level organizing initiatives."
+      },
+      {
+        "org": "Common Cause Texas",
+        "role": "State Director, later organizer (former)",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/pam-fridrich-64b1984/",
+        "snippet": "As State Director and later as an organizer for Common Cause, she focused on advancing democratic principles and fostering accountable government."
+      }
+    ]
+  },
+  {
+    "donor_id": "dc1884a79633e385",
+    "name": "Duke, Paul Leonard",
+    "resolved_employer": "The Duke Company — general contractor, Austin, TX 78745 (owner/principal)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Paul L. Duke is listed as owner of The Duke Company, a general contracting firm (new construction, additions, remodeling, commercial and residential) at 5105 Hedgewood Dr, Austin, TX 78745, established 1983; business listings also name 'Leonard Duke' as key principal, matching the donor's full name Paul Leonard Duke. Zip 78745 and the 'Construction / Self' occupation on the filing both match exactly.",
+    "source_url": "https://www.yelp.com/biz/the-duke-company-austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2e02eaa256a936a8",
+    "name": "Boice, Laura Lee",
+    "resolved_employer": "Boice Therapy — solo private practice, Laura Lee Boice, MA, LPC (Licensed Professional Counselor), Research Blvd, Austin, TX 78759",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Laura Lee Boice, MA, LPC is a licensed professional counselor in solo private practice at 12741 Research Blvd Suite 303, Austin, TX 78759 — an exact match to the donor's zip and to the 'Psychotherapist / Self' occupation. Practicing ~15-20 years after four years at St. David's hospital (brain trauma, stroke, spinal cord, amputation units); second location in Bee Cave. Full About-page read found crisis-counseling credentials and volunteer response-team roles but no political, lobbying, or industry-advocacy affiliations.",
+    "source_url": "https://www.boicetherapy.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin Disaster-Terrorism Victim Assistance Team",
+        "role": "Volunteer crisis counselor",
+        "category": "civic",
+        "source_url": "https://www.boicetherapy.com/about/",
+        "snippet": "Currently volunteers with the Texas Critical Response Team and the City of Austin Disaster-Terrorism Victim Assistance Team."
+      }
+    ]
+  },
+  {
+    "donor_id": "5f0a125d81663311",
+    "name": "Parkman, Bonnie",
+    "resolved_employer": "dMASS, Inc. — Austin B2B SaaS analytics/business-intelligence company; leads Marketing and Business Operations",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "The filing's employer abbreviation 'DMASS' resolves to dMASS, Inc., an Austin B2B SaaS analytics/BI company founded 2012 (CEO Kathryn Lewis, 701 Brazos St, 78701), where Bonnie Parkman is listed on the leadership roster handling Marketing and Business Operations — matching the donor's 'Marketing Manager' occupation and Austin location. Only 5 federal gifts total, so a minimal political footprint; no PAC, lobbyist, or advocacy ties found.",
+    "source_url": "https://gregslist.com/austin/company/dmass/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c5c1060aa21ce524",
+    "name": "Harris, Kelley",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer on the filing and no public profile could be tied to a Kelley Harris in Austin ZIP 78745. The only same-named public figures found were a real estate agent in Arlington, TX and an estate-planning attorney in Houston — neither matches the 78745 address or the 2017 local donation pattern, so identity is unresolved.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed16165eda32799a",
+    "name": "Hunt, Gina",
+    "resolved_employer": "\"BWM\" as filed — company not identified; occupation given as Sales",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile found for a Gina Hunt in the Lake Travis / 78734 area. The employer string \"BWM\" could not be resolved: Austin-area entities under that exact name include BWM Services LP (machining/welding/fabrication) and BWM Group (a Round Rock design firm), and the hypothesis that it is a typo for BMW (dealership sales) is unverified. Sector cannot be established from occupation \"Sales\" alone.",
+    "source_url": "https://www.linkedin.com/company/bwm-services-lp",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a5e92ce0788c0a4",
+    "name": "Zeivel, Jennifer",
+    "resolved_employer": "Personalized Property Management (PPM) — community/HOA management, Cathedral City, CA",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "\"Zeivel\" is a rare surname and public directory records place a Jennifer Zeivel in the Coachella Valley (Palm Desert / Cathedral City), roughly 10 miles from the filed Bermuda Dunes 92203 address. She is listed as Manager–Community at Personalized Security Services, an affiliate operating alongside Personalized Property Management (PPM) of Cathedral City, and separately as an office director in Coachella Valley HOA management — corroborating the filed occupation \"Manager\" and employer \"PPM\".",
+    "source_url": "https://www.zoominfo.com/p/Jennifer-Zeivel/1888933124",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a0a1e76928fe50b",
+    "name": "Gregor, Sandra",
+    "resolved_employer": "Sandra Gregor Fine Art (owner/principal) — art consulting, Austin, TX",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Owner and principal of Sandra Gregor Fine Art, an Austin art-consulting practice serving individuals, nonprofits and corporations — exactly matching the filed occupation \"Art Consultant\" and employer \"Self\" at a downtown Austin 78701 address. Austin Chronicle coverage documents her as the art consultant who spent 2.5 years curating the 800+ piece collection at Dell Children's Medical Center; prior roles at Laguna Gloria Art Museum and the Texas Commission on the Arts.",
+    "source_url": "https://www.austinchronicle.com/arts/art-for-healing-11739523/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Fine Arts Association (now Arthouse)",
+        "role": "Executive Director, 1983–1997",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/arts/art-for-healing-11739523/",
+        "snippet": "Gregor \"served as executive director of the Texas Fine Arts Association (now Arthouse) from 1983 to 1997,\" after earlier work at Laguna Gloria Art Museum and the Texas Commission on the Arts."
+      }
+    ]
+  },
+  {
+    "donor_id": "539ac02833cde312",
+    "name": "Artale, Bonnie Kay",
+    "resolved_employer": "Self-employed Mary Kay Cosmetics independent beauty consultant (Cedar Park/Austin, TX); also listed in the business office at Henna Chevrolet, Austin",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Rare surname corroborated on a LinkedIn profile for Bonnie Artale in the Austin, TX area showing 'Owner, Mary Kay Cosmetics' — matching the filing's self-reported occupation 'Mary Kay Beauty Consultant' / employer 'Self' and Cedar Park 78613 (Austin metro, Williamson County). Same profile also lists an executive assistant / business office role at Henna Chevrolet in Austin. Direct-sales cosmetics consultant classified as Retail per the categorize-by-employer fallback.",
+    "source_url": "https://www.linkedin.com/in/bonnie-artale-5979b618/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7fd9e2c37421f5c1",
+    "name": "Hilliard, Corky",
+    "resolved_employer": "Self-employed stylist (per filing); not confirmed against any public profile",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Could not confirm identity. The only public 'Corky Hilliard' in Austin is a woman who founded Hilliard Resources / Corky Hilliard Organizational Strategies, a nonprofit organizational-strategy consultancy — her occupation directly contradicts the filing's 'Stylist', so she is NOT asserted as this donor. The record's ZIP 73301 is an IRS-only Austin ZIP and is almost certainly an address artifact (consistent with a conduit/ActBlue-style record; fec_donation_count 134 fits a prolific recurring small-dollar donor), so location cannot corroborate. Classified only by the self-reported occupation/employer.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f0988977ac48056c",
+    "name": "Knight, Kristy",
+    "resolved_employer": "Self-employed artist (per filing); no public profile located",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "No confirmable public identification. 'Kristy Knight' is a common name; searches surfaced only unrelated people (a Melbourne, Australia photographer/digital artist on Saatchi Art; radio personalities; a Kristy Knight in Texas people-search aggregators) — none tied to Dallas, PA 18612. An out-of-state small-dollar gift to a Travis County race with fec_donation_count 92 is consistent with a national recurring small-dollar donor rather than a locally influential figure. Classified only by the self-reported occupation/employer.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "298d6ac96b22876f",
+    "name": "Joe Caseino",
+    "resolved_employer": "Student, University of Texas at Austin (per filing)",
+    "industry": "Student",
+    "confidence": "low",
+    "evidence": "Industry rests on the self-reported 'UT Student / Student' occupation, which is the only firm fact on this record — there is no ZIP or address. A possible but unconfirmed match is Joe Cascino, a UT Austin government major who was president of University Democrats and later campaign manager for Kirk Watson's re-election; the 2021 gift date fits his UT enrollment window and the Austin Democratic local-race pattern (Margaret Gomez, Travis County Commissioner Pct. 4) is consistent. However, the surname differs by spelling and nothing else in the record corroborates, so this identification is NOT asserted.",
+    "source_url": "https://www.austinchronicle.com/news/2024-09-13/in-politics-to-win-again-and-again/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "id": "72926e2b-7e07-4272-a038-9a05845fe657",
+  "name": "Gimbel, Thomas",
+  "opus_industry": "Media",
+  "sonnet_industry": "Media",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "341f9177-9b7c-49f1-8c5b-6446ab6ee142",
+  "name": "Stroup, Hilry",
+  "opus_industry": "Real Estate",
+  "sonnet_industry": "Real Estate",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "5d8057d5-228f-4e21-a2c0-91aa2d61c0a4",
+  "name": "Epple, Matthew",
+  "opus_industry": "Real Estate",
+  "sonnet_industry": "Real Estate",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "eaa930f2-1236-4a29-8d26-82eebe4e2813",
+  "name": "Jones Schoenbaum, Anika",
+  "opus_industry": "Hospitality / Events",
+  "sonnet_industry": "Hospitality / Events",
+  "industryMatch": true,
+  "opus_conf": "medium",
+  "sonnet_conf": "high",
+  "opus_affil": [],
+  "sonnet_affil": [
+   "jewish_civic"
+  ],
+  "affilSame": false
+ },
+ {
+  "id": "b9b0f606-9e9a-4241-999f-d363263a0102",
+  "name": "Partin, Sara",
+  "opus_industry": "Media",
+  "sonnet_industry": "Technology",
+  "industryMatch": false,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "766c3fcb-e67f-4d83-8362-9469927bb402",
+  "name": "Irion, Ryan",
+  "opus_industry": "Engineering",
+  "sonnet_industry": "Engineering",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "564312ee-d8dd-4174-b22d-70762fdd1620",
+  "name": "Smith, James",
+  "opus_industry": null,
+  "sonnet_industry": null,
+  "industryMatch": true,
+  "opus_conf": "low",
+  "sonnet_conf": "low",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "1db1dbe2-8c92-41c8-a1b8-de7689485994",
+  "name": "Carter, Laura",
+  "opus_industry": null,
+  "sonnet_industry": "Not Employed",
+  "industryMatch": false,
+  "opus_conf": "low",
+  "sonnet_conf": "medium",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "5165221c-eb0c-4d14-83de-ff35403b37c9",
+  "name": "Shiu, Daniel",
+  "opus_industry": null,
+  "sonnet_industry": "Healthcare",
+  "industryMatch": false,
+  "opus_conf": "low",
+  "sonnet_conf": "medium",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "18a0e8cf-abab-42cb-978e-c33a8cb51c4c",
+  "name": "Morris, Barbara",
+  "opus_industry": null,
+  "sonnet_industry": null,
+  "industryMatch": true,
+  "opus_conf": "low",
+  "sonnet_conf": "low",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "572724f1-4087-4f99-8cac-fa396b5d1d0e",
+  "name": "Walters, Melanie",
+  "opus_industry": null,
+  "sonnet_industry": null,
+  "industryMatch": true,
+  "opus_conf": "low",
+  "sonnet_conf": "low",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "a33dd504-8bb1-4cd8-a58f-c1d261be1533",
+  "name": "Xiao, Xia",
+  "opus_industry": null,
+  "sonnet_industry": null,
+  "industryMatch": true,
+  "opus_conf": "low",
+  "sonnet_conf": "low",
+  "opus_affil": [],
+  "sonnet_affil": [],
+  "affilSame": true
+ },
+ {
+  "id": "9c187b9d-aca9-42c1-a475-2f05ced9a948",
+  "name": "Weir, Jaspar",
+  "opus_industry": "Technology",
+  "sonnet_industry": "Technology",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [
+   "aipac_direct",
+   "political",
+   "civic"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ },
+ {
+  "id": "e8c702c7-5d3b-428d-ac81-758f239e1bc3",
+  "name": "Zimmerman, Bruce",
+  "opus_industry": "Finance",
+  "sonnet_industry": "Finance",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [
+   "jewish_civic",
+   "oil_gas",
+   "business",
+   "civic"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ },
+ {
+  "id": "fdf6c75e-1908-498d-b545-3068135a193f",
+  "name": "Averitt, Kip",
+  "opus_industry": "Consulting / PR",
+  "sonnet_industry": "Consulting / PR",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [
+   "oil_gas",
+   "business",
+   "civic"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ },
+ {
+  "id": "tcv-6ec9d5fa-027f-4db4-9bc9-18dfa75989b9",
+  "name": "Hayes, Warren",
+  "opus_industry": "Construction",
+  "sonnet_industry": "Construction",
+  "industryMatch": true,
+  "opus_conf": "medium",
+  "sonnet_conf": "medium",
+  "opus_affil": [
+   "military_defense",
+   "business"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ },
+ {
+  "id": "700ce798-ea6c-4250-80df-f64766ef8106",
+  "name": "Bartram, john",
+  "opus_industry": "Legal",
+  "sonnet_industry": "Legal",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [
+   "gun_rights",
+   "civic",
+   "business"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ },
+ {
+  "id": "cf98e920-1ec7-474f-8c5b-9e208f8185f0",
+  "name": "Epstein, Susan",
+  "opus_industry": "Healthcare",
+  "sonnet_industry": null,
+  "industryMatch": false,
+  "opus_conf": "medium",
+  "sonnet_conf": "low",
+  "opus_affil": [
+   "gun_control"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ },
+ {
+  "id": "5d5ba17b-33dc-456c-bd33-4cf475a4d4d3",
+  "name": "Casey, Stan",
+  "opus_industry": "Energy / Environment",
+  "sonnet_industry": "Energy / Environment",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [
+   "oil_gas"
+  ],
+  "sonnet_affil": [
+   "oil_gas"
+  ],
+  "affilSame": true
+ },
+ {
+  "id": "b3da3ea7-8aab-401f-af64-c787e1612322",
+  "name": "Woody McKnight, Jenniann",
+  "opus_industry": "Hospitality / Events",
+  "sonnet_industry": "Hospitality / Events",
+  "industryMatch": true,
+  "opus_conf": "high",
+  "sonnet_conf": "high",
+  "opus_affil": [
+   "civic"
+  ],
+  "sonnet_affil": [],
+  "affilSame": false
+ }
+]

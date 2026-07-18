@@ -1,0 +1,471 @@
+[
+  {
+    "donor_id": "a76302d2ca5003ee",
+    "name": "DeLeon, Marcos",
+    "resolved_employer": "College readiness advisor, Huston-Tillotson University / Texas State University / LULAC National Educational Service Center, 1999-2019 (retired); former Travis County Commissioner 1991-1994",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Almost certainly Marcos de Leon, the East Austin community organizer who co-founded El Concilio and served as Travis County Commissioner 1991-1994, then spent 1999-2019 as a college readiness advisor. Corroborated by the 78702 (East Austin) zip, the 'Rtd'/not-employed occupation (an FEC record shows MARCOS DELEON, NOT EMPLOYED, zip 78702, $38 to ActBlue 09/13/2019), and by giving to George Morales III, the Latino Precinct 4 county commissioner candidate — the same Eastside/Southeast Austin Democratic network he organized in.",
+    "source_url": "https://www.traviscountytx.gov/planning-budget/economic-development-strategic-investments/palm-school/palm-school-steering-committee/steering-committee-members",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Commissioners Court",
+        "role": "County Commissioner, 1991-1994 (former)",
+        "category": "political",
+        "source_url": "https://www.traviscountytx.gov/planning-budget/economic-development-strategic-investments/palm-school/palm-school-steering-committee/steering-committee-members",
+        "snippet": "County bio: his most prominent role was 'serving as Travis County Commissioner from 1991-1994.'"
+      },
+      {
+        "org": "El Concilio (East Austin neighborhood association coalition)",
+        "role": "Co-founder / organizer",
+        "category": "civic",
+        "source_url": "https://austinchronicle.com/news/2020-11-20/a-long-activist-legacy-survives-on-the-eastside",
+        "snippet": "With Paul Hernandez he organized Eastside neighborhood associations — East Town Lake, Barrio Unido, Pedernales, Govalle, Buena Vista — under the umbrella group El Concilio; his 1990 county commissioner win was El Concilio's first major electoral success."
+      },
+      {
+        "org": "East Town Lake Neighborhood Association",
+        "role": "President (former)",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/planning-budget/economic-development-strategic-investments/palm-school/palm-school-steering-committee/steering-committee-members",
+        "snippet": "County bio: 'served as president of East Town Lake Neighborhood Association and on various boards/commissions.'"
+      },
+      {
+        "org": "Travis County Palm School Steering Committee",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/planning-budget/economic-development-strategic-investments/palm-school/palm-school-steering-committee/steering-committee-members",
+        "snippet": "Listed on the county's Palm School Steering Committee roster; attended Palm School 1954-1961 and advocates historic preservation of East Austin's Mexican American heritage."
+      }
+    ]
+  },
+  {
+    "donor_id": "a938c063502720ed",
+    "name": "Atlas, Laura",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile found for a Laura Atlas in Austin 78723 (Windsor Park). Repeated searches on name+zip, name+Austin nonprofit/environmental, name+attorney/teacher/obituary, and campaign-finance/FEC mirrors returned no identifiable person. The single $100 gift to Brigid Shea in Oct 2017 and a consistently Democratic federal giving history (19 donations) are all the record supports; no employer or occupation is discoverable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aa787e496fb89201",
+    "name": "Griffin, April",
+    "resolved_employer": "The Law Office of April Griffin, Pflugerville TX (solo practitioner: estate planning, probate, commercial/general business; formerly counsel to several Texas state agencies)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "April Griffin is a solo attorney in Pflugerville (2911 A W Grimes Blvd, 78660; Texas bar license 2008) and Board Vice President of Travis County ESD No. 2 / Pflugerville Fire Department, appointed January 2017. Zip 78660 matches exactly, and her gift went to Jeff Travillion, the Travis County Precinct 1 commissioner whose precinct covers Pflugerville — she sits on a Travis County emergency services district board within his precinct.",
+    "source_url": "https://www.pflugervillefire.org/commissioners/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Emergency Services District No. 2 (Pflugerville Fire Department)",
+        "role": "Board Vice President (appointed January 2017)",
+        "category": "political",
+        "source_url": "https://www.pflugervillefire.org/commissioners/",
+        "snippet": "Official ESD commissioner bio: 'Board Vice President of Travis County ESD No. 2 (appointed January 2017).'"
+      },
+      {
+        "org": "Austin Black Lawyers Association Foundation",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://www.pflugervillefire.org/commissioners/",
+        "snippet": "Bio lists her as a 'Board member for the Austin Black Lawyers Association Foundation.'"
+      },
+      {
+        "org": "State Bar of Texas, Administrative and Public Law Section",
+        "role": "Council Member",
+        "category": "business",
+        "source_url": "https://www.pflugervillefire.org/commissioners/",
+        "snippet": "Bio lists her as a 'Council Member of the State Bar of Texas Administrative and Public Law Section.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "ac44204401624811",
+    "name": "Treat, Jennifer",
+    "resolved_employer": "Democratic political fundraising consultant, Washington DC (fundraiser for Rick Noriega's 2008 U.S. Senate campaign; former staffer to Texas Gov. Ann Richards)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Texas Weekly (Texas Tribune) reported that 'former Ann Richards staffer Jennifer Treat' handled fundraising for Rick Noriega's 2008 U.S. Senate race and that 'Treat lives in Washington, D.C. and will work from there.' That matches the donor's DC address, the heavily Democratic federal giving pattern (103 FEC donations, lean 1.0), and a Texas-specific $100 gift from DC to an Austin-area Democrat (Brigid Shea). Not independently confirmed to zip 20015, hence medium.",
+    "source_url": "https://texasweekly.texastribune.org/texas-weekly/vol-25/no-11/people/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Rick Noriega for U.S. Senate (2008)",
+        "role": "Campaign fundraiser",
+        "category": "political",
+        "source_url": "https://texasweekly.texastribune.org/texas-weekly/vol-25/no-11/people/",
+        "snippet": "'former Ann Richards staffer Jennifer Treat handling those duties. Treat lives in Washington, D.C. and will work from there.'"
+      },
+      {
+        "org": "Office of Texas Gov. Ann Richards",
+        "role": "Staffer (former)",
+        "category": "political",
+        "source_url": "https://texasweekly.texastribune.org/texas-weekly/vol-25/no-11/people/",
+        "snippet": "Described as a 'former Ann Richards staffer' who brought her fundraising expertise from Washington, D.C."
+      }
+    ]
+  },
+  {
+    "donor_id": "afb06afdae4e2bf1",
+    "name": "Nyfeler, John",
+    "resolved_employer": "John V. Nyfeler, FAIA — Consulting Architect (sole practitioner; also filed with FEC as \"The Nyfeler Organization\"); construction dispute resolution and regulatory entitlements/historic designations",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "John V. Nyfeler, FAIA is an Austin consulting architect (UT-Austin B.Arch), 40+ years in commercial/institutional architecture, with his practice at 1805 Adriane Drive, Unit B, Austin, TX 78721 — an East Austin address inside Travis County Commissioner Precinct 1, the seat held by the donee Jeff Travillion. Identity is corroborated by FEC individual-contribution records listing 'JOHN NYFELER (THE NYFELER ORGANIZATION/ARCHITECT), zip 78721' giving to End Citizens United, matching both the 78721 address and the donor's all-Democratic federal giving pattern (lean 1.0). He is a past president of AIA Austin and of the Texas Society of Architects, served on the AIA National Board of Directors 2012-2014, and AIA Austin's community-service award is named for him as its first recipient. Note: a separate FEC mirror row for an ARCHIPAC contribution lists zip 78705 for the same employer string — both are the same practitioner across different years/addresses, but the zips differ between records.",
+    "source_url": "https://www.johnnyfeler.com/specialties.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "American Institute of Architects (AIA), National Board of Directors",
+        "role": "Board Director, 2012-2014",
+        "category": "business",
+        "source_url": "https://www.johnnyfeler.com/affiliations.html",
+        "snippet": "\"American Institute of Architects (AIA) - National Board of Directors, 2012-2014\" listed among his professional affiliations; also \"College of Fellows, The American Institute of Architects.\""
+      },
+      {
+        "org": "AIA Austin",
+        "role": "Past President; first recipient (2003) and namesake of the John V. Nyfeler, FAIA Community Service Award",
+        "category": "business",
+        "source_url": "https://aiaaustin.org/past-honor-awards/",
+        "snippet": "The \"John V. Nyfeler, FAIA, Community Service Award\" recognizes \"an individual AIA Austin member for extended commitment to their community\"; it was \"named to acknowledge the first recipient, John V. Nyfeler, FAIA, for his leadership in the community\" (2003)."
+      },
+      {
+        "org": "Texas Society of Architects",
+        "role": "Past President; Board Member",
+        "category": "business",
+        "source_url": "https://www.johnnyfeler.com/affiliations.html",
+        "snippet": "Affiliations page lists \"Texas Society of Architects, Past President\" and \"Texas Society of Architects, Board Member.\""
+      },
+      {
+        "org": "ARCHIPAC (American Institute of Architects federal PAC)",
+        "role": "Donor ($250, 05/06/2011)",
+        "category": "business",
+        "source_url": "https://www.city-data.com/elec2/12/elec-AUSTIN-TX-12-part1.html",
+        "snippet": "FEC record: 'MR. JOHN V. NYFELER (JOHN NYFELER, FAIA/ARCHITECT/OWNER), (Zip code: 78705) $250 to ARCHIPAC - THE AMERICAN INSTITUTE OF ARCHITECTS on 05/06/2011.'"
+      },
+      {
+        "org": "Ending Chronic Homelessness in Our Community (ECHO), Austin",
+        "role": "Chair",
+        "category": "civic",
+        "source_url": "https://www.austintexas.gov/content/january-11-2007-austin-city-council-regular-meeting",
+        "snippet": "Austin City Council, Jan. 11, 2007, Item 57 Update on Homeless Services: \"The presentation was made by Bert Lumbreras, Assistant City Manager; Rick Rivera, Chair of the Homeless Task Force; John Nyfeler, Chair of Ending Chronic Homelessness in Our Communication [sic]...\" — i.e., he chaired Austin's chronic-homelessness coalition and briefed City Council on homelessness policy."
+      },
+      {
+        "org": "Austin Foundation for Architecture",
+        "role": "Founding Member",
+        "category": "civic",
+        "source_url": "https://www.johnnyfeler.com/affiliations.html",
+        "snippet": "\"Founding Member, Austin Foundation for Architecture.\""
+      },
+      {
+        "org": "Texas Architectural Foundation",
+        "role": "Board Member",
+        "category": "civic",
+        "source_url": "https://www.johnnyfeler.com/affiliations.html",
+        "snippet": "\"Texas Architectural Foundation Board\" listed among his affiliations."
+      },
+      {
+        "org": "International Code Council",
+        "role": "Board member",
+        "category": "business",
+        "source_url": "https://www.johnnyfeler.com/affiliations.html",
+        "snippet": "Listed as an \"International Code Council\" board member — the body that writes model building codes adopted by state and local governments."
+      },
+      {
+        "org": "American College of Forensic Examiners / The Forensic Examiner magazine",
+        "role": "Member; Editorial Advisory Board member",
+        "category": "business",
+        "source_url": "https://www.johnnyfeler.com/affiliations.html",
+        "snippet": "\"American College of Forensic Examiners\" and Editorial Advisory Board member for \"The Forensic Examiner\" magazine."
+      },
+      {
+        "org": "End Citizens United",
+        "role": "Individual federal contributor",
+        "category": "political",
+        "source_url": "https://www.city-data.com/elec2/16/elec-AUSTIN-TX-16-part41.html",
+        "snippet": "\"JOHN NYFELER (THE NYFELER ORGANIZATION/ARCHITECT), Zip code: 78721, $25 contribution to END CITIZENS UNITED on 10/07/2016\" — a campaign-finance-reform PAC; consistent with the donor's all-Democratic federal giving record."
+      }
+    ]
+  },
+  {
+    "donor_id": "d2305b4055683046",
+    "name": "Stanberry, Billy",
+    "resolved_employer": "Stanberry & Associates, Inc. (Stanberry REALTORS) — founder, CEO/owner/broker; retired U.S. Army colonel",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Billy M. (Col. Bill) Stanberry, Austin TX 78749 (SW Austin, inside Travis Co. Commissioner Pct 3 — the seat Ann Howard holds), founded Stanberry and Associates, Inc. in 1982 and is its CEO/owner/designated broker (TREC broker license 286554); public-records aggregators tie the 78749 Billy M Stanberry to Stanberry & Associates. He is the only prominent Billy/Bill Stanberry in Austin, but the firm bio does not itself state a home zip, so identity is corroborated rather than certain. His 28-year U.S. Army career (Private to Colonel, Vietnam) is uniformed service, not defense-contractor ownership/board/lobbying, so no military_defense flag is recorded.",
+    "source_url": "https://www.seeaustinareahouses.com/info/bill-stanberry-landing-page",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Stanberry & Associates, Inc. (Stanberry REALTORS)",
+        "role": "Founder, CEO / Owner / Broker",
+        "category": "business",
+        "source_url": "https://www.seeaustinareahouses.com/info/bill-stanberry-landing-page",
+        "snippet": "\"In 1980, he and his wife Martha relocated to Austin, where he entered real estate brokerage. He founded Stanberry and Associates, Inc. in 1982 and continues as CEO/Owner/Broker.\" Firm now has four offices (Westlake, Cedar Park, Dripping Springs, Bastrop)."
+      }
+    ]
+  },
+  {
+    "donor_id": "d3462f470fc77a42",
+    "name": "Baker, Luther",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No zip, no occupation/employer on the filing, and no discoverable public profile for a Luther Baker in Austin/Travis County. Repeated searches (Austin/Travis County, Precinct 1/East Austin/Manor, obituaries, professional listings, campaign-finance and lobbyist registries) returned no person matching. 'Baker' is a very common surname and no corroborating detail exists to pin an identity. FEC: no federal contribution record. TEC: no registrant by that name.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d359d6c70fbaff95",
+    "name": "Main, Todd",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Bethesda, MD 20817) giving $100 to Brigid Shea. A Crunchbase profile for a 'Todd Main' — Director at Econergy (renewable-energy development), Manager of Amato & Main, formerly Senior Advisor at Greenleaf Advisors and Chief of Staff at the Illinois Department of Natural Resources — appears in search summaries with a Bethesda, MD location, which would fit an environmental-policy donor giving to Shea (a longtime Austin environmental organizer). However, the Crunchbase page itself returned HTTP 403 and could not be read; a LinkedIn profile with the same Illinois DNR background lists Greater Chicago, not Bethesda, and there are 20+ people named Todd Main. The Bethesda/20817 link is unverified, so no industry is assigned.",
+    "source_url": "https://www.crunchbase.com/person/todd-main",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d66284cb61659ff0",
+    "name": "Byrne, Daniel",
+    "resolved_employer": "Fritz Byrne, PLLC — founding equity partner, trial/commercial litigation attorney, Austin",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Daniel H. Byrne, Austin commercial-litigation trial lawyer, co-founded Fritz Byrne (now Fritz Byrne, PLLC) in 1989; J.D. University of Houston 1983, licensed by the State Bar of Texas since 1983, Texas Super Lawyer 2003-04 and 2008-2025. Consistent with a heavily Democratic-leaning federal giving history (83 FEC donations, lean 0.913) and with his reported marriage to Darlene Byrne, Chief Justice of the Texas Third Court of Appeals, an elected Democrat; a $100 gift to Travis County Commissioner Ann Howard fits the local Austin legal/civic Democratic donor pattern. No ideological-PAC ties surfaced and he is not a registered Texas lobbyist.",
+    "source_url": "https://fritzbyrne.law/attorney/daniel-h-byrne/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Fritz Byrne, PLLC",
+        "role": "Founding equity partner (firm co-founded 1989)",
+        "category": "business",
+        "source_url": "https://fritzbyrne.law/attorney/daniel-h-byrne/",
+        "snippet": "\"Founding Equity Partner at Fritz Byrne, PLLC ... co-founded the current firm in 1989, and is a 40 year trial\" lawyer handling commercial, securities, real estate, employment and public-law litigation."
+      },
+      {
+        "org": "Planned Parenthood of Greater Texas",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://fritzbyrne.law/attorney/daniel-h-byrne/",
+        "snippet": "Community Involvement section: \"Byrne serves on boards including Ballet Austin (past president) and Planned Parenthood of Greater Texas.\" Planned Parenthood of Greater Texas engages in reproductive-rights policy advocacy in Texas."
+      },
+      {
+        "org": "Ballet Austin",
+        "role": "Board member, past president",
+        "category": "civic",
+        "source_url": "https://fritzbyrne.law/attorney/daniel-h-byrne/",
+        "snippet": "\"Byrne serves on boards including Ballet Austin (past president)...\""
+      }
+    ]
+  },
+  {
+    "donor_id": "d75a29bc2facd154",
+    "name": "Dolores Eufracio",
+    "resolved_employer": "E ~ Tax Services, Austin — tax preparer (Dolores L. Eufracio)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Dolores (Dolores L.) Eufracio is listed as a tax-preparation professional in Austin — a TaxBuzz tax-preparer profile for Austin, TX and an Austin tax-preparer directory listing for E ~ Tax Services. The surname is distinctive and locally concentrated in southeast Austin (Eufracio Insurance at 2410 E Riverside Dr, 78741, owner Felipe Eufracio), in/adjacent to Travis County Commissioner Precinct 4, the seat held by Margaret Gomez, whom she gave to. The filing lists occupation as \"Don't Know\", so this is a categorize-by-employer fallback resting on the public tax-preparer listings.",
+    "source_url": "https://www.taxbuzz.com/find-the-best-tax-preparer/texas/austin/dolores-eufracio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dda3484b0879b9f2",
+    "name": "Perry, Brent",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm which Brent Perry this is. The record carries no zip, occupation, or employer. At least two plausible Texas candidates exist: Brent J. Perry, an Austin residential real estate agent (TREC lic. 782112, Teifke Real Estate / LPT Realty), and Brent C. (Clark) Perry, a Houston commercial trial lawyer and co-founder of Burford Perry LLP. Neither can be tied to the Oct 2021 $100 gift to Ann Howard, and neither's public profile matches the reported all-Republican federal giving pattern (22 FEC donations) well enough to classify. The prominent Houston trial lawyer match was checked and is NOT confirmed.",
+    "source_url": "https://www.burfordperry.com/professionals/brent-c.-perry",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ddecb6b23452296c",
+    "name": "Cowan, Julie",
+    "resolved_employer": "Texas Parent PAC (co-chair, volunteer); former Austin ISD Board of Trustees member, District 4 (2014-2018); former legislative aide, Texas House of Representatives, and hospital physician/community-relations specialist",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Julie Cowan of Austin is the former Austin ISD District 4 trustee (2014-2018, board secretary) and a co-chair of Texas Parent PAC, a state PAC backing pro-public-education legislative candidates in both parties. Married to Dr. Rob Cowan; she is a past president and current VP of Medical Affairs of the Travis County Medical Alliance. Identity is corroborated by name + Austin + civic/political-donor profile, but the local record carries no zip or employer, so medium rather than high. Her mixed-to-Republican-leaning federal giving (lean 0.179) is consistent with Texas Parent PAC's practice of supporting moderate Republicans against school-voucher candidates. No TEC lobbyist registration; no ideological federal PAC contributions surfaced.",
+    "source_url": "https://www.tcmalliance.org/julie-cowan?page=HOME",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Parent PAC",
+        "role": "Co-chair",
+        "category": "political",
+        "source_url": "https://www.tcmalliance.org/julie-cowan?page=HOME",
+        "snippet": "Listed as co-chair of Texas Parent PAC, a political action committee supporting pro-public-education candidates for the Texas Legislature."
+      },
+      {
+        "org": "Austin Independent School District Board of Trustees",
+        "role": "Trustee, District 4 (2014-2018); board secretary",
+        "category": "civic",
+        "source_url": "https://www.austinisd.org/press-releases/2017/03/24/aisd-trustee-cowan-selected-participate-leadership-program",
+        "snippet": "AISD press release identifies Julie Cowan as a sitting District 4 trustee selected for a board leadership program."
+      },
+      {
+        "org": "Travis County Medical Alliance",
+        "role": "VP of Medical Affairs; past president",
+        "category": "civic",
+        "source_url": "https://www.tcmalliance.org/julie-cowan?page=HOME",
+        "snippet": "Bio page lists her as VP of Medical Affairs and past president of the Travis County Medical Alliance, and as St. David's Foundation Alliance chair."
+      }
+    ]
+  },
+  {
+    "donor_id": "ddeec0ad76406e26",
+    "name": "Reddy, Michael",
+    "resolved_employer": "Self-employed — Mike Reddy Studio; illustrator and art director; partner at creative agency Carter/Reddy",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Mike (Michael) Reddy is a self-employed illustrator and art director based in Austin who moved from NYC in 2015; his work runs in The New York Times, The New Yorker, The Atlantic, Texas Highways, The Austin Chronicle and STAT, with installations at Austin-Bergstrom Airport and Box's downtown Austin office. Occupation 'Graphic Artist' / employer 'Self' and Austin residence match his public profile directly; 78757 is north-central Austin. Full contact/bio page read: no board seats, policy-advocacy roles, or lobbying activity disclosed. No TEC lobbyist registration; no ideological federal PAC contributions found beyond candidate/party giving.",
+    "source_url": "https://mikereddystudio.com/contact",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e024aa79194ddbd6",
+    "name": "Whitley, Kathryn",
+    "resolved_employer": "Austin-area public school teacher (math/TAG; Austin ISD, Round Rock ISD, Austin Community College); formerly a tax accountant and auditor. Now an elected Austin ISD trustee.",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Best match is Kathryn Whitley Chu, an Austin math/TAG teacher (UT-Austin BBA and Master of Professional Accounting; started her career as a tax accountant/auditor) who later won an Austin ISD District 4 trustee seat. She is married to Nick Chu, who took office as Travis County Justice of the Peace Precinct 5 in 2017 — a precinct covering central Austin including 78751 — which makes a May 2017 Hyde Park-area address and a $100 gift to Travis County Commissioner Jeff Travillion consistent for a politically active Democratic household. The family now lives in Allandale, so the zip does not match her current address; identity is circumstantial, hence medium. No FEC record exists, so no federal PAC ties; no TEC lobbyist registration found.",
+    "source_url": "https://www.kathrynforaisd.com/meetkathryn/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Education Austin / Education Round Rock (teachers' unions)",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://www.kathrynforaisd.com/meetkathryn/",
+        "snippet": "Her campaign bio states she belongs to the Education Austin and Education Round Rock unions and is active in Central Austin Democrats, West Austin Democrats, and Capital Area Progressive Democrats."
+      }
+    ]
+  },
+  {
+    "donor_id": "e13de752684fd384",
+    "name": "Wanezek, Sarah",
+    "resolved_employer": "Self-employed wardrobe stylist (sarahwanezek.com / sarahstyling.com); commercial, editorial and event styling for film and television productions",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Sarah Wanezek is a self-employed Austin wardrobe stylist who has worked film and television sets since 2009; clients include UPS, Adobe, Jeep, DoorDash and ESPN. Originally from the Milwaukee area, UT-Austin graduate, ~20 years in Austin. The rare surname plus occupation 'Stylist' / employer 'Self' plus Austin residence (78723, east Austin) corroborate the match. Full about-page read: no board seats or policy-advocacy roles; she volunteers as a birth doula. No TEC lobbyist registration; no ideological federal PAC contributions found beyond candidate giving.",
+    "source_url": "https://sarahwanezek.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed77f4ce3e7d4a4c",
+    "name": "Hartman, Marilyn",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm which Marilyn Hartman this is. Multiple Marilyn Hartmans live in the Austin metro, with candidate profiles including an Eanes ISD executive assistant, a Texas Higher Education Coordinating Board administrative assistant, and a retiree; none is tied to zip 78735 by any public source. Note for reviewers: registered Texas lobbyist Gregory W. Hartman (CEO, Texas Alliance of YMCAs; formerly Seton Healthcare Family) lists a home address in the same 78735 zip, but NO public source establishes any household or family relationship, so no affiliation is recorded and this remains an unverified coincidence of surname and zip. Her giving pattern (small gifts to Ann Howard, Commissioner Pct 3, which covers southwest Travis County incl. 78735; FEC lean 0.654 across 34 donations) is consistent with an ordinary local Democratic-leaning small donor.",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f24a169580d3df21",
+    "name": "Dunkerley, Betty",
+    "resolved_employer": "Registered City of Austin lobbyist (clients incl. Ascension Health / Seton Healthcare Family and Strategic Partnerships); former Austin City Council Member Place 4 and Mayor Pro Tem; former City of Austin Finance Director and Assistant City Manager (retired from city service)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Betty J. Dunkerley, former Austin City Council Member (Place 4, 2002-2008) and Mayor Pro Tem, previously 11 years as City of Austin Financial Director and a year as Assistant City Manager over housing, health and human services, and libraries. Critically, at the time of this 2021-11-15 gift to Travillion she was an actively registered City of Austin lobbyist: registration date 2016-08-19, terminated 2025-04-10, with final quarterly activity report filed 10/04/2024 — a textbook small-dollar lobbyist contribution. Industry mapped to Consulting / PR as a paid government-affairs professional; her prior career was Government. No Texas Ethics Commission (state) lobbyist registration found; no federal PAC contribution record found.",
+    "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG0022",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin lobbyist registry — clients Ascension Health and Strategic Partnership",
+        "role": "Registered lobbyist (registered 2016-08-19, terminated 2025-04-10)",
+        "category": "political",
+        "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG0022",
+        "snippet": "Lobbyist profile for Dunkerley, Betty, J. lists clients Ascension Health (healthcare) and Strategic Partnership (business development); registration date August 19, 2016, termination April 10, 2025."
+      },
+      {
+        "org": "City of Austin lobbyist registry (earlier client roster)",
+        "role": "Registered lobbyist for Lone Star Rail, Seton Healthcare, Strategic Partnerships and Red Leaf Properties",
+        "category": "political",
+        "source_url": "https://austinmonitor.com/stories/2013/05/fifty-eight-lobbyists-registered-to-bend-ears-twist-arms-at-city-hall/",
+        "snippet": "Austin Monitor reports the former Mayor Pro Tem, a onetime assistant city manager and city financial officer, listed Lone Star Rail, Seton Healthcare, Strategic Partnerships and Red Leaf Properties as her lobbying clients."
+      },
+      {
+        "org": "City of Austin",
+        "role": "Council Member Place 4 and Mayor Pro Tem; previously Financial Director (11 years) and Assistant City Manager",
+        "category": "political",
+        "source_url": "https://austinmonitor.com/stories/2008/06/dunkerley-retires-from-city-service-for-second-time/",
+        "snippet": "After six years on the City Council, 11 years as the city's Financial Director and a year as Assistant City Manager over housing, health and human services, and libraries, Dunkerley served as Mayor Pro Tem before retiring from the City of Austin."
+      }
+    ]
+  },
+  {
+    "donor_id": "f4e15e90f736426b",
+    "name": "Mason, John Duncan",
+    "resolved_employer": "USM Investments LLC, Dallas TX (member/principal); real estate developer",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "John Duncan Mason III is listed as a member (MBR) of USM Investments LLC, 13 Turtle Creek Blvd, Dallas TX 75204 — matching the donor's reported employer 'USM', occupation 'Real Estate', and zip 75204 exactly. Federal records corroborate: 'JOHN DUNCAN MASON (USM INVESTMENTS/REAL ESTATE DEVELOPER), (Zip code: 75204) $500 to ACTBLUE on 09/19/2019', consistent with the pipeline's FEC lean of 1.0 across 25 donations. No TEC lobbyist registration. No ideological PAC contributions (pro-Israel, pro-Palestine, oil/gas, gun-rights, gun-control, or defense) surfaced — his federal giving appears routed through ActBlue.",
+    "source_url": "https://www.buzzfile.com/business/Usm-Investments-LLC-214-668-8907",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "USM Investments LLC",
+        "role": "Member (MBR) / principal; real estate developer",
+        "category": "business",
+        "source_url": "https://www.buzzfile.com/business/Usm-Investments-LLC-214-668-8907",
+        "snippet": "USM Investments LLC, 13 Turtle Creek Blvd, Dallas, TX 75204; John Duncan Mason III listed as MBR. Company operates in the Investors, nec industry within Holding and Other Investment Offices."
+      },
+      {
+        "org": "ActBlue",
+        "role": "Individual contributor ($500, 09/19/2019), self-reported as USM Investments / real estate developer",
+        "category": "political",
+        "source_url": "https://www.city-data.com/elec2/20/elec-DALLAS-TX-20-part39.html",
+        "snippet": "JOHN DUNCAN MASON (USM INVESTMENTS/REAL ESTATE DEVELOPER), (Zip code: 75204) $500 to ACTBLUE on 09/19/2019."
+      }
+    ]
+  },
+  {
+    "donor_id": "fd88c70e8f381f4e",
+    "name": "King, William",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Not identifiable. 'William King' is an extremely common name, the donor record carries no zip, no occupation and no employer, and the attached FEC match (1,458 donations, lean 0.517) is almost certainly an aggregated common-name identity rather than one person — the near-0.5 partisan lean is itself a signature of pooled records from multiple individuals. Searches for a William King connected to Ann Howard's Travis County campaign, and for a registered Texas Ethics Commission lobbyist by that name, returned nothing attributable. No corroborating detail exists to distinguish the specific donor.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0e1f68c592d55472",
+    "name": "Corsbie, Christopher",
+    "resolved_employer": "Clear Word Interpreting, Austin TX — Director (judiciary/court interpreting and translation services)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Christopher L. Corsbie, M.A., A.B.D., is Director of Clear Word Interpreting in Austin — an exact match to the donor's reported employer, occupation ('Executive'), city and Austin-area residence. His work is judiciary/court interpreting, and he has publicly advocated for professionalization of Language of Limited Diffusion (LLD) court interpreting in Texas as Co-Chair of the Legislative Committee of the Texas Association of Judiciary Interpreters & Translators (TAJIT). Industry mapped to Legal as a judiciary-services provider; note this is a professional-services language firm and the taxonomy has no exact bucket. No TEC lobbyist registration found (he registers at the Legislature as a witness, not as a paid lobbyist). No FEC individual or PAC contribution records found, consistent with the pipeline's 'no FEC record'.",
+    "source_url": "https://capitol.texas.gov/tlodocs/85R/witlistmtg/html/C0102017022307301.HTM",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Association of Judiciary Interpreters & Translators (TAJIT)",
+        "role": "Co-Chair, Legislative Committee; registered witness before the Texas Legislature",
+        "category": "civic",
+        "source_url": "https://capitol.texas.gov/tlodocs/85R/witlistmtg/html/C0102017022307301.HTM",
+        "snippet": "Witness list, House Appropriations S/C on Article II, Feb. 23 2017: 'Corsbie, Christopher (Self; Texas Association of Judiciary Interpreters & Translators (TAJIT))' — registered but not testifying."
+      },
+      {
+        "org": "Clear Word Interpreting",
+        "role": "Director",
+        "category": "business",
+        "source_url": "https://www.linkedin.com/in/chris-corsbie-4b1568139/",
+        "snippet": "LinkedIn profile lists Chris Corsbie as Director, Clear Word Interpreting, Austin; he has advocated for increased professionalism in Language of Limited Diffusion court interpreting in Texas."
+      }
+    ]
+  }
+]

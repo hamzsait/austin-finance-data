@@ -1,0 +1,328 @@
+[
+  {
+    "donor_id": "319e96310242dffc",
+    "name": "Gardner, Todd",
+    "resolved_employer": "Self-employed live music agent (per filing disclosure; no independent public profile found)",
+    "industry": "Entertainment",
+    "confidence": "low",
+    "evidence": "Filing lists occupation 'Live Music Agent', employer 'Self', Austin 78704. Repeated searches of the Texas Music Office booking-agent directory, Austin agency rosters, and LinkedIn surfaced no Todd Gardner working as a music/booking agent in Austin — the two LinkedIn Todd Gardners found are in logistics and SaaS sales, not Austin music. Industry assigned via categorize-by-employer fallback from the self-reported occupation only; identity not independently corroborated.",
+    "source_url": "https://gov.texas.gov/Apps/Music/Directory/results/booking-agents/region/austin/p1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3b6f6daae0bb7886",
+    "name": "Williams, Winston G.",
+    "resolved_employer": "PS Focus, LLC (formerly WGW & Company) — Austin business/administrative management consulting firm he has owned since 1997; also co-founder and Executive Director of the Capital City Black Film Festival",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Winston G. Williams of Austin owns PS Focus, LLC, a business consulting firm he founded (as WGW & Company) that began in 1989 serving the legal industry with accounting-software consulting and now provides administrative/management services; he and his brother Harrell D. Williams founded the Capital City Black Film Festival in 2013, where he is festival director. Corroborated by Austin location, Austin Chronicle coverage of the festival, and the 2016 first-gift date matching Jeff Travillion's first Precinct 1 (East Austin) commissioner race.",
+    "source_url": "http://www.psfocus.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Capital City Black Film Festival",
+        "role": "Co-founder and Executive Director (since April 2013)",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/screens/2016-08-26/capital-city-black-film-festival-grows-by-leaps-and-bounds/",
+        "snippet": "Williams is identified as festival director of the Capital City Black Film Festival, which he co-created to showcase Black experiences in cinema: 'Long-term, I want the festival to be a must for films by and about black people.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "56011a5ee21e9349",
+    "name": "Kennedy, Jennie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Filing carries no occupation or employer, only Austin 78745, and zero FEC donations, so there is nothing to corroborate against. The most prominent Austin 'Jennie Kennedy' is a JD who is Chief Privacy Officer & Data Protection Officer at the University of Texas System (previously Chief Privacy Officer at the Texas Higher Education Coordinating Board and Chief of Staff & General Counsel for the Texas House), but nothing in the donor record ties the $25 gift to Constable George Morales to her rather than to another Austin resident of the same name (an Austin Chronicle byline and a separately TEC-listed 'Kennedy, Jennifer M.' also exist). Not confirmed — no industry assigned.",
+    "source_url": "https://www.linkedin.com/in/jennie-kennedy-40137358/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "61277ef77b3571e7",
+    "name": "Mullin, Roy",
+    "resolved_employer": "Roy Mullin Enterprises, LLC — self-employed financial advisor/planner (FINRA S6/S7/S26/S63/S65 registrations, RIA and insurance licensed); unofficially retired from finance in 2017",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Roy E. Mullin runs Roy Mullin Enterprises, LLC and is described as a financial advisor with 25+ years in the industry based in Goldthwaite, Texas — matching the filing's 76844 zip, 'Financial Services' occupation and 'Self' employer. He previously founded and sold a five-office home health agency, then moved into finance with Southwest Airlines as an early major client until his unofficial retirement in 2017. Also an actor and backer of The Stage Austin theater venue.",
+    "source_url": "https://roymullin.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "The Stage Austin",
+        "role": "Company member / philanthropy project backer of the theater venue",
+        "category": "civic",
+        "source_url": "https://thestageaustin.com/team/roy-mullin/",
+        "snippet": "Mullin is listed on the team page of The Stage Austin, an Austin theater organization; he returned to acting after a 40-year hiatus as Sir Thomas More in 'A Man For All Seasons' and as Don Baker in 'Butterflies Are Free.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "73fb91e115df2950",
+    "name": "Gattica, Stephanie",
+    "resolved_employer": "Saldana Public Relations (Project Coordinator, Community Engagement & Special Events)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Almost certainly Stephanie Gatica (filer spelling 'Gattica'), a fourth-generation native Austinite and community-engagement/event coordinator at Saldana Public Relations, an Austin multicultural PR, government-relations and political-campaign firm headquartered at 1101-A East Sixth St, Austin TX 78702 — the same zip as the donor record. A 2017 small-dollar gift to Travis County constable candidate George Morales is consistent with a politically-connected East Austin community-engagement professional. Full bio read shows no board seats or advocacy-org roles; no FEC individual-contribution records and no Texas Ethics Commission lobbyist registration found under Gatica or Gattica.",
+    "source_url": "https://saldanapr.com/bio-stephanie-gatica",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "82e5f0231537dcf4",
+    "name": "Jones, Roy",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer in the filing and no discoverable public profile for a Roy Jones in Round Rock, TX 78664. The name is extremely common and nothing in the record (zip, occupation, donation pattern) corroborates any specific individual, so no identification is made. FEC individual-contribution search for Roy Jones in Round Rock TX returned no attributable record beyond the single unlinked federal gift already in the pipeline data; no Texas Ethics Commission lobbyist registration found for 'Jones, Roy'; no bio, LinkedIn, or professional profile located to read.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "90ab9398493d32c6",
+    "name": "Caceres, Alejandro",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Filing lists occupation 'Admin' and employer 'ENJ'; no Austin-area entity matching 'ENJ' could be located, so the employer is unresolvable and the categorize-by-employer fallback yields nothing. The only Alejandro Caceres with an Austin public footprint is a former immigrant-rights organizer (Austin Immigrant Rights Coalition / Grassroots Leadership), but neither 'Admin' nor 'ENJ' corroborates that person and the zip alone is insufficient, so no identification is asserted. FEC individual-contribution search returned no record; no Texas Ethics Commission lobbyist registration found for Caceres; no bio page confirmable as this donor.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "966766dda9351859",
+    "name": "Melina Raab, Theodore",
+    "resolved_employer": "Texas Workforce Commission (Governmental Relations Specialist, Oct. 2024–); previously senior legislative agent / legislative director, Texas AFT",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Theodore 'Ted' Melina Raab of Austin is a longtime Texas Capitol figure: registered Texas lobbyist and senior legislative agent for Texas AFT (the state American Federation of Teachers affiliate), appearing on Texas House and Senate committee witness lists representing Texas AFT on school finance, assessment and special-education bills, and since October 2024 a Governmental Relations Specialist at the Texas Workforce Commission. Distinctive name plus Austin location corroborate identity; the Aug. 2025 gift to Travis County Commissioner Brigid Shea fits a Democratic-aligned Capitol staffer. No FEC individual-contribution records surfaced; no ideological PAC ties (pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense) found on any side.",
+    "source_url": "https://www.legistorm.com/person/bio/393823/Theodore_Melina_Raab.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas AFT (American Federation of Teachers, Texas)",
+        "role": "Senior legislative agent / legislative director; registered Texas lobbyist",
+        "category": "political",
+        "source_url": "https://www.texasaft.org/policy/accountability-system/house-committee-delves-into-alternative-assessments-changes-to-special-education/",
+        "snippet": "Texas AFT coverage identifies Ted Raab testifying for the union on assessment and accountability legislation, where he 'pointed legislators to an outstanding system in use for almost 20 years' as a model for alternative assessment."
+      },
+      {
+        "org": "Texas Ethics Commission lobby registry",
+        "role": "Registered lobbyist — listed as 'Melina Raab, Ted' across subject matters including Education, Day Care, Economic & Industrial Development and Energy",
+        "category": "political",
+        "source_url": "https://www.ethics.state.tx.us/search/lobby/2011/sublob2011b.htm",
+        "snippet": "TEC lobby list entry 'Melina Raab, Ted' appears under multiple registered subject-matter categories including Education."
+      }
+    ]
+  },
+  {
+    "donor_id": "9faa163d9f0f37ca",
+    "name": "Collins, David",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state donor (San Rafael, CA 94903) who gave $25 to Travis County Commissioner Jeff Travillion in Dec 2023 with no occupation or employer reported and no FEC contribution history. 'David Collins' is an extremely common name; searches of San Rafael/Marin County public sources surfaced multiple unrelated individuals (a LinkedIn profile, a California State Bar licensee, a Sacramento-area defense attorney) with nothing tying any of them to this donation. No corroborating detail exists to pin identity, so no industry is assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a708557daf630273",
+    "name": "Hadfield, Tom",
+    "resolved_employer": "Mio (formerly Message.io) — co-founder and CEO",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Tom Hadfield, British-American tech entrepreneur (built Soccernet.com at age 12, sold to ESPN for $40M in 1999; Harvard '08; founded AeroDesigns) and co-founder/CEO of workplace-chat interoperability startup Mio, formerly branded Message.io — matching the filing's employer string 'Message' and occupation 'CEO'. The San Antonio 78258 zip is corroborated by Mio's registered corporate address at 21750 Hardy Oak Blvd, Ste 104, San Antonio, TX 78258, though Hadfield himself resides in Georgia and Mio is operationally Austin-based. Single $25 gift to Travis County Judge Andy Brown (Oct 2021); one FEC record, Democratic lean; no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.heifer.org/about-us/inside-heifer/board-of-directors/tom-hadfield",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Heifer International",
+        "role": "At-Large Director, Board of Directors (since 2016)",
+        "category": "civic",
+        "source_url": "https://www.heifer.org/about-us/inside-heifer/board-of-directors/tom-hadfield",
+        "snippet": "Hadfield has served as an At-Large Director on Heifer International's board since 2016; bio identifies him as 'CEO of Message.io, a technology start-up headquartered in Austin, Texas' and lives in Georgia."
+      },
+      {
+        "org": "Kantolomba Community Development Project / Young Water Action Team / Malaria Engage",
+        "role": "Founder or co-founder (global-development and public-health ventures, backed by the Goldman Sachs Foundation, the EU, and the Gates Foundation)",
+        "category": "civic",
+        "source_url": "https://www.heifer.org/about-us/inside-heifer/board-of-directors/tom-hadfield",
+        "snippet": "Bio lists the Kantolomba Community Development Project in Zambia, leadership of the Young Water Action Team on water and sanitation, and co-founding Malaria Engage for malaria-research public engagement."
+      }
+    ]
+  },
+  {
+    "donor_id": "a8e09fd972a0fedf",
+    "name": "Ensey, Kathleen",
+    "resolved_employer": "Paw Pause Pet Staycations — pet sitter / owner-operator (business since closed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Kathleen Ensey is the pet sitter associated with Paw Pause Pet Staycations, a small pet-sitting business in the Cherrywood neighborhood of Central/East Austin — the same 78722 zip as the donor record — now listed as closed on Yelp. Independent FEC-derived contributor records compiled by City-Data list a 'Kathleen Ensey' at zip 78722 with employer 'Paw Pause Pets Staycation' and occupation 'Pet Sitter' making small ActBlue contributions, matching the filing exactly and consistent with the 59 small-dollar federal donations and Democratic lean in the input. Searches found no Texas Ethics Commission lobbyist registration, no ideological PAC giving beyond routine small ActBlue-conduited donations, and no board seats or advocacy roles. Categorize-by-employer fallback applied.",
+    "source_url": "https://www.yelp.com/biz/paw-pause-pet-staycations-austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "af2989df3202638a",
+    "name": "Vasquez, Joseph",
+    "resolved_employer": "Self-employed (filing reports employer 'Self', occupation 'Admin Tech')",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Small-dollar recurring Austin donor (78745, first gift 2017, 21 federal contributions, Democratic lean) who gave $25 to George Morales. The only identifying data is the self-reported filing string employer 'Self' / occupation 'Admin Tech'. 'Joseph Vasquez' is a very common name in Austin and searches returned many distinct, unrelated individuals (a UT-Austin student, a public-relations professional, a shipping/receiving worker, a Northrop Grumman employee) with none corroborated by the 78745 zip or the administrative-technician occupation. No Texas Ethics Commission registration and no City of Austin lobbyist registration under this name — the nearest city-lobbyist match is a different person, 'Vasquez, Josh'. No ideological PAC giving found. Industry assigned only by the employer fallback; individual identity remains unconfirmed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aff07c2512ce3ddb",
+    "name": "Scott, Sally (Ms.)",
+    "resolved_employer": "St. Edward's University — Wild Basin Wilderness Preserve (docent / ranger-coordinator)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "FEC individual-contribution records for a Sally Scott at Austin zip 78731 list occupation 'Docent Wild Basin Wilderness' and employer 'St. Edwards University' — an exact zip match to this donor. A LinkedIn profile for Sally Scott lists 'Ranger/coordinator - Wild Basin Wilderness Preserve,' corroborating the same role; Wild Basin is a 227-acre preserve co-owned and co-managed by Travis County and St. Edward's University, consistent with a $25 gift to Travis County Commissioner Brigid Shea. LinkedIn returned HTTP 999 and could not be fetched directly; profile detail comes from the search index plus St. Edward's own Wild Basin pages.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part244.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cf709c24265c6523",
+    "name": "Macdougal, Lorn",
+    "resolved_employer": "Pilates In Depth (Treehouse Studio) — owner and instructor; former professional dancer and dance faculty",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Lorn MacDougal owns Pilates In Depth, a Pilates apparatus studio in the Barton Hills neighborhood of South Austin (78704, matching the donor zip), and her filed occupation 'Pilates and Dance Instruction' with employer 'Self' matches exactly. Her full bio documents a 25-year professional dance career in NYC (Graham, Limon, Lubovitch, Nagrin companies), an MFA from NYU Tisch, and teaching posts at Juilliard, Princeton, Rutgers, Alvin Ailey, UT and Trinity Laban; she moved to Austin in 2008 and certified through Peak Pilates.",
+    "source_url": "https://pilatesindepth.com/about-lorn-macdougal.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "BikeTexas",
+        "role": "Member (featured in BikeTexas member spotlight)",
+        "category": "civic",
+        "source_url": "https://www.biketexas.org/bikenews/bikenews-member-news/member-spotlight-lorn-macdougal/",
+        "snippet": "Profiled as an Austin dancer/Pilates instructor and e-bike owner who supports BikeTexas because 'we need all of the help we can get to get the message out to people that it is possible to bike in our car-centric country'; praises Austin's progress giving people who walk or ride dedicated road space but says more is needed for rider safety."
+      }
+    ]
+  },
+  {
+    "donor_id": "e3457c747837f26b",
+    "name": "Cordes, Helen (Ms.)",
+    "resolved_employer": "Independent journalist, editor and author; formerly senior editor, Utne Reader",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Helen Cordes is a lifelong journalist and a Georgetown, TX resident of 30 years (matching zip 78626), formerly a county daily reporter in Maryland and senior editor at Utne Reader, with bylines in Mother Jones, The Nation, Sierra and Parenting. She authored 'Girl Power in the Mirror' and 'Girl Power in the Classroom' and created HiddenHerstories.com documenting the contributions of Georgetown women and other overlooked community members.",
+    "source_url": "https://www.helencordes.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "League of Women Voters — Williamson County",
+        "role": "Volunteer",
+        "category": "civic",
+        "source_url": "https://www.fpcgeorgetown.org/corner-of-change-helen-cordes/",
+        "snippet": "Profile states she volunteers with the Wilco League of Women Voters, providing 'nonpartisan information about voting and registering voters.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "ec78540b70f3cb06",
+    "name": "Morales, Rachel",
+    "resolved_employer": "Not employed — self-reported occupation \"Disabled\"",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "No discoverable public profile for a Rachel Morales in Austin 78757; the only corroborating detail is the filing's own self-reported occupation/employer of \"Disabled.\" The surname-match theory that she is a family member of candidate George Morales III was checked and NOT confirmed: his published bio names his wife Maria Cristina and children Johnny and Marissa, with no Rachel identified, and he lives in Dove Springs (southeast Austin) while this donor is in 78757 (Crestview, north Austin). Her first gift (2017-05-30) does align with Morales's first Constable Pct. 4 term beginning in 2017, but that is timing only, not evidence of a family tie. Treat the family relationship as unverified.",
+    "source_url": "https://www.georgeforcommissioner.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f162ce46c1b23ea3",
+    "name": "Hicks, Rudolph",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No legitimate public profile found. The only name+location match is commercial people-search/data-broker aggregation (InstantCheckmate / National Public Data) listing a Rudolph Carl Hicks in Pflugerville 78660 with a warehouse/materials-handler work history; that class of source is not reliable enough to publish an employer or industry against, and the filing itself carries no occupation or employer string. Even if the aggregator record is the right person, a materials-handler role would not meet the military_defense affiliation bar (exec/board/owner/lobbyist). Single $25 gift to Jeff Travillion (2023-12-12), zero FEC donation history.",
+    "source_url": "https://www.instantcheckmate.com/people/rudolph-hicks/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f9ef4f20878ea7f5",
+    "name": "Bown, Sarah",
+    "resolved_employer": "Sapana Studios (owner) and Wild Rising Yoga (owner) — yoga/breathwork teacher and creative-strategy consultant",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Sarah Bown is an Austin-based yoga and breathwork teacher who owns Sapana Studios and Wild Rising Yoga, matching the filing's occupation \"Owner\" and employer \"Self\"; her studio bio places her in Austin with her husband and two young daughters. Zip 78759 was not independently confirmed, so identity is corroborated on name + Austin + self-employed-owner occupation rather than address. Sapana Studios describes itself as working at the intersection of creativity and strategy (strategic planning, fundraising, content marketing, retreats). No lobbyist registration and no ideological PAC giving surfaced; her 13 FEC donations and 1.0 partisan lean are consistent with routine small-dollar Democratic giving, matching the $25 gift to Andy Brown.",
+    "source_url": "https://www.sapanastudios.com/team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4c3eea8dd5e89338",
+    "name": "Levine, Josh",
+    "resolved_employer": "Thorian AI (co-founder & CEO); previously co-founder/CEO of Private Market Labs",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "\"Thorian Al\" in the filing is a mangled rendering of Thorian AI — confirmed. Josh Levine is the Austin-based co-founder and CEO of Thorian AI, an AI/data-tooling company working \"at the nexus of AI, public policy, and the future of data\"; its best-known project is a fully parsed public database of the Epstein Files (~1.24M documents) built with COURIER. He previously co-founded Private Market Labs (small-business M&A marketplace) and worked as a fixed-income analyst at Lord Abbett and municipal credit analyst at Moody's. LBJ School MPAff '12. Identity corroborated by Austin location, the \"Entrepreneur\" occupation, and the Thorian employer string. No Texas lobbyist registration found; his 53 FEC donations at 0.98 partisan lean show consistent Democratic small-dollar giving with no ideological-PAC (pro-Israel, pro-Palestine, gun, oil/gas, defense) ties surfacing.",
+    "source_url": "https://lbj.utexas.edu/alumni-board-members",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "LBJ School of Public Affairs Alumni Board (UT-Austin)",
+        "role": "Board member since 2013; Board President 2017–2019",
+        "category": "civic",
+        "source_url": "https://lbj.utexas.edu/alumni-board-members",
+        "snippet": "Josh Levine (MPAff '12) has served on the LBJ School Alumni Board since 2013, including as President from 2017-2019; listed as an Austin entrepreneur focused on artificial intelligence, finance, and data projects."
+      },
+      {
+        "org": "Thorian AI",
+        "role": "Co-founder & CEO",
+        "category": "business",
+        "source_url": "https://www.fwiw.news/p/an-ai-archivist-for-good-approach",
+        "snippet": "Levine is Co-Founder and CEO of Thorian AI, which \"deploys AI-powered data tools to reinforce the social contract between citizens, companies, and the institutions that serve them\"; Thorian partnered with COURIER to build a searchable database of the Epstein Files."
+      }
+    ]
+  },
+  {
+    "donor_id": "12cabe1748f71bfc",
+    "name": "McFadden, Elliott",
+    "resolved_employer": "McFadden Mobility Consulting (founder); formerly Executive Director, Bike Share of Austin / Austin B-cycle (2013–2019)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as the Austin transportation advocate: Elliott McFadden was founding CEO/executive director of Bike Share of Austin (Austin B-cycle) from 2013 to May 2019, growing it from 11 to 76 stations, and earlier founded Austin CarShare, Texas's first carsharing system. He is a former executive director of the Travis County Democratic Party and ran as a Democrat for U.S. House TX-21 in 2018. FEC records for that period list him at Austin 78745 (occupation \"CEO, Austin B-Cycle\"), adjacent to the 78704 address on this filing; the $20 first gift on 2017-10-23 to Travis County Commissioner Brigid Shea coincides with his own congressional run and fits his transit/urbanist advocacy profile. No Texas Ethics Commission lobbyist registration found under his name; no ideological-PAC ties (pro-Israel, pro-Palestine, gun, oil/gas, defense) surfaced across 41 FEC donations at 1.0 partisan lean. Note: a separate Elliott McFadden at the Minnesota DOT on LinkedIn is a different person.",
+    "source_url": "https://www.mcfaddenmobilityconsulting.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Democratic Party",
+        "role": "Former Executive Director",
+        "category": "political",
+        "source_url": "https://www.austinmonitor.com/stories/whispers/mcfadden-has-a-new-gig/",
+        "snippet": "His background also includes work with Foundation Communities and serving as executive director of the Travis County Democratic Party."
+      },
+      {
+        "org": "McFadden for Congress (TX-21, Democratic primary, 2018)",
+        "role": "Candidate / principal campaign committee",
+        "category": "political",
+        "source_url": "https://www.fec.gov/data/candidate/H8TX21166/",
+        "snippet": "MCFADDEN, ELLIOTT JAMES — Democratic candidate for House Texas District 21, principal campaign committee McFadden for Congress, coverage 03/16/2017–03/31/2018."
+      },
+      {
+        "org": "North American Bike Share Association",
+        "role": "Co-founder; elected board treasurer",
+        "category": "civic",
+        "source_url": "https://www.mcfaddenmobilityconsulting.com/about",
+        "snippet": "Co-founded the North American Bike Share Association and served as board treasurer; founded Austin CarShare, Texas's first carsharing system."
+      },
+      {
+        "org": "Bike Share of Austin / Austin B-cycle",
+        "role": "Founding CEO / Executive Director, 2013–2019",
+        "category": "civic",
+        "source_url": "https://austinmonitor.com/stories/2019/05/b-cycle-prepares-for-shift-in-leadership/",
+        "snippet": "McFadden had served as B-cycle executive director since 2013 and notified the board in mid-April that he would leave at the end of May 2019."
+      }
+    ]
+  }
+]

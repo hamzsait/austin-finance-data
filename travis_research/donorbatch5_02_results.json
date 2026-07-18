@@ -1,0 +1,275 @@
+[
+ {
+  "donor_id": "bdb2fb97b7dfaf57",
+  "name": "Inglis, Adrienne",
+  "resolved_employer": "Self-employed composer and flutist; founder of Inversion Ensemble (Austin), principal flute with Central Texas Philharmonic, flutist in duo Chaski, former flute instructor at Southwestern University",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Adrienne Cecilia Inglis is an award-winning composer/flutist whose own site lists a Lago Vista, TX PO Box 5590 mailing address and describes her as living in the rural hill country of Central Texas, matching the donor's Lago Vista 78645 / 78645-0024 (PO Box) address. Degrees from Lewis & Clark College and UT Austin; self-described environmentalist and birder. No lobbyist registration and no PAC ties found.",
+  "source_url": "https://adrienneinglis.com/biography",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "457f0d8379bd74a5",
+  "name": "Killalea, Michael",
+  "resolved_employer": "Chair, Indivisible 1431 (volunteer role); no paid employer confirmed",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "A Michael Killalea of Lago Vista, TX is confirmed in Texas Legislature witness records (89R, State Affairs) registering with Indivisible 1431, and is identified as chair of Indivisible 1431 in a North Shore Democrats (Travis County) meeting notice — matching the donor's Lago Vista 78645 address and Democratic-only federal giving pattern. Industry reflects this documented volunteer advocacy leadership; no paid employer was discoverable, so the label should not be read as confirmed employment. NOTE: a same-named 'Mike' Killalea retired in 2019 as Group VP/Editor-Publisher of the International Association of Drilling Contractors, but that person is documented as Houston-based and no public source ties him to the Lago Vista donor; that linkage was investigated and rejected as unsupported, so no oil_gas affiliation is recorded.",
+  "source_url": "https://capitol.texas.gov/tlodocs/89R/witlistmtg/html/C5702025032009001.HTM",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Indivisible 1431",
+    "role": "Chair",
+    "category": "political",
+    "source_url": "https://www.northshoredemocrats.org/post/register-for-indivisible-1431-zoom-on-6-3",
+    "snippet": "Meeting agenda lists Mike Killalea leading the 'Welcome & Indivisible 1431 update'; he is identified among the group's umbrella officers as chair. Indivisible 1431's stated purpose is to peacefully promote progressive values and policies along the FM 1431 corridor in Travis and Williamson counties."
+   }
+  ]
+ },
+ {
+  "donor_id": "83bcbedd3e0d5372",
+  "name": "Mays, Alfred",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm which Alfred Mays this is. Public records show an Alfred Mays (age ~74) with a Manor, TX 78653 address, which matches the donor's zip, but no occupation, employer, or public profile is attached to him. A separate Alfred Mays, CFE, is a Financial Examiner at the Texas Department of Insurance but is listed in Pflugerville, not Manor, and nothing ties him to the 78653 address. No FEC PAC ties and no Texas lobbyist registration found for either. Per instructions, not forcing an industry classification without corroboration.",
+  "source_url": "https://www.fastbackgroundcheck.com/people/alfred-mays/id/f-39305167392452759",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "80f60cbdb2c5bd0c",
+  "name": "Villanueva, Manuel & Cris",
+  "resolved_employer": "Sendero Roofing, LLC (Austin) — owner/operator",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Sendero Roofing's own About page identifies Manuel Villanueva as a lifelong Austinite who owns the company and lives in South Austin with his wife Criselda ('Cris' in the donor record); 78748 is a South Austin zip. Company is a GAF Certified Contractor and BBB-accredited LLC formed 1/9/2025, doing roofs, repairs, gutters and painting. No lobbyist registration, no federal PAC ties, and no advocacy footprint found — employer-fallback classification.",
+  "source_url": "https://www.senderoatx.com/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "af05819317012850",
+  "name": "Rivera, Victoria",
+  "resolved_employer": "Travis County Constable, Precinct 4 — Lieutenant",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Victoria Rivera is listed as Lieutenant on the Travis County Constable Precinct 4 command staff roster, corroborating the filing's occupation 'LE' and employer 'Pct 4'; her donation went to George Morales, the Precinct 4 constable at the time. FEC and TEC lobbyist searches returned no records tied to this person (the 141 FEC records under 'Victoria Rivera' are a common-name aggregation, none confirmable to Lockhart TX 78644).",
+  "source_url": "https://www.traviscountytx.gov/constables/4/command-staff-deputies",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f0beb40adc2e132",
+  "name": "Oliphant Jones, Rosalind",
+  "resolved_employer": "Retired educator (Austin ISD mentor teacher / community partnerships); founder & director, Austin African American Book Festival; former owner of Folktales bookstore",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Rosalind 'Roz' Oliphant Jones is a longtime Austin educator, bookseller and literacy advocate who founded the Austin African American Book Festival in 2006 (first festival 2007) after running the Black-themed bookstore Folktales; public records place a Rosalind M. Oliphant in Pflugerville, TX 78660, matching the filing zip. No FEC contribution records (site data also shows 0 federal donations) and no Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://www.aaabookfest.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin African American Book Festival",
+    "role": "Founder and director",
+    "category": "civic",
+    "source_url": "https://www.aaabookfest.org/about",
+    "snippet": "The festival was established in 2006 by Dr. Roz Oliphant-Jones and writer Evelyn Martin Anderson; she is described as 'a longtime educator, bookseller, and literacy advocate in Austin, Texas' and 'a retired educator.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "9c894000cb62669b",
+  "name": "SMITH, THEODORE",
+  "resolved_employer": "Self-employed environmental consultant",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "FEC-derived individual contribution records show a Theodore Smith at San Jose, CA 95112 — exact match to the filing zip — listing employer 'Self'/'Self-Employed' and occupation 'Environmental Consultant', with a small-dollar progressive pattern (Bernie 2016 $27; five gifts to Maggie for NH totaling ~$225 in 2016), consistent with this donor's 42 federal donations and an out-of-state small-dollar gift to Brigid Shea. Confidence held at medium because 'Theodore Smith' is a common name and only zip + donation pattern corroborate. No Texas lobbyist registration; no PAC affiliations (pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control or defense) found on either side.",
+  "source_url": "https://www.city-data.com/elec2/16/elec-SAN-JOSE-CA-16-part38.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a1b581cb8775a2cb",
+  "name": "Solomon, Tracy",
+  "resolved_employer": "Nonprofit fundraising/development; co-founder, Hebrew Free Loan of Austin",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Tracy Solomon is an Austin nonprofit fundraiser (UT Austin, 1981; ~25 years of Austin nonprofit fundraising and development work) who co-founded Hebrew Free Loan of Austin in 2011 with Dr. Michael Rotman, and is a founding member of Dell Med's Society for Health and Women. Identity corroborated by Austin location and the matching detail that she 'started and is working with a nonprofit that provides interest-free loans in the greater Austin area'; the 78731 zip itself was not independently confirmed, so confidence is medium. No FEC contribution records and no Texas Ethics Commission lobbyist registration found. Balanced searches on both pro-Israel (AIPAC/DMFI/J Street) and pro-Palestine (JVP and similar) affiliations returned nothing; her Hebrew Free Loan and Shalom Austin ties are communal-charity, not policy advocacy, so they are not recorded as affiliations per scope rules.",
+  "source_url": "https://hebrewfreeloanofaustin.org/hfla-history/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b6a51ae2c5c08d8",
+  "name": "Reel, Teresa",
+  "resolved_employer": "City of Austin — General Manager, Combined Transportation, Emergency & Communications Center (CTECC) (since retired)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A Teresa Reel in Austin is listed as CTECC General Manager for the City of Austin; public-records aggregators place a Teresa Reel at a 78752 Austin address, matching the donor zip. A city emergency-communications manager giving small amounts to two sitting Travis County commissioners (Travillion, Shea) in 2017 is consistent. Identity is name+zip corroborated but not confirmed by a primary record, so medium. Note: the LinkedIn profile returned HTTP 999 and could not be fetched, so the role rests on search-result snippets rather than a full bio read.",
+  "source_url": "https://www.linkedin.com/in/teresa-reel-6aa0a64/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "02054ae7c4ff1243",
+  "name": "Cronk, Scott",
+  "resolved_employer": "Lake Travis Youth Association (LTYA) — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Scott Cronk is the Executive Director of the Lake Travis Youth Association, a Lakeway-based youth-sports nonprofit serving ~6,000 area students; he is quoted in local coverage of LTYA's sports-complex projects and its dark-sky field lighting. LTYA's Lakeway/Bee Cave base matches the donor's 78738 zip. He is a distinct person from Spencer Cronk, the former Austin City Manager — no relationship established and the two were not conflated. Note: ltya.org returned HTTP 403 and could not be fetched, so the role rests on local news coverage rather than a full bio read.",
+  "source_url": "https://findlaketravishomes.com/2023/04/bee-cave-named-dark-sky-community/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "06434b3471d7e4e4",
+  "name": "Shyra S. Darr",
+  "resolved_employer": "State of Texas — Director of Strategic Planning and Policy, Texas Facilities Commission (later associated with Texas Health and Human Services Commission)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Shyra Darr is identified by the Texas Tribune and a 2018 Texas Senate Business & Commerce witness list as director of strategic planning and policy at the Texas Facilities Commission in Austin. The name is rare and the donor's stated occupation 'State Employee' matches exactly; a later Austin campaign-finance filing lists her employer as Texas HHSC.",
+  "source_url": "https://www.texastribune.org/2017/11/29/texas-health-regulators-overrun-several-hundred-rats/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10d36cd94eed000d",
+  "name": "Ingram, Melissa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer is reported on the filing, and no public profile could be tied to a Melissa Ingram at Spicewood, TX 78669. Public-records aggregators show a Melissa Ingram with Spicewood ties but list no employment; the many LinkedIn profiles under this name (special-education teacher, floral-preservation owner, Wells Fargo, MLIngram Research) are in other locations or cannot be corroborated to this zip. Identity not confirmed, so no industry assigned.",
+  "source_url": "https://www.spokeo.com/Melissa-Ingram/Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "31c8d3eb7bfa4544",
+  "name": "Elliott Naishtat Campaign",
+  "resolved_employer": "Elliott Naishtat Campaign — Texas state political campaign committee of former State Rep. Elliott Naishtat (D-Austin), Texas House District 49, 1991–2017 (committee wound down after he left office)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Not an individual donor. This is a candidate campaign committee making a committee-to-committee transfer of $150 to Travis County Commissioner Brigid Shea on 2017-10-23 — months after Naishtat left the Texas House in January 2017, consistent with a retiring legislator distributing residual campaign funds. Elliott Naishtat represented Texas House District 49 (north-central Austin, incl. the 78757 area on the record) for 26 years, chaired the House Human Services Committee for nearly a decade, and did not seek re-election in 2016. The 78757 zip matches his Austin district.",
+  "source_url": "https://en.wikipedia.org/wiki/Elliott_Naishtat",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas House of Representatives, District 49",
+    "role": "State Representative (D-Austin), 1991–2017; Chair, House Human Services Committee",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Elliott_Naishtat",
+    "snippet": "Naishtat served in the Texas House of Representatives District 49 from January 1991 through January 2017 — 26 years representing his district. He passed approximately 330 bills during this tenure and chaired the House Human Services Committee for nearly a decade."
+   },
+   {
+    "org": "Texas House Progressive Caucus",
+    "role": "Founding board member",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Elliott_Naishtat",
+    "snippet": "Founding board member of the House Progressive Caucus."
+   },
+   {
+    "org": "Austin Community Development Commission",
+    "role": "Chair",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Elliott_Naishtat",
+    "snippet": "Chaired Austin's Community Development Commission."
+   }
+  ]
+ },
+ {
+  "donor_id": "4befc4028688dc6b",
+  "name": "Speir, Stephen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm identity. The donor record carries no zip, no city/state, no occupation and no employer, so there is nothing to corroborate against. The only public Stephen Speir with an Austin-area web footprint is a Director of Quality Assurance/Quality Control at Thrive Living working in multifamily development, but his LinkedIn is based in Long Beach, CA (a people-search listing separately shows a Stephen S. Speir in Austin/Lewisville, TX), and nothing links either to this single $150 gift to Travis County Commissioner Jeff Travillion on 2021-11-09. Per the instructions, identity is not confirmed, so industry is left null.",
+  "source_url": "https://www.linkedin.com/in/stephen-speir/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8cd7025c9b367e06",
+  "name": "Ellis, Cyrenthia",
+  "resolved_employer": "City of Austin — Procurement Manager, Financial Services Department / Central (Corporate) Procurement",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "\"Cyrenthia\" is a rare given name and the only public Cyrenthia Ellis in the Austin area is a Procurement Manager for the City of Austin's Central Procurement division (Mobility, Facilities, Grounds, General Goods, Industrial & MRO), listed in the City's official procurement staff directory with an austintexas.gov address and appearing on City contract documents. A separate Austin community bio confirms an Austin-resident Cyrenthia Ellis (Capitol City Card Club member of 8+ years, native of Chicago). A local-government employee giving $150 to a Travis County Commissioner (Jeff Travillion, 2021-11-09) is consistent. Medium rather than high because the donor record itself carries no zip, occupation, or employer to cross-check.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=465090",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a99ee4563775fc48",
+  "name": "Henderson, Yvonne",
+  "resolved_employer": "Travis County — Precinct 4 Clerk (self-reported on the campaign finance filing as occupation \"Pct 4 Clerk\", employer \"Travis Co\")",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Identity rests on the filing's own self-reported occupation/employer: a Travis County Precinct 4 clerk who gave $150 to George Morales on 2017-05-30. Morales (George Morales III) was elected Travis County Constable for Precinct 4 in 2016 and was serving in that office in 2017, so the donation pattern is an office staffer giving to the Precinct 4 elected official she worked under. Address is Lockhart, TX 78644 (Caldwell County), a common commuter origin for Travis County staff. No independent bio, LinkedIn, or news profile was found; she does not appear on the current Precinct 4 command staff roster (which is a 2026 roster and lists sworn deputies, not clerical staff). Classified via the categorize-by-employer fallback.",
+  "source_url": "https://ballotpedia.org/George_Morales_III",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d727d6cbf4addc9e",
+  "name": "Griffith, Harry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Record has no zip, occupation, employer, or location, so the specific person cannot be corroborated. Web/FEC/OpenSecrets searches surfaced no Austin-area Harry Griffith with a matching donation pattern; the only Austin hit was an unverifiable people-search directory listing (age 75) that returned HTTP 403 and could not be read. Other public 'Harry Griffith' figures (a Missouri attorney at Branson, Brinkop, Griffith & Strong; a Harry D. Griffith on Illinois bank boards in Highwood/Lake Forest) are not Austin-area and are not the same person. The 189 federal donations with a Democratic lean are consistent with a recurring ActBlue small-dollar giver, but no FEC record was retrievable to confirm identity (api.open.fec.gov returned HTTP 429 and fec.gov's search UI is JS-rendered). Not classified.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harry+Griffith&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e948cbea2d65b9b6",
+  "name": "Butts, Sally",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer of her own is discoverable for this donor, so no industry is assigned. UNVERIFIED LEAD FOR MANUAL FOLLOW-UP (recorded here, deliberately NOT as an affiliation): people-search directories place a Sally Butts in zip 78757 and name a David Butts among her listed relatives; an Austin political consultant and registered City of Austin lobbyist shares that name. This linkage rests solely on commercial people-search aggregator data — no primary record confirms any household relationship, the city lobbyist detail page returned HTTP 503 and could not be read, and the name is common. It does not meet the evidentiary bar for an affiliation and must not be treated as one without primary-source confirmation.",
+  "source_url": "https://information.com/people/sally-butts/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f0587df1eb53cd0a",
+  "name": "Pace, Barbra",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists occupation and employer as 'Na' (i.e., not applicable / none given) with a residence in Elgin, TX 78621. No public profile, business listing, obituary, news mention, or professional record for a Barbra Pace in Elgin or Bastrop County was found. Zero federal donations on record, and no Texas Ethics Commission lobbyist registration under this name. No employer information exists to support even a fallback industry classification, so industry is left null. A genuinely quiet, ordinary small-dollar donor as far as the public record shows.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "33e51553dbc58aa3",
+  "name": "Swift, Anne",
+  "resolved_employer": "Endeavor Real Estate Group (Principal, office & industrial project leasing)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Anne Swift is a Principal at Endeavor Real Estate Group in Austin, leading office and industrial project leasing; her firm bio (read in full) credits her with leasing at The Grove and The Domain, repositioning Frost Bank Tower and 300 West 6th, and transactions with Google, Meta and Deloitte, and lists a BS in Finance from UT-Austin's McCombs School. She is the only Anne Swift in Austin with a substantial public professional footprint (the other local match is a clinical social worker on Clubway Ln). Identity is medium rather than high confidence because the donor record's home zip 78731 (Northwest Hills) could not be independently tied to her — Endeavor's address is 500 W 5th St, 78701 — and the county filing carries no occupation or employer field to corroborate. Endeavor is a major Central Texas developer with active business before the Travis County Commissioners Court (the Dog's Head development financing reviewed by Commissioner Travillion), which makes the giving pattern consistent but is not itself proof of identity.",
+  "source_url": "https://www.endeavor-re.com/about/team/anne-swift/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Endeavor Real Estate Group, LLC",
+    "role": "Principal, office & industrial project leasing",
+    "category": "business",
+    "source_url": "https://www.endeavor-re.com/about/team/anne-swift/",
+    "snippet": "Firm bio: 'Anne is responsible for office and industrial project leasing in Austin, Texas' as a Principal at Endeavor Real Estate Group, a major Central Texas commercial developer."
+   },
+   {
+    "org": "Seton Development Board",
+    "role": "Board member (previously Elisabeth Ann Seton Board)",
+    "category": "civic",
+    "source_url": "https://www.endeavor-re.com/about/team/anne-swift/",
+    "snippet": "Firm bio: 'she serves on the Seton Development Board' and previously held board positions with the Elisabeth Ann Seton Board and the Commercial Brokers Association."
+   }
+  ]
+ }
+]

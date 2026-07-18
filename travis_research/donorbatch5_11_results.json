@@ -1,0 +1,370 @@
+[
+  {
+    "donor_id": "f8bcb14c6f5e7cc9",
+    "name": "Brooks, Meg",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not corroborate identity. The only public Austin 'Meg Brooks' with a professional footprint is an attorney (State Bar #03070775, licensed 1990, criminal law and wills/trusts/probate, formerly Travis County District Attorney's Office, license now Inactive), but her listed practice address is Austin 78720 (a PO-box ZIP), not the donor's residential 78723-1932, so the match is name-only and not corroborated by ZIP, occupation (filed blank), or donation pattern. A separate name-only hit on mineralholders.com for a 'Meg Brooks' of Austin holding 5 mineral interests had no ZIP corroboration and was deliberately NOT recorded as an oil_gas affiliation. The 159-donation / 0.957 Democratic-lean FEC profile is consistent with a small-dollar recurring ActBlue donor but returned no name+ZIP-matched contributor record disclosing an employer.",
+    "source_url": "https://www.martindale.com/attorney/ms-meg-brooks-1638611/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "11ebdfedf3121f82",
+    "name": "Hart, Kevin",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Not identifiable. 'Kevin Hart' is an extremely common name further swamped in search by the comedian; no Cedar Park / 78613 resident by that name could be located in LinkedIn, business, news, obituary, or Cedar Park civic/candidate sources. The nearest Cedar Park matches are different people (Brian Hart, Southwest Airlines pilot, 78613; Kevin Harris, Cedar Park City Council member). The 261-donation FEC record at a near-neutral 0.599 lean is almost certainly a name-collision aggregate across multiple unrelated Kevin Harts nationally rather than one Cedar Park donor, and so is not usable as identity corroboration. No Texas Ethics Commission lobbyist registration for Kevin Hart in any registry year searched. Filed occupation blank, no employer string to fall back on, so no industry assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "61f8bca24e09e78a",
+    "name": "Bush, Allison",
+    "resolved_employer": "Public education advocate and fundraiser; former Executive Director, Pflugerville ISD Education Foundation; 2026 Democratic candidate for Texas State Board of Education District 5",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed by exact ZIP match: Teach the Vote (ATPE) lists candidate Allison Bush as Democrat, Pflugerville, TX 78660, occupation 'Business Development - Education', matching the donor's Pflugerville 78660-6375 address; her Democratic-primary candidacy and 1.0 Democratic FEC lean over 6 donations are consistent with the 2025-08-31 gift to Travis County Commissioner Jeff Travillion. Full bio read: 25+ years in education as teacher, school counselor, and nonprofit executive — Executive Director of the Pflugerville Education Foundation, Partnerships Coordinator for Bastrop ISD, career/college readiness counselor at American YouthWorks, theater and speech teacher at Crosby ISD.",
+    "source_url": "https://teachthevote.atpe.org/Candidates/Allison-Bush",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Allison Bush for Texas State Board of Education, District 5",
+        "role": "Democratic candidate (advanced to 2026 Democratic primary runoff)",
+        "category": "political",
+        "source_url": "https://teachthevote.atpe.org/Candidates/Allison-Bush",
+        "snippet": "Listed as Democrat, Pflugerville TX 78660, candidate for Texas State Board of Education District 5; advanced to a runoff in the 2026 Democratic primary, endorsed by the Austin Chronicle and multiple school board members."
+      },
+      {
+        "org": "Pflugerville ISD / Pflugerville Education Foundation",
+        "role": "Executive Director",
+        "category": "civic",
+        "source_url": "https://www.allisonfortx.com/about",
+        "snippet": "Bio lists her as Executive Director of the Pflugerville ISD/Pflugerville Education Foundation, where she created a grant reform system that raised teacher grant applications from 32 to 231 and generated roughly $500,000 in funding."
+      },
+      {
+        "org": "Texas Association of Partners in Education",
+        "role": "President (2010); board member",
+        "category": "civic",
+        "source_url": "https://www.allisonfortx.com/about",
+        "snippet": "Board memberships and volunteer roles have included the Hays CISD Education Foundation, Kaufman ISD Education Foundation, Pflugerville Chamber of Commerce, and Texas Association of Partners in Education, serving as President in 2010."
+      },
+      {
+        "org": "Pflugerville Chamber of Commerce",
+        "role": "Board member / volunteer",
+        "category": "business",
+        "source_url": "https://www.allisonfortx.com/about",
+        "snippet": "Listed among her board memberships and volunteer roles alongside two ISD education foundations and the Texas Association of Partners in Education."
+      }
+    ]
+  },
+  {
+    "donor_id": "142b0acdef28f5e4",
+    "name": "Hibpshman, Karen",
+    "resolved_employer": "Carl T. Madsen, Inc. (community/HOA association management); community association manager, previously Association Manager for the Circle C HOA in Austin",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Rare surname with a single Central Texas match, corroborated on location: Hays Free Press coverage places Karen Hibpshman as a Buda resident whose home on Goforth Road flooded in the 2013 Halloween flood, consistent with the donor's Buda, TX 78610-9502 address. Her professional footprint is community association (HOA) management — profiles list her with Carl T. Madsen, Inc. and as Community/Association Manager for the Circle C HOA in Austin, with a prior role for Alliance in Georgetown, TX. Employer classified per the categorize-by-employer fallback; confidence held at medium because the LinkedIn bio page returns HTTP 999 to automated fetch and the employer detail rests on search-surfaced profile text rather than a full page read. No FEC contributor record and no Texas Ethics Commission lobbyist registration under Hibpshman in any registry year searched.",
+    "source_url": "https://www.linkedin.com/in/karen-hibpshman-7b5a4711/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "02193f3da2111711",
+    "name": "Yvonne M. Williams Campaign, J.P.",
+    "resolved_employer": "Campaign committee of Judge Yvonne M. Williams, Travis County Justice of the Peace, Precinct 1 (not an individual donor)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as a political committee, not a person: this is the campaign of Judge Yvonne Michelle Williams, elected Travis County Justice of the Peace Precinct 1 in November 2010, seated January 2011, term running through December 31, 2026. The committee's Texas Ethics Commission mailing address is PO Box 142248, Austin, TX 78714-2248 (treasurer Albert Black), which matches the filed donor ZIP of 78714 and confirms the entity; the 2017-10-23 gift to Commissioner Brigid Shea is a committee-to-committee transfer between two Travis County Democratic officeholders. Full bio read: Williams previously served as an Associate Municipal Court Judge for the City of Austin and as a hearings officer for the then Texas Workers' Compensation Commission, and began as a civil rights trial attorney in federal court in the 1980s. Because the filer is a committee rather than a natural person, the FEC individual-contributor and lobbyist-registry checks returned nothing attributable.",
+    "source_url": "https://ballotpedia.org/Yvonne_Williams_(Texas)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Yvonne M. Williams Campaign (Justice of the Peace, Precinct 1, Travis County)",
+        "role": "Candidate/officeholder campaign committee",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Yvonne_Williams_(Texas)",
+        "snippet": "Yvonne Williams is a judge for Precinct 1 of the Travis County Justice of the Peace in Texas; she assumed office in 2011 and her current term ends December 31, 2026. She won the Democratic primary in 2018 and again in 2022."
+      },
+      {
+        "org": "Travis County Justice of the Peace, Precinct 1",
+        "role": "Elected Justice of the Peace (Democrat), 2011-present",
+        "category": "political",
+        "source_url": "https://www.traviscountytx.gov/justices-of-peace/jp1",
+        "snippet": "Travis County's official Precinct 1 page identifies Judge Yvonne M. Williams as the sitting Justice of the Peace for Precinct 1."
+      }
+    ]
+  },
+  {
+    "donor_id": "1a5c571b58accd25",
+    "name": "Bedrosian, Arthur",
+    "resolved_employer": "International Veterinary Sciences LLC (CEO & partner since June 2018); formerly President/CEO of Lannett Company Inc., generic pharmaceuticals",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Arthur P. Bedrosian, longtime CEO of generic-drug maker Lannett Company (President 2002, CEO 2006-2018), became CEO/partner of International Veterinary Sciences in June 2018; his LinkedIn lists him in the Austin, Texas Metropolitan Area, consistent with the 78735 (southwest Austin) address and with a donation to Commissioner Ann Howard, whose precinct covers that area. Surname is rare and no other Arthur Bedrosian is associated with Austin, but no public record directly ties him to the 78735 address, so identity rests on name+metro rather than a documented address. Note the tension in the record: his only confirmed federal giving is Republican (two 2015 contributions to Sen. Pat Toomey) from his Philadelphia 19107 address during his Lannett tenure, while this local gift went to a Democrat.",
+    "source_url": "https://www.petage.com/international-veterinary-sciences-names-new-ceo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Lannett Company, Inc.",
+        "role": "President (2002-2006), Chief Executive Officer (2006-2018)",
+        "category": "business",
+        "source_url": "https://www.petage.com/international-veterinary-sciences-names-new-ceo/",
+        "snippet": "Served as CEO of Lannett Company, a publicly traded generic pharmaceutical firm, growing revenue from $10 million in fiscal 2000 to $700 million by fiscal 2018."
+      },
+      {
+        "org": "International Veterinary Sciences (IVS)",
+        "role": "Chief Executive Officer and Partner",
+        "category": "business",
+        "source_url": "https://www.petage.com/international-veterinary-sciences-names-new-ceo/",
+        "snippet": "Bedrosian was appointed chief executive officer and partner of International Veterinary Sciences in June 2018."
+      },
+      {
+        "org": "Friends of Pat Toomey (Sen. Pat Toomey, R-PA)",
+        "role": "Individual federal contributor ($400 and $100, 02/27/2015, from zip 19107, listed as Lannett Co. Inc./CEO)",
+        "category": "political",
+        "source_url": "https://www.city-data.com/elec2/16/elec-PHILADELPHIA-PA-16-part1.html",
+        "snippet": "ARTHUR P BEDROSIAN (LANNETT CO. INC/CEO), (Zip code: 19107) $400 to FRIENDS OF PAT TOOMEY on 02/27/2015."
+      }
+    ]
+  },
+  {
+    "donor_id": "80532788c61eb904",
+    "name": "Blakesee, Julie",
+    "resolved_employer": "Julie Blakeslee Projects, LLC (self-employed landscape/garden designer); owner of Big Red Sun, Austin landscape design firm",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "The filed surname is a typo for Blakeslee. Julie Blakeslee is a self-employed Austin landscape and garden designer who owns Big Red Sun; her business, Julie Blakeslee Projects, LLC, is registered to 3501 Woodrow St, Austin, TX 78705 — an exact match for the donor's 78705 zip, and consistent with the filed occupation 'Designer' / employer 'Self'. Federal records list a 'Julie Blakeslee, self-employed, garden design, Austin TX' contributing $15,000 to Obama Victory Fund 2012, further corroborating the same person and her Democratic giving pattern.",
+    "source_url": "https://opengovus.com/texas-taxpayer/32079344647",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Big Red Sun",
+        "role": "Owner / landscape designer",
+        "category": "business",
+        "source_url": "https://pegasusplanninganddevelopment.wordpress.com/2013/03/17/big-red-suns-julie-blakeslee-talks-landsacpe-design/",
+        "snippet": "Julie Blakeslee is the owner of Big Red Sun, 'one of the best known design companies in Austin,' specializing in landscape design with an office and showroom on the Eastside."
+      },
+      {
+        "org": "Julie Blakeslee Projects, LLC",
+        "role": "Principal / registered taxpayer at 3501 Woodrow St, Austin TX 78705",
+        "category": "business",
+        "source_url": "https://opengovus.com/texas-taxpayer/32079344647",
+        "snippet": "Julie Blakeslee Projects, LLC - 3501 Woodrow St, Austin, TX 78705-1733, Travis County."
+      }
+    ]
+  },
+  {
+    "donor_id": "8d8cee6c43756e9c",
+    "name": "Zeugin, Sharon",
+    "resolved_employer": "Sharon Zeugin Calligraphy (self-employed calligrapher, fine artist, and graphic recorder); faculty, Austin Contemporary Art School",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Sharon Zeugin is a working calligrapher, fine artist and graphic-recording practitioner whose sole-proprietor business, Sharon Zeugin Calligraphy, is listed in Austin, TX 78704 — an exact match for the donor's zip on a rare surname. She teaches at the Austin Contemporary Art School, has led the Literally Letters program at Ghost Ranch, NM, trained in calligraphy at the Roehampton Institute (University of Surrey, London), and has a prior background as a therapist/social worker. Her fec_lean of 1.0 across 59 federal donations is consistent with a small-dollar Democratic donor and with this gift to Commissioner Brigid Shea. No PAC ties, no lobbyist registration.",
+    "source_url": "https://www.chamberofcommerce.com/business-directory/texas/austin/miscellaneous/31120524-sharon-zeugin-calligraphy",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0b5aa23f8d84b80c",
+    "name": "Wallace, Larry",
+    "resolved_employer": "Dr. Larry Wallace Jr. - President, Wallace Brothers & Associates; U.S. Army officer (retired June 2017); later Mayor of Manor, TX and Chief of Staff to Austin Council Member Natasha Harper-Madison",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Best match is Dr. Larry Wallace Jr., a retired U.S. Army captain (1999-2017, Deputy Chief of Staff, U.S. Army Special Operations Aviation Command; Bronze Star) who is a fixture of East Austin/Travis County Precinct 1 civic life: a Precinct 1 appointee to the Travis County Citizens Bond Advisory Committee, later Chief of Staff to Council Member Natasha Harper-Madison (District 1), and the first African American mayor of Manor, TX in 2019. Travillion is the Precinct 1 commissioner, so the donation pattern corroborates this person over the alternative Austin 'Larry P. Wallace' in aerospace/energy. Confidence held at medium because the May 2017 gift date precedes his Army retirement, no source confirms a 78702 address, and the 0.248 fec_lean across 40 donations conflicts with his documented Democratic affiliation (likely national name-collision noise; he ran as a Democrat for TX-10 in 2022).",
+    "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-1-appointees/10-dr-larry-wallace-jr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Citizens Bond Advisory Committee",
+        "role": "Precinct 1 appointee",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-1-appointees/10-dr-larry-wallace-jr",
+        "snippet": "Dr. Larry Wallace Jr. is listed among the Precinct 1 Appointees to the Travis County Citizens Bond Advisory Committee."
+      },
+      {
+        "org": "Black Men's Health Clinic",
+        "role": "Board President / Board Chair",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-1-appointees/10-dr-larry-wallace-jr",
+        "snippet": "Primary role listed as 'Board President at Black Men's Health Clinic.'"
+      },
+      {
+        "org": "Texas Veterans Commission - Veterans Services Advisory Committee",
+        "role": "Vice Chair (also Chair, Texas Veterans Leadership Task Force)",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-1-appointees/10-dr-larry-wallace-jr",
+        "snippet": "Texas Veterans Commission - Veterans Services Advisory Committee Vice Chair; Texas Veterans Leadership Task Force - Chair."
+      },
+      {
+        "org": "Austin/Travis County Sobering Center; Austin/Travis County Public Health Commission; City of Austin Resiliency HUB Advisory Committee; Boy Scouts of America Capitol Area Council",
+        "role": "Board member / commission member / executive board member",
+        "category": "civic",
+        "source_url": "https://www.traviscountytx.gov/citizens-bond-advisory-committee/precinct-1-appointees/10-dr-larry-wallace-jr",
+        "snippet": "Listed affiliations include Austin/Travis County Sobering Center board member, Austin/Travis County Public Health Commission member, City of Austin Resiliency HUB Advisory Committee member, and Boy Scouts of America Capitol Area Council Executive Board member."
+      },
+      {
+        "org": "City of Manor, Texas",
+        "role": "Mayor (first African American mayor, sworn in November 2019); 2022 Democratic candidate for U.S. House TX-10",
+        "category": "political",
+        "source_url": "http://larrywallacejr.com/about-larry/",
+        "snippet": "He served as Mayor of Manor, Texas, stepping down from his university position during COVID-19 to focus on municipal leadership."
+      }
+    ]
+  },
+  {
+    "donor_id": "31f7921c2b5b4686",
+    "name": "Carlos Lopez Campaign",
+    "resolved_employer": "Campaign committee of Carlos B. Lopez, Travis County Constable, Precinct 5 (not an individual donor)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "This is a political committee, not an individual. The only Travis County officeholder named Carlos Lopez is Carlos B. Lopez, elected Constable of Precinct 5 (in office since 2012-2013), a Travis County employee since 1980 who rose from Deputy Constable to Chief Deputy to Constable. He was in office and maintaining an active campaign committee in May 2017, and a county constable's committee contributing to a sitting county commissioner (Travillion) is a routine intra-county officeholder transfer. He is a Democrat, consistent with the fec_lean of 1.0, and 78703 falls within the central-Austin area his precinct covers. Note: 'Justice Precinct 5' in his ballot title refers to the precinct's jurisdiction, not a Justice of the Peace office. Confidence is medium because the committee's own filed address was not independently verified against 78703.",
+    "source_url": "https://www.constable5.com/carlos-b-lopez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Constable's Office, Precinct 5",
+        "role": "Elected Constable (since 2012); Travis County law enforcement employee since 1980",
+        "category": "political",
+        "source_url": "https://www.constable5.com/carlos-b-lopez/",
+        "snippet": "Carlos B. Lopez has served in progressively responsible positions within Travis County since 1980, advancing from Deputy Constable to Chief Deputy before assuming the constable position; holds a Master Peace Officer License and received a 45-year Travis County longevity certificate in 2023."
+      },
+      {
+        "org": "Men as Allies (domestic violence prevention); Silver Watch Program with Meals on Wheels",
+        "role": "Chair of Men as Allies; founder of the Silver Watch Program",
+        "category": "civic",
+        "source_url": "https://www.constable5.com/carlos-b-lopez/",
+        "snippet": "He serves as chair of the Men as Allies program and founded the Silver Watch Program partnering with Meals on Wheels, with volunteer work focused on domestic violence prevention and youth engagement."
+      }
+    ]
+  },
+  {
+    "donor_id": "46624892b084f1c9",
+    "name": "Malcolm, Edward",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not identify this person. No Austin-area professional profile, bio page, news mention, or public-records listing for an Edward/Ed Malcolm in 78701 (downtown Austin) was found; the only 'Edward Malcolm' profiles located are in the UK (London) and Washington DC, neither corroborated by zip, occupation, or donation pattern. Campaign record lists no occupation. FEC individual-contributor corroboration was attempted but the FEC API returned HTTP 429 and OpenSecrets returned 403 for the duration of the session, so the 29 FEC donations could not be inspected directly. Confirmed NOT a registered lobbyist: absent from both the Texas Ethics Commission registered-lobbyist lists and the City of Austin City Clerk lobbyist registry. Note the $70 gift to Travillion on 2017-05-10 is the same amount and date as donor Freddie Brown, consistent with a shared fundraiser event.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bd82433ed8e14a9f",
+    "name": "Brown, Freddie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not identify this person. The only substantive 'Freddie Brown' record found is an FMCSA SAFER carrier snapshot (USDOT 2542217, DBA 'Blackjack Solutions', general freight and oilfield equipment) but its physical address is in Converse, TX 78109 near San Antonio — it does not match the donor's Austin 78753 zip and is therefore treated as a different person, NOT as evidence of an oil-and-gas tie. No other Austin-area profile corroborated by zip or occupation was found; campaign record lists no occupation. Direct FEC individual-contributor lookup was unavailable (api.open.fec.gov HTTP 429, OpenSecrets 403), so the 15 FEC donations could not be inspected. Confirmed NOT a registered lobbyist: no Freddie Brown in the TEC registered-lobbyist lists, and the City of Austin lobbyist registry lists only Amanda Brown and April A. Brown. Same $70 amount and same 2017-05-10 date as donor Edward Malcolm, consistent with a shared Travillion fundraiser.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f943b75dcb77e6fe",
+    "name": "Ciaccia, Ailing",
+    "resolved_employer": "Self-employed hair stylist; holds Texas Cosmetology Operator license #1519354 and operates 'Salon Ciaccia' from her home address; also listed as a hair stylist at 4001 Salon, Austin",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Rare name resolves to a single person. Texas Department of Licensing and Regulation records show Ailing Ciaccia, Cosmetology Operator, at 5712 Wellington Dr, Austin, TX 78723-3235 — an exact match to the donor's 78723 zip — with a separate 'Salon Ciaccia' cosmetology salon license at the same address, corroborating the reported occupation 'Hairstylist' and employer 'Self'. This is a categorize-by-employer fallback outcome: a self-employed service-business owner with no public policy or influence footprint. All three mandatory searches run and came back clean — no FEC PAC or ideological-committee ties surfaced (her 81 FEC donations are consistent with small-dollar recurring giving; direct FEC API inspection was blocked by HTTP 429), no TEC lobbyist registration, and no City of Austin lobbyist registration. LinkedIn returned HTTP 999 to automated retrieval; the TDLR licensing record was read in full instead and disclosed no board seats or organizational roles.",
+    "source_url": "https://opengovus.com/texas-license/COSMOS01519354",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d935d4f28c958579",
+    "name": "Gregory, Paul",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name, not resolvable to a single person — deliberately left unclassified rather than guessed. Two Austin candidates exist and neither can be tied to the donor: (1) a 'Paul L Gregory' listed in people-search aggregators at an Austin 78704 address, matching the donor zip but carrying no occupation or employer information; and (2) a Paul Gregory who is Director of Recycling and Organics at Texas Disposal Systems in Austin, whose employer would be a notable finding given TDS's landfill-permit and municipal-contract interests and given that recipient Brigid Shea is the county commissioner most associated with environmental policy — but no residence zip or address corroborates him, and the TDS org-chart page was fetched and read in full and does not list any Paul Gregory. Treating the TDS role as this donor's employer would be an unsupported inference, so no industry is assigned. No FEC record. Confirmed NOT a registered lobbyist in either the TEC or City of Austin registries.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "340bf7d26b508c37",
+    "name": "Bennett, Brooke",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confidently identify this person. Two Austin-area 'Brooke Bennett' LinkedIn profiles were located — one at Natera (genetic testing, Austin) and one a Program Specialist at the Texas Department of Insurance listed in zip 78751 — but neither corroborates the donor's 78746 West Lake Hills zip, and the campaign record lists no occupation, so no identification is asserted. Both profile pages were fetch-attempted; LinkedIn returned HTTP 999 to automated retrieval and no alternate full bio page was available. Direct FEC individual-contributor lookup was unavailable this session (api.open.fec.gov HTTP 429, OpenSecrets 403), so the 14 FEC donations could not be inspected for PAC ties. Confirmed NOT a registered lobbyist: no Brooke Bennett appears in the TEC registered-lobbyist lists (which list only Brenton E. Bennett and Richard A. Bennett) or the City of Austin lobbyist registry.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1b064af99141fc87",
+    "name": "Sutch, Patricia",
+    "resolved_employer": "Satellite Shelters, Inc. (administrative role) - modular building / mobile office leasing company",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "No personal public profile found for Patricia Sutch of Cedar Creek, TX 78612 under any search (no LinkedIn, news, bio page, obituary, or professional listing). Classification is an employer-fallback only: the filing's self-reported employer, Satellite Shelters Inc., is a real, verifiable national provider of mobile offices, modular buildings and construction job-site offices, and it operates an Austin-area branch (Cedar Park, TX) whose service area explicitly includes Bastrop — consistent with a Cedar Creek/78612 resident working there in an admin capacity. No FEC record; no Texas Ethics Commission lobbyist registration found under the surname Sutch. Individual identity is unconfirmed beyond the filing itself.",
+    "source_url": "https://www.satelliteco.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1beb4a27ba5a561c",
+    "name": "Renteria, SolAna",
+    "resolved_employer": "Self-employed - owner/operator, Salon 1936 (hair salon, Central East Austin)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "SolAna Renteria is a born-and-raised East Austinite who owns and operates Salon 1936, a full-service hair salon at 1511 Haskell St in the East Cesar Chavez neighborhood, run out of her childhood home (a historic 1936 bungalow). She began beauty school in 2002 and trained at Bumble and Bumble University (NY), Wella Color and Pivot Point. The distinctive spelling 'SolAna' plus the filing's occupation 'Hairstylist' / employer 'Self' in Austin corroborates identity to a near-unique degree; the 78744 filing zip is residential and differs from the salon's 78702 business zip. IMPORTANT: no public source connects her to former Austin City Council D3 member Sabino 'Pio' Renteria or to Susana Almanza — the shared surname and East Austin geography are suggestive but UNSOURCED, and no family link is asserted. Full read of her Salon 1936 About page shows no board seats, civic offices, or policy-advocacy roles. TEC lobbyist search returned no registration. The 4 FEC donations could not be individually itemized (FEC API HTTP 429), so no federal PAC affiliation is claimed.",
+    "source_url": "https://www.salon1936.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Salon 1936",
+        "role": "Owner / operator (small business)",
+        "category": "business",
+        "source_url": "https://www.salon1936.com/about",
+        "snippet": "Salon 1936 is 'a modern, full service hair salon located in my childhood home, a historic 1936 bungalow in Central East Austin,' owned and operated by SolAna Renteria, a 'born and raised East Austinite.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "465a884c35d15ca8",
+    "name": "Morales, Michae",
+    "resolved_employer": "Republic Services (waste management / environmental services) - per filing; individual unverified",
+    "industry": "Energy / Environment",
+    "confidence": "low",
+    "evidence": "Donor name appears truncated in the filing ('Michae' - Michael or Michaela) and the occupation field 'BTWI' is not a recognizable job title. No public profile could be matched to any Michael/Michaela Morales in Kyle, TX 78640 employed by Republic Services; the name is extremely common in Central Texas and no zip, occupation, or employer detail could be independently corroborated. Industry is an employer-fallback only, based on the self-reported employer Republic Services, a waste-management/environmental-services company ('Energy / Environment' is the closest taxonomy label). No FEC record. No Texas Ethics Commission lobbyist registration found. On the shared surname with recipient Constable George Morales III: NO public source supports a family relationship — his published biography names his wife Maria Cristina and children Johnny and Marissa, with no Michael/Michaela mentioned. The surname match is noted as coincidence-level only and no relation is asserted.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "600713ba808d360c",
+    "name": "Jackson, Edward",
+    "resolved_employer": "Travis County Sheriff's Office - Captain, Corrections Bureau (Inmate Logistics and Processing)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Matches Captain Edwardo Jackson on the official TCSO command-staff roster: born in Austin, joined TCSO in 2000 as a Security Coordinator, became a Corrections Officer in 2004, and was appointed Captain by Sheriff Sally Hernandez in April 2022, overseeing the Central Booking Facility, Travis County Jail, Records and Property. He holds Certified Jail Manager, Master Jailer and Peace Officer licenses and is a National Jail Leadership Command Academy (Class #43) graduate. The filing's self-reported occupation 'TCSO' / employer 'TCSO Captain' matches the roster exactly, and he is the only Jackson at captain rank in the agency. NAME CAVEAT: the filing reads 'Edward' while the official roster and his LinkedIn read 'Edwardo' — treated as a filing-entry truncation, not a different person, given the unique rank+agency match. Driftwood/78619 is a Hays County suburb within commuting range of TCSO facilities; residence zip is not independently confirmed. No FEC contribution record. No TEC lobbyist registration.",
+    "source_url": "https://www.tcsheriff.org/about/about-tcso/command-staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Jail Association",
+        "role": "President (2024 term); Board member and Awards Committee co-chair; member since 2015",
+        "category": "civic",
+        "source_url": "https://texasjailassociation.com/past-presidents.html",
+        "snippet": "TJA's official past-presidents list records Edwardo Jackson as president for 2024, with a traviscountytx.gov contact address. TCSO's command-staff bio adds that he has been an active TJA member since 2015, served the 2023-2024 presidential term, and received TJA Distinguished Service Awards in 2019 and 2022."
+      }
+    ]
+  },
+  {
+    "donor_id": "9a9fb591d14331ec",
+    "name": "Moreno, Gilbert",
+    "resolved_employer": "Retired - former career not identifiable",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Filing self-reports occupation 'Retierd' (sic) and employer 'Retired' with no prior-career detail. No public record could be matched to a Gilbert Moreno in Austin, TX 78745: searches surfaced only same-named individuals in San Antonio, Houston, Keller and elsewhere, plus unrelated obituaries, none corroborated by the 78745 zip or any Austin/Travis County tie. Per the retirees rule a former career would drive the industry label, but none is identifiable from any public source, so industry is left null rather than guessed. No FEC contribution record. No Texas Ethics Commission lobbyist registration under this name. No bio, LinkedIn, or professional profile page exists to read.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

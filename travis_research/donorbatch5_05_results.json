@@ -1,0 +1,443 @@
+[
+  {
+    "donor_id": "34b0d415d50a19f7",
+    "name": "Cooksey, Frank",
+    "resolved_employer": "Self-employed attorney/counselor (retired); former Mayor of Austin, 1985-1988",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Frank Cloud Cooksey (1933-2025), retired Austin attorney and 51st Mayor of Austin (1985-1988), a civil-rights trial attorney for DOJ and the Texas AG's office who practiced law ~40 years; a Frank Cooksey in Austin ZIP 78703 listed as 'NOT EMPLOYED' (i.e. retired) made a $100 ActBlue contribution on 09/05/2020, and a LinkedIn profile lists 'Frank Cooksey - Attorney - Self Employed Attorney/Counselor / Retired' in Austin. He was alive and 88 in Oct 2021; the recipient, Ann Howard, is a Democratic Travis County commissioner with an environmental/homelessness portfolio matching Cooksey's lifelong progressive-environmental record. No competing Austin Frank Cooksey with a public political-giving footprint was found. Donor-record ZIP is blank, so identification rests on name rarity plus the corroborating Austin donor record.",
+    "source_url": "https://en.wikipedia.org/wiki/Frank_C._Cooksey",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin",
+        "role": "Mayor, 1985-1988",
+        "category": "political",
+        "source_url": "https://www.kut.org/austin/2025-12-16/austin-tx-mayor-frank-cooksey-environmentalist-progressive-barton-springs",
+        "snippet": "Cooksey held the mayoral office from 1985 to 1988; he championed the Comprehensive Watersheds Ordinance protecting Edwards Aquifer water quality and helped establish the Edwards Aquifer Underground Water District."
+      },
+      {
+        "org": "U.S. Department of Justice, Civil Rights Division",
+        "role": "Civil rights trial attorney (voting rights cases, Mississippi and Alabama)",
+        "category": "civic",
+        "source_url": "https://www.kut.org/austin/2025-12-16/austin-tx-mayor-frank-cooksey-environmentalist-progressive-barton-springs",
+        "snippet": "Before becoming mayor, Cooksey worked as a civil rights trial attorney for the Department of Justice, specializing in voting rights cases in Mississippi and Alabama."
+      }
+    ]
+  },
+  {
+    "donor_id": "385ce30c966bc98d",
+    "name": "McAfee, Mark",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records aggregators place a Mark T. McAfee, age ~70, at 5003 Ridge Oak Dr, Austin, TX 78731-4727 — an exact match to the donor's ZIP+4 — but no occupation, employer, bio page, or professional profile could be tied to that address. At least 18 Mark McAfees live in Texas, most in the Austin area, with unrelated profiles (GuidePoint Security, Texas Education Agency, SAS data analyst) that cannot be linked to this address. The FEC-lean-1.0 pattern across 102 donations indicates a consistent Democratic small-dollar donor, consistent with the $125 to Brigid Shea, but that alone does not establish an employer. No employer or occupation information exists to support even a categorize-by-employer fallback, so industry is left null.",
+    "source_url": "https://www.spokeo.com/Mark-Mcafee/Texas/Austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c7e97dab1f8e856",
+    "name": "Alter, Alison",
+    "resolved_employer": "City of Austin (Council Member, District 10, 2017-2025); founder, Alter Advising LLC (philanthropic advising)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Alison Alter was the sitting Austin City Council Member for District 10 in November 2021, living in the Rosedale neighborhood of Austin; she founded the philanthropic-advising firm Alter Advising in 2013 and holds a Ph.D. from Harvard and a B.A. from Stanford. The name is uncommon in Austin, and a $125 gift from a sitting Democratic council member to Travis County Commissioner Jeff Travillion ahead of his 2022 primary, plus an FEC lean of 1.0 across 57 donations, is consistent with her profile. Confidence is medium rather than high because the donor record carries no ZIP, so identity rests on name rarity and donation pattern rather than an address match. Not a registered Texas lobbyist (the only similar TEC entry is 'Edwards, Alison T.').",
+    "source_url": "https://ballotpedia.org/Alison_Alter",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin City Council, District 10",
+        "role": "Council Member (2017-2025); Chair, Audit and Finance Committee",
+        "category": "political",
+        "source_url": "https://www.alisonalter.com/about",
+        "snippet": "Elected to Austin City Council District 10 in December 2016, she serves as Chair of the Audit and Finance Committee and holds memberships on several city committees including Mobility, Austin Energy Oversight, and Austin Water Oversight."
+      },
+      {
+        "org": "Just Fund It TX",
+        "role": "Co-founder (school finance reform advocacy)",
+        "category": "civic",
+        "source_url": "https://www.alisonalter.com/about",
+        "snippet": "Notable contributions include leading the Ramsey Park renovation campaign, co-founding Just Fund It TX for school finance reform advocacy, and serving on the Parks and Recreation Board."
+      },
+      {
+        "org": "Alter Advising, LLC",
+        "role": "Founder / philanthropic advisor (2013- )",
+        "category": "business",
+        "source_url": "http://alteradvising.com/about/",
+        "snippet": "She launched her own business, a philanthropic advising practice, in 2013; individuals, families and foundations hire Alter Advising to help them pursue their philanthropy more strategically."
+      }
+    ]
+  },
+  {
+    "donor_id": "40be1c094f3ca214",
+    "name": "Ferguson, Frances",
+    "resolved_employer": "NeighborWorks America (Program Officer/Manager, Austin); Board President, HousingWorks Austin",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Frances Ferguson is an Austin affordable-housing professional: Program Officer at NeighborWorks America, Board President of HousingWorks Austin, founder of Foundation Communities, and formerly a consultant to Catellus on the Mueller redevelopment's affordable-housing plan; she holds an MBA in Real Estate and Finance from UT Austin. An independent contribution record lists Frances Ferguson, NeighborWorks America, Austin 78704, giving $100 to Biden for President on 09/01/2020 — corroborating the heavy Democratic small-dollar pattern (327 donations, lean 1.0). The $125 to Ann Howard, whose portfolio and prior career (ECHO homelessness coalition) sit squarely in Ferguson's affordable-housing/homelessness field, further corroborates identity. Not a registered Texas lobbyist.",
+    "source_url": "https://housingworksaustin.org/news/meet-housingworks-austin-board-president-frances-ferguson-an-affordable-housing-trailblazer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "HousingWorks Austin",
+        "role": "Board President",
+        "category": "civic",
+        "source_url": "https://housingworksaustin.org/news/meet-housingworks-austin-board-president-frances-ferguson-an-affordable-housing-trailblazer/",
+        "snippet": "Bio page identifies Ferguson as Board President of HousingWorks Austin, an Austin affordable-housing research and policy-advocacy organization."
+      },
+      {
+        "org": "Foundation Communities",
+        "role": "Founder",
+        "category": "civic",
+        "source_url": "https://housingworksaustin.org/news/meet-housingworks-austin-board-president-frances-ferguson-an-affordable-housing-trailblazer/",
+        "snippet": "Ferguson founded Foundation Communities, assembling a board to create a nonprofit with a business model for high-quality rental housing with active resident communities."
+      },
+      {
+        "org": "NeighborWorks America",
+        "role": "Program Officer / Program Manager (Austin)",
+        "category": "business",
+        "source_url": "https://housingworksaustin.org/news/meet-housingworks-austin-board-president-frances-ferguson-an-affordable-housing-trailblazer/",
+        "snippet": "Program Officer, NeighborWorks America — a national intermediary providing grants, training, and research/development in community development, focused on nonprofit affordable rental housing providers."
+      }
+    ]
+  },
+  {
+    "donor_id": "4851dbeebc956bdd",
+    "name": "House, Melonie",
+    "resolved_employer": "Retired (former small-business owner); chair/president, Martin Luther King Neighborhood Association and co-chair, East MLK Contact Team; 2022 Austin City Council District 1 candidate",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Melonie House-Dixon of 1602 Astor Place, Austin TX 78721 — an exact zip match to the donor record — is a retired East Austinite who has chaired the MLK Neighborhood Association since 2017 and ran for Austin City Council District 1 in the Nov. 8, 2022 general election, losing to incumbent Natasha Harper-Madison. Her Aug. 24, 2022 gift to Travis County Commissioner Jeff Travillion (Pct. 1, which overlaps her East Austin district) falls during her own council campaign, corroborating the identity. TEC lobbyist registry shows no registration; FEC record shows no federal contributions.",
+    "source_url": "https://ballotpedia.org/Melonie_House-Dixon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Martin Luther King Neighborhood Association (Austin)",
+        "role": "Chair / President",
+        "category": "civic",
+        "source_url": "https://www.crowdpac.com/campaigns/415272/melonie-house-dixon-for-district-1",
+        "snippet": "Began community advocacy as Chair for the Martin Luther King Neighborhood Association in 2017 because of the inequities of residing on the East side of I-35."
+      },
+      {
+        "org": "East MLK Contact Team",
+        "role": "Co-chair",
+        "category": "civic",
+        "source_url": "https://www.crowdpac.com/campaigns/415272/melonie-house-dixon-for-district-1",
+        "snippet": "As Co-Chair of the EMLK Contact Team, she helped negotiate the biggest package of community benefits for a development in East Austin history, at the Regiene Rd project."
+      },
+      {
+        "org": "Bethany Cemetery Association",
+        "role": "Re-founder / organizer",
+        "category": "civic",
+        "source_url": "https://www.crowdpac.com/campaigns/415272/melonie-house-dixon-for-district-1",
+        "snippet": "She re-established the Bethany Cemetery Association to preserve this historical landmark in District 1, and held community clean ups to honor this sacred space."
+      },
+      {
+        "org": "Austin City Council District 1 campaign (2022)",
+        "role": "Candidate",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Melonie_House-Dixon",
+        "snippet": "Melonie House-Dixon ran for election to the Austin City Council to represent District 1 and lost in the general election on November 8, 2022."
+      }
+    ]
+  },
+  {
+    "donor_id": "48ef62fad952857f",
+    "name": "Mangan, Andrew",
+    "resolved_employer": "United States Business Council for Sustainable Development (US BCSD) — founder and Executive Director; also founder/president of Pathway21 (Materials Marketplace platform)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "FEC individual-contribution records list an Andrew Mangan in Austin zip 78704 — matching the donor record's zip — with employer 'U.S. Business Council for Sustainable Business,' contributing to Hillary for America on 09/18/2016. That employer string corresponds to the US BCSD, which Mangan founded and directs. His sustainability/circular-economy career and his advisory seat at UT-Austin's Environmental Science Institute align with a 2017 donation to Brigid Shea, a longtime Austin environmental leader. The 'Suppliers Partnership for the Environment' lead is NOT confirmed: that group's About page names Kellen Mahoney as Executive Director and does not mention Mangan or US BCSD, so that specific attribution is ruled out.",
+    "source_url": "https://cbey.yale.edu/our-community/andy-mangan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "United States Business Council for Sustainable Development (US BCSD)",
+        "role": "Founder and Executive Director",
+        "category": "business",
+        "source_url": "https://cbey.yale.edu/our-community/andy-mangan",
+        "snippet": "Andy Mangan is co-founder and executive director of the United States Business Council for Sustainable Development (US BCSD), a non-profit association of businesses whose purpose is to create and deliver value-driven sustainable development projects in the United States."
+      },
+      {
+        "org": "Pathway21",
+        "role": "Founder and President",
+        "category": "business",
+        "source_url": "https://www.aiche.org/community/bio/andrew-mangan",
+        "snippet": "Andrew Mangan is founder and president of Pathway21, a company that enables business-to-business industrial reuse through the award-winning Materials Marketplace software platform."
+      },
+      {
+        "org": "Foundation for Sustainable Development",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://www.aiche.org/community/bio/andrew-mangan",
+        "snippet": "He currently serves on the board of the Foundation for Sustainable Development."
+      },
+      {
+        "org": "Environmental Science Institute, University of Texas at Austin",
+        "role": "Advisory Committee member",
+        "category": "civic",
+        "source_url": "https://www.aiche.org/community/bio/andrew-mangan",
+        "snippet": "A member of the Advisory Committee for the Environmental Science Institute at the University of Texas at Austin."
+      }
+    ]
+  },
+  {
+    "donor_id": "4d6cb09f7a1f75ca",
+    "name": "Robinson Parks, Shuronda",
+    "resolved_employer": "Adisa Communications (Adisa Public Relations Inc.) — founder and President/CEO",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "'Shuronda' is a rare given name and the only public Austin figure matching it is Shuronda Robinson, who founded Adisa Communications in 1995 and serves as its President/CEO — a DBE/HUB-certified Austin PR and public-engagement firm that holds a City of Austin public-engagement consulting contract and won the WTS Heart of Texas Rosa Parks Diversity Award for transportation-sector work, consistent with a 2017 gift to County Commissioner Jeff Travillion. Confidence is held at medium because the 'Parks' surname on the donor record is not corroborated in any public bio, and Adisa's listed business address is 78723 rather than the donor's 78729 (which would be a residential address). TEC lobbyist registry returned no registration; FEC shows no federal contributions.",
+    "source_url": "https://www.makingthingsclear.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Adisa Communications",
+        "role": "Founder and President/CEO",
+        "category": "business",
+        "source_url": "https://www.makingthingsclear.com/",
+        "snippet": "Founded in 1995 by Shuronda Robinson, Adisa Communications began as a one-person mission to help nonprofits share their stories; it has grown into a DBE/HUB-certified firm serving clients across Texas."
+      },
+      {
+        "org": "City of Austin (public engagement consulting contract)",
+        "role": "Contracted vendor (via Adisa Public Relations Inc.)",
+        "category": "business",
+        "source_url": "https://www.withpavilion.com/solicitations/9e3e8042-efb8-4bdf-bc34-5500dfdfcfb3/contracts/city-of-austin-tx_ma-5000-na230000026_adisa-public-relations-inc-",
+        "snippet": "City of Austin, TX contract MA 5000 NA230000026 for PUBLIC ENGAGEMENT CONSULTING SERVICES held by Adisa Public Relations Inc."
+      }
+    ]
+  },
+  {
+    "donor_id": "4e0774af615fdefd",
+    "name": "Gill, Hubert",
+    "resolved_employer": "Hubert L. Gill, Attorney at Law (solo practice, 1707 Palma Plaza, Austin TX 78703)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "The only publicly identifiable Hubert Gill in Austin is Hubert Lee Gill, a solo-practice attorney licensed in Texas since 09/16/1968 (UT School of Law) practicing labor/employment, personal injury, and wills/probate. The donor record carries no zip, so identity rests on the uncommon name plus Austin locality and a Travis County race (Ann Howard, Pct. 3, 2021); the record's 76 federal donations at a 1.0 Democratic lean are consistent with a long-tenured plaintiff-side Austin employment lawyer but no individual FEC line item confirming employer/zip could be pulled, so confidence is capped at medium. FEC PAC search surfaced no ideological-PAC contributions; TEC lobbyist registry shows no registration; bio pages (State Bar, Justia, FindLaw, Lawyer Legion) show no board seats or advocacy-organization roles.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=169003",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f0a93286466d3d4",
+    "name": "Murphy, Harriet",
+    "resolved_employer": "City of Austin Municipal Court — judge (retired); previously head of the government department at Huston-Tillotson College and a part-time private practitioner",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Hon. Harriet Mitchell Murphy (1927-2024), the first Black woman appointed to a regular judgeship in Texas (1973), who served 20 years on the Austin Municipal Court including as presiding judge. Identity corroborated by FEC individual-contribution records listing 'Harriet M. Murphy, retired, Austin TX 78754' — an exact zip match to the donor record — giving to the DNC (10/08/2020). She was alive at the time of the 2022-08-24 gift; note the death date is January 17, 2024, not 2023.",
+    "source_url": "https://law.utexas.edu/news/2024/01/23/the-hon-harriet-murphy-1929-2024/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin Municipal Court",
+        "role": "Judge, later presiding judge (1973-1993, retired)",
+        "category": "civic",
+        "source_url": "https://en.wikipedia.org/wiki/Harriet_Mitchell_Murphy",
+        "snippet": "In 1973 Murphy became 'the first African-American woman appointed to a regular judgeship in Texas.' She served on the Austin Municipal Court for twenty years."
+      },
+      {
+        "org": "National Bar Association",
+        "role": "Hall of Fame inductee (2010)",
+        "category": "civic",
+        "source_url": "https://law.utexas.edu/news/2010/08/12/judge-harriet-murphy-%E2%80%9969-inducted-into-the-national-bar-association-hall-of-fame/",
+        "snippet": "Inducted into the National Bar Association's Hall of Fame in 2010 'in recognition of her community involvement and of the significant contributions she has made to the cause of justice.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "622c17102127d01c",
+    "name": "Rutishauser, Robert",
+    "resolved_employer": "Retired CFO and nonprofit workforce/education executive — founding Executive Director, Capital Area Training Foundation (now Skillpoint Alliance); past president/chair, The Austin Project",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Best match is Robert 'Bob' Rutishauser of Austin (b. 1931, St. Louis; Cornell mechanical engineering; d. 2026), a longtime Austin civic figure: founding Executive Director of the Capital Area Training Foundation/Skillpoint Alliance, president/past chair of The Austin Project, treasurer of Austin Partners in Education, chair of the Austin Community College Foundation board, and 2011 Austin Business Journal legacy CFO of the Year. FEC individual-contribution records show a Robert Rutishauser at Austin zip 78731 making repeated small ActBlue donations ($1-$100, 2018-2019), consistent with the 6,398-donation, 0.988-Democratic-lean small-dollar pattern in this record. Rutishauser is an uncommon surname in Austin, but the donor's zip is unrecorded, so identity is corroborated by donation pattern and city rather than a direct zip match — hence medium, not high. No Texas Ethics Commission lobbyist registration and no ideological/industry PAC giving found; his federal giving appears to be ActBlue/Democratic small-dollar recurring only.",
+    "source_url": "https://www.linkedin.com/in/robert-rutishauser-a238814",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "The Austin Project",
+        "role": "President / past chair",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/robert-rutishauser-a238814",
+        "snippet": "LinkedIn profile identifies Robert Rutishauser as 'Past Chair at The Austin Project'; obituary notes he served as president of the Austin Project."
+      },
+      {
+        "org": "Capital Area Training Foundation (Skillpoint Alliance)",
+        "role": "Founding Executive Director",
+        "category": "civic",
+        "source_url": "https://www.legacy.com/us/obituaries/statesman/name/robert-rutishauser-obituary?id=61810063",
+        "snippet": "Obituary describes him as the founding Executive Director of the Capital Area Training Foundation, now known as Skillpoint Alliance."
+      },
+      {
+        "org": "Austin Community College Foundation",
+        "role": "Board chair",
+        "category": "civic",
+        "source_url": "https://www.legacy.com/us/obituaries/statesman/name/robert-rutishauser-obituary?id=61810063",
+        "snippet": "Served as chair of the Austin Community College Foundation Board and treasurer of Austin Partners in Education."
+      }
+    ]
+  },
+  {
+    "donor_id": "631f6228268b1f97",
+    "name": "John Love Campaign",
+    "resolved_employer": "Candidate campaign committee (political entity, not an individual) — specific John Love campaign not confirmed",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "The donor name is self-evidently a candidate campaign committee making a committee-to-committee transfer to Travillion, not a person, so no employer applies. The most plausible Texas match is John B. Love III, Democratic Midland City Council member (District 2, elected 2012) and Mayor Pro Tem, a financial planner who was actively fundraising in 2021 (FEC statement of candidacy filed 01/28/2021 for U.S. Senate). However, his federal committee is named 'LOVE FOR TEXAS' (C00720573), not 'John Love Campaign,' and no Texas Ethics Commission or Midland local filing under the exact name 'John Love Campaign' could be located, so the specific committee behind this $125 transfer is unconfirmed. Classified by entity type only; no affiliation asserted.",
+    "source_url": "https://www.fec.gov/data/candidate/S0TX00308/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "75e245068163808d",
+    "name": "White, Melvin",
+    "resolved_employer": "Digital Workforce Academy, Inc. — founder and program director; also president/owner of MRSW Management, LLC (workforce staffing and managed services)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Best match is Melvin White of Pflugerville (northeast Travis County, inside Travillion's Precinct 1), listed in the Texas State Directory as founder and program director of Digital Workforce Academy, Inc., board member of the Stephen F. Austin Alumni Association, and treasurer of the Texas Association of Historically Underutilized Businesses. He founded MRSW Management in 1998 after 12 years at Tracor and has run Austin-area workforce training since 1999. Geography (Pflugerville/Travis Co.) and a workforce-development profile fit a Travillion donor; the donor record has no zip and 'Melvin White' is a common name, so identity rests on location plus civic profile — medium, not high. No Texas Ethics Commission lobbyist registration and no ideological or industry PAC giving found (only 2 federal donations on record). His past Tracor employment was as a rank-and-file employee, not an executive/board/owner role, so no military_defense affiliation is recorded.",
+    "source_url": "https://www.txdirectory.com/online/person/?id=18107&office=17198",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Digital Workforce Academy, Inc.",
+        "role": "Founder and program director",
+        "category": "civic",
+        "source_url": "https://www.manufacturingusa.com/modern-makers/melvin-white",
+        "snippet": "Founded Digital Workforce Academy, investing $75,000 of personal funds; DWA reports an 85% placement rate across Austin, Port Arthur, and Houston."
+      },
+      {
+        "org": "Texas Association of Historically Underutilized Businesses",
+        "role": "Treasurer",
+        "category": "business",
+        "source_url": "https://www.txdirectory.com/online/person/?id=18107&office=17198",
+        "snippet": "Texas State Directory lists him as treasurer of the Texas Association of Historically Underutilized Businesses and a board member of the Stephen F. Austin Alumni Association."
+      }
+    ]
+  },
+  {
+    "donor_id": "7df882263ca22837",
+    "name": "Myler, Beth",
+    "resolved_employer": "Austin Cognitive, PLLC — psychotherapist (LCSW, JD); previously a practicing attorney, and formerly a therapist at Therapy Austin",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Beth Myler is an uncommon name with a single identifiable Austin professional: a licensed clinical social worker/psychotherapist (TX license #61180) practicing at Austin Cognitive, PLLC, 1411 West Ave, Austin, who trained at LIVESTRONG and holds a JD after 'a long career as a lawyer.' FEC individual-contribution records list BETH MYLER (THERAPY AUSTIN/THERAPIST), Austin zip 78746, giving $50 twice to the DCCC in Oct 2016 — an Austin therapist with an established Democratic-giving pattern, consistent with a $125 gift to Ann Howard. The donor record carries no zip, so identity is corroborated by name rarity, Austin location, and donation pattern rather than an exact address match.",
+    "source_url": "https://nancyslist.org/2019/09/11/beth-myler-lcsw-jd-psychotherapist-coach-and-mediator-at-austin-cognitive-pllc/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7ff8e73f1caa8db9",
+    "name": "Gray, Melissa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "'Melissa Gray' is a very common name with at least four distinct Austin-area candidates and none could be tied to zip 78752: a former Skadden Arps litigation associate (Georgetown JD) who is a founding board member of Impact Austin and pro bono director at Texas Advocacy Project; a Jackson Walker LLP litigation attorney; an aging-services program manager (American Red Cross of Central Texas / n4a); and a Kindle Counseling LCSW. Searches of FEC individual-contribution mirrors for Austin donors and of the Texas Ethics Commission lobbyist registry returned no Melissa Gray at 78752 with a listed employer/occupation. Identity is not confirmed, so no industry is assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9b4e17c308f6f993",
+    "name": "Kyba, Ferne",
+    "resolved_employer": "University of Texas at Arlington, College of Nursing and Health Innovation — Professor Emeritus and former RN-BSN Director (retired 2004)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Ferne Kyba (b. 1/27/1940) is listed in public records at 2912 Padina Dr, Austin, TX 78733 — an exact match to the donor's zip. She joined the UT Arlington nursing faculty in 1989, taught gerontological nursing, community health nursing and professional/legal/ethical issues, served as RN-BSN Director from 2000 until retiring in 2003-04, and is now a Professor Emeritus and Advisory Council member. She and her late husband Evan Kyba (a UT Austin chemistry professor) endowed the Ferne and Evan Kyba Professorship in Chemistry at UT Austin, and she endowed nursing scholarships at UT Arlington. FEC PAC search and Texas Ethics Commission lobbyist registry search returned no PAC or lobbyist registrations under the Kyba name.",
+    "source_url": "https://www.uta.edu/academics/schools-colleges/conhi/people/emeriti",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Nurses Association",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://www.uta.edu/academics/schools-colleges/conhi/people/emeriti",
+        "snippet": "During her career, Ferne worked extensively with professional nursing, community health, and human services organizations, including service on the Boards of the Texas Nurses Association and the Texas League for Nursing."
+      },
+      {
+        "org": "Texas League for Nursing",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://www.uta.edu/academics/schools-colleges/conhi/people/emeriti",
+        "snippet": "...including service on the Boards of the Texas Nurses Association and the Texas League for Nursing."
+      },
+      {
+        "org": "Texas Nurses Foundation",
+        "role": "President",
+        "category": "civic",
+        "source_url": "https://www.uta.edu/academics/schools-colleges/conhi/people/emeriti",
+        "snippet": "...and as President of the Texas Nurses Foundation."
+      },
+      {
+        "org": "Texas Partnership to Improve End-of-Life Care",
+        "role": "Founding member (recognized as State Champion)",
+        "category": "civic",
+        "source_url": "https://www.uta.edu/academics/schools-colleges/conhi/people/emeriti",
+        "snippet": "Founding member of the Texas Partnership to Improve End-of-Life Care, recognized as State Champion."
+      }
+    ]
+  },
+  {
+    "donor_id": "9ba78c6cef20b358",
+    "name": "Muse, Christine",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "The only prominent Central Texas candidate is Christy Muse, a conservation-policy consultant who co-founded and led the Hill Country Alliance as Executive Director (2005-2016), was Chief External Relations Officer at Shield Ranch (2016-2020), and is a founding board member of the Travis County Parks Foundation — a plausible fit for a 2021 gift to Travis County Commissioner Ann Howard. However, she resides in Spicewood (Lake Travis south shore, partly outside Travis County), goes by Christy rather than Christine in every public source, and no record ties her to this contribution; the donor's zip is unknown, so nothing corroborates the match. FEC PAC-contribution searches and Texas Ethics Commission lobbyist-registry searches (including the subject-matter and registered-lobbyist lists) returned no confirmed Muse registration or PAC giving. Identity unconfirmed, so no industry or affiliations are assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9da6d62d7cee74d1",
+    "name": "Gil, Eric",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm identity. 'Eric Gil' is a common name in south/southeast Austin and no public professional profile corroborates the 78747 donor. People-search aggregators associate an Eric Gil with a residential 78747 address and a 'Club Primo's LLC' registration, but that link could not be verified against Texas SOS or any primary source, and the only Austin 'Club Primos' traceable online was a closed E 6th St venue at an unrelated address. FEC donation count is 0, so no federal giving pattern exists to corroborate. Donation to George Morales (Constable Pct 4, which covers 78747) is geographically consistent but not identifying on its own. No industry guessed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9e71d737384cd0b4",
+    "name": "Tanner-Jacobs, Debbie",
+    "resolved_employer": "TannerJacobsGroup LLC / Keller Williams Lake Travis (real estate agent, TX license 0553861)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Debbie Tanner-Jacobs is a licensed Texas real estate agent (TREC/NTREIS license 0553861) and principal of TannerJacobsGroup LLC at Keller Williams Lake Travis, with 20+ years in the Austin market. Her own marketing bio states she has personally lived in Steiner Ranch, which matches the donor zip 78732 exactly; her donation to Brigid Shea (Travis County Commissioner Pct 2, covering the Steiner Ranch/west Travis area) is consistent. No Texas Ethics Commission lobbyist registration found under Tanner-Jacobs, Tanner, or Jacobs; no ideological PAC contributions surfaced in FEC/OpenSecrets searches — her 6 FEC donations show no PAC leadership or advocacy-org tie.",
+    "source_url": "https://www.har.com/debbie-tanner-jacobs/agent_ntreis-0553861",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f54713ca6fe0a1f",
+    "name": "Enders, Kevin",
+    "resolved_employer": "Dell Inc. (product management)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "A Kevin Enders appears on LinkedIn at Dell, Inc., credited with defining and marketing Dell's XPS Gaming product line prior to the Alienware acquisition. Dell is headquartered in Round Rock, matching the donor's Round Rock 78665 address — the zip/employer-city alignment is the corroborating detail. Held to medium confidence because multiple distinct people named Kevin Enders exist (including a Peoples Gas analyst and an automotive technician in other states) and the Dell profile's residence was not independently confirmed. The 121-donation all-Democratic FEC pattern is consistent with recurring small-dollar ActBlue giving rather than PAC or bundler activity; no ideological PAC ties surfaced. No Texas Ethics Commission lobbyist registration found under Enders.",
+    "source_url": "https://www.linkedin.com/in/kevinenders/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c20ecfe7c91fbb0a",
+    "name": "Winkler, Hugh",
+    "resolved_employer": "Factor Technology (founder & CEO); formerly Director of Research, Drillinginfo (now Enverus)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Confirmed as the Austin-area software technologist. His own site hughw.net documents that he co-founded Factor Technology in 2017 to commercialize a geosteering algorithm and authored 'Geosteering by Exact Inference on a Bayesian Network' in Geophysics (May 2017); career history includes Director of Research at Drillinginfo, plus Wellstorm Development, BetweenMarkets and MSHOW.com, with a Georgia Tech BS and a UT-Austin MA in Geophysics. He is reported to live in unincorporated Travis County near Austin, consistent with a donation to Ann Howard (Travis County Commissioner Pct 3). Zip is unknown in the donor record, so identity rests on the uncommon name plus the Travis County residence and technologist profile — hence medium rather than high. No Texas Ethics Commission lobbyist registration found; the 118-donation all-Democratic FEC pattern is consistent with recurring small-dollar giving, and no ideological PAC ties surfaced.",
+    "source_url": "https://hughw.net/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Factor Technology",
+        "role": "Founder & CEO — oilfield geosteering/directional-drilling software (sector classification only; not evidence of political advocacy)",
+        "category": "oil_gas",
+        "source_url": "https://hughw.net/",
+        "snippet": "Co-founded Factor Technology in 2017 to commercialize a geosteering algorithm; the company was voted one of three 'Rising Stars' at the SPE (Society of Petroleum Engineers) ATCE Energy Startup Competition in October 2017. Prior role: Director of Research at Drillinginfo, an oil & gas data analytics firm now known as Enverus."
+      }
+    ]
+  }
+]

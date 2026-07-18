@@ -1,0 +1,304 @@
+[
+ {
+  "donor_id": "77364cf1d72a2984",
+  "name": "Gabriel, Jon",
+  "resolved_employer": "Escarpement Assets LLC (self-reported on the filing); occupation listed as \"Software\"",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "No public profile could be tied to a Jon Gabriel in Austin 78722. Searches for the employer string \"Escarpement/Escarpment Assets LLC\" return only unrelated Austin entities (Escarpment Construction LLC, Escarpment Village retail center) — no registered entity by the donor's stated name surfaced. LinkedIn returns multiple unrelated Jon/John Gabriels with nothing corroborating the 78722 zip or the software occupation. Classification rests solely on the self-reported occupation \"Software\" (employer-fallback), so identity confidence is low. Note the well-known writer Jon Gabriel (Ricochet editor-in-chief) is an Arizona conservative commentator and is NOT this donor — the donation went to Democrat Andy Brown and no Austin tie exists.",
+  "source_url": "https://www.linkedin.com/pub/dir/Jon/Gabriel/us-0-United-States",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7cb66ed069525f9f",
+  "name": "Dudley, David",
+  "resolved_employer": "TSSI — most consistent with Tri Shield Security and Investigations LLC, an Austin-based private security/investigations firm (TX DPS Private Security Bureau License C19035); role not publicly confirmed",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The employer string \"TSSI\" and occupation \"Security/investigator\" match Tri Shield Security and Investigations LLC (branded \"TSSI\"), an Austin firm providing armed/unarmed security officers and private investigator services — a plausible employer for a Kyle, TX (78640) commuter, and a professionally coherent explanation for giving to a Travis County constable candidate (Morales). However, TSSI publishes no staff/team page (only co-founder Jonathan Jeter is publicly identified), and no David Dudley could be matched to the firm, to Hays County, or to the 78640 zip. The one prominent \"David Dudley, IAAI-CFI/NAFI-CFEI\" fire-investigator LinkedIn profile could not be tied to Texas or to TSSI. Because the specific individual is unconfirmed, no industry is asserted; note the taxonomy also has no category that cleanly fits private security/investigations.",
+  "source_url": "https://www.tssisecurity.com/private-investigators",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "87e838ba4c4eaf1d",
+  "name": "Koeze, Kate",
+  "resolved_employer": "Nuthatch Software LLC, Grand Rapids MI (business manager); Chair of the national Board of Directors, Clean Water Action",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Kate Reid Koeze of Grand Rapids, MI has been involved with Clean Water Action since 1983 (canvasser in the D.C. office, then field manager, assistant to founder David Zwick, and canvass administrator), moved to Grand Rapids in 1996, and has chaired the organization's national board since 2018; her day job is at Nuthatch Software LLC, a ~2-person Grand Rapids firm at 2555 Burlingame Ave SW (next door to the Koeze Company at 2577 Burlingame — she is married into the Koeze nut/candy family, her husband Jeff Koeze being its president, though her own employment is Nuthatch, not Koeze Co.). Identity is corroborated by zip: FEC records compiled by City-Data show Katharine Reid Koeze of Grand Rapids 49506 — the donor's exact zip — giving $1,000 to ActBlue in 2009. The donation pattern also corroborates: recipient Brigid Shea is a longtime environmental organizer who led Clean Water Action's Texas operation, making this an organizational-network gift rather than a local-influence one. Not a registered Texas lobbyist (Michigan resident; no TEC listing found). No PAC ties found on any tracked policy spectrum.",
+  "source_url": "https://cleanwater.org/about/people/kate-reid-koeze",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Clean Water Action",
+    "role": "Chair, Board of Directors (since 2018); staff 1983-1990s (canvasser, field manager, canvass administrator)",
+    "category": "civic",
+    "source_url": "https://cleanwater.org/about/people/kate-reid-koeze",
+    "snippet": "Kate has been involved with Clean Water since the early 1980s, starting in 1983 as a canvasser in the Washington D.C. office; she relocated to Grand Rapids in 1996 and became Board Chair in 2018."
+   },
+   {
+    "org": "Nuthatch Software LLC",
+    "role": "Business manager",
+    "category": "business",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.nuthatch_software_llc.c88f3105eed224347ed0937ca4681962.html",
+    "snippet": "Nuthatch Software, LLC, 2555 Burlingame Ave SW, Grand Rapids, MI — established 2008, roughly 2 employees; Kate Koeze is listed as business manager."
+   }
+  ]
+ },
+ {
+  "donor_id": "88bc72c48a76f71d",
+  "name": "Gossett, Carl",
+  "resolved_employer": "Law Office of Carl C. Gossett, 404 W. 13th St., Austin, TX 78701 — solo criminal-defense and personal-injury attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Carl Camp Gossett is a solo Austin attorney licensed in Texas since 2011 (J.D., Touro College of Law, 2010), practicing roughly 80% criminal defense and 20% personal injury, with additional creditor-debtor, juvenile, civil-rights and contracts work. His office address at 404 W. 13th St. is in zip 78701 — an exact match to the donor's zip — and a criminal-defense practice is a coherent explanation for giving to a Travis County constable/justice-system candidate (Morales). He is a member of the Austin Criminal Defense Lawyers Association (2012-present). Public record note: his listing carries state-bar discipline — fully probated suspensions in 2022 and 2023 and a suspension in 2025. He is not a registered Texas lobbyist (no Gossett appears in TEC registered-lobbyist searches). No PAC affiliations found on any tracked policy spectrum — his 55 federal contributions appear to be small-dollar ActBlue-channel giving, not PAC-network activity. Distinct from Carl Wayne Gossett of Austin, who died in 2012, before this donor's 2017 first gift.",
+  "source_url": "https://www.avvo.com/attorneys/78701-tx-carl-gossett-4092106.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Criminal Defense Lawyers Association",
+    "role": "Member (2012-present)",
+    "category": "business",
+    "source_url": "https://www.avvo.com/attorneys/78701-tx-carl-gossett-4092106.html",
+    "snippet": "Profile lists: Member, Austin Criminal Defense Lawyers Association, 2012-present; licensed in Texas since 2011; practice 80% criminal defense / 20% personal injury."
+   }
+  ]
+ },
+ {
+  "donor_id": "8af87a831b1dcfd7",
+  "name": "Placek, Beth (Ms.)",
+  "resolved_employer": "Pharmacist, H-E-B (fill-in/relief pharmacist; worked as a pharmacist until age 74) — deceased July 26, 2021",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Beth Shocket Placek, longtime Tarrytown (78703) resident, career pharmacist who worked full-time and later as a fill-in pharmacist for H-E-B until age 74; she was an active volunteer with West Austin Democrats who 'worked tirelessly' on candidate campaigns, which matches the 2016-2017 $50 to Brigid Shea (Travis County Commissioner Pct. 2, covering west Austin). Travis County property records list a BETH ANNE PLACEK at 2311 Indian Trail, Austin 78703, corroborating name+zip. She died July 26, 2021, consistent with giving that stops in 2017.",
+  "source_url": "https://www.patandmeloakes.com/PatandMelOakesFamilySite/CCAHistory/BethPlacek.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "West Austin Democrats",
+    "role": "Active member / campaign volunteer",
+    "category": "political",
+    "source_url": "https://www.patandmeloakes.com/PatandMelOakesFamilySite/CCAHistory/BethPlacek.html",
+    "snippet": "Memorial biography states she was committed to the West Austin Democrats, made friends with many candidates and worked tirelessly in their campaigns."
+   }
+  ],
+  "notes": "FEC PAC search: no federal contributions found under this name (input record also shows fec_donation_count 0) — no AIPAC/UDP, J Street, pro-Palestine, NRA, gun-control, oil & gas, or defense PAC giving located. Texas Ethics Commission lobbyist registry searches (2011-2026 registered-lobbyist lists, site-scoped) returned no PLACEK registrant. Checked for a link to the Austin attorney R. Scott Placek of Arnold, Placek & Foerster P.C. — that firm is at 78750 and no public source connects the two, so no family relationship is asserted."
+ },
+ {
+  "donor_id": "8fcd57c2fc391428",
+  "name": "Helen Ann Henderson",
+  "resolved_employer": null,
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Could not confirm a specific individual. 'Helen Henderson' is a very common name with many Texas matches and no public profile could be tied to Austin 78741. The only employment signal is the occupation string 'Education' self-reported on the campaign filing itself (employer recorded as 'Not known'), so the industry is a categorize-by-employer fallback, not an identification. No Austin ISD staff directory, LinkedIn, news, obituary, or board-roster match at this name+zip could be corroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [],
+  "notes": "FEC PAC search: input record shows 86 federal contributions with a partisan lean of 0.213, but no FEC/city-data individual-contribution record for a HENDERSON, HELEN (or HELEN ANN) at an Austin 78741 address could be retrieved to attach occupation/employer strings or identify recipient PACs (FEC OpenFEC API was rate-limited at the time of research; city-data FEC mirrors for Austin returned no match). No AIPAC/UDP, J Street, pro-Palestine, NRA, gun-control, oil & gas, or defense PAC ties found. Texas Ethics Commission lobbyist registry search returned no HENDERSON registrant matching this person. No bio page exists to read. Because identity is unconfirmed, the 86 federal donations should NOT be assumed to belong to this donor."
+ },
+ {
+  "donor_id": "926f13d98f8827b9",
+  "name": "Sternburg, Jarren",
+  "resolved_employer": "Jarren Wenderlein Sternburg — in-house corporate attorney; currently Head of (US) Commercial Legal at Veriff. In 2017 (date of this gift) she was in-house counsel in Austin's tech sector; career includes Dell, DLA Piper, Gemalto, New Relic, Alation, Twilio, and the UT Austin technology-licensing office.",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Distinctive surname with a single Austin match. State Bar of Texas lists Jarren Wenderlein Sternburg, bar card 24063057, licensed May 2, 2008, located in Austin, TX, practicing 'Business, Technology, Intellectual Property, Finance, Contracts' as in-house corporate counsel, J.D. University of Texas 2007, no public disciplinary history. Name is not a misspelling of 'Sternberg' — 'Sternburg' is the correct spelling (married name; a 2013 Austin-area wedding registry lists Jarren Wenderlein and Peter Sternburg). Zip 78757 (Crestview/Brentwood) is consistent with an Austin residence but was not independently confirmed, so confidence is medium rather than high.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=301622",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [],
+  "notes": "Full bio read of State Bar profile, TheOrg/Veriff org-chart profile, and LinkedIn summary: roles are all in-house commercial/IP legal work; no board seats or policy-advocacy organization memberships disclosed. FEC PAC search: input record shows 6 federal contributions (partisan lean 1.0), but no AIPAC/United Democracy Project, J Street, pro-Palestine, NRA/firearms-industry, gun-control, oil & gas, or defense-contractor PAC contributions were found under this name. Texas Ethics Commission lobbyist registry: no STERNBURG or STERNBERG registrant found — she is an in-house counsel, not a registered Texas lobbyist. Note: gift was to George Morales (Travis County Constable, Pct. 4)."
+ },
+ {
+  "donor_id": "949e837bacff6779",
+  "name": "Hollis, Paul",
+  "resolved_employer": "Not employed / retired (former career not determinable from public records)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC individual-contribution records for Austin zip 78735 — the exact zip on this donor record — list 'MR. & MRS. PAUL HOLLIS (NONE/RETIRED), (Zip code: 78735) $250 to BETO FOR TEXAS (O'ROURKE, ROBERT (BETO)) on 03/08/2018' and 'PAUL HOLLIS (NOT EMPLOYED), (Zip code: 78735) $35 to ACTBLUE on 09/02/2020'. Every occupation/employer string attached to his federal giving is 'NONE/RETIRED' or 'NOT EMPLOYED' — no employer is ever named. The pattern (many small ActBlue-routed gifts, uniformly Democratic) matches the input record's 407 federal donations at partisan lean 1.0, and the $50 to Ann Howard (Travis County Commissioner, Pct. 1) in Nov 2025 fits. He is a high-frequency small-dollar retail donor, not an influence-adjacent professional.",
+  "source_url": "https://www.city-data.com/elec2/18/elec-AUSTIN-TX-18-part33.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [],
+  "notes": "FEC PAC search run in depth given 407 federal donations: contributions route through ActBlue to Democratic candidate committees (e.g. Beto for Texas); no AIPAC/United Democracy Project, Democratic Majority for Israel, J Street PAC, pro-Palestine advocacy, NRA/firearms-industry, gun-control, oil & gas, or defense-contractor PAC contributions were located. The OpenFEC API was rate-limited during research, so itemized committee-level totals could not be enumerated exhaustively; the occupation/employer strings above come from FEC-sourced individual-contribution mirrors. Texas Ethics Commission lobbyist registry: no HOLLIS registrant matching Austin 78735 found. Bio-page read: no LinkedIn, firm, board, or professional profile could be tied to this Paul Hollis at 78735; the 2018 record's 'MR. & MRS.' framing indicates a joint household gift. Secondary source: https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part246.html"
+ },
+ {
+  "donor_id": "a4fdbb6b8795a100",
+  "name": "Henry, Ann",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile found for an Ann Henry in Austin 78726 (Four Points/NW Austin). The well-known Austin political hostess/Democratic activist Ann Henry is ruled out: she died in 2021, two years before this 2023-10-13 gift, and that figure was associated with central/west Austin, not 78726. FEC individual-contribution, Texas Ethics Commission lobbyist, and general bio searches all returned no record tying any Ann Henry to this zip. Common name; identity not corroborated by zip, occupation, or donation pattern, so no industry assigned.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a6eb42a5478a7e93",
+  "name": "Kilventon, David (Mr.)",
+  "resolved_employer": "Kilventon family construction/excavation businesses (Kilventon Builders Inc, 207 W 35th St, Austin 78705; 'David K Kilventon' USDOT carrier #1645643, now inactive)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "'Kilventon' is a very rare surname with a concentrated Austin footprint: Kilventon Builders Inc is registered at 207 W 35th St, Austin, TX 78705 — the same zip as this donor — with John Kilventon as president. A David K Kilventon separately held USDOT motor-carrier registration #1645643 (now inactive), and LinkedIn profiles for a David Kilventon list landscaping/excavation work ('4 Seasons Landscaping and Excavation'). Zip match plus the rare surname corroborate identity as a member of this Austin building family; his own individual role at Kilventon Builders is not directly documented, hence medium rather than high. No FEC federal contributions found (batch data also shows fec_donation_count 0) and no Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://us.centralindex.com/company/470585456726016/kilventon-builders-inc/austin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5c971551ae53dcc",
+  "name": "Wilmore, Mary",
+  "resolved_employer": "Self-employed (occupation reported on campaign filings as 'Real Estate/Yogurt Maker'; employer 'Self')",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Classified by the categorize-by-employer fallback only. The self-reported filing occupation is real estate plus yogurt making, employer 'Self', Austin 78748 (far south Austin). Extensive searching found no independent public footprint: no TREC-licensed real estate agent or broker named Wilmore in Austin, no Austin Board of Realtors/Unlock MLS agent page, no LinkedIn or firm bio for a Mary Wilmore in Austin, and no yogurt business tied to the name. The only Austin 'Wilmore' entity found is Wilmore Capital LLC, an Austin mortgage brokerage, with no documented connection to her — so that link is NOT asserted. Texas Ethics Commission lobbyist searches returned no Wilmore. FEC records show 44 federal donations with a Democratic lean, but no PAC-level ideological affiliations were identifiable and the FEC record could not be pulled to confirm employer/zip (fec.gov and OpenSecrets blocked automated retrieval), so identity remains uncorroborated beyond the filing itself. Despite the real-estate occupation flag, nothing supports a developer, brokerage-principal, or lobbyist-adjacent classification.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1608d843dbae986",
+  "name": "Wash, Ben",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Possible but unconfirmed match to Ben Wash, founder of Ben's Long Branch Bar-B-Q, a landmark African-American East Austin barbecue business he started in 1971 in Montopolis and moved to E 11th St in 1981; it closed in 2009. The 2023 gift to Commissioner Jeff Travillion (Precinct 1, east Travis County) and the 78725 far-east-Austin zip are consistent with that person, but no public record places Ben Wash in 78725 and no current occupation is documented, so identity is not confirmed and no industry is assigned. FEC search found no federal contributions (batch fec_donation_count 0); Texas Ethics Commission lobbyist searches returned no Wash registration.",
+  "source_url": "https://www.southernfoodways.org/interview/bens-long-branch-bar-b-q/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c630e35a7d22fd42",
+  "name": "Bernal, Susan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile found for a Susan Bernal in Austin 78704 across web search, Texas Ethics Commission lobbyist lists, State Bar of Texas, or news/obituary sources; the only Austin-area Bernal surfacing in the TEC registered-lobbyist lists is Adrianna Bernal (attorney/lobbyist, 816 Congress Ste 1100), a different person with no shown connection. The record's near-zero fec_partisan_lean (0.008 over 39 federal gifts) is notable against a 78704 address and a gift to a Democratic county candidate, but no public source ties those federal contributions to this specific individual, so no industry or affiliation is asserted.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4318e2660d59ae2",
+  "name": "Knight, Eben",
+  "resolved_employer": "Travis County Juvenile Public Defender's Office (attorney); adjunct professor, University of Texas School of Law (Juvenile Justice Clinic)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Eben Thomas Knight is a distinctively-named Austin attorney (State Bar of Texas ID 364495, licensed 2021, UT Law JD 2021) practicing criminal and juvenile law out of 2201 Post Rd Ste 200, Austin, employed by the Travis County Juvenile Public Defender's Office, and teaching the Juvenile Justice Clinic as an adjunct at Texas Law. Local Travis County residence and the all-Democratic federal giving pattern (fec_partisan_lean 1.0) are consistent with a county public-defender employee giving to Travis County Constable candidate George Morales; the 2017 first gift predates his bar admission, so the identification rests on name rarity plus Travis County locality rather than employment at the time. No Texas Ethics Commission lobbyist registration and no ideological-PAC contributions found.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=364495",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Juvenile Public Defender's Office",
+    "role": "Assistant Public Defender (attorney)",
+    "category": "civic",
+    "source_url": "https://www.avvo.com/attorneys/78704-tx-eben-knight-5210175.html",
+    "snippet": "Eben Thomas Knight, Austin TX; practice areas Criminal Defense and Juvenile Law; current position Travis County Juvenile Public Defender; JD University of Texas School of Law 2021."
+   },
+   {
+    "org": "University of Texas School of Law",
+    "role": "Adjunct Professor, Juvenile Justice Clinic",
+    "category": "civic",
+    "source_url": "https://law.utexas.edu/faculty/eben-knight/",
+    "snippet": "Eben Knight is listed as Texas Law faculty teaching 'Clinic: Juvenile Justice'; JD from the University of Texas at Austin."
+   }
+  ]
+ },
+ {
+  "donor_id": "d66b51ed590b91fe",
+  "name": "Helen Gu",
+  "resolved_employer": "Solera (Audatex, a Solera company) — software engineer",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "The donation record itself carries occupation 'Engineer' and employer 'Solera'; Solera Inc./Solera Holdings is the Westlake, TX vehicle-claims and fleet software company, and a LinkedIn profile for a Helen Gu lists her as Software Engineer at Audatex, a Solera company — corroborating the employer as the software firm rather than the unrelated Solera National Bank (Colorado). The record has no zip or city, and Helen Gu is a common name, so the specific individual is not positively identified; the Technology classification rests on the employer/occupation strings in the filing itself. No Texas Ethics Commission lobbyist registration and no ideological-PAC contributions found.",
+  "source_url": "https://www.linkedin.com/in/helen-gu-42b2bb2b",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e2249ae747133d56",
+  "name": "Clark, Teel",
+  "resolved_employer": "Kuper Sotheby's International Realty, Austin — real estate agent",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Teel Mayo Clark is a native Austinite and real estate professional with Kuper Sotheby's International Realty (luxury brokerage); she is the youngest daughter of the late retired state District Judge Harley Clark of Austin, who originated the 'Hook 'em Horns' sign, per his 2014 Austin American-Statesman obituary listing 'his youngest daughter Teel Mayo Clark.' The name is highly distinctive locally and the 78750 (northwest Austin) address falls in Travis County Commissioner Precinct 2, the seat held by Brigid Shea, whom this donor gave to; zero federal contributions in the record matches the absence of any FEC results. No Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://teelclarkjarvis.kuperrealty.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Kuper Sotheby's International Realty",
+    "role": "Real Estate Professional / agent",
+    "category": "business",
+    "source_url": "https://teelclarkjarvis.kuperrealty.com/about",
+    "snippet": "Teel Clark, Real Estate Professional, Kuper Sotheby's International Realty, Austin, TX — 'Teel is a native Austinite... her dad is Harley Clark, who invented the Hook 'Em Horns sign in 1955.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "e2a7d77a10f41772",
+  "name": "Robertson, Samuel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Multiple distinct people named Samuel/Sam Robertson appear in Round Rock, TX (a hardware/product-development engineer with a UT Austin degree, a Texas Health and Human Services employee who attended Round Rock High School, a consultant, and others), with no zip, employer, or occupation in the donation record to disambiguate them. No single profile can be tied to the 78681 donor, so no industry is assigned. No Texas Ethics Commission lobbyist registration matching this name was found, and no ideological-PAC affiliation could be attributed to any specific candidate profile.",
+  "source_url": "https://www.linkedin.com/in/sam-robertson-1b4220129/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea51f9488e095ff3",
+  "name": "Kaselak, Lisa",
+  "resolved_employer": "Maven Stories LLC (founder/director) — documentary filmmaker and freelance senior producer; previously taught film & media production at SMU",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Lisa Kaselak is an Austin documentary filmmaker (The Soup Peddler, Doubting Darwin, Let Them Eat Cake, Tomlinson Hill — Silver Heart Award, 2013 Dallas International Film Festival) with an MFA in film production from UT Austin. Her company Maven Stories LLC is registered at 1102 W Annie St, Austin, TX 78704, an exact match to the donor zip 78704. Rare surname; no competing Austin match found. No Texas Ethics Commission or City of Austin lobbyist registration; no FEC PAC or ideological-PAC contributions surfaced.",
+  "source_url": "https://texasourtexas.texaspbs.org/about/advisors/lisa-kaselak/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Our Texas (Texas PBS)",
+    "role": "Advisor",
+    "category": "civic",
+    "source_url": "https://texasourtexas.texaspbs.org/about/advisors/lisa-kaselak/",
+    "snippet": "Listed as an advisor to Texas Our Texas, a Texas PBS educational resource; bio describes her as an independent filmmaker based in Austin who uses photography and film to address social issues."
+   }
+  ]
+ },
+ {
+  "donor_id": "ebda99c48d562504",
+  "name": "Larson, Lafe",
+  "resolved_employer": "Lafe's Natural BodyCare (Lafe T. Larson, Inc.) — founder and CEO, natural personal-care products company, Austin TX",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Lafe Larson is founder/CEO of Lafe's Natural BodyCare, a Certified B Corporation natural personal-care company at 7801 N Lamar Blvd, Austin TX 78752 (donor's residential zip 78754 is the adjacent north-Austin zip). He holds a degree from UT Austin's LBJ School of Public Affairs (1996-1998) and public interviews note he 'worked for 15 years as an advocate for poor people' before founding the company in 1992 with a $15,000 family loan. 'Lafe Larson' is a highly distinctive name with a single Austin match. No Texas Ethics Commission or City of Austin lobbyist registration found; no FEC PAC or ideological-PAC contributions surfaced.",
+  "source_url": "https://www.bizapedia.com/tx/lafe-t-larson-inc.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Lafe's Natural BodyCare",
+    "role": "Founder and CEO; company is a Certified B Corporation",
+    "category": "business",
+    "source_url": "https://lafes.com/pages/b-corp-certified",
+    "snippet": "Lafe's has been a Certified B Corporation since 2014, described by the company as offering 'a positive vision of a better way to do business.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "efa25fef8278afc3",
+  "name": "Glasco, Richard",
+  "resolved_employer": "Georgetown Housing Initiative — board president (volunteer); likely retired, no confirmed current employer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Richard Glasco is Board President of the Georgetown Housing Initiative, a Georgetown, TX 501(c)(3) (EIN 83-0578506, tax-exempt since July 2018) that advocates on workforce and affordable housing; the Williamson County Sun identifies him in that role and quotes him on the organization's mission. Public address records place a Richard A. Glasco at 103 River Rd, Georgetown, TX 78628 — an exact match to the donor zip. His donation to Travis County Commissioner Jeff Travillion (a county official whose portfolio includes affordable housing) is consistent with that advocacy profile. NOT the same person as Alice K. Glasco, the registered Austin land-use lobbyist — she is a separate individual registered with the City of Austin (ID RG0027) and no relationship is established by the public record. Texas Ethics Commission and City of Austin lobbyist registries show no Richard Glasco. No FEC PAC contributions found (input record shows 0 FEC donations). Could not confirm that he is an attorney or a former City of Georgetown/state government official — no State Bar of Texas listing or government-role record was found, so no occupation beyond the nonprofit board role is asserted.",
+  "source_url": "https://www.wilcosun.com/news/affordable-housing-topic-upcoming-georgetown-housing-initiative-event",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Georgetown Housing Initiative",
+    "role": "Board President",
+    "category": "civic",
+    "source_url": "https://www.wilcosun.com/news/affordable-housing-topic-upcoming-georgetown-housing-initiative-event",
+    "snippet": "Richard Glasco serves as Board President of the Georgetown Housing Initiative, a non-profit 501(c)(3) established to inform and contribute to conversations relating to workforce and affordable housing in Georgetown, Texas."
+   }
+  ]
+ }
+]

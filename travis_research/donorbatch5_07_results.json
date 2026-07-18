@@ -1,0 +1,304 @@
+[
+  {
+    "donor_id": "a0abced04ec4ad74",
+    "name": "Garrison, Christine",
+    "resolved_employer": "Self-employed publisher/writer (Brevard, NC)",
+    "industry": "Media",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Publisher', employer 'Self', Brevard NC 28712. A LinkedIn profile for a Christine Garrison describes her as 'Communicator, Connector, Writer, Web Publisher' who has published mountain-town resort magazines since 1986, which is consistent with the occupation and the western-NC mountain location, but the profile page could not be opened (LinkedIn HTTP 999) and no zip-level corroboration was found. Out-of-state donor to a Travis County race; identity not confirmed. Industry assigned by the categorize-by-employer fallback only.",
+    "source_url": "https://www.linkedin.com/in/garrisonchristine/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a38e573e631b1b52",
+    "name": "Dickerson, Nathan",
+    "resolved_employer": "CapMetro (Capital Metropolitan Transportation Authority), Austin — bus operator",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Self-reported occupation 'Operator' at 'Cap metro'; a LinkedIn profile titled 'Nathan Dickerson - Capital Metro' matches the employer, and Buda TX 78610 is a common commuter suburb for CapMetro operations staff. No other public footprint; rank-and-file transit employee.",
+    "source_url": "https://www.linkedin.com/in/nathan-dickerson-b855a616",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bdba26bb76d54ede",
+    "name": "Muniz, John",
+    "resolved_employer": "Muniz Independent Insurance (Bastrop/Austin, TX) — insurance agent",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Agebt' (agent) at 'Muniz insurance', Bastrop TX 78602. A family-run agency, Muniz Independent Insurance, is publicly listed with a Bastrop-area agent (Esmeralda 'Millie' Muniz, 136 Mokalau Dr, Bastrop TX 78602) and an Austin office; no public listing was found for a John Muniz at that agency, so his specific role is unconfirmed. Industry assigned by the categorize-by-employer fallback (insurance agency).",
+    "source_url": "https://agent.travelers.com/tx/bastrop/136-mokalau-dr-25920-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d8f3e52a27c72476",
+    "name": "Villanueva, Maricarmen",
+    "resolved_employer": "Travis County Constable Precinct 4 — Senior Deputy",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Travis County's official Constable Precinct 4 command staff & deputies roster lists 'Sr Dep Mari Villanueva' as a Senior Deputy, matching the self-reported employer 'Travis County Constable pct. 4' and occupation 'Deputy'; the donor's Austin 78744 zip is inside Precinct 4. Donation went to George Morales III, who was the Precinct 4 Constable at the time — an employee-to-boss contribution.",
+    "source_url": "https://www.traviscountytx.gov/constables/4/command-staff-deputies",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "df46bd6f01f3d81c",
+    "name": "Burgess, Cory",
+    "resolved_employer": "Travis County Juvenile Probation Department — juvenile probation officer",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Juvenile probation officer' at 'Travis County Juvenile Probation', living in Georgetown TX 78626 (a common Travis County commuter suburb). The department is a real Travis County agency, but no public staff listing, bio, or roster entry confirming Cory Burgess could be verified (the county org chart PDF was not machine-readable and the department's staff directory page 404s). Industry assigned by the categorize-by-employer fallback only.",
+    "source_url": "https://www.tcjuvenileprobation.org/en/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e40646d88e7fe846",
+    "name": "McIntosh, JodyAnn",
+    "resolved_employer": "FUSE Corps (national government-innovation nonprofit) — Executive Fellow placed with Travis County Health and Human Services, 2021-2022; now Senior Director, Community Engagement at Shatterproof",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "FUSE Corps fellow bio names JodyAnn McIntosh as a 2021-2022 Executive Fellow embedded in Travis County's Office of Health and Human Services working on countywide equitable COVID-19 vaccine delivery — exact match to the filed occupation 'Executive Fellow' and employer 'FUSE Corps', and to the Austin/Travis County location and 2022-03-30 gift date. Public-health background: MPH Drexel, B.S. Public Health Rutgers; now Senior Director of Community Engagement at Shatterproof (substance-use-disorder nonprofit).",
+    "source_url": "https://fuse.org/fellows/jodyann-mcintosh/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "NeXT Philadelphia (Urban League of Philadelphia young professionals division)",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://fuse.org/fellows/jodyann-mcintosh/",
+        "snippet": "FUSE bio lists her as a member of NeXT Philadelphia, the young professionals division of the Urban League of Philadelphia."
+      },
+      {
+        "org": "George & Enid Brooks Foundation",
+        "role": "Trustee",
+        "category": "civic",
+        "source_url": "https://fuse.org/fellows/jodyann-mcintosh/",
+        "snippet": "FUSE bio lists her as a Trustee for the George & Enid Brooks Foundation."
+      }
+    ]
+  },
+  {
+    "donor_id": "ead13fdfceab7620",
+    "name": "Alvarez, Enrique",
+    "resolved_employer": "Retired law enforcement officer (agency not identified) — per filed occupation/employer only",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Only public basis is the filer-reported occupation 'Law enforcement' / employer 'Retired' at Austin 78739 (Circle C area). Searches of Austin PD, Travis County Sheriff's Office and Travis County constable rosters, and of retired-officer records, returned no Enrique Alvarez that could be tied to this zip; the only same-named Texas results (a Big Spring lawn-service owner) do not corroborate. Industry assigned by the categorize-by-employer fallback (retired law-enforcement career = Government), not by identifying the individual. The 37 federal donations with a 0.633 partisan lean could not be matched to a specific FEC contributor record.",
+    "source_url": "https://www.tcsheriff.org/about/about-tcso/command-staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f563c32a2d856bd1",
+    "name": "Reyes, Angelica",
+    "resolved_employer": "Catholic Charities USA — Regional Coordinator; previously Director, St. Gabriel's Pregnancy & Parenting Program at Catholic Charities of Central Texas (2020-2025)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Angelica M. Reyes, MBA, of Austin, TX is listed as Regional Coordinator at Catholic Charities USA — an exact match to the filed occupation 'Regional Coordinator' and employer 'Catholic Charities USA'. Corroborated by Catholic Charities of Central Texas, which features her as Director of its St. Gabriel's Pregnancy & Parenting Program in Austin; earlier roles were at Austin Oaks Hospital (business development, community liaison) and Easterseals Central Texas. No Texas Ethics Commission lobbyist registration under this name (the Austin lobbyist 'Angelica Cervantes' is a different person), and no matching FEC PAC contribution records were found.",
+    "source_url": "https://ccctx.org/st-gabriels-pregnancy-parenting-program/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Catholic Charities of Central Texas — St. Gabriel's Pregnancy & Parenting Program",
+        "role": "Director (program serving expectant parents and children up to 36 months)",
+        "category": "civic",
+        "source_url": "https://www.facebook.com/ccctx/videos/meet-angelica-reyes-director-of-the-st-gabriels-pregnancy-parenting-program-ange/580661949935546/",
+        "snippet": "Catholic Charities of Central Texas video titled 'Meet Angelica Reyes, Director of the St. Gabriel's Pregnancy & Parenting Program.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "124b95aa7b754287",
+    "name": "Mason, Barbara",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "The filing carries no zip, no occupation, no employer and no location — nothing to corroborate identity against. 'Barbara Mason' is a very common name with many Texas and national matches, and the single $103 gift to Ann Howard (2021-10-26) provides no distinguishing detail. FEC and Texas Ethics Commission lobbyist searches returned no record that can be attributed to this donor rather than to a same-named person; the 299 federal donations attached to this identity could not be independently verified to one individual. No employer fallback is available because no employer or occupation string exists.",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1602fed0a818531c",
+    "name": "Patterson, Tiffany",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer was filed; only name and Austin 78759. At least two distinct Tiffany Pattersons are publicly active in that area — a licensed acupuncturist operating Texas Acupuncture Clinic at 11651 Jollyville Rd, Austin 78759 (a business, not residential, address), and a residential real-estate agent with Austin City Living who spent ~two decades in the nonprofit sector — plus a Tiffany Patterson on the YMCA of Austin staff. With no occupation string to break the tie, the single $103 gift to Ann Howard cannot be attributed to any one of them, so no industry is assigned. FEC PAC and Texas Ethics Commission lobbyist searches returned no attributable record.",
+    "source_url": "https://www.yelp.com/biz/texas-acupuncture-clinic-austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "16c3fd3191898deb",
+    "name": "Chello, Joseph",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Record carries no zip, no occupation and no employer, and our FEC match count is 0. Web searches surface only a 'Joseph Chello' named as a hearing requestor in an unrelated 2026 TCEQ wastewater-permit docket and generic people-search aggregator entries (age 50-51), none of which can be tied to Austin/Travis County or to the 2021 gift to Ann Howard. No Austin-area professional profile, employer, or public bio found; identity not corroborated by zip, occupation, or donation pattern.",
+    "source_url": "https://www.tceq.texas.gov/downloads/agency/decisions/agendas/backup/2026/2026-0606-mwd-picr.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "582b42bfcdf9fc3b",
+    "name": "Levy, Jonathon",
+    "resolved_employer": "The Leverage Learning Company LLC (learning-innovation / education consulting), Austin TX",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Best match is Jonathon (David) Levy of Austin, principal of The Leverage Learning Company LLC since May 2016; previously LeveragePoint Innovations (2009-2016), Monitor Group (2003-2008), Harvard Business School (1999-2003) and Cornell University (1979-1999). The distinctive '-on' spelling plus an Austin location and a strongly Democratic federal giving pattern (fec_partisan_lean 0.98 across 132 donations) corroborate; the 78739 (Circle C, SW Austin) zip could not be independently confirmed, so confidence is capped at medium. Full profile/positions pages read; no board seats or policy-advocacy roles disclosed. Not on the Texas Ethics Commission lobbyist registry; no ideological-PAC contributions found on either side of the Israel/Palestine, gun, energy or defense spectrums.",
+    "source_url": "https://www.linkedin.com/in/jonathonlevy/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5a1a008ce957a70b",
+    "name": "Bryant, Samuel",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Record has no zip, occupation or employer. A plausible but unconfirmed candidate exists: Samuel 'Sam' L. Bryant of Austin, president of Bryant Wealth Investment Group L.L.C., NAIFA member, board member of Capital Area United Way and Westminster Manor, past board member of Austin Community Foundation and Boys & Girls Club of Austin, president of the Mt. Sinai Christian Academy Advisory Committee, Army veteran and Tuskegee graduate - an Austin civic figure whose profile fits a 2021 gift to Travis County Pct. 1 Commissioner Jeff Travillion. However 'Samuel Bryant' is a very common name (400+ LinkedIn profiles), the record supplies no zip or occupation to corroborate, and the fec_donation_count of 272 is almost certainly a multi-person name collision. Not identified with confidence, so no industry assigned. No TEC lobbyist registration under this name; no ideological-PAC giving found.",
+    "source_url": "https://www.txdirectory.com/online/person/?id=31182",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5b7242fc1beb4c3e",
+    "name": "Jones, Thomas",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No zip, occupation, employer or location on the record, and 'Thomas Jones' is one of the most common names in the US - the attached fec_donation_count of 2,939 with a near-neutral 0.48 lean is a clear name-collision aggregate rather than one person. Texas Ethics Commission registered-lobbyist lists (2021-2026) contain Austin lobbyists named James Adam Jones, Neal T. Jones Jr. and Noah M. Jones but no Thomas Jones. No individual could be corroborated by zip, occupation or donation pattern; no employer information exists to support the categorize-by-employer fallback.",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5f5082e56229ceee",
+    "name": "Pouland, John",
+    "resolved_employer": "Independent government-affairs/public-sector consultant, Austin area; formerly VP Government Affairs & Solutions at Philips and a similar role at Siemens; former GSA Greater Southwest Regional Administrator (retired from corporate roles)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "John C. Pouland, attorney and longtime Texas Democratic figure: former Dallas County Democratic Party chairman, 1996 Democratic nominee in TX-05 against Pete Sessions, Executive Director of the Texas General Services Commission under Gov. Ann Richards, GSA Greater Southwest (Region 7) Regional Administrator 1995-96 and 1997-2001 under Clinton, then public-sector government-affairs executive at Siemens and Philips; now a consultant based in Austin. Corroborated by a 2022 Dallas officeholder campaign-finance filing listing contributor John Pouland at 345 Patriot Drive, matching the record's Buda, TX 78610 address, and by a 0.98 Democratic federal giving lean over 91 donations consistent with his party history. Full TXSES and GSA press-release bios read. Not listed on the Texas Ethics Commission lobbyist registry; no pro-Israel, pro-Palestine, gun-rights, gun-control, oil & gas or defense-contractor PAC ties found.",
+    "source_url": "https://txses.org/txses-announces-new-board-members-and-officers-2/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Solar Energy Society",
+        "role": "Member, board of directors (elected January 2023)",
+        "category": "civic",
+        "source_url": "https://txses.org/txses-announces-new-board-members-and-officers-2/",
+        "snippet": "TXSES announced John Pouland - an Austin-based consultant, former VP for Government Affairs and Solutions at Philips and former GSA Southwest Regional Administrator - as a newly elected member of its board of directors."
+      },
+      {
+        "org": "U.S. General Services Administration, Greater Southwest Region",
+        "role": "Regional Administrator (1995-96, 1997-2001)",
+        "category": "political",
+        "source_url": "https://www.legistorm.com/stormfeed/view_rss/344270/organization/33160/title/pouland-named-head-of-gsas-greater-southwest-region.html",
+        "snippet": "Pouland was named regional administrator for GSA's Greater Southwest Region, directing about 1,400 employees and a $394 million annual budget; he had earlier stepped down to run as the Democratic candidate in Texas's Fifth District against Pete Sessions."
+      }
+    ]
+  },
+  {
+    "donor_id": "9e59c56f8d57acc4",
+    "name": "Adams, Elisabeth",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Record gives only Austin, TX 78754 (north/northeast Austin, in Travis County Pct. 1) with no occupation or employer, and no FEC match. Austin-area people with similar names - Elizabeth Adams the Urbanspace downtown realtor, Elizabeth D. Adams in UT-Austin Classics, an Elizabeth Adams boudoir photographer, and an Elizabeth Adams at UT's Center for Electromechanics - all spell the name 'Elizabeth' and none is placed in 78754, so none can be matched to this 2017 gift to Commissioner Jeff Travillion. No TEC or City of Austin lobbyist registration found under this name; no ideological-PAC giving found. Identity not corroborated and no employer exists for the fallback.",
+    "source_url": "https://www.urbanspacerealtors.com/team/elizabeth-adams/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ae1c16b0edc9b4c9",
+    "name": "Grosskopf, Karen",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm this specific person. The only Grosskopf household surfacing in West Lake Hills / 78746 is Bill (William) M. Grosskopf, a retired 40-year small-business manager and certified SCORE Austin mentor/VP tied to Grosskopf Holdings, LLC at 1500 Westlake Drive, Austin TX 78746; Karen may be a household member, but no public source names her as such, and no occupation, employer, bio, or board role for Karen Grosskopf herself was found. Her record shows 77 federal donations at a fully Democratic partisan lean (1.0), consistent with a prolific small-dollar ActBlue-style donor rather than an occupational or lobbying tie.",
+    "source_url": "https://www.score.org/tx/austin/mentors/bill-grosskopf/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c65b66533a492082",
+    "name": "Barrera, Mari",
+    "resolved_employer": "Nutter McClennen & Fish LLP — Senior Philanthropic Advisor, Private Client Department (also principal, Barrera Consulting)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Mari Brennan Barrera of Natick, MA 01760 — exact zip match — is a Senior Philanthropic Advisor in the Private Client Department at Boston law firm Nutter McClennen & Fish, with 25+ years advising family foundations on grantmaking (childhood hunger, affordable housing, social change leadership). FEC records corroborate the identity: small-dollar 2020 contributions to ActBlue and Biden for President from Natick 01760, employer listed as 'Barrera Consulting' / 'Nutter', matching this donor's small-dollar Democratic-side giving pattern. No Texas lobbyist registration and no ideological-PAC giving found; her out-of-state $103 to a Travis County race appears to be personal, not professional.",
+    "source_url": "https://www.nutter.com/people-mari-brennan-barrera",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Philanthropy Massachusetts",
+        "role": "Former chair",
+        "category": "civic",
+        "source_url": "https://www.nutter.com/people-mari-brennan-barrera",
+        "snippet": "Full bio lists her as former chair of Philanthropy Massachusetts, the statewide association of philanthropists and nonprofits."
+      },
+      {
+        "org": "Project Bread",
+        "role": "Board member (since 2020)",
+        "category": "civic",
+        "source_url": "https://www.nutter.com/people-mari-brennan-barrera",
+        "snippet": "Bio lists board membership at Project Bread, a Massachusetts anti-hunger organization, since 2020."
+      },
+      {
+        "org": "Full Frame Initiative",
+        "role": "Former board chair",
+        "category": "civic",
+        "source_url": "https://www.nutter.com/people-mari-brennan-barrera",
+        "snippet": "Bio lists her as former board chair of the Full Frame Initiative, a national social-change organization."
+      },
+      {
+        "org": "MetroWest Health Foundation",
+        "role": "Natick grants panel member (second term)",
+        "category": "civic",
+        "source_url": "https://www.nutter.com/people-mari-brennan-barrera",
+        "snippet": "Bio lists her as serving a second term on the MetroWest Health Foundation's Natick grants panel."
+      }
+    ]
+  },
+  {
+    "donor_id": "cc6708ed518e58f1",
+    "name": "DeAngelo, David",
+    "resolved_employer": "DL DeAngelo Consulting, LLC — Principal (public affairs / political consulting); registered Texas lobbyist",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "David DeAngelo is the principal of DL DeAngelo Consulting, LLC, a public-affairs and political consulting firm registered at 12325 Zeller Ln, Austin TX 78753 — an exact match to this donor's zip. He appears on the Texas Ethics Commission registered-lobbyist lists across multiple years (2023-2026), listed with occupation 'Political Consultant' at the same Zeller Ln address. Federal record shows 11 donations at a 0.996 Democratic partisan lean. This is a registered lobbyist making a small-dollar ($103) contribution to a sitting Travis County commissioner — exactly the influence-adjacent small-dollar pattern, not an ordinary resident gift.",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Ethics Commission lobbyist registry",
+        "role": "Registered lobbyist / political consultant (2023-2026 registration lists)",
+        "category": "political",
+        "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+        "snippet": "Listed on the TEC registered lobbyist list as David DeAngelo, 12325 Zeller Ln., Austin, TX 78753, occupation Political Consultant."
+      },
+      {
+        "org": "DL DeAngelo Consulting, LLC",
+        "role": "Principal / owner",
+        "category": "business",
+        "source_url": "https://dldeangeloconsulting.com/",
+        "snippet": "Firm site identifies DeAngelo as principal of a public affairs and political consulting practice that 'engineer[s] opportunities through relentless preparation' on clients' behalf."
+      }
+    ]
+  },
+  {
+    "donor_id": "cfe7022e57cc8d76",
+    "name": "Brown, Richard",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not identify this person. 'Richard Brown' is a very common name, the record carries no occupation or employer, the donor has zero federal donation history to corroborate against, and the entire local footprint is a single $103 gift on 2021-12-31. Austin-area web results for the name (an obituary, an unrelated Williamson County nonprofit executive, a Ballotpedia candidate) could not be tied to zip 78756 or to this donation pattern. No Texas Ethics Commission lobbyist registration found for any Richard Brown; no ideological-PAC giving found. No public employer or occupation exists to support even the categorize-by-employer fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

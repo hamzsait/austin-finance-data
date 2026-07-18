@@ -1,0 +1,18 @@
+model: claude-sonnet-5
+exit: 0
+seconds: 501
+
+--- stdout ---
+All 30 donors researched and written to `donorbatch4_pilot_results.json`.
+
+**Summary by confidence:** 15 high, 4 medium-high borderline, 6 medium, 9 low (mostly donors whose occupation/employer was withheld ("requested") with no distinguishing corroboration among common names — Smith, Morris, Walters, Xiao, Epstein, plus Limon industry unresolved).
+
+**Affiliation flags found (2):**
+- **Anika Jones Schoenbaum** (Vuka partner) — Shalom Austin donor, $10-18k giving-level Honor Roll listing → `jewish_civic`
+- **Stan Casey** (Diamondback Energy, Director of Government Affairs) → `oil_gas`
+
+No AIPAC, ADL, gun-lobby, or military-defense-contractor affiliations surfaced. Notable identities confirmed: Bruce Zimmerman (ex-UTIMCO CEO, now Tresalia Capital), Kip Averitt (former TX state senator turned energy/water lobbyist), Jaspar Weir (TaskUs co-founder), Mike Tolleson (Armadillo World HQ co-founder/entertainment attorney), and Margo Weisz (PeopleFund founder, now TEPRI director).
+
+
+--- stderr ---
+
