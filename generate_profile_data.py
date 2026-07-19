@@ -202,8 +202,12 @@ AFFILIATION_BUCKETS = [
     {"key": "political", "label": "Political & campaign roles",
      "categories": ["political"], "card": "political",
      "drop_donation_restatements": True},
+    # Alphabetical, not dollar-sorted: ranking community volunteering by
+    # donation size would imply "biggest donor is most connected", which the
+    # data does not support. Every other bucket sorts by dollar because there
+    # the money is the point.
     {"key": "civic", "label": "Community & civic roles",
-     "categories": ["civic"], "card": "civic"},
+     "categories": ["civic"], "card": "civic", "sort": "alpha"},
 ]
 
 # Hero badge text per slug. The profile template reads meta.office at runtime and
@@ -1234,7 +1238,11 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                 entry = bucket_entry(d, row_ok)
                 if entry:
                     entries.append(entry)
-            by_category[key] = sort_donors(entries)
+            if bucket.get("sort") == "alpha":
+                entries.sort(key=lambda e: e["donor_name"].lower())
+            else:
+                entries = sort_donors(entries)
+            by_category[key] = entries
             totals[key] = len(entries)
 
         civic_affiliations_payload = {

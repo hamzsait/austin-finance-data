@@ -546,6 +546,17 @@
     transition: background .13s ease, color .13s ease;
   }
   .civic-more:hover { background: #F5A623; color: #18314f; border-color: #F5A623; }
+
+  /* Collapsed card (Community & Civic Roles) — lowest signal per row, so it
+     ships closed and opens on demand rather than burying the cards above it. */
+  .civic-collapse {
+    display: flex; align-items: center; gap: 12px; width: 100%;
+    background: none; border: 0; padding: 0; cursor: pointer; text-align: left;
+    color: inherit; font: inherit;
+  }
+  .civic-collapse .chev { margin-left: auto; color: var(--muted); transition: transform .2s ease; flex: none; }
+  .civic-collapse[aria-expanded="false"] .chev { transform: rotate(-90deg); }
+  .civic-collapsed { display: none; }
   @media (max-width: 720px) { .civic-spectrum { grid-template-columns: 1fr; } }
 
   @media (max-width: 700px) {
@@ -1180,6 +1191,21 @@
       </div>
       <div class="civic-methodology" id="politicalMethodology"></div>
       <div id="politicalContent"></div>
+    </div>
+
+    <!-- ── Community & Civic Roles (Phase 5) — collapsed by default ── -->
+    <div id="civicRolesSection" class="card" style="display:none;margin-bottom:20px">
+      <button class="civic-collapse" id="civicRolesToggle" aria-expanded="false">
+        <span class="card-title" style="margin:0">Community &amp; Civic Roles
+          <span class="hint" id="civicRolesHint"></span>
+        </span>
+        <svg class="chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor"
+             stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>
+      </button>
+      <div id="civicRolesBody" class="civic-collapsed">
+        <div class="civic-methodology" id="civicRolesMethodology"></div>
+        <div id="civicRolesContent"></div>
+      </div>
     </div>
 
     <!-- ── Partisan Lean (FEC data) ── -->
@@ -2193,6 +2219,27 @@ const AFFIL_CARD_DEFS = [
         desc: 'Party officers, campaign staff, lobby registrations, elected and appointed positions, and endorsements.' },
     ],
   },
+  {
+    card: 'civic',
+    sectionId: 'civicRolesSection',
+    hintId: 'civicRolesHint',
+    methodologyId: 'civicRolesMethodology',
+    contentId: 'civicRolesContent',
+    hintNoun: 'donors with a community or civic role',
+    cap: 20,
+    collapsed: true,
+    methodology:
+      '<strong>How to read this:</strong> Donors with documented board or leadership roles at neighborhood '
+      + 'associations, nonprofits, and community organizations. Included as civic context: '
+      + '<strong>these roles do not indicate a policy position</strong>, and serving on a school, church, or '
+      + 'youth-sports board says nothing about how a donor expects a council member to vote. '
+      + 'Listed alphabetically rather than by dollar amount, because ranking community volunteering by '
+      + 'donation size would imply a connection the data does not support.',
+    buckets: [
+      { key: 'civic', title: 'Community &amp; Civic Roles', color: '#5b6b7a',
+        desc: 'Board members, officers, and volunteers at neighborhood associations, nonprofits, and community groups.' },
+    ],
+  },
 ];
 
 var _AFFIL_EXPANDED = {};
@@ -2322,6 +2369,19 @@ function renderAffiliationCard(cardDef, ca) {
     _AFFIL_EXPANDED[btn.dataset.expand] = true;
     renderCivicAffiliations(ca);
   };
+
+  // Collapsed cards ship closed; wire the header toggle once.
+  if (cardDef.collapsed) {
+    const toggle = section.querySelector('.civic-collapse');
+    const body = section.querySelector('.civic-collapsed, .civic-expanded');
+    if (toggle && body && !toggle.dataset.wired) {
+      toggle.dataset.wired = '1';
+      toggle.addEventListener('click', function () {
+        const open = body.classList.toggle('civic-collapsed');
+        toggle.setAttribute('aria-expanded', String(!open));
+      });
+    }
+  }
   return true;
 }
 
