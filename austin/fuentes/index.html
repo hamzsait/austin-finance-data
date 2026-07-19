@@ -1164,6 +1164,15 @@
       <div id="civicContent"></div>
     </div>
 
+    <!-- ── Industry & Business Ties (Phase 3) ── -->
+    <div id="businessSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Industry &amp; Business Ties
+        <span class="hint" id="businessHint"></span>
+      </div>
+      <div class="civic-methodology" id="businessMethodology"></div>
+      <div id="businessContent"></div>
+    </div>
+
     <!-- ── Partisan Lean (FEC data) ── -->
     <div id="partisanSection" class="card" style="display:none;margin-bottom:20px">
       <div class="card-title"><span>Federal Partisan Lean <span class="pop-hint">⤢ click a segment</span></span>
@@ -2100,6 +2109,21 @@ function openIpDetail(ci, di) {
 const AFFIL_CARD_DEFS = [
   {
     card: 'policy',
+    sectionId: 'civicSection',
+    hintId: 'civicHint',
+    methodologyId: 'civicMethodology',
+    statsId: 'civicStats',
+    contentId: 'civicContent',
+    hintNoun: 'documented policy or advocacy roles',
+    methodology:
+      '<strong>How to read this:</strong> Each entry is a documented organizational role &mdash; board membership, '
+      + 'named fund, honoree, senior staff, or ownership &mdash; sourced from publicly available records. '
+      + '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> Each category refers to '
+      + 'organizational affiliation, not personal identity. Some roles are reported from a person&rsquo;s own published '
+      + 'biography rather than independently confirmed against an organization&rsquo;s roster; the source link on each '
+      + 'row shows what a finding rests on. <strong>Both sides of each policy spectrum are searched and reported</strong> '
+      + '&mdash; the federal PAC and lobbyist-registry searches ran on every donor in this pool, so a category showing '
+      + 'zero is an absence in the record, not a category that went unsearched.',
     buckets: [
       { key: 'pro_israel_advocacy', title: 'Pro-Israel Advocacy', color: '#1d4ed8', spectrum: 'israel_palestine',
         desc: 'Donors with documented AIPAC or other pro-Israel advocacy roles &mdash; leadership, board, or staff positions.' },
@@ -2119,6 +2143,24 @@ const AFFIL_CARD_DEFS = [
         desc: 'Donors with executive, board, or ownership roles at defense contractors.' },
       { key: 'healthcare', title: 'Healthcare Institutions', color: '#059669',
         desc: 'Donors with board or leadership roles at hospitals and medical institutions.' },
+    ],
+  },
+  {
+    card: 'business',
+    sectionId: 'businessSection',
+    hintId: 'businessHint',
+    methodologyId: 'businessMethodology',
+    contentId: 'businessContent',
+    hintNoun: 'donors who own or lead an identifiable business',
+    cap: 25,
+    methodology:
+      '<strong>How to read this:</strong> Donors who own, founded, or hold executive or board roles at an '
+      + 'identifiable business. This is about <strong>ownership and leadership, not employment</strong> &mdash; '
+      + 'every donor&rsquo;s employer is already reflected in the industry breakdown above, and is not repeated here. '
+      + 'Sorted by total given to this campaign.',
+    buckets: [
+      { key: 'business', title: 'Business Ownership &amp; Leadership', color: '#18314f',
+        desc: 'Founders, owners, principals, and executives of identifiable companies and firms.' },
     ],
   },
 ];
@@ -2178,71 +2220,71 @@ function affilBucketHtml(bucket, donors, cap) {
   return html + '</div>';
 }
 
-function renderCivicAffiliations(ca) {
-  const section = document.getElementById('civicSection');
-  if (!ca || !ca.total_donors_with_affiliations) { section.style.display = 'none'; return; }
-
+// Renders one card from AFFIL_CARD_DEFS. Returns true if the card has content.
+function renderAffiliationCard(cardDef, ca) {
+  const section = document.getElementById(cardDef.sectionId);
+  if (!section) return false;
   const byCat = ca.by_category || {};
-  const card = AFFIL_CARD_DEFS[0];
 
-  // Show the card only if at least one bucket in it has findings.
-  if (!card.buckets.some(function (b) { return (byCat[b.key] || []).length; })) {
+  if (!cardDef.buckets.some(function (b) { return (byCat[b.key] || []).length; })) {
     section.style.display = 'none';
-    return;
+    return false;
   }
   section.style.display = '';
 
   const uniqueDonors = new Set();
-  card.buckets.forEach(function (b) {
+  cardDef.buckets.forEach(function (b) {
     (byCat[b.key] || []).forEach(function (d) { uniqueDonors.add(d.donor_name); });
   });
 
-  document.getElementById('civicHint').textContent =
-    uniqueDonors.size + ' donor' + (uniqueDonors.size !== 1 ? 's' : '') + ' with documented policy or advocacy roles';
+  const hintEl = document.getElementById(cardDef.hintId);
+  if (hintEl) {
+    hintEl.textContent = uniqueDonors.size + ' ' + (uniqueDonors.size === 1
+      ? cardDef.hintNoun.replace(/^donors /, 'donor ').replace(/s$/, '')
+      : cardDef.hintNoun);
+  }
 
-  document.getElementById('civicMethodology').innerHTML =
-    '<strong>How to read this:</strong> Each entry is a documented organizational role &mdash; board membership, '
-    + 'named fund, honoree, senior staff, or ownership &mdash; sourced from publicly available records. '
-    + '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> Each category refers to '
-    + 'organizational affiliation, not personal identity. Some roles are reported from a person&rsquo;s own published '
-    + 'biography rather than independently confirmed against an organization&rsquo;s roster; the source link on each '
-    + 'row shows what a finding rests on. <strong>Both sides of each policy spectrum are searched and reported</strong> '
-    + '&mdash; the federal PAC and lobbyist-registry searches ran on every donor in this pool, so a category showing '
-    + 'zero is an absence in the record, not a category that went unsearched.';
+  const methEl = document.getElementById(cardDef.methodologyId);
+  if (methEl) methEl.innerHTML = cardDef.methodology;
 
-  const stats = card.buckets
-    .filter(function (b) { return (byCat[b.key] || []).length; })
-    .slice(0, 4)
-    .map(function (b) {
-      return { label: b.title.replace(/&amp;/g, '&'), value: (byCat[b.key] || []).length, color: b.color };
-    });
-  document.getElementById('civicStats').innerHTML = stats.map(function (s) {
-    return '<div class="civic-stat">'
-      + '<div class="civic-stat-value" style="color:' + s.color + '">' + s.value + '</div>'
-      + '<div class="civic-stat-label">' + s.label + '</div></div>';
-  }).join('');
+  if (cardDef.statsId) {
+    const statsEl = document.getElementById(cardDef.statsId);
+    if (statsEl) {
+      const stats = cardDef.buckets
+        .filter(function (b) { return (byCat[b.key] || []).length; })
+        .slice(0, 4)
+        .map(function (b) {
+          return { label: b.title.replace(/&amp;/g, '&'), value: (byCat[b.key] || []).length, color: b.color };
+        });
+      statsEl.innerHTML = stats.map(function (s) {
+        return '<div class="civic-stat">'
+          + '<div class="civic-stat-value" style="color:' + s.color + '">' + s.value + '</div>'
+          + '<div class="civic-stat-label">' + s.label + '</div></div>';
+      }).join('');
+    }
+  }
 
   // Group spectrum-paired buckets so opposing positions render adjacent.
   let html = '';
   const emitted = {};
-  card.buckets.forEach(function (b) {
+  cardDef.buckets.forEach(function (b) {
     if (emitted[b.key]) return;
     if (b.spectrum) {
-      const pair = card.buckets.filter(function (x) { return x.spectrum === b.spectrum; });
+      const pair = cardDef.buckets.filter(function (x) { return x.spectrum === b.spectrum; });
       const pairHasAny = pair.some(function (x) { return (byCat[x.key] || []).length; });
       pair.forEach(function (x) { emitted[x.key] = true; });
       if (pairHasAny) {
         html += '<div class="civic-spectrum">';
-        pair.forEach(function (x) { html += affilBucketHtml(x, byCat[x.key] || []); });
+        pair.forEach(function (x) { html += affilBucketHtml(x, byCat[x.key] || [], cardDef.cap); });
         html += '</div>';
       }
     } else {
       emitted[b.key] = true;
-      html += affilBucketHtml(b, byCat[b.key] || []);
+      html += affilBucketHtml(b, byCat[b.key] || [], cardDef.cap);
     }
   });
 
-  const content = document.getElementById('civicContent');
+  const content = document.getElementById(cardDef.contentId);
   content.innerHTML = html;
   content.onclick = function (ev) {
     const btn = ev.target.closest('.civic-more');
@@ -2250,6 +2292,18 @@ function renderCivicAffiliations(ca) {
     _AFFIL_EXPANDED[btn.dataset.expand] = true;
     renderCivicAffiliations(ca);
   };
+  return true;
+}
+
+function renderCivicAffiliations(ca) {
+  if (!ca || !ca.total_donors_with_affiliations) {
+    AFFIL_CARD_DEFS.forEach(function (c) {
+      const el = document.getElementById(c.sectionId);
+      if (el) el.style.display = 'none';
+    });
+    return;
+  }
+  AFFIL_CARD_DEFS.forEach(function (cardDef) { renderAffiliationCard(cardDef, ca); });
 }
 
 let _PARTISAN_DATA = null;
