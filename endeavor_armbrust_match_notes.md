@@ -100,3 +100,50 @@ rows are excluded.
 Added dollars by reason (across roster): Endeavor — occupation-field literal
 ≈ $23.0k, known-principal/generic-employer ≈ $72.0k. Armbrust — occupation-field
 literal ≈ $15.7k, known-principal/generic-employer ≈ $58.0k.
+
+> **Note (2026-07-19):** every dollar figure above was computed from raw
+> `contribution_amount` sums and therefore **double-counts amended filings** —
+> see the addendum below. The match *rules* and row counts are unaffected.
+
+## Addendum (2026-07-19): amended-filing dedup
+
+The raw city feed repeats a contribution whenever a campaign amends a report:
+the superseded original stays in the dataset flagged `correction='X'`, and the
+enrichment pass sets its `balanced_amount` to 0. `generate_pdfs.py` was summing
+raw `contribution_amount`, counting every amended gift twice (for Watson alone:
+70 Endeavor rows worth $28,122 and 51 Armbrust rows worth $19,128 were
+duplicates). It now sums `COALESCE(balanced_amount, contribution_amount)` and
+skips non-positive rows — the same convention the website
+(`generate_profile_data.py`) uses. Travis County rows came from the PDF
+extractions, carry no amendment duplicates, and are unchanged.
+
+### Deduped totals (rules unchanged, duplicates removed)
+
+| member | Endeavor (was → now) | Armbrust (was → now) |
+|---|---|---|
+| Watson (Mayor) | $70,845 → $42,722 | $49,006 → $29,778 |
+| Harper-Madison D1 | $22,550 → $12,550 | $15,496 → $7,823 |
+| Fuentes D2 | $21,900 → $10,950 | $18,400 → $9,300 |
+| Velásquez D3 | $34,589 → $29,089 | $27,678 → $27,653 |
+| Vela D4 | $21,908 → $21,908 | $16,271 → $16,246 |
+| Alter D5 | $25,736 → $20,786 | $19,525 → $13,650 |
+| Laine D6 | $237 → $237 | $0 → $0 |
+| Siegel D7 | $0 → $0 | $22,075 → $22,000 |
+| Ellis D8 | $39,679 → $28,405 | $29,959 → $22,480 |
+| Qadri D9 | $20,594 → $10,297 | $21,350 → $10,875 |
+| Duchen D10 | $10,291 → $10,291 | $7,200 → $7,200 |
+| Brown (Judge) | $22,614 → $22,614 | $10,100 → $10,100 |
+| Travillion P1 | $19,828 → $19,828 | $12,629 → $12,629 |
+| Shea P2 | $4,966 → $4,966 | $23,816 → $23,816 |
+| Howard P3 | $2,060 → $2,060 | $15,200 → $15,200 |
+| Morales P4 | $20,954 → $20,954 | $14,106 → $14,106 |
+| **Roster total** | **$338,751 → $257,657** | **$302,811 → $242,856** |
+
+Remaining differences vs the website's Notable Firms card are methodology, not
+duplication: the site groups by resolved employer identity (so it makes its own
+calls on spouses/job-changers, e.g. it counts Greg Clay/JMI to Endeavor and the
+Bartram/Hollingsworth/Whitt households to Armbrust, while missing
+occupation-literal rows like Jennifer Marsh), and it splits Armbrust across
+several canonical identities. Known caveat in these PDFs: the donor-name literal
+rule counts anyone surnamed Armbrust — John Armbrust (educator, Austin Achieve,
+$2,000 to Watson) is likely unrelated to the firm.

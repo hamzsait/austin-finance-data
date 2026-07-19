@@ -176,15 +176,22 @@ def parse_date(s):
 
 
 def firm_stats(cur, recipient, matcher):
+    # Sum balanced_amount (falling back to contribution_amount where NULL) and
+    # skip non-positive rows: amended/superseded filings carry correction='X'
+    # and balanced_amount=0, so raw sums would double-count every amended gift.
     cur.execute(
         "SELECT donor, donor_reported_employer, donor_reported_occupation, "
-        "contribution_amount, contribution_date FROM campaign_finance WHERE recipient = ?",
+        "contribution_amount, balanced_amount, contribution_date "
+        "FROM campaign_finance WHERE recipient = ?",
         (recipient,))
     total, n, dates = 0.0, 0, []
-    for donor, emp, occ, amt, dt in cur.fetchall():
+    for donor, emp, occ, amt, bal, dt in cur.fetchall():
         if not matcher(donor, emp, occ):
             continue
-        total += parse_amt(amt)
+        a = parse_amt(amt) if bal is None else float(bal)
+        if a <= 0:
+            continue
+        total += a
         n += 1
         d = parse_date(dt)
         if d:
@@ -410,7 +417,7 @@ def draw_page(c, title, subtitle, rows, date_str):
     c.setFont("Helvetica", 9.5)
     c.drawRightString(x1, footer_top - 19, date_str)
     c.setFillColorRGB(*C_GREY)
-    note = ("All-time contributions (monetary + in-kind) where the donor, employer, or occupation matches the firm"
+    note = ("All-time contributions (monetary + in-kind) where the donor, employer, or occupation matches the firm; amended/superseded report rows excluded"
             "  ·  Source: City of Austin campaign finance dataset (data.austintexas.gov)  ·  Bars scaled to page maximum")
     fsize = 7.5
     while fsize > 5.5 and c.stringWidth(note, "Helvetica", fsize) > cw:
@@ -427,8 +434,8 @@ def main():
     travis = build(cur, TRAVIS)
     conn.close()
 
-    date_str = datetime(2026, 7, 17).strftime("%B %-d, %Y") if os.name != "nt" \
-        else "July 17, 2026"
+    date_str = datetime(2026, 7, 19).strftime("%B %-d, %Y") if os.name != "nt" \
+        else "July 19, 2026"
 
     out1 = os.path.join(HERE, "endeavor_armbrust_austin_council.pdf")
     c = canvas.Canvas(out1, pagesize=letter)     # portrait 8.5 x 11
