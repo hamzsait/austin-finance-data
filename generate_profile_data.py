@@ -145,6 +145,53 @@ CANDIDATE_CYCLES = {
 
 # Earliest contribution_year included in a profile (default 2018 = start of
 # clean city data). County officials have clean county filings back to 2016.
+# ── Affiliation buckets ──────────────────────────────────────────────────────
+# One entry per rendered bucket. `categories` is an exact-match list; `prefix`
+# matches any category starting with that string (used for the oil_gas_* family,
+# which has six legacy variants predating the v3 taxonomy).
+#
+# `spectrum` pairs opposing policy positions so the template can render them
+# side by side. A bucket with zero findings still emits an empty list and its
+# total, so the template can show an explicit zero rather than omitting the
+# column -- a blank pro-Palestine slot next to a populated pro-Israel one would
+# otherwise read as selective reporting. The v3 mandatory checklist ran the FEC
+# PAC search on 606/606 D1 donors, so these zeros are absences in the data, not
+# categories that went unsearched.
+#
+# `card` groups buckets into profile-page cards. Phase order per
+# AFFILIATION_TEMPLATE_EXPANSION_PLAN.md: policy first, then business,
+# political, civic.
+AFFILIATION_BUCKETS = [
+    # ── Policy & Advocacy ────────────────────────────────────────────────────
+    {"key": "pro_israel_advocacy", "label": "Pro-Israel advocacy",
+     "categories": ["aipac_direct", "pro_israel"], "card": "policy",
+     "spectrum": "israel_palestine"},
+    {"key": "palestine_advocacy", "label": "Palestinian-rights advocacy",
+     "categories": ["palestine_solidarity", "pro_palestine_advocacy"], "card": "policy",
+     "spectrum": "israel_palestine"},
+    {"key": "liberal_zionist", "label": "Liberal Zionist organizations",
+     "categories": ["liberal_zionist"], "card": "policy"},
+    {"key": "jewish_civic", "label": "Jewish communal organizations",
+     "categories": ["jewish_civic", "jewish_political"], "card": "policy"},
+    {"key": "gun_control", "label": "Gun-violence prevention",
+     "categories": ["gun_control"], "card": "policy", "spectrum": "guns"},
+    {"key": "gun_rights", "label": "Gun rights & firearms industry",
+     "categories": ["gun_rights"], "card": "policy", "spectrum": "guns"},
+    {"key": "oil_gas", "label": "Oil, gas & energy",
+     "categories": [], "prefix": "oil_gas", "card": "policy"},
+    {"key": "military_defense", "label": "Defense contracting",
+     "categories": ["military_defense"], "card": "policy"},
+    {"key": "healthcare", "label": "Healthcare institutions",
+     "categories": ["healthcare"], "card": "policy"},
+    # ── Later phases: emitted now, rendered when their card ships ────────────
+    {"key": "business", "label": "Business ownership & leadership",
+     "categories": ["business", "industry"], "card": "business"},
+    {"key": "political", "label": "Political & campaign roles",
+     "categories": ["political"], "card": "political"},
+    {"key": "civic", "label": "Community & civic roles",
+     "categories": ["civic"], "card": "civic"},
+]
+
 # Hero badge text per slug. The profile template reads meta.office at runtime and
 # overwrites whatever is in the HTML, so candidate framing has to be set here --
 # a string substitution in build_candidate.py gets clobbered by renderHero().
@@ -1112,65 +1159,50 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
             """Sort donors by local_total desc, then name."""
             return sorted(entries, key=lambda e: (-e["local_total"], e["donor_name"]))
 
-        # AIPAC-direct: only donors with an aipac_direct or pro_israel (AIPAC board) row
-        aipac_donors = []
-        for d in donor_affils.values():
-            if d["has_aipac_direct"] or d["has_pro_israel"]:
-                entry = bucket_entry(d, lambda r: r["category"] in ("aipac_direct", "pro_israel"))
-                if entry:
-                    aipac_donors.append(entry)
+        # ── Bucket assembly (config-driven) ──────────────────────────────────
+        # Previously this filtered to four hard-coded buckets and dropped every
+        # other category BEFORE serializing, so civic/political/business/
+        # gun_control/military_defense/gun_rights/healthcare/industry rows never
+        # reached any *_data.json at all -- 95-100% of D1 findings and 70% of
+        # Watson's were invisible. Buckets are now declared in AFFILIATION_BUCKETS
+        # and every category is emitted; the template decides what to display.
+        def matches(bucket, row_category):
+            if bucket.get("prefix"):
+                return row_category.startswith(bucket["prefix"])
+            return row_category in bucket["categories"]
 
-        # ADL (Anti-Defamation League) — split out as its own bucket. Matches any
-        # category=='jewish_civic' row whose org name contains ADL/Anti-Defamation League.
-        def is_adl_row(r):
-            org_lc = (r.get("org") or "").lower()
-            return r["category"] == "jewish_civic" and (
-                "anti-defamation" in org_lc or "adl" in org_lc
-            )
-        adl_donors = []
-        for d in donor_affils.values():
-            if d["has_adl"]:
-                entry = bucket_entry(d, is_adl_row)
+        by_category = {}
+        totals = {}
+        for bucket in AFFILIATION_BUCKETS:
+            key = bucket["key"]
+            entries = []
+            for d in donor_affils.values():
+                entry = bucket_entry(d, lambda r, b=bucket: matches(b, r["category"]))
                 if entry:
-                    adl_donors.append(entry)
-
-        # Liberal Zionist (J Street, OneVoice, PeaceWorks, National Jewish Democratic Council)
-        liberal_zionist_donors = []
-        for d in donor_affils.values():
-            if d["has_liberal_zionist"]:
-                entry = bucket_entry(d, lambda r: r["category"] == "liberal_zionist")
-                if entry:
-                    liberal_zionist_donors.append(entry)
-
-        # Oil & Gas (all oil_gas_* categories)
-        oil_gas_donors = []
-        for d in donor_affils.values():
-            if d["has_oil_gas"]:
-                entry = bucket_entry(d, lambda r: r["category"].startswith("oil_gas"))
-                if entry:
-                    oil_gas_donors.append(entry)
-
-        # ADL-specific sub-count (donors with an ADL board/role affiliation)
-        adl_donors_count = sum(1 for d in donor_affils.values() if d["has_adl"])
+                    entries.append(entry)
+            by_category[key] = sort_donors(entries)
+            totals[key] = len(entries)
 
         civic_affiliations_payload = {
             "total_donors_with_affiliations": len(donor_affils),
-            "total_adl": adl_donors_count,
-            "total_aipac_direct": len(aipac_donors),
-            "total_liberal_zionist": len(liberal_zionist_donors),
-            "total_oil_gas": len(oil_gas_donors),
-            "by_category": {
-                "aipac_direct": sort_donors(aipac_donors),
-                "adl": sort_donors(adl_donors),
-                "liberal_zionist": sort_donors(liberal_zionist_donors),
-                "oil_gas": sort_donors(oil_gas_donors),
-            },
+            "totals": totals,
+            # Legacy keys kept so older cached payloads / any external consumer
+            # keep working. jewish_civic replaces the old ADL org-name string
+            # match, which surfaced only orgs literally named "ADL" and dropped
+            # the other ~85 jewish_civic names while every other community's
+            # civic ties were dropped entirely -- see Phase 2 of
+            # AFFILIATION_TEMPLATE_EXPANSION_PLAN.md.
+            "total_adl": totals.get("jewish_civic", 0),
+            "total_aipac_direct": totals.get("pro_israel_advocacy", 0),
+            "total_liberal_zionist": totals.get("liberal_zionist", 0),
+            "total_oil_gas": totals.get("oil_gas", 0),
+            "by_category": by_category,
         }
         print(f"  Civic affiliations: {len(donor_affils)} donors matched")
-        print(f"    ADL board/honor: {adl_donors_count}")
-        print(f"    AIPAC direct:    {len(aipac_donors)}")
-        print(f"    Liberal Zionist: {len(liberal_zionist_donors)}")
-        print(f"    Oil & Gas:       {len(oil_gas_donors)}")
+        for bucket in AFFILIATION_BUCKETS:
+            n = totals.get(bucket["key"], 0)
+            if n:
+                print(f"    {bucket['label']:34} {n}")
 
     # ── Election cycles ───────────────────────────────────────────────────────
     cycles = []

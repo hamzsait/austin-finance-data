@@ -4,20 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Social link previews (Open Graph + Twitter) — placeholders filled by build_candidate.py -->
-<meta name="description" content="Zo Qadri (District 9) raised $417K from 1,932 donors. Top donor interests: Real Estate ($69K) and Technology ($59K). Every dollar decoded, donor by donor.">
+<meta name="description" content="Zo Qadri (District 9) raised $444K from 1,932 donors. Top donor interests: Real Estate ($69K) and Technology ($59K). Every dollar decoded, donor by donor.">
 <link rel="canonical" href="https://decodepolitics.org/austin/qadri/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="Zo Qadri — Austin Campaign Finance — decode(politics):">
-<meta property="og:description" content="Zo Qadri (District 9) raised $417K from 1,932 donors. Top donor interests: Real Estate ($69K) and Technology ($59K). Every dollar decoded, donor by donor.">
+<meta property="og:description" content="Zo Qadri (District 9) raised $444K from 1,932 donors. Top donor interests: Real Estate ($69K) and Technology ($59K). Every dollar decoded, donor by donor.">
 <meta property="og:url" content="https://decodepolitics.org/austin/qadri/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-qadri.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Zo Qadri (District 9) — $417K raised, 1,932 donors, decoded by decode(politics):">
+<meta property="og:image:alt" content="Zo Qadri (District 9) — $444K raised, 1,932 donors, decoded by decode(politics):">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Zo Qadri — Austin Campaign Finance — decode(politics):">
-<meta name="twitter:description" content="Zo Qadri (District 9) raised $417K from 1,932 donors. Top donor interests: Real Estate ($69K) and Technology ($59K). Every dollar decoded, donor by donor.">
+<meta name="twitter:description" content="Zo Qadri (District 9) raised $444K from 1,932 donors. Top donor interests: Real Estate ($69K) and Technology ($59K). Every dollar decoded, donor by donor.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-qadri.png">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
@@ -522,6 +522,31 @@
     white-space: nowrap;
   }
   .civic-org-source:hover { text-decoration: underline; }
+
+  /* Spectrum pairs: opposing policy positions side by side, matched styling.
+     A zero-count side stays visible so an empty column reads as a measured
+     zero rather than an omission. */
+  .civic-spectrum {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 14px;
+    margin-bottom: 18px;
+  }
+  .civic-spectrum .civic-cat-block { margin-bottom: 0; }
+  .civic-cat-empty { opacity: .72; }
+  .civic-zero {
+    font-size: 12.5px; color: var(--muted); font-style: italic;
+    padding: 10px 12px; background: var(--surface);
+    border: 1px dashed var(--border); border-radius: 8px;
+  }
+  .civic-more {
+    margin-top: 10px; width: 100%; cursor: pointer;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 9px 0; color: var(--muted);
+    font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 11.5px;
+    letter-spacing: .06em; text-transform: uppercase;
+    transition: background .13s ease, color .13s ease;
+  }
+  .civic-more:hover { background: #F5A623; color: #18314f; border-color: #F5A623; }
+  @media (max-width: 720px) { .civic-spectrum { grid-template-columns: 1fr; } }
 
   @media (max-width: 700px) {
     .civic-stats { grid-template-columns: repeat(2, 1fr); }
@@ -1131,7 +1156,7 @@
 
     <!-- ── Verified Organizational Affiliations ── -->
     <div id="civicSection" class="card" style="display:none;margin-bottom:20px">
-      <div class="card-title">Verified Organizational Affiliations
+      <div class="card-title">Policy &amp; Advocacy Ties
         <span class="hint" id="civicHint">board memberships and named roles from public sources</span>
       </div>
       <div class="civic-methodology" id="civicMethodology"></div>
@@ -2063,116 +2088,168 @@ function openIpDetail(ci, di) {
 }
 
 // ── Verified civic affiliations ──────────────────────────────────────────────
+// ── Affiliation cards (config-driven) ────────────────────────────────────────
+// Buckets are declared in AFFILIATION_BUCKETS in generate_profile_data.py and
+// arrive in ca.by_category keyed by bucket key. AFFIL_CARD_DEFS below decides
+// which buckets group into which on-page card and in what order.
+//
+// Spectrum pairs (pro-Israel / Palestinian-rights, gun control / gun rights)
+// render adjacently with matched styling, and a zero-count side still renders
+// with an explicit "0 donors" rather than being omitted -- an omitted column
+// next to a populated one reads as selective reporting.
+const AFFIL_CARD_DEFS = [
+  {
+    card: 'policy',
+    buckets: [
+      { key: 'pro_israel_advocacy', title: 'Pro-Israel Advocacy', color: '#1d4ed8', spectrum: 'israel_palestine',
+        desc: 'Donors with documented AIPAC or other pro-Israel advocacy roles &mdash; leadership, board, or staff positions.' },
+      { key: 'palestine_advocacy', title: 'Palestinian-Rights Advocacy', color: '#0f766e', spectrum: 'israel_palestine',
+        desc: 'Donors with documented roles at Palestinian-rights or solidarity organizations (Jewish Voice for Peace, IfNotNow, and similar).' },
+      { key: 'liberal_zionist', title: 'Liberal Zionist Organizations', color: '#7c3aed',
+        desc: 'Donors affiliated with two-state, dovish, or peace-oriented Zionist groups (J Street, OneVoice, and similar).' },
+      { key: 'jewish_civic', title: 'Jewish Communal Organizations', color: '#6366f1',
+        desc: 'Donors with board, honoree, or senior staff roles at Jewish communal organizations, including the ADL and local federations. Organizational roles only &mdash; not an indicator of personal identity or religion.' },
+      { key: 'gun_control', title: 'Gun-Violence Prevention', color: '#0891b2', spectrum: 'guns',
+        desc: 'Donors with leadership or staff roles at gun-violence-prevention organizations.' },
+      { key: 'gun_rights', title: 'Gun Rights &amp; Firearms Industry', color: '#b45309', spectrum: 'guns',
+        desc: 'Donors with leadership roles at gun-rights organizations or firearms-industry companies.' },
+      { key: 'oil_gas', title: 'Oil, Gas &amp; Energy', color: '#ef4444',
+        desc: 'Donors who own, run, or hold board roles at oil &amp; gas producers, energy services firms, and industry associations.' },
+      { key: 'military_defense', title: 'Defense Contracting', color: '#475569',
+        desc: 'Donors with executive, board, or ownership roles at defense contractors.' },
+      { key: 'healthcare', title: 'Healthcare Institutions', color: '#059669',
+        desc: 'Donors with board or leadership roles at hospitals and medical institutions.' },
+    ],
+  },
+];
+
+var _AFFIL_EXPANDED = {};
+
+function affilFmtMoney(n) { return '$' + Math.round(n).toLocaleString(); }
+function affilEsc(s) {
+  return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// Renders one bucket block. `donors` may be empty -- an empty spectrum-paired
+// bucket still renders its header with an explicit zero.
+function affilBucketHtml(bucket, donors, cap) {
+  cap = (cap && !_AFFIL_EXPANDED[bucket.key]) ? cap : 0;
+  const shown = cap && donors.length > cap ? donors.slice(0, cap) : donors;
+  const hidden = donors.length - shown.length;
+
+  if (!donors.length && !bucket.spectrum) return '';
+
+  let html = '<div class="civic-cat-block' + (!donors.length ? ' civic-cat-empty' : '') + '">'
+    + '<div class="civic-cat-header">'
+    + '<span class="civic-cat-title" style="color:' + bucket.color + '">' + bucket.title + '</span>'
+    + '<span class="civic-cat-count">' + donors.length + ' donor' + (donors.length !== 1 ? 's' : '') + '</span>'
+    + '</div>'
+    + '<div class="civic-cat-desc">' + bucket.desc + '</div>';
+
+  if (!donors.length) {
+    return html + '<div class="civic-zero">No donors with a documented role in this category.</div></div>';
+  }
+
+  shown.forEach(function (d) {
+    const giftsLabel = d.gifts === 1 ? '1 gift' : d.gifts + ' gifts';
+    html += '<div class="civic-donor" style="border-left-color:' + bucket.color + '">'
+      + '<div class="civic-donor-head">'
+      + '<div class="civic-donor-name">' + affilEsc(d.donor_name) + '</div>'
+      + '<div class="civic-donor-right">'
+      + '<span class="civic-donor-amount">' + affilFmtMoney(d.local_total) + '</span>'
+      + '&nbsp;local &middot; ' + giftsLabel
+      + '</div></div><ul class="civic-org-list">';
+    d.organizations.forEach(function (org) {
+      const src = org.source && org.source.trim()
+        ? '<a class="civic-org-source" href="' + affilEsc(org.source) + '" target="_blank" rel="noopener nofollow">source &#x2197;</a>'
+        : '';
+      html += '<li class="civic-org-item">'
+        + '<span class="civic-org-name">' + affilEsc(org.org) + '</span>'
+        + (org.role ? ' &mdash; <span class="civic-org-role">' + affilEsc(org.role) + '</span>' : '')
+        + ' ' + src + '</li>';
+    });
+    html += '</ul></div>';
+  });
+
+  if (hidden > 0) {
+    html += '<button class="civic-more" data-expand="' + bucket.key + '">Show ' + hidden + ' more</button>';
+  }
+  return html + '</div>';
+}
+
 function renderCivicAffiliations(ca) {
   const section = document.getElementById('civicSection');
-  if (!ca || !ca.total_donors_with_affiliations) {
+  if (!ca || !ca.total_donors_with_affiliations) { section.style.display = 'none'; return; }
+
+  const byCat = ca.by_category || {};
+  const card = AFFIL_CARD_DEFS[0];
+
+  // Show the card only if at least one bucket in it has findings.
+  if (!card.buckets.some(function (b) { return (byCat[b.key] || []).length; })) {
     section.style.display = 'none';
     return;
   }
   section.style.display = '';
 
-  const fmt = n => '$' + Math.round(n).toLocaleString();
-  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-
-  // Header hint
-  document.getElementById('civicHint').textContent =
-    `${ca.total_donors_with_affiliations} donors with documented public roles`;
-
-  // Methodology note
-  document.getElementById('civicMethodology').innerHTML =
-    '<strong>How to read this:</strong> Each entry below is a verified public organizational role ' +
-    '&mdash; board memberships, named funds, honorary awards, or senior staff positions documented in ' +
-    'publicly available sources (annual reports, press releases, IRS filings). ' +
-    '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> ' +
-    'Each category below refers to organizational affiliation, not personal identity. ' +
-    'AIPAC-direct roles are listed separately from ADL board involvement and liberal-Zionist organizational ties.';
-
-  // Stats strip
-  const stats = [
-    { label: 'Donors Total',     value: ca.total_donors_with_affiliations, color: '#4f8ef7' },
-    { label: 'ADL Board/Honor',  value: ca.total_adl,                      color: '#6366f1' },
-    { label: 'AIPAC Direct',     value: ca.total_aipac_direct,             color: '#1d4ed8' },
-    { label: 'Oil & Gas',        value: ca.total_oil_gas,                  color: '#ef4444' },
-  ];
-  document.getElementById('civicStats').innerHTML = stats.map(s =>
-    `<div class="civic-stat">
-       <div class="civic-stat-value" style="color:${s.color}">${s.value}</div>
-       <div class="civic-stat-label">${s.label}</div>
-     </div>`
-  ).join('');
-
-  // Category blocks — ordered intentionally: distinct buckets, direct-ties first
-  const categories = [
-    {
-      key: 'aipac_direct',
-      title: 'AIPAC &amp; Direct Pro-Israel Lobbying Roles',
-      color: '#1d4ed8',
-      desc: 'Donors with documented AIPAC leadership, speaker, or board roles &mdash; or similar direct pro-Israel lobbying affiliations. This is the narrowest and most specific category.',
-    },
-    {
-      key: 'liberal_zionist',
-      title: 'Liberal Zionist Organizations',
-      color: '#7c3aed',
-      desc: 'Donors affiliated with two-state, dovish, or peace-oriented Zionist groups (J Street, OneVoice Movement, National Jewish Democratic Council, etc.).',
-    },
-    {
-      key: 'adl',
-      title: 'Anti-Defamation League (ADL) Board &amp; Honor Roles',
-      color: '#6366f1',
-      desc: 'Donors with verified ADL national or regional board roles, True Colors / Golden Door honorees, and senior ADL staff. ADL combines civil-rights advocacy with explicit pro-Israel political positioning; included here for transparency as a named political organization.',
-    },
-    {
-      key: 'oil_gas',
-      title: 'Oil, Gas &amp; Energy Industry Ties',
-      color: '#ef4444',
-      desc: 'Donors employed by or with board/advisory roles at oil & gas majors, independents, energy law firms, and industry associations.',
-    },
-  ];
-
-  let html = '';
-  categories.forEach(cat => {
-    const donors = (ca.by_category && ca.by_category[cat.key]) || [];
-    if (!donors.length) return;
-
-    html += `<div class="civic-cat-block">
-      <div class="civic-cat-header">
-        <span class="civic-cat-title" style="color:${cat.color}">${cat.title}</span>
-        <span class="civic-cat-count">${donors.length} donor${donors.length !== 1 ? 's' : ''}</span>
-      </div>
-      <div class="civic-cat-desc">${cat.desc}</div>`;
-
-    donors.forEach(d => {
-      const giftsLabel = d.gifts === 1 ? '1 gift' : `${d.gifts} gifts`;
-      html += `<div class="civic-donor" style="border-left-color:${cat.color}">
-        <div class="civic-donor-head">
-          <div class="civic-donor-name">${esc(d.donor_name)}</div>
-          <div class="civic-donor-right">
-            <span class="civic-donor-amount">${fmt(d.local_total)}</span>
-            &nbsp;local &middot; ${giftsLabel}
-          </div>
-        </div>
-        <ul class="civic-org-list">`;
-
-      d.organizations.forEach(org => {
-        const orgName = esc(org.org);
-        const role = esc(org.role);
-        const src = org.source && org.source.trim()
-          ? `<a class="civic-org-source" href="${esc(org.source)}" target="_blank" rel="noopener">source &#x2197;</a>`
-          : '';
-        html += `<li class="civic-org-item">
-          <span class="civic-org-name">${orgName}</span>
-          ${role ? `&mdash; <span class="civic-org-role">${role}</span>` : ''}
-          ${src}
-        </li>`;
-      });
-
-      html += '</ul></div>';
-    });
-    html += '</div>';
+  const uniqueDonors = new Set();
+  card.buckets.forEach(function (b) {
+    (byCat[b.key] || []).forEach(function (d) { uniqueDonors.add(d.donor_name); });
   });
 
-  document.getElementById('civicContent').innerHTML = html;
+  document.getElementById('civicHint').textContent =
+    uniqueDonors.size + ' donor' + (uniqueDonors.size !== 1 ? 's' : '') + ' with documented policy or advocacy roles';
+
+  document.getElementById('civicMethodology').innerHTML =
+    '<strong>How to read this:</strong> Each entry is a documented organizational role &mdash; board membership, '
+    + 'named fund, honoree, senior staff, or ownership &mdash; sourced from publicly available records. '
+    + '<strong>These are NOT inferred from names, ethnicity, or religion.</strong> Each category refers to '
+    + 'organizational affiliation, not personal identity. Some roles are reported from a person&rsquo;s own published '
+    + 'biography rather than independently confirmed against an organization&rsquo;s roster; the source link on each '
+    + 'row shows what a finding rests on. <strong>Both sides of each policy spectrum are searched and reported</strong> '
+    + '&mdash; the federal PAC and lobbyist-registry searches ran on every donor in this pool, so a category showing '
+    + 'zero is an absence in the record, not a category that went unsearched.';
+
+  const stats = card.buckets
+    .filter(function (b) { return (byCat[b.key] || []).length; })
+    .slice(0, 4)
+    .map(function (b) {
+      return { label: b.title.replace(/&amp;/g, '&'), value: (byCat[b.key] || []).length, color: b.color };
+    });
+  document.getElementById('civicStats').innerHTML = stats.map(function (s) {
+    return '<div class="civic-stat">'
+      + '<div class="civic-stat-value" style="color:' + s.color + '">' + s.value + '</div>'
+      + '<div class="civic-stat-label">' + s.label + '</div></div>';
+  }).join('');
+
+  // Group spectrum-paired buckets so opposing positions render adjacent.
+  let html = '';
+  const emitted = {};
+  card.buckets.forEach(function (b) {
+    if (emitted[b.key]) return;
+    if (b.spectrum) {
+      const pair = card.buckets.filter(function (x) { return x.spectrum === b.spectrum; });
+      const pairHasAny = pair.some(function (x) { return (byCat[x.key] || []).length; });
+      pair.forEach(function (x) { emitted[x.key] = true; });
+      if (pairHasAny) {
+        html += '<div class="civic-spectrum">';
+        pair.forEach(function (x) { html += affilBucketHtml(x, byCat[x.key] || []); });
+        html += '</div>';
+      }
+    } else {
+      emitted[b.key] = true;
+      html += affilBucketHtml(b, byCat[b.key] || []);
+    }
+  });
+
+  const content = document.getElementById('civicContent');
+  content.innerHTML = html;
+  content.onclick = function (ev) {
+    const btn = ev.target.closest('.civic-more');
+    if (!btn) return;
+    _AFFIL_EXPANDED[btn.dataset.expand] = true;
+    renderCivicAffiliations(ca);
+  };
 }
 
 let _PARTISAN_DATA = null;
