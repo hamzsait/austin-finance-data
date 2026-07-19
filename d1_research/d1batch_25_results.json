@@ -1,0 +1,332 @@
+[
+ {
+  "donor_id": "6c9670e6b765ca79",
+  "name": "Maher, Caitlin",
+  "resolved_employer": "Not employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as 'Not Employed' on the City of Austin filing; East Austin (78702) resident giving $100 to Misael Ramos. Name searches surfaced multiple unrelated Austin-area Caitlin Mahers (a nutritionist at BeWell Associates, a hair stylist at Golden Hair Studio) with no zip/occupation corroboration to this donor, so no identity match is claimed. Zero FEC federal contributions on record.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6ce4ad23305bbac1",
+  "name": "Emery, Julie",
+  "resolved_employer": "9to5 (National Association of Working Women) — Wisconsin State Director; formerly Executive Director, Virginia Civic Engagement Table (the employer listed on the filing)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Career progressive/labor organizer: SEIU Virginia political director, then Executive Director of the Virginia Civic Engagement Table (a 501(c)(4)/(c)(3) civic-engagement coalition), then State Director of 9to5 Wisconsin — the Milwaukee-area role corroborates the West Allis, WI 53219 address on the $100 gift to Amber Goodwin. Registered as a lobbyist in Wisconsin (for 9to5) and in Virginia (for VCET). ZoomInfo also lists a more recent Interim Executive Director role at Land Stewardship Project (Minneapolis); the VCET employer on the filing appears to be a stale self-report.",
+  "source_url": "https://9to5.org/welcome-julie-emery-9to5-wisconsin-state-director/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "9to5, National Association of Working Women (Wisconsin)",
+    "role": "State Director; registered lobbyist for 9to5 in Wisconsin (Oct 2019 – Jul 2020 registration period)",
+    "category": "civic",
+    "source_url": "https://lobbying.wi.gov/Who/LobbyistInformation/2019REG/Information/9179",
+    "snippet": "Wisconsin lobbying registry lists Julie Emery as a non-exclusive lobbyist for principal '9to5, National Association of Working Women,' Milwaukee, registration period 10/31/2019–7/30/2020."
+   },
+   {
+    "org": "Virginia Civic Engagement Table",
+    "role": "Executive Director; registered Virginia lobbyist (registered 12/21/2018) on voting rights, minimum wage, criminal justice reform",
+    "category": "political",
+    "source_url": "https://www.vpap.org/lobbying/lobbyist/220028-julie-a-emery/",
+    "snippet": "VPAP lobbyist record lists Julie A. Emery as Executive Director for the Virginia Civic Engagement Table, registered 12/21/2018, on voting rights, raising the minimum wage, and criminal justice reform."
+   },
+   {
+    "org": "SEIU Virginia",
+    "role": "Political Director (former), working with home care and county workers",
+    "category": "political",
+    "source_url": "https://9to5.org/welcome-julie-emery-9to5-wisconsin-state-director/",
+    "snippet": "Bio: 'Political Director for SEIU in Virginia, where she worked with home care and county workers' before becoming Executive Director of the Virginia Civic Engagement Table."
+   }
+  ]
+ },
+ {
+  "donor_id": "6d9a4514e6dab98b",
+  "name": "Landuyt, Noel",
+  "resolved_employer": "The University of Texas at Austin — Director, Institute for Organizational Excellence; Assistant Professor of Instruction, Steve Hicks School of Social Work and LBJ School of Public Affairs",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Noel Landuyt directs UT Austin's Institute for Organizational Excellence and coordinates the Survey of Employee Engagement used by Texas state agencies and nonprofits; the 'Administrator / UT Austin' occupation on the $100 gift to Amber Goodwin and the 78703 (west-central Austin) address are consistent. Long record of Austin nonprofit board service, chiefly LGBTQ health and legal organizations — board chair of AIDS Services of Austin (now Vivent Health). No lobbyist registration or industry-PAC ties found.",
+  "source_url": "https://socialwork.utexas.edu/directory/noel-landuyt/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AIDS Services of Austin / Vivent Health",
+    "role": "Board Chair / board member",
+    "category": "civic",
+    "source_url": "https://www.facebook.com/AIDS.Services.of.Austin/videos/local-support-still-matters-noel-landuyt-asa-board-chair/192941198603641/",
+    "snippet": "AIDS Services of Austin video titled 'Local support still matters — Noel Landuyt, ASA Board Chair'; a companion ASA post describes him as 'Vivent Health board member and Austin donor Noel Landuyt.' Nonprofit-filing profiles also list Noel Landuyt PhD as a board member of AIDS Services of Austin Inc (EIN 74-2440845)."
+   }
+  ]
+ },
+ {
+  "donor_id": "6d9aa0882f60b723",
+  "name": "BEALL, JON",
+  "resolved_employer": "Retired (prior career not identified in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported 'RETIRED' on the $100 gift to Steven Brown; 78766 is an Austin PO-box zip, so no neighborhood corroboration. Prior FEC matching in this dataset shows a heavy small-dollar federal giving history (234 contributions, mixed partisan lean), but web searches could not pin the donor to any one of the several Austin-area men named Jon/Jonathan Beall (a coppersmith who founded Sertodo Copper, a Leadership Austin alumnus, an Austin Monitor early supporter, an LLC manager). No former career is claimed without corroboration.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6de13833fd8d45a2",
+  "name": "Carroll, Lynae",
+  "resolved_employer": "Freelance videographer/editor (credited as \"Videographer and Editor\" on an Austin client project for St. David's Church, Austin)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "The Episcopal Communicators 2025 Polly Bond Award winners page credits \"Videographer and Editor Lynae Carroll\" on the \"Downtown Vision Award\" short-form video produced for St. David's Church, Austin, TX — a documented professional credit that matches the donation record's occupation \"Videographer\" / employer \"Freelance\" and Austin location. A LinkedIn profile (linkedin.com/in/lynae-carroll-91244085) exists but returned HTTP 999 and could not be read; an unrelated Austin speech-language pathologist with the same name also appears in public records, so the 78745 zip could not be independently corroborated. No FEC PAC records, no Texas Ethics Commission lobbyist registration, and no board/leadership roles were found.",
+  "source_url": "https://episcopal-communicators.wildapricot.org/page-1856245",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6f86570b65721182",
+  "name": "C Garcia, Julio",
+  "resolved_employer": "Not employed (self-reported on the contribution record)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be matched to this donor. The contribution record self-reports occupation and employer as \"Not Employed\" at Austin zip 78741, and the name as filed (\"Julio C Garcia\") is very common in Austin. Searches of FEC/OpenSecrets-derived contribution listings, the Texas Ethics Commission lobbyist registry, the City of Austin lobbyist registry, and general web sources surfaced no individual who could be corroborated as this donor (TEC lists several unrelated Garcia registrants — Joe A., Lisa A., Matthew R., Erika N. — none named Julio). Industry is taken from the self-reported employment status only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "746ae0db700f3d4d",
+  "name": "Williams, Stanley",
+  "resolved_employer": "Self-employed business owner (nature of business not publicly identifiable)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "An out-of-state donor (Los Angeles, CA 90027 / Los Feliz) giving $100 to Amber Goodwin, whose national gun-violence-prevention work (Community Justice Action Fund) draws out-of-state small-dollar support. \"Stanley Williams\" is an extremely common name; searches surfaced multiple unrelated Los Angeles-area individuals (e.g., a \"Standard Operations LLC\" founder and a San Diego \"B+Positive Business Research and Development LLC\" CEO) with nothing tying any of them to zip 90027. The pipeline records zero FEC contributions for this donor, and no Texas Ethics Commission or Los Angeles lobbyist registration was found. Industry reflects the self-reported \"Business Owner / Self\" only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74d166a65fec9e4f",
+  "name": "Clements, Andrew",
+  "resolved_employer": "State of Texas — architect (retired)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A federal contribution record for \"Andrew Clements\" at Austin zip 78723 — an exact match to this donor's zip — lists employer \"STATE OF TEXAS\" and occupation \"ARCHITECT\" on a $100 ActBlue contribution dated 11/19/2019, consistent with a now-RETIRED donor whose pipeline record shows 676 federal contributions and a fully Democratic partisan lean (an ActBlue recurring small-dollar pattern). No Texas Ethics Commission or City of Austin lobbyist registration was found. Note: a separate Andrew (Wilson) Clements — a City of Austin project manager and former Austin Planning Commissioner appointed by CM Jimmy Flannigan in 2017 — appears in searches but is apparently still working and was not corroborated as this retired donor, so no civic affiliation is recorded.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part76.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74e7f2448ce09d45",
+  "name": "Cotera, Martha",
+  "resolved_employer": "Retired librarian, author and civil-rights organizer; former Director of Documents, Texas State Library and special staff consultant, Benson Latin American Collection, UT Austin (retired)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Martha P. Cotera (b. 1938), longtime South Austin resident and nationally documented Chicana feminist organizer: co-founder of the Texas Women's Political Caucus (1973), founder of the Chicana Research and Learning Center in Austin (1974), co-founder of Raza Unida Party and of the Greater Austin Hispanic Chamber of Commerce and the Emma S. Barrientos Mexican American Cultural Center. Identity corroborated by distinctive name, Austin residence in public records, all-Democratic federal giving pattern (69 recorded federal gifts, lean 1.0) consistent with her documented lifelong Democratic/Chicano-movement activism, and her service on a City of Austin commission. City of Austin proclaimed 'Martha P. Cotera Day' on Aug 25, 2023.",
+  "source_url": "https://en.wikipedia.org/wiki/Martha_P._Cotera",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Latino Arts, Culture & Education (LACE Texas)",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://lacetexas.org/about-us/",
+    "snippet": "Listed among LACE Texas board members: \"Martha P. Cotera's 58-year span of community service includes feminist activism as founder of Mujeres Pro Raza Unida, the Texas Women's Political Caucus, and of the Mexican American Business and Professional Women of Austin.\""
+   },
+   {
+    "org": "City of Austin 2018 Charter Review Commission",
+    "role": "Commissioner (appointed by Council Member Garza)",
+    "category": "civic",
+    "source_url": "https://www.austintexas.gov/content/2018-charter-review-commission",
+    "snippet": "Martha Cotera is listed as a member of the City of Austin's 2018 Charter Review Commission."
+   },
+   {
+    "org": "Texas Women's Political Caucus / Raza Unida Party (Mujeres de La Raza Unida)",
+    "role": "Co-founder",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Martha_P._Cotera",
+    "snippet": "\"The Texas Women's Political Caucus was founded by Cotera and other women in 1973\"; she also co-founded Mujeres de La Raza Unida to advance women's political participation within the Raza Unida Party."
+   },
+   {
+    "org": "Chicana Research and Learning Center, Austin",
+    "role": "Founder",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Martha_P._Cotera",
+    "snippet": "\"In 1974, she founded the non-profit Chicana Research and Learning Center in Austin, Texas.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "75e1b85d8a986952",
+  "name": "Athens, Lucia",
+  "resolved_employer": "Retired — City of Austin's first Chief Sustainability Officer (2010–Jan 2023); now independent author/keynote speaker/consultant (retired from public service)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Lucia Athens served 12 years as the City of Austin's first Chief Sustainability Officer and retired from City service in January 2023; she now works as an author and speaker (book 'The Sustainability Revolutionists'). Her self-reported occupation of 'Unemployed'/employer 'None' on the April 2026 contribution is consistent with that retirement, and the distinctive name plus Austin residence corroborate identity. Earlier career: led Seattle's green building program for 10 years; MS in Architectural Studies (sustainable design), UT Austin.",
+  "source_url": "https://www.austintexas.gov/blog/get-know-zach-baumer-interim-chief-sustainability-officer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "U.S. Green Building Council",
+    "role": "Member, National Board of Directors (former)",
+    "category": "civic",
+    "source_url": "https://www.luciaathens.com/",
+    "snippet": "Athens \"has served in key sustainability leadership positions with the board of directors for the U.S. Green Building Council and the Green Business Certification Institute.\""
+   },
+   {
+    "org": "Green Business Certification Institute / EcoDistricts",
+    "role": "Board member (former)",
+    "category": "civic",
+    "source_url": "https://www.luciaathens.com/",
+    "snippet": "Served on the board of directors for the Green Business Certification Institute and Portland-based EcoDistricts."
+   }
+  ]
+ },
+ {
+  "donor_id": "7669c5dfa24de188",
+  "name": "Poteet, Brian",
+  "resolved_employer": "Cutsforth, Inc. — Software Engineer (donation record spells it 'Custforth, Inc')",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Brian Poteet is a Software Engineer at Cutsforth, Inc. (electrical-equipment monitoring for power generation), matching the donor-reported employer string 'Custforth, Inc'. His work history is Austin-anchored — National Instruments (Applications Engineer, Product Support Engineer, Staff Software Engineer) and student technician at UT Austin's Applied Research Laboratories — corroborating the Austin 78751 address. No leadership, board, or ownership role found at any employer.",
+  "source_url": "https://www.linkedin.com/in/brian-poteet-b91392a4/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "76ac874691f45f17",
+  "name": "talley, michelle",
+  "resolved_employer": "Nursing facility (employer named only generically as 'Nursing Facility' on the filing); occupation Nurse",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported as a Nurse at a 'Nursing Facility' in Austin 78727. 'Michelle Talley' is a common name with 65+ Texas matches in public people-search records and no distinguishing detail on the filing, so the specific individual could not be confirmed; no federal contribution history (0 FEC gifts). Industry assigned by the categorize-by-employer fallback from the stated occupation only.",
+  "source_url": "https://www.spokeo.com/Michelle-Talley/Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77e198c893a00aba",
+  "name": "Fowler, Seth",
+  "resolved_employer": "Austin Independent School District (teacher / special-education case manager)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "A Seth Fowler is listed publicly as a Case Manager and Teacher at Austin Independent School District with an @austinisd.org address, matching the self-reported occupation 'Teacher' and employer 'Austin ISD'. Zip 78723 is in AISD's northeast Austin attendance area. 'Seth Fowler' is a reasonably common name and no bio page tied the AISD employee specifically to the 78723 address, so identity is corroborated by occupation+employer only, not by address.",
+  "source_url": "https://www.zoominfo.com/p/Seth-Fowler/1494407577",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "79574288d4de72b9",
+  "name": "Burnette, Colette",
+  "resolved_employer": "Waterloo Greenway Conservancy (WGC) — Chief Executive Officer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as Dr. Colette Pierce Burnette. The employer string 'WGC' resolves to Waterloo Greenway Conservancy, which named her CEO effective April 1, 2025; the CEO title in the filing matches exactly. She is the former (and first female) president of Huston-Tillotson University in Austin and was previously a Waterloo Greenway board member. Austin residency and the CEO title corroborate the 78703 filing.",
+  "source_url": "https://waterloogreenway.org/waterloo-greenway-names-dr-colette-pierce-burnette-as-ceo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Waterloo Greenway Conservancy",
+    "role": "Chief Executive Officer (former board member)",
+    "category": "civic",
+    "source_url": "https://waterloogreenway.org/waterloo-greenway-names-dr-colette-pierce-burnette-as-ceo/",
+    "snippet": "Named CEO of Waterloo Greenway effective April 1, 2025, leading completion of a $400 million, 35-acre downtown urban park project; previously served on the Waterloo Greenway board."
+   },
+   {
+    "org": "Huston-Tillotson University",
+    "role": "President and CEO (former; first female president)",
+    "category": "civic",
+    "source_url": "http://txdc.org/v2/our-board/board-of-directors/colette-pierce-burnette/",
+    "snippet": "Serves as President and Chief Executive Officer of Huston-Tillotson University, a role she assumed on July 1, 2015."
+   },
+   {
+    "org": "City of Austin Mayor's Task Force on Institutional Racism and Systemic Inequities",
+    "role": "Co-chair",
+    "category": "political",
+    "source_url": "http://txdc.org/v2/our-board/board-of-directors/colette-pierce-burnette/",
+    "snippet": "She also serves as co-chair of the Mayor's Task Force on Institutional Racism and Systemic Inequities."
+   },
+   {
+    "org": "Greater Austin Chamber of Commerce / Greater Austin Black Chamber of Commerce",
+    "role": "Board member",
+    "category": "business",
+    "source_url": "http://txdc.org/v2/our-board/board-of-directors/colette-pierce-burnette/",
+    "snippet": "Holds positions on numerous Austin-based boards, including Leadership Austin, Greater Austin Black Chamber of Commerce, Greater Austin Chamber of Commerce, and Greater Austin Urban League."
+   },
+   {
+    "org": "Texas Diversity Council",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "http://txdc.org/v2/our-board/board-of-directors/colette-pierce-burnette/",
+    "snippet": "Listed on the Texas Diversity Council board of directors page as Colette Pierce Burnette, EdD."
+   }
+  ]
+ },
+ {
+  "donor_id": "7a9b6c8df6a91933",
+  "name": "Pearson, Matthew",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify this person. The filing lists no occupation and no employer, and the single 2022-10-14 gift gives no behavioral signal. Zip 78705 is the UT-Austin campus/West Campus area, which is heavily student and transient. Multiple distinct Matthew Pearsons exist in Austin; the most prominent (Dr. Matthew D. Pearson, urologist) practices at a 78758 address and nothing corroborates him to 78705 or to this contribution. No industry assigned rather than guess.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c0d9670f0c7008b",
+  "name": "Asghari, Sascha",
+  "resolved_employer": "Laser & Electrolysis Studio Inc. (L.E.S.), 1513 W Koenig Ln, Austin — owner",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "The employer string 'L.E.S. INC.' resolves to Laser & Electrolysis Studio Inc. of Austin, whose About page names Sascha Asghari as owner since 2017, matching the self-reported occupation 'Business owner'. Bio: Texas State University graduate, six years at Apple Inc. before the studio; Certified Laser Hair Removal Professional and Certified Microneedling Technician. Classified as Retail (consumer personal-care service storefront) rather than Healthcare, since the business is a cosmetic hair-removal studio, not a clinical provider.",
+  "source_url": "https://laserelect.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7cf1024a4ad933f2",
+  "name": "Moore, Robin",
+  "resolved_employer": "Addus HomeCare (home care aide, Chicago IL)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'Homecare provider' at 'Addus homecare'; Addus HomeCare is a real publicly traded home-care company with Chicago-area operations (offices at 2333-2341 W 95th St and 9259 S Western Ave, near the donor's 60628 zip), so the employer string is corroborated as a genuine local employer. No individual public profile, bio page, or news mention for this specific Robin Moore was found; multiple unrelated Robin Moore LinkedIn profiles exist in other cities/industries. Employer-fallback classification only.",
+  "source_url": "https://addus.com/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e45a717e351c742",
+  "name": "Salinas, Claudia",
+  "resolved_employer": "Chrysler (self-reported; most plausibly a Brownsville-area Chrysler/Dodge/Jeep/Ram dealership - NOT independently verified)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Self-reported as 'Executive Assistant' at 'Chrysler' in Brownsville TX 78520. The only Chrysler-badged business identified in the Brownsville market is a Chrysler Dodge Jeep Ram franchise dealership; its staff directory returned HTTP 403 and could not be read, so her employment there is unconfirmed. Web searches surfaced a different Claudia Salinas in Brownsville (a family nurse practitioner) who does not match the reported occupation, so that profile was rejected rather than used. The pipeline's own FEC match records 72 federal contributions with a 0.796 Democratic partisan lean, consistent with a recurring small-dollar ActBlue-style giving pattern; no individual PAC-level records were retrievable via public web search (FEC API returned HTTP 429 throughout) and no ideological or industry PAC ties were surfaced.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Claudia+Salinas&contributor_state=TX&contributor_zip=78520",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7ea46791d76179c5",
+  "name": "FADOOL, ANGELINA",
+  "resolved_employer": "Atlassian - Head of SEO and Performance Content",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Angelina Fadool is Head of SEO and Performance Content at Atlassian, based in Austin, TX - matching the reported employer, occupation (marketing manager), and city. Career history: SEO/content roles at Zappos, then Director of Content Operations & Community Development at Fandom/Wikia, then Atlassian's performance marketing group. Distinctive surname plus employer plus Austin location make the identification reliable.",
+  "source_url": "https://www.linkedin.com/in/angelina-fadool-65683066/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "80568bf6ede1e735",
+  "name": "Garcia, Samuel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer reported ('NA'). Extremely common name with no distinguishing detail beyond Alhambra, CA 91801. Public-records and professional-profile searches returned only unrelated Samuel Garcias in other cities (Santa Clara CA, Orlando FL, Tucson AZ). Person could not be identified; no industry assigned rather than guessing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

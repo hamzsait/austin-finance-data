@@ -1,0 +1,320 @@
+[
+ {
+  "donor_id": "14f1c5f887031be2",
+  "name": "Silva, Oscar",
+  "resolved_employer": "El Paso County (Commissioners Court, Commissioner Precinct 3) - policy advisor",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "El Paso County's published Commissioners Court payroll report (check date Jan 23, 2026) lists an Oscar Silva under Commissioner Precinct 3, matching the filing's employer 'El paso county' and occupation 'Policy Advisor' and the 79936 El Paso zip. A separate, well-documented El Paso political operative named Oscar 'Vivo' Silva (Battleground Texas political director; Biden for President national coalitions director; Harris for President) exists and is plausibly the same person given the county policy-advisor role and the donor's 172 federal contributions, but no public source directly links that operative to the county payroll entry, so the operative's roles are NOT recorded as affiliations here.",
+  "source_url": "https://www.epcounty.com/Archive/ViewFile/Item/1094",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16b9c9e2e5354815",
+  "name": "Myers, Patricia",
+  "resolved_employer": "Square One Politics (SquareOne), Brooklyn NY - Director of Giving; goes by 'Peachy' Myers",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Patricia 'Peachy' Myers is the Director of Giving at Square One Politics, which is headquartered in Brooklyn, NY - an exact match on name, city (zip 11216 is Brooklyn), employer, and occupation as filed. Her org bio notes she holds a Masters in Public Affairs from UT and previously worked in affordable housing development in Austin before relocating to Brooklyn, which corroborates an Austin council donation.",
+  "source_url": "https://www.squareonepolitics.org/peachy-myers",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Square One Politics",
+    "role": "Director of Giving",
+    "category": "political",
+    "source_url": "https://www.squareonepolitics.org/peachy-myers",
+    "snippet": "Bio page identifies her as SquareOne's Director of Giving; Square One Politics is a hybrid PAC / organization (FEC committee C00641555) that recruits and supports young, diverse, progressive congressional candidates."
+   },
+   {
+    "org": "Executive Office of the President (Obama administration)",
+    "role": "Political appointee working on the national service agenda; earlier a 2008 battleground-state field director",
+    "category": "political",
+    "source_url": "https://www.squareonepolitics.org/peachy-myers",
+    "snippet": "Bio: served as one of Barack Obama's original battleground state field directors in 2008 and subsequently as a political appointee in the Obama White House helping develop the national service agenda."
+   }
+  ]
+ },
+ {
+  "donor_id": "17f149a08c2f2ebe",
+  "name": "Gonzales, Rita",
+  "resolved_employer": "Austin ISD - PE teacher and cross country / girls' track coach, James Bowie High School (retired)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Rita Gonzales is listed on the James Bowie High School (Austin ISD) health & PE department staff page as 'PE/Student Leadership/Cross Country/Girls' Track', matching the filed occupation 'retired teacher/coach'; a LinkedIn profile lists her as Teacher/Coach at AISD. Bowie HS serves the southwest Austin Circle C area that includes zip 78739, corroborating the address. No affiliation beyond her school employment found.",
+  "source_url": "https://bowiepe.weebly.com/rita-gonzales.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1889a32c32ad0f7d",
+  "name": "Rivera, Keylin",
+  "resolved_employer": "XQ Institute (education nonprofit) - per filing; specific individual not confirmed",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Classified by employer fallback only. The only publicly documented Keylin Rivera is an environmental-justice advocate and former EPA Senior Advisor for Intergovernmental Relations (Biden-Harris administration) now studying at Harvard Kennedy School, described as a first-generation Colombian-Guatemalan from North Carolina; no public source places her at XQ Institute or in Haltom City / Tarrant County TX (zip 76117), so identity is NOT confirmed and her advocacy affiliations (UnidosUS, GreenLatinos) are deliberately not attributed to this donor. XQ Institute is a national high-school-redesign nonprofit founded by Laurene Powell Jobs, consistent with the filed occupation 'Nonprofit'.",
+  "source_url": "https://xqsuperschool.org/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a409e824e9f45fb",
+  "name": "Braithwaite, Lisa",
+  "resolved_employer": "Teacher Retirement System of Texas (TRS), Austin - manager (per filing)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Classified by employer fallback: TRS is the Teacher Retirement System of Texas, a Texas state agency headquartered at 1000 Red River St, Austin, so the industry is Government. A LinkedIn profile with the handle 'lcbraith' lists a TRS of Texas employee under the name Lisa Peavy (data governance), and public people-search records show a Lisa C Braithwaite in Austin, TX - suggestive but not sufficient to confirm this is the same individual or her exact role, and no bio page was retrievable. No FEC record and no Texas lobbyist registration found.",
+  "source_url": "https://trs.texas.gov/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1b1b9bf92c645c0a",
+  "name": "Bertron-Lowe, Cara",
+  "resolved_employer": "City of Austin Historic Preservation Office — preservation planner / Program Manager, Equity-Based Preservation Plan (formerly Deputy Historic Preservation Officer)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Cara Bertron is a documented City of Austin historic preservation staffer who manages the city's Equity-Based Preservation Plan and previously served as Deputy Historic Preservation Officer; occupation ('Preservation planner') and employer ('City of Austin') match exactly, and zip 78722 (Cherrywood) is a common Austin city-staff residential area. Hyphenated surname 'Bertron-Lowe' is consistent with a married name and is the only identity discrepancy, so confidence is medium rather than high.",
+  "source_url": "https://austinmonitor.com/stories/2022/07/historic-preservation-office-aims-to-replace-40-year-old-preservation-plan-by-next-fall-with-a-focus-on-equity/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Preservation Rightsizing Network",
+    "role": "Co-founder and Director/Chair (2013-2017)",
+    "category": "civic",
+    "source_url": "https://forum.savingplaces.org/network/members/profile?UserKey=9e66c7e9-1c40-48f2-b874-d51bbc5dddd2",
+    "snippet": "Co-founder and Director of the Preservation Rightsizing Network from 2013-2017, a volunteer-based organization establishing a legacy-city preservation community; also Director of the Rightsizing Cities Initiative at PlaceEconomics."
+   }
+  ]
+ },
+ {
+  "donor_id": "1df2d90a56597aa9",
+  "name": "Cerda, Veronica",
+  "resolved_employer": "Love Roots Therapy, PLLC — founder/owner, Licensed Professional Counselor (M.S., LPC)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Veronica A. Cerda, LPC is the founder/owner of Love Roots Therapy PLLC (practice office in Richardson, TX; her NPI registry listing carries a Garland, TX address matching donor zip 75040). Occupation 'LPC/ Owner' and employer 'Love Roots Therapy' match the public record exactly. Educated at Texas Tech (BA Psychology) and Texas Woman's University (MS Counseling).",
+  "source_url": "https://www.npichecker.com/npi/1093431900/veronica-a-cerda",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1eee852dea29b2ac",
+  "name": "Ain, Quratul",
+  "resolved_employer": "Ultramarine Consulting LLC (Redwood City, CA) — founder/CEO; strategy and consulting practice serving philanthropies, social-impact ventures and family offices. Publicly known as Ainee Athar.",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "California business filings list Quratul Ain as Manager/CEO of Ultramarine Consulting LLC at a Redwood City, CA 94063 address — matching the donor's employer ('Ultramarine'), occupation ('Self'), city and zip exactly. She publishes and organizes under the name Ainee Athar; she was an undocumented-youth organizer at UT-Austin beginning 2010, which is consistent with a donation to an Austin council candidate.",
+  "source_url": "https://www.bizprofile.net/ca/redwood-city/ultramarine-consulting-llc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "FWD.us",
+    "role": "Texas Director (former)",
+    "category": "political",
+    "source_url": "https://futureleaders.aspeninstitute.org/2022-aspen-future-leaders/ainee-athar",
+    "snippet": "Aspen Institute Future Leaders bio lists her prior roles in civic tech and as the Texas Director of FWD.us, an immigration-policy advocacy organization."
+   },
+   {
+    "org": "Chan Zuckerberg Initiative",
+    "role": "Immigration program officer (former)",
+    "category": "political",
+    "source_url": "https://futureleaders.aspeninstitute.org/2022-aspen-future-leaders/ainee-athar",
+    "snippet": "Served as an immigration program officer at the Chan Zuckerberg Initiative, where her portfolio financed the Supreme Court campaign to protect DACA and a national campaign around Temporary Protected Status."
+   },
+   {
+    "org": "Prime Coalition",
+    "role": "Impact Fellow",
+    "category": "civic",
+    "source_url": "https://futureleaders.aspeninstitute.org/2022-aspen-future-leaders/ainee-athar",
+    "snippet": "Impact Fellow with Prime Coalition, a public charity investing catalytic capital into climate technologies."
+   }
+  ]
+ },
+ {
+  "donor_id": "200bd7fcd0768675",
+  "name": "Charles, Jamaal",
+  "resolved_employer": "NFL (retired) — former Kansas City Chiefs running back, 11 NFL seasons; founder, Jamaal Charles Youth Matters Family Foundation",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Jamaal Charles is the retired NFL running back (Kansas City Chiefs' all-time leading rusher, four-time Pro Bowler) who played college football at UT-Austin and retired to the Austin area with his family; donor zip 78734 is Lakeway in the Austin metro. Occupation 'Retired' and employer 'NFL' match the public record exactly. Recorded here only to the extent of documented public career and philanthropy facts.",
+  "source_url": "https://en.wikipedia.org/wiki/Jamaal_Charles",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Jamaal Charles Youth Matters Family Foundation",
+    "role": "Founder / principal",
+    "category": "civic",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/272795460",
+    "snippet": "IRS-registered nonprofit (EIN 27-2795460) whose stated mission is to promote development of a healthy mind and body in youth through academics, sports and Christianity."
+   },
+   {
+    "org": "Special Olympics",
+    "role": "Global Ambassador",
+    "category": "civic",
+    "source_url": "https://www.specialolympics.org/about/ambassadors/jamaal-charles",
+    "snippet": "Listed by Special Olympics as a Global Ambassador; also publicly involved with the Austin Boys & Girls Club and Austin Striders Track Club."
+   }
+  ]
+ },
+ {
+  "donor_id": "200daec5f0ef2c8d",
+  "name": "Moran, Cynthia Moran",
+  "resolved_employer": "Smart Link Realty — licensed REALTOR (Central Texas residential/commercial brokerage, Hutto, TX)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Cynthia Moran is listed as a real estate agent affiliated with Smart Link Realty on the Unlock MLS (Austin Board of Realtors) agent directory and maintains a 'Real Estate with Cynthia Moran, Smart Link Realty' business page; occupation 'REALTOR' and employer 'Smart link realty' match. Buda (78610) is within the brokerage's Central Texas service area, but no source directly ties her residence to that zip, so confidence is medium. She is a rank-and-file sales agent, not a brokerage principal or developer.",
+  "source_url": "https://www.search.unlockmls.com/realtor/agents/Cynthia-Moran/775589",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "21005ef98a89f9d6",
+  "name": "Tran, Kathy",
+  "resolved_employer": "Blue Apron (meal-kit / grocery e-commerce company), per self-reported employer on the campaign finance filing; specific individual not identified",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual. The filing carries no zip, no city and no occupation, and 'Kathy Tran' is an extremely common name (LinkedIn shows 800+ profiles); no Kathy Tran at Blue Apron was found in any public source. The prominent public 'Kathy Tran' in search results is the Virginia House of Delegates member, a different person and a public figure, not this donor. Industry is the categorize-by-employer fallback from the self-reported employer only. Note the gift date on record (2018-08-25) predates the 2026 cycle and may be a data artifact. All three mandatory searches were run and returned nothing tied to this individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "218e240326c07f39",
+  "name": "Robinson, Jennifer",
+  "resolved_employer": "Voice Media Group — Director of Membership & Community Development, Dallas Observer (alt-weekly publisher; also owns Westword, Miami New Times, Phoenix New Times)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Confirmed on the Dallas Observer masthead and in the paper's own promotion announcement: Jennifer Robinson, at Voice Media Group since 2005 (started as a Dallas Observer account executive, moved to marketing/promotions, ran 125+ lifestyle events across four markets), promoted to Director of Membership & Community Development. Born in Midland TX, Texas A&M degree, moved to Dallas 2002 — consistent with the filing's Dallas 75214 address and the 'Voice Media Group / audience development' employer-occupation pair. Full bio read surfaced no board seats, no advocacy-organization roles, and no policy-advocacy involvement; her role is commercial membership/audience work for a newspaper. FEC and Texas Ethics Commission lobbyist searches returned no records for her; she is not a registered Texas lobbyist. Her 74 federal donations with a 0.99 Democratic lean reflect ordinary partisan small-dollar giving with no ideological-PAC ties surfacing in public records.",
+  "source_url": "https://www.dallasobserver.com/news/spring-drive-results-new-director-of-membership-announced-19610269/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "22723ee7b5cb8467",
+  "name": "Allen, Trista",
+  "resolved_employer": "Texas Trial Lawyers Association (TTLA) — Associate Director, Membership & Fund Development",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed: Trista Allen is Associate Director of Membership & Fund Development at the Texas Trial Lawyers Association, based in Fort Worth (matches filing zip 76133) — corroborated by her LinkedIn, her ttla.com staff email, and the Capital Area Trial Lawyers Association staff page, where she is the TTLA staffer supporting the regional trial-lawyer associations (CATLA, El Paso County, South Plains, Permian Basin). The filing's 'Associate director / TTLA' employer-occupation pair matches exactly. Prior roles listed: GSA, Obama for America, Dallas County District Attorney's Office. TTLA is the plaintiffs'-bar trade association: it operates a PAC (Texas Trial Lawyers Association PAC appears in TEC records) and retains registered lobbyists, and her portfolio is explicitly fund development — so this is an influence-adjacent, not incidental, employer. Texas Ethics Commission lobbyist registry search: Trista Allen herself does NOT appear in the TEC registered-lobbyist lists (TTLA's registered lobbyists are other individuals, e.g. Gladys A. Alonzo, James Fields); she is association staff, not a registered lobbyist. FEC search surfaced no ideological-PAC contributions; her 63 federal donations at 1.0 Democratic lean are consistent with plaintiffs'-bar-aligned partisan giving but no specific PAC ties are documented in public records.",
+  "source_url": "https://www.capitalareatla.com/index.cfm?pg=Staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Trial Lawyers Association (TTLA)",
+    "role": "Associate Director, Membership & Fund Development",
+    "category": "political",
+    "source_url": "https://www.zoominfo.com/p/Trista-Allen/1214568357",
+    "snippet": "Listed as 'Associate Director, Membership & Fund Development at Texas Trial Lawyers Association,' Fort Worth, TX; TTLA staff contact (trista@ttla.com) for the regional trial lawyer associations per the Capital Area Trial Lawyers Association staff page. TTLA is a trade association that maintains a PAC and registered lobbyists in Texas Ethics Commission filings."
+   }
+  ]
+ },
+ {
+  "donor_id": "24433261ce110cf5",
+  "name": "BENTON-MOLINA, ANGELICA",
+  "resolved_employer": "City of Austin — Program Manager (per self-reported employer/occupation on the filing; no independent public profile located)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "No independent public profile, staff-directory entry, LinkedIn, or news mention was found for an Angelica Benton-Molina employed by the City of Austin. The only similarly named person in public records is an Angelica Benton-Molina who is a speech-language pathologist in Houston (77098) — a different person, inconsistent with this donor's Austin 78745 address and City of Austin employment. Industry is the categorize-by-employer fallback from the self-reported 'Program Manager / City of Austin' on the filing, which is internally consistent with an Austin 78745 residence. Consistent with the absence of a public footprint, she has no FEC record at all, and Texas Ethics Commission lobbyist registry searches returned nothing. This appears to be an ordinary municipal employee making a small local donation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25506ddad44a37f2",
+  "name": "Koesjan, Jan",
+  "resolved_employer": "St. Andrew's Episcopal School, Amarillo TX — Pre-Kindergarten Teacher",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Confirmed on the school's own faculty page: 'Jan Koesjan - Pre-Kindergarten Teacher' at St. Andrew's Episcopal School in Amarillo, matching the filing's Amarillo 79110 address and the 'Teacher / St. Andrew's Episcopal school' employer-occupation pair exactly. Full read of the faculty listing shows a classroom teaching role only — no administrative, board, or advocacy position. FEC search surfaced no ideological-PAC contributions (only 2 federal donations on record); Texas Ethics Commission lobbyist registry search returned no registration. Per the instructions, employment at a religiously affiliated school with no policy-advocacy component is not recorded as an affiliation.",
+  "source_url": "https://www.standrewsschool.org/faculty",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2563f4a42af1629c",
+  "name": "Whitmill, Trenton",
+  "resolved_employer": "Not resolved to a named firm; filing self-reports occupation \"Analytics\" and employer \"Healthcare\" (a sector, not a company name)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Public people-search records confirm a Trenton Whitmill (age ~39) residing in Richardson, TX 75081, matching the filing's zip; that is the only corroborated detail. A ZoomInfo/Spokeo profile for a Trenton Whitmill lists 'Financial Analytics Analyst II, Portfolio Management, Santander Holdings USA' (Finance), which conflicts with the self-reported 'Healthcare' employer, so the employer is not confirmed. Industry assigned by the categorize-by-employer fallback from the filer's own 'Healthcare' entry only. No LinkedIn or bio page was publicly readable; no public policy, board, or advocacy footprint found.",
+  "source_url": "https://www.instantcheckmate.com/people/trenton-whitmill/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25796fade6bf2c8b",
+  "name": "Zawistowski, Stephanie",
+  "resolved_employer": "Solar Energy Industries Association (SEIA) — Senior Director, Grassroots Engagement & Political Organizing",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Confirmed via SEIA's own staff roster and multiple corroborating professional directories: Stephanie Zawistowski is Senior Director of Grassroots Engagement & Political Organizing at SEIA, the national solar trade association, and is based in Minneapolis, MN — consistent with the filing's 55419 zip and reported employer/title. Career history is Minnesota public-sector energy policy: Sustainability Policy Aide in the Office of Minneapolis Mayor Betsy Hodges (2014-2016), then Senior Policy Advisor on energy, environment and natural resources to Gov. Mark Dayton (2016-2019). MBA, Univ. of Minnesota Carlson School.",
+  "source_url": "https://seia.org/staff/stephanie-zawistowski/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Solar Energy Industries Association (SEIA)",
+    "role": "Senior Director, Grassroots Engagement & Political Organizing",
+    "category": "business",
+    "source_url": "https://theorg.com/org/solar-energy-industries-association/org-chart/stephanie-zawistowski",
+    "snippet": "Listed as Senior Director of Grassroots Engagement and Political Organizing at the Solar Energy Industries Association, the national solar/storage industry trade association, which reported $2.82M in federal lobbying spending in 2025."
+   }
+  ]
+ },
+ {
+  "donor_id": "25830950ff965740",
+  "name": "Edwards, Patricia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not be identified. The filing lists no occupation and no employer ('N/a' for both), and 'Patricia Edwards' is an extremely common name — public people-search indexes return 775+ matches in Texas alone. No public record was found tying any specific Patricia Edwards to Austin zip 78704 with a corroborating occupation, employer, board seat, or donation pattern. Per instructions, industry is left null rather than guessed; the employer fallback is unavailable because no employer information exists in the filing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27281a99a2aa94a7",
+  "name": "Hau, Helen",
+  "resolved_employer": "Jovan Orthodontics (Round Rock, TX) — orthodontist, DDS, MSD",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Confirmed as Dr. Helen T. Hau, board-certified orthodontist and Diplomate of the American Board of Orthodontics, practicing at Jovan Orthodontics, 4010 Sandy Brook Dr Ste 208, Round Rock, TX — an exact match to the filing's 'Associate orthodontist / Jovan Orthodontics'; she is succeeding founder Dr. Sarah Jovanovski in the practice. Plan II Honors undergrad at UT Austin, DDS summa cum laude from UT School of Dentistry at Houston, orthodontics certificate + MSD from Saint Louis University; residence zip 78703 (Austin) is consistent with commuting to the Round Rock practice. Her AAO and ADA ties are ordinary professional-society memberships, not board or leadership roles, so they are not recorded as affiliations. FEC aggregate for this donor is 34 contributions with a fully Democratic-side partisan lean; no ideological PAC (AIPAC/UDP, J Street, NRA-affiliated, oil & gas, or defense-contractor) recipient surfaced in public search. Note: contribution-level FEC recipient detail could not be pulled directly because the FEC public API rate limit was exhausted during this run.",
+  "source_url": "https://www.jovanortho.com/doctors/helen-hau-dds/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "289d406b1cfac0d0",
+  "name": "Authur, Joy",
+  "resolved_employer": "People's Community Clinic (Austin) — Chief Development & Communications Officer",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Confirmed via People's Community Clinic's own management-team page: Joy Authur is Chief Development & Communications Officer at People's Community Clinic, a nonprofit safety-net health center in Austin — an exact match to the filing's 'Chief Dev Officer / Peoples Community Clinic'. The surname is correctly spelled 'Authur', not 'Arthur'; searches on both spellings resolved to the same person. She was previously a sales and marketing executive in the private sector and holds a History degree from UT Austin. She has a documented civic and city-government footprint (below). FEC aggregate for this donor is 28 contributions with a fully Democratic-side partisan lean; no ideological PAC (AIPAC/UDP, J Street, NRA-affiliated, oil & gas, or defense-contractor) recipient surfaced in public search. Note: contribution-level FEC recipient detail could not be pulled directly because the FEC public API rate limit was exhausted during this run.",
+  "source_url": "https://www.austinpcc.org/management-team/joy-authur/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin 2018 Charter Review Commission",
+    "role": "Appointed commissioner",
+    "category": "political",
+    "source_url": "https://www.austinpcc.org/management-team/joy-authur/",
+    "snippet": "Bio states she \"was appointed to the City of Austin's 2018 Charter Review Commission\" — a city body that reviews and recommends changes to Austin's governing charter."
+   },
+   {
+    "org": "Austin Symphony Orchestra",
+    "role": "Board of Directors (former)",
+    "category": "civic",
+    "source_url": "https://www.austinpcc.org/management-team/joy-authur/",
+    "snippet": "Bio states she \"has previously served on the Board of Directors of the Austin Symphony Orchestra.\""
+   },
+   {
+    "org": "Asian American Community Health Initiative",
+    "role": "Board of Directors (former)",
+    "category": "civic",
+    "source_url": "https://www.austinpcc.org/management-team/joy-authur/",
+    "snippet": "Bio lists prior service on the Board of Directors of the Asian American Community Health Initiative, an Austin-area community health nonprofit."
+   }
+  ]
+ }
+]

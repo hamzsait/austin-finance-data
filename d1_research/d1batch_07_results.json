@@ -1,0 +1,445 @@
+[
+ {
+  "donor_id": "bc74a97a01b04240",
+  "name": "Weathers, Walter",
+  "resolved_employer": "Solo practice attorney, Houston (retired / State Bar status inactive)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Best match is Walter T. Weathers, Jr., b. 1943, Houston commercial/securities litigation attorney licensed 1974, State Bar status now Inactive and listed as retired solo practitioner, which fits the filing occupation 'Not Employed'. Corroborated by FEC records: a 'Walter Weathers, Jr.' at Houston zip 77024 with employer 'NONE' / occupation 'NOT EMPLOYED' gave $400, $2,000 and $1,000 to Rob Miller for Congress (D-SC) in 2010 - same zip, same self-reported non-employment, and Democratic recipients matching this donor's all-Democratic federal lean across 843 donations. NOTE: a different Walter Weathers is a Managing Director at Pelican Energy Partners (Houston oil-and-gas private equity); that person is actively employed as an energy executive and therefore does NOT match the 'Not Employed' occupation on this filing, so no oil_gas affiliation is recorded here.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=191289",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc81e13f50b828e2",
+  "name": "Evans, Derrick",
+  "resolved_employer": "United Airlines (airline pilot, per filing)",
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Employer-fallback classification only. The filing self-reports 'Airline pilot, United Airlines' at Austin zip 78722 (Cherrywood/French Place). Searches surfaced a Derrick Evans LinkedIn profile in Austin, TX and a Derrick Evans listed as a United Express pilot at Mesa Airlines, but neither could be tied to zip 78722 or otherwise corroborated, and LinkedIn blocked direct retrieval. No news coverage, board seat, licensing record, lobbyist registration, or itemized federal PAC record was found for this specific individual. Industry assigned from the self-reported occupation alone; identity not confirmed.",
+  "source_url": "https://www.linkedin.com/in/derrick-evans-963a06/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bcb04883c5adce15",
+  "name": "Siff, Ted",
+  "resolved_employer": "Creating Common Ground (principal; private-lands conservation consultancy, 604 W. 11th St., Austin 78701); formerly owner/president Park Place Publications, LP",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ted Siff is a long-documented Austin parks/open-space advocate whose consultancy Creating Common Ground is registered at 604 W. 11th Street, Austin 78701 - matching the filing zip and stated occupation. Career corroborated across multiple independent bios: Texas Director of the Trust for Public Land (hired 1991 to run its Austin office), board member then executive director of the Austin Parks Foundation (2001-2005), former senior manager/part owner of Austin publishing companies including Third Coast Magazine, The Quorum Report and Texas Monthly, and executive director of Victor Emanuel Nature Tours. His public footprint is entirely conservation/parks civic advocacy; no federal PAC itemizations, no Texas Ethics Commission lobbyist registration, and no Israel/Palestine, firearms, oil-and-gas or defense affiliations were found.",
+  "source_url": "https://shoalcreekconservancy.org/board-member/ted-siff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Shoal Creek Conservancy",
+    "role": "Board member; co-founder",
+    "category": "civic",
+    "source_url": "https://shoalcreekconservancy.org/board-member/ted-siff/",
+    "snippet": "Board member bio describes Siff as a decades-long advocate for parks, open space, trails and environmental protection who helped create Shoal Creek Conservancy."
+   },
+   {
+    "org": "Austin Outside",
+    "role": "Treasurer and board member; co-led its creation",
+    "category": "civic",
+    "source_url": "https://www.austinoutside.org/board-of-directors",
+    "snippet": "Listed on the Austin Outside board of directors as Treasurer, with affiliation given as 'Principal, Creating Common Ground'."
+   },
+   {
+    "org": "Austin Parks Foundation",
+    "role": "Former board member and former executive director (2001-2005)",
+    "category": "civic",
+    "source_url": "https://www.austinchronicle.com/news/2005-03-04/261159/",
+    "snippet": "Austin Chronicle 'Naked City: Siff Steps Down From Parks Foundation' covers his departure as executive director of the Austin Parks Foundation."
+   },
+   {
+    "org": "Trust for Public Land (Texas)",
+    "role": "Former Texas Director; helped create the Texas chapter",
+    "category": "civic",
+    "source_url": "https://texaslegacy.org/narrator/ted-siff/",
+    "snippet": "In 1991 Siff was hired to run the Austin office of the Trust for Public Land and began advocating for more funding for state-owned parks in Texas."
+   },
+   {
+    "org": "Austin and Travis County bond campaigns",
+    "role": "Volunteer treasurer for numerous parks/open-space bond campaigns",
+    "category": "political",
+    "source_url": "https://shoalcreekconservancy.org/board-member/ted-siff/",
+    "snippet": "Bio lists him as 'volunteer treasurer of numerous Austin and Travis County bond campaigns.'"
+   },
+   {
+    "org": "Old Austin Neighborhood Association",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://shoalcreekconservancy.org/board-member/ted-siff/",
+    "snippet": "Bio lists board service with the Old Austin Neighborhood Association alongside other public interest and conservation nonprofits."
+   }
+  ]
+ },
+ {
+  "donor_id": "bf56726bf6559581",
+  "name": "Russell, James",
+  "resolved_employer": "Trail of Lights Foundation (executive director); previously executive director, RunTex Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "James Russell is the executive director of the Austin Trail of Lights Foundation, the independent nonprofit that has produced the Trail of Lights in partnership with the City of Austin since 2013 after he worked with the city to revive the event following its 2009 cancellation; he previously served as executive director of the RunTex Foundation, which took the event over in 2012. Occupation and employer match the filing exactly. He also holds a City of Austin policy role: he was seated on the Parkland Events Task Force as an Open Space, Environment & Sustainability Committee nominee and served as co-chair of the Special Events Task Force shaping Austin's special-events ordinance. No Texas Ethics Commission lobbyist registration and no itemized federal PAC contributions were found; no Israel/Palestine, firearms, oil-and-gas or defense affiliations found.",
+  "source_url": "https://austintrailoflights.org/foundation/james-russell",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Trail of Lights Foundation",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://communityimpact.com/austin/south-central-austin/arts-entertainment/2024/08/27/trail-of-lights-enters-60th-year-organizers-preparing-to-create-memories-this-holiday-season/",
+    "snippet": "Community Impact identifies Russell as executive director of the Trail of Lights Foundation, which has run the event in partnership with the city since 2013; he says 'it's not our event, it's the city's event.'"
+   },
+   {
+    "org": "City of Austin Parkland Events Task Force",
+    "role": "Member, nominated by the Open Space, Environment & Sustainability Committee",
+    "category": "political",
+    "source_url": "https://www.austintexas.gov/content/parkland-events-task-force",
+    "snippet": "City roster lists James Russell as one of 17 task force members, nominated by the Open Space, Environment & Sustainability Committee."
+   },
+   {
+    "org": "City of Austin Special Events Task Force",
+    "role": "Co-chair",
+    "category": "political",
+    "source_url": "https://www.austinmonitor.com/stories/2019/06/task-force-seeks-balance-for-new-special-events-ordinance/",
+    "snippet": "Austin Monitor identifies Russell as co-chair of the Special Events Task Force and executive director of the Trail of Lights, quoting his concerns about how the tiered special-events ordinance classifies events."
+   }
+  ]
+ },
+ {
+  "donor_id": "bf6332efad68044f",
+  "name": "Cofer, Hanna",
+  "resolved_employer": "HOME (Housing Opportunities for Musicians and Entertainers), Austin — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Hanna Morgan Cofer is Executive Director of HOME (Housing Opportunities for Musicians and Entertainers), an Austin nonprofit providing rent/utility/mortgage assistance and long-term housing support to aging Central Texas musicians age 55+. Filing employer string 'HOME' and Executive Director title match her public role exactly; Austin-based, consistent with 78745.",
+  "source_url": "https://cbsaustin.com/features/we-are-austin/home-austin-honors-music-legend-marcia-ball-with-special-tribute-event",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "HOME (Housing Opportunities for Musicians and Entertainers)",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://cbsaustin.com/features/we-are-austin/home-austin-honors-music-legend-marcia-ball-with-special-tribute-event",
+    "snippet": "Cofer serves as executive director of HOME, which provides long-term grants covering rent, utilities and mortgages so aging Austin musicians can 'afford to stay here and live with dignity in their golden years.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "c0da450db9d25f4f",
+  "name": "Pereyra, Felicity",
+  "resolved_employer": "Elevate Strategies LLC (founder) — political/nonprofit data & analytics consulting, Houston",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Felicity Pereyra is founder of Elevate Strategies LLC, a Houston data-analytics consultancy registered at 125 Amundsen St, Houston TX 77009 — an exact match to the filing zip; filing occupation 'Consultant, Self' matches. Democratic campaign-analytics veteran (DNC; Obama, Clinton 2016 battleground targeting, Harris) who was elected unopposed as Houston ISD Trustee for Geographic District I, seated January 2026.",
+  "source_url": "https://elevatestrategiesllc.com/about-the-founder/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Houston Independent School District Board of Trustees",
+    "role": "Trustee, Geographic District I (elected unopposed 2025; seated January 2026)",
+    "category": "political",
+    "source_url": "https://www.houstonpublicmedia.org/articles/education/2025/10/31/534731/trustee-candidates-in-state-run-houston-isd-could-gain-voting-power-before-end-of-terms/",
+    "snippet": "Pereyra was elected as a new trustee for Geographic District I of Houston ISD; because the District I candidate was unopposed, her name did not appear on the ballot. She will assume the seat in January 2026."
+   },
+   {
+    "org": "Democratic National Committee / Obama, Clinton and Harris presidential campaigns",
+    "role": "Analytics and targeting staff (Clinton 2016 battleground-state analytics)",
+    "category": "political",
+    "source_url": "https://elevatestrategiesllc.com/about-the-founder/",
+    "snippet": "Bio states she worked on the Hillary Clinton 2016 presidential campaign analytics team managing targeting and analytics for battleground states, and previously for the DNC and the Obama and Harris campaigns."
+   }
+  ]
+ },
+ {
+  "donor_id": "ca48565e27ac9d7b",
+  "name": "Christian, Sarah",
+  "resolved_employer": "Jackson Walker LLP — Partner, Finance & Banking (Austin/Dallas)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Sarah Marie Christian is a partner in Jackson Walker LLP's Finance & Banking group in the Austin office, representing banks and borrowers in syndicated and bilateral credit facilities, ABL, PACE financing and tax-credit monetization; J.D. University of Texas. Filing employer 'Jackson Walker LLP' and occupation 'Attorney' match her firm bio and Texas Bar record; Austin-based, consistent with 78704.",
+  "source_url": "https://www.jw.com/people/sarah-christian/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd443eb614d187d4",
+  "name": "LEARY, DORIAN",
+  "resolved_employer": "Alation, Inc. — Software Engineering Manager (data-catalog software company)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Dorian Leary is a software engineering manager at Alation, Inc., a data-catalog/data-intelligence software company; previously senior software engineer at Alation and a bioinformatics researcher at the New York Genome Center and Johns Hopkins (BS and MS, Johns Hopkins). Filing employer 'Alation, Inc.' and occupation 'Engineer' match. Medium confidence because the professional profile lists Alation's Redwood City corporate HQ rather than independently confirming Austin 78702 residence.",
+  "source_url": "https://www.zoominfo.com/p/Dorian-Leary/-1361488870",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d5451eabed62a1d2",
+  "name": "Cunningham, Ed",
+  "resolved_employer": "Self-employed attorney/strategic consultant; CEO, U.S. Renewable Energy Group and U.S. Natural Resources Group (consultant since 2021)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Chet Edward \"Ed\" Cunningham, attorney at 309 Camino Arbolago, Lakeway, TX 78734 (exact zip match to donor record), licensed in Texas since 1994, listed by Justia/Avvo with firm 'US Renewable Energy Group' and practice areas including environmental and oil/gas & energy resources. Former University of Texas All-American football player, Coudert Brothers partner, Clear Channel China CEO and AEG Asia CEO; founded U.S. Renewable Energy Group and became CEO in 2009. The 166-record federal donation history matches LittleSis's documentation of him as a substantial Democratic donor (Hillary Clinton, DSCC, multiple Democratic candidates 2005-2016).",
+  "source_url": "https://en.wikipedia.org/wiki/Ed_Cunningham_(executive)",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "U.S. Renewable Energy Group / U.S. Natural Resources Group",
+    "role": "Chief Executive Officer",
+    "category": "business",
+    "source_url": "https://littlesis.org/person/179185-Ed_Cunningham",
+    "snippet": "LittleSis lists Ed Cunningham as CEO of U.S. Renewable Energy Group and U.S. Natural Resources Group, which finalized U.S.-China agreements for more than $1.8 billion in energy projects. No oil & gas producer/executive role was found in any public record, so no oil_gas flag is recorded."
+   },
+   {
+    "org": "Democratic Party (U.S. Senate candidacy; Obama administration advisory bodies)",
+    "role": "2002 Democratic U.S. Senate primary candidate; member, Obama National Finance Committee, Presidential Advisory Committee (Technology), and DNC National Advisory Board",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Ed_Cunningham_(executive)",
+    "snippet": "\"In 2001, Cunningham announced his candidacy for the Democratic U.S. Senate nomination... He served on President Barack Obama's National Finance Committee, Presidential Advisory Committee (Technology)... and the Democratic National Committee National Advisory Board.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "d7cfc497a0044c0a",
+  "name": "Gutierrez, Nydia",
+  "resolved_employer": "Earthjustice — Public Affairs & Communications Strategist, Northeast Office (New York)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Nydia Gutierrez is a Public Affairs and Communications Strategist at Earthjustice, assigned to the Northeast Office in New York City — consistent with the donor's Brooklyn 11216 address and reported employer/occupation (Comms, Earthjustice). A bilingual Texas native from the Rio Grande Valley with a B.S. in Environmental Science and 7+ years of Washington D.C. public relations, community organizing and government-relations experience; previously public affairs associate at Dewey Square Group, communications manager at Mobile Future, D.C. Regional Coordinator for Latino Outdoors, and a fundraiser for the 2012 Obama re-election campaign and 2013 Inaugural Committee. Zero federal donation records; no Texas lobbyist registration found.",
+  "source_url": "https://earthjustice.org/author/nydia-gutierrez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Earthjustice",
+    "role": "Public Affairs & Communications Strategist, Northeast Office",
+    "category": "civic",
+    "source_url": "https://earthjustice.org/author/nydia-gutierrez",
+    "snippet": "Earthjustice's own author/staff listing identifies Nydia Gutierrez as Public Affairs and Communications Strategist in the Northeast Office; she authors the organization's environmental-health and clean-air policy communications (e.g., on phthalates leaching into food)."
+   }
+  ]
+ },
+ {
+  "donor_id": "da02414ec7d76fc1",
+  "name": "Tawil, Melanie",
+  "resolved_employer": "SwipeTrack Solutions, LLC — CEO and co-founder (San Antonio); also VP, Golden Bingo Family",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Melanie Aranda Tawil is CEO and co-founder of SwipeTrack Solutions, LLC, a San Antonio hardware/software integration firm (clients include Legoland, Disney, Nordstrom Rack) she built with her husband Fred after developing a point-of-sale swiper for the family's bingo business — matching the donor's reported 'Business Owner, Swipetrack Solutions' and San Antonio location (78257). Texas State University political science graduate; also serves as VP of Golden Bingo Family, overseeing the family bingo business's marketing and real-estate development. No Texas lobbyist registration found; no ideological-PAC (pro-Israel, pro-Palestine, gun, oil & gas, defense) federal giving surfaced in searches — her 51 federal records are consistent with the Democratic-campaign history below.",
+  "source_url": "https://hillviews.txst.edu/issues/2019/the-big-picture/bingo-business-and-technology-generate-success.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Young Democrats / College Democrats of America; Obama for America 2008",
+    "role": "Student organizer; co-founder of Students for Barack Obama chapter (Chicago)",
+    "category": "political",
+    "source_url": "https://hillviews.txst.edu/issues/2019/the-big-picture/bingo-business-and-technology-generate-success.html",
+    "snippet": "Texas State's Hillviews magazine: she \"became involved in Young Democrats and College Democrats of America,\" changed her major to political science, and \"participated in the 2008 Barack Obama campaign, including co-founding Students for Barack Obama in Chicago.\""
+   },
+   {
+    "org": "City of San Antonio Small Business Advocacy Committee",
+    "role": "Member, appointed by Mayor Ron Nirenberg",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/melanieatawil/",
+    "snippet": "Her professional profile states she \"was appointed by Mayor Ron Nirenberg to the City of San Antonio's Small Business Advocacy Committee,\" and that she sits on the Texas State Alumni Association Board of Directors."
+   },
+   {
+    "org": "Golden Bingo Family",
+    "role": "Vice President — oversees the family bingo business across Texas, including marketing and real-estate development",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/melanieatawil/",
+    "snippet": "\"Vice President of Golden Bingo Family where she oversees her family's growing bingo business across the state of Texas through marketing and real estate development\"; per Hillviews, the bingo operations span six Texas counties and generated nearly $10 million for charities in 2018."
+   }
+  ]
+ },
+ {
+  "donor_id": "da8bb294bca08bae",
+  "name": "Klatt, Ryan",
+  "resolved_employer": "Self-employed oil & gas land consultant (landman), Midland TX; founder, Barnstorm Ball; formerly Impera Land Services and Veritas 321 Energy Partners, LP",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Ryan Klatt of Midland, TX (public-records address 3116 Auburn Dr, Midland, TX 79705 — matches donor zip) is listed in professional-profile databases as a Land Consultant at Self, with prior roles at Impera Land Services and Veritas 321 Energy Partners, LP, a Midland full-service oil & gas land brokerage (3325 Caldera Blvd, Midland 79707; BBB-categorized under 'oil leases'). His LinkedIn headline reads 'Land and Data Manager.' This corroborates the donor's reported occupation 'Land' with employer 'Self' as oil & gas landman work rather than a real-estate or agricultural sense. He also founded Barnstorm Ball, a Midland baseball/softball training company, and previously played in the San Diego Padres minor-league system. Confidence held at medium because the employment history is sourced to profile aggregators rather than a primary employer bio page. No Texas lobbyist registration found; no ideological-PAC giving surfaced for his 3 federal records.",
+  "source_url": "https://www.zoominfo.com/p/Ryan-Klatt/809778330",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Impera Land Services; Veritas 321 Energy Partners, LP (Midland oil & gas land brokerage)",
+    "role": "Land consultant / landman (self-employed; formerly employed at the above firms)",
+    "category": "oil_gas",
+    "source_url": "https://www.zoominfo.com/p/Ryan-Klatt/809778330",
+    "snippet": "Profile record: \"Previously, Ryan was the Land Consultant at Self and also held positions at Impera Land Services, Veritas 321 Energy Partners, San Diego Padres.\" Veritas 321 Energy Partners, LP is described as \"a full service land brokerage firm which provides land services to a wide range of clients,\" headquartered in Midland, TX and listed by the BBB under oil leases."
+   }
+  ]
+ },
+ {
+  "donor_id": "dae13382d706343e",
+  "name": "Shakir, Sultan",
+  "resolved_employer": "Mazzoni Center (Philadelphia LGBTQ+ health nonprofit) — President & Executive Officer, Jan 2022–Mar 2025; since 2025 Chief Operating Officer, PFLAG National",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Sultan Shakir is a nationally known LGBTQ+ nonprofit executive: former Executive Director of SMYAL (DC LGBTQ youth org), then President & Executive Officer of Philadelphia's Mazzoni Center (2022–Mar 2025), now COO of PFLAG National. Corroborated by zip 20001 (Washington, DC) — he resigned from Mazzoni citing a long-distance marriage and a move back to DC to rejoin his husband — matched against the filing's 'Mazzoni Center' employer entry, which appears to be a lagging self-reported employer.",
+  "source_url": "https://epgn.com/2025/03/05/mazzoni-center-sultan-shakir-resigns/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Mazzoni Center",
+    "role": "President & Executive Officer (Jan 2022 – Mar 2025)",
+    "category": "civic",
+    "source_url": "https://www.inquirer.com/health/mazzoni-center-sultan-shakir-new-ceo-20220222.html",
+    "snippet": "Sultan Shakir was named the new leader of the Mazzoni Center, Philadelphia's largest LGBTQ+ wellness agency and one of the country's oldest and largest LGBTQ health services nonprofits."
+   },
+   {
+    "org": "PFLAG National",
+    "role": "Chief Operating Officer (2025–present)",
+    "category": "civic",
+    "source_url": "https://blog.outtakeonline.com/2025/07/sultan-shakir-joins-pflag-national.html",
+    "snippet": "PFLAG National announced Sultan Shakir as Chief Operating Officer; he describes the work as deeply personal to him as a queer Muslim."
+   },
+   {
+    "org": "SMYAL (Supporting and Mentoring Youth Advocates and Leaders)",
+    "role": "Executive Director (approx. 7 years, prior to 2022)",
+    "category": "civic",
+    "source_url": "https://www.unanca.org/about-us/event-speakers/sultan-shakir",
+    "snippet": "Executive Director of SMYAL, which supports and empowers queer and trans youth in the Washington, DC metro area; he expanded the organization's programming, budget and footprint."
+   }
+  ]
+ },
+ {
+  "donor_id": "db2e6a8ecbe4e1e2",
+  "name": "Wooldridge, Greg",
+  "resolved_employer": "Retired journalist — sports and features editor, Austin American-Statesman (late 1980s–2002) (retired); co-founder, Tejemos Foundation",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Gregory Keith Wooldridge, 65 (b. 1961), West Lake Hills TX, co-owns 501 Rocky River Road, West Lake Hills 78746 with his wife Lynne Dobson — matching the filing's 78746 / West Lake Hills / 'Retired, Self'. He is a retired newspaperman (Austin American-Statesman sports and features editor) who with Dobson founded the Tejemos Foundation, a major Austin philanthropic funder. NOT the Blue Angels commander: that Greg 'Boss' Wooldridge is a retired Navy captain, roughly 78, based in Oregon, where he ran for governor in 2018 — different age, state, and career.",
+  "source_url": "https://www.kut.org/station-information/2023-10-25/transformational-gift-to-help-kut-and-kutx-serve-growing-region",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Tejemos Foundation",
+    "role": "Co-founder / principal (with wife Lynne Dobson)",
+    "category": "civic",
+    "source_url": "https://philanthropynewsdigest.org/news/kut-public-media-receives-1.5-million-gift-from-austin-couple",
+    "snippet": "KUT Public Media announced a $1.5 million gift from veteran Austin journalists Lynne Dobson and Greg Wooldridge through their Tejemos Foundation, to support Texas politics-beat reporting and expand the Texas Standard staff."
+   },
+   {
+    "org": "Austin American-Statesman",
+    "role": "Sports and features editor (late 1980s–2002) (former)",
+    "category": "business",
+    "source_url": "https://friendsofthedailytexan.org/4801/news/dobson-wooldridge-and-tejemos-foundation-fund-photojournalism-endowment-for-daily-texan-staffers/",
+    "snippet": "Dobson and Wooldridge have more than 50 years of journalism experience between them, including the Austin American-Statesman from the late 80s through 2002, where Lynne was a staff photographer and Greg was a sports and features editor."
+   }
+  ]
+ },
+ {
+  "donor_id": "e06923394750f376",
+  "name": "Cocco, Catherine",
+  "resolved_employer": "gCocco Software, Inc., Austin — software developer (retired); family-held IT firm whose president is Gerard M. Cocco",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Catherine T. Cocco of 78759 Austin appears in Austin city records at 5609 Spurflower Dr (78759), a property owned jointly by Gerard M. Cocco and Catherine T. Cocco. Earlier Austin municipal campaign finance filings list her occupation as software developer at gCocco Software, the small Austin IT firm her husband Gerard runs; the current 'RETIRED' occupation on the D1 filing is consistent with her 2025 Save Austin Now filing, which also lists her as retired.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=396066",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Save Austin Now PAC",
+    "role": "Donor ($250, October 2025)",
+    "category": "political",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=461718",
+    "snippet": "Save Austin Now PAC's City of Austin general-purpose committee campaign finance report lists a $250 contribution from Catherine Cocco, occupation retired, in October 2025."
+   }
+  ]
+ },
+ {
+  "donor_id": "e378afdddf852a18",
+  "name": "Becker, Randa + Koehne",
+  "resolved_employer": "R Events, L.L.C. (R-Events) — owner/founder; medical meeting and event planning firm with offices in Austin, TX and Antwerp/Brasschaat, Belgium",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Randa Jane Becker is the owner and founder of R Events, L.L.C., an Austin-registered medical-meetings planning company (Texas entity 0800733482, mailing address 4601 N Lamar Blvd, Austin), with a second office in Belgium; the co-listed 'Koehne' surname is consistent with a household co-filer. FEC individual-contribution records show a Randa Becker, Austin TX 78704, employer R-Events, making repeated small-dollar contributions via ActBlue (e.g., three $100 gifts in March 2016), matching the filing's 78704 zip and employer.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0800733482",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e442e87ba54c521b",
+  "name": "Ross, D. Lauren",
+  "resolved_employer": "Glenrose Engineering, Inc. (owner/principal environmental engineer)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "D. Lauren Ross, Ph.D., P.E. is the owner of Glenrose Engineering, a woman-owned environmental engineering consultancy at 1405 Hillmont St, Austin TX 78704 — the firm address zip matches the donor zip 78704 exactly, and the occupation/employer strings ('Engineer' / 'Glenrose Engineering') match the firm. Her practice is water-quality protection, groundwater transport, solid waste and environmental litigation. Long public record of Austin environmental advocacy: she provided the technical expertise behind the Save Our Springs ordinance, worked on closure of the Gibraltar hazardous waste site, and opposed the Longhorn oil pipeline. No Texas Ethics Commission lobbyist registration found and no ideological PAC giving surfaced in FEC searches (pipeline records 34 federal donations, fully Democratic-leaning, but no PAC-level detail was retrievable — the FEC data browser is a JS app and the open FEC API returned HTTP 429).",
+  "source_url": "https://www.glenrose.com/about/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Greater Edwards Aquifer Alliance",
+    "role": "Founding board member",
+    "category": "civic",
+    "source_url": "https://texaslegacy.org/narrator/lauren-ross/",
+    "snippet": "Founding board member of the Greater Edwards Aquifer Alliance, 'a federation of public interest groups working to protect the water, springs and biodiversity of the Texas Hill Country.'"
+   },
+   {
+    "org": "Save Our Springs ordinance (Austin)",
+    "role": "Technical/engineering expert",
+    "category": "civic",
+    "source_url": "https://texaslegacy.org/narrator/lauren-ross/",
+    "snippet": "Through her firm, Glenrose Engineering, Ross provided technical expertise for the Save Our Springs ordinance in Austin and for opposition to the Longhorn oil pipeline."
+   },
+   {
+    "org": "Undoing Racism Austin / Undoing White Supremacy Austin",
+    "role": "Founder and organizer; trainer with the People's Institute for Survival and Beyond",
+    "category": "civic",
+    "source_url": "https://www.glenrose.com/about/who-we-are/",
+    "snippet": "Dr. Ross is a founder of Undoing Racism Austin and organizer with Undoing White Supremacy Austin, and a trainer with the People's Institute for Survival and Beyond."
+   }
+  ]
+ },
+ {
+  "donor_id": "e4b1c240189e901a",
+  "name": "Herzele, Charlotte",
+  "resolved_employer": "University of Texas at Austin, Department of Nutritional Sciences / School of Human Ecology (retired)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Charlotte Herzele, Ph.D., was an Assistant Professor of Instruction in Nutritional Sciences at UT Austin's School of Human Ecology, retired as of January 2023 — matching the donor's 'University Professor / Retired' occupation and Austin 78751 location. She holds a UT Austin Ph.D. (1997), an MEd in Kinesiology from UT, and an MPH from the Medical College of Wisconsin; she taught Scientific Writing and International Nutrition: Social and Environmental Policies. UT's School of Human Ecology publicly described her as a 'faculty member and community activist,' but no specific named advocacy organization, board seat, or policy role was documented in any source, so no affiliation is recorded. No Texas Ethics Commission lobbyist registration found. The pipeline records 255 federal donations with a fully Democratic partisan lean, a volume consistent with recurring small-dollar ActBlue giving; no ideological PAC (pro-Israel, pro-Palestine, oil/gas, gun-rights, gun-control, or defense) surfaced, and committee-level FEC detail was not retrievable (FEC browser is a JS app; open FEC API returned HTTP 429).",
+  "source_url": "https://cns.utexas.edu/directory/item/14-human-ecology/572-herzele-charlotte",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e7f88875a1427801",
+  "name": "Guerra, Terrysa",
+  "resolved_employer": "United for Respect Education Fund — Co-Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Terrysa Guerra is Co-Executive Director of United for Respect (and its Education Fund), matching the donor's employer string exactly; the first name is distinctive and her biography is Texas-rooted (raised in Los Fresnos, TX; Texas A&M graduate). Before joining United for Respect in 2018 she worked for the national and Texas state Democratic parties, managed campaigns for two Texas state senators and a state representative, and was deputy campaign manager for Wendy Davis's gubernatorial bid. At United for Respect she built the organization's policy and political programs — retail-worker organizing, guaranteed severance pay, scheduling standards, and the Toys R Us worker hardship fund. No Texas Ethics Commission lobbyist registration found under her name. FEC search run: the pipeline records 20 federal donations; no ideological PAC ties on any side of the Israel/Palestine, firearms, energy, or defense spectrums surfaced, and committee-level detail was not retrievable (FEC browser is a JS app; open FEC API returned HTTP 429).",
+  "source_url": "https://united4respect.org/press-release/united-for-respect-announces-new-codirectors-bianca-agustin-terrysa-guerra/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "United for Respect / United for Respect Education Fund",
+    "role": "Co-Executive Director; built the organization's policy, political, and civic-engagement programs",
+    "category": "civic",
+    "source_url": "https://united4respect.org/our-leadership/",
+    "snippet": "Since joining United for Respect in 2018, Guerra 'built the organization's policy and political programs that led to passing into law the new national labor standard of guaranteed severance pay,' won stable working hours for over 2 million families, and helped secure a $20 million hardship fund for 30,000 Toys R Us workers."
+   },
+   {
+    "org": "Texas Democratic Party / Democratic campaigns (incl. Wendy Davis for Governor)",
+    "role": "Former state and national Democratic Party staffer; campaign manager for two state senators and a state representative; deputy campaign manager, Wendy Davis gubernatorial campaign",
+    "category": "political",
+    "source_url": "https://united4respect.org/our-leadership/",
+    "snippet": "She worked for the national and Texas state Democratic parties, managed the successful campaigns of two state senators and a state representative in Texas, and served as deputy campaign manager for the gubernatorial bid of Wendy Davis."
+   }
+  ]
+ },
+ {
+  "donor_id": "e823db3ca210a433",
+  "name": "Joyner, Deserick",
+  "resolved_employer": "3Cloud (Cloud Infrastructure Engineer)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Deserick Joyner is a Cloud Infrastructure Engineer at 3Cloud, an Azure cloud-consulting firm, with a public professional profile listing an Austin, Texas location and Azure/ITIL certifications; he attended Embry-Riddle Aeronautical University. The distinctive first name plus exact employer ('3Cloud') and occupation ('Engineer') match the donation record. The donor zip 76574 is Taylor, TX (Williamson County) rather than Austin proper; a people-search aggregator associates a Thomas Deserick Joyner with Taylor, Pflugerville, and Austin, which is consistent but is a weak-quality source, so identity confidence is held at medium. Categorized by employer per the fallback rule. No Texas Ethics Commission lobbyist registration found; the pipeline records 0 federal donations, and the FEC PAC search returned nothing on any side of the tracked policy spectrums. No public advocacy, board, or policy footprint discoverable.",
+  "source_url": "https://www.linkedin.com/in/deserick-joyner/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

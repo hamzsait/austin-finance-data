@@ -1,0 +1,409 @@
+[
+ {
+  "donor_id": "2525749f8434577c",
+  "name": "Clark, Kyle",
+  "resolved_employer": "University of Texas (per filing; possible match to Kyle Clark, Assistant Dean & Director of Student Support, Moody College of Communication, UT Austin — unconfirmed)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Educator' and employer 'University of Texas', which supports an Education industry classification on employer fallback alone. A plausible candidate exists — Kyle Clark, Assistant Dean and Director of Student Support at UT Austin's Moody College of Communication — but nothing in the public record ties him to the Round Rock 78664 zip on the filing, and 'Kyle Clark' is a very common name (the fec_donation_count of 45 is almost certainly aggregating multiple people, including the well-known Denver news anchor of the same name). Identity not confirmed; industry recorded as employer fallback only.",
+  "source_url": "https://advertising.utexas.edu/news/faculty-spotlight-kyle-clark-assistant-dean-and-director-student-support-moody-college",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27a48a16b270795f",
+  "name": "Longoria, Isabel",
+  "resolved_employer": "Annie's List — Executive Director (Texas PAC that recruits, trains and elects progressive women candidates); formerly Harris County Elections Administrator",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as the notable Isabel Longoria: Houston-based (matches 77022), listed by name and title as Executive Director on Annie's List's own About page, which matches the filing's occupation 'Director' / employer \"Annie's List\". She was Harris County's first Elections Administrator (sworn in Nov. 2020, resigned effective July 1, 2022) and previously ran for Houston City Council District H in 2019. No Texas Ethics Commission lobbyist registration found; no ideological-PAC federal contributions surfaced.",
+  "source_url": "https://annieslist.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Annie's List",
+    "role": "Executive Director",
+    "category": "political",
+    "source_url": "https://annieslist.com/about/",
+    "snippet": "Annie's List About page lists Isabel Longoria as Executive Director; the organization's stated mission is to 'achieve equity for women by changing the face of power in Texas' by recruiting, training, supporting and electing progressive women."
+   },
+   {
+    "org": "Harris County Elections Administration",
+    "role": "Elections Administrator (2020–2022), Harris County's first",
+    "category": "civic",
+    "source_url": "https://communityimpact.com/houston/spring-klein/election/2020/11/18/isabel-longoria-sworn-in-as-harris-countys-first-ever-elections-administrator/",
+    "snippet": "Isabel Longoria was sworn in as Harris County's first-ever elections administrator on Nov. 18, 2020, after serving as special adviser on voting rights to County Clerk Chris Hollins."
+   }
+  ]
+ },
+ {
+  "donor_id": "2bbfc8d6c3d29761",
+  "name": "Moon, Amber",
+  "resolved_employer": "Meta Platforms, Inc. — Public Affairs Manager (since Feb. 2020)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed as the Washington, DC-area public affairs professional (Annandale VA 22003 is a DC suburb): LegiStorm records her as Public Affairs Manager at Meta Platforms Inc. since February 2020, matching the filing's occupation 'Public Affairs' / employer 'Meta, Inc.' Career history is Democratic communications: Communications Director and official spokesperson for U.S. Sen. Gary Peters (D-MI), and — per her LinkedIn — prior roles at the DCCC and the Texas Democratic Party. Between the Senate and Meta she was Director of External Communications at defense contractor BAE Systems, Inc., where she was the named media contact on corporate press releases in Dec. 2019. No Texas Ethics Commission lobbyist registration and no registered federal lobbying found; no ideological-PAC federal contributions surfaced.",
+  "source_url": "https://www.legistorm.com/person/bio/11612/Amber_M_Moon.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "BAE Systems, Inc.",
+    "role": "Director of External Communications (former, c. 2019)",
+    "category": "military_defense",
+    "source_url": "https://www.nasdaq.com/press-release/bae-systems-inc.-names-tom-arseneault-to-become-president-ceo-2019-12-17",
+    "snippet": "BAE Systems, Inc. press release of Dec. 17, 2019 lists Amber Moon (amber.moon@baesystems.com, 703-312-6195) as the company's media contact. BAE Systems is a major defense contractor."
+   },
+   {
+    "org": "Meta Platforms, Inc.",
+    "role": "Public Affairs Manager (Feb. 2020–present)",
+    "category": "business",
+    "source_url": "https://www.legistorm.com/person/bio/11612/Amber_M_Moon.html",
+    "snippet": "LegiStorm profile: 'Amber Moon - Meta Platforms Inc. (Feb. 2020-), Public Affairs Manager.'"
+   },
+   {
+    "org": "Office of U.S. Senator Gary Peters (D-MI)",
+    "role": "Communications Director / official spokesperson (former)",
+    "category": "political",
+    "source_url": "https://www.uh.edu/class/political-science/undergraduate/alumni-profiles/moon/",
+    "snippet": "University of Houston alumni profile: Amber Moon (BS Political Science, 2003) is 'Communications Director' for 'U.S. Senator Gary Peters,' serving as the Senator's official spokesperson."
+   }
+  ]
+ },
+ {
+  "donor_id": "2da1eb2e500addea",
+  "name": "Jammer, Brian",
+  "resolved_employer": "Baylor College of Medicine — Vice President of State Government Relations, Office of the General Counsel; attorney (UT School of Law 1992); registered Texas lobbyist",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "The filing carried no employer, but the public record resolves him firmly. The City of Austin lobbyist registry lists 'Jammer, Brian' as a lobbying CLIENT — a property owner at 1197 San Bernard Street, Austin, TX 78702 — an exact match to the donor's 78702 zip. The same Brian K. Jammer is an Austin attorney (UT Law 1992) practicing government, election/political and health care law, and serves as VP of State Government Relations in Baylor College of Medicine's Office of the General Counsel; he appears on Texas Ethics Commission registered-lobbyist lists for 2020, 2022, 2024 and 2026. Notably, this donor is both a registered state lobbyist and a party that has retained Austin land-use lobbyists on his own behalf before the City.",
+  "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?client=Jammer,+Brian",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Baylor College of Medicine",
+    "role": "Vice President of State Government Relations, Office of the General Counsel; registered Texas lobbyist",
+    "category": "business",
+    "source_url": "https://www.avvo.com/attorneys/78760-tx-brian-jammer-57910.html",
+    "snippet": "Avvo attorney profile: Brian Keith Jammer, Austin TX, associated with Baylor College of Medicine; JD University of Texas School of Law 1992; practice split across government law, election campaigns/political law, and health care law."
+   },
+   {
+    "org": "Texas Ethics Commission lobbyist registry",
+    "role": "Registered lobbyist (listed 2020, 2022, 2024, 2026) on behalf of Baylor College of Medicine",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf",
+    "snippet": "TEC registered-lobbyist list entry for Brian K. Jammer, Mail Stop 108, One Baylor Plaza, Houston, TX 77030, (713) 798-6498 — affiliated with Baylor College of Medicine."
+   },
+   {
+    "org": "City of Austin lobbyist registry (as client)",
+    "role": "Lobbying client — property owner, 1197 San Bernard St, Austin TX 78702; represented by Husch Blackwell land-use lobbyists Nikelle S. Meade and Taylor C. Wood",
+    "category": "business",
+    "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?client=Jammer,+Brian",
+    "snippet": "City of Austin lobbyist detail page lists client 'Jammer, Brian,' a property owner at 1197 San Bernard Street, Austin TX 78702, with six registered lobbyists at 111 Congress Ave Ste 1400 (Husch Blackwell), including Nikelle S. Meade (registered 04/26/2017, active through 07/10/2026) and Taylor C. Wood."
+   }
+  ]
+ },
+ {
+  "donor_id": "2e28ca3ee4f0b1a5",
+  "name": "Word, Nancy",
+  "resolved_employer": "Not employed / retired (former career not identifiable in public records)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC-derived contribution records list a 'Nancy Word' in zip 78738 (Bee Cave/Lakeway area of Austin) with occupation 'retired', giving $2,000 to Obama Victory Fund 2012 on 05/02/2011 — same zip and same not-employed/retired occupation as the D1 filing, and consistent with the 252-gift, 0.99-Democratic-lean federal donation pattern. Identity corroborated on zip + occupation + partisan giving pattern; no professional, board, or former-career footprint is discoverable, so no industry beyond 'Not Employed' can be supported.",
+  "source_url": "https://www.city-data.com/elec2/12/elec-AUSTIN-TX-12-part4.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3850ef096b478c7b",
+  "name": "McCarthy, Caroline",
+  "resolved_employer": "Enova International (Chicago fintech/online lender) — Deputy Head of Business, Strategy and Operations",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Caroline McCarthy Pompizzi is Deputy Head of Business at Enova International and is based in the Chicago area — matching the filing's occupation 'Deputy', employer 'Enova Internatinoal' [sic], and Highland Park IL zip 60035 (a north-suburban Chicago community). The filing's 'Deputy' is her actual title prefix (Deputy Head of Business), not Deputy General Counsel. She is separately Co-chair of the March For Our Lives Action Fund.",
+  "source_url": "https://theorg.com/org/enova-international/org-chart/caroline-mccarthy-pompizzi",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "March For Our Lives Action Fund",
+    "role": "Co-chair, Board of Directors",
+    "category": "gun_control",
+    "source_url": "https://marchforourlives.org/leadership/caroline-mccarthy/",
+    "snippet": "March For Our Lives' own leadership page for Caroline McCarthy identifies her as \"Co-chair of the March For Our Lives Action Fund\" — the 501(c)(4) gun-violence-prevention arm that engages in lobbying and electoral advocacy for gun control legislation."
+   },
+   {
+    "org": "Enova International",
+    "role": "Deputy Head of Business, Strategy and Operations",
+    "category": "business",
+    "source_url": "https://theorg.com/org/enova-international/org-chart/caroline-mccarthy-pompizzi",
+    "snippet": "Listed on Enova International's org chart as \"Deputy Head of Business at Enova International\"; her professional profile describes her as a strategy and operations leader based in Chicago, IL, with prior roles at Treasure Financial and Starday Foods."
+   }
+  ]
+ },
+ {
+  "donor_id": "3c83af59284c7767",
+  "name": "Samuel, Michael",
+  "resolved_employer": "Deloitte (per filing; role given as 'AV lead' — could not determine whether audio-visual or autonomous-vehicle practice)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Employer-fallback classification only. 'Michael Samuel' is a common name and no LinkedIn, firm bio, news mention, or other public profile could be matched to a Deloitte employee in Pflugerville/Austin TX (zip 78660). FEC and Texas lobbyist searches returned no matching individual. Deloitte is classified as Consulting / PR per the taxonomy; the specific person is NOT confirmed, so identity confidence is low and no affiliations are recorded.",
+  "source_url": "https://www2.deloitte.com/us/en/pages/consumer-business/solutions/connected-and-autonomous-vehicles-solutions.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e9deb450d885c45",
+  "name": "Teich, Ann",
+  "resolved_employer": "Austin ISD (retired) — language arts teacher at Porter Middle School for 27 years, then AISD substitute teacher; former AISD Board of Trustees member, District 3 (2012-2020)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Ann Teich taught language arts in Austin ISD for 27 years at Porter Middle School and was elected to the AISD Board of Trustees for District 3 in November 2012, re-elected in 2016, leaving office in 2020. District 3 covers Central/North Austin (Mueller and Hyde Park up to the Domain), which matches the donor's North Austin zip 78758; the filing's 'Not Employed' occupation matches her retired-teacher status. Identity corroborated on district geography, zip, and retired-educator occupation. Secondary reports of additional civic board seats (North Austin Civic Association, Foundation for the Homeless, Religious Coalition to Assist the Homeless, Downtown Cluster of Congregations) appeared in search results but could not be verified against a retrievable primary source, so they are not recorded here.",
+  "source_url": "https://www.austinisd.org/announcements/2014/01/27/celebrate-school-board-recognition-month",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin ISD Board of Trustees",
+    "role": "Trustee, District 3 (elected Nov 2012; re-elected Nov 2016; left office 2020)",
+    "category": "civic",
+    "source_url": "https://www.austinisd.org/press-releases/2012/11/19/aisd-board-trustees-elects-new-officers",
+    "snippet": "Austin ISD's press release on the swearing-in of new trustees identifies Ann Teich as \"a newly elected trustee who represents Central and North Austin in District 3.\" AISD's later board profile adds that she \"was a language arts teacher in AISD for 27 years at Porter Middle School\" before her election."
+   }
+  ]
+ },
+ {
+  "donor_id": "3f3772019a36ee6a",
+  "name": "Legette, Sasha",
+  "resolved_employer": "Pure Justice (founder / executive director); previously Deputy Director of Policy and Director of Community Affairs & Advocacy, Office of Harris County Commissioner Rodney Ellis",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Sasha L. Legette is a Houston-based criminal-justice-reform organizer who founded the nonprofit Pure Justice in 2015 and has worked as a policy staffer for Harris County Commissioner Rodney Ellis; the distinctive surname plus Houston location and a donation to a progressive Austin council candidate corroborate the match. Confidence held at medium because the filing lists occupation 'Not Employed', which conflicts with her documented county/nonprofit roles and could indicate a job change or a different Houston Legette.",
+  "source_url": "https://www.naco.org/people/sasha-legette",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Pure Justice",
+    "role": "Founder and Executive Director",
+    "category": "civic",
+    "source_url": "https://www.purejustice.org/the-team.html",
+    "snippet": "Sasha L. Legette is listed as Executive Director, Policy Analyst and Chief Programming Officer of Pure Justice, the grassroots criminal-justice-reform organization she founded in Fall 2015."
+   },
+   {
+    "org": "Coalition of Community Organizations (COCO)",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.naco.org/people/sasha-legette",
+    "snippet": "NACo profile lists Legette as a board member of the Coalition of Community Organizations (COCO) and a founding member of Third Ward Community Cooperative Builders."
+   },
+   {
+    "org": "Harris County Public Defender's Office Board",
+    "role": "Board member (term Nov 14 2023 - Nov 14 2027)",
+    "category": "civic",
+    "source_url": "https://harriscountytx.granicus.com/boards/w/b97df4edf6fda4d2/boards/42922",
+    "snippet": "Harris County boards roster lists Sasha Legette as a member of the Harris County Public Defender's Office Board with a term running Nov 14, 2023 to Nov 14, 2027."
+   }
+  ]
+ },
+ {
+  "donor_id": "47f9567faa3da86c",
+  "name": "Howsey, Nicole & Robert",
+  "resolved_employer": "Nicole Howsey REALTORS, LLC — broker-owner (residential brokerage, 70 Rainey St #2106, Austin TX 78701)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Nicole Howsey is the broker-owner of Nicole Howsey REALTORS, LLC, a TREC-licensed Austin brokerage whose registered office address (70 Rainey St #2106, Austin 78701) matches the donor zip exactly; she is listed by the Austin Board of REALTORS as a Designated REALTOR Participant. No separate public professional profile was found for Robert Howsey; this appears to be a joint household contribution. No TEC lobbyist registration and no FEC contribution history found for either name.",
+  "source_url": "https://www.abor.com/agent/nicole-howsey/6d11f9e8-815b-48af-98a1-29214521ff1c",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Board of REALTORS (ABoR / Unlock MLS)",
+    "role": "Designated REALTOR Participant",
+    "category": "business",
+    "source_url": "https://www.abor.com/agent/nicole-howsey/6d11f9e8-815b-48af-98a1-29214521ff1c",
+    "snippet": "Austin Board of Realtors member directory lists Nicole Howsey as a 'Designated REALTOR Participant' — the member of record for her brokerage."
+   },
+   {
+    "org": "Nicole Howsey REALTORS, LLC",
+    "role": "Broker-Owner",
+    "category": "business",
+    "source_url": "https://www.har.com/nicole-howsey-realtors-llc/broker_OBORTX-763",
+    "snippet": "HAR/TREC listing identifies Nicole Howsey Realtors, LLC as a licensed Texas real estate brokerage at 70 Rainey St, Austin, with Nicole Howsey as broker-owner."
+   }
+  ]
+ },
+ {
+  "donor_id": "56529787a4391469",
+  "name": "Barbot, Nadia",
+  "resolved_employer": "Group Product Manager, Sysco LABS (previously Bazaarvoice, about.me, Guild)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Nadia Barbot is an Austin technology product manager (Group Product Manager at Sysco LABS; formerly Bazaarvoice) who serves as Secretary of the Pecan Springs-Springdale Hills Neighborhood Association — the association covering the 78723 Mueller-area zip on the filing, which corroborates the identity directly. Her heavy federal donation history (77 contributions, lean 1.0) is consistent with her documented gun-safety advocacy; no individual PAC-level records were retrievable through public search tools, and no TEC lobbyist registration was found.",
+  "source_url": "https://pecansprings.org/about/officers/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Moms Demand Action for Gun Sense in America — Texas chapter",
+    "role": "Community Gun Violence Lead (volunteer)",
+    "category": "gun_control",
+    "source_url": "https://www.linkedin.com/in/nadiabarbot/",
+    "snippet": "Public LinkedIn profile for Nadia Barbot (Austin, TX; Group Product Manager at Sysco LABS) lists her as 'Community Gun Violence Lead at Moms Demand Action - TX'. Profile page itself returns HTTP 999 to automated fetch; role text captured from the indexed public profile."
+   },
+   {
+    "org": "Pecan Springs-Springdale Hills Neighborhood Association",
+    "role": "Secretary",
+    "category": "civic",
+    "source_url": "https://pecansprings.org/about/officers/",
+    "snippet": "Association officers page lists 'Nadia Barbot - Secretary' among current officers."
+   }
+  ]
+ },
+ {
+  "donor_id": "5a5ced0998b71bb4",
+  "name": "Martinez, Ricky",
+  "resolved_employer": "General Manager / Executive Chef, Southern Foodservice Management, Inc. (contract dining, IRS Building, Austin)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Ricky Martinez is a General Manager and Executive Chef with Southern Foodservice Management, Inc. in Austin, running the dining operation at the IRS Building; he holds an associate degree from Texas Culinary Academy and has 20+ years in kitchens. This matches the filing's 'Chef' occupation and 'Southern Foods' employer. He is explicitly NOT the well-known James Beard-winning Austin-raised chef Rick Martinez, who is a cookbook author based in Mazatlan with no Southern Foodservice connection. Confidence is medium because the 78746 (West Lake Hills) zip was not independently corroborated. The notably Republican-leaning federal donation history (12 contributions, lean 0.18) could not be tied to any specific PAC or ideological committee through public search, and no affiliation is recorded on the basis of donation lean alone. No TEC lobbyist registration found.",
+  "source_url": "https://www.zoominfo.com/p/Ricky-Martinez/10686485664",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f1900bfbe04b311",
+  "name": "Whatley, Ted",
+  "resolved_employer": "History teacher (retired); formerly a schoolteacher, moved to Austin in 1988",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Ted Whatley of Austin is described in a Texas Monthly feature as a history teacher; he and his wife Melba Whatley built a 2,400-sq-ft private library attached to their Tarrytown home, and 78703 is the Tarrytown ZIP, matching the filing's zip, 'teacher' occupation and 'Retired' employer. He is also listed as a past board trustee of the Austin education nonprofit Breakthrough Central Texas. FEC PAC search surfaced no federal PAC contributions under Ted/Theodore Whatley in Austin, and no Texas Ethics Commission lobbyist registration was found.",
+  "source_url": "https://archive.bookstr.com/article/this-couple-has-a-personal-library-of-10000-books-and-we-want-them-to-adopt-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Breakthrough Central Texas",
+    "role": "Past Board Trustee",
+    "category": "civic",
+    "source_url": "https://breakthroughctx.org/board-of-trustees/",
+    "snippet": "Ted Whatley appears in the 'Past Board Trustees' section of Breakthrough Central Texas's board of trustees page; Breakthrough Central Texas is an Austin nonprofit supporting first-generation students through college."
+   }
+  ]
+ },
+ {
+  "donor_id": "5fb1174f35414dae",
+  "name": "Waters, Kristin",
+  "resolved_employer": "Waters Sullivan LLC (founder; estate planning, probate and estate/trust litigation attorney), Birmingham AL",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Kristin R. Waters (also published as Kristin Waters Sullivan) founded Waters Sullivan, LLC in Birmingham, AL; JD University of Alabama School of Law 2006, LL.M. in Taxation 2013, admitted in Alabama 2006, Super Lawyers 2023-2026 (Rising Stars 2021), practice at 2 20th Street N, Birmingham 35203 — matching the filing's 'Attorney / Waters Sullivan LLC' and Birmingham location. FEC search found no contributions under 'Kristin Waters'; a likely-same-person record appears under her married name: 'KRISTIN SULLIVAN (THE FIVE POINTS LAW GROUP/ATTORNEY), (Zip code: 35205) $103 to WIN THE ERA PAC (BUTTIGIEG, PETE) on 03/01/2020' — the 35205 ZIP and attorney occupation match the filing exactly, though the name-variant match is inferential and not independently confirmed. No Texas Ethics Commission lobbyist registration found (out-of-state donor).",
+  "source_url": "https://profiles.superlawyers.com/alabama/birmingham/lawyer/kristin-waters-sullivan/07035659-3980-403d-823b-78bfe057731b.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Waters Sullivan, LLC",
+    "role": "Founder / principal attorney",
+    "category": "business",
+    "source_url": "https://www.waterssullivan.com/",
+    "snippet": "Waters Sullivan, LLC is a Birmingham estate planning and probate firm; Kristin R. Waters founded the firm and handles probate administration, will contests, trust disputes and estate litigation throughout Alabama."
+   }
+  ]
+ },
+ {
+  "donor_id": "634d3eeb17df6c7e",
+  "name": "Smith, Danelle",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Could not confirm this specific individual. 'Danelle/Danielle Smith' is an extremely common name with hundreds of Texas matches; the Austin-area people found (a family physician, a pediatric otolaryngologist, an Austin Title employee, a UT professional-education contact, and a Danelle J. Smith real-estate attorney now in Las Vegas) all conflict with the filing's 'Not Employed' occupation and none could be tied to ZIP 78725 (far east Austin / Hornsby Bend). No FEC contribution history and no Texas Ethics Commission lobbyist registration found for the name. Industry recorded only as the self-reported 'Not Employed' from the filing itself; no independent public profile exists to corroborate identity.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6932a9cd4f157c45",
+  "name": "Taylor, Kim",
+  "resolved_employer": "\"Aelf\" (self-reported); entity not identified — no Texas business entity named Aelf located",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Could not confirm this specific individual. 'Kim/Kimberly Taylor' is a very common name and several unrelated Austin consultants share it (Taylor Collective Solutions, Taylor Marketing Works, a healthcare executive, a licensed counselor in 78750) — none is documented at ZIP 78746 or linked to 'Aelf'. On the employer question: the only prominent 'aelf' is a Singapore-headquartered Layer-1 blockchain company founded 2017 (~85 employees), which has no located Austin or Texas presence; no Texas Secretary of State / Comptroller entity named 'Aelf' was found, so whether the filing refers to that blockchain project or to a small unregistered personal consultancy is undetermined. Industry assigned by employer/occupation fallback from the filing's stated 'Consultant' only. No FEC records confirmable to this person and no Texas Ethics Commission lobbyist registration found for Kim or Kimberly Taylor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6990566ab19543a1",
+  "name": "Barksdale, Tamala",
+  "resolved_employer": "Juno Marketing (marketing/brand strategy); former Director of Marketing, EnviroMedia Social Marketing (Austin)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Austin marketing professional and former Austin ISD At-Large Place 9 Trustee (won the June 2010 runoff over Julie Cowan; served through 2014). Corroborated by Austin residence (78753), 'Marketing' occupation matching her long PR/marketing career, and a current Austin political footprint: she is listed as an endorser of Rep. Gina Hinojosa's 2026 Texas governor campaign under the title 'Former Trustee, Austin Independent School District.' FEC individual-contribution searches surfaced no itemized federal records under this name (her 92-donation federal history is consistent with unitemized/conduit small-dollar giving). Not in the Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://ginafortexas.com/endorsements/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Independent School District Board of Trustees",
+    "role": "At-Large Place 9 Trustee (elected 2010, served to 2014)",
+    "category": "political",
+    "source_url": "https://ginafortexas.com/endorsements/",
+    "snippet": "Endorser list entry: 'Tamala Barksdale — Former Trustee, Austin Independent School District.'"
+   },
+   {
+    "org": "Austin ISD Place 9 campaign (2010)",
+    "role": "Candidate; endorsed by Education Austin and the Austin Central Labor Council; opposed vouchers and public funding of charters",
+    "category": "political",
+    "source_url": "https://www.austinchronicle.com/news/2010-04-23/1018951/",
+    "snippet": "Austin Chronicle: 'Director of marketing for public relations firm EnviroMedia Social Marketing,' Barksdale ran for the AISD at-large Place 9 seat and drew backing from Education Austin and the Austin Central Labor Council."
+   }
+  ]
+ },
+ {
+  "donor_id": "69d210d463e852d5",
+  "name": "Richmond, Debra",
+  "resolved_employer": "Richmond Advisory, LLC (owner) — also Director of Road Safety Strategic Initiatives, Permian Strategic Partnership",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Debra G. Richmond of Austin owns Richmond Advisory, LLC, an advocacy/strategic-counsel consultancy, matching the donor's stated occupation 'Consultant' and employer 'Richmond Advisory.' She is a registered Texas lobbyist (TEC 2026 registered-lobbyist list, listed at 1122 Colorado St. Ste. 320, Austin TX 78701, business designation 'Consultant'; profiled on Transparency USA's Texas lobbyist database). Since 2019 she has been Director of Road Safety Strategic Initiatives at the Permian Strategic Partnership, a coalition of oil and gas companies in the Permian Basin. Formerly TxDOT Government Affairs Division. FEC individual-contribution searches surfaced no itemized federal records under this name.",
+  "source_url": "https://permianpartnership.org/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Permian Strategic Partnership",
+    "role": "Director of Road Safety Strategic Initiatives (since 2019); leads the PSP Road Safety Committee and represents PSP on transportation funding issues at all levels of government",
+    "category": "oil_gas",
+    "source_url": "https://permianpartnership.org/our-team/",
+    "snippet": "PSP team page: 'Debra Richmond has served as the PSP's Director of Road Safety Strategic Initiatives since 2019... She represents the PSP on road safety and transportation funding issues at all levels of government.' PSP describes itself as 'a collaboration between local communities, twenty-six oil and gas companies and two university systems operating in the Permian Basin.'"
+   },
+   {
+    "org": "Texas Ethics Commission lobbyist registry",
+    "role": "Registered Texas lobbyist (listed 2024 and 2026 registration lists; Austin address, designation 'Consultant')",
+    "category": "political",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/debra-g-richmond-86456/activity",
+    "snippet": "Transparency USA maintains a Texas lobbyist activity profile for 'Debra G Richmond'; she also appears on the Texas Ethics Commission 2026 registered-lobbyist list at 1122 Colorado St. Suite 320, Austin, TX 78701."
+   },
+   {
+    "org": "Texas Department of Transportation, Government Affairs Division",
+    "role": "Government affairs staff (former); credited with securing over $130 million in competitive federal discretionary grants for TxDOT",
+    "category": "civic",
+    "source_url": "https://permianpartnership.org/our-team/",
+    "snippet": "PSP bio: 'Previously, she worked for the Texas Department of Transportation's Government Affairs Division, where she secured over $130 million in competitive federal discretionary grant funds for TxDOT.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "6e77c8eceb77b5fd",
+  "name": "Retacco, Lyandra",
+  "resolved_employer": "Retacco Law Firm (solo practitioner, Philadelphia PA); former Assistant District Attorney, Philadelphia District Attorney's Office",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Lyandra Louis Retacco, PA attorney ID 208447, admitted October 23, 2008, active license, Philadelphia (District 1) — office/home addresses in the 19147 zip matching the donor record, and 'Lawyer / Self' matching her solo Retacco Law Firm practice. Former Philadelphia Assistant District Attorney. Currently a criminal-defense/civil-rights practitioner; in 2026 she is counsel for members of the Philadelphia 'Black Lions' patrol group in firearms-license revocation appeals, arguing the Uniform Firearms Act's 'character and reputation' standard is unconstitutionally vague — this is client representation, not an organizational affiliation, so it is not recorded as one. FEC individual-contribution searches surfaced no federal records for her (the only 'Retacco' federal record found was a different person, Rosemarie Retacco, zip 19130). Not in the Texas Ethics Commission lobbyist registry (she is a Pennsylvania attorney).",
+  "source_url": "https://www.padisciplinaryboard.org/for-the-public/find-attorney/attorney-detail/208447",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "743209c3de2c9573",
+  "name": "Martindale, Quinn",
+  "resolved_employer": "Rigby Slack Lawrence Berger Akinc Pepper + Comerford, PLLC — Senior Counsel (commercial real estate, business and commercial litigation), Austin TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Quinn Timothy Martindale, Texas bar-licensed 2011, J.D. University of Texas School of Law (2010), Senior Counsel at Austin firm Rigby Slack Lawrence Berger Akinc Pepper + Comerford, PLLC; practice split roughly 50/50 between business law and real estate law. Identity confirmed to the exact donor record by FEC data: itemized federal contributions filed under 'QUINN MARTINDALE (RIGBY SLACK PLLC/LAWYER), Zip code 78759' — same employer string and same zip as the D1 donation. His 171-donation federal history consists of recurring small-dollar ActBlue conduit contributions (e.g., four consecutive weekly $2 gifts in March 2020), consistent with the recorded Democratic lean. No ideological-PAC (pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor) contributions surfaced. Not in the Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://theorg.com/org/rigbyslack/org-chart/quinn-t-martindale",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

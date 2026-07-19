@@ -1,0 +1,385 @@
+[
+ {
+  "donor_id": "fa7ef161d5d7aa7c",
+  "name": "Slattery, James",
+  "resolved_employer": "Not currently employed; formerly Senior Staff Attorney, Voting Rights Program, Texas Civil Rights Project; most recently National Regional Voter Protection Director, Harris for President 2024",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "FEC individual-contribution records show a James Slattery at Austin ZIP 78741 with employer 'Texas Civil Rights Project' / occupation 'Senior Staff Attorney'; published bios describe him as an Austin-based civil rights lawyer and political strategist whose most recent role ended with the 2024 Harris campaign, consistent with the 'Not Employed' occupation and the heavily Democratic 68-donation federal pattern. ZIP + occupation + donation pattern corroborate, but no residential-record match, hence medium.",
+  "source_url": "https://law.pepperdine.edu/surf-report/posts/james-slattery-interviewed-new-law-voting-texas-pbs-news-hour.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Civil Rights Project",
+    "role": "Senior Staff Attorney, Voting Rights Program (former)",
+    "category": "civic",
+    "source_url": "https://law.pepperdine.edu/surf-report/posts/james-slattery-interviewed-new-law-voting-texas-pbs-news-hour.htm",
+    "snippet": "Slattery is identified as a senior voting rights attorney with the Texas Civil Rights Project, leading the organization's election protection and voting rights advocacy work in Texas."
+   },
+   {
+    "org": "Harris for President 2024",
+    "role": "National Regional Voter Protection Director",
+    "category": "political",
+    "source_url": "https://thebarbedwire.com/author/james-slattery/",
+    "snippet": "Author bio: Austin-based political strategist and civil rights lawyer who 'served as a National Regional Voter Protection Director' on Vice President Kamala Harris's 2024 presidential campaign."
+   }
+  ]
+ },
+ {
+  "donor_id": "feb2040e1198e0a0",
+  "name": "Rubio, Janee",
+  "resolved_employer": "City of Austin — Austin Public Health (public health program coordinator)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A 'Janee R.' appears in a public professional-contact directory working in public health for City of Austin / Austin Public Health, matching the self-reported employer and occupation on the filing. No other public footprint and no federal donation history (0 FEC records). Classified by employer fallback.",
+  "source_url": "https://aeroleads.com/in/janee-r-4b7a001a1",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a4754bf1caec8f8",
+  "name": "Morrison, Laura",
+  "resolved_employer": "Retired; formerly Executive Director, TxETRA Education Fund / Director of Community Initiatives, Texas Electric Transportation Resources Alliance (retired). Earlier: Austin City Council Member, Place 4 (2008-2015); Lockheed engineer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as former Austin City Council Member Laura Morrison: FEC contribution records list Laura Morrison at Austin ZIP 78756 with employer 'Texas Electric Transportation Resource' and occupation 'Director of Community Initiatives,' and TxETRA's own staff page identifies that Laura Morrison as the former Lockheed engineer who 'served two terms on the Austin City Council.' Her name no longer appears on the successor org's current team page, consistent with 'RETIRED' on the 2026 filing.",
+  "source_url": "https://txetra.org/staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin City Council",
+    "role": "Council Member, Place 4 (2008-2015)",
+    "category": "political",
+    "source_url": "https://txetra.org/staff",
+    "snippet": "TxETRA staff bio: Laura 'served two terms on the Austin City Council,' addressing technology adoption and oversight of the public electric utility."
+   },
+   {
+    "org": "Texas Electric Transportation Resources Alliance (TxETRA) / TxETRA Education Fund",
+    "role": "Executive Director, TxETRA Education Fund; Director of Community Initiatives",
+    "category": "civic",
+    "source_url": "https://txetra.org/staff",
+    "snippet": "Staff listing gives her titles as Executive Director of the TxETRA Education Fund and Director of Community Initiatives, working statewide on 'EV policies, incentives, ordinance changes, and charging infrastructure.'"
+   },
+   {
+    "org": "ECHO (Ending Community Homelessness Coalition)",
+    "role": "Board member and Treasurer",
+    "category": "civic",
+    "source_url": "https://housingworksaustin.org/news/housingworks-board-member-laura-morrison-a-legacy-of-leadership/",
+    "snippet": "Profile lists her community positions including treasurer of ECHO, the Ending Community Homelessness Coalition."
+   },
+   {
+    "org": "HousingWorks Austin",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://housingworksaustin.org/news/housingworks-board-member-laura-morrison-a-legacy-of-leadership/",
+    "snippet": "Article headline and text identify Laura Morrison as a HousingWorks Austin board member, highlighting her affordable-housing work on Council."
+   }
+  ]
+ },
+ {
+  "donor_id": "45028dd3b878adec",
+  "name": "Houston, Gina",
+  "resolved_employer": "Internal Revenue Service (customer service)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Gina Houston of Austin is Chair of the City of Austin Arts Commission and a member of the Downtown Commission; she is publicly associated with the Blackland neighborhood in East Austin, consistent with the donor's 78722 ZIP and with giving to two District 1 candidates. Employer/occupation (IRS, customer service) is self-reported on the filing and is her day job, separate from her civic roles.",
+  "source_url": "https://austintexas.granicus.com/boards/w/7b91099f4c57a26c/members/1792086",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Arts Commission",
+    "role": "Chair (2nd term, Mar 2025 - Feb 2029; first appointed Jul 2023)",
+    "category": "civic",
+    "source_url": "https://austintexas.granicus.com/boards/w/7b91099f4c57a26c/members/1792086",
+    "snippet": "Member record lists Gina Houston as 'Chair' of the Arts Commission, 2nd term Mar 01, 2025 to Feb 28, 2029, prior term Jul 20, 2023 to Feb 28, 2025."
+   },
+   {
+    "org": "City of Austin Downtown Commission",
+    "role": "Member (1st term, Aug 2025 - Feb 2029)",
+    "category": "civic",
+    "source_url": "https://austintexas.granicus.com/boards/w/7b91099f4c57a26c/members/1792086",
+    "snippet": "Same member record shows a Downtown Commission term running Aug 28, 2025 to Feb 28, 2029."
+   },
+   {
+    "org": "Blackland neighborhood land-use advocacy",
+    "role": "Speaker before the Austin Planning Commission opposing rezoning at 2010/2108 E 22nd St",
+    "category": "civic",
+    "source_url": "https://www.youtube.com/watch?v=UyyoWLfA548",
+    "snippet": "Video titled 'Gina Houston to Austin Planning Commission - Jan 27 2026 - rezoning 2108 and 2010 E 22nd Street,' testimony on protecting the Blackland neighborhood."
+   }
+  ]
+ },
+ {
+  "donor_id": "9faeba86066e59e6",
+  "name": "Marsh, Andrea",
+  "resolved_employer": "Rhizos LLC (self-employed soil-health consulting; soil/compost microbiology assessment, Austin/Manor area)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Andie (Andrea) Marsh is the founder of Rhizos LLC, a one-person soil-health consultancy evaluating soils, composts and bioamendments by microscopy; B.S. Bioenvironmental Science, Texas A&M 2013. Occupation 'Soil Scientist' and employer 'Self' match her business exactly, and people-search records place an Andie Marsh in Manor, TX (78653). FEC PAC and TEC lobbyist searches returned no records.",
+  "source_url": "https://www.rhizos.science/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ebfafc0bb3740dec",
+  "name": "timmons, Cynthia",
+  "resolved_employer": "City of Nashua, NH — Division of Public Health & Community Services (Community Health Worker)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Cynthia Timmons is listed in the City of Nashua official staff directory as a Community Health Worker in the Community Services Department, matching the filing's occupation 'Health worker' and employer 'City of Nashua'; Hudson NH (03051) is an adjacent commuter town. No FEC PAC records, no Texas lobbyist registration, no board or leadership roles found.",
+  "source_url": "https://nashuanh.gov/directory.aspx?EID=378",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "068836e8e3bb00d3",
+  "name": "Ibarra, Maria",
+  "resolved_employer": "ACLU of Texas — Policy & Advocacy Strategist, Voting Rights (registered Texas lobbyist)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Maria ('Mary') Ibarra is a Policy and Advocacy Strategist for voting rights at the ACLU of Texas, Austin-based, who testifies before Texas legislative committees for the organization. She appears in the Texas Ethics Commission registered-lobbyist list as Maria M. Ibarra (lobbyist ID 89273), 'non-profit policy and advocacy strategist,' at the ACLU of Texas mailing address. Occupation, employer and Austin location all match the filing. Note: a registered-lobbyist contribution under Austin's low contribution cap, not an ordinary small-dollar gift.",
+  "source_url": "https://www.aclutx.org/bios/mary-ibarra/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "ACLU of Texas",
+    "role": "Policy & Advocacy Strategist — Voting Rights",
+    "category": "civic",
+    "source_url": "https://www.aclutx.org/bios/mary-ibarra/",
+    "snippet": "ACLU of Texas staff bio: 'Mary Ibarra is an organizer with electoral experience in campaigns, nonprofit, and committee efforts,' serving as policy and advocacy strategist on voting rights; previously organized with Voto Latino and Swing Left."
+   },
+   {
+    "org": "ACLU of Texas (Texas Ethics Commission lobby registration)",
+    "role": "Registered Texas lobbyist",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "snippet": "TEC 2025 registered-lobbyist list entry for Maria M. Ibarra, lobbyist ID 89273, described as 'non-profit policy and advocacy strategist,' registered at the ACLU of Texas mailing address."
+   }
+  ]
+ },
+ {
+  "donor_id": "1d4890934922ddcb",
+  "name": "Kuczaj, Dustin",
+  "resolved_employer": "ProPath (a Sonic Healthcare USA anatomic pathology practice), Dallas/Plano TX — Lead Technician, Immunohistochemistry Lab",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dustin Kuczaj is Lead Technician of the IHC lab at ProPath, a Dallas-area pathology practice acquired by Sonic Healthcare in December 2021 and now operating as a Sonic Healthcare USA practice. Rare surname plus Plano-area location, 'Lab tech' occupation and 'Sonic Healthcare' employer all corroborate. No FEC ideological-PAC records and no Texas lobbyist registration; no full professional bio page was publicly readable (ZoomInfo/LinkedIn blocked).",
+  "source_url": "https://www.darkdaily.com/2022/02/09/sonic-healthcare-acquires-propath-while-pathgroup-buys-pathology-consultants-in-more-signs-of-a-consolidating-market/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2a2a40f4b911b22d",
+  "name": "Marsh, Lindsay",
+  "resolved_employer": "State of Texas (state agency employee; specific agency not confirmed)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Donor self-reports employer 'State of Texas' with occupation 'Performance' at Austin ZIP 78722. Multiple distinct Austin-area Lindsay Marshes surface publicly (a Texas HHS employee, an Equality Texas field organizer, a UT McCombs MBA in brand management); none can be corroborated to ZIP 78722 or the 'Performance' occupation, so the specific individual is unconfirmed. Industry assigned by employer fallback only.",
+  "source_url": "https://www.hhs.texas.gov/about/about-us/executive-teams-organizational-charts",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7011d2924a600c31",
+  "name": "Martin, Hunter",
+  "resolved_employer": "Garden of Wisdom LLC (family-run skincare/beauty-supply e-commerce retailer, Prescott AZ) — Inventory Manager",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Employer Garden of Wisdom LLC confirmed as a Prescott, AZ skincare/beauty-supply retailer at 440 W Goodwin St, Prescott AZ 86303 — matching the donor's ZIP 86303. BBB lists Mrs. Markey Martin as owner of the family-run LLC; Hunter Martin is not independently documented in any public listing, so the individual is corroborated only through the employer/ZIP match.",
+  "source_url": "https://www.bbb.org/us/az/prescott/profile/beauty-supplies/garden-of-wisdom-1126-1000075863",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7814a9543987a4b6",
+  "name": "Reid, Cindi",
+  "resolved_employer": "Self-employed REALTOR / Broker Associate, Uncommon Realty (Austin, TX)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Cindi Reid is a Broker Associate and REALTOR with Uncommon Realty in Austin, a self-described native Austinite working built properties, new construction, investment properties, short-term rentals and renovations — matching the filing's 'Realtor' / 'Self Employed'. Full bio read: prior careers as math/Spanish teacher and HR advisor; UT Austin degrees, Rice MBA. No board seats or civic roles beyond standard REALTOR association memberships (ABoR, Texas REALTORS, NAR). Austin ZIP 78758 not independently confirmed.",
+  "source_url": "https://www.uncommontx.com/agents/cindi-reid/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7efdc14ed7dfcaa2",
+  "name": "Strassburger, Trudy",
+  "resolved_employer": "Travis County District Attorney's Office — First Assistant District Attorney",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Trudy (Gertrude) Strassburger is listed on the official Travis County District Attorney leadership page as First Assistant District Attorney, matching the filing's occupation 'Attorney' and employer 'Travis County'. J.D., Temple University Beasley School of Law; prior roles at The Bronx Defenders, Capital Area Private Defender Service (Deputy Director), and The Justice Collaborative. Named in Austin news coverage over a Civil Rights Unit police-prosecutor job posting.",
+  "source_url": "https://districtattorney.traviscountytx.gov/our-leadership-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County District Attorney's Office (Civil Rights Unit)",
+    "role": "First Assistant District Attorney",
+    "category": "political",
+    "source_url": "https://cbsaustin.com/news/local/cleat-calls-for-removal-of-travis-co-assistant-da-over-job-posting-for-police-prosecutor",
+    "snippet": "CLEAT called for her removal after a Civil Rights Unit job posting for a prosecutor to handle police misconduct cases; her recruiting email opened 'I am reaching out in the hopes that you may be looking to prosecute police officers.'"
+   },
+   {
+    "org": "Capital Area Private Defender Service (CAPDS)",
+    "role": "Deputy Director (former)",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/trudy-strassburger-8ba86a5/",
+    "snippet": "Professional profile lists prior roles at The Justice Collaborative, Capital Area Private Defender Service and The Bronx Defenders, supervising an interdisciplinary team of criminal defense, immigration, family and civil attorneys, investigators and social workers. (LinkedIn-sourced; not independently re-verified.)"
+   }
+  ]
+ },
+ {
+  "donor_id": "d52ec187cefe765b",
+  "name": "Lofton, Michael",
+  "resolved_employer": "African American Youth Harvest Foundation (Founder/CEO); also Founder/CEO, Harvest Trauma Recovery Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Michael Lofton is the founder/CEO of the African American Youth Harvest Foundation in Austin, matching the filing's employer and 'CEO' occupation exactly; AAYHF's youth resource center serves Northeast Austin/Northeast Travis County, consistent with the donor's 78753 ZIP. Named Austin Community College's 2025 Distinguished Alumni of the Year for this work.",
+  "source_url": "https://harvesttrc.org/team-members/michael-lofton/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "African American Youth Harvest Foundation",
+    "role": "Founder / CEO",
+    "category": "civic",
+    "source_url": "https://harvesttrc.org/team-members/michael-lofton/",
+    "snippet": "Founder/CEO of the African American Youth Harvest Foundation (AAYHF) and the African American Youth Resource Center, established 2011, providing afterschool programs, STEM training, mentoring, mental health counseling and workforce development."
+   },
+   {
+    "org": "Harvest Trauma Recovery Center",
+    "role": "Founder / CEO",
+    "category": "civic",
+    "source_url": "https://sites.austincc.edu/newsroom/2025/09/15/meet-accs-distinguished-alumni-of-the-year-michael-lofton/",
+    "snippet": "Lofton 'pioneered the state's first Trauma Recovery Center' and brought 'more than 20 nonprofits under one roof' offering holistic support for at-risk populations in the Austin area."
+   }
+  ]
+ },
+ {
+  "donor_id": "d9649448f9a6cd43",
+  "name": "Brooks, Ashley",
+  "resolved_employer": "Texas Association Against Sexual Assault (TAASA) — Senior Policy Advisor",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ashley Brooks is listed on TAASA's staff page as Senior Policy Advisor, matching the filing's employer and public-policy-manager occupation; she appears on a Texas Senate committee witness list for TAASA. TEC registered-lobbyist lists 2021-2026 were checked and contain no 'Brooks, Ashley' — she does legislative advocacy for TAASA but is not individually registered as a lobbyist in the lists reviewed.",
+  "source_url": "https://www.taasa.org/staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Association Against Sexual Assault",
+    "role": "Senior Policy Advisor (legislative advocacy)",
+    "category": "civic",
+    "source_url": "https://capitol.texas.gov/tlodocs/88R/witlistmtg/html/C5902023040408301.HTM",
+    "snippet": "Ashley Brooks appears on the 88R Senate committee witness list for SB 409 on behalf of the Texas Association Against Sexual Assault, registering FOR the bill."
+   }
+  ]
+ },
+ {
+  "donor_id": "2acc2c26379a14b2",
+  "name": "Rivera, Jane",
+  "resolved_employer": "Not employed; longtime East Austin (Rosewood) neighborhood activist; former Chair, City of Austin Parks and Recreation Board",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Corroborated as Jane H. Rivera, PhD, decades-long Rosewood/East Austin neighborhood activist (78702 is Rosewood/East Austin) and co-author with Gilberto C. Rivera of 'Austin's Rosewood Neighborhood'; she chaired the City of Austin Parks and Recreation Board (documented in Austin Monitor coverage and PARD board records 2008-2019). Filing occupation 'Not Employed' is consistent with a retired civic figure; identity rests on name + East Austin ZIP + civic-donor pattern rather than a direct record match, hence medium.",
+  "source_url": "https://austinmonitor.com/stories/2019/01/parks-board-oks-givens-park-master-plan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Parks and Recreation Board",
+    "role": "Chair (former); board member across multiple terms",
+    "category": "civic",
+    "source_url": "https://austinmonitor.com/stories/2019/01/parks-board-oks-givens-park-master-plan/",
+    "snippet": "\"Chair Jane Rivera directly addressed the citizen speaker from her district and told him that he can 'tell the people' there will assuredly be no dog park.\""
+   },
+   {
+    "org": "Rosewood neighborhood (East Austin) community advocacy",
+    "role": "Neighborhood activist / author-historian",
+    "category": "civic",
+    "source_url": "https://www.resistenciabooks.com/219-austins-rosewood-neighborhood-a-presentation-and-book-signing-with-jane-h-rivera-phd-gilberto-c-rivera",
+    "snippet": "\"Authors Jane H. Rivera, Ph.D., and Gilberto C. Rivera have been neighborhood activists in Rosewood for decades.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "67c136a30858577d",
+  "name": "Miller, Patrick",
+  "resolved_employer": "Austin Independent School District — assistant principal (self-reported on filing)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "No public record confirms this specific Patrick Miller: AISD staff directories, news, and professional-profile searches returned no matching assistant principal, and there is at least one unrelated Austin 'Patrick Miller' (youth soccer club founder). Industry assigned by employer/occupation fallback only (AISD educator, ZIP 78727 North Austin); 0 FEC donations and no discoverable public footprint.",
+  "source_url": "https://www.austinisd.org/about-us/leadership/principals",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf61ef4cf5d06043",
+  "name": "Ramos, Elijah",
+  "resolved_employer": "Carrollton-Farmers Branch ISD (general maintenance) and self-employed handyman",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Self-reported on the filing as general maintenance/handyman work with employers 'CFBISD' and his own name. CFBISD is Carrollton-Farmers Branch ISD, headquartered at 1445 N. Perry Rd, Carrollton TX 75006 — matching the donor's 75006 ZIP — and the district runs a Facility Support Services maintenance department. No independent public profile, bio, news mention, or staff-directory listing for this specific Elijah Ramos was found. Zero FEC donations.",
+  "source_url": "https://www.cfbisd.edu/departments/facility-support-services/staff-directory",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "54cc85fe0c310932",
+  "name": "Gross, Karen",
+  "resolved_employer": "Self-employed attorney (solo criminal-defense practice, Austin); Of Counsel to Carmichael Ellis & Brock PLLC; Founder & CEO, Citizen Discourse / CD Consulting",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Karen E. Gross is an Austin attorney who 'has worked in the Austin community for two decades' — UT Austin BA (2001), University of Houston Law Center JD (2009), Texas bar 2009 — and opened her own criminal defense practice in Austin in 2012, matching the filing's 'Attorney' / 'Self'. Texas Super Lawyer 2016-2018. Corroborated by occupation, self-employment, Austin location, and a strongly Democratic federal giving history (104 FEC donations, lean 0.977).",
+  "source_url": "https://carmichaellegal.com/attorneys/karen-e-gross/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Anti-Defamation League (ADL), Austin regional office",
+    "role": "Community Director (approx. 2009-2012), former",
+    "category": "jewish_civic",
+    "source_url": "https://carmichaellegal.com/attorneys/karen-e-gross/",
+    "snippet": "She served as community director for the Austin Anti-Defamation League, overseeing 'the strategic growth and development of the office including the launch and implementation of the Austin/Travis County Hate Crimes Taskforce.' Recorded because the role is policy-advocacy-relevant (hate-crimes legislative work), not on any religious basis."
+   },
+   {
+    "org": "Citizen Discourse / CD Consulting",
+    "role": "Founder and CEO",
+    "category": "civic",
+    "source_url": "https://citizendiscourse.org/about-us/",
+    "snippet": "'Hi there, I am Karen Gross, the Founder of CD Consulting.' Citizen Discourse's mission is 'to further the development of an engaged, informed, and caring global society through workshops, trainings, campaigns and more,' drawing on restorative-justice practices."
+   },
+   {
+    "org": "Austin City Council (office of a council member)",
+    "role": "Policy Director (former, pre-law school)",
+    "category": "political",
+    "source_url": "https://rotaryclubofwestaustin.org/speakers/90d85abe-d5b3-4617-b188-81001c833b5c/",
+    "snippet": "'Before law school Karen served as a policy director for an Austin City Council member.' The specific council member is not named in the public bio."
+   },
+   {
+    "org": "Clemency Project 2014",
+    "role": "Staff Attorney (2016)",
+    "category": "civic",
+    "source_url": "https://carmichaellegal.com/attorneys/karen-e-gross/",
+    "snippet": "In 2016 she worked as staff attorney with the Clemency Project 2014 in Washington DC, where she 'represented individuals seeking federal clemency'; she describes herself as 'a fierce advocate for criminal justice reform.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "a6deb13a98e671d7",
+  "name": "Martin, Samuel",
+  "resolved_employer": "Bluestaq LLC (Corporate IT Systems Administrator), Colorado Springs CO",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Self-reported on the filing as a Corporate IT Systems Administrator at Bluestaq, a Colorado Springs software firm with US Space Force / DoD contracts; Bluestaq does post 'Corporate Systems Administrator' roles in Colorado Springs and the 80916 ZIP is consistent. However, 'Samuel Martin' is a very common name and no public profile or staff listing independently confirms this individual. No military_defense affiliation recorded: the taxonomy scopes that flag to defense-contractor exec/board/owner/lobbyist, and a rank-and-file IT sysadmin does not meet it. 76 FEC donations with a mixed lean (0.48); no ideological or industry PAC ties surfaced.",
+  "source_url": "https://bluestaq.isolvedhire.com/jobs/1120404.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3002d37dba056577",
+  "name": "Yasminda, Khorshidian",
+  "resolved_employer": "Self-employed ('art activations') per filing; publicly documented as Senior Program Manager, Enterprise Risk at the Lower Colorado River Authority (LCRA), Austin",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Name is reversed in the filing; the person is Yasminda Khorshidian. A distinctive name with a single Austin, TX match publicly listed as Senior Program Manager, Enterprise Risk at LCRA, with prior LCRA risk roles, Senior Business Analyst at Indeed, and earlier positions at Wells Fargo. Austin residence corroborates the 78748 ZIP. The filing's self-reported 'Art activations' / 'Self' does not match the LCRA role and no public art-business footprint was found, so it may be a side venture or a post-LCRA change — the occupation itself is uncorroborated, hence medium. Zero FEC donations.",
+  "source_url": "https://www.linkedin.com/in/yasminda/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

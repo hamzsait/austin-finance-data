@@ -1,0 +1,76 @@
+[
+ {
+  "donor_id": "f4caf31c5b3e878c",
+  "name": "De silva, Terrance",
+  "resolved_employer": "Not Employed (self-reported on the City of Austin contribution filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Single $100 contribution (2026-04-11) to Misael D. Ramos, Austin TX 78749, with occupation and employer both self-reported as 'Not Employed'. No public profile could be corroborated to this specific person. The only near-match was a LinkedIn profile for a 'Terrance De Silva' at Infineon Technologies in Austin, which conflicts with the self-reported 'Not Employed' status, shows no zip, and could not be confirmed as the same individual; city-data FEC records for Austin show unrelated De Silva households. Identity not corroborated beyond name and city; industry taken from the filer's own self-reported occupation, not from any inferred employer. FEC individual-contributor search (FEC.gov, OpenFEC API, city-data mirrors) returned no attributable records and no ideological-PAC ties on any side; TEC lobbyist registry returned no De Silva/DeSilva match.",
+  "source_url": "https://data.austintexas.gov/City-Government/Campaign-Finance-Contributions/3kfv-biw6",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f4f43f373249d479",
+  "name": "Haverty, Marq",
+  "resolved_employer": "H Squared Real Estate (H Squared Realty), Austin TX — residential real estate sales agent",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "LinkedIn and Zillow agent profiles identify Marq Haverty as a Realtor with H Squared Real Estate in the Austin metro area, corroborating the filing's 'Realtor' occupation and Austin location; Zillow shows roughly 18 recent Austin-area sales ($1K-$907K), consistent with a rank-and-file residential agent rather than a principal. He is not listed among H Squared Realty's founders/team (founders Michael Harrell and Lalo Herrera), so no brokerage-principal, developer, or homebuilder role is supported. Zip 78724 was not independently confirmed on any public page, so identity rests on the distinctive name plus matching occupation and market — medium, not high. TEC lobbyist registry (site-scoped search plus the 2026 registered-lobbyists-by-name list) returned no Haverty match. FEC search returned no records, but OpenFEC returned HTTP 429 and OpenSecrets HTTP 403, so the pipeline's fec_donation_count=5 could not be independently verified — treat the FEC result as inconclusive-negative rather than a confirmed zero. The H Squared team page was read in full (no Haverty bio present); no Austin Board of Realtors leadership, neighborhood-association, or advocacy memberships surfaced. TREC license lookup is a POST-only form and could not be queried.",
+  "source_url": "https://www.linkedin.com/in/marqhaverty/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f5a8618676a39e60",
+  "name": "Watson, Courtney",
+  "resolved_employer": "Not employed (FEC filings list employer/occupation as 'NOT EMPLOYED' as of 2020); no current employer discoverable",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "The flagged partisan-lean anomaly is a false name match, not a cross-cutting donor. FEC records for Courtney Watson at Tyler TX 75701 show exactly two small-dollar contributions, both Democratic-aligned and both listing 'NOT EMPLOYED': $25 to ActBlue (09/28/2020) and $25 to Biden for President (10/07/2020) — a pattern consistent with a $100 gift to Amber Goodwin and the opposite of the 0.097 Republican lean attached to this record. The 81-donation / 0.097-lean profile belongs to a different Courtney Watson (Sterling VA 20166, a defense-industry government-relations executive whose FEC record is recurring payroll-deduction giving to the Raytheon Technologies Employees PAC), filed from a Virginia address with a Raytheon employer string, and cannot belong to the Tyler donor. The Tyler individual has no discoverable public bio, LinkedIn, or professional profile, no Texas Ethics Commission lobbyist registration, and no discoverable gun_control or gun_rights affiliation on either side. Industry recorded from the 2020 FEC occupation string only; current employment unknown. NOTE for the pipeline: the fec_partisan_lean and fec_donation_count fields on this donor record are mismatched to the wrong person and should not be used.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-TYLER-TX-20-part13.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6788627860876f6",
+  "name": "Hurtado, Eddie",
+  "resolved_employer": "Water treatment technician (employer not disclosed; filing lists employer as NA)",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "No public profile corroborating this individual could be located. The only identifying details are the self-reported occupation on the Austin filing ('Water treatment tech') and a Martindale, TX 78655-3034 address roughly 40 miles outside Austin District 1, with a single $100 gift on 2026-02-27 to Misael Ramos. Name searched against FEC individual-contributor records, TEC lobbyist registries, TCEQ water/wastewater operator licensing, and Caldwell/Hays-area local news with no match, confirming the zero-FEC-record finding and no ideological-PAC ties on any side. The one LinkedIn hit for an 'Eddie Hurtado' is an equipment manager at Ortiz Enterprises Inc — occupation and employer do not match and there is no location corroboration, so it is not treated as this person. Industry assigned by occupation fallback only; the record does not establish whether this is a municipal/utility employee or a private contractor.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=eddie+hurtado&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f74070d91ff37126",
+  "name": "Greene, Melanie",
+  "resolved_employer": "Arkus, Inc. — Salesforce Implementation Consultant (Salesforce Premium Consulting Partner / Salesforce for Nonprofits partner)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Donor-reported employer 'Arkus' and occupation 'Tech consultant' match uniquely to Melanie Greene, Salesforce Implementation Consultant at Arkus, Inc.; she is a certified Salesforce Administrator who moved into a consulting role managing nonprofit and small-business client projects. Austin nexus corroborated by Arkus listing her among the team attending Texas Dreamin' 2025 in Austin, TX (May 29-30, 2025), immediately adjacent to her 2026-05-10 Austin D1 gift; zip 78704 itself is not independently confirmable in public sources. Unrelated same-named individuals exist (a Texas romance novelist, a California school board member, a Pennsylvania association-management director) — none match the Arkus/Austin anchor. FEC PAC search was run across FEC.gov, the OpenFEC API, OpenSecrets, city-data.com mirrors and general web search; no individual contribution records were retrievable (OpenFEC HTTP 429, OpenSecrets HTTP 403), so the pipeline's 27-donation figure could not be independently corroborated and no recipient committees or PAC ties were confirmed. No pro-Israel, Palestine-solidarity, gun, oil & gas, or defense-PAC ties found on any side. TEC lobbyist registry returned no Melanie Greene. Full bio read attempted on LinkedIn (HTTP 999), ZoomInfo (HTTP 403) and the Arkus about/team pages; a search-engine paraphrase referenced her having led 'the Austin chapter of a national organization' but no source named the organization, so it is not recorded as an affiliation.",
+  "source_url": "https://www.arkusinc.com/events-archive/2025/texas-dreamin-2025",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f893387c17d6281a",
+  "name": "banton, lucien",
+  "resolved_employer": "Greater Austin Neighborhoods (Affordable Housing Visions for Texas Inc.) — Vice President, Property Management & Acquisition",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Lucien E. Banton, 44, of Kyle, TX (matches donor zip 78640; prior cities San Antonio and Lubbock), is listed as Vice President, Property Management & Acquisition at Greater Austin Neighborhoods, an Austin 501(c)(3) affordable-housing nonprofit (EIN 74-2974189, 500 E 4th St Ste 525, roughly $504K revenue, 4 employees, two multifamily properties). Prior roles: Aecmra (building/energy consultant), Aura Design Build, A Better Contractor, Bautex Systems. His LinkedIn slug is linkedin.com/in/lucienbanton, exactly matching the filing's self-referential employer string 'lucienbanton', and his LinkedIn headline is 'Affordable Housing Developer', matching the self-reported occupation. No Texas SOS, CorporationWiki, or OpenCorporates entity was found under his name, so there is no evidence he is a principal of his own development firm; he appears to be a salaried executive at a small nonprofit developer rather than a for-profit real-estate principal. No TDHCA LIHTC award, Austin Housing Finance Corporation item, or Austin City Council agenda item tied to Greater Austin Neighborhoods was found, so no matter-before-council nexus is documented. FEC individual-contributor search found no records and no ideological-PAC ties on any side; TEC lobbyist registry returned no Banton match. LinkedIn (HTTP 999) and the org's Who We Are page (404, no fetchable archive) could not be read directly; career history above comes from indexed profile-aggregator text, hence medium confidence.",
+  "source_url": "https://www.zoominfo.com/p/Lucien-Banton/2466231345",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Greater Austin Neighborhoods (Affordable Housing Visions for Texas Inc.)",
+    "role": "Vice President, Property Management & Acquisition",
+    "category": "business",
+    "source_url": "https://www.causeiq.com/organizations/greater-austin-neighborhoods-affordable-housing-visions-for-texas-inc,742974189/",
+    "snippet": "Greater Austin Neighborhoods / Affordable Housing Visions for Texas Inc is a 501(c)(3) formed in 2000 that 'provides affordable housing, promotes community health, and partners with organizations to enhance residents' quality of life'; ZoomInfo lists Lucien Banton as Vice President, Property Management & Acquisition there with a @greateraustinneighborhoods.org email."
+   }
+  ]
+ }
+]

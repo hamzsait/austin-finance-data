@@ -1,0 +1,361 @@
+[
+ {
+  "donor_id": "40e8e4907300f3a6",
+  "name": "Flores, Roberto",
+  "resolved_employer": "The Carlson Law Firm (attorney, Round Rock office)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Roberto Thomas Flores is a personal-injury/trial attorney at The Carlson Law Firm's Round Rock office (1717 N I-35, Round Rock); donor's residential zip 78665 is Round Rock, consistent with the filed occupation 'Attorney' and employer 'Carlson Law Firm'. Rice University BA, UT Law JD. No FEC PAC records, no Texas lobbyist registration, and no ideological-PAC ties surfaced.",
+  "source_url": "https://www.carlsonattorneys.com/team/roberto-flores/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Trial Lawyers Association",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.carlsonattorneys.com/team/roberto-flores/",
+    "snippet": "Firm bio lists membership in the Texas Trial Lawyers Association and the Capital Area Trial Lawyers Association — the plaintiffs'-bar trade group active in Texas civil-justice legislative advocacy."
+   },
+   {
+    "org": "National Hispanic Institute",
+    "role": "Project Administrator (2011-2013)",
+    "category": "civic",
+    "source_url": "https://www.carlsonattorneys.com/team/roberto-flores/",
+    "snippet": "Firm bio lists service as Project Administrator for the National Hispanic Institute, 2011-2013."
+   }
+  ]
+ },
+ {
+  "donor_id": "430d3b03295ebd9b",
+  "name": "Meraz, Adela",
+  "resolved_employer": "The Meraz Firm, PLLC (owner; immigration and criminal defense attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Adela D. Meraz is the owner of The Meraz Firm PLLC, a solo immigration/criminal-defense practice founded 2024; the firm's address of record is PO Box 201931, Austin, TX 78720-1931 — an exact match to the donor zip 78720. Previously senior immigration attorney at Capital Area Private Defender Service (2016-2024). No FEC PAC records, no Texas lobbyist registration, no ideological-PAC ties found.",
+  "source_url": "https://www.merazfirm.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "American Immigration Lawyers Association (AILA)",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.merazfirm.com/about",
+    "snippet": "Firm About page lists membership in the American Immigration Lawyers Association, the immigration bar's professional and policy-advocacy association."
+   },
+   {
+    "org": "Texas Criminal Defense Lawyers Association (TCDLA)",
+    "role": "Member; CLE presenter on 'crimmigration' since 2017",
+    "category": "business",
+    "source_url": "https://www.merazfirm.com/about",
+    "snippet": "About page lists TCDLA membership and notes she has delivered several crimmigration CLEs for CAPDS and TCDLA since 2017."
+   }
+  ]
+ },
+ {
+  "donor_id": "43a14e12fd3f9a49",
+  "name": "Fields, Chris Melody",
+  "resolved_employer": "Ballot Initiative Strategy Center (BISC) — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Chris Melody Fields Figueredo has been Executive Director of the Ballot Initiative Strategy Center since June 2018 and lives in Washington, D.C. — matching the donor's DC zip 20002, listed employer, and listed title. BISC is a national progressive ballot-measure infrastructure organization. No FEC PAC contribution records surfaced; not a registered Texas lobbyist; no Israel/Palestine, firearms, oil-and-gas, or defense-sector affiliations found on either side.",
+  "source_url": "https://ballot.org/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Ballot Initiative Strategy Center",
+    "role": "Executive Director (since June 2018)",
+    "category": "political",
+    "source_url": "https://ballot.org/who-we-are/",
+    "snippet": "Executive Director of BISC since June 2018, leading organizational vision, strategy, and fundraising for a nationwide movement-building organization that leverages ballot measures."
+   },
+   {
+    "org": "Common Cause",
+    "role": "Outreach Director (former)",
+    "category": "civic",
+    "source_url": "https://www.influencewatch.org/person/chris-melody-fields-figueredo/",
+    "snippet": "Profile lists her as former outreach director for the advocacy group Common Cause, and previously associate director at ReThink Media."
+   }
+  ]
+ },
+ {
+  "donor_id": "44b95c5f8322bd2e",
+  "name": "Rivera, Gilbert",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer was reported on the filing. A well-documented Gilbert Rivera — founder of the Austin Brown Berets and later an organizer with CAMILA — is a longtime East Austin community activist, and the donor's zip 78702 is East Austin. However, 'Gilbert Rivera' is a common name in Austin and no occupation, employer, or donation-pattern detail corroborates that this donor is that person, so the identification is NOT confirmed and no affiliation is recorded. FEC PAC, TEC lobbyist, and bio searches returned nothing tied to this donor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44d0dd0929f04c41",
+  "name": "SMITH, NELLIE",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed occupation 'RETIRED' with a mismatched city/zip in the filing (Buda, TX paired with zip 78758, which is North Austin). No public profile, obituary, news mention, FEC record, or lobbyist registration could be tied to this specific person; 'Nellie Smith' is a common name and searches returned only unrelated individuals in other states. Industry reflects the self-reported retired status on the filing itself, not an identified former career.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44db428a4da3a559",
+  "name": "Wilt, Michael",
+  "resolved_employer": "Texas State Affordable Housing Corporation (TSAHC) — Senior Manager of External Relations",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Exact match on name, employer, and job function: Michael Wilt is Senior Manager of External Relations at TSAHC, a nonprofit housing organization created by the Texas Legislature in 1994; he joined in December 2014 and directs government and peer-organization relations. Austin-area residence is consistent with the Manor/78653 listing. Full bio read surfaced multiple housing-policy board and advisory seats. No current TEC lobbyist registration found, though his bio notes he previously worked as a lobbyist for a commercial real estate industry organization and worked in both chambers of the Texas Capitol. No federal PAC or ideological PAC contributions found.",
+  "source_url": "https://www.tsahc.org/about/media-kit",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Equidad ATX", "role": "Board member", "category": "civic", "source_url": "https://www.tsahc.org/about/media-kit", "snippet": "TSAHC staff bio lists Wilt's board and advisory positions including the Board of Equidad ATX."},
+   {"org": "Austin Housing Coalition", "role": "Executive Committee member", "category": "civic", "source_url": "https://www.tsahc.org/about/media-kit", "snippet": "Bio lists service on the Executive Committee of the Austin Housing Coalition."},
+   {"org": "Urban Land Institute — Terwilliger Center for Housing", "role": "Advisory Board member", "category": "business", "source_url": "https://www.tsahc.org/about/media-kit", "snippet": "Bio lists the Advisory Board for Urban Land Institute's Terwilliger Center for Housing."},
+   {"org": "ULI Austin", "role": "Advisory Board member; former Chair, Affordability Strategic Council; former Chair, Housing Local Member Council", "category": "business", "source_url": "https://www.tsahc.org/about/media-kit", "snippet": "Bio lists the Advisory Board of ULI Austin, plus former Chair of the Affordability Strategic Council and former Chair of the Housing Local Member Council."}
+  ]
+ },
+ {
+  "donor_id": "4616f4cf6f08a83e",
+  "name": "Elfant, Bruce",
+  "resolved_employer": "Travis County Tax Assessor-Collector and Voter Registrar (retired Dec. 31, 2024)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "This is the longtime Travis County official. Elfant was elected Tax Assessor-Collector/Voter Registrar in 2012 (took office Jan. 1, 2013) after 20 years as Travis County Constable for Precinct 5, and retired from public service on Dec. 31, 2024 — corroborating the 'Not Employed' occupation on this 2026-cycle filing. Prior federal-filing records for a Bruce Elfant in Austin list zip 78751 with occupation 'Travis County/Constable', matching this donor's zip. No AIPAC/UDP, J Street, DMFI, pro-Palestine, oil & gas, firearms, gun-control, or defense-contractor PAC contributions found; no TEC lobbyist registration found.",
+  "source_url": "https://www.kxan.com/news/local/travis-county/bruce-elfant-retires-after-serving-travis-county-for-nearly-32-years/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Travis County (Tax Assessor-Collector & Voter Registrar; previously Constable, Pct. 5)", "role": "Elected official, 2013-2024; Constable 20 years prior", "category": "political", "source_url": "https://tax-office.traviscountytx.gov/about-us/244-bruce-elfant-bio-2", "snippet": "'First elected in 2012, Bruce Elfant serves as the Travis County Tax Assessor-Collector and Voter Registrar,' after '20 years as a county constable.'"},
+   {"org": "Democratic Party (Travis County)", "role": "Elected as a Democrat", "category": "political", "source_url": "https://bruceelfant.com/", "snippet": "Campaign site is titled 'Bruce Elfant for Tax Assessor-Collector — Democrat for Tax Assessor-Collector.'"}
+  ]
+ },
+ {
+  "donor_id": "480dfbfa62a0ca4f",
+  "name": "Mitchell, Kathy",
+  "resolved_employer": "Just Liberty (Policy Coordinator) / Equity Action (Senior Advisor); filing lists 'Not Employed', consistent with unpaid grassroots advocacy work",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Very likely the well-known Austin criminal-justice-reform advocate: Kathy Mitchell is an organizer, writer and grassroots lobbyist with 20+ years promoting criminal justice reform at the Texas Legislature, serving as Just Liberty's Policy Coordinator and as Senior Advisor for Equity Action. The 78702 (East Austin) zip, the 'Not Employed' occupation consistent with volunteer advocacy, and a donation to a progressive District 1 candidate all fit, but the zip is not independently confirmed against a public record and 'Kathy Mitchell' is a common name — hence medium rather than high. She describes herself as a grassroots lobbyist but no TEC lobbyist registration was found under this name. No AIPAC/UDP, J Street, DMFI, pro-Palestine, oil & gas, firearms, gun-control, or defense-contractor PAC contributions found.",
+  "source_url": "https://www.austinchronicle.com/features/2020-11-27/kathy-mitchell-pushes-for-criminal-justice-reform-by-getting-serious-about-being-compassionate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Just Liberty", "role": "Policy Coordinator / grassroots lobbyist", "category": "civic", "source_url": "https://justliberty.org/team-view/kathy-mitchell/", "snippet": "Just Liberty team bio: 'an organizer, a writer and a grassroots lobbyist with more than 20 years experience promoting criminal justice reform at the Texas Legislature.'"},
+   {"org": "Equity Action", "role": "Senior Advisor; controlling decision-maker for PAC funds", "category": "political", "source_url": "https://theaustinbulldog.org/police-staffing-proposition-opposition-campaign/", "snippet": "Reporting on the No Way on Prop A campaign identifies the controlling decision-makers for Equity PAC funds as including 'Kathy Mitchell, Policy Coordinator at Just Liberty.'"},
+   {"org": "MEASURE", "role": "Board member", "category": "civic", "source_url": "https://www.austinchronicle.com/features/2020-11-27/kathy-mitchell-pushes-for-criminal-justice-reform-by-getting-serious-about-being-compassionate/", "snippet": "Profile notes she is on the board of MEASURE, a group dedicated to data-driven improvements to policing at the local level."}
+  ]
+ },
+ {
+  "donor_id": "497d5aff6bd17fba",
+  "name": "SOLIZ CHAPA, JACQUELINE",
+  "resolved_employer": "Affinity Design Flooring LLC (Austin, TX) — business owner / office & finance administrator",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Jackie Soliz-Chapa is business owner and office/finance administrator at Affinity Design Flooring, 10321 Burnet Rd, Austin — employer name matches the filing, and public profile data ties her residence history to Elgin, TX (filing zip 78621). Background: before the flooring business she was VP of Government Relations & Public Affairs at Asset Protection & Security Services, L.P. (a federal security/detention services contractor) and a legislative assistant to Texas State Sen. Gonzalo Barrientos. No TEC or City of Austin lobbyist registration found under Soliz, Soliz-Chapa, or Chapa (Jacqueline). No FEC individual-contribution records surfaced. Note: the prior security-contractor role was deliberately NOT tagged military_defense — that firm provides detention/security services to federal agencies, not defense manufacturing, and the role is former, not current.",
+  "source_url": "https://members.texasbuilders.org/associate-directory/Details/affinity-design-727218?rendermode=print",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Association of Builders",
+    "role": "Associate member (primary contact for member firm Affinity Design)",
+    "category": "business",
+    "source_url": "https://members.texasbuilders.org/associate-directory/Details/affinity-design-727218?rendermode=print",
+    "snippet": "Associate-directory listing for Affinity Design, 10321 Burnet Rd Ste B, Austin, TX 78758; Primary Contact: Jackie Soliz-Chapa; member ID 727218."
+   },
+   {
+    "org": "Asset Protection & Security Services, L.P. / Office of Texas Sen. Gonzalo Barrientos",
+    "role": "Former VP of Government Relations & Public Affairs; former legislative assistant",
+    "category": "political",
+    "source_url": "https://www.linkedin.com/in/jackie-soliz-chapa-2581352/",
+    "snippet": "Public professional profile states she 'previously served as Vice President of Government Relations & Public Affairs at Asset Protection & Security Services and as a Legislative Assistant for Senator Gonzalo Barrientos at the Texas State Senate.' Both roles are prior, not current; no current lobbyist registration found."
+   }
+  ]
+ },
+ {
+  "donor_id": "49aa027b484f01af",
+  "name": "Buggs, Shani",
+  "resolved_employer": "University of California, Davis — Assistant Professor of Emergency Medicine; core faculty, Violence Prevention Research Program and California Firearm Violence Research Center",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Shani A. L. Buggs is a UC Davis firearm-violence researcher based in Sacramento (filing zip 95822 is Sacramento; UC Davis Health/VPRP is in Sacramento), matching the filed occupation 'Researcher' and employer 'UC'. Identity is further corroborated by donation pattern: Buggs and the recipient candidate Amber Goodwin sit together on the Everytown Community Safety Fund advisory board. Ph.D./M.P.H. Johns Hopkins, B.A. Stanford. No TEC lobbyist registration (out-of-state resident). No FEC individual PAC contribution records surfaced — no pro-Israel, pro-Palestine, oil & gas, defense, or firearms-industry PAC giving found on either side.",
+  "source_url": "https://physicians.ucdavis.edu/details/42957/shani-buggs-epidemiology-population_health-sacramento",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Everytown Community Safety Fund (Everytown Support Fund)",
+    "role": "Advisory board member",
+    "category": "gun_control",
+    "source_url": "https://everytownsupportfund.org/everytown-community-safety-fund/",
+    "snippet": "Advisory board listing: 'Dr. Shani Buggs, Assistant Professor, University of California, Davis Violence Prevention Research Program.' The same board also lists 'Amber Goodwin, Founding Director, Community Justice Action Fund' — the candidate to whom this donation was made."
+   },
+   {
+    "org": "UC Davis Violence Prevention Research Program / California Firearm Violence Research Center",
+    "role": "Core faculty; Assistant Professor of Emergency Medicine",
+    "category": "gun_control",
+    "source_url": "https://health.ucdavis.edu/vprp/aboutus/",
+    "snippet": "Bio states she 'employs qualitative, quantitative, and mixed-methods approaches to examine state-level firearm policies and local-level violence reduction initiatives.' Recorded as an academic research affiliation in the firearm-policy space, not an advocacy or lobbying role."
+   }
+  ]
+ },
+ {
+  "donor_id": "4affcf439c228222",
+  "name": "Tucek, Daniel",
+  "resolved_employer": "Mastergraver — owner, custom engraving shop, Austin TX 78722",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Daniel Tucek is listed as Owner of Mastergraver, a one-man custom engraving shop in Austin whose business zip (78722) matches the filing zip exactly; he has run it since 1992. The filing lists no occupation or employer, so identity rests on the rare surname plus exact zip match — hence medium confidence. Note for transparency: the shop's service list includes 'gun personalization' alongside baby cups, wedding gifts, jewelry, and medals; this is one line item in a general-purpose engraving business and is NOT recorded as a firearms-industry affiliation. No TEC lobbyist registration found. No FEC individual PAC contribution records surfaced on any side of the Israel/Palestine, oil & gas, firearms, or defense spectrums.",
+  "source_url": "https://mastergraver.com/Welcome.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b214d3a8281bce4",
+  "name": "Golubunmi, Semhar",
+  "resolved_employer": "The University of Texas MD Anderson Cancer Center — Executive Medical Director, Anesthesia Services; Associate Professor, Anesthesiology and Perioperative Medicine",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "The filed surname 'Golubunmi' resolves to Semhar Olubunmi, whose public profile lists her as Executive Medical Director - Anesthesia Services at MD Anderson Cancer Center (matching filed occupation 'Physician' and employer 'MDA'). MD Anderson's faculty directory carries the identical title under the name Semhar J Ghebremichael, M.D., with the same residency and the same 2017-2019 residency-program-director role — indicating one physician using two surnames rather than two people. Filing zip 77401 (Bellaire) is a Houston enclave adjacent to the Texas Medical Center, consistent with an MD Anderson physician. Confidence held at medium because of the surname discrepancy and because no source directly ties her residence to 77401. Memberships are routine professional societies with no policy-advocacy leadership role recorded. No TEC lobbyist registration and no FEC individual PAC records surfaced under either surname.",
+  "source_url": "https://faculty.mdanderson.org/profiles/semhar_ghebremichael.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b579fb58ba34e18",
+  "name": "CHIDESTER, VERONICA",
+  "resolved_employer": "Winters & Chidester Criminal Defense Attorneys, PLLC — founding partner",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Veronica Lea Chidester, Texas Bar #24082161, founding partner of Winters & Chidester Criminal Defense Attorneys; UT Austin undergrad and law; former Texas AG Law Enforcement Defense Division, then Travis County Attorney's Office and Travis County DA's office; teaches trial tactics at UT Law. Employer on the filing matches the firm exactly and Austin/Travis County residence (78723) matches her Travis County career. Note: her published firm bio states that before law school she 'worked in the legislature and was a lobbyist' — no client is named and no TEC lobbyist registration surfaced under her name, so no lobbying affiliation is recorded. A separate FEC record shows a Veronica L. Chidester, Austin TX 78722, employer PTI Inc., giving to Hillary Clinton for President in 2007 — adjacent East Austin zip and consistent with her pre-law-school career, probable but not conclusive.",
+  "source_url": "https://www.centraltexascriminaldefense.com/about-us/veronica-chidester/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b68ed5b583e11ed",
+  "name": "Tibbs, Isaiah",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing has blank zip, no city, and no occupation or employer, leaving no field available to corroborate identity. An Isaiah Tibbs in Austin is co-owner and broker at Allure Real Estate (also co-owns We Rehab LLC; resides in Hyde Park, which is District 9, not District 1), but with no zip, occupation, or employer on the record this match is NOT confirmed and is recorded only as an unverified possibility. Industry left null per the identity-confidence rule. FEC PAC and TEC lobbyist searches returned no records under this name.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c254fa5fb6e6ad4",
+  "name": "Bray, Christopher",
+  "resolved_employer": "Unemployed (per campaign finance filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Occupation reported as 'Unemployed' on the filing itself, which is the only documented occupation information available. 'Christopher Bray' is a common name and no public profile could be tied to West Lake Hills / 78746 — the Texas Bar lists a Christopher D. Bray licensed in 1971 (inconsistent with an unemployed current-cycle donor) and other Christopher/Chris Brays found are in other states. Industry is a filing-based fallback only; the individual is not independently identified. FEC PAC-contribution and TEC lobbyist searches returned no matching records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c6e9b8b0174fa38",
+  "name": "Stokes, Loren",
+  "resolved_employer": "Eglin Federal Credit Union — Branch Manager (Navarre, FL)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Loren Stokes is a Branch Manager at Eglin Federal Credit Union in Navarre, FL — matching the filing's employer, occupation ('Manager'), city, and zip 32566 (Eglin FCU's Navarre branch is at 9830 Navarre Parkway, 32566). B.S. Economics, Florida State University. Eglin FCU is a not-for-profit, member-owned, NCUA-regulated financial institution chartered in 1954; its proximity to Eglin AFB is not treated as a military_defense affiliation and no public record documents any defense-contractor role. FEC PAC and lobbyist searches surfaced no records.",
+  "source_url": "https://www.eglinfcu.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4e6fe22dfd91b1c9",
+  "name": "Amps, Emily",
+  "resolved_employer": "Texas AFL-CIO (Director of Politics & Policy)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Emily Amps is Director of Politics & Policy at the Texas AFL-CIO, where she oversees the state labor federation's public policy and electoral work; joined December 2021 after 13 years in the Texas Legislature (11 as chief of staff to State Rep. Chris Turner). The filing's occupation ('Director') and employer ('Texas AFL-CIO') match the official staff bio exactly; zip 78610 is Buda, TX, in the Austin metro. A search summary suggested a TEC lobbyist registration but attached a Washington, DC address inconsistent with the Austin-based Texas AFL-CIO — likely a conflation with an adjacent registry entry, so it is not recorded. No PAC ties found on any side of the tracked spectrums.",
+  "source_url": "https://texasaflcio.org/officers/emily-amps",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas AFL-CIO",
+    "role": "Director of Politics & Policy",
+    "category": "political",
+    "source_url": "https://texasaflcio.org/officers/emily-amps",
+    "snippet": "\"Emily Amps is the Director of Politics & Policy at the Texas AFL-CIO,\" overseeing the state federation's public policy and electoral work."
+   },
+   {
+    "org": "OPEIU Local 277",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://texasaflcio.org/officers/emily-amps",
+    "snippet": "\"She is a member of OPEIU Local 277.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "4f2d153c38be3750",
+  "name": "Speight, Dennis",
+  "resolved_employer": "Texas Trial Lawyers Association (Director of Political Affairs)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Dennis Speight is Director of Political Affairs at the Texas Trial Lawyers Association in Austin, previously Director of Development and Programs at Texas Watch. Identity strongly corroborated: a prior federal contribution record lists 'Dennis Speight, Austin TX 78739, Texas Trial Lawyers Association' — the same zip 78739 as this donor record — matching name, zip, and employer simultaneously. Search indexing suggests he appears in TEC registered-lobbyist lists (2018, 2025, 2026) with TTLA as client, but TEC publishes those lists only as compressed PDFs that could not be text-extracted in this environment, so a registered-lobbyist status is NOT recorded as a sourced affiliation and should be verified directly against the TEC registry before use.",
+  "source_url": "https://www.ttla.com/index.cfm?pg=aboutpac",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Trial Lawyers Association",
+    "role": "Director of Political Affairs",
+    "category": "political",
+    "source_url": "https://www.ttla.com/index.cfm?pg=aboutpac",
+    "snippet": "TTLA runs a state PAC whose contributions 'go directly to support pro-civil justice candidates and officeholders'; Speight directs the association's political affairs operation."
+   }
+  ]
+ },
+ {
+  "donor_id": "4f9522296dcfa43f",
+  "name": "Dorothy, Michelle",
+  "resolved_employer": "U.S. Congress (congressional staff aide, per filing)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Could not confirm which Michelle Dorothy this is. The self-reported occupation ('Aide') and employer ('U.S. Congress') support a Government classification via the employer fallback, and zip 22314 (Alexandria, VA) is a common residence for Capitol Hill staff. The most prominent public match is Michelle M. Dorothy, Chief of Staff to Rep. Chrissy Houlahan (D-PA) — but her public profile lists Washington, DC, not Alexandria, 'Chief of Staff' is not typically self-reported as 'Aide', and multiple people share this name, so identity is NOT established and no affiliation is recorded.",
+  "source_url": "https://www.legistorm.com/person/bio/80955/Michelle_M_Dorothy.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "503fea451c26e847",
+  "name": "Graves-Fitzsimmons, Guthrie",
+  "resolved_employer": "Interfaith Alliance (Vice President of Programs & Strategy)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Guthrie Graves-Fitzsimmons is VP of Programs & Strategy at Interfaith Alliance, directing its integrated advocacy campaigns; also a nonresident senior fellow at the Center for American Progress and a columnist. Highly distinctive surname, and the donor record's employer ('Interfaith Alliance') and occupation ('Advocacy') match his published bio exactly; Louisville, KY (40206) is consistent with his longstanding Louisville ties. His ordination as a Baptist deacon appears in his bio but is deliberately not recorded, per the rule that private religious affiliation without a policy-advocacy component is out of scope. No PAC ties found on any side of the tracked spectrums.",
+  "source_url": "https://www.interfaithalliance.org/team/guthrie-graves-fitzsimmons",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Interfaith Alliance",
+    "role": "Vice President of Programs & Strategy",
+    "category": "civic",
+    "source_url": "https://www.interfaithalliance.org/team/guthrie-graves-fitzsimmons",
+    "snippet": "\"serves as the vice president of programs and strategy at Interfaith Alliance, where he directs the organization's integrated advocacy campaigns and movement building.\" Recorded because the org's public activity is policy advocacy (religious freedom / church-state separation), not private religious observance."
+   },
+   {
+    "org": "Center for American Progress",
+    "role": "Nonresident senior fellow (formerly with CAP's Faith and Progressive Policy Initiative)",
+    "category": "political",
+    "source_url": "https://www.americanprogress.org/people/graves-fitzsimmons-guthrie/",
+    "snippet": "\"He is also a nonresident senior fellow at the Center for American Progress,\" a progressive public-policy institute."
+   },
+   {
+    "org": "Baptist Joint Committee for Religious Liberty — Christians Against Christian Nationalism",
+    "role": "Communications lead / campaign leadership team (former)",
+    "category": "civic",
+    "source_url": "https://www.interfaithalliance.org/team/guthrie-graves-fitzsimmons",
+    "snippet": "\"Guthrie worked at the Baptist Joint Committee for Religious Liberty and helped lead its Christians Against Christian Nationalism campaign\" — a church-state-separation policy advocacy campaign."
+   },
+   {
+    "org": "Biden 2020 and Harris 2024 presidential campaigns",
+    "role": "Member, faith outreach committees",
+    "category": "political",
+    "source_url": "https://www.interfaithalliance.org/team/guthrie-graves-fitzsimmons",
+    "snippet": "\"He served on the faith outreach committees of the 2020 Joe Biden campaign and 2024 Kamala Harris campaign.\""
+   }
+  ]
+ }
+]

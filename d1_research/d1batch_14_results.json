@@ -1,0 +1,451 @@
+[
+ {
+  "donor_id": "c87738f41c108aec",
+  "name": "Rice, Kirk",
+  "resolved_employer": "Human Rights Campaign — Senior/Director of Major Gifts (Austin-based, covering Austin, Dallas-Fort Worth, Houston, Jackson, Portland, San Antonio)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Kirk Rice is an Austin-based major-gifts fundraiser at the Human Rights Campaign, described as having 25+ years in philanthropy; his public professional listing (title 'Director of Major Gifts, Human Rights Campaign', location Austin) matches the filed occupation 'Senior Director, Major Gifts' and employer 'Human Rights Campaign' exactly, and 78702 is East Austin inside District 1. No Texas Ethics Commission lobbyist registration found under this name; committee-level FEC detail was not retrievable through public web sources, so no federal PAC affiliation is asserted.",
+  "source_url": "https://www.linkedin.com/in/kirk-rice-554a1a11/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Human Rights Campaign",
+    "role": "Senior Director of Major Gifts (employee; fundraising leadership)",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/kirk-rice-554a1a11/",
+    "snippet": "Public professional listing: 'Kirk Rice - Director of Major Gifts - Human Rights Campaign'; described as a major gifts fundraiser with 25+ years of experience in philanthropy, based in Austin, covering the Austin, Dallas-Fort Worth, Houston, Jackson, Portland and San Antonio regions."
+   }
+  ]
+ },
+ {
+  "donor_id": "ca5a1563cdd2e671",
+  "name": "Washington, Milton",
+  "resolved_employer": "Retired — former career not identifiable from public records",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filed occupation and employer are both simply 'retired' at an Austin 78753 address. Searches of general web, Austin civic/community sources, the Texas Ethics Commission lobbyist registry, and FEC contributor references surfaced no public profile that could be corroborated to this specific individual by zip, occupation, or donation pattern; 'Milton Washington' returns many unrelated people nationally. Classified per the categorize-by-employer fallback with no affiliation inferred.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ce3d621376ad70c2",
+  "name": "Garcia, Lorraine",
+  "resolved_employer": "Travis County District Attorney's Office — Assistant District Attorney ('TCDA' confirmed = Travis County District Attorney)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "State Bar of Texas record for Lorraine M. Garcia (bar card 24125608, licensed 10/11/2021, Texas A&M School of Law JD 2021, no public disciplinary history) lists her employer as the Travis County District Attorney's Office at 416 W 11th St, Austin, TX 78701 — confirming the filed employer string 'TCDA' and occupation 'Attorney'. Recipient Amber Goodwin is herself a Travis County assistant district attorney, corroborating a colleague-donation pattern. Not found in Texas Ethics Commission registered-lobbyist lists; no federal PAC affiliation surfaced in FEC-oriented searches.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=370335",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d100cb22652a9026",
+  "name": "Confer, Alexis",
+  "resolved_employer": "Confer Strategies LLC — independent strategic consultant to movement-building organizations (Brooklyn, NY)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Alexis Confer is a Brooklyn-based progressive strategist who runs her own consulting firm serving movement-building organizations, matching the filed occupation 'Strategic Consultant' / employer 'Confer Strategies LLC' and Brooklyn 11205 address. She was the inaugural Executive Director of March For Our Lives (after four years as its Director of Development) and earlier the first National Field Director for Everytown for Gun Safety, plus roles at the NYC Mayor's Office (2014-2020) and Obama for America 2012. Her gun-violence-prevention background corroborates the donation to Amber Goodwin, founder of the Community Justice Action Fund. Not in the Texas Ethics Commission lobbyist registry (out-of-state donor); no federal PAC contributions surfaced.",
+  "source_url": "https://marchforourlives.org/it-ends-with-us-march-for-our-lives-releases-a-reimagined-policy-plan-to-end-gun-violence-within-our-lifetimes/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "March For Our Lives",
+    "role": "Executive Director (inaugural); previously Director of Development",
+    "category": "gun_control",
+    "source_url": "https://marchforourlives.org/it-ends-with-us-march-for-our-lives-releases-a-reimagined-policy-plan-to-end-gun-violence-within-our-lifetimes/",
+    "snippet": "Statement attributed to 'March for Our Lives Executive Director' Alexis Confer: 'The powerful not only can act, they must act, and our plan shows them how... it's time for the powerful to deliver bold change.'"
+   },
+   {
+    "org": "Everytown for Gun Safety",
+    "role": "First National Field Director",
+    "category": "gun_control",
+    "source_url": "https://opportunityagenda.org/wp-content/uploads/2024/03/2023-CC-Participant-Staff-Bio-Document.pdf",
+    "snippet": "Published participant bio: 'Prior to joining City Hall, Alexis served as the first National Field Director for Everytown for Gun Safety, as well as the Deputy Field Director in Pennsylvania for Obama for America 2012.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "d22592ffc00bb441",
+  "name": "Cavazos, Perla",
+  "resolved_employer": "Central Health (Travis County Healthcare District) — Deputy Administrator / SVP & Chief Governance and Government Affairs Officer",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Perla Cavazos is Deputy Administrator and Chief Governance & Government Affairs Officer at Central Health, matching the filing's occupation ('Deputy Administrator') and employer ('Central Health') exactly; she is a longtime Austin resident (78702 is East Austin, inside District 1) with a 25+ year public-policy career including the Texas Senate, Texas Legal Services Center, and Sendero Health Plans, and she was a 2009 Austin City Council Place 1 candidate.",
+  "source_url": "https://www.centralhealth.net/biographies/deputy-administrator-perla-cavazos/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Ethics Commission registered lobbyist (2011 registration year)",
+    "role": "Registered lobbyist (TEC ID 00067082); registration filed 12/30/2010 for 01/01/2011-12/31/2011; does not appear on the 2025 or 2026 registered-lobbyist lists",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2011/2011_Lobby_List-Lobbyist_Only.pdf",
+    "snippet": "Cavazos, Perla appears on the Texas Ethics Commission 2011 list of registered lobbyists with an Austin, TX 78701 business address; no current-year registration found."
+   },
+   {
+    "org": "Planned Parenthood of Greater Texas",
+    "role": "Board service (per Central Health's published biography of her community involvement)",
+    "category": "civic",
+    "source_url": "https://www.centralhealth.net/central-healths-cavazos-wins-leadership-award/",
+    "snippet": "Central Health's award announcement states she 'has served on several non-profit boards and city commissions,' listing Planned Parenthood-Greater Texas, the Texas Access to Justice Foundation, and the Lola Wright Foundation."
+   },
+   {
+    "org": "City of Austin boards and commissions (Planning Commission; Commission for Women; Resource Management Commission; Imagine Austin Citizens Advisory Task Force; City Manager Search Task Force)",
+    "role": "Former appointed commissioner / task force member",
+    "category": "civic",
+    "source_url": "https://www.centralhealth.net/central-healths-cavazos-wins-leadership-award/",
+    "snippet": "Her Central Health bio lists past positions with the City of Austin Planning Commission, Commission for Women, Resource Management Commission, Imagine Austin Citizens Advisory Task Force, and the City Manager Search Task Force."
+   }
+  ]
+ },
+ {
+  "donor_id": "d7612da7fda3f03c",
+  "name": "Jackson, Gregory",
+  "resolved_employer": "Community Justice / Community Justice Action Fund — Executive Advisor (also President, The Rocket Foundation; Partner, Safer Futures Consulting)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as Gregory Jackson Jr., the gun-violence-prevention advocate: the filing's employer ('Community Justice') and occupation ('Senior Adviser') match his publicly announced return to Community Justice as Executive Advisor after serving as Deputy Director of the White House Office of Gun Violence Prevention, and the 20020 ZIP is Southeast Washington, DC, where he lives and where he survived a 2013 shooting. He is also a 2026 DC Council At-Large candidate. Recipient Amber Goodwin is herself a gun-violence-prevention organizer, corroborating the professional-network donation pattern.",
+  "source_url": "https://thecommunityjustice.net/newsroom/greg-jackson-returns-to-community-justice-as-executive-advisor-after-leadership-role-at-the-white-house-office-of-gun-violence-prevention",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Community Justice Action Fund",
+    "role": "Executive Advisor (current); former Executive Director",
+    "category": "gun_control",
+    "source_url": "https://thecommunityjustice.net/newsroom/greg-jackson-returns-to-community-justice-as-executive-advisor-after-leadership-role-at-the-white-house-office-of-gun-violence-prevention",
+    "snippet": "Community Justice announced Jackson's return as Executive Advisor; he previously led CJAF as Executive Director, the first Black male gun-violence survivor to lead a national gun-violence-prevention policy organization."
+   },
+   {
+    "org": "The Rocket Foundation",
+    "role": "President",
+    "category": "gun_control",
+    "source_url": "https://docs.house.gov/meetings/SM/SM00/20251202/118703/HHRG-119-SM00-Bio-JacksonG-20251202.pdf",
+    "snippet": "Congressional witness bio: 'Gregory Jackson is the President of the Rocket Foundation, Adviser to Community Justice Action Fund, and Partner of Safer Futures Consulting Firm.'"
+   },
+   {
+    "org": "White House Office of Gun Violence Prevention",
+    "role": "Former Deputy Director and Special Assistant to President Biden",
+    "category": "gun_control",
+    "source_url": "https://www.congress.gov/119/meeting/house/118631/witnesses/HHRG-119-GO00-Bio-JacksonJrG-20250918.pdf",
+    "snippet": "Bio states he served as Deputy Director of the White House Office of Gun Violence Prevention, overseeing implementation of the Bipartisan Safer Communities Act and community violence intervention funding."
+   },
+   {
+    "org": "Greg Jackson for DC Council At-Large",
+    "role": "2026 candidate for the District of Columbia Council (At-Large)",
+    "category": "political",
+    "source_url": "https://wtop.com/dc-election/2026/06/get-to-know-dc-council-at-large-candidate-greg-jackson/",
+    "snippet": "WTOP profiles Greg Jackson, former Biden White House gun-violence-prevention adviser, as a candidate for the DC Council At-Large seat."
+   }
+  ]
+ },
+ {
+  "donor_id": "d89ed04b011f26bd",
+  "name": "Lomas, Rachel",
+  "resolved_employer": "Not employed per filing; publicly listed as a director of the Austin voter-turnout group Midterms Matter",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Filing lists occupation 'Unemployed' / employer 'None' in 78705 (West Campus/Hyde Park). A Rachel Lomas of Austin is publicly listed as a director of Midterms Matter, an Austin group organizing young-voter turnout, and appears with Andy Bowman as host of a fundraiser for U.S. Rep. Lloyd Doggett — consistent with the 193 federal contributions and uniformly Democratic partisan lean in the donation record. Identity is corroborated by Austin location and the heavy small-dollar Democratic giving pattern, but not by an employer, so confidence is medium rather than high.",
+  "source_url": "https://www.corporationwiki.com/p/2rz1u7/rachel-lomas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Midterms Matter",
+    "role": "Director",
+    "category": "civic",
+    "source_url": "https://www.corporationwiki.com/p/2rz1u7/rachel-lomas",
+    "snippet": "Business-registry listing shows 'Rachel Lomas - Director for Midterms Matter,' an Austin-based group whose stated aim is getting young people to vote."
+   },
+   {
+    "org": "Lloyd Doggett for Congress (campaign fundraiser host)",
+    "role": "Co-host of a campaign event, per the congressman's official page",
+    "category": "political",
+    "source_url": "https://www.facebook.com/LloydDoggettTX/posts/418048938256685/",
+    "snippet": "Post from Rep. Lloyd Doggett's official page: 'Thank you to Andy Bowman and Rachel Lomas for hosting a wonderful event for my campaign.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "d8d7d89ca1933f8a",
+  "name": "Hyams, Chris",
+  "resolved_employer": "Indeed — Chief Executive Officer 2019-2025 (previously President and VP of Product); now former CEO",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Chris Hyams was CEO of Austin-headquartered job platform Indeed from 2019 to 2025, matching the filing's occupation ('CEO'), employer ('Indeed'), Austin 78731 location, and the 2022 gift date falling inside his CEO tenure. He joined Indeed in 2010 as VP of Product, became President in 2015, and earlier founded the film-analytics company B-Side and was VP of Engineering at Trilogy Software. No TEC lobbyist registration and no ideological-PAC federal giving surfaced.",
+  "source_url": "https://www.indeed.com/lead/chris-hyams",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "DivInc",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://engineering.rice.edu/chris-hyams",
+    "snippet": "Bio notes he is a board member at DivInc, a technology accelerator whose mission is to generate social and economic equity through entrepreneurship."
+   },
+   {
+    "org": "Huston-Tillotson University",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://engineering.rice.edu/chris-hyams",
+    "snippet": "Bio lists board membership at Huston-Tillotson University, a Historically Black University and Austin's oldest institution of higher learning."
+   }
+  ]
+ },
+ {
+  "donor_id": "d97179accc9dd7a7",
+  "name": "Saldana, Paul",
+  "resolved_employer": "Saldana Public Relations (President & Principal) — Austin PR/government-relations firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Paul M. Saldana, president/principal of Saldana Public Relations in Austin; former Austin ISD Trustee for District 6 (2015-2017) and Board Vice-President (2016-17), and former chief of staff to Austin Mayor Gus Garcia. Occupation ('PR Consultant'), employer string ('Saldana PR') and south-Travis-County location (Manchaca 78652) all corroborate. Confirmed NOT a Texas Ethics Commission registered lobbyist (the only Saldana in TEC lobby records is Amanda Saldana of Edinburg) and no match in the City of Austin City Clerk registered-lobbyist list.",
+  "source_url": "https://saldanapr.com/bio-paul-saldana",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "HABLA y VOTA Action Fund",
+    "role": "Co-Founder",
+    "category": "political",
+    "source_url": "https://saldanapr.com/bio-paul-saldana",
+    "snippet": "Co-founder of HABLA y VOTA Action Fund, described as a non-partisan political action committee dedicated to cultivating and supporting the next generation of Latino leaders, candidates and allies."
+   },
+   {
+    "org": "Hispanic Advocates Business Leaders of Austin (HABLA)",
+    "role": "Co-Founder and Board Member",
+    "category": "civic",
+    "source_url": "https://saldanapr.com/bio-paul-saldana",
+    "snippet": "Co-founder and board member of HABLA, a local Hispanic policy group focused on quality-of-life issues including public education, housing and gentrification."
+   },
+   {
+    "org": "Austin Independent School District Board of Trustees",
+    "role": "Trustee, District 6 (2015-2017); Board Vice-President (2016-2017)",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Paul_Salda%C3%B1a",
+    "snippet": "Paul Saldana was elected to the Austin ISD Board of Trustees and represented District 6 from 2015 to 2017."
+   },
+   {
+    "org": "Mexic-Arte Museum",
+    "role": "President, Board of Directors",
+    "category": "civic",
+    "source_url": "https://saldanapr.com/bio-paul-saldana",
+    "snippet": "Listed as President of the Board of Directors of the Mexic-Arte Museum among his current leadership positions."
+   },
+   {
+    "org": "Greater Austin Hispanic Chamber of Commerce / Greater Austin Chamber of Commerce",
+    "role": "Former Board Chair (GAHCC); former Executive Board member (Greater Austin Chamber)",
+    "category": "business",
+    "source_url": "https://saldanapr.com/bio-paul-saldana",
+    "snippet": "Bio lists prior service as Greater Austin Hispanic Chamber of Commerce Board Chair and on the Greater Austin Chamber of Commerce Executive Board."
+   }
+  ]
+ },
+ {
+  "donor_id": "db6191a79dee5ba9",
+  "name": "Shelton, Denbigh",
+  "resolved_employer": "State of Texas — Director of Quality Assurance",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A professional profile for Denbigh Shelton lists the title 'Director of Quality Assurance' at a Texas state entity, matching the filing's occupation, employer ('State of Texas') and Austin 78757 location; the name is distinctive enough that a same-name confusion in Austin is unlikely. Full profile text was not publicly retrievable, so identity is corroborated by title/employer/location only. No Texas Ethics Commission lobbyist registration found and no ideological-PAC federal giving surfaced.",
+  "source_url": "https://www.linkedin.com/in/denbigh-shelton-16802731b",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "de6d55695c50bb85",
+  "name": "Garnett, Nadia",
+  "resolved_employer": "Deliver Strategies (Partner); also President of Oliver and Lane",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Nadia Garnett is a partner at Deliver Strategies, a Democratic direct-mail/voter-contact firm, and president of Oliver and Lane; she was African American vote director on Hillary Clinton's 2016 campaign and previously worked for the DNC, DCCC and EMILY's List. Employer string ('Deliver Strategies'), occupation ('Political Consultant') and Washington, DC location all match. No Texas lobbyist registration (she is a DC-based federal-campaign consultant, not a Texas registrant) and no ideological-PAC contributions surfaced.",
+  "source_url": "https://www.gainpower.org/celebrating-galentines-day-black-history-month/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Deliver Strategies",
+    "role": "Partner",
+    "category": "political",
+    "source_url": "https://www.gainpower.org/celebrating-galentines-day-black-history-month/",
+    "snippet": "Profiled as 'Partner at Deliver Strategies and President of Oliver and Lane,' with prior work for the DNC, DCCC, EMILY's List, Sen. Kerry and Sec. Clinton."
+   },
+   {
+    "org": "Hillary for America (2016 presidential campaign)",
+    "role": "African American Vote Director",
+    "category": "political",
+    "source_url": "https://www.nbcnews.com/news/nbcblk/hillary-clinton-expands-african-american-staff-appoints-black-vote-director-n610496",
+    "snippet": "NBC News reported the Clinton campaign's expansion of its African-American staff, naming a Black vote director; Garnett's bio pages identify her as the campaign's African American vote director."
+   }
+  ]
+ },
+ {
+  "donor_id": "e06d4e1ae2557ffe",
+  "name": "Anderson, Fernandez",
+  "resolved_employer": "Majestic Settlement Consultants, LLC — Founder/principal settlement consultant",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Fernandez Anderson is the founder and principal consultant of Majestic Settlement Consultants, LLC, a structured-settlement and settlement-planning firm serving plaintiff attorneys in the Southeast; he holds a Certified Structured Settlement Consultant designation (Notre Dame Mendoza) and spent his earlier career at New York Life and Dean Witter Reynolds. Firm name, 'Founder and CEO' occupation and metro-Atlanta (Alpharetta 30009) location all match. No FEC contribution records located (consistent with fec_donation_count 0), no Texas lobbyist registration, and no policy-advocacy org roles disclosed on his bio.",
+  "source_url": "https://www.majesticsc.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6c06d4719139f17",
+  "name": "Anderson, Greg",
+  "resolved_employer": "Austin Habitat for Humanity — Director of Community Affairs",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Greg Anderson is Austin Habitat for Humanity's director of community affairs (joined Jan 2015 after five years as policy director for Austin Mayor Pro Tem Sheryl Cole) and a longtime City of Austin Planning Commission member; the donor's self-reported occupation 'Affordable Homeownership' and employer 'Austin Habitat for Humanity' match exactly, and 78701 is downtown Austin. He is a well-known pro-housing/pro-transit voice in Austin land-use debates. FEC individual-contribution and TEC lobbyist searches returned no records under this name matching Austin/Habitat; his City of Austin board application states he is not a registered lobbyist with the City.",
+  "source_url": "https://austinhabitat.org/about/meet-our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Planning Commission",
+    "role": "Commissioner (reappointed)",
+    "category": "civic",
+    "source_url": "https://www.austinmonitor.com/stories/whispers/anderson-to-serve-on-planning-commission-again/",
+    "snippet": "City Council approved Anderson's appointment to the Planning Commission again; he was among eight commissioners AG Ken Paxton's office sought to remove in 2018 under the rule barring members connected with real estate and land development."
+   },
+   {
+    "org": "Austin Habitat for Humanity",
+    "role": "Director of Community Affairs; leads regional advocacy for affordable housing and zoning-code reform",
+    "category": "civic",
+    "source_url": "https://www.austinchronicle.com/news/2017-07-14/habitat-for-humanity-director-on-affordability/",
+    "snippet": "Anderson is responsible for expanding Austin Habitat's product line to include multifamily properties and leading regional advocacy efforts for affordable housing; he convened housing leaders to organize a coalition ahead of a major affordable-housing bond campaign."
+   }
+  ]
+ },
+ {
+  "donor_id": "ed70a3fff960172f",
+  "name": "Love, Tabitha",
+  "resolved_employer": "American Airlines (flight attendant)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'FA' (flight attendant) and employer 'American Airlines', Austin 78723. No public profile, news coverage, bio page, or union-leadership listing is discoverable for this specific person; classification rests on the employer/occupation fallback only. FEC individual-contribution searches and the Texas Ethics Commission lobbyist registry returned no records for this name. Although American Airlines flight attendants are represented by APFA, no APFA role or activism is publicly documented for this individual, so no labor affiliation is recorded.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f23b2c4b4673dd63",
+  "name": "Revoyr, Nina",
+  "resolved_employer": "Ballmer Group — Executive Director, Los Angeles and National Public Safety",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Nina Revoyr is Executive Director for Los Angeles and National Public Safety at Ballmer Group, the Steve/Connie Ballmer anti-poverty philanthropy, and is also a published novelist and former COO of Children's Institute Inc. Identity corroborated by an FEC-sourced record listing 'Nina Revoyr, Hermosa Beach, zip 90254, Ballmer Group / Philanthropy' — matching the donor's employer, occupation, city, and zip exactly. Her FEC footprint is a $5 ActBlue contribution (10/03/2020); no PAC ties on any policy spectrum surfaced. Not in the Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://ballmergroup.org/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Ralph M. Parsons Foundation",
+    "role": "Vice Chair, Board of Directors (joined 2018)",
+    "category": "civic",
+    "source_url": "https://rmpf.org/about-us/board-of-directors/nina-revoyr/",
+    "snippet": "Nina Revoyr serves as Vice Chair of the Ralph M. Parsons Foundation board, joining in 2018, while serving as Executive Director-Los Angeles at Ballmer Group."
+   },
+   {
+    "org": "Ballmer Group",
+    "role": "Executive Director, Los Angeles and National Public Safety",
+    "category": "civic",
+    "source_url": "https://ballmergroup.org/our-team/",
+    "snippet": "Sets and leads strategy and investments to improve economic mobility for children and families in Los Angeles and California, and leads Ballmer Group's national work on public safety, including systems-change efforts in policing, mental health, child welfare and criminal justice."
+   }
+  ]
+ },
+ {
+  "donor_id": "f85035cc56115699",
+  "name": "Warnken, Heather",
+  "resolved_employer": "University of Baltimore School of Law — Executive Director, Center for Criminal Justice Reform (donor record lists self as employer)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Heather Warnken is a lawyer (J.D., LL.M.) who has served since January 2022 as executive director of the Center for Criminal Justice Reform at the University of Baltimore School of Law, previously a DOJ visiting fellow and legal policy associate at UC Berkeley's Warren Institute. Occupation 'Lawyer' matches and the name is distinctive with no competing public figure; however the donor's Washington DC 20002 address and self-listed employer ('Heather Warnken') do not directly corroborate the Baltimore academic post, so identity is medium rather than high confidence. FEC individual-contribution search surfaced no PAC or ideological committee records; not in the Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://www.ubalt.edu/directory/profile/hwarnken",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Maryland Equitable Justice Collaborative",
+    "role": "Executive Committee member; co-chair, Law Enforcement Policy and Practices reform working group",
+    "category": "civic",
+    "source_url": "https://www.ubalt.edu/directory/profile/hwarnken",
+    "snippet": "Serves on the Executive Committee of the Maryland Equitable Justice Collaborative and co-chairs its Law Enforcement Policy and Practices reform working group; leads legislative and policy advocacy on decarceration, reentry, expungement, drug policy, policing, victim services and violence reduction in the Maryland General Assembly."
+   },
+   {
+    "org": "Maryland Attorney General's Civil Rights Advisory Council",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://www.ubalt.edu/directory/profile/hwarnken",
+    "snippet": "Listed among her affiliations alongside the Task Force to Study Transparency Standards for State's Attorneys."
+   }
+  ]
+ },
+ {
+  "donor_id": "f951d7d53fa18383",
+  "name": "Plummer, Junie Marie",
+  "resolved_employer": "City of Austin — parkland/conservation land acquisition, 30+ years (retired); TREC-licensed real estate provider; former title-company employee",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Distinctive full-name match corroborated three ways: a Texas Real Estate Commission (TREC) license record for 'Junie Marie Plummer' matches the reported 'real estate' occupation, and a Texas Legacy oral-history transcript for the same name describes an Austin resident who worked years in the title business, then spent over 30 years acquiring parkland for the City of Austin (Balcones Canyonlands HCP, water-quality and open-space deals, ~60,000 acres) before retiring — matching the reported 'retired' employer. Her Nature Conservancy and U.S. Fish & Wildlife dealings were as the City's public-sector land negotiator, not as an org board member.",
+  "source_url": "https://texaslegacy.org/transcript/junie-marie-plummer/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3441ea1e06704edd",
+  "name": "Berson, Laurie",
+  "resolved_employer": "Heart Minding Therapy (HeartMinding, PLLC), Austin TX — solo private practice, self-employed",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Exact match on name, occupation and business name: Laurie Berson, LCSW, is a NARM Master Therapist operating Heart Minding Therapy, a solo psychotherapy practice at 821 W 11th St, Austin, specializing in complex trauma/C-PTSD, anxiety and depression — matching the reported 'Licensed counselor, psychotherapist / Self-employed, Heart Minding Therapy'. Donor's 78702 home zip is consistent with a central-Austin practice address. Full read of her About page and NARM directory listing shows clinical credentials and training affiliations only — no board seats, advocacy roles, or policy organizations.",
+  "source_url": "https://www.heartmindingatx.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "067d1f5d890e8cdf",
+  "name": "Almanza, Susana",
+  "resolved_employer": "PODER (People Organized in Defense of Earth and Her Resources) — co-founder and Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Reported occupation 'Director' and employer 'PODER' match exactly a well-documented East Austin public-record figure: Susana Almanza co-founded PODER in 1991 and serves as its director. She is a longtime environmental-justice organizer, a two-time Austin City Council District 3 candidate (2014, 2018), and a 2021 appointee to the National Environmental Justice Advisory Council. Her documented advocacy is environmental justice, anti-gentrification and land use in East Austin; no federal PAC, lobbyist-registry, or Israel/Palestine, firearms, oil-and-gas, or defense-industry affiliations were found on either side of those spectrums.",
+  "source_url": "https://en.wikipedia.org/wiki/Susana_Almanza",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "PODER (People Organized in Defense of Earth and Her Resources)",
+    "role": "Co-founder (1991) and Director",
+    "category": "civic",
+    "source_url": "https://www.poderaustin.org/team",
+    "snippet": "Susana Almanza is a founding member and Director of PODER, a woman-led people-of-color organization engaging the local community in environmental and economic issues through education, advocacy and action."
+   },
+   {
+    "org": "Southwest Network for Environmental and Economic Justice",
+    "role": "Helped found; co-chair of the Coordinating Council",
+    "category": "civic",
+    "source_url": "https://environmental-professionals-of-color.yale.edu/person/susana-almanza",
+    "snippet": "Co-chair for the Southwest Network for Environmental & Economic Justice Coordinating Council, a network of over 80 grassroots organizations in the Southwest U.S.; she also helped found the Texas Network for Environmental and Economic Justice."
+   },
+   {
+    "org": "National Environmental Justice Advisory Council (WHEJAC)",
+    "role": "Appointed member (2021)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Susana_Almanza",
+    "snippet": "In 2021 Almanza was appointed to the National Environmental Justice Advisory Council."
+   },
+   {
+    "org": "City of Austin boards and commissions",
+    "role": "Former member — Planning Commission, Parks and Recreation Board, Environmental Board, Community Development Commission",
+    "category": "civic",
+    "source_url": "https://environmental-professionals-of-color.yale.edu/person/susana-almanza",
+    "snippet": "Other previous experience includes working on the City of Austin's Planning Commission, the Parks and Recreation Board, the Environmental Board, and the Community Development Commission."
+   }
+  ]
+ },
+ {
+  "donor_id": "c9c16911f458e42c",
+  "name": "Madhav, Mira",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'VOLUNTEER' with employer 'N/A' and no federal donation history. All three mandatory searches were run and returned nothing: no FEC individual-contribution or PAC records, no Texas Ethics Commission lobbyist registration, and no bio, professional profile, firm page, or organizational leadership listing for a Mira Madhav in Austin. The only hits were commercial people-search aggregator entries for a 'Mira T Madhav' in the 78746 zip, which are not a reliable public-record source and do not establish employment, role, or affiliation — so nothing is classified beyond the self-reported non-employment status.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

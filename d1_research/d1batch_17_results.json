@@ -1,0 +1,479 @@
+[
+  {
+    "donor_id": "f101e241bf0533eb",
+    "name": "Ganguly, Ashika",
+    "resolved_employer": "Transit Forward (Austin transit-advocacy nonprofit) — Executive Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Ashika Ganguly is a lifelong Austinite, former AISD teacher and legislative director to state Rep. John Bucy, who narrowly lost the 2024 Austin City Council District 10 race and in January 2025 became executive director of Transit Forward, the coalition backing Project Connect. Occupation/employer/zip (78703, West Austin) all match the public record.",
+    "source_url": "https://austinmonitor.com/stories/2025/01/ganguly-moves-forward/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Transit Forward",
+        "role": "Executive Director",
+        "category": "civic",
+        "source_url": "https://austinmonitor.com/stories/2025/01/ganguly-moves-forward/",
+        "snippet": "Ganguly succeeded Bill McCamley as executive director of Transit Forward, saying 'public transit is a cornerstone of equity and sustainability' and planning to protect Project Connect through legislative measures."
+      },
+      {
+        "org": "Caritas of Austin",
+        "role": "Board of Directors",
+        "category": "civic",
+        "source_url": "https://www.redlineparkway.org/our_team",
+        "snippet": "Bio lists her civic involvement including the Austin Chamber, Pink Granite Foundation, and service on the Board of Directors of Caritas of Austin (homelessness services)."
+      },
+      {
+        "org": "Red Line Parkway Initiative",
+        "role": "Board Member",
+        "category": "civic",
+        "source_url": "https://www.redlineparkway.org/our_team",
+        "snippet": "Ashika Ganguly is listed on the Red Line Parkway Initiative 'Our Team' page as a board member, described as 'a dedicated public policy leader committed to creating a more successful Austin.'"
+      },
+      {
+        "org": "Austin Chamber of Commerce",
+        "role": "Participant / member (per published bio)",
+        "category": "business",
+        "source_url": "https://www.redlineparkway.org/our_team",
+        "snippet": "Her bio states she 'participates in several civic organizations including the Austin Chamber, Pink Granite Foundation.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "f7534a810d0029e8",
+    "name": "Gambill, Lauren",
+    "resolved_employer": "Dell Children's Medical Center of Central Texas (Ascension Texas) — pediatric hospitalist; Assistant Professor of Pediatrics, UT Dell Medical School",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Lauren K. Gambill, M.D., M.P.A., is a board-certified pediatric hospital medicine physician in Austin affiliated with Dell Children's Medical Center (part of Ascension Texas, matching the 'Ascension' employer string) and an assistant professor at UT Dell Medical School; she is a faculty fellow of the LBJ School's Center for Health and Social Policy.",
+    "source_url": "https://dellmed.utexas.edu/directory/lauren-gambill",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Pediatric Society",
+        "role": "Executive Board Member; Chairperson, Executive Legislative Committee",
+        "category": "civic",
+        "source_url": "https://dellmed.utexas.edu/directory/lauren-gambill",
+        "snippet": "Faculty profile lists her state leadership as 'Executive Board Member, Texas Pediatric Society' and 'Chairperson, Texas Pediatric Society Executive Legislative Committee.'"
+      },
+      {
+        "org": "Texas Public Health Coalition",
+        "role": "Co-Chair",
+        "category": "civic",
+        "source_url": "https://dellmed.utexas.edu/directory/lauren-gambill",
+        "snippet": "Listed under state and regional leadership as 'Co-Chair, Texas Public Health Coalition.'"
+      },
+      {
+        "org": "Texas Medical Association, Council on Science and Public Health",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://dellmed.utexas.edu/directory/lauren-gambill",
+        "snippet": "Listed as 'Member, Texas Medical Association Council on Science and Public Health.'"
+      },
+      {
+        "org": "American Academy of Pediatrics, Section on Hospital Medicine",
+        "role": "Member, Advocacy Task Force",
+        "category": "civic",
+        "source_url": "https://dellmed.utexas.edu/directory/lauren-gambill",
+        "snippet": "National leadership includes 'Member of the Advocacy Task Force for the American Academy of Pediatrics Section on Hospital Medicine'; she received the section's Excellence in Advocacy Award."
+      }
+    ]
+  },
+  {
+    "donor_id": "fe095c9e048e76f5",
+    "name": "Smith, Travis",
+    "resolved_employer": "Los Angeles Dodgers (MLB) — Major League strength & conditioning / performance coach",
+    "industry": "Entertainment",
+    "confidence": "medium",
+    "evidence": "Travis Smith is the Los Angeles Dodgers' head Major League strength and conditioning coach, with the club since 2012 and previously with the Miami Marlins organization; he holds a master's in applied exercise science from Concordia University Chicago. Employer, occupation and an Inland Empire (Ontario, CA 91762) residence in the LA metro are consistent, but no source directly ties the donor address to him, so identity is medium confidence.",
+    "source_url": "https://dodgersnation.com/travis-smith-roki-sasaki-dodgers/2026/06/08/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b62dbd651e67a7d4",
+    "name": "Ward, Travis",
+    "resolved_employer": "Self-employed owner/operator (nature of business not publicly documented)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "The only information available is the self-reported filing data: a self-employed owner/operator in Austin's 78751 (Hyde Park/North Loop) ZIP. FEC contributor searches, Texas Ethics Commission lobbyist-registry searches, and business/news searches surfaced no profile for a Travis Ward matching this location and occupation. Employer-fallback classification only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "39bc411a825904a3",
+    "name": "Darbonne, Allen",
+    "resolved_employer": "Allen R. Darbonne, CRNA (Certified Registered Nurse Anesthetist), Lake Charles, LA",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Allen R. Darbonne is a CRNA listed in the CHRISTUS Health provider directory and the CMS NPI registry (NPI 1801920236), practicing anesthesia in the Lake Charles, LA area; the filing's 70605 zip and 'CRNA' occupation match the Lake Charles provider record. A Doximity entry for the same name lists an Abbeville, LA practice address, so the exact current employer ('heart Hospital' on the filing) could not be pinned down. No political affiliation of any kind was found; FEC and Texas lobbyist searches returned nothing (pipeline also shows fec_donation_count 0). Note: the FEC OpenFEC API was rate-limited during this run, so the FEC check rests on web/FEC-site searching rather than a direct API pull.",
+    "source_url": "https://npiregistry.cms.hhs.gov/provider-view/1801920236",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0d20c33fdc2841aa",
+    "name": "Moore, Melinda",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported as 'Not Employed' on the campaign filing, Brooklyn NY 11211. No public professional profile, bio page, news mention, or organizational role could be tied to this specific person; 'Melinda Moore' is a common name and the only 11211 matches are people-search aggregator listings, which are not reliable identification. FEC contribution search and Texas Ethics Commission lobbyist searches returned nothing (pipeline fec_donation_count 0). Industry recorded as the filing's stated employment status only; no affiliation inferred.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "231751cabd3300e2",
+    "name": "Weber, Thomas",
+    "resolved_employer": "The Minneapolis Foundation — Senior Director of Special Initiatives (former Minnesota Public Radio host/education reporter; former Assistant Director of Communications, Mitchell Hamline School of Law)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Tom (Thomas) Weber has been Senior Director of Special Initiatives at The Minneapolis Foundation since Feb 2024, per his LinkedIn and TheOrg/ZoomInfo org listings; the filing's employer string 'Mpls Fndtn' and Saint Louis Park MN 55416 address corroborate. His 'Marketing' occupation on the filing is consistent with a communications/public-media career (MPR News host 2008-2018; Mitchell Hamline communications 2020-2024) and author of 'Minneapolis: An Urban Biography.' The pipeline records 258 FEC donations for this name, consistent with recurring small-dollar online giving, but the OpenFEC API was rate-limited during this run so individual recipient committees could not be enumerated and NO PAC-level ideological affiliation is asserted here. No Texas lobbyist registration found.",
+    "source_url": "https://theorg.com/org/the-minneapolis-foundation/org-chart/tom-weber",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "The Minneapolis Foundation",
+        "role": "Senior Director of Special Initiatives",
+        "category": "civic",
+        "source_url": "https://theorg.com/org/the-minneapolis-foundation/org-chart/tom-weber",
+        "snippet": "Listed as Senior Director of Special Initiatives at The Minneapolis Foundation, a community foundation, a role he has held since February 2024."
+      }
+    ]
+  },
+  {
+    "donor_id": "8bd96deb85ba13f0",
+    "name": "Wallace, Bill",
+    "resolved_employer": "Ending Community Homelessness Coalition (ECHO), Austin — Capacity Building Manager; also founder and Executive Director of Tomorrow's Promise Foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Bill Wallace is listed as Capacity Building Manager on ECHO's public staff page, matching the filing's employer and occupation exactly. He is an Austin native, formerly incarcerated (released 2017 after 20 years), who founded Tomorrow's Promise Foundation — a youth mentorship, advocacy and policy-reform nonprofit — and co-founded the Travis County Youth Justice Network with Judge Brandy Mueller. He is publicly active in Travis County juvenile-justice policy debates (quoted opposing a proposed $250-300M youth facility) and appears on a Texas House Juvenile Justice subcommittee witness list (March 26, 2025). He is not a registered Texas lobbyist — the TEC registered-lobbyist lists surface only 'Wallace, Lynlie M.' — and no FEC PAC ties were surfaced (pipeline shows 4 FEC donations; OpenFEC API was rate-limited so recipients were not enumerated).",
+    "source_url": "https://www.austinecho.org/about-echo/staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Tomorrow's Promise Foundation",
+        "role": "Founder and Executive Director",
+        "category": "civic",
+        "source_url": "https://www.mealsonwheelscentraltexas.org/about-us/article/meet-our-community-champion-bill-wallace",
+        "snippet": "Founder and Executive Director of Tomorrow's Promise Foundation, which supports youth and families impacted by systems through mentorship, advocacy, and culturally responsive community programs."
+      },
+      {
+        "org": "Travis County Youth Justice Network",
+        "role": "Co-founder (with Judge Brandy Mueller)",
+        "category": "civic",
+        "source_url": "https://www.mealsonwheelscentraltexas.org/about-us/article/meet-our-community-champion-bill-wallace",
+        "snippet": "Co-founder of the Travis County Youth Justice Network with Judge Brandy Mueller."
+      },
+      {
+        "org": "Ending Community Homelessness Coalition (ECHO)",
+        "role": "Capacity Building Manager",
+        "category": "civic",
+        "source_url": "https://www.austinecho.org/about-echo/staff/",
+        "snippet": "Listed on ECHO's staff page as Capacity Building Manager; ECHO is the lead agency for the Austin/Travis County Continuum of Care."
+      },
+      {
+        "org": "Texas House Subcommittee on Juvenile Justice (public testimony)",
+        "role": "Witness representing Tomorrow's Promise Foundation",
+        "category": "political",
+        "source_url": "https://capitol.texas.gov/tlodocs/89R/witlistmtg/pdf/C2212025032608001.PDF",
+        "snippet": "Appears on the March 26, 2025 witness list for the Subcommittee on Juvenile Justice, testifying on behalf of Tomorrow's Promise Foundation (public testimony, not registered lobbying)."
+      }
+    ]
+  },
+  {
+    "donor_id": "253b9867a025ae01",
+    "name": "Shabazz, Muhammad",
+    "resolved_employer": "IKEA U.S. (national communications lead, Mosaic Cause Related Group); previously Burrell Advertising, Upswing, DivInc/ATXinColor brand work",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Marketing/communications professional in the Austin metro who goes by 'Mo' Shabazz; Howard University marketing degree, former Burrell Advertising account manager, now national communications lead for IKEA US's Mosaic Cause Related Group. Matches the filing's Austin location and IKEA/Marketing occupation-employer pair; the 'Not Employed' second occupation string suggests a period between roles.",
+    "source_url": "https://www.linkedin.com/in/muhammadshabazz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "100 Black Men of Austin",
+        "role": "Board member, VP of Marketing",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/muhammadshabazz/",
+        "snippet": "Joined the board of 100 Black Men of Austin as VP of Marketing under Chapter President Karl Spencer; earlier managed the ATXinColor and DivInc brands."
+      }
+    ]
+  },
+  {
+    "donor_id": "041ac27454a3674e",
+    "name": "Perales, Marisa",
+    "resolved_employer": "Perales, Allmon & Ice, P.C. (partner; public-interest environmental law firm, Austin)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Partner since 2005 at Austin public-interest environmental law firm Perales, Allmon & Ice, P.C.; J.D. cum laude Texas Tech 1997, prior service at the Third Court of Appeals and the Environmental Law Division of the TNRCC (now TCEQ). Texas Bar #24002750, admitted 1998. Name, Austin location, occupation and employer string all match the filing exactly.",
+    "source_url": "https://txenvirolaw.com/about-our-firm/attorneys/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin Environmental Commission",
+        "role": "Former member and Chair",
+        "category": "civic",
+        "source_url": "https://txenvirolaw.com/about-our-firm/attorneys/",
+        "snippet": "Firm bio: 'member and chair of the City of Austin Environmental Commission.' Directly relevant municipal policy service for a donor in a City Council race."
+      },
+      {
+        "org": "Clean Water Action",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://txenvirolaw.com/about-our-firm/attorneys/",
+        "snippet": "Firm bio: 'currently sits on the boards of two environmental nonprofits: Clean Water Action and Commission Shift.'"
+      },
+      {
+        "org": "Commission Shift",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://txenvirolaw.com/about-our-firm/attorneys/",
+        "snippet": "Firm bio lists board service at Commission Shift, a nonprofit focused on reform and oversight of the Texas Railroad Commission (the state's oil and gas regulator) — oversight-side, not industry-side."
+      }
+    ]
+  },
+  {
+    "donor_id": "07cf2d1b500e8cd3",
+    "name": "Dodoo, Stephanie",
+    "resolved_employer": "UT Austin (per filing); publicly documented as Stephanie K. Dodoo, MA, LCSW — clinical social worker, Stephanie Dodoo Counseling & Consulting LLC, with an NPI practice address at 100 W Dean Keeton St, Austin (UT Austin campus)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Licensed clinical social worker in Austin with ~15 years in foster care, child welfare, mental health and school-based counseling; MA in Social Service Administration (University of Chicago), BA Lake Forest College. Occupation (social worker) and Austin location match, and her registered practice address on UT Austin's campus corroborates the 'UT Austin' employer string; classified under Education for the university employer, though the underlying work is clinical social work.",
+    "source_url": "https://npiprofile.com/npi/1720375686",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "11c41f4f99604dac",
+    "name": "Butler, Jessica",
+    "resolved_employer": "Cities United (Director of Culture, People and Culture department) — national nonprofit working with cities to reduce violence affecting Black men and boys",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Milwaukee-born nonprofit professional; currently Director of Culture in Cities United's People and Culture department, previously Program Operations Manager at 414 LIFE, Milwaukee's community violence-interruption program. Employer string, title and Milwaukee location all match the filing. Distinct from the Milwaukee personal-injury attorney of the same name.",
+    "source_url": "https://citiesunited.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Cities United",
+        "role": "Director of Culture (People and Culture)",
+        "category": "civic",
+        "source_url": "https://citiesunited.org/",
+        "snippet": "Staff bio: 'Jessica now serves as Director of Culture in the department of People and Culture'; Cities United is a national network working with mayors to reduce homicides and violence affecting Black men and boys."
+      },
+      {
+        "org": "414 LIFE (City of Milwaukee / Medical College of Wisconsin community violence interruption program)",
+        "role": "Former Program Operations Manager",
+        "category": "civic",
+        "source_url": "https://city.milwaukee.gov/414Life",
+        "snippet": "414 LIFE 'is guided by the understanding that gun violence is a public health issue' and works to interrupt retaliatory gun violence; program-operations role, not policy lobbying, so recorded as civic rather than gun_control advocacy."
+      }
+    ]
+  },
+  {
+    "donor_id": "1392fd286041867d",
+    "name": "Aguayo, Cutberto",
+    "resolved_employer": "K&L Gates LLP (Chicago) — associate, IP Procurement & Portfolio Management / Data Protection, Privacy and Security",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Cutberto 'Berto' Aguayo is an associate at K&L Gates' Chicago office (JD Northwestern 2024, BA Dominican 2016), matching the filed occupation 'Attorney' and employer 'K&L Gates'. He grew up in and organizes in Back of the Yards, the Chicago neighborhood covered by his filed zip 60609, where he co-founded and led the youth/violence-prevention nonprofit Increase The Peace.",
+    "source_url": "https://www.klgates.com/lawyers/Berto-Aguayo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Increase The Peace Chicago",
+        "role": "Co-founder and former Executive Director; board member",
+        "category": "civic",
+        "source_url": "https://www.klgates.com/lawyers/Berto-Aguayo",
+        "snippet": "Firm bio: founded and served as Executive Director of Increase The Peace Chicago, a nonprofit providing employment opportunities and civic leadership training to over 700 young people; also lists board service at Increase The Peace Chicago, Beyond Legal Aid, and Casa Central."
+      },
+      {
+        "org": "Increase The Peace (#ITP)",
+        "role": "Co-founder; community violence-prevention organizing and policy advocacy",
+        "category": "civic",
+        "source_url": "https://www.obama.org/stories/hope-amidst-violence/aguayo/",
+        "snippet": "Obama Foundation profile: #ITP 'develops young leaders and promotes peace through community organizing and policy advocacy,' with work spanning violence prevention, youth development, food access and mutual aid. Recorded as civic community-violence-intervention work, not a documented firearms-policy position."
+      },
+      {
+        "org": "Marie Newman for Congress (IL-03, 2020); 2019 candidate for Chicago 15th Ward Alderman",
+        "role": "Political Director (Newman campaign); aldermanic candidate",
+        "category": "political",
+        "source_url": "https://chicago.suntimes.com/2019/1/27/18369360/15th-ward-candidate-for-alderman-berto-aguayo",
+        "snippet": "Sun-Times candidate profile documents his 2019 independent grassroots run for 15th Ward Alderman; he subsequently served as political director for Marie Newman's 2020 congressional campaign."
+      },
+      {
+        "org": "Latino Leadership Council; Hispanic Lawyers Association of Illinois; Legal Services Corporation Emerging Leaders Council",
+        "role": "Policy Co-Chair; Big Law Committee Chair; council member",
+        "category": "civic",
+        "source_url": "https://www.klgates.com/lawyers/Berto-Aguayo",
+        "snippet": "Firm bio organizational memberships section lists Policy Co-Chair of the Latino Leadership Council, Big Law Committee Chair of the Hispanic Lawyers Association of Illinois, and membership on the Legal Services Corporation Emerging Leaders Council."
+      }
+    ]
+  },
+  {
+    "donor_id": "2ec2cc7413f08910",
+    "name": "Bissex, Ramsey",
+    "resolved_employer": "City of Austin — software engineer",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Distinctive surname; City of Austin campaign finance filings independently list a 'Ramsey Bissex, software engineer, Austin TX' making small-dollar local contributions in 2024 ($10 on 05/15/2024, $50 on 06/13/2024), corroborating the filed occupation and municipal-employee status. No other public professional or advocacy footprint located.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=432212",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36198d5af5bed7ec",
+    "name": "Wright, Talia",
+    "resolved_employer": "Fund for a Safer Future — Vice President of Philanthropic Engagement",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "The Fund for a Safer Future staff page lists Talia Wright as Vice President of Philanthropic Engagement and describes her as 'a Boston native' with 20+ years across communities, nonprofits, philanthropy and government — consistent with the filed employer 'Fund for a Safer Future', occupation 'Philanthropy', and Mattapan (Boston) MA 02126 address. She previously directed the City of Boston's SOAR gang-intervention program.",
+    "source_url": "https://www.fundforasaferfuture.org/who-we-are/staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Fund for a Safer Future",
+        "role": "Vice President of Philanthropic Engagement (senior staff)",
+        "category": "gun_control",
+        "source_url": "https://www.fundforasaferfuture.org/who-we-are/staff/",
+        "snippet": "FSF staff page lists Talia Wright as VP of Philanthropic Engagement; the organization is a national donor collaborative whose work 'centers on gun violence prevention,' funding communications, community-based gun violence interventions, research, legal strategies, movement organizing and state-level policy change."
+      },
+      {
+        "org": "City of Boston — SOAR Boston (Street Outreach, Advocacy and Response)",
+        "role": "Former Director, gang-intervention program",
+        "category": "civic",
+        "source_url": "https://www.fundforasaferfuture.org/who-we-are/staff/",
+        "snippet": "Bio states that prior to joining the Fund in September 2022 she served as Director of the City of Boston's gang intervention program, SOAR, after community-organizing roles addressing environmental factors associated with community violence."
+      }
+    ]
+  },
+  {
+    "donor_id": "37859262de2d07ac",
+    "name": "L. Gerbracht, Heidi",
+    "resolved_employer": "Director, Progressive Governance Academy (a joint initiative of re:power Fund, Local Progress and State Innovation Exchange); founder of the Equity Agenda consultancy. Filed employer 'Tides Center' is consistent with a fiscal-sponsorship arrangement for one of these projects, but that specific sponsorship was not independently confirmed.",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Heidi Gerbracht is an Austin, TX-based local-government equity strategist: founder/director of Equity Agenda, now Director of the Progressive Governance Academy, and previously a City of Austin employee for nearly a decade. LBJ School (UT-Austin) MPA and adjunct instructor; Austin residence corroborates the 78702 zip and 'nonprofit professional' occupation.",
+    "source_url": "https://repower.org/welcome-heidi-gerbracht/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Annie's List",
+        "role": "Former Board Chair",
+        "category": "political",
+        "source_url": "https://repower.org/welcome-heidi-gerbracht/",
+        "snippet": "re:power bio lists her as former Board Chair of Annie's List, the Texas organization that recruits and trains progressive women candidates who support abortion rights."
+      },
+      {
+        "org": "URGE: Unite for Reproductive and Gender Equity",
+        "role": "Vice Chair, board of directors",
+        "category": "political",
+        "source_url": "https://repower.org/welcome-heidi-gerbracht/",
+        "snippet": "re:power bio lists her as Vice Chair of URGE, a national youth-led reproductive justice advocacy organization."
+      },
+      {
+        "org": "Equity Agenda / Women Mayors Network (with Mayors Innovation Project)",
+        "role": "Founder and Director; co-launched the Women Mayors Network (2020)",
+        "category": "civic",
+        "source_url": "https://repower.org/welcome-heidi-gerbracht/",
+        "snippet": "Bio: founded and directed Equity Agenda, a nonprofit consultancy partnering with city governments on gender-equity assessment and policy, and co-launched the Women Mayors Network serving nearly 200 women mayors nationwide."
+      },
+      {
+        "org": "City of Austin",
+        "role": "Public-sector staff roles for nearly a decade",
+        "category": "civic",
+        "source_url": "https://repower.org/welcome-heidi-gerbracht/",
+        "snippet": "Bio: 'City of Austin: Served in various public sector roles for nearly a decade, championing progressive policies that set national precedents.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "4126157fd23082a4",
+    "name": "Nori, Shireen",
+    "resolved_employer": "Public Rights Project (PRP) — Senior Manager of Coalitions and Advocacy",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Filing employer string 'PRP' resolves to Public Rights Project, a national nonprofit legal/advocacy organization; its team page lists Shireen Nori as Senior Manager of Coalitions and Advocacy, based in Seattle, WA — consistent with the Redmond/King County 98053 zip and the reported occupation 'Organizer'. Described as a grassroots organizer and social movement strategist with a decade of reproductive-, racial-, and climate-justice organizing.",
+    "source_url": "https://www.publicrightsproject.org/about/team/shireen-nori/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Public Rights Project",
+        "role": "Senior Manager of Coalitions and Advocacy",
+        "category": "civic",
+        "source_url": "https://www.publicrightsproject.org/about/team/shireen-nori/",
+        "snippet": "Bio page lists her as Senior Manager of Coalitions and Advocacy at Public Rights Project, a nonprofit that partners with state and local government lawyers on civil-rights and public-interest enforcement."
+      },
+      {
+        "org": "350.org",
+        "role": "Former staff — digital/climate organizing; co-created digital strategy for the 2019 Climate Strikes",
+        "category": "civic",
+        "source_url": "https://www.publicrightsproject.org/about/team/shireen-nori/",
+        "snippet": "\"worked in climate justice at 350.org, where she co-created digital strategy for the 2019 Climate Strikes.\""
+      },
+      {
+        "org": "Kairos Fellowship",
+        "role": "Former organizer; trained and coached 200+ organizations in digital and offline organizing",
+        "category": "civic",
+        "source_url": "https://www.publicrightsproject.org/about/team/shireen-nori/",
+        "snippet": "\"she organized at Kairos Fellowship, where she supported over 200+ organizations in developing and strengthening their online and offline organizing.\""
+      }
+    ]
+  },
+  {
+    "donor_id": "459ed4a04857577b",
+    "name": "Mari, Margaret",
+    "resolved_employer": "Self-employed therapist (per filing; no independent public profile located)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "No public profile could be located for a 'Margaret Mari' in Austin 78704. Searches for the name surface only similarly-named but distinct Austin therapists (e.g., Margaret Martin, LCSW; Margaret Kim Counseling), which are NOT confirmed as this donor and were not used to classify her. Industry assigned solely from the self-reported filing occupation 'Therapist' / employer 'Self' under the categorize-by-employer fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57190fbe3b85b082",
+    "name": "Wooding, Niky",
+    "resolved_employer": "Wooding Law Firm PLLC — Founder & Principal Attorney (business/IP/technology law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jackelyn 'Niky' Wooding is founder and principal attorney of Wooding Law Firm, 14900 Avery Ranch Blvd, Austin — the Avery Ranch address falls in zip 78717, matching the filing zip and the 'Wooding Law Firm PLLC' employer string. Licensed in Texas and Maryland; practice covers business formation, IP, and technology contracts for creative professionals and tech companies; prior roles at the U.S. Copyright Office, USPTO, eBay, SAS Institute, and the Maryland Attorney General's office. Certified Information Privacy Professional (IAPP) and certified mediator.",
+    "source_url": "https://www.woodinglaw.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Wooding Law Firm PLLC",
+        "role": "Founder & Principal Attorney",
+        "category": "business",
+        "source_url": "https://www.woodinglaw.com/about",
+        "snippet": "Firm 'About' page identifies her as founder and principal attorney; firm provides business counsel and IP protection for creative professionals and technology companies."
+      },
+      {
+        "org": "National Bar Association",
+        "role": "Member",
+        "category": "business",
+        "source_url": "https://www.woodinglaw.com/about",
+        "snippet": "Bio lists membership in the American Bar Association and the National Bar Association."
+      },
+      {
+        "org": "Leadership Council on Legal Diversity (LCLD)",
+        "role": "Alumna of the LCLD program",
+        "category": "civic",
+        "source_url": "https://www.woodinglaw.com/about",
+        "snippet": "Bio lists her as an alumna of the Leadership Council of Legal Diversity."
+      }
+    ]
+  },
+  {
+    "donor_id": "5b40e31ca97fc135",
+    "name": "Estrada, Kris",
+    "resolved_employer": "The Elira Law Firm, LLC — Intake Coordinator (firm is Maryland-based; donor located in San Jose, CA)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "The employer string resolves to a real firm: The Elira Law Firm, LLC, a Bowie/Upper Marlboro, Maryland general-practice firm founded in 2019 by attorney Samuel Elira (criminal defense, personal injury, family and civil litigation). The individual Kris Estrada of San Jose, CA has no independently verifiable public profile — no staff listing, bio, or LinkedIn page for an Estrada at the firm was found; the San Jose location suggests a remote intake role. Classification rests on the employer, not on an identified profile. The pipeline's 17 FEC donations for this name could not be itemized (OpenFEC API rate-limited), so no PAC-level affiliation is asserted.",
+    "source_url": "https://www.bbb.org/us/md/bowie/profile/lawyers/the-elira-law-firm-llc-0241-236064619",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

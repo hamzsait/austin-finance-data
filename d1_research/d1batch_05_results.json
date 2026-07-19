@@ -1,0 +1,362 @@
+[
+ {
+  "donor_id": "73b85689bd644a87",
+  "name": "Razian, Anoosh",
+  "resolved_employer": "Anoosheh Razian, LCSW — licensed clinical social worker/therapist, Austin (associated with Colors of Austin Counseling)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Anoosheh 'Anoosh' Razian is a Licensed Clinical Social Worker in Austin, TX (TX license 57852, NPI 1366984577), matching the reported occupation 'Therapist' and self-employed status; profiled as a clinician at Colors of Austin Counseling. Previously worked for a nonprofit serving single mothers experiencing homelessness. No public political, lobbying, or advocacy-board record found.",
+  "source_url": "https://npiprofile.com/npi/1366984577",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "746fdd9a3d00875b",
+  "name": "Brenner, Jeffrey",
+  "resolved_employer": "Noetica AI (legal-tech/AI data platform for deal professionals) — Senior Product Specialist; formerly a corporate finance attorney",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Jeffrey Brenner is a Los Angeles-based Senior Product Specialist at Noetica AI, a legal-tech company founded in 2022 by former transactional attorneys; his background is corporate finance law (NYU School of Law; prior roles at Latham & Watkins, Davis Polk & Wardwell, Reorg), matching the reported 'Attorney' occupation and 'Noetica' employer. A Jeffrey Brenner public record is associated with a Los Angeles 90041 (Eagle Rock) address, corroborating the donor zip. No FEC PAC contributions, Texas lobbyist registration, or advocacy board roles found.",
+  "source_url": "https://www.linkedin.com/in/jeffrey-brenner-30521959/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74e2f78aadd82595",
+  "name": "Luckie, Matt",
+  "resolved_employer": "FBR Management (Austin bar/hospitality group he co-founded) — owner/manager of Lavaca Street Bar, Star Bar, Mean Eyed Cat, The Wheel, Sign Bar and others; listed as Manager of The Wheel GP, LLC",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Matt Luckie is a well-known Austin bar owner and co-founder of FBR Management, which operates numerous downtown/East Austin bars and runs beverage concessions at ACL Festival, Lollapalooza and Austin Food + Wine Festival; Texas corporate records list a Matt Luckie of Austin as Manager of The Wheel GP, LLC, matching the reported 'Manager'/'Self Employed' occupation. Identity is medium rather than high because the donor zip (78731) is a residential zip not directly corroborated in public sources — his business addresses appear as 78702 and his LinkedIn as 78751. No FEC PAC contributions, Texas lobbyist registration, or policy-advocacy board roles surfaced.",
+  "source_url": "https://www.corporationwiki.com/Texas/Austin/matt-luckie/34872621.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7640efea551d9264",
+  "name": "Samson, Jacques",
+  "resolved_employer": "Baptist Medical Group — Dr. Jacques Edouard Samson, MD, board-certified OB-GYN sub-certified in Maternal-Fetal Medicine, Memphis TN",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Jacques Edouard Samson joined Baptist Medical Group in 2021 as a maternal-fetal medicine physician in the Memphis area (Germantown TN 38138 is a Memphis suburb), exactly matching the reported occupation 'Physician' and employer 'Baptist Medical Group'. Full bio read: Oakwood College BS 1995, Meharry Medical College MD 2002, Howard University Hospital internship, Wayne State/Detroit Medical Center residency, UTHSC fellowship; memberships are clinical professional societies only (ACOG Fellow, AIUM, SMFM) with no policy-advocacy component. No FEC PAC contributions or lobbyist registration found.",
+  "source_url": "https://www.baptistdoctors.org/find-a-doctor/jacques-edouard-samson-md",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77e428ccab4f6a15",
+  "name": "Luckie, Vanessa",
+  "resolved_employer": "Austin Orchid Exchange (owner/founder)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Founder and owner of Austin Orchid Exchange, an Austin, TX orchid and plant design retail business she started in 2019; matches the filing's Austin 78731 location, 'Florist' occupation and 'Orchid Exchange' employer string. Published interview states she holds a UT-Austin economics degree and spent ~12 years in corporate accounting/finance at Whole Foods Market before founding the shop.",
+  "source_url": "https://canvasrebel.com/meet-vanessa-luckie/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77f5fc397b9a29a8",
+  "name": "Scudder, Ken",
+  "resolved_employer": "Ken Scudder Training and Consulting (self-employed communications trainer/consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Media/communications trainer and consultant based in Takoma Park, MD, operating his own firm Ken Scudder Training and Consulting; matches the filing's 20912 Takoma Park location and 'Consultant / Self' occupation-employer pair. Full bio read shows prior Capitol Hill communications-director roles and co-founding of Virgil Scudder & Associates.",
+  "source_url": "https://kenscudder.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "U.S. House of Representatives / U.S. Congress Joint Economic Committee",
+    "role": "Communications Director for Rep. Mike Honda (D-CA) and Rep. Alan Grayson (D-FL); Democratic Communications Director, Joint Economic Committee (former)",
+    "category": "political",
+    "source_url": "https://kenscudder.com/about/",
+    "snippet": "Bio states he 'worked on Capitol Hill as a Communications Director for Congressman Mike Honda of California, then Rep. Alan Grayson of Florida, and as the Democratic Communications Director for the U.S. Congress Joint Economic Committee.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "7882cae6b38ce8d6",
+  "name": "Divecha, Ashraf",
+  "resolved_employer": "Divecha Services, LLC (owner) — handyman and remodeling contractor, Houston",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Ash(raf) Divecha owns Divecha Services, LLC, a Houston handyman/remodeling firm he established in 2019; matches the filing's Houston 77009 location, 'Owner' occupation and 'Divecha Services' employer string. Company bio notes ~4 years in commercial construction and roughly a decade in oil and gas (including 3 years as an offshore drilling roughneck) before founding the business — rank-and-file field work, not an executive/board/owner role, so no oil_gas flag is applied.",
+  "source_url": "https://www.divechaservices.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "791b215060f8a6f0",
+  "name": "Angle, John",
+  "resolved_employer": "Angle Mastagni Mathews Political Strategies, LLC (AMM Political) — co-founder and partner",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "John 'J.D.' Angle is co-founder and partner of Angle Mastagni Mathews Political Strategies (AMM Political), a Fort Worth, TX Democratic voter-contact and phone-program consulting firm; matches the filing's Fort Worth 76110 location, 'Consultant' occupation and 'AMM Political Strategies, LLC' employer string. Texas Tribune identifies him as a longtime voter-contact and targeting expert and the top paid consultant on Wendy Davis's 2014 gubernatorial campaign.",
+  "source_url": "https://www.texastribune.org/2013/10/02/people-behind-wendy-davis-campaign-governor/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Angle Mastagni Mathews Political Strategies, LLC (AMM Political)",
+    "role": "Co-founder and partner",
+    "category": "business",
+    "source_url": "https://www.ammpolitical.com/about-us",
+    "snippet": "Firm's About page lists J.D. Angle as one of three founding partners; firm describes itself as 'women-and-LGBT-owned and unabashedly progressive,' having 'managed analytics and voter contact teams for the DCCC, DSCC, the DNC, Hillary for America, Obama for America and Biden for President.'"
+   },
+   {
+    "org": "Democratic campaign consulting (Wendy Davis for Governor; Democratic presidential campaigns)",
+    "role": "Lead paid consultant / voter-contact and targeting consultant",
+    "category": "political",
+    "source_url": "https://www.texastribune.org/2013/10/02/people-behind-wendy-davis-campaign-governor/",
+    "snippet": "'Angle, a voter contact and targeting expert who founded Angle Mastagni Mathews Political Strategies, LLC, in 2009, has been a Davis consultant since her days on the Fort Worth City Council'; article adds he 'has consulted for every Democratic presidential campaign since 1996.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "792f984e2912173c",
+  "name": "Campbell, Logan",
+  "resolved_employer": "Gergen, Hale & Campbell LLP (criminal defense attorney, name partner), Austin TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Logan B. Campbell is a criminal defense attorney and name partner at Gergen, Hale & Campbell LLP, 1206 Nueces St, Austin — matches the filing's employer string exactly. Native Austinite, Texas A&M B.S. Economics 2010, joint J.D./M.B.A. University of Houston Law Center 2013; former Assistant DA in Jefferson County, then Travis County Attorney's Office and Travis County DA's Office before joining GHC in 2022. Texas Bar record: Logan Bauerle Campbell, Austin.",
+  "source_url": "https://www.ghctexas.com/logan-campbell/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "79c09c06be1088e2",
+  "name": "Hayes, Anthony",
+  "resolved_employer": "Self-employed consultant, New York NY (specific individual not confirmed)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Occupation 'Consultant' / employer 'Self-employed' at a Manhattan Financial District zip (10006) supports a Consulting / PR classification, but the specific individual could not be corroborated. 'Anthony Hayes' is a common name; a prominent NYC public-affairs Anthony Hayes founded The Hayes Initiative (2017), but that person reports his firm as employer and no published address ties him to 10006. Multiple distinct NYC 'Anthony Hayes' profiles exist. Identity not confirmed, so no bio-derived affiliations are recorded.",
+  "source_url": "https://hayesinitiative.com/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7cc9e34c0a206d2c",
+  "name": "Varghese, Lesley",
+  "resolved_employer": "Attorney, self-employed (Austin); most recently President & Chief Legal Officer, The SAFE Alliance; former Chief of Staff to Austin Mayor Steve Adler",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Lesley Mary Varghese is a Texas-licensed Austin attorney (State Bar of Texas member; attorney listing at 919 Congress Ave). She served as Chief of Staff to Austin Mayor Steve Adler from Jan 2015 to Jan 2023, then became President & Chief Legal Officer of The SAFE Alliance effective Jan 1, 2023 (Austin Monitor). She is no longer listed on SAFE Alliance's current staff leadership page, consistent with the filing's 'Attorney / Self' self-description. Rare name, 78703 central-Austin zip, attorney occupation, and 42 all-Democratic federal donations corroborate the same person.",
+  "source_url": "https://www.austinmonitor.com/stories/whispers/city-hall-staff-on-the-move/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The SAFE Alliance",
+    "role": "President & Chief Legal Officer (from Jan 1, 2023)",
+    "category": "civic",
+    "source_url": "https://www.austinmonitor.com/stories/whispers/city-hall-staff-on-the-move/",
+    "snippet": "Varghese is 'moving to the SAFE Alliance to serve as its new president and chief legal officer, effective Jan. 1.' SAFE serves survivors of child abuse, sexual assault, trafficking and domestic violence."
+   },
+   {
+    "org": "Office of Austin Mayor Steve Adler",
+    "role": "Chief of Staff (Jan 2015 - Jan 2023)",
+    "category": "political",
+    "source_url": "https://www.austinmonitor.com/stories/whispers/city-hall-staff-on-the-move/",
+    "snippet": "Article identifies Lesley Varghese as chief of staff for Mayor Steve Adler, departing amid the City Hall transition as the mayor and three council members exited."
+   },
+   {
+    "org": "Asian American Resource Center, Inc.",
+    "role": "Executive Director & General Counsel (Nov 2012 - Oct 2014)",
+    "category": "civic",
+    "source_url": "https://theorg.com/org/safe-2/org-chart/lesley-varghese",
+    "snippet": "Profile lists Varghese as Executive Director & General Counsel at the Asian American Resource Center, Inc., and Affiliate Professor at UT Austin 2012-2014."
+   }
+  ]
+ },
+ {
+  "donor_id": "7ec14378ab4c9faf",
+  "name": "Moore, Katie",
+  "resolved_employer": "Texas Children's Hospital, Houston TX (physician, per self-reported filing; individual not independently confirmed)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Doctor' with employer 'Texas Children's Hospital' places this donor in Healthcare, and 77005 (West University Place) is a common physician residential zip near the Texas Medical Center. However, no Katie/Katherine Moore appears in the Texas Children's provider directory or Baylor College of Medicine faculty listings; searches surfaced only unrelated Moores plus an unverified business-directory stub and a 'Katie Bolt Moore' LinkedIn entry tied to Texas Children's. The specific person could not be corroborated beyond the employer string, so no affiliations are recorded despite 212 federal donations.",
+  "source_url": "https://www.manta.com/c/mbs53h3/moore-katie-md",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7ff83b72500ce8e1",
+  "name": "Hull, Megan",
+  "resolved_employer": "Self-employed (listed occupation: Activist)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Filing lists a self-employed activist in Oakland, CA 94611. A nationally known Megan Hull (activist/donor, Hull Family Foundation board, co-founder of the Secretary of State Project) exists, but InfluenceWatch places that person in Washington, D.C. as a self-employed consultant with six-figure annual PAC giving, which is inconsistent with this record's single FEC donation and Oakland address. Identity of the specific Oakland donor could not be confirmed, so no affiliations are attributed. Industry assigned from the self-reported occupation only.",
+  "source_url": "https://www.influencewatch.org/person/megan-hull/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "80f7f3982c66ada1",
+  "name": "Friedmann, Jonathan",
+  "resolved_employer": "Friedmann Parks Realty (residential real estate broker/agent, TX license #0606332)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jonathan Friedmann is a licensed Austin real estate agent with Friedmann Parks Realty, whose business address (1310 Bentwood Rd, Austin, TX 78722) is an exact match to the donor's filing zip; 16 years in the business, working Austin/Lakeway/Dripping Springs with condo and single-family transactions. Occupation and employer strings in the filing match exactly. No Texas Ethics Commission lobbyist registration and no federal PAC record surfaced under this name; a separate 'Jonathan Friedman' on the Northwest Hills (NWACA) board is a different person and was excluded.",
+  "source_url": "https://www.har.com/friedmann-parks-realty/broker_ABORTX-5826",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Friedmann Parks Realty",
+    "role": "Real estate agent/broker (partner firm)",
+    "category": "business",
+    "source_url": "https://www.homelight.com/agents/jonathan-friedmann-tx-0606332",
+    "snippet": "Brokerage: Friedmann Parks Realty; 16 years of experience serving Austin, Dripping Springs and Lakeway, Texas, with condo and single-family transactions."
+   }
+  ]
+ },
+ {
+  "donor_id": "8147429a52ac585e",
+  "name": "Mostyn, Amber",
+  "resolved_employer": "Mostyn Law Firm (co-founder and president; plaintiff-side personal injury / wrongful death trial attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Amber Mostyn is the co-founder and president of Houston's Mostyn Law, a plaintiff-side personal injury firm; UT Law J.D. 1997. Occupation, employer and Houston 77027 location all match the filing. She is one of Texas's largest Democratic donors — she and her late husband Steve Mostyn gave $5.2 million to federal super PACs in the 2011-2012 cycle alone — consistent with the 366 federal donations on this record.",
+  "source_url": "https://mostynlaw.com/amber-cares/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "House Majority PAC",
+    "role": "Donor ($1.05 million, 2011-2012 cycle)",
+    "category": "political",
+    "source_url": "https://publicintegrity.org/politics/donor-profile-steve-and-amber-mostyn/",
+    "snippet": "Center for Public Integrity donor profile lists $1.05 million to House Majority PAC (pro-Democratic) from Amber, part of $5.2 million in Mostyn super PAC giving including $3 million to Priorities USA Action."
+   },
+   {
+    "org": "Planned Parenthood Votes",
+    "role": "Donor ($200,000, 2012 cycle)",
+    "category": "political",
+    "source_url": "https://publicintegrity.org/politics/donor-profile-steve-and-amber-mostyn/",
+    "snippet": "$200,000 to Planned Parenthood (pro-Democratic, from Amber) listed among the couple's super PAC contributions."
+   },
+   {
+    "org": "Annie's List",
+    "role": "Board member; later Chair",
+    "category": "political",
+    "source_url": "https://publicintegrity.org/politics/donor-profile-steve-and-amber-mostyn/",
+    "snippet": "\"Amber Mostyn also sits on the board of Annie's List, a group that supports women Democratic candidates in Texas.\" Her firm bio adds she served most recently as Chair of Annie's List."
+   },
+   {
+    "org": "Battleground Texas",
+    "role": "Advisory board member",
+    "category": "political",
+    "source_url": "https://www.influencewatch.org/person/amber-mostyn/",
+    "snippet": "InfluenceWatch lists Mostyn as an advisory board member of Battleground Texas and a founding member of the Texas Future Project."
+   },
+   {
+    "org": "Democracy Alliance",
+    "role": "Member (donor collective)",
+    "category": "political",
+    "source_url": "https://www.influencewatch.org/person/amber-mostyn/",
+    "snippet": "Listed as a member of the Democracy Alliance, a left-leaning donor collective, and active in efforts to shift Texas from Republican to Democratic control."
+   },
+   {
+    "org": "Texas Trial Lawyers Association",
+    "role": "Leadership positions",
+    "category": "business",
+    "source_url": "https://mostynlaw.com/amber-cares/",
+    "snippet": "Firm bio: \"She has held leadership positions in numerous organizations, including the Texas Trial Lawyers Association, Texas Democratic Party, Battleground Texas.\""
+   },
+   {
+    "org": "Mostyn Law Firm",
+    "role": "Co-founder and President",
+    "category": "business",
+    "source_url": "https://mostynlaw.com/amber-cares/",
+    "snippet": "Co-founder of Mostyn Law, a Houston personal injury and wrongful death firm; assumed leadership after her husband Steve Mostyn's death in 2017."
+   }
+  ]
+ },
+ {
+  "donor_id": "81aa44944d452868",
+  "name": "Dawson, Clint",
+  "resolved_employer": "University of Texas at Austin — Professor and Chair, Dept. of Aerospace Engineering and Engineering Mechanics; Director, Computational Hydraulics Group, Oden Institute",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Clint N. Dawson is a UT Austin professor (Cockrell Family Regents Chair in Engineering #2), department chair in Aerospace Engineering and Engineering Mechanics, and director of the Computational Hydraulics Group at the Oden Institute; his coastal storm-surge modeling work won the 2024 UT President's Research Impact Award. Corroborated by a prior FEC record listing 'Clint Dawson, The University of Texas at Austin, Professor' giving $1,000 to Obama Victory Fund 2012 from an Austin address — occupation, employer and city all match the filing (zip differs, consistent with an in-city move since 2011).",
+  "source_url": "https://www.ae.utexas.edu/people/faculty/faculty-directory/dawson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "87afe5e7cfeb7856",
+  "name": "Yeager, Jennifer",
+  "resolved_employer": "Modern Family Law (Senior Attorney, Austin office)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jennifer Rhea Yeager, Senior Attorney at Modern Family Law's Austin office; UT Austin B.A. 2002, South Texas College of Law Houston J.D. 2011, Texas bar 2011. Career: criminal law, then an Austin nonprofit serving crime victims, then prosecutor handling family violence and child abuse; founded her own juvenile/criminal-defense firm in 2024 and joined Modern Family Law in January 2026. Name + Austin + 'Attorney' + 'Modern Family Law' all match the filing, corroborated by State Bar of Texas listing. ZIP DISCREPANCY FLAGGED: filing ZIP 79723 is Coahoma/Big Spring in West Texas (Howard County), inconsistent with the 'Austin, TX' location string and with her documented Austin practice; her documented bar ties are Travis, Kerr, and Montgomery counties, so 79723 is most likely a filing data-entry error rather than a second person. FEC record-level retrieval was blocked (api.open.fec.gov DEMO_KEY HTTP 429, OpenSecrets HTTP 403); no ideological-PAC ties surfaced in web search.",
+  "source_url": "https://www.modernfamilylaw.com/our-attorneys/jennifer-yeager/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Elder Abuse Task Force",
+    "role": "Founding member",
+    "category": "civic",
+    "source_url": "https://www.modernfamilylaw.com/our-attorneys/jennifer-yeager/",
+    "snippet": "Her community involvement includes founding membership in the Travis County Elder Abuse Task Force."
+   },
+   {
+    "org": "Kerr County Bar Association",
+    "role": "President (2013-2014)",
+    "category": "business",
+    "source_url": "https://www.modernfamilylaw.com/our-attorneys/jennifer-yeager/",
+    "snippet": "Past presidency of the Kerr County Bar Association (2013-2014); active member of the Montgomery County and Kerr County Bar Associations, Texas Criminal Defense Lawyers Association, and Austin Criminal Defense Lawyers Association."
+   }
+  ]
+ },
+ {
+  "donor_id": "8f0e0a117bd431dc",
+  "name": "Banks, Kris",
+  "resolved_employer": "Harris County Precinct 2 (Deputy Chief of Staff, Public Affairs — office of Commissioner Adrian Garcia)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Kristopher A. Banks, Esq. — Deputy Chief of Staff for Public Affairs at Harris County Precinct 2, working on public policy and county operations for Commissioner Garcia. Previously Special Assistant on Government Relations to Houston Mayor Sylvester Turner. Longtime Houston LGBTQ+ political organizer: founded the Houston Stonewall Young Democrats and served as president of the Houston GLBT/LGBTQ+ Political Caucus in 2009-2010. Identity corroborated on three axes: name, Houston location, and the exact title/employer in the filing ('Deputy Chief of Staff' / 'Harris County'). FEC record-level retrieval was blocked (HTTP 429/403), so the pipeline's fields (47 donations, partisan lean 0.78) could not be broken out by committee; no ideological-PAC ties surfaced in web search. No Texas Ethics Commission lobbyist registration.",
+  "source_url": "https://www.thecaucus.org/about/caucus-presidents/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Houston LGBTQ+ Political Caucus",
+    "role": "President, 2009-2010",
+    "category": "political",
+    "source_url": "https://www.thecaucus.org/about/caucus-presidents/",
+    "snippet": "'Kristopher A. Banks, Esq.' is listed among caucus presidents for the 2009-2010 term."
+   },
+   {
+    "org": "Houston Stonewall Young Democrats",
+    "role": "Founder",
+    "category": "political",
+    "source_url": "https://www.visithoustontexas.com/lgbtq/post/vocal-local-kris-banks/",
+    "snippet": "Banks started an organization called the Houston Stonewall Young Democrats for LGBTQ people under 35, which segued into leadership roles with the Houston GLBT Political Caucus."
+   },
+   {
+    "org": "Office of Harris County Commissioner Adrian Garcia (Precinct 2)",
+    "role": "Deputy Chief of Staff, Public Affairs",
+    "category": "political",
+    "source_url": "https://www.hcp2.com/News/Blog/qa-with-precinct-2s-lesbia-mendieta-public-works-road-and-bridge-manager",
+    "snippet": "Deputy Chief of Staff role described as working to enact Commissioner Garcia's vision and goals regarding public policy and county operations for Precinct 2."
+   }
+  ]
+ },
+ {
+  "donor_id": "907d42d1ca6d3a5e",
+  "name": "Weiss, Robert",
+  "resolved_employer": "Self-employed attorney (per filing; not independently verified)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Could not confirm this specific individual. 'Robert Weiss' is a common name among Chicago attorneys and multiple distinct people surfaced — Robert M. Weiss (Barnes & Thornburg), Robert C. Weiss (VRM Law), Robert B. Weiss (business litigation), John Robert Weiss (Duane Morris). None is a self-employed solo practitioner and none could be tied to ZIP 60614 (Lincoln Park). The donor reports zero FEC donations, so there is no federal donation pattern available to disambiguate. Industry 'Legal' is a categorize-by-employer fallback resting solely on the self-reported occupation 'Lawyer' / employer 'Self-employed' in the filing itself. TX lobbyist registry searched, no match (donor is Illinois-based). Bio search run; no bio page identifiable as this person was located.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "913bb77daaa35ba6",
+  "name": "Garrison, Jessica",
+  "resolved_employer": "Linder Operating — Director (occupation/employer fields appear swapped in the filing)",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Field-swap confirmed as the likely reading: 'Linder Operating' is the employer and 'Director' the title. 'Linder Operating' most plausibly maps to Linder, John Operating Co., LLC — a confirmed Texas oil & gas operator (Railroad Commission operator #501130, Gladewater, TX), running 90+ leases across East Texas. HOWEVER, the person-to-company link is NOT adequately sourced and the oil_gas category is deliberately NOT applied. A search-result snippet described a 'Jessica Garrison, Senior Financial Operations Analyst at John Linder Operating, Longview, TX', but no verifiable profile page could be retrieved, the same search conflated it with an unrelated Jessica Garrison (an LA Times reporter), and both the city (Longview vs. Austin 78757) and the title (Senior Financial Operations Analyst vs. Director) conflict with the filing. The 'Energy / Environment' classification is a low-confidence employer fallback resting on the donor's self-reported employer string plus the RRC operator-name match — it should not be treated as a verified oil & gas affiliation. FEC record-level retrieval blocked (HTTP 429/403); pipeline fields show 4 donations at partisan lean 1.0, no energy-industry PAC ties surfaced. No Texas Ethics Commission lobbyist registration.",
+  "source_url": "https://www.texas-drilling.com/operators/linder-john-operating-co-llc/501130",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

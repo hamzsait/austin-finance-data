@@ -1,0 +1,343 @@
+[
+ {
+  "donor_id": "ed8235649dea1e17",
+  "name": "Pham, Tuan",
+  "resolved_employer": "PowerFin Partners (Founder & CEO)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Founder & CEO of PowerFin Partners, an Austin-based solar development/investment firm (~$150M of completed solar projects, incl. a 25-yr PPA with Austin Energy). Prior career: business development at HelioVolt (thin-film solar), energy/chemicals equity analyst at Morgan Stanley and Banc of America Securities, director at hedge fund Strategic Value Partners overseeing energy/industrials investments. Served on the City Council-appointed Austin Local Solar Advisory Committee. Zip 78703 and occupation/employer both match exactly.",
+  "source_url": "https://powerfinpartners.com/team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Local Solar Advisory Committee",
+    "role": "Member (City Council-appointed)",
+    "category": "civic",
+    "source_url": "https://powerfinpartners.com/team",
+    "snippet": "Served on the Austin Local Solar Advisory Committee, a City Council-appointed committee to devise a plan for citywide solar development."
+   }
+  ]
+ },
+ {
+  "donor_id": "eea349859d5b6b1c",
+  "name": "Mays, Michelle",
+  "resolved_employer": "Law Office of Michelle Mays (solo practitioner)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Michelle Lea Mays is a solo-practice criminal defense/DUI attorney in Austin (Law Office of Michelle Mays, 812 San Antonio St, Austin TX 78701; UT Law grad; 10+ years criminal defense experience). Occupation \"Attorney\" and employer \"Self\" match a solo practitioner exactly; only mismatch is the donor's residential zip (78745) vs. the firm's downtown office zip (78701), which is a normal home/office split, so identity is not fully certain given how common the name is.",
+  "source_url": "http://michellemayslaw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f01037328c9a5ddc",
+  "name": "Timmaraju, Rukmini",
+  "resolved_employer": "Reproductive Freedom for All (President & CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rukmini \"Mini\" Timmaraju has been President/CEO of Reproductive Freedom for All (formerly NARAL Pro-Choice America) since Nov. 2021 -- first woman of color to lead the org. J.D., University of Houston Law Center (1999); prior roles include Planned Parenthood (2008-13), chief of staff to Rep. Ami Bera, National Women's Vote Director for the 2016 Clinton campaign, DEI/external affairs director at Comcast/NBCUniversal, and senior adviser at the U.S. Office of Personnel Management under Biden. Zip (Takoma Park, MD), occupation \"President,\" and employer name match exactly.",
+  "source_url": "https://en.wikipedia.org/wiki/Mini_Timmaraju",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Reproductive Freedom for All",
+    "role": "President & CEO; registered federal lobbyist for the organization",
+    "category": "political",
+    "source_url": "https://www.opensecrets.org/federal-lobbying/lobbyists/summary?id=Y0000059272L&year=2024",
+    "snippet": "OpenSecrets federal lobbying-disclosure profile lists Mini Timmaraju as a lobbyist who has lobbied on behalf of Reproductive Freedom for All (1 client, 2025); the org itself reported $240,000 in federal lobbying spend in 2025."
+   }
+  ]
+ },
+ {
+  "donor_id": "f0b76b255965c874",
+  "name": "Fisher, Kenneth",
+  "resolved_employer": "Terra Constructs (Superintendent)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Terra Constructs is a Virginia/DC-area heavy-civil and federal/commercial construction firm that regularly hires for \"Construction Superintendent\" field roles, consistent with the donor's stated occupation/employer, but the company's published leadership-team page does not list a Kenneth Fisher (its executives are Babur Mian, Peter Bernat, Geoff Bambini, etc.), and no LinkedIn, obituary, licensing, or news profile could be found tying a specific Kenneth Fisher in Bowie, MD to Terra Constructs. Employer-fallback classification only; identity not independently corroborable beyond the stated occupation/employer.",
+  "source_url": "https://terraconstructs.com/about/leadership-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f3bd50c28740ead6",
+  "name": "Habig, Jill",
+  "resolved_employer": "Public Rights Project (Founder & President/CEO)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Attorney; Founder and President/CEO of Public Rights Project, a national nonprofit that partners with state/local government to enforce civil rights, economic justice, and environmental protection law. Prior career: Deputy Campaign Manager & Policy Director for Kamala Harris for U.S. Senate, Special Counsel to then-AG Harris, Lecturer at Yale Law and UC Berkeley Law. Oakland, CA address is consistent with her public bio.",
+  "source_url": "https://www.publicrightsproject.org/about/team/jill-habig/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f66ce885755da2a3",
+  "name": "Gutierrez, Yvonne",
+  "resolved_employer": "Reproductive Freedom for All (Executive Director; formerly Chief Strategy Officer)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Executive Director of Reproductive Freedom for All (formerly NARAL Pro-Choice America) as of 2026, first Latina to hold the role; previously the org's Chief Strategy Officer. Prior roles: first Executive Director of Planned Parenthood Texas Votes (5 years), Head of Community Engagement at Supermajority, Managing Director at Latino Victory Project, 14+ years at Planned Parenthood in Texas. Washington DC address consistent with the org's HQ. FEC search found no PAC-donation record tying her to AIPAC/UDP/J Street, NRA/gun-control PACs, oil & gas, or defense-contractor PACs; her advocacy focus (reproductive rights) is outside this pipeline's tracked Israel/Palestine, gun, oil/gas, and military-defense spectrums, so no affiliation entries apply.",
+  "source_url": "https://texassignal.com/texan-joins-major-reproductive-rights-group/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6f2fe57bc70270b",
+  "name": "Gamble, Katrina",
+  "resolved_employer": "Sojourn Strategies (Founder & CEO)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "PhD political scientist (Emory); Founder & CEO of Sojourn Strategies, a Black woman-owned social-impact consulting firm (founded 2016) serving left-progressive advocacy campaigns, research, and philanthropy on voting rights, democracy, and race/gender equity. Former Assistant Professor at Brown University (2005-2011); former Political Director at the Center for Popular Democracy. Washington DC address consistent with her public professional profile. No FEC PAC-contribution record or TX lobbyist registration found under this name (TEC lobbyist list contains a distinct 'Katrina E. Kamm', not this person); no ties found to AIPAC/UDP/J Street, NRA, oil & gas, or defense-contractor PACs.",
+  "source_url": "https://sojournstrategies.com/meet-katrina/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f81b10c3d7dad4c4",
+  "name": "Haley, Caroline",
+  "resolved_employer": "4HC Energy (Manager)",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Identity corroborated: a Caroline Haley at 2224 Parkway, Austin, TX 78703 (matching this donor's zip) is listed as a $450 contributor on 03/27/2025 in the Texas Ethics Commission July 2025 campaign finance report for Austin City Council District 5 member Ryan J. Alter (Filer ID 00090819), with principal occupation 'Manager' and employer '4HC Energy' -- confirming the '4HC' employer fragment in this donor's record is 4HC Energy. No independent corporate record (TX Secretary of State/OpenCorporates) or news coverage was found describing 4HC Energy's line of business (e.g., oil & gas exploration vs. mineral-rights management vs. other energy activity), and 'Manager' is not documented as an executive/board/ownership role, so no oil_gas affiliation is recorded per the instructions' bar for that category. No other public bio, board seat, or professional profile was found for this specific Caroline Haley beyond the TEC filing; a same-named Austin resident (Caroline Huddleston Haley, a commercial real estate/interior-design professional) surfaced in search but could not be confirmed as the same person, so that background is not used here.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=455344",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f9325f5001462dc8",
+  "name": "Suddaby, Iris",
+  "resolved_employer": "Travis County (Financial Analyst)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Austin/Travis County resident active with AFSCME Local 1624, the union representing Austin/Travis County government workers: listed on the union's Organizing Committee ('contact Iris, Alice Navarro, or Braden Latham-Jones') in 2025 general-membership-meeting minutes. A Ben Suddaby (same surname, likely spouse/family) is AFSCME Local 1624's elected Local President and has publicly spoken at Austin-area government meetings on the union's behalf. No independent confirmation of the exact 'Financial Analyst' title/department was found beyond the donor record itself, hence medium confidence.",
+  "source_url": "https://img1.wsimg.com/blobby/go/53da379b-954a-48d0-b5ff-d788af94887c/downloads/c80abe59-96b3-4e0d-859a-a1b6459246d4/2025_08_28_GM%20Minutes.pdf?ver=1769792256343",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AFSCME Local 1624",
+    "role": "Organizing Committee member",
+    "category": "civic",
+    "source_url": "https://img1.wsimg.com/blobby/go/53da379b-954a-48d0-b5ff-d788af94887c/downloads/c80abe59-96b3-4e0d-859a-a1b6459246d4/2025_08_28_GM%20Minutes.pdf?ver=1769792256343",
+    "snippet": "Organizing Committee ... group of members working on strategies for 1:1 organizing and conversations about joining the union at the City and the County ... contact Iris, along with Alice Navarro or Braden Latham-Jones."
+   }
+  ]
+ },
+ {
+  "donor_id": "f98dcb995008ffcf",
+  "name": "Acker-Lyons, Alexandra",
+  "resolved_employer": "AL Advising (President & Founder)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "President & Founder of AL Advising, a Denver-based boutique donor-advising firm for progressive/Democratic female philanthropists (zip 80238 Denver CO matches). 20+ year career in Democratic political operations: Director of the Youth Engagement Fund at the Democracy Alliance, Executive Director of Democratic GAIN and of Young Democrats of America, National Youth Outreach Director for the Kerry 2004 campaign/DNC, Assistant to the Chair at the DCCC, staffer for Rep. Nita Lowey (D-NY), and Campus Outreach Manager for Planned Parenthood Federation of America.",
+  "source_url": "http://www.aladvising.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Democracy Alliance",
+    "role": "Director, Youth Engagement Fund (former)",
+    "category": "political",
+    "source_url": "http://www.aladvising.com/about",
+    "snippet": "prior roles include stints as Director of the Youth Engagement Fund at the Democracy Alliance"
+   },
+   {
+    "org": "Planned Parenthood Action Fund",
+    "role": "Board member",
+    "category": "political",
+    "source_url": "http://www.aladvising.com/about",
+    "snippet": "Board Memberships: Alliance for Youth Power (Chair), Colorado Democracy Alliance, Planned Parenthood Action Fund, Planned Parenthood of the Rocky Mountains Action Fund, and Women Donors Network Action Fund"
+   },
+   {
+    "org": "Women Donors Network Action Fund",
+    "role": "Board member",
+    "category": "political",
+    "source_url": "http://www.aladvising.com/about",
+    "snippet": "Board Memberships: ... Women Donors Network Action Fund"
+   },
+   {
+    "org": "Electing Women Alliance",
+    "role": "Political Director",
+    "category": "political",
+    "source_url": "http://www.aladvising.com/about",
+    "snippet": "serves as the Political Director for the Electing Women Alliance, a network of 17 (and growing) giving circles focused on raising money for female candidates and closing the political giving gap"
+   }
+  ]
+ },
+ {
+  "donor_id": "fdf06d50528e0319",
+  "name": "Moledina, Ahmed",
+  "resolved_employer": "SOAL Technologies (President & CEO)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Founder, President & CEO of SOAL Technologies, an Austin-based IT/government-staffing firm at 8870 Business Park Dr Suite 200, Austin TX 78759 (matches donor zip 78759); nominated for Austin Business Journal 'Best CEO'. Also serves as a City of Austin Asian American Quality of Life Advisory Commission Commissioner and as past Chairman/Board Member of the Greater Austin Asian Chamber of Commerce (GAACC).",
+  "source_url": "https://www.austinchamber.com/member-news/soal-technologies-founder-and-ceo-ahmed-moledina-nominated-for-best-ceo-by-austin-business-journal",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Asian American Quality of Life Advisory Commission",
+    "role": "Commissioner",
+    "category": "civic",
+    "source_url": "https://bandc.crccheck.com/asian-american-quality-life-advisory-commission/2025-05-20/",
+    "snippet": "Ahmed Moledina serves as a Commissioner on the Asian American Quality of Life Advisory Commission"
+   },
+   {
+    "org": "Greater Austin Asian Chamber of Commerce (GAACC)",
+    "role": "Past Chairman / Board Member",
+    "category": "business",
+    "source_url": "https://www.facebook.com/GAACCAustin/posts/our-deepest-appreciation-and-congratulations-go-out-to-ahmed-moledina-gaacc-past/1298649992302890/",
+    "snippet": "our deepest appreciation and congratulations go out to Ahmed Moledina, GAACC past [chairman], ... years of leadership and service to the GAACC and the wider APPI community"
+   }
+  ]
+ },
+ {
+  "donor_id": "8af7c0b6f9b4df61",
+  "name": "Petricek, Cleo",
+  "resolved_employer": "Self-employed / Co-founder, Save Austin Now & Save Austin Now PAC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Co-founder (with Republican consultant Matt Mackowiak) of Save Austin Now and Save Austin Now PAC, the group behind 2021's Prop B homeless-camping-ban campaign and subsequent pro-police-funding advocacy; appointed by CLEAT (Combined Law Enforcement Associations of Texas) Executive Director Charley Wilkison to the Texas Commission on Law Enforcement (TCOLE) Advisory Committee in Nov. 2022. Self-describes as a lifelong Democrat and former probation officer/victim advocate; has written on Austin public-safety/homelessness policy for National Review, Austin American-Statesman, and The National Pulse. Zip 78735 Austin matches.",
+  "source_url": "https://www.saveaustinnow.com/meet-our-cofounder-cleo-petricek",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Save Austin Now / Save Austin Now PAC",
+    "role": "Co-founder",
+    "category": "political",
+    "source_url": "https://www.fox7austin.com/news/save-austin-now-community-leaders-make-public-safety-announcement",
+    "snippet": "Cleo Petricek is co-founder of both Save Austin Now and Save Austin Now PAC, alongside Matt Mackowiak."
+   },
+   {
+    "org": "Combined Law Enforcement Associations of Texas (CLEAT) / TCOLE Advisory Committee",
+    "role": "Appointed advisory committee member",
+    "category": "civic",
+    "source_url": "https://www.cleat.org/wilkison-appoints-petricek-tcole-advisory-committe/",
+    "snippet": "Wilkison, Executive Director of Combined Law Enforcement Associations of Texas, appointed Petricek to the Texas Commission on Law Enforcement (TCOLE) Advisory Committee ... 'a powerful supporter of Texas law enforcement.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "871579ccc0580f06",
+  "name": "Daugherty, Gerald",
+  "resolved_employer": "Retired; former Travis County Commissioner, Precinct 3 (2002-2008, 2013-2020, Republican); businessman — owner, Jack Allen's Kitchen restaurants and former owner, Pleasant Valley Sportsplex",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Zip 78735 matches the Austin home address (1403 Club Ridge Cove) on Gerald T. Daugherty's Texas Ethics Commission lobbyist registration, and occupation 'RETIRED' matches his December 2020 retirement from the Travis County Commissioners Court after 14 years as the county's sole Republican commissioner. He later became a restaurateur (Jack Allen's Kitchen) after decades as owner of Pleasant Valley Sportsplex. FEC/PAC-side searches (Club for Growth, NRA, Republican Party of Texas PAC, etc.) turned up general Republican-donor-space results but no specific PAC-board or PAC-leadership record tied to him personally beyond the existing 250-donation federal giving history already on file.",
+  "source_url": "https://ballotpedia.org/Gerald_Daugherty",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Republican Party (Travis County)",
+    "role": "Travis County Commissioner, Precinct 3, 2002-08 & 2013-2020; described in press coverage as 'Travis County's last Republican' commissioner",
+    "category": "political",
+    "source_url": "https://austinmonitor.com/stories/2020/01/gerald-daugherty-travis-countys-last-republican-fears-for-countys-fiscal-future/",
+    "snippet": "Headline/article: \"Gerald Daugherty, Travis County's last Republican, fears for county's fiscal future.\""
+   },
+   {
+    "org": "Texas Ethics Commission lobby registry (self-registered)",
+    "role": "Registered lobbyist, 2010-2011, listed at his Austin, TX 78735 home address, appearing under multiple subject-matter categories",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2010/sublob2010c.htm",
+    "snippet": "\"Daugherty, Gerald T.\" appears in the Texas Ethics Commission's 2010 lobby list sorted by subject matter, listed under categories including Insurance, Labor, Law Enforcement, Lawyers, Libraries, Malpractice-Health Care Providers, Mental Health & Mental Retardation, Military & Veterans, and Mines & Mineral Resources."
+   }
+  ]
+ },
+ {
+  "donor_id": "0f66675532eec5d6",
+  "name": "Petricek, Shea",
+  "resolved_employer": "Senior Director, Power Systems Engineering, Renesas Electronics (Austin)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "LinkedIn and ZoomInfo profiles for a Shea Petricek at Renesas Electronics in Austin match the donor's listed employer ('Renesas') and occupation ('ENGINEER'); a ~25-year power-electronics veteran holding multiple voltage-regulator patents. No independent zip-code corroboration found, and no FEC or Texas lobbyist record surfaced under this name (a similarly-spelled Texas lobbyist, 'Taylor, Shea P. (Mrs.)', is a different, unrelated individual). Categorize-by-employer fallback applied.",
+  "source_url": "https://www.linkedin.com/in/shea-petricek-71a30966/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a19f9a4d04c1ffd",
+  "name": "Levy, Michael",
+  "resolved_employer": "Founder and former publisher, Texas Monthly magazine, retired 2008 (retired)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Michael R. Levy founded Texas Monthly in 1973 and served as publisher until retiring in August 2008, matching the donor's 'RETIRED' occupation. The State Bar of Texas lists a Michael R. Levy at PO Box 146, Austin, TX 78767-0146 — an exact match to the donor's zip 78767 (a downtown Austin PO-box zip). A distinct 'Michael B Levy' found in FEC/OpenSecrets revolving-door records (DC-based investment banker/lobbyist) has a different middle initial and no Austin/Texas Monthly connection, so was not treated as the same person. No AIPAC/UDP/J Street, oil-gas, gun-lobby, or defense-contractor ties, and no Texas lobbyist registration, found under this name.",
+  "source_url": "https://en.wikipedia.org/wiki/Michael_R._Levy",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6256fac638666621",
+  "name": "Covo, Christopher & Amanda",
+  "resolved_employer": "President & Founder, Partners Commercial Cleaning, LLC (Austin, TX)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Company website, LinkedIn, and ZoomInfo confirm Chris Covo as President/Founder of Partners Commercial Cleaning, matching the donor's employer ('Partners Commercial Cleaning, LLC') and occupation ('PRESIDENT'). Prior to founding the company he was student body president at Texas State University (2009-10, per multiple secondary bios) and, per a 2010 Texas Senate committee witness-biography document filed under his name, served as Director of Young Americans for Prosperity in Texas. No affiliation found for spouse Amanda Covo specifically.",
+  "source_url": "https://www.partnersclean.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Young Americans for Prosperity",
+    "role": "Director, Young Americans for Prosperity (Texas)",
+    "category": "political",
+    "source_url": "https://senate.texas.gov/cmtes/81/c560/0819-ChristopherCovo.pdf",
+    "snippet": "Document titled \"Chris Covo, Director of Young Americans for Prosperity,\" filed as a witness biography with a Texas Senate committee (81st Legislature, committee c560), dated 2010."
+   }
+  ]
+ },
+ {
+  "donor_id": "84263eaacfc6508f",
+  "name": "Owens, Yvette",
+  "resolved_employer": "Texas Commission on Environmental Quality (TCEQ) — Contract Specialist",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Zip 78724 Austin, occupation \"CONTRACT SPECIALIST\" and employer \"TCEQ\" as self-reported on the campaign finance filing indicate a Texas state government employee (state environmental regulatory agency). No independent public profile (LinkedIn, bio page, news coverage) was found to further corroborate identity; a LinkedIn search for a Yvette Owens at TCEQ returned only an unrelated USPS employee of the same name. No FEC donations on record for this donor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ae327f495c18953b",
+  "name": "Hall, Kerry",
+  "resolved_employer": "Susser Bank — Board of Directors (formerly Executive Managing Director, Texas Capital Bank Regional Banking)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Zip 78735 Austin and employer \"Susser Bank\" match exactly. Kerry Hall joined Susser Bank's Board of Directors (announced by the bank); previously executive managing director overseeing Texas Capital Bank's Austin/Fort Worth/San Antonio regional banking. Named the Greater Austin Chamber of Commerce's 2025 Austinite of the Year. Extensive civic-board footprint but all mainstream economic-development/education/health nonprofits: Austin Area Research Organization task force lead, board member of Texas Alternatives Foundation, advisory board of Big Brothers Big Sisters of Central Texas, Champions Council of E3 Alliance, former board of Caritas of Austin and Visit Austin, former chair of American Heart Association Austin and of Opportunity Austin. FEC PAC-contribution and Texas Ethics Commission lobbyist searches run; no AIPAC/UDP/J Street, oil & gas, gun-lobby, or defense-contractor ties found, and the only TEC lobbyist name-match (\"Kerry N. Cammack\") is a different person. No policy-advocacy affiliation on the tracked spectrums was found in her civic bio.",
+  "source_url": "https://www.susserbank.com/susser-bank-announces-kerry-hall-as-a-new-board-member/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c6d82455020de1a2",
+  "name": "Searle, Michael",
+  "resolved_employer": "Searle Strategies (Austin public-affairs/political-consulting firm) — Founder & CEO; formerly aide to Austin City Council Member Ellen Troxclair (District 8)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Filing lists occupation/employer as \"SELF\"/\"CEO\" (fields appear swapped, i.e. self-employed CEO) — a distinctive match to Michael Searle, an Austin political consultant who founded and runs Searle Strategies, a public-affairs firm, after serving as an aide to conservative Council Member Ellen Troxclair. He headed \"Citizens for an Accountable Austin,\" the pro-Prop K PAC behind the 2018 city-efficiency-audit ballot measure, funded via roughly $137,000 from the dark-money nonprofit Austin Civic Fund, which he also led as Executive Director/chair; he declined to disclose the fund's donors, prompting a city Ethics Commission review of a possible dark-money-ordinance violation. Austin Chronicle describes him as a leader of ALEC's (American Legislative Exchange Council) local-government affiliate, which seeks partners to privatize municipal services. He also serves on the boards of the Austin Independent Business Alliance and Just Liberty (bipartisan criminal-justice reform) and on the City of Austin Tourism Commission. Identity confidence is medium: the CEO/self-employed occupation pairing is a strong, distinctive match to this public figure, but the Dripping Springs (78620) address was not independently corroborated in the sources found.",
+  "source_url": "https://www.austinchronicle.com/news/city-slickers-11675057/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "American Legislative Exchange Council (ALEC) — local-government affiliate",
+    "role": "Leader/local chapter head",
+    "category": "political",
+    "source_url": "https://www.austinchronicle.com/news/city-slickers-11675057/",
+    "snippet": "Searle is a leader of ALEC's local-government affiliate, which aims to find partners who will \"privatize historically municipal services.\""
+   },
+   {
+    "org": "Citizens for an Accountable Austin PAC / Austin Civic Fund",
+    "role": "PAC head / Executive Director (chair of the funding nonprofit)",
+    "category": "political",
+    "source_url": "https://www.austinchronicle.com/news/city-slickers-11675057/",
+    "snippet": "Michael Searle is the head of the pro-Prop K political action committee Citizens for an Accountable Austin... a nonprofit called Austin Civic Fund handed over $137,080 to the PAC... Searle has shielded the identities of donors to the Civic Fund."
+   }
+  ]
+ },
+ {
+  "donor_id": "ff165ae0f3d72e8a",
+  "name": "Aleshire, Bill",
+  "resolved_employer": "AleshireLAW PC — Owner/Attorney (government-accountability & open-records law); former Travis County Tax Assessor-Collector (1980–85) and former Travis County Judge (1987–98)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Zip 78739 Austin and employer \"AleshireLAW PC\" match exactly a well-documented local public figure. Bill Aleshire is a former Travis County Tax Collector and former Travis County Judge who opened his solo firm AleshireLAW PC in 2015, focused on government-transparency and open-records litigation; he volunteers as a hotline attorney for the Freedom of Information Foundation of Texas and received that organization's 2025 James Madison Award for decades of open-government advocacy. Recent work includes a successful Texas Open Meetings Act challenge to Hays County's 2024 $439M road-bond election. FEC PAC-contribution, Texas Ethics Commission lobbyist, and topic-specific searches (AIPAC, oil & gas, NRA/guns, defense contractors) returned no matches for this person on any of the tracked policy spectrums.",
+  "source_url": "https://foift.org/2025/09/03/attorney-and-former-county-judge-bill-aleshire-to-receive-james-madison-award/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

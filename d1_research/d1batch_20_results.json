@@ -1,0 +1,230 @@
+[
+ {
+  "donor_id": "4ba267f346976b30",
+  "name": "Kellee, Coleman",
+  "resolved_employer": "City of Austin – Equity Office (Equity Process Consultant / interim Equity Officer)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A Kellee Coleman is identified via LinkedIn and the City of Austin staff directory as an Equity Process Consultant / interim officer in the City of Austin's Equity Office. Occupation 'Manager' and employer 'City of Austin' on the donation record are consistent with this public city-staff profile, though the donor's 78748 zip could not be independently corroborated against a public address.",
+  "source_url": "https://www.linkedin.com/in/kelleecoleman/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a42433bdd587445",
+  "name": "Brad, Massingill",
+  "resolved_employer": "Self-employed (occupation self-listed as 'Hellraiser')",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be confidently matched to this donor at zip 78745. The self-reported occupation 'Hellraiser' is not a formal job title. FEC, Texas Ethics Commission, and general web searches surfaced several unrelated same-named individuals (an Austin-based musician, a LinkedIn 'Business Analysis Consultant', and an unrelated Massingill-surnamed Austin law firm), none of which could be corroborated as this specific donor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f35c89c559d66d27",
+  "name": "Rachael, Shannon",
+  "resolved_employer": "The Blanton Museum of Art (Contract Preparator & Art Handler)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Rachael Shannon's personal portfolio/CV site (rachaelshannon.com) confirms she has worked as a Contract Preparator & Art Handler at the Blanton Museum of Art (a unit of The University of Texas at Austin) since 2018, matching the donation record's employer field 'The Blanton Museum of Art' and occupation 'Art Preparator', with zip 78702 consistent with an Austin arts-sector worker.",
+  "source_url": "https://www.rachaelshannon.com/pagecv",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fb4cc1b690de5c11",
+  "name": "Statia, Paschel",
+  "resolved_employer": "Austin Independent School District (Director, Social Emotional Learning & Cultural Proficiency/Inclusiveness; previously Director, Strategic Planning & Organizational Effectiveness)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "LinkedIn and ZoomInfo confirm Statia Paschel as Director of Social Emotional Learning and Cultural Proficiency & Inclusiveness at Austin ISD (an 18-year Austin-area educator, previously Director of Strategic Planning & Organizational Effectiveness), matching the donation record's employer 'Austin ISD' and occupations 'Educator'/'Director'; zip 78724 is consistent with an Austin resident.",
+  "source_url": "https://www.linkedin.com/in/statia-paschel-4041754a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "008f9ae5ed639b66",
+  "name": "Fields, Chris Melody",
+  "resolved_employer": "Ballot Initiative Strategy Center (BISC) — Executive Director since June 2018",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Identity confirmed as Chris Melody Fields Figueredo, Executive Director of the Ballot Initiative Strategy Center, a Washington DC-based nationwide ballot-measure advocacy nonprofit that explicitly organizes around a progressive/racial-equity mission. Zip 20011 (Washington, DC) matches her stated residence. No board seats, PAC leadership, or lobbyist registration found beyond her BISC role.",
+  "source_url": "https://ballot.org/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "00e487391f3ff142",
+  "name": "Tejeda, Alexander",
+  "resolved_employer": "99 Ways Entertainment — Content Producer / Filmmaker",
+  "industry": "Entertainment",
+  "confidence": "medium",
+  "evidence": "LinkedIn and ZoomInfo records show an Alexander Tejeda working as Content Producer/Filmmaker at 99 Ways (Entertainment), based in New York, matching the employer string \"99 Ways\" and occupation \"Producer.\" Zip 11221 (Brooklyn) is consistent with a New York-based profile but not independently confirmed to the specific neighborhood. No policy-advocacy, PAC, or lobbyist footprint found.",
+  "source_url": "https://www.linkedin.com/in/alexander-tejeda-4ba1b818/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "076e2be7082a1296",
+  "name": "Floyd, Kyle",
+  "resolved_employer": "Redbird Realty LLC (Selma/San Antonio, TX) — REALTOR",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Multiple public profiles (LinkedIn, HAR.com, Facebook, Instagram) confirm Kyle Floyd as a licensed REALTOR with Redbird Realty LLC in the San Antonio metro area, matching employer string and zip 78247. Checked Texas Ethics Commission lobbyist rolls — no registration found under this name. Checked for TREPAC (Texas REALTORS PAC) contribution/leadership records via OpenSecrets and web search — found only the general TREPAC donor/trustee pages, no record naming Kyle Floyd as a contributor, trustee, or officer. No real-estate-development or brokerage-ownership role found (he is a line agent, not a broker/principal).",
+  "source_url": "https://www.har.com/kyle-floyd/agent_sabortx-735975",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0815ef19e09c3451",
+  "name": "Romero, Ruben",
+  "resolved_employer": "G&M Electric Services (Plano, TX / DFW metro) — General Superintendent",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "G&M Electric Services' company \"our story\" page names Ruben Romero as General Superintendent, having progressed from apprentice over 15+ years of electrical-construction experience; the firm serves the DFW metro area (based in Plano, TX), consistent with donor's Mesquite, TX 75150 location and employer string \"G&M Electric.\" No lobbyist registration, PAC donor record, or policy-advocacy affiliation found.",
+  "source_url": "https://www.gmelectricservices.com/our-story/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0883e410713a5ed1",
+  "name": "Kenyon, Karisa",
+  "resolved_employer": "Self-employed leadership/executive coach (Klarity Coaching)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Austin, TX-based Certified Professional Co-Active Coach (CPCC) who runs the solo coaching practice Klarity Coaching; LinkedIn profile lists Austin, Texas Metropolitan Area, consistent with donor zip 78701. No board seats, PAC activity, or policy-advocacy affiliations surfaced.",
+  "source_url": "https://www.linkedin.com/in/karisa-kenyon-9b9408/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "09e000bc3c206fe9",
+  "name": "Floyd, Stephanie",
+  "resolved_employer": "Pediatrix Medical Group — Director, Marketing",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "ZoomInfo and LinkedIn confirm Stephanie Floyd as Director of Marketing at Pediatrix Medical Group, matching employer string \"PEDIATRIX\" and San Antonio-area location (zip 78247). Same surname and zip code as donor Kyle Floyd (076e2be7082a1296), consistent with a household/spousal pair, though no public record (news, filing, or bio) explicitly confirms a marital or family relationship between the two — noted as a plausible but unconfirmed household match. No policy-advocacy, PAC, or lobbyist footprint found.",
+  "source_url": "https://www.zoominfo.com/p/Stephanie-Floyd/9458603660",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "09f6f314326b8e0e",
+  "name": "Longoria, Raul",
+  "resolved_employer": "Community Canvasser, Workers Defense Project (Austin-based immigrant/construction-worker labor-rights organization)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Raul \"Neto\" Longoria: LBJ School of Public Affairs MPAff graduate (2025), former Austin ISD bilingual special-education teacher, now a Community Canvasser for Workers Defense Project (a labor/worker-rights advocacy nonprofit) and a 2026 Democratic candidate for Texas State Board of Education District 5. Zip 78704, occupation, and employer all corroborate the LinkedIn/Ballotpedia profile. No AIPAC/J Street, oil & gas, gun-lobby, military-defense, or TX-lobbyist-registry ties found in any of the three searches; his own SBOE candidacy and Workers Defense Project role are labor/education advocacy, not one of the tracked spectrum categories.",
+  "source_url": "https://ballotpedia.org/Neto_Longoria",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a07e8af39ca7043",
+  "name": "Powenski, Stephen",
+  "resolved_employer": "Retired higher-education administrator and athletic coach (specific institution not identifiable; retired)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "No public LinkedIn profile, news article, university staff directory, or obituary could be matched to a 'Stephen Powenski' with a higher-ed administration/athletics career in or near Calumet Park, IL (zip 60827). The only public trace is a generic LinkedIn account with no visible work history. Classification rests on the donor's self-reported occupation/employer fields alone (categorize-by-employer fallback).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0bb88afa16b7e39b",
+  "name": "Ramos, Jacqueline A",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public professional profile, news mention, lobbyist registration, or PAC record could be confidently matched to a Jacqueline Ramos at zip 78748 in Austin; the name is common and multiple unrelated Jacqueline Ramoses (SF Bay Area educator, DoD/CNAS defense-policy analyst, Louisville student activist) surfaced but none corroborate this donor's location. Occupation is self-reported as unemployed with no employer; categorize-by-employer fallback applied.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f3bb7753be1fbe2",
+  "name": "Evans, Roxanne",
+  "resolved_employer": "Retired journalist/communications professional (retired) — Austin American-Statesman (first Black member of the editorial board / Chief Editorial Writer), deputy press secretary to Gov. Ann Richards, PR Director for the Texas Federation of Teachers, Chief Communications Officer for DC Public Schools, communications staff at Austin ISD and City of Austin",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Long-time East Austin resident (zip 78723 matches); prominent former Austin journalist and PR professional — became the first Black editorial-board member/Chief Editorial Writer at the Austin American-Statesman in the 1980s, later deputy press secretary for Texas Governor Ann Richards, PR Director for the Texas Federation of Teachers, and Chief Communications Officer for DC Public Schools. Ran for Austin ISD District 1 trustee in 2022 (campaign finance report on file with AISD) and serves on the board of the Austin History Center Association. No AIPAC/J Street, oil & gas, gun-lobby, military-defense ties, or TX lobbyist registration found; her PR role for the Texas Federation of Teachers (a teachers' labor union) is noted but is not one of the tracked spectrum categories.",
+  "source_url": "https://www.austinchronicle.com/news/2022-06-10/former-statesman-reporter-announces-bid-for-aisd-board/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f97f66e79f8dc34",
+  "name": "Paschel, Statia",
+  "resolved_employer": "Austin Independent School District (Director, Social Emotional Learning & Cultural Proficiency/Inclusiveness; previously Director, Strategic Planning & Organizational Effectiveness)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Same individual as donor fb4cc1b690de5c11 (name order flipped in the source record). LinkedIn and ZoomInfo confirm Statia Paschel as Director of Social Emotional Learning and Cultural Proficiency & Inclusiveness at Austin ISD, matching the donation record's employer 'Austin ISD' and occupation 'Director'; zip 78724 is consistent with an Austin resident.",
+  "source_url": "https://www.linkedin.com/in/statia-paschel-4041754a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0fbd28057008b6a8",
+  "name": "Hill, Todd",
+  "resolved_employer": "Urban Institute (Housing Finance Policy Center) — Director, Policy and Programs, Housing and Communities Division",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Occupation 'Director' + employer 'Urban Institute' match his public Urban Institute bio exactly: Todd Hill (Hill-Jones) is Director, Policy and Programs, Housing and Communities Division, leading the Housing Finance Policy Center. He returned to Urban Institute in May 2022 after 3 years at Noodle (ed-tech); before that he spent 6 years as senior director of government affairs at the Housing Policy Council, a mortgage/housing-finance industry trade association, lobbying on housing-finance policy in Washington, DC. Urban Institute is DC-headquartered; the donor's listed location (St. Paul, MN 55101) is plausible as remote/home address but not independently confirmed — no distinct organization literally named 'Urban Institute' based in St. Paul was found (a separate St. Paul-based lobbyist also named 'Todd Hill,' of Hill Capitol Strategies, was checked and ruled out as a mismatch since his employer is not 'Urban Institute'). His high FEC donation count (155) and near-even partisan lean are consistent with a Washington housing-finance-industry government-affairs professional who gives to officials on both sides of housing/finance committees, but no FEC record could be independently verified (FEC.gov/OpenFEC API was rate-limited during research).",
+  "source_url": "https://www.urban.org/author/todd-m-hill-jones",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Housing Policy Council",
+    "role": "Senior Director, Government Affairs (~2016–2019)",
+    "category": "business",
+    "source_url": "https://www.urban.org/author/todd-m-hill-jones",
+    "snippet": "\"Todd served six years as senior director of government affairs with the Housing Policy Council, where he advocated on key mortgage and housing finance marketplace interests in legislative, regulatory, and judicial forums.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "111b13c0b04c37bd",
+  "name": "Bidner, Zachary",
+  "resolved_employer": "Law Office of Zachary Bidner, PLLC (solo criminal defense practice), Austin, TX 78701",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Zachary Seth Bidner is a solo criminal defense attorney at 818 W 10th St Ste A, Austin, TX 78701 — matches donor zip exactly. UT Austin 2010, University of Oklahoma College of Law 2013; licensed in Texas and New Mexico; former prosecutor in New Mexico and Travis County before founding his own criminal-defense practice (DWI, cannabis law, felonies). No Texas Ethics Commission lobbyist registration found under this name, and no FEC PAC contribution record was found.",
+  "source_url": "https://www.bidnerlawfirm.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "12aa266257067bce",
+  "name": "Hootnick, Adam",
+  "resolved_employer": "Resonance Story Company (founder) — documentary filmmaker/director, Austin, TX 78756",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Adam Hootnick is an Austin-based documentary filmmaker (Harvard College, Harvard Law School) who founded Resonance Story Company, a branded-documentary production house. Former NBC/MSNBC news producer; directed ESPN 30-for-30 films ('What Carter Lost,' 'Judging Jewell') and 'Son of the Congo.' His first feature, 'UNSETTLED,' followed young Israelis across the political/religious spectrum during the 2005 Gaza withdrawal and won the Slamdance Grand Jury Prize — this is journalistic/filmmaking work, not membership or leadership in an advocacy organization, so it is not recorded as a policy affiliation per the instructions. No board membership, PAC donation record, or TEC lobbyist registration found under this name.",
+  "source_url": "https://www.adamhootnick.com/bio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "138468b4f2eb4245",
+  "name": "Allen, Evelyn",
+  "resolved_employer": "Baylor Scott & White Health (RN)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Common name; no individually identifiable public profile (LinkedIn, news, org bio) could be found for an RN named Evelyn Allen at a Baylor Scott & White facility in the Mesquite, TX area. No TEC lobbyist registration or FEC PAC contribution record found. Categorize-by-employer fallback per instructions: classified as Healthcare on the self-reported occupation/employer alone.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "13e7ba8850b01623",
+  "name": "Tisdale, Allison",
+  "resolved_employer": "The Hull Firm — Managing Partner, Austin, TX 78749",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Allison Tisdale is Managing Partner at The Hull Firm, an Austin/Travis County criminal-defense (DWI-focused) practice founded by Mark Hull; she joined in March 2021. Previously an Assistant Travis County District Attorney / Assistant County Attorney (chief misdemeanor prosecutor, special prosecutor for blood-DWI cases, DWI Diversion Court representative), named Travis County 'Prosecutor of the Year' in 2016. The Hull Firm is confirmed to be a criminal-defense law firm, not a lobbying or government-relations firm (per the firm's own site and general Austin lobby-firm listings, which list separate firms like The Posey Law Firm for that role). No Texas Ethics Commission lobbyist registration or FEC PAC contribution record found under her name.",
+  "source_url": "https://thehullfirm.com/about/allison-tisdale/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

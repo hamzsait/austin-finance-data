@@ -1,0 +1,486 @@
+[
+  {
+    "donor_id": "2e68d9e180dd0847",
+    "name": "Robinson, John",
+    "resolved_employer": "Capitol Services, Inc. (Austin corporate/registered-agent and lien-services firm) — co-founder and President",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Occupation 'President' + employer 'Capitol Services, Inc.' match John H. Robinson, JD (UT Law 1977), co-founder and President of Capitol Services, Inc., an Austin firm founded 1978 providing corporate, registered-agent, UCC and lien services; he retired when Clearview Capital invested in the company in April 2023, consistent with him still being President at the Sept. 2022 gift date. Zip is blank in the filing and 'John Robinson' is a very common name, so the ID rests on the employer/title match rather than address; the fec_donation_count of 2,190 is a common-name aggregation artifact and cannot be attributed to this individual.",
+    "source_url": "https://www.capitolservices.com/our-story/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Capitol Services, Inc.",
+        "role": "Co-founder and President",
+        "category": "business",
+        "source_url": "https://www.linkedin.com/in/john-robinson-4562656/",
+        "snippet": "Public professional profile lists John Robinson as 'Co-founder, Capitol Services, Inc.' in Austin, Texas, in the legal services industry; the company's own site states it began operations in Austin in 1978 offering 'a comprehensive range of corporate, registered agent, and lien services.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "583cfd5e3cb32a4c",
+    "name": "Kolker, Thomas",
+    "resolved_employer": "Law Office of Thomas L. Kolker — solo attorney, court-appointed receivership practice",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Thomas L. Kolker, licensed in Texas since 1977, is a solo practitioner whose State Bar / directory listings give his address in Austin 78722 — an exact zip match, and consistent with occupation 'Lawyer' / employer 'Self'. The same address is the law office of Virginia Marie Raymond, who made an identical $400 gift to Anderson on the same date, corroborating a shared household. FEC search returned no federal PAC contributions (consistent with fec_donation_count 0); no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.thomaskolkerlaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5d8cc638b0e45389",
+    "name": "Witte, Tracy",
+    "resolved_employer": "Self-employed (occupation reported as 'Researcher'); civic role as Swede Hill Neighborhood Association president",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "A Tracy Witte in zip 78702 is documented in Austin Chronicle coverage as president of the Swede Hill Neighborhood Association and secretary of the Organization of Central East Austin — Swede Hill sits inside 78702, corroborating the filing's zip and Central East Austin location. The reported occupation 'Researcher / Self employed' could not be tied to a specific field or institution (the academic Tracy K. Witte is a psychology professor at Auburn University and is a different person). FEC and Texas Ethics Commission lobbyist searches returned no matches; the reported fec_donation_count of 12 could not be attributed to specific committees from public search.",
+    "source_url": "https://www.austinchronicle.com/news/2010-04-02/988307/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Swede Hill Neighborhood Association",
+        "role": "President",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/news/2010-04-02/988307/",
+        "snippet": "Austin Chronicle quotes 'Tracy Witte, Swede Hill Neighborhood Association President' urging Council to acknowledge that the Austin Revitalization Authority's 'flawed business plan has [led] to a misplaced priority on managing ARA's debt rather than on revitalizing the area.'"
+      },
+      {
+        "org": "Organization of Central East Austin",
+        "role": "Secretary",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/news/2009-08-28/826423/",
+        "snippet": "Austin Chronicle coverage of the East 11th/12th Street urban-renewal debate identifies Tracy Witte with the Swede Hill neighborhood and the Organization of Central East Austin: 'We're not interested in creating a medical corridor. We're interested in creating a vibrant, mixed-use corridor.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "604c668721b276be",
+    "name": "Raymond, Virginia",
+    "resolved_employer": "Law Office of Virginia Marie Raymond — solo immigration and civil-rights attorney; also teaches composition and literature at Austin Community College",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Virginia Marie Raymond (JD, PhD; Texas bar since 1985) is a solo immigration and civil-rights practitioner in Austin 78722 — an exact zip match, consistent with occupation 'lawyer' / employer 'self-employed'. Her office address is shared with Thomas L. Kolker, who made an identical $400 gift to Anderson on the same date, corroborating a shared household. FEC PAC search surfaced no ideological-PAC contributions attributable to her (fec_donation_count 88 could not be resolved to specific committees via public search); no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "http://www.oralhistoryforsocialchange.org/blog/2014/5/12/virginia-raymond",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas After Violence Project",
+        "role": "Director, 2007-2011",
+        "category": "civic",
+        "source_url": "http://www.oralhistoryforsocialchange.org/blog/2014/5/12/virginia-raymond",
+        "snippet": "Published bio states that between August 2007 and August 2011 Raymond directed the Texas After Violence Project, 'an independent, non-profit narrative and human rights organization' documenting the experiences of people affected by serious violence, jails and prisons."
+      },
+      {
+        "org": "Texas Jail Project",
+        "role": "Affiliated (listed in published bio)",
+        "category": "civic",
+        "source_url": "http://www.oralhistoryforsocialchange.org/blog/2014/5/12/virginia-raymond",
+        "snippet": "Her bio lists the Texas Jail Project among the social-justice organizations she has been involved with; the bio also notes she taught literacy at the Travis County Jail for seven years."
+      },
+      {
+        "org": "ADAPT of Texas",
+        "role": "Affiliated (listed in published bio)",
+        "category": "civic",
+        "source_url": "http://www.oralhistoryforsocialchange.org/blog/2014/5/12/virginia-raymond",
+        "snippet": "Bio lists ADAPT of Texas, a disability-rights organization, among the groups Raymond has worked with over a career in social-justice work dating to 1975."
+      },
+      {
+        "org": "La Pena",
+        "role": "Affiliated (listed in published bio)",
+        "category": "civic",
+        "source_url": "http://www.oralhistoryforsocialchange.org/blog/2014/5/12/virginia-raymond",
+        "snippet": "Bio lists La Pena, an Austin Latina/o arts organization, among the organizations Raymond has been involved with; it also notes she 'started a legal services office for low-income refugees and immigrants that has served thousands of people since 1987.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "88363baccc55312b",
+    "name": "Searle , Michael",
+    "resolved_employer": "Aro Group, LLC (Austin political-consulting/public-affairs firm); publicly documented as founder of Searle Strategies, LLC and former Executive Director of the Austin Civic Fund",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Michael Searle is a documented Austin political consultant and former City Hall staffer: aide/chief of staff to District 8 Council Member Ellen Troxclair, then head of the pro-Prop K PAC Citizens for an Accountable Austin and of the nonprofit Austin Civic Fund that funded it, and a City of Austin Tourism Commission appointee. The filing's 'CEO / Aro Group, LLC' is consistent with a political-consulting LLC ('The Aro Group Limited Liability Company' is registered in Austin, TX), but the direct link between the filing's employer string and this individual is not independently corroborated, and the 78745 zip was not confirmed against a public address — hence medium rather than high. FEC individual-contribution search returned no ideological-PAC giving (pro-Israel, pro-Palestine, gun, oil & gas, or defense); no Texas Ethics Commission lobbyist registration found under Searle, Aro Group, or Searle Strategies.",
+    "source_url": "https://www.austinchronicle.com/news/2018-10-12/city-slickers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Citizens for an Accountable Austin (political action committee)",
+        "role": "Head / organizer",
+        "category": "political",
+        "source_url": "https://www.austinchronicle.com/news/2018-10-12/city-slickers/",
+        "snippet": "\"The pro-Prop K political action committee Citizens for an Accountable Austin is headed by Michael Searle, former aide to District 8 Council Member Ellen Troxclair.\""
+      },
+      {
+        "org": "Austin Civic Fund",
+        "role": "Executive Director / head of the nonprofit",
+        "category": "civic",
+        "source_url": "https://www.austinchronicle.com/news/2018-10-12/city-slickers/",
+        "snippet": "Searle heads the nonprofit Austin Civic Fund, which distributed approximately $137,000 to the Prop K effort; he told the Chronicle, \"We operate in compliance with all laws, and do not disclose private donors to our fund.\""
+      },
+      {
+        "org": "Office of Austin City Council Member Ellen Troxclair (District 8)",
+        "role": "Council aide / chief of staff (former)",
+        "category": "political",
+        "source_url": "https://www.austinmonitor.com/stories/2019/02/harper-madison-removing-four-commissioners/",
+        "snippet": "\"Searle, who was an aide to former Council Member Ellen Troxclair... After he left Troxclair's office, Searle got involved with a political action committee funding Proposition K.\""
+      },
+      {
+        "org": "City of Austin Tourism Commission",
+        "role": "Commissioner (removed in 2019 reshuffle)",
+        "category": "civic",
+        "source_url": "https://www.austinmonitor.com/stories/2019/02/harper-madison-removing-four-commissioners/",
+        "snippet": "\"Michael Searle of the Tourism Commission. All three are on a list under 'removal of members'.\""
+      },
+      {
+        "org": "Searle Strategies, LLC",
+        "role": "Founder & CEO / Lead Strategist",
+        "category": "business",
+        "source_url": "https://www.searlestrategies.com/about",
+        "snippet": "Firm 'about' page describes Michael Searle as building Searle Strategies after \"years of managing high-stakes policy and corporate campaigns across Texas and the United States\"; services span Corporate & Brand Strategy, Marketing & Public Relations, and Public Affairs & Policy."
+      }
+    ]
+  },
+  {
+    "donor_id": "b61e2105cbd90363",
+    "name": "Filo, John",
+    "resolved_employer": null,
+    "industry": "Engineering",
+    "confidence": "low",
+    "evidence": "Could not confirm this specific individual. The filing self-reports occupation 'Engineer' with employer 'TBD' at zip 78702 (East Austin), and the donor has zero federal contribution records. Multiple unrelated people named John Filo exist (including the Pulitzer-winning Kent State photographer and several non-Texas LinkedIn profiles); no Austin-area profile could be corroborated by zip, employer, or donation pattern. Industry recorded only as the categorize-by-employer fallback from the self-reported occupation on the filing. FEC individual-contribution search: no records. Texas Ethics Commission lobbyist registry: no Filo registrant. No bio page attributable to this donor was found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db3f2a324f674202",
+    "name": "Hunziker, J Emil",
+    "resolved_employer": "Not employed",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Identity is strongly corroborated: FEC-derived individual-contribution listings show 'J EMIL HUNZIKER (NOT EMPLOYED), (Zip code: 78751)' making repeated small-dollar ActBlue contributions, exactly matching the filing's name, zip 78751, and 'Not Employed' occupation, and consistent with the high federal donation count (278). His federal giving pattern is small-dollar Democratic. FEC search surfaced no contributions to AIPAC/United Democracy Project, DMFI, J Street PAC, pro-Palestine, NRA or other gun-rights, gun-control, oil & gas, or defense-contractor PACs. No Texas Ethics Commission lobbyist registration found. A public LinkedIn headline for a 'J Emil Hunziker' in Austin reads 'Retired at Lockheed Martin', but the match is name-and-city only and indicates no executive, board, ownership, or lobbying role, so it is not recorded as a military_defense affiliation.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part66.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e808472a79e952ff",
+    "name": "Gruber, John",
+    "resolved_employer": "Human Rights Campaign (HRC) — Director of National Campaigns",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "John Gruber is publicly identified in 2024-2025 news coverage as Director of National Campaigns at the Human Rights Campaign, the national LGBTQ+ advocacy and lobbying organization headquartered in Washington, DC — matching the filing's occupation 'Campaign Director', employer 'HRC', and Washington DC 20010 address. He is staff-level, not listed among HRC's executive team, senior leadership, or board. FEC individual-contribution search found no contributions to pro-Israel, pro-Palestine, gun-rights, gun-control, oil & gas, or defense-contractor PACs; the small federal donation count (5) is consistent with routine individual giving. Texas Ethics Commission lobbyist registry: no Gruber registrant (he is DC-based).",
+    "source_url": "https://thebuckeyeflame.com/2024/10/30/a-final-push-to-get-lgbtq-ohioans-to-go-vote-listen/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Human Rights Campaign (HRC)",
+        "role": "Director of National Campaigns",
+        "category": "political",
+        "source_url": "https://thebuckeyeflame.com/2024/10/30/a-final-push-to-get-lgbtq-ohioans-to-go-vote-listen/",
+        "snippet": "Described in the article as the \"director of national campaigns at the Human Rights Campaign (HRC)\" and \"an Ohio native,\" discussing HRC's electoral mobilization of LGBTQ+ voters."
+      }
+    ]
+  },
+  {
+    "donor_id": "efd5a8a4e7bfddb5",
+    "name": "Houston, Ora",
+    "resolved_employer": "Retired — former Austin City Council Member, District 1 (2015-2019); previously 27 years with the Texas Department of Mental Health and Mental Retardation, and staff for Texas Sen. Gonzalo Barrientos (1999-2003)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Ora Houston is the first person to hold the Austin City Council District 1 seat (2015-2019), a lifelong resident of the Blackland neighborhood in East Austin (zip 78722). Occupation 'Retired' and the 78722 zip match her documented residence; her $400 gift to Steven Brown is in the District 1 seat she formerly held. No FEC ideological-PAC contributions and no Texas Ethics Commission lobbyist registration surfaced.",
+    "source_url": "https://ballotpedia.org/Ora_Houston",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin City Council (District 1)",
+        "role": "Council Member, 2015-2019",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Ora_Houston",
+        "snippet": "Ora Houston was a member of the Austin City Council representing District 1 from 2015 to 2019; elected December 16, 2014 and sworn in January 6, 2015."
+      },
+      {
+        "org": "Austinites for Geographic Representation",
+        "role": "Founding member and leader",
+        "category": "civic",
+        "source_url": "http://www.oraatx.com/about-ora",
+        "snippet": "Founding member and leader of the group that 'drove geographic representation into Austin city government via a citizens petition and initiative' (the 10-1 district system)."
+      },
+      {
+        "org": "NAACP",
+        "role": "Life member",
+        "category": "civic",
+        "source_url": "http://www.oraatx.com/community-resume",
+        "snippet": "Community resume lists current involvement including life membership in the NAACP."
+      },
+      {
+        "org": "Family ElderCare",
+        "role": "Board Member and Board Secretary",
+        "category": "civic",
+        "source_url": "http://www.oraatx.com/community-resume",
+        "snippet": "Community resume lists service as Board Member and Board Secretary of Family ElderCare, and volunteer representative to the board at SafePlace Center for Domestic Violence."
+      },
+      {
+        "org": "Imagine Austin Comprehensive Plan Citizens Advisory Task Force; Travis County Model Court for Children and Families; Upper Boggy Creek Neighborhood Planning Team",
+        "role": "Task force member; collaborative council member; vice-chair",
+        "category": "civic",
+        "source_url": "http://www.oraatx.com/about-ora",
+        "snippet": "Board memberships and commissions listed on her bio page: Citizens Advisory Task Force of the Imagine Austin Comprehensive Plan; collaborative council of the Travis County Model Court for Children and Families; vice-chair, Upper Boggy Creek Neighborhood Planning Team."
+      }
+    ]
+  },
+  {
+    "donor_id": "226d58d0bff6ddc4",
+    "name": "Jasrotia, Vikrant",
+    "resolved_employer": "Vensure Employer Services (VensureHR) — professional employer organization providing outsourced payroll, HR, benefits and risk management; reported occupation Systems Support Manager",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Only public corroboration is a people-search listing of a Vikrant Jasrotia at a Van Alstyne, TX 75495 address (matching the filing zip) and a LinkedIn profile that could not be opened to verify title/employer. No independent bio, news coverage, or professional page confirms this person's role at Vensure, so identity confidence is low; industry is an employer-based fallback from the self-reported employer only. No FEC records (fec_donation_count 0) and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://vensure.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "538662d34e5525cd",
+    "name": "Hoppe, Jennifer",
+    "resolved_employer": "Everytown for Gun Safety / Moms Demand Action for Gun Sense in America — Deputy Director (more recently listed as Senior Director, National Programs, Everytown for Gun Safety Action)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Jennifer Hoppe is Deputy Director of Moms Demand Action for Gun Sense in America, part of Everytown for Gun Safety, and lives in Arlington, Virginia — matching the filing's 22207 zip, 'Deputy Director' occupation and 'Everytown for Gun Safety' employer. Prior FEC-reported individual contributions list the same 22207 zip with employer Everytown for Gun Safety and title Deputy Director, corroborating identity and the high federal donation count (102). No Texas Ethics Commission lobbyist registration (she is Virginia-based).",
+    "source_url": "https://natfluence.com/interview/jenniferhoppe/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Everytown for Gun Safety / Everytown for Gun Safety Action",
+        "role": "Deputy Director; later listed as Senior Director, National Programs",
+        "category": "gun_control",
+        "source_url": "https://natfluence.com/interview/jenniferhoppe/",
+        "snippet": "Profile headline: 'Jennifer Hoppe | Deputy Director, Moms Demand Action for Gun Sense in America, part of Everytown for Gun Safety.' A separate business-profile listing gives her current title as Senior Director, National Programs at Everytown for Gun Safety Action."
+      },
+      {
+        "org": "Moms Demand Action for Gun Sense in America",
+        "role": "Deputy Director (earlier: Program Director; Director, National Field Programs)",
+        "category": "gun_control",
+        "source_url": "https://momsdemandaction.org/press/moms-demand-action-for-gun-sense-in-america-asks-moms-to-kick-off-the-school-year-with-gun-sense/",
+        "snippet": "Moms Demand Action press release quotes Jennifer Hoppe, identified as Program Director for Moms Demand Action: 'With the school year beginning, it's an opportunity for moms to reiterate our commitment to protecting our kids from gun violence.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "5f9ac48b77bc85f3",
+    "name": "Sawyers, Kendall",
+    "resolved_employer": "Sawyers Electric — owner; licensed electrician since 2005; residential and commercial electrical contractor serving Central Texas",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Kendall Sawyers is the owner of Sawyers Electric, a Central Texas electrical contracting firm; he became a licensed electrician in 2005 after several years on high-rise projects. Business directory listings place Sawyers Electric in both Austin and Caldwell, TX, corroborating the filing's Caldwell 77836 address and the 'Electrical Contractor / Sawyers electric' occupation-employer pair. No FEC records (fec_donation_count 0) and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.thebluebook.com/iProView/1430045/sawyers-electric/subcontractors/locations-contacts/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6e6de29d5d6e35d7",
+    "name": "Gannon, Chris",
+    "resolved_employer": "Shams Gannon Architecture (principal/co-founder); formerly project designer at Michael Hsu Office of Architecture",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Chris Gannon, AIA, is principal/co-founder of Shams Gannon Architecture, an Austin practice focused on missing-middle housing, infill and housing policy; the firm's address on E M Franklin Ave is in 78723, matching the donor zip, and both listed employers on the filing match his documented career. He chairs AIA Austin's Housing Advocacy & Affordability Committee and holds three City of Austin board/commission appointments including the Planning Commission. No FEC ideological-PAC contributions and no Texas Ethics Commission lobbyist registration surfaced.",
+    "source_url": "https://magazine.texasarchitects.org/contributor/chris-gannon-aia/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin Planning Commission",
+        "role": "Commissioner (1st term, Jan 22, 2026 - Feb 28, 2027)",
+        "category": "political",
+        "source_url": "https://austintexas.granicus.com/boards/w/646f003b92a5c198/members",
+        "snippet": "Planning Commission — Chris Gannon — 1st Term: Jan 22, 2026 to Feb 28, 2027."
+      },
+      {
+        "org": "City of Austin Building and Fire Code Board of Appeals",
+        "role": "Board member (2nd term, Mar 1, 2025 - Feb 28, 2029)",
+        "category": "civic",
+        "source_url": "https://austintexas.granicus.com/boards/w/646f003b92a5c198/members",
+        "snippet": "Building and Fire Code Board of Appeals — Chris Gannon — 2nd Term: Mar 01, 2025 to Feb 28, 2029."
+      },
+      {
+        "org": "City of Austin Codes and Ordinances Joint Committee",
+        "role": "Member (1st term, Feb 26, 2026 - Feb 28, 2027)",
+        "category": "civic",
+        "source_url": "https://austintexas.granicus.com/boards/w/646f003b92a5c198/members",
+        "snippet": "Codes and Ordinances Joint Committee — Chris Gannon — 1st Term: Feb 26, 2026 to Feb 28, 2027."
+      },
+      {
+        "org": "AIA Austin — Housing Advocacy & Affordability Committee",
+        "role": "Chair",
+        "category": "civic",
+        "source_url": "https://aiaaustin.org/committees/housing-advocacy/",
+        "snippet": "Chair: Chris Gannon, AIA. 'The Housing Advocacy & Affordability Committee promotes affordable housing for all Austinites. We track code, policies, and discriminatory housing practices.' Priorities listed include single-stair reform, Land Development Code reform, and the HOME Initiative."
+      }
+    ]
+  },
+  {
+    "donor_id": "7435f9a9251841ef",
+    "name": "Pirela, Maria E",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "No public web footprint could be located for a Maria E Pirela in Austin 78724 — no LinkedIn, bio, news, business, professional-license, nonprofit or org-leadership page surfaced. The only public-record datum is the campaign finance filing itself, which reports occupation 'Not Employed'; identity could not be independently corroborated beyond that. FEC/PAC, Texas Ethics Commission lobbyist and City of Austin lobbyist-registry searches all returned no match.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d0c23ad729bdbb50",
+    "name": "Lisch, Eleuthera",
+    "resolved_employer": "King County (WA) — Director, Regional Office of Gun Violence Prevention, Public Health – Seattle & King County",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Eleuthera Lisch is the director of the King County Regional Office of Gun Violence Prevention, listed on the national Office of Violence Prevention Network directory with a kingcounty.gov email; the Seattle 98118 location and the filing's stated occupation/employer both match. She previously ran the YMCA of Greater Seattle's Alive & Free youth violence-prevention program for roughly 13 years. Distinctive name, no ambiguity. FEC/PAC and Texas lobbyist searches returned no records (she is a Washington State public employee).",
+    "source_url": "https://ovpnetwork.org/office/regional-gun-violence-program/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "King County Regional Office of Gun Violence Prevention (Public Health – Seattle & King County)",
+        "role": "Director",
+        "category": "gun_control",
+        "source_url": "https://ovpnetwork.org/office/regional-gun-violence-program/",
+        "snippet": "Directory entry for the King County Regional Office of Gun Violence Prevention lists 'Director: Eleuthera Lisch, elisch@kingcounty.gov'. The office, created in Oct. 2023 as part of a national network of gun violence prevention offices, coordinates the county's violence-prevention programs."
+      },
+      {
+        "org": "King County gun violence prevention policy advocacy",
+        "role": "Director; met with White House staff on gun control legislation",
+        "category": "gun_control",
+        "source_url": "https://www.seattletimes.com/seattle-news/politics/king-county-to-start-office-of-gun-violence-prevention/",
+        "snippet": "Seattle Times coverage reports Lisch 'recently returned from Washington, D.C., where she met with presidential and vice presidential staff to discuss gun control legislation,' and that she oversees street-outreach and violence-interrupter work by groups including the Regional Peacekeepers Collective."
+      },
+      {
+        "org": "YMCA of Greater Seattle — Alive & Free",
+        "role": "Director (former)",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/eleuthera-lisch-09b6838b/",
+        "snippet": "Professional profile lists 'Director, Alive & Free — YMCA of Greater Seattle'; she spent roughly 13 years with the YMCA of Greater Seattle developing youth violence prevention and gang intervention programs."
+      }
+    ]
+  },
+  {
+    "donor_id": "4b5093e324b98451",
+    "name": "Dang, Loc",
+    "resolved_employer": "Dang Law Group, PLLC — founder and managing partner (personal injury and immigration law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Loc Tan Dang is the founder and managing partner of Dang Law Group, PLLC, an Austin personal-injury and immigration firm he established in 2012; the firm's North Austin office on N Interstate Hwy 35 is in 78753, matching the donor zip, and attorney directories list him at that zip. Licensed in both Texas and California. No FEC ideological-PAC records, no Texas Ethics Commission lobbyist registration, and no City of Austin lobbyist registration surfaced.",
+    "source_url": "https://danglawgroup.com/loc-t-dang/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Trial Lawyers Association",
+        "role": "Member",
+        "category": "business",
+        "source_url": "https://danglawgroup.com/loc-t-dang/",
+        "snippet": "Firm bio lists professional memberships including the Texas Trial Lawyers Association and the American Immigration Lawyers Association."
+      },
+      {
+        "org": "American Immigration Lawyers Association",
+        "role": "Member",
+        "category": "business",
+        "source_url": "https://danglawgroup.com/loc-t-dang/",
+        "snippet": "Firm bio lists membership in the American Immigration Lawyers Association; he has handled deportation defense, green card, naturalization, family petition and EB-5 matters."
+      },
+      {
+        "org": "Catholic Charities of Central Texas — Immigrant Legal Services",
+        "role": "Recipient, 2019 award for excellence (pro bono immigrant legal services)",
+        "category": "civic",
+        "source_url": "https://danglawgroup.com/loc-t-dang/",
+        "snippet": "Bio notes he 'received recognition from Catholic Charities of Central Texas Immigrant Legal Services with an award for excellence in 2019,' for immigrant advocacy and pro bono legal work."
+      }
+    ]
+  },
+  {
+    "donor_id": "53a2ea46dcde3dbc",
+    "name": "Welch, Parker",
+    "resolved_employer": "City of Austin (civil engineer, per campaign finance filing)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "No independent public profile found for a Parker Welch in Austin 78731 working as a civil engineer for the City of Austin. The only LinkedIn matches for the name are in Mansfield TX and Santa Cruz CA, neither corroborated by zip, occupation, or donation pattern. Industry assigned by employer-fallback only (City of Austin = Government); no Texas PE roster entry or news mention located. No FEC ideological-PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://pels.texas.gov/roster/pesearch.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8be846deded76fba",
+    "name": "Brimble, Karen",
+    "resolved_employer": "One Skye Foundation (co-founder; Vice President/Secretary) — Austin family private foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Karen Brimble is co-founder and an officer/director of the Austin-based One Skye Foundation, a 501(c)(3) private grantmaking foundation (EIN 20-5532853) she formed with husband Ray Brimble, founder of Lynxs Group LLC, an Austin aviation-related real estate development firm. Employer on the filing ('One Skye Foundation') and Austin location match the IRS/ProPublica record exactly. No Texas Ethics Commission lobbyist registration found in the 2024-2026 registered-lobbyist lists; no federal PAC contributions surfaced in public FEC/OpenSecrets searches.",
+    "source_url": "https://projects.propublica.org/nonprofits/organizations/205532853",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "One Skye Foundation Inc",
+        "role": "Co-founder; Vice President / Secretary",
+        "category": "civic",
+        "source_url": "https://projects.propublica.org/nonprofits/organizations/205532853",
+        "snippet": "IRS filings list the foundation's officers as Raymond Brimble (President/Treasurer) and Karen Brimble (Vice President/Secretary), an Austin, TX 501(c)(3) private grantmaking foundation tax-exempt since March 2007."
+      },
+      {
+        "org": "Zilker 351",
+        "role": "Board Secretary",
+        "category": "civic",
+        "source_url": "https://www.zilker351.org/about",
+        "snippet": "Board roster lists 'Karen Brimble, Board Secretary' alongside Michael Cannatti (Chair) and Leslie Pool; her bio there describes her as 'a co-founder and director of the Austin-based One Skye Foundation.'"
+      },
+      {
+        "org": "Texas Book Festival",
+        "role": "Board member (10 years); board chair",
+        "category": "civic",
+        "source_url": "https://www.stringtheorybyraybrimble.com/all-blogs/2017/11/14/karen-and-ray-brimble-community-builders-impact-makers",
+        "snippet": "\"She has served on the Texas Book Festival board for a decade and currently chairs it.\""
+      },
+      {
+        "org": "Barton Springs Conservancy",
+        "role": "Major funder via the One Skye Foundation",
+        "category": "civic",
+        "source_url": "https://www.stringtheorybyraybrimble.com/all-blogs/2017/11/14/karen-and-ray-brimble-community-builders-impact-makers",
+        "snippet": "\"The couple's One Skye Foundation has significantly supported the Barton Springs Conservancy.\""
+      }
+    ]
+  },
+  {
+    "donor_id": "c641fd44c0d14712",
+    "name": "Hower, Miste",
+    "resolved_employer": "Self / licensed clinical social worker (LCSW); emergency-room social worker, Austin",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Miste Peterson Hower, LCSW, of Austin TX is a licensed clinical social worker (MSSW, UT-Austin) working as an ER social worker; her public professional profile and Texas Legislature witness-list entries match the filing's name, Austin location, and 'Social worker / Self' occupation. Prior federal giving corroborates identity: a City-Data extract of FEC individual-contribution data shows 'Miste Hower, self-employed/social worker, 78746, Austin TX' making an ActBlue contribution on 08/27/2019 — same rare name, occupation, employer and zip, consistent with fec_donation_count 57. No Texas Ethics Commission lobbyist registration found. No pro-Israel, pro-Palestine, oil/gas, gun-rights or defense-industry affiliations found; the only policy-advocacy affiliation located is gun-violence-prevention volunteering.",
+    "source_url": "https://www.linkedin.com/in/miste-peterson-hower-lcsw-81044b1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Moms Demand Action for Gun Sense in America (Texas chapter)",
+        "role": "Volunteer; quoted chapter spokesperson",
+        "category": "gun_control",
+        "source_url": "https://www.everytown.org/press/texas-moms-demand-action-students-demand-action-respond-to-shooting-in-concho-county/",
+        "snippet": "\"Our hearts break for the families of all those devastated by this shooting...\" said Miste Hower, a volunteer with the Texas chapter of Moms Demand Action."
+      },
+      {
+        "org": "Moms Demand Action for Gun Sense in America",
+        "role": "Registered witness (registered, not testifying) opposing SB 406 and SB 741, Texas House Homeland Security & Public Safety Committee, 86R (2019)",
+        "category": "gun_control",
+        "source_url": "https://capitol.texas.gov/tlodocs/86R/witlistmtg/html/C4202019050108001.HTM",
+        "snippet": "Witness list shows Hower, Miste registered AGAINST SB 406 and SB 741 on behalf of 'Moms Demand Action for Gun Sense in America.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "e88a2ba10aaaca38",
+    "name": "Tran, Lynda",
+    "resolved_employer": "Indeed (QA Manager, per campaign finance filing)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Could not confirm this specific individual. The prominent public 'Lynda Tran' (co-founder of 270 Strategies; former senior advisor to U.S. Transportation Secretary Pete Buttigieg) is Washington-DC-based and unconnected to Indeed or Austin 78753 — explicitly NOT matched to this donor. No LinkedIn, bio, or news page for a Lynda Tran QA Manager at Indeed in Austin was found; no Texas Ethics Commission lobbyist registration and no FEC individual/PAC contribution records surfaced. Industry assigned by employer-fallback only (Indeed = Technology).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

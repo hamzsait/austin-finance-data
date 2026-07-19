@@ -1,0 +1,299 @@
+[
+ {
+  "donor_id": "b701f7e806070eeb",
+  "name": "Rice, David",
+  "resolved_employer": "Austin Community College — Associate Professor of English (ACC Ascender program); also a published author/playwright",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Matches the filing's occupation ('English Professor/Writer') and employer ('Austin Community College') exactly. Corroborated via ACC faculty listings and his author site: born 1964 in Weslaco, BA Texas State, MFA UT Rio Grande Valley, author of 'Give the Pig a Chance,' 'Crazy Loco,' and 'Heart-Shaped Cookies'; splits time between Austin and the Rio Grande Valley. No lobbyist registration and no ideological-PAC record surfaced.",
+  "source_url": "https://www.davidriceauthor.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b91dbc84d9b98ea7",
+  "name": "Pilkington, Patricia",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be matched to a Patricia Pilkington at Austin, TX 78723. Searches across web, obituaries, LinkedIn, and people-search aggregators returned only unrelated Pilkingtons (Alabama, Georgia/Pennsylvania, West Virginia, Boone NC) and other unrelated Austin-area Pilkingtons (Paul E., Betsy W., attorney Sarah Elizabeth). Zero FEC contribution records, consistent with fec_donation_count of 0. No TEC lobbyist registration. Industry recorded as the filing's self-reported 'Not Employed'; identity otherwise uncorroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b92201542fa33df5",
+  "name": "Vo, Van",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile could be confidently matched to a Van Vo at Cedar Park, TX 78613. A LinkedIn profile for a Van Vo in the Austin metro (University of Alabama, associated with the Williamson County Children's Advocacy Center) is a plausible but unconfirmed match — Williamson County contains Cedar Park, but no zip or occupation corroboration was found. A separate lead tying a Van Vo to 'ConceptShell Foundation' was checked and ruled out (that Seattle studio was founded by a different person). Filing lists occupation 'Philanthropy' with employer 'Unemployed', which is too thin to support an industry classification. No lobbyist registration; no ideological-PAC record surfaced.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba5801ff3ee4014a",
+  "name": "Vigil, Danae",
+  "resolved_employer": "Independent business consultant; previously Trust & Safety leadership at Indeed.com",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "A LinkedIn profile for 'Danae V.' lists the Austin, Texas metro area (which includes Leander), prior Trust & Safety leadership at Indeed.com, and current independent business consulting. Name plus metro is consistent, but zip-level (78641) corroboration was not directly confirmed and the full LinkedIn page was blocked to automated fetch, so only indexed snippets could be read. The donation is dated 2022, an older record carried into this file. No TEC lobbyist registration, no PAC leadership, and no advocacy-org role surfaced in available public sources.",
+  "source_url": "https://www.linkedin.com/in/danaevigil/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba922c82a69c329e",
+  "name": "Houck, Patrick",
+  "resolved_employer": "DPR Construction — Talent Partner, HR/people team, Austin, TX",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "FEC individual-contribution records for a Patrick Houck in Austin, TX list employer 'DPR Construction' and occupation 'Talent Partner'/'People Practices' across 19 federal contributions from 2020-2025 (ActBlue, DNC, Harris for President, Biden Victory Fund, Colin Allred for Senate, DCCC and others), matching the donor's Austin 78702 record. Role is internal HR/recruiting at a general contractor, not a firm principal. No TEC lobbyist registration and no ideological-PAC leadership surfaced.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=houck%2C+patrick&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bab71c155d8ec9b6",
+  "name": "Searcy, Sarah",
+  "resolved_employer": "Kettle (digital product/content/social agency) — Editor; previously Editor at Magnit (2024) and Charles Schwab (2017-2020)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "FEC records for a 'Sarah Searcy' in Austin, TX show the occupation 'Editor' consistently across a decade of small-dollar federal contributions, with employers progressing Charles Schwab (2017-2020) to Magnit (2024), matching the filing's occupation. The D1 filing lists the current employer as Kettle, an Austin/NY digital content and social agency with editorial roles, consistent with that career pattern. A Kettle staff bio could not be independently retrieved (LinkedIn blocked automated fetch), so the employer link rests on name + city + occupation continuity rather than a direct bio confirmation. No lobbyist registration or advocacy-org role surfaced.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=searcy%2C+sarah&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "baf33a6b277c8876",
+  "name": "Schneider, Robin",
+  "resolved_employer": "Retired — former Executive Director, Texas Campaign for the Environment and TCE Fund (2000-April 2025)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Austin 78704 and the filing's 'Not Employed' match Robin Schneider, the longtime Executive Director of Texas Campaign for the Environment, who retired in April 2025 after roughly 25 years leading the group's anti-pollution and recycling advocacy (per her organizational bio and a LinkedIn listing her as retired as of April 2025). FEC records for 'Robin Schneider, Austin, TX' with employer 'Texas Campaign for the Environment' and occupation 'Executive Director' shift to 'Not Employed' beginning in late 2025, consistent with that retirement date. A same-named Robin Schneider in Castroville, TX is a different person and not this donor.",
+  "source_url": "https://www.texasenvironment.org/robin-schneider",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Campaign for the Environment / TCE Fund",
+    "role": "Executive Director, 2000-April 2025 (retired)",
+    "category": "civic",
+    "source_url": "https://www.texasenvironment.org/robin-schneider",
+    "snippet": "From 2000 through 2025 Ms. Schneider served as executive director of the lobbying and organizing 501(c)(4) group Texas Campaign for the Environment, retiring after 25 years leading the organization."
+   }
+  ]
+ },
+ {
+  "donor_id": "bb17394791bce272",
+  "name": "Spier, Gary",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile could be confirmed for a Gary Spier at Austin, TX 78723. FEC Schedule A returns zero contribution records (consistent with fec_donation_count of 0), no Texas Ethics Commission lobbyist registration was found under this name, and searches across LinkedIn, obituaries, Travis Central Appraisal District, and general web results surfaced only unrelated or differently-located individuals (a State Farm agent of unstated location, a Houston-area Gary Dwaine Spier, and Speer/Spahr name variants), none corroborated by zip, occupation, or donation pattern. The filing's 'Retired' gives no identifiable former career to fall back on.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bbd08cf855dc4bef",
+  "name": "Catherall, Kate",
+  "resolved_employer": "Slow Clap (founder) — public engagement and political strategy consulting, Oakland, CA",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Oakland-based Democratic political strategist; co-founder and Board Chair of Arena, which trains Democratic campaign staff, and former Chief Engagement Officer at Avalanche Insights, with prior work on the Obama 2008/2012 campaigns and at 270 Strategies. She now runs the consultancy Slow Clap. Zip 94608 (Oakland) and employer 'Slow Clap' both match her published bio exactly. No lobbyist registration in Texas.",
+  "source_url": "https://arena.run/team/kate-catherall",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Arena",
+    "role": "Co-founder and Board Chair",
+    "category": "political",
+    "source_url": "https://arena.run/team/kate-catherall",
+    "snippet": "Kate Catherall is the Co-founder and Board Chair of Arena, which operates professional programs to cultivate Democratic campaign operatives."
+   }
+  ]
+ },
+ {
+  "donor_id": "bc26bfac75ee6315",
+  "name": "Cifra, Patty",
+  "resolved_employer": "Atlassian — Manager, Austin, TX",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "A LinkedIn profile for 'Patty C.' at Atlassian based in Austin matches the filing's employer and location; the profile also notes volunteer coding instruction with Girl Develop It, a coding-education nonprofit with no policy-advocacy component (not recorded as an affiliation per the instructions). No fuller public bio was located to confirm exact title, and zero FEC contribution records exist, consistent with fec_donation_count of 0. No TEC lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/pncifra/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bff82ab615692669",
+  "name": "MccCrimmon, Mark",
+  "resolved_employer": "Law Office of Mark P. McCrimmon — self-employed criminal defense/DWI attorney, Austin, TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "The filing's surname spelling 'MccCrimmon' is a data-entry variant of McCrimmon. Mark P. McCrimmon is a solo criminal-defense attorney at 902 Rio Grande St, Austin, TX 78701, an exact zip match to the donor record, and a former Travis County prosecutor; State Bar of Texas member licensed since 1983 (UT Austin JD). The filing's occupation 'Lawyer' and employer 'Self' match his solo practice. No board or leadership roles appear on his firm site beyond his own practice; no TEC lobbyist registration; no federal contribution records, consistent with fec_donation_count of 0.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c39cbae958ad6cd7",
+  "name": "McLarty, Davis",
+  "resolved_employer": "Davis McLarty Agency — owner, talent/booking agency for Austin musicians",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Owner of the Davis McLarty Agency, a South Austin music booking agency representing acts including Kelly Willis, Reckless Kelly, and the Derailers; formerly the touring drummer for Joe Ely. Matches the filing's 'talent agent'/'self' and South Austin 78745. FEC Schedule A records for 'McLarty, Davis' in TX show frequent small-dollar giving in 2025-2026 routed through ActBlue, consistent with the fec_donation_count of 145 — a donation pattern, not an organizational role, so no affiliation is recorded on that basis. No TEC lobbyist registration.",
+  "source_url": "https://www.austinchronicle.com/music/1997-12-05/519038/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c518f0d0bbbad477",
+  "name": "Hairston, Andrew",
+  "resolved_employer": "Texas Appleseed — Education Justice / School-to-Prison Pipeline Project Director; also self-employed attorney and writer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Civil rights attorney and Education Justice Project Director at Texas Appleseed, whose office at 1609 Shoal Creek Blvd is adjacent to the donor's listed 78702 zip; the filing's paired occupation/employer strings ('Project Director, Lawyer' / 'Texas Appleseed, Self-Employed') match his dual role exactly. Corroborated across the Texas Appleseed staff page, an American Constitution Society bio, the Texas Ethics Commission registered-lobbyist list, and his State Bar of Texas listing.",
+  "source_url": "https://www.texasappleseed.org/staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Appleseed",
+    "role": "Registered Texas lobbyist (Project Director)",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "snippet": "Andrew R. Hairston appears on the Texas Ethics Commission 2025 registered lobbyist list as Project Director at 1609 Shoal Creek Blvd., Austin, TX — Texas Appleseed's office address."
+   },
+   {
+    "org": "American Constitution Society, Austin Chapter",
+    "role": "Board Member",
+    "category": "political",
+    "source_url": "https://www.acslaw.org/february-2023-andrew-hairston/",
+    "snippet": "Andrew Hairston serves as Education Justice Project Director at Texas Appleseed and holds a Board Member position with the ACS Austin Chapter."
+   }
+  ]
+ },
+ {
+  "donor_id": "c63c8144a258afbe",
+  "name": "heyne, Christian",
+  "resolved_employer": "Brady (Brady United Against Gun Violence) — Chief Officer, Policy & Programs, Washington, DC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Leads federal and state legislative and programmatic work at Brady United Against Gun Violence, one of the country's oldest gun-violence-prevention organizations. DC zip 20002 and the filing's exact title and employer match Brady's DC headquarters and his leadership-page bio. He is himself a gun-violence survivor (his mother was killed and his father wounded in a 2005 shooting) and is a registered federal lobbyist for Brady per OpenSecrets. No TEC (Texas) lobbyist registration.",
+  "source_url": "https://www.bradyunited.org/about-us/our-team/brady-leadership/christian-heyne",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Brady (Brady United Against Gun Violence)",
+    "role": "Chief Officer, Policy & Programs",
+    "category": "gun_control",
+    "source_url": "https://www.bradyunited.org/about-us/our-team/brady-leadership/christian-heyne",
+    "snippet": "Christian Heyne is the Chief Programs and Policy Officer at Brady, one of the nation's oldest gun violence prevention organizations, where he leads all legislative and programmatic efforts at the federal and state levels."
+   },
+   {
+    "org": "Brady Campaign to Prevent Gun Violence",
+    "role": "Registered federal lobbyist",
+    "category": "gun_control",
+    "source_url": "https://www.opensecrets.org/federal-lobbying/lobbyists/summary?id=Y0000046627L&lname=Heyne,+Christian",
+    "snippet": "OpenSecrets lists Christian Heyne as a registered federal lobbyist whose client is the Brady Campaign to Prevent Gun Violence."
+   }
+  ]
+ },
+ {
+  "donor_id": "c65bc8bec6d73fb5",
+  "name": "Miller, Timothy",
+  "resolved_employer": "Dillon Gage (precious-metals dealer; its IDS Group subsidiary operates bullion depositories) — depository role per filing",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "The filing lists occupation 'Depository' and employer 'Dillon Gage', a Dallas-area precious-metals dealer whose IDS Group subsidiary runs bullion depositories; the Fort Worth 76137 zip is consistent with the DFW metro where Dillon Gage and IDS operate. However, no independent bio, LinkedIn profile, or news mention could confirm this specific individual's identity or role, and 'Timothy Miller' is a common name. Industry is an employer-fallback classification only. Zero FEC records, consistent with fec_donation_count of 0; no TEC lobbyist registration.",
+  "source_url": "https://dillongage.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c67cc689679e560b",
+  "name": "Palla, Stephanie",
+  "resolved_employer": "Governing for Impact — Chief Operating Officer, Washington, DC (resident Millington, NJ)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "LinkedIn and a recruiting-firm client-story page identify Stephanie Palla as COO of Governing for Impact, a Washington-based progressive policy nonprofit that develops regulatory and executive-action proposals, matching the filing's 'COO' / 'Governing for Impact' exactly. NJ zip 07946 (Millington) is consistent with a remote or commuting DC-sector professional. The organization's staff page and full LinkedIn profile did not resolve to a deeper bio, and her 42 federal contributions could not be itemized with the available tools, so confidence is medium. No TEC lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/stephanie-palla-4122352a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Governing for Impact",
+    "role": "Chief Operating Officer",
+    "category": "political",
+    "source_url": "https://governingforimpact.org/press-release-governing-for-impact-center-for-progressive-reform-launch-project-2025-tracker-to-monitor-actions-of-second-trump-administration/",
+    "snippet": "Governing for Impact develops rigorous policy proposals for executive action; the organization launched a Project 2025 Tracker with the Center for Progressive Reform to monitor actions of the second Trump administration."
+   }
+  ]
+ },
+ {
+  "donor_id": "c77d4c799a7be264",
+  "name": "Prenger, Anthony",
+  "resolved_employer": "Pinnacle Bank (Austin) — banking-center/branch president at the time of the donation; since moved to Prosperity Bank, Austin, as VP-Commercial Lender / Banking Center President",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Tony (Anthony) Prenger is an Austin-based Pinnacle Bank branch executive — the bank's own social account announced his promotion to branch president — matching the filing's 'Bank executive' / 'Pinnacle bank' at zip 78702. He has since moved to Prosperity Bank in Austin in a comparable role, and serves as Treasurer and board member of Leadership Austin, a civic leadership-development nonprofit. No TEC lobbyist registration; his handful of federal contributions show no ideological-PAC leadership role.",
+  "source_url": "https://www.linkedin.com/in/tonyprenger/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Leadership Austin",
+    "role": "Treasurer / Board Member",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/tonyprenger/",
+    "snippet": "LinkedIn profile headline: \"Tony Prenger — Leadership Austin Treasurer/Board Member\""
+   }
+  ]
+ },
+ {
+  "donor_id": "c77f464d62389b3a",
+  "name": "Rana, Navin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing carries no occupation or employer, and 'Navin Rana' is a common name. Searches surfaced several distinct individuals nationally — a Senior Director of IT Procurement at Brink's and a separate IT global procurement director at PepsiCo (both loosely DFW-area), an infrastructure engineer at Chanel, a home-care worker, and a law student — none of whom could be tied to zip 75034 by a second corroborating detail. The donation is dated 2022, an older record carried into this file. Zero FEC contribution records; no TEC lobbyist registration.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c81fc10d245a40d9",
+  "name": "Watkins, Megan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing carries no occupation or employer. The most prominent Austin professional under this name is a Megan N. Watkins, partner in fiduciary/trust and estate litigation at Osborne, Helman, Scott, Knisely & Stanton (UT Law JD 2015), but her firm address is in 78756 while the donor is listed at 78702, and with no occupation field in the record there is no second detail to corroborate the match. 'Megan Watkins' is a common name, so identity is left unresolved and no industry is assigned. The donation is dated 2022, an older record carried into this file. No TEC lobbyist registration surfaced for a Megan Watkins.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c90d2de9c35db595",
+  "name": "Apreza, Ernesto",
+  "resolved_employer": "Amazon — Engagement & Public Affairs, The Climate Pledge, Washington, DC",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Ernesto ('Ernie') Apreza is a documented Democratic communications operative: Deputy Communications Director for Hillary Clinton's 2016 Colorado campaign, Communications Director for Seattle's mayor, Colorado State Director for Biden for President in 2020, Deputy Press Secretary in the Office of the Vice President, then Special Assistant to the President and Press Secretary to Vice President Kamala Harris (April 2024-January 2025). He now works in engagement and public affairs on The Climate Pledge, an Amazon initiative, in Washington, DC — matching the filing's employer 'Amazon', occupation 'Engagement Manager', and zip 20001. No lobbyist registration in Texas.",
+  "source_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/09/statement-by-press-secretary-ernesto-apreza-on-the-vice-presidents-travel/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "White House Office of the Vice President (Biden-Harris administration)",
+    "role": "Special Assistant to the President and Press Secretary to VP Kamala Harris (2024-2025); previously Deputy Press Secretary",
+    "category": "political",
+    "source_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/09/statement-by-press-secretary-ernesto-apreza-on-the-vice-presidents-travel/",
+    "snippet": "White House release headed \"Statement by Press Secretary Ernesto Apreza on the Vice President's Travel.\""
+   },
+   {
+    "org": "Biden for President campaign",
+    "role": "Colorado State Director (2020)",
+    "category": "political",
+    "source_url": "https://www.democracyinaction.us/2020/biden/bidenconenhohstaff.html",
+    "snippet": "Ernie Apreza listed as Colorado State Director, described as a political strategist specializing in communications and community organizing who previously worked Hillary Clinton's 2016 Colorado campaign."
+   }
+  ]
+ }
+]

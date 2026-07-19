@@ -1,0 +1,348 @@
+[
+ {
+  "donor_id": "a37271ee18a65c47",
+  "name": "Prosser, Lamont",
+  "resolved_employer": "University of Texas at Austin — Technical Staff Assistant V (facilities/tech support staff)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Public university payroll records list a Lamont D. Prosser as Technical Staff Assistant V at UT Austin (~$52,500 in 2023, records spanning 2017-2023), matching the filing's 'Tech Staff Assistant' occupation and 'University of Texas' employer. Uncommon name plus exact title/employer match corroborates identity; Manor (78653) is a common commuter suburb for UT staff, though the payroll record does not list a zip. No political, lobbying, or advocacy footprint of any kind surfaced on either side of any policy spectrum searched.",
+  "source_url": "https://openpayrolls.com/employee/lamont-d-prosser-4202",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "00b7c861122dce53",
+  "name": "Sherman, Lee",
+  "resolved_employer": "City of Austin employee; also self-employed engineer (per his own FEC contributor disclosure)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "FEC individual-contribution records show a Lee Sherman at zip 78702 self-reporting employer/occupation as 'CITY OF AUSTIN AND SELF EMPLOYED TOO/ENGINEER' ($216 to ActBlue, 12/29/2019); the 78702 zip and East Austin location match the D1 filing exactly. His 153 federal donations with a fully Democratic lean are consistent with recurring small-dollar ActBlue giving rather than PAC-level activity — no contributions to pro-Israel (AIPAC/UDP/DMFI), liberal-Zionist (J Street), pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor PACs surfaced, and he is not in the TEC lobbyist registry. No bio, board seat, or leadership page exists for him beyond a generic austintexas.gov contact form with no role information.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part73.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "052f8f6e0a67ba35",
+  "name": "Baker, Chris",
+  "resolved_employer": "Fringe Consulting (owner/consultant); founder and former Executive Director of The Other Ones Foundation",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "This is the Other Ones Foundation founder, not a different Chris Baker: his Austin-area professional profile lists him as Owner at Fringe Consulting and describes growing an organization's annual operating budget from $0 to $11M over 8 years and pioneering a low-barrier work program for people experiencing homelessness — TOOF, which he co-founded in summer 2017 with Phil Leal. Public address records place a Chris Baker at Austin 78748, matching the filing zip; TOOF's team page now lists a different executive director, consistent with his transition to a 'Founder & Ambassador' role and independent consulting. Caution on the pipeline's fec_partisan_lean of 0.062 across 265 donations: no Republican or conservative federal giving could be tied to this individual, and 'Chris Baker' is a high-collision name, so that lean score should be treated as an aggregation artifact and NOT as evidence of Republican alignment. No TEC lobbyist registration; no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor PAC ties found.",
+  "source_url": "https://toofound.org/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Other Ones Foundation (TOOF)",
+    "role": "Co-founder; former Executive Director (now Founder & Ambassador)",
+    "category": "civic",
+    "source_url": "https://toofound.org/our-team/",
+    "snippet": "The Other Ones Foundation was started in the summer of 2017 by Chris Baker and Phil Leal to bring their innovative ideas for addressing homelessness to life; the nonprofit provides humanitarian aid, case management, and extremely low-barrier work opportunities to people experiencing homelessness in Austin."
+   }
+  ]
+ },
+ {
+  "donor_id": "09323fe10a0857cc",
+  "name": "Brown, Jessica",
+  "resolved_employer": "Self-employed consultant (per filing; no public profile located)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual. 'Jessica Brown' is a very high-collision name and no public bio, firm page, or professional profile ties a self-employed consultant in Oakton/Fairfax County VA (22124) to this donation. No TEC lobbyist registration (the registry lists a 'Jessica Browning' in Austin 78701 — a different name and person, explicitly not conflated here). No pro-Israel, liberal-Zionist, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor PAC contributions could be attributed to her. Industry recorded as an employer-fallback from the filing's own occupation field only; the 223 federal donations at a 0.974 Democratic lean cannot be verified as this specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a9b18f9d59d264d",
+  "name": "Smith, Wendell",
+  "resolved_employer": "Moody's Corporation — cybersecurity engineer (per filing)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Burbank, CA (91505) donor giving $200 to Steven A. Brown; occupation/employer self-reported on the filing as cybersecurity engineer at Moody's Corporation. 'Wendell Smith' is a common name and no LinkedIn, news, or bio page could be matched to a Burbank-based Moody's cybersecurity engineer, so the specific individual is not independently confirmed. The 80-record federal donation history is consistent with a recurring small-dollar online (ActBlue-style) donor, but no FEC record could be pulled to corroborate. No lobbyist registration, PAC, or advocacy-org tie surfaced on any side of the searched spectrums. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b7a30b286a1acd6",
+  "name": "Acri, Madeline",
+  "resolved_employer": "Sungrow North America — Applications Engineer (solar inverters / energy storage)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "LinkedIn and industry press confirm Madeline Acri as an applications engineer at Sungrow North America, a 'Chicagoland native working in cleantech in Austin, Texas,' with a UIUC BS in Mechanical Engineering and prior roles at Shoals Technologies, Soligent, and CivicSolar. Matches the filing's Austin (78721) location, 'Application Engineer' occupation, and 'Sungrow' employer exactly. Public footprint is purely technical (solar inverter string sizing, UL 3741 rapid shutdown, NABCEP conference speaking); no political, lobbying, or advocacy roles found on any side of the searched spectrums.",
+  "source_url": "https://www.linkedin.com/in/madeline-acri-2b0b8081/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0d1fd07655211205",
+  "name": "Monday, Erin",
+  "resolved_employer": "DeepL — US Marketing",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "LinkedIn identifies Erin Monday as US Marketing at DeepL, based in Austin; DeepL opened its first US office in Austin, matching the filing's Austin (78724) address, 'Marketing' occupation, and 'DeepL' employer. Prior roles at IBM, Lenovo, Oracle, 3M, and Nutanix; founder/host of #RTP180, a North Carolina regional tech speaker series (civic boosterism, not policy advocacy). Personal site and bio pages read in full show no board seats, lobbying, or political-advocacy roles.",
+  "source_url": "https://www.linkedin.com/in/erinmonday/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0d46b0dacac292c4",
+  "name": "Cardenas III, Maximiliano",
+  "resolved_employer": "Houston Methodist — Project Manager (per filing)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Houston, TX (77009 — Near Northside) donor giving $200 to Amber K. Goodwin; occupation/employer self-reported as project manager at Houston Methodist, which is geographically consistent. No LinkedIn profile, bio page, news mention, or org leadership listing could be tied to this specific individual (people-search aggregators show multiple Maximiliano Cardenas records in Texas), so identity is not independently confirmed beyond the filing itself. No lobbyist registration or PAC/advocacy tie surfaced on any side of the searched spectrums. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f9f0f8e1affcea7",
+  "name": "Erazo, Angelica",
+  "resolved_employer": "Workday — cybersecurity engineer (per filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "The filing lists an Angelica Erazo in Alameda, CA (94501) as a cybersecurity engineer at Workday, whose headquarters is in nearby Pleasanton, CA — geographically consistent. A LinkedIn profile (linkedin.com/in/angelicaerazo) titled 'Angelica Erazo - Workday' authored a post 'What I Learned From Great Leaders in Austin, Texas,' and a separate published Lone Star Parity Project profile describes an Austin-based Angelica Erazo in civic tech who serves as vice chair of the City of Austin Hispanic/Latino Quality of Life Resource Advisory Commission and on the boards of Earth Day Austin, The New Philanthropists, and an Austin cybersecurity nonprofit (https://www.lonestarparityproject.org/post/angelica-erazo-utilizing-technology-to-help-communities-mobilize/). Those Austin civic roles are NOT recorded as affiliations here because no public source links the Austin civic figure to the Alameda/Workday donor record — the state mismatch is unresolved and the two may be different people. No lobbyist registration; no PAC or advocacy tie on any side of the searched spectrums could be attributed to the donor. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "121654672aa82c65",
+  "name": "Burke, Cecelia",
+  "resolved_employer": "Travis County Tax Assessor-Collector / county voter registrar (retired)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Travis County Archives' elections exhibit documents Cecelia Burke as Travis County Tax Assessor-Collector (pictured at a 1989 voter registration drive); she preceded Bruce Elfant, who took office in 2013. The donor's Austin 78731 residence and extremely heavy, near-uniformly Democratic federal giving pattern (533 contributions, partisan lean 0.999) are consistent with a retired countywide Democratic officeholder, but no source directly ties the 78731 donor record to the former officeholder, so identity is probable rather than confirmed. No TEC lobbyist registration; no PAC or advocacy-org tie on any side of the searched spectrums.",
+  "source_url": "https://traviscountyhistory.org/online-exhibits/history-of-elections/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Tax Assessor-Collector's Office",
+    "role": "Tax Assessor-Collector and county voter registrar (former)",
+    "category": "civic",
+    "source_url": "https://traviscountyhistory.org/online-exhibits/history-of-elections/",
+    "snippet": "Travis County Archives elections exhibit identifies Cecelia Burke as Tax Assessor Collector at a voter registration drive, 1989."
+   }
+  ]
+ },
+ {
+  "donor_id": "1668713597b47652",
+  "name": "Prosser, Lawrence",
+  "resolved_employer": "Amalgamated Transit Union Local 1091 (Austin) — Financial Secretary",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "ATU Local 1091's own officer page lists Lawrence Prosser as Financial Secretary of the local, and GuideStar lists him as a principal officer of the Austin-based union (725 Airport Blvd, Austin TX). Exact match to the donor's stated occupation 'UNION OFFICER' and employer 'Amalgamated Transit Union Local 1091', Austin 78723. Local 1091 represents Capital Metro transit workers. No Texas Ethics Commission lobbyist registration found; no ideological PAC ties surfaced on any side of the searched spectrums in FEC-record searches.",
+  "source_url": "https://www.atulocals.org/atu-local-1091/about-us/lawrence-prosser",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Amalgamated Transit Union Local 1091",
+    "role": "Financial Secretary (elected union officer)",
+    "category": "civic",
+    "source_url": "https://www.atulocals.org/atu-local-1091/about-us/lawrence-prosser",
+    "snippet": "ATU Local 1091 officer page lists Lawrence Prosser with the title Financial Secretary."
+   }
+  ]
+ },
+ {
+  "donor_id": "197e0f3a039f7217",
+  "name": "Dempsey, Jean",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reported occupation 'Unemployed' and employer 'None' (Austin 78739), with zero federal contribution history. No LinkedIn, bio, news, obituary, board roster, or professional-licensing record could be tied to a Jean Dempsey in 78739; multiple same/similar-named individuals exist elsewhere. No lobbyist registration or PAC/advocacy tie on any side of the searched spectrums. Industry recorded only from the self-reported occupation; the specific individual could not be independently corroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1cbb12f8e86b0c73",
+  "name": "Castano-Agudelo, Luz",
+  "resolved_employer": "GP Strategies Corporation — project manager / consultant to Microsoft",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Luz Adriana Castano-Agudelo is an Austin-based project manager at GP Strategies Corporation (a training/performance-improvement consulting firm), serving as a consultant to Microsoft; 20+ years in project management, with prior roles at Accenture Interactive and Projectline Services. Distinctive name plus exact employer and Austin location match the donor record. No lobbyist registration, PAC, board seat, or advocacy-org tie surfaced on any side of the searched spectrums.",
+  "source_url": "https://www.linkedin.com/in/luz-adriana-castano-agudelo-8a42b4a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f2bfa3c14920e3a",
+  "name": "Hokanson, Kimberly",
+  "resolved_employer": "Boston University School of Social Work — full-time lecturer; coordinator, Children, Youth & Families Specialization",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Kim Hokanson, PhD, MSW, LCSW is a lecturer at Boston University School of Social Work with a licensed clinical practice listed in Sharon, MA 02067 — matching the donor zip exactly. She holds a BA in Government from UT Austin and previously worked in Texas public child protective services, which plausibly explains an Austin municipal donation. She is co-chair of NASW's national PACE political action committee, consistent with her 26-record federal donation history. No TEC lobbyist registration; no pro-Israel, liberal-Zionist, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor tie surfaced.",
+  "source_url": "https://www.bu.edu/ssw/profile/kimberly-hokanson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "NASW National PACE (Political Action for Candidate Election) Board of Trustees",
+    "role": "Co-chair",
+    "category": "political",
+    "source_url": "https://www.bu.edu/ssw/kim-hokanson-elected-co-chair-nasws-national-pace-board-trustees/",
+    "snippet": "Hokanson was elected co-chair of the National Political Action for Candidate Election (PACE) Board of Trustees at the National Association of Social Workers; PACE supports candidates for public office who align with NASW's goals."
+   },
+   {
+    "org": "NASW-Massachusetts Chapter PACE",
+    "role": "Chair (involved since 2016)",
+    "category": "political",
+    "source_url": "https://www.bu.edu/ssw/bussw-lecturer-elected-chair-nasw-ma-political-action-committee-pace/",
+    "snippet": "Elected chair of NASW-MA's PACE committee, which 'promotes policies and legislation that are consistent with the goals and needs of social workers... through endorsements and financial contributions to candidates for public office.'"
+   },
+   {
+    "org": "Social Workers for Harris/Walz (2024 cycle)",
+    "role": "Co-chair",
+    "category": "political",
+    "source_url": "https://www.bu.edu/ssw/kim-hokanson-elected-co-chair-nasws-national-pace-board-trustees/",
+    "snippet": "During the 2024 election cycle, she co-chaired Social Workers for Harris/Walz, which organized national community outreach and voter mobilization phone banks."
+   },
+   {
+    "org": "Influencing Social Policy",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.bu.edu/ssw/profile/kimberly-hokanson/",
+    "snippet": "She also serves on boards for Influencing Social Policy and her town's Diversity, Equity, & Inclusion Committee, plus the Commission on Disabilities and Pride Committee."
+   }
+  ]
+ },
+ {
+  "donor_id": "36878e17bd4486fe",
+  "name": "Ward, David",
+  "resolved_employer": "None (occupation reported as unemployed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be tied to a David Ward at zip 78704 with an unemployed occupation. 'David Ward' is a very common name and Austin-area searches (LinkedIn, neighborhood associations, obituaries) surfaced no individual corroborated by zip, occupation, or donation pattern. FEC PAC, Texas lobbyist registry, and bio searches all returned no confirmable match; the 37-record federal donation history with a fully Democratic partisan lean is consistent with a recurring small-dollar ActBlue giver but is not itself identifying.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c25c726bce9d148",
+  "name": "Leon-Wing, Jazmine",
+  "resolved_employer": "Mission Bridge Consulting — founder, CEO and principal consultant (self-employed)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jazmine Leon-Wing is the Austin-based founder and CEO of Mission Bridge Consulting, advising nonprofit, education and social-impact organizations on strategy, finance and fundraising; previously Capital Campaign Director for the UT Charter School System at UT Austin and VP of Treasury at IDEA Public Schools. Distinctive name, Austin location, and self-employed consultant occupation all match the donor record; the zero federal donation count is consistent with no FEC records surfacing. No lobbyist registration or advocacy-org tie surfaced on any side of the searched spectrums.",
+  "source_url": "https://missionbridgeconsulting.com/our-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5450ab67796150ac",
+  "name": "Henderson, Jill",
+  "resolved_employer": "The Bakari Foundation (Founder & President); also CEO, Bakari Luxury Sportswear",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Jill Henderson is Founder and President of The Bakari Foundation, an Austin 501(c)(3) founded in memory of her son Bakari Henderson; the foundation provides travel-based healing for families of homicide victims and youth empowerment programming. Employer, occupation ('Nonprofit Founders'), and Austin location all match the filing. Prior career: 25 years as a senior contracts negotiator at Dell, HP and Hitachi. No TEC lobbyist registration; no PAC or advocacy tie on the Israel/Palestine, oil & gas, gun, or defense spectrums surfaced.",
+  "source_url": "https://thebakarifoundation.org/jill-henderson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Bakari Foundation",
+    "role": "Founder and President",
+    "category": "civic",
+    "source_url": "https://thebakarifoundation.org/jill-henderson/",
+    "snippet": "Jill serves as Founder/President of The Bakari Foundation, a 501(c)3 nonprofit, established in honor of her son Bakari Henderson."
+   },
+   {
+    "org": "Crime Survivors for Safety and Justice",
+    "role": "Austin Chapter Co-coordinator",
+    "category": "civic",
+    "source_url": "https://thebakarifoundation.org/jill-henderson/",
+    "snippet": "Austin Chapter Co-coordinator of Crime Survivors for Safety and Justice; she advocates for crime survivors, public policy initiatives, and community care programs."
+   },
+   {
+    "org": "Harvest Trauma Recovery Center",
+    "role": "Board Advisor",
+    "category": "civic",
+    "source_url": "https://harvesttrc.org/team-members/jill-henderson/",
+    "snippet": "Listed as a Harvest Trauma Recovery Center board advisor / team member."
+   }
+  ]
+ },
+ {
+  "donor_id": "5fb577df9bd0bb88",
+  "name": "Siero, Sissy",
+  "resolved_employer": "Siero Media (Sissy Siero Voiceover & Media LLC) — Founder & CEO",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Sissy Siero is Founder & CEO of Siero Media, a corporate multimedia/podcast production agency at 3005 S Lamar Blvd, Austin (inside the 78704 zip on the filing); she launched the firm in 2020 after roughly 18 years in multimedia production. Occupation, employer and location on the donation record all match. Certified WBE/LGBTE/SWOB/HUB business. No TEC lobbyist registration; no PAC or advocacy-org tie on any side of the searched spectrums.",
+  "source_url": "https://www.sieromedia.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Siero Media (Sissy Siero Voiceover & Media LLC)",
+    "role": "Founder & CEO",
+    "category": "business",
+    "source_url": "https://www.sieromedia.com/",
+    "snippet": "Sissy Siero founded Siero Media with the mission of fostering genuine connections through meaningful communication; she has spent more than two decades as chief storyteller and executive producer of multimedia and podcasts."
+   },
+   {
+    "org": "Austin LGBT Chamber of Commerce",
+    "role": "Member business (LGBTE-certified)",
+    "category": "business",
+    "source_url": "https://membership.austinlgbtchamber.com/list/Details/sissy-siero-voiceover-media-llc-dba-siero-media-3557515",
+    "snippet": "Sissy Siero Voiceover & Media LLC DBA Siero Media is listed in the Austin LGBT Chamber of Commerce member directory."
+   }
+  ]
+ },
+ {
+  "donor_id": "6528391e9fbe7dd1",
+  "name": "Kenny, Conor",
+  "resolved_employer": "Capital A Housing — Principal (affordable/mixed-income housing developer)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Conor Kenny is a principal at Capital A Housing, an Austin affordable-housing development consultancy; the self-reported occupation 'affordable housing builder' and Austin 78723 (East Austin) location match. He chaired the City of Austin Planning Commission (served 2017-2021, stepping down as chair in Aug. 2020 to work with Fayez Kazi on affordable housing) and served on the City of Austin Design Commission 2016-2021. Earlier career: investigative researcher on money in politics for Public Citizen in Washington, DC, and editor of Congresspedia.org. No TEC lobbyist registration surfaced; no PAC or advocacy tie on the Israel/Palestine, oil & gas, gun, or defense spectrums.",
+  "source_url": "https://capitalahousing.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Planning Commission",
+    "role": "Commissioner and Chair (through Aug. 2020)",
+    "category": "political",
+    "source_url": "https://www.austinchronicle.com/news/2020-09-04/planning-commission-leaders-step-down-to-chart-housing-waters/",
+    "snippet": "The top two leaders of the city's Planning Commission - Chair Conor Kenny and Vice Chair Fayez Kazi - stepped down from the high-profile city board on Aug. 25 and will begin working together at Kazi's firm on projects to bring more affordable housing to Austin."
+   },
+   {
+    "org": "Capital A Housing",
+    "role": "Principal",
+    "category": "business",
+    "source_url": "https://capitalahousing.com/about-us/",
+    "snippet": "Conor Kenny serves as Principal at Capital A Housing, a development consultant specializing in affordable housing in Austin."
+   },
+   {
+    "org": "Austin Housing Coalition",
+    "role": "Executive board member",
+    "category": "civic",
+    "source_url": "https://capitalahousing.com/about-us/",
+    "snippet": "He currently serves on the executive board of the Austin Housing Coalition."
+   },
+   {
+    "org": "Urban Land Institute - Austin chapter, Public-Private Partnerships (P3) Local Member Council",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://capitalahousing.com/about-us/",
+    "snippet": "Serves on the Public-Private Partnerships (P3) Local Member Council for the Austin chapter of the Urban Land Institute."
+   },
+   {
+    "org": "Public Citizen",
+    "role": "Investigative researcher, money in politics (former, Washington DC)",
+    "category": "civic",
+    "source_url": "https://inthesetimes.com/authors/conor-kenny",
+    "snippet": "Conor Kenny is the editor of Congresspedia.org and a former money-in-politics investigative researcher for Public Citizen."
+   }
+  ]
+ },
+ {
+  "donor_id": "8674e2f5fad3c12f",
+  "name": "Bell, Charles",
+  "resolved_employer": "None reported (self-reported unemployed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be tied to a Charles Bell in Austin zip 78704 reporting no employer. 'Charles Bell' is a very common name and the only Austin-area public figures with that name are clearly different people: a Charles T. Bell registered with the Texas Ethics Commission as a legislative consultant/lobbyist at a business address of 919 Congress Ave, Austin 78701 (registration ID 87130) - inconsistent with an 'unemployed / employer: None' filing - and a former state legislator Charles C. Bell. Identity not corroborated; industry taken from the self-reported occupation only. The 38-record federal donation history with a fully Democratic lean is consistent with a recurring small-dollar giver but is not itself identifying.",
+  "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/charles-t-bell-87130?cycle=2015-to-now",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "donor_id": "dc72c6ab37d78d9d",
+  "name": "Wallace, Bill",
+  "resolved_employer": "Unidentified nonprofit organization (self-reported occupation and employer both 'Nonprofit'), Tyler, TX",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "No public profile could be corroborated for a Bill/William Wallace in Tyler, TX 75701 working in the nonprofit sector. Searches surfaced only same-named individuals elsewhere (a Bill Wallace at Success North Dallas in Addison, and a Bill Wallace who is Chief Administrative Officer at Central Health in Travis County) - neither matches the Tyler 75701 address, so neither was used. Classification is an employer-field fallback only: the filing's self-reported occupation/employer 'Nonprofit' is the sole basis. FEC individual-contribution and Texas Ethics Commission lobbyist searches returned no match for this person.",
+  "source_url": "https://www.taxexemptworld.com/organizations/tyler_tx_75701.asp",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e0229d9db316be91",
+  "name": "Orton, Gregg",
+  "resolved_employer": "National Council of Asian Pacific Americans (NCAPA) - National Director; NCAPA is fiscally sponsored as a project of the Tides Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Gregg Orton is National Director of NCAPA, a Washington, DC-based coalition of ~45 national Asian American and Native Hawaiian/Pacific Islander organizations; NCAPA operates as a project of the Tides Center, exactly matching the filed employer string 'Tides center/ncapa' and the Washington DC 20011 zip. He previously spent nearly a decade on Capitol Hill for Rep. Al Green (D-TX), serving as his Chief of Staff. Full bio read found one additional role: Advisory Board member, Friends of the National Asian Pacific American Museum. No Texas lobbyist registration and no FEC PAC contribution records were found.",
+  "source_url": "https://www.ncapaonline.org/about-2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "National Council of Asian Pacific Americans (NCAPA)",
+    "role": "National Director",
+    "category": "civic",
+    "source_url": "https://www.ncapaonline.org/about-2/",
+    "snippet": "\"Gregg Orton serves as National Director, overseeing policy development and communications strategy\" for NCAPA, a coalition of national AA and NHPI organizations organized around committees on civil rights, education, health, housing and economic justice, immigration, and civic engagement. NCAPA operates as a project of the Tides Center."
+   },
+   {
+    "org": "Friends of the National Asian Pacific American Museum",
+    "role": "Advisory Board member",
+    "category": "civic",
+    "source_url": "https://www.friendsofnapam.org/team/gregg-orton",
+    "snippet": "Listed on the organization's team page as an Advisory Board member, identified as National Director of The National Council of Asian Pacific Americans."
+   }
+  ]
+ },
+ {
+  "donor_id": "e15a1e512e26a492",
+  "name": "Jacobs, Gwen",
+  "resolved_employer": "Law Office of Eric Harron, Austin, TX - criminal defense attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Corroborated as Laura Gwendolyn 'Gwen' Jacobs, Texas bar number 24066677, licensed December 11, 2008 (J.D., St. Mary's University, 2008), practicing criminal law at The Law Office of Eric Harron, 819 1/2 West 11th Street, Austin, TX - an exact match to the filed employer and Austin location. Directory listings confirm she practices in criminal, DWI, and ADR matters. Full profile read surfaced no board seats, policy-advocacy roles, or organizational memberships. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=305924",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e27ccbda719dddd3",
+  "name": "Penarredonda, Ulises",
+  "resolved_employer": "CREAN - Defense Manufacturing Subject Matter Expert (professional-profile listing); previously Divisional CPI (Continuous Process Improvement) Coordinator, U.S. Navy, Norfolk, VA",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "The filing carries no occupation or employer. The only public individual matching this distinctive surname in the Washington DC metro is Ulises Guillermo Penarredonda, a property owner of record in Alexandria/Fairfax County, VA, whose professional profile lists him as a Defense Manufacturing Subject Matter Expert at CREAN and a former Divisional Continuous Process Improvement Coordinator with the U.S. Navy in Norfolk, VA; his profile now shows an Austin, TX location, which is consistent with a Northern Virginia address on a 2022-dated contribution followed by an Austin move. Identity is corroborated by surname rarity plus the Alexandria VA property record, but not by occupation on the filing, so confidence is capped at medium. His Navy work is federal civil/contract service rather than a defense-contractor ownership, executive, board, or lobbying role, so no military_defense affiliation is recorded. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://rocketreach.co/ulises-penarredonda-email_70777657",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e300764eb13a64c2",
+  "name": "Aarons, Stephen",
+  "resolved_employer": "Traverse Legal, PLC (Austin, TX office) - corporate and securities attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Stephen M. Aarons is a corporate and securities attorney in Traverse Legal PLC's Austin, Texas office, an exact match to the filed employer, occupation, and city. Texas bar number 24092008, licensed 11/06/2014; J.D. Tulane (2014), B.S. Finance, University of Maryland Smith School (2006). His practice covers private securities offerings, venture capital financings, M&A, and corporate governance, and he has served as outside general counsel to hedge, private equity, real estate, and venture capital funds; before law school he spent five years in banking and real estate finance at Wells Fargo Private Bank and Wentwood Capital Advisors, a real estate investment management firm. Full firm-bio read found no board seats, policy-advocacy roles, or organizational memberships beyond law-school honors (Moot Court Board, Order of Barristers). The pipeline records 7 prior FEC donations with a fully Democratic partisan lean; direct FEC.gov and OpenSecrets record retrieval was blocked (403 / JavaScript-only search UI), so no specific federal committee or PAC recipient could be independently sourced and none is asserted here. No Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://www.traverselegal.com/stephen-aarons/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e34e7c8daea65009",
+  "name": "Floyd, Kathryn",
+  "resolved_employer": "Shell (self-reported on filing) — communications manager",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "No independent public profile could be confirmed for a Kathryn Floyd working in communications at Shell in Houston zip 77008. LinkedIn returns several Katie/Kathryn Floyd profiles, including a 'Katie Floyd Rohe - Shell' profile, but none could be corroborated to zip 77008 or to the exact name/occupation on the filing, so identity is not established. Industry is an employer-fallback classification from the self-reported employer 'Shell' only. Pipeline FEC-match metadata shows 13 prior federal donations with a 0.90 Democratic partisan lean, consistent with a routine small-dollar federal donor, but no specific FEC record was independently retrieved (fec.gov result pages are JS-rendered and the OpenFEC API returned HTTP 429; OpenSecrets returned HTTP 403).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e3e32c57944c5d40",
+  "name": "Minor, Quincy",
+  "resolved_employer": "Progressive (insurance) — underwriter (self-reported on filing)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "No public profile of any kind was found for a Quincy Minor in Austin (zip 78725) working as an underwriter for Progressive — no LinkedIn, news, corporate, licensing, or civic-roster hit. Industry is an employer-fallback classification only: insurance underwriting maps to Finance in the taxonomy. Pipeline metadata shows zero matched federal donations, consistent with a first-time or local-only small-dollar donor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e633d925852cf5d7",
+  "name": "Kane, Jennifer",
+  "resolved_employer": "Self-employed — Jennifer Kane, LCSW, private psychotherapy practice (couples/individual therapy, teletherapy), Greenwood Village, CO",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Identity corroborated on three points: Psychology Today lists Jennifer Kane, Clinical Social Work/Therapist, Greenwood Village, CO 80111 — an exact zip match to the donor record; occupation 'Therapist' and employer 'Self' match a solo private practice; her practice site lists her office at 6200 S. Syracuse Way, Greenwood Village CO 80111, Colorado LCSW license CSW.09925689. Full About-page read shows a solo clinician (Emory BA/MA 1982, University of Denver MSW 1998) with training in EFT, CBT, MBSR, EMDR and Discernment Therapy; no board seats, corporate roles, or policy-advocacy positions disclosed. No FEC PAC record and no Texas lobbyist registration found; pipeline metadata shows 16 matched federal donations, consistent with a habitual small-dollar donor.",
+  "source_url": "https://www.psychologytoday.com/us/therapists/jennifer-kane-greenwood-village-co/707437",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "National Association of Social Workers, Colorado Chapter (NASW-CO)",
+    "role": "Member (professional association)",
+    "category": "business",
+    "source_url": "https://www.jenniferkanelcsw.com/about",
+    "snippet": "Her About page lists professional memberships in the 'Colorado Center for Emotionally Focused Therapy' and the 'National Association of Social Workers, Colorado Chapter.' Recorded as a professional-association membership only — no board, officer, or advocacy role is claimed on the page."
+   }
+  ]
+ },
+ {
+  "donor_id": "e63b3a15a5ba7707",
+  "name": "Brooks, Deon",
+  "resolved_employer": "Third Coast Environmental Services, Inc. — founder/owner; state-certified drinking-water sampling contractor for TCEQ",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "A Voyage Houston profile identifies Deon Brooks as founder/owner of Third Coast Environmental Services, a Houston-area company he started in 2007 that collects drinking-water samples under the State Drinking Water Contract for the Texas Commission on Environmental Quality, grown to ~12 employees across 70+ Texas counties. This matches the filing's occupation 'Water treatment' and employer 'Self' (business owner). Confidence is medium rather than high because the company address is Houston 77041 while the donor zip is Katy 77493 — a plausible same-metro home/work split, but not independently confirmed. Full profile read shows no board seats or policy-advocacy roles; a possible Sam Houston Water Association appearance was too weakly sourced to record. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration found; pipeline metadata shows zero matched federal donations.",
+  "source_url": "https://voyagehouston.com/interview/meet-deon-brooks-third-coast-environmental-services-inc-spring-branch-area-clay-rd-gessner/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6e5e6e510ca156b",
+  "name": "Eddins, Erne",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify this person. The only web hits for 'Erne Eddins' are the Austin city campaign finance report PDFs recording this donation itself (656 South Cochran, Los Angeles CA 90036, $100 on 2022-08-30) — circular, not independent corroboration. The filing lists no occupation or employer, so no employer-fallback classification is possible. A LinkedIn profile exists for an 'Ernel Eddins, Government Relations Professional' in Los Angeles, but the name is not an exact match and nothing (zip, occupation, employer, donation pattern) corroborates it as the same person, so it is not used. No FEC PAC contributions and no Texas lobbyist registration found under this name; pipeline metadata shows zero matched federal donations.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e87b5565c43a7080",
+  "name": "Kearse, Kheperah",
+  "resolved_employer": "LIFE Camp, Inc. (Love Ignites Freedom thru Education) — Chief Wellness Officer; also founder of Gemnasium LLC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Robin 'Kheperah' Kearse is the Chief Wellness Officer of LIFE Camp, Inc., the South Jamaica, Queens violence-prevention/intervention nonprofit named in the donor's employer field; the filed occupation 'CWO' matches her documented title exactly, and she has a NY/NJ-area professional footprint consistent with the Englewood NJ zip. She co-created culturally-adaptive healing and trauma-response methodologies used across the NYC Crisis Management System and founded Gemnasium LLC, a personal/professional wellbeing practice.",
+  "source_url": "https://www.peaceisalifestyle.com/about-1",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "LIFE Camp, Inc.",
+    "role": "Chief Wellness Officer",
+    "category": "gun_control",
+    "source_url": "https://www.peaceisalifestyle.com/about-1",
+    "snippet": "LIFE Camp, founded April 2002, describes itself as 'one of the leading violence prevention and intervention organizations in America'; Kheperah Kearse is listed as Chief Wellness Officer, 'a wellness apostle whose commitment is to normalizing the mind-body wellness lifestyle within the most underserved communities in the US.' LIFE Camp is a community gun-violence-interruption organization within the NYC Crisis Management System. Note: this is community violence intervention/service delivery rather than legislative gun-control lobbying."
+   },
+   {
+    "org": "Gemnasium LLC",
+    "role": "Founder",
+    "category": "business",
+    "source_url": "http://gemnasiumllc.com/creator",
+    "snippet": "Kheperah is the founder of Gemnasium LLC, a model which helps people discover their own pathway to personal and professional well-being, using transformative learning, nutritional balance and emotional intelligence training."
+   }
+  ]
+ },
+ {
+  "donor_id": "e8ef0fd1929ddf82",
+  "name": "Segura-Kelly, Daniel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Daniel Stephen Segura-Kelly (b. 1984) is an Austin/Travis County Democratic Party activist — a Travis County Democratic Party precinct chair and, per Austin Bulldog reporting, an officer of Stonewall Democrats of Austin. Identity corroborated by Austin residency, his own separate small-dollar TEC-reported donation to the Travis County Democratic Party, and a donation pattern (23 federal contributions, partisan lean 1.0) consistent with a party volunteer. No occupation or employer is listed on the filing and no employment record could be located in public sources, so no industry is assigned. Note: his roles are volunteer/party positions, not employment.",
+  "source_url": "https://theaustinbulldog.org/democrats-petition-to-oust-jessica-cohen/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Democratic Party",
+    "role": "Precinct chair (precinct number reported variously as 101 and 126) and Finance Committee co-chair",
+    "category": "political",
+    "source_url": "https://theaustinbulldog.org/democrats-petition-to-oust-jessica-cohen/",
+    "snippet": "Austin Bulldog reporting identifies Daniel Segura-Kelly as a Travis County Democratic Party precinct chair and co-chair of the party's Finance Committee, describing his attempt at an April 19 committee meeting to have members hear a recording related to allegations against party leadership. (Direct page fetch returned HTTP 403; content obtained via search index of this URL.)"
+   },
+   {
+    "org": "Stonewall Democrats of Austin",
+    "role": "Vice President (as reported)",
+    "category": "political",
+    "source_url": "https://theaustinbulldog.org/democrats-petition-to-oust-jessica-cohen/",
+    "snippet": "Same Austin Bulldog reporting describes Segura-Kelly as Vice President of Stonewall Democrats of Austin. Not independently confirmed on stonewallaustin.org; treat as single-source."
+   }
+  ]
+ },
+ {
+  "donor_id": "e901695f8b8268d8",
+  "name": "Calhoun, Alexander",
+  "resolved_employer": "Law Office of Alexander L. Calhoun (solo practitioner, criminal defense / criminal appeals & post-conviction)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Alexander Lee Calhoun is an Austin solo-practitioner criminal defense and criminal-appellate attorney, licensed in Texas since 1993 (J.D. Tulane 1993, B.A. UCLA 1990). Identity strongly corroborated: his Avvo profile is filed under zip 78748 (office 8700 Menchaca Rd, Ste 301, Austin TX 78748) — an exact match to the donor's 78748 zip — and the filing's occupation 'Attorney' / employer 'Self' matches his solo practice.",
+  "source_url": "https://www.avvo.com/attorneys/78748-tx-alexander-calhoun-244404.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Criminal Defense Lawyers Association (ACDLA)",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://acdla.com/members/alexander-calhoun/",
+    "snippet": "Alexander Calhoun is listed in the ACDLA member directory as an Austin criminal defense attorney. (Direct fetch returned HTTP 403; listing confirmed via the association's indexed member page.) Professional-association membership only — no leadership or board role found."
+   }
+  ]
+ },
+ {
+  "donor_id": "e914e61a0f9972e4",
+  "name": "Ahmed, Imad",
+  "resolved_employer": "Self-employed consultant (Austin); a same-named Austin technology executive/advisor profile exists but is not zip-confirmed as the same person",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Campaign-finance records independently corroborate the donor: Imad Ahmed of 3013 E 17th St, Austin TX 78702, listed as self-employed, appears as a $100 contributor on a Mike Siegel campaign finance report (7/22/2024), and earlier ActBlue contributions (2019) list Imad Ahmed, self-employed consultant, Austin — matching the filing's zip 78702, 'Consultant'/'Self Employed' occupation and the 51-donation, lean-1.0 Democratic giving pattern. A same-named Austin tech executive (ex-Intel, ex-CreditCards.com, ex-VP BizDev at The Zebra; Capital Factory mentor; Venture Partner at NextGen Venture Partners) matches the 'consultant/advisor' self-description but could NOT be tied to the 78702 address, so that identification is not asserted.",
+  "source_url": "https://www.linkedin.com/in/ahmedimad/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eb7a2364855e357e",
+  "name": "HARGIS, ROSALIND",
+  "resolved_employer": "STR Hair Designs (hairdresser) — business has no independently locatable public listing",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Rosalind N. Hargis is a longtime Austin resident with public-records addresses in the 78723 zip (e.g., Oldfort Hill Dr, Austin TX 78723), matching the donor's zip. Her occupation is self-reported as hairdresser at STR Hair Designs; no business registration, salon listing, or web presence for 'STR Hair Designs' could be located, so the classification rests on the filed occupation. Classified by employer/occupation fallback as a personal-care service business (Retail). No public policy, advocacy, or professional-leadership footprint found.",
+  "source_url": "https://veripages.com/name/Rosalind/Hargis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ebe1467572ecfd2a",
+  "name": "Castro, Inyang",
+  "resolved_employer": "U.S. Department of the Treasury (self-reported on filing; customer service)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "No public profile found for an Inyang Castro in Plano, TX (75023). Name+city+FEC searches returned no matching individual. Classification rests entirely on the self-reported occupation/employer on the campaign finance filing (customer service, U.S. Department of Treasury); identity not independently corroborated. Note: bio_full_read is recorded false because no bio, About, LinkedIn, or professional-profile page for this person was located to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ec5245f1782f8925",
+  "name": "Whitfield, Hilary",
+  "resolved_employer": "Everytown for Gun Safety (Organizing Manager); previously volunteer state/regional leader, Texas chapter of Moms Demand Action for Gun Sense in America",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Hilary Rand Whitfield is a longtime Austin, TX resident (matches 78704) and a volunteer state leader for the Texas chapter of Moms Demand Action for Gun Sense in America, the grassroots arm of Everytown for Gun Safety; she testified before Texas legislative committees on gun safety bills in 2019 and is quoted in Everytown/Moms Demand Action press releases. Her self-reported employer (Everytown for Gun Safety) and Austin location both corroborate.",
+  "source_url": "https://podcasts.la.utexas.edu/this-is-democracy/speaker/hilary-rand-whitfield/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Everytown for Gun Safety",
+    "role": "Organizing Manager (self-reported employer on filing)",
+    "category": "gun_control",
+    "source_url": "https://www.everytown.org/press/texas-moms-demand-action-everytown-urge-texas-safety-commission-to-consider-proven-gun-safety-legislation/",
+    "snippet": "\"Now more than ever, we need our lawmakers to get serious about gun safety,\" said Hilary Whitfield, volunteer leader with the Texas chapter of Moms Demand Action for Gun Sense in America — the grassroots network of Everytown for Gun Safety."
+   },
+   {
+    "org": "Moms Demand Action for Gun Sense in America (Texas chapter)",
+    "role": "Volunteer state/regional leader",
+    "category": "gun_control",
+    "source_url": "https://podcasts.la.utexas.edu/this-is-democracy/speaker/hilary-rand-whitfield/",
+    "snippet": "Hilary Rand Whitfield is a volunteer state leader for the Texas chapter of Moms Demand Action for Gun Sense in America; a stay-at-home mother of two and Austin resident for the last 12 years."
+   }
+  ]
+ },
+ {
+  "donor_id": "ef4d88b13b28f90a",
+  "name": "Cooke, Latreese",
+  "resolved_employer": "MELJ Center (Minorities for Equality in Economy, Education, Liberty and Justice) — Founder and Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Latreese Cooke is the founder and executive director of the MELJ Center, a Central Texas nonprofit providing reentry services for formerly incarcerated people; she also hosts 'Iron Sharpens Iron' on Austin's KAZI 88.7 FM, serves as Vice Chair of CAPCOG's Criminal Justice Advisory Committee, and is president of the Central Texas chapter of the National Action Network. Employer 'MELJ' and 'EXECUTIVE DIRECTOR' on the filing match exactly; Martindale (78655) is in the Austin/Central Texas area.",
+  "source_url": "https://www.melj.org/latreese-cooke",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "CAPCOG Criminal Justice Advisory Committee",
+    "role": "Vice Chair",
+    "category": "civic",
+    "source_url": "https://www.melj.org/latreese-cooke",
+    "snippet": "Bio lists Cooke as Vice Chair of the Capital Area Council of Governments (CAPCOG) Criminal Justice Advisory Committee."
+   },
+   {
+    "org": "National Action Network, Central Texas chapter",
+    "role": "President",
+    "category": "civic",
+    "source_url": "https://www.melj.org/latreese-cooke",
+    "snippet": "Bio lists Cooke as President of the Central Texas chapter of the National Action Network."
+   }
+  ]
+ },
+ {
+  "donor_id": "efda8ee0825c096b",
+  "name": "Caruthers, Rebekah",
+  "resolved_employer": "Fair Elections Center — President and CEO (national nonpartisan voting-rights nonprofit, Washington DC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rebekah Caruthers is President and CEO of the Fair Elections Center, a DC-based national voting rights nonprofit; she previously served as its Vice President for roughly 4.5 years. She is a J.D. (University of Nebraska College of Law) and a member of the DC Bar, matching the filing's 'Attorney' occupation and 'Non-profit' employer, and the Capitol Heights, MD (20743) address is DC-metro.",
+  "source_url": "https://fairelectionscenter.org/staff/rebekah-caruthers/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Fair Elections Center",
+    "role": "President and CEO (previously Vice President)",
+    "category": "civic",
+    "source_url": "https://fairelectionscenter.org/staff/rebekah-caruthers/",
+    "snippet": "Caruthers leads Fair Elections Center, a national voting rights organization, having previously served as Vice President for four and a half years."
+   },
+   {
+    "org": "Everytown for Gun Safety",
+    "role": "Prior staff/campaign role (listed among past organizations in her official bio)",
+    "category": "gun_control",
+    "source_url": "https://fairelectionscenter.org/staff/rebekah-caruthers/",
+    "snippet": "Her prior roles include positions at MoveOn.org, Everytown for Gun Safety, the National Democratic Training Committee, Equal Justice Works, and the National Network for Arab American Communities."
+   }
+  ]
+ },
+ {
+  "donor_id": "f024ec3bfb3586b7",
+  "name": "Anderson-Reed, Alexis",
+  "resolved_employer": "State Voices — President/CEO (filing lists 'State Democracy Action', which could not be independently confirmed as a distinct entity)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Alexis Anderson-Reed is President/CEO of State Voices, a national progressive civic-engagement and voter-mobilization network she has led since 2018, and sits on the boards of the Alliance for Youth Organizing, the State Innovation Exchange, and the Scherman Foundation. The filing's title 'President' matches and Upper Marlboro, MD (20772) is DC-metro; however the employer string 'State Democracy Action' does not appear in any public State Voices material found, so the employer mapping is inferred from the name+title match rather than confirmed.",
+  "source_url": "https://www.statevoices.org/about-us/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "State Voices",
+    "role": "President / CEO (Executive Director from 2018)",
+    "category": "civic",
+    "source_url": "https://www.statevoices.org/five-years-with-alexis-anderson-reed/",
+    "snippet": "Alexis joined State Voices as Executive Director in 2018 and grew the network from 17 to 24 State Tables; State Voices describes itself as the largest progressive network in the country championing a multiracial democracy."
+   },
+   {
+    "org": "Alliance for Youth Organizing; State Innovation Exchange; Scherman Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.statevoices.org/about-us/our-team/",
+    "snippet": "Bio states Alexis serves on the boards of the Alliance for Youth Organizing, State Innovation Exchange, and the Scherman Foundation."
+   }
+  ]
+ }
+]

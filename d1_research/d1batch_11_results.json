@@ -1,0 +1,396 @@
+[
+  {
+    "donor_id": "d5529b3b601ae7f8",
+    "name": "Walker, Nancy",
+    "resolved_employer": "State of Texas — Policy Advisor (retired / currently not employed); also principal of Nancy Walker Consulting LLC, a small Austin business-consulting firm registered at her 78749 home address",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "FEC-derived individual-contribution records show a NANCY WALKER at zip 78749 giving as 'STATE OF TEXAS/POLICY ADVISOR' ($25 to Hillary for America, 10/14/2016) — a direct name+zip match to this donor, who now self-reports 'Not Employed', consistent with retirement from state service. Travis County property records list NANCY J WALKER at the registered address of Nancy Walker Consulting LLC (management/technical consulting), but that link rests on an address match rather than confirmed identity, hence medium confidence. Her 407 recorded federal donations at a 1.0 Democratic lean fit a high-frequency small-dollar ActBlue-style giving pattern.",
+    "source_url": "https://www.city-data.com/elec2/16/elec-AUSTIN-TX-16-part43.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6aa49147f475008c",
+    "name": "Greer, Denise",
+    "resolved_employer": "Certified Registered Nurse Anesthetist (CRNA), El Paso, TX",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "A medical directory listing for 'Denise Greer, CRNA, El Paso, TX' matches the donor's reported occupation and city. The reported employer 'Heart Hospital' could not be tied to any El Paso facility — no hospital by that name operates there — so she may be a travel or contract CRNA, or the string may reference an out-of-market facility such as The Heart Hospital Baylor in DFW. Occupation + city corroborate identity; the specific zip does not, so confidence is medium. FEC search returned no records for this individual and no ideological or industry PAC giving on any side.",
+    "source_url": "https://www.doximity.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a8b5761976e866fd",
+    "name": "Gayle, Jackson",
+    "resolved_employer": "Travis County District Attorney's Office — Assistant District Attorney (Texas Bar record also lists Texas Legal Services Center as firm of record)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Name is reversed in the filing: this is Jackson Parker Gayle, Texas Bar #24107780, licensed since 5/4/2018, South Texas College of Law Houston (2017), Austin-based — a direct match to the reported 'Lawyer, ADA' occupation and TCDAO employer. His State Bar record lists Texas Legal Services Center (Austin legal-aid nonprofit) as firm of record. NOT RECORDED: several search-engine summaries asserted he 'filed to run for Austin City Council, District 1'; no primary source corroborates this (the Austin filing period does not open until 7/20/2026 and no candidate roster lists him), so it is excluded as likely summarizer conflation.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=356146",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9bf9b0ef2fab62dd",
+    "name": "Miguel, Powers",
+    "resolved_employer": "Capgemini — Senior Infrastructure Solution Architect (Transition & Transformation)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Name is reversed in the filing: this is Miguel N. Powers, Senior Infrastructure Solution Architect at Capgemini, matching the reported occupation and employer exactly; Capgemini's Dallas-area office is consistent with the Richardson, TX 75082 address. Prior roles at IBM and Hewlett Packard Enterprise. Full profile read surfaced no board seats, leadership roles, or policy-advocacy memberships. FEC search returned no federal contribution records, consistent with fec_donation_count of 0. Categorize-by-employer outcome.",
+    "source_url": "https://www.zoominfo.com/p/Miguel-Powers/1996010945",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "abe297110cad7d49",
+    "name": "Justin, Parsons",
+    "resolved_employer": "City of Austin — program manager (CPRP-certified parks/recreation professional); also a City of Austin volunteer commissioner",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Name is reversed in the filing — this is Justin Parsons of Austin 78735. A Justin Parsons, CPRP, is publicly associated with the City of Austin and was appointed to the African American Resource Advisory Commission (term 3/6/2025–2/28/2027) and chairs the Joint Inclusion Committee. Occupation 'Program manager' and truncated employer string 'C' are consistent with 'City of Austin'; zip and city match. No single document ties the donor record to the commissioner, hence medium.",
+    "source_url": "https://bandc.crccheck.com/jic/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Austin — African American Resource Advisory Commission",
+        "role": "Commissioner (term 3/6/2025–2/28/2027)",
+        "category": "civic",
+        "source_url": "https://services.austintexas.gov/edims/document.cfm?id=449095",
+        "snippet": "City of Austin board and commission nominations list Justin Parsons as a Joint Inclusion Committee nomination to the African American Resource Advisory Commission, initial term March 6, 2025 to February 28, 2027."
+      },
+      {
+        "org": "City of Austin — Joint Inclusion Committee",
+        "role": "Chair; primary representative for the African American Resource Advisory Commission",
+        "category": "civic",
+        "source_url": "https://bandc.crccheck.com/jic/",
+        "snippet": "Joint Inclusion Committee roster lists 'Justin Parsons (Chair) - African American Resource Advisory Commission'."
+      }
+    ]
+  },
+  {
+    "donor_id": "78868537e1102032",
+    "name": "Kannan, Prabhu",
+    "resolved_employer": "Indeed — Head of Scaled Operations / Scaled Operations Director",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Prabhu Kannan is a tech operations executive whose published professional bio states he was Head of Scaled Operations at Indeed (and Glassdoor), with prior roles at Microsoft and Atlassian and a UT Austin connection. Filing occupation and employer match; the bio lists a current location outside Austin, so the match is corroborated by employer/title rather than address — medium confidence. Full bio read surfaced no board seats or advocacy roles.",
+    "source_url": "https://www.thinkers360.com/tl/prabhu",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "05fe8411777ca19e",
+    "name": "Carter, Jonathan",
+    "resolved_employer": "U.S. House Committee on Oversight and Government Reform — Counsel (self-reported on the campaign finance filing)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-reported as Counsel for the House Oversight Committee, Washington DC 20003. No public staff directory entry, bio page, or news mention could be found for a 'Jonathan Carter' at the committee — the LegiStorm staff directory that would list committee counsels is subscription-gated. 'Jonathan Carter' is a very common name, so the specific individual could not be independently confirmed; industry is an employer-string fallback only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "07a7d623058753e3",
+    "name": "Aguilar, Kia",
+    "resolved_employer": "District of Columbia government — attorney (self-reported on the campaign finance filing)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-reported as an attorney employed by DC Government, residing in Dumfries, VA 22025. No matching bar directory listing, agency bio, firm page, or news mention for a 'Kia Aguilar' practicing law in DC or Virginia could be located. The specific individual is unconfirmed; industry is an employer-string fallback only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0b730b0f5fd54774",
+    "name": "Pham, Vinh",
+    "resolved_employer": "Panther (Panther Labs, Inc.) — cloud-native SIEM / security-monitoring software company; Partner Sales Director",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Filing lists 'Partner Sales Director' at 'Panther', Austin 78756. Panther Labs is a cloud-native SIEM vendor where that title exists. The only web-discoverable person with that exact title-and-employer pairing is profiled as Toronto-based, so the Austin zip does not corroborate; 'Vinh Pham' is a very common name and no Austin-specific profile could be confirmed. Industry assigned by employer fallback only.",
+    "source_url": "https://research.contrary.com/company/panther-labs",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0deae833c76e56ff",
+    "name": "Beall, Jonathan",
+    "resolved_employer": "Sertodo Copper — founder and director; Austin-based handcrafted copper goods maker with workshops in Austin, TX and Santa Clara del Cobre, Michoacán, Mexico",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Jonathan Beall founded Sertodo Copper in 1997 after a dot-com layoff in Austin and an apprenticeship with Michoacán coppersmiths; he runs it as an international artisan cooperative with 30+ employees producing cookware and barware from recycled copper. Employer string 'Sertodo' and occupation 'Copper' match exactly, and prior political giving records place him in Austin (e.g. a $250 contribution to Bernie 2016 listed as Sertodo Copper, Austin TX). Full reads of his Voyage Austin interview and the Sertodo about page disclose no board seats or advocacy affiliations.",
+    "source_url": "https://voyageaustin.com/interview/hidden-gems-meet-jonathan-beall-of-sertodo-copper/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0e6c35c3ed61d105",
+    "name": "Angle, Matt",
+    "resolved_employer": "Angle Strategies, Inc. (Arlington, VA) — principal; founder and Director of the Lone Star Project, a Texas Democratic political research and strategic communications organization",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Confirmed as the Texas Democratic operative: Matt Angle, former chief of staff to U.S. Rep. Martin Frost, founded the Lone Star Project in 2005 and serves as its Director, and is principal of Angle Strategies, Inc. — matching the filing's Arlington VA 22207 address, 'Consultant' occupation, and 'Angle Strategies' employer string. FEC records show federal giving from Matthew Angle, self-employed consultant, Arlington VA 22207 (e.g. $500 to the Biden Victory Fund, 08/24/2020); no ideological-PAC contributions surfaced on any side. No Texas Ethics Commission lobbyist registration found — his work is PAC/research and campaign consulting, not registered lobbying.",
+    "source_url": "https://lonestarproject.net/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Lone Star Project",
+        "role": "Founder and Director",
+        "category": "political",
+        "source_url": "https://lonestarproject.net/about-us/",
+        "snippet": "\"LSP Director, Matt Angle and LSP legal counsel are recognized among the most informed and credible Texas voices on redistricting and voting rights matters.\" Founded 2005 as a Texas Democratic political research and strategic communications organization."
+      },
+      {
+        "org": "Angle Strategies, Inc.",
+        "role": "Principal / political consultant",
+        "category": "business",
+        "source_url": "https://ballotpedia.org/Matt_Angle",
+        "snippet": "Angle is the principal of Angle Strategies, Inc., an Arlington, VA political consulting firm, and has served as director of the Texas Democratic Trust and as a political/redistricting consultant to America Votes."
+      }
+    ]
+  },
+  {
+    "donor_id": "0eba0b62824a756e",
+    "name": "Lierman, Brooke",
+    "resolved_employer": "State of Maryland — 34th Comptroller of Maryland (elected 2022, took office January 2023); previously counsel at Brown, Goldstein & Levy LLP and member of the Maryland House of Delegates, District 46 (2015–2023)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as the sitting Comptroller of Maryland: occupation 'Comptroller', employer 'Maryland', and Baltimore MD 21231 residence all match — she is the first woman independently elected to a Maryland constitutional office. An attorney (Dartmouth BA, University of Texas School of Law JD) who practiced civil rights and disability rights law before eight years in the Maryland House. As a public official her political giving is a matter of public record; no ideological-PAC ties surfaced. No Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.marylandcomptroller.gov/about/brooke-lierman.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Maryland General Assembly / State of Maryland",
+        "role": "Comptroller of Maryland (2023–present); Delegate, District 46 (2015–2023)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Brooke_Lierman",
+        "snippet": "Lierman served in the Maryland House of Delegates from 2015 to 2023 on the Appropriations and Environment and Transportation committees, and has been the 34th Comptroller of Maryland since 2023."
+      },
+      {
+        "org": "Maryland House of Delegates — gun violence prevention legislative record",
+        "role": "Legislative sponsor/advocate as state delegate (legislative record, not an organizational role)",
+        "category": "gun_control",
+        "source_url": "https://ballotpedia.org/Brooke_Elizabeth_Lierman",
+        "snippet": "As a state legislator, Lierman \"led on school funding, gun violence prevention, and reproductive healthcare.\""
+      },
+      {
+        "org": "Baltimore Museum of Art",
+        "role": "Trustee",
+        "category": "civic",
+        "source_url": "https://en.wikipedia.org/wiki/Brooke_Lierman",
+        "snippet": "Lierman has served as a trustee of the Baltimore Museum of Art."
+      },
+      {
+        "org": "Advocates for Children and Youth",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://en.wikipedia.org/wiki/Brooke_Lierman",
+        "snippet": "Lierman served on the board of Advocates for Children and Youth, a Maryland child-policy advocacy organization."
+      },
+      {
+        "org": "Downtown Partnership of Baltimore",
+        "role": "Board member",
+        "category": "business",
+        "source_url": "https://en.wikipedia.org/wiki/Brooke_Lierman",
+        "snippet": "Lierman served on the board of the Downtown Partnership of Baltimore, a downtown business and development organization."
+      },
+      {
+        "org": "Baltimore Women United",
+        "role": "Co-founder (2016)",
+        "category": "civic",
+        "source_url": "https://en.wikipedia.org/wiki/Brooke_Lierman",
+        "snippet": "Lierman co-founded Baltimore Women United in 2016."
+      },
+      {
+        "org": "Maryland Women for Biden",
+        "role": "Co-chair (2020)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Brooke_Lierman",
+        "snippet": "Lierman served as co-chair of Maryland Women for Biden during the 2020 presidential campaign."
+      }
+    ]
+  },
+  {
+    "donor_id": "0ffa13f5decc1837",
+    "name": "Smith, Garrett",
+    "resolved_employer": "TELUS International (TELUS Digital) — technical support",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "No public profile found for a Garrett Smith in Austin ZIP 78725 (Del Valle area) in tech support at TELUS International; 'Garrett Smith' is a very common name and the LinkedIn profiles surfaced do not match the reported occupation or ZIP. TELUS International does operate a customer-experience and technical-support workforce in Austin, so the employer string is plausible; industry assigned via employer fallback only. The 65 FEC donations at 0.998 partisan lean are consistent with a small-dollar recurring donor, but no individual FEC record could be tied to this specific person.",
+    "source_url": "https://www.payscale.com/research/US/Employer=TELUS_International/City/Austin-TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1405533838d7b270",
+    "name": "Figures, Kalisha",
+    "resolved_employer": "KDF Strategies — Founder & Chief Strategist; social impact/policy consulting firm",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Dr. Kalisha Dessources Figures is Founder and Chief Strategist of KDF Strategies, matching the reported employer string exactly; she is a former Special Assistant to President Biden on the White House Gender Policy Council and former Policy Advisor to the Obama Council on Women and Girls, and is married to U.S. Rep. Shomari Figures (D-AL-02), which corroborates the Bethesda, MD 20817 address. FEC records show a $250 contribution from a Kalisha Dessources in suburban Maryland listed as a self-employed policy consultant; no ideological PAC giving found.",
+    "source_url": "https://www.kalishafigures.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "KDF Strategies",
+        "role": "Founder & Chief Strategist",
+        "category": "business",
+        "source_url": "https://www.kalishafigures.com/about",
+        "snippet": "Founder and principal of KDF Strategies, a social impact consulting firm advising organizations on policy, research, advocacy, coalition-building, and political strategy."
+      },
+      {
+        "org": "Justice + Joy National Collaborative",
+        "role": "Member, Board of Trustees",
+        "category": "civic",
+        "source_url": "https://justiceandjoynatl.org/meet-the-new-members-to-the-justice-joys-board-of-trustees/",
+        "snippet": "\"Founder & Chief Strategist, KDF Strategies — Dr. Kalisha Dessources Figures is a nationally respected impact strategist advancing gender and racial justice, civil rights, and the leadership of women and girls\" — listed as a new board of trustees member."
+      },
+      {
+        "org": "Civic Nation",
+        "role": "Senior Fellow, directing the Change Collective leadership program",
+        "category": "civic",
+        "source_url": "https://www.kalishafigures.com/about",
+        "snippet": "Senior Fellow at Civic Nation, directing the Change Collective leadership program; previously Senior Advisor and Director of Partnerships at When We All Vote."
+      },
+      {
+        "org": "White House Gender Policy Council (Biden-Harris Administration)",
+        "role": "Special Assistant to the President for Gender Policy",
+        "category": "political",
+        "source_url": "https://www.kalishafigures.com/about",
+        "snippet": "Special Assistant to the President for Gender Policy, White House Gender Policy Council; earlier Policy Advisor to the White House Council on Women and Girls (2015–2017)."
+      },
+      {
+        "org": "Office of U.S. Rep. Shomari Figures (D-AL-02)",
+        "role": "Spouse of sitting member of Congress",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Shomari_Figures",
+        "snippet": "Figures met Kalisha Dessources in 2014 while they both worked at the White House; they married on December 2, 2018. Shomari Figures has served as U.S. representative for Alabama's 2nd congressional district since 2025."
+      }
+    ]
+  },
+  {
+    "donor_id": "15e004d1aa4eb87a",
+    "name": "Davis, Wendy",
+    "resolved_employer": "Wendy Davis Consulting LLC — Principal; Democratic fundraising and strategic advising",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Corroborated as the former Texas state senator and 2014 Democratic gubernatorial nominee: the employer string 'Wendy Davis Consulting' matches Wendy Davis Consulting LLC, an Austin firm whose stated business is fundraising and strategic advice to organizations supporting Democratic infrastructure and reproductive rights, and which is a Texas political payee with $214,750 in recorded payments through May 2026. Austin ZIP 78703 plus 272 FEC donations at a 1.0 Democratic lean are consistent. NOT RECORDED: a 'Davis, Wendy R.' appears on the Texas Ethics Commission 2023 registered-lobbyist list at an Austin P.O. Box; the entry could not be independently opened and read, so it is excluded as unverified.",
+    "source_url": "https://www.dsgco.com/placed_leaders/wendy-davis/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Planned Parenthood Texas Votes",
+        "role": "Senior Advisor",
+        "category": "political",
+        "source_url": "https://www.texastribune.org/2023/02/28/wendy-davis-planned-parenthood-abortion/",
+        "snippet": "Wendy Davis joined Planned Parenthood Texas Votes — the policy, advocacy and political arm of the three Planned Parenthood affiliates in Texas — as senior adviser, announced February 2023."
+      },
+      {
+        "org": "Deeds Not Words",
+        "role": "Founder",
+        "category": "civic",
+        "source_url": "https://www.dsgco.com/placed_leaders/wendy-davis/",
+        "snippet": "Founded Deeds Not Words, a nonprofit focused on activating young women as advocates for gender equity."
+      },
+      {
+        "org": "DefendTheFrontline.Org",
+        "role": "Founder",
+        "category": "civic",
+        "source_url": "https://www.dsgco.com/placed_leaders/wendy-davis/",
+        "snippet": "Established DefendTheFrontline.Org, a fund supporting individuals and organizations facing civil and criminal penalties for providing abortion access post-Roe."
+      },
+      {
+        "org": "Wendy Davis for Congress / Wendy Davis Victory Fund (FEC committees C00713297, C00738435)",
+        "role": "Federal candidate, TX-21 (2020 Democratic nominee)",
+        "category": "political",
+        "source_url": "https://www.fec.gov/data/committee/C00713297/",
+        "snippet": "Wendy Davis for Congress registered with the FEC on July 22, 2019; Davis was the 2020 Democratic nominee for Texas's 21st Congressional District."
+      }
+    ]
+  },
+  {
+    "donor_id": "16efa7e9bdfda518",
+    "name": "Peeler, Bre",
+    "resolved_employer": "Cobb County School District — school improvement specialist / MTSS-RTI-EIP interventionist; also reported as Superintendent, The International Academy of Georgia",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Dr. Bre Peeler is a Cobb County School District educator based in the Atlanta area and a Spelman College alumna, matching the 'Cobb County Schools' employer string and the Mableton, GA 30126 address (Mableton is in Cobb County). The second employer string, 'The International Academy of Georgia,' could not be verified — no such school was found; the similarly named Imagine International Academy of Mableton closed in 2013 — so the superintendent title is unconfirmed. The single reported FEC donation could not be matched to a specific federal record, and no PAC or lobbyist-registry activity was found.",
+    "source_url": "https://www.linkedin.com/in/dr-bre-peeler/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ad19da04f4cdcbc",
+    "name": "Ramos, Ben",
+    "resolved_employer": "Ben Ramos Real Estate / @properties — real estate broker; founder, Ben Ramos Photography",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Chicago-based real estate broker at @properties (licensed 2022) who previously spent over a decade running Ben Ramos Photography, a wedding photography business started in 2014 — matching the filed occupation 'Photographer & Realtor' and Chicago 60657 location. NOT RECORDED: he shares a surname with D1 candidate Misael D. Ramos, but no public source links them, so no family relationship is asserted.",
+    "source_url": "https://www.benramosre.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1cd74c3650b637a4",
+    "name": "Handal, Edgar",
+    "resolved_employer": "NVIDIA — Senior Architect",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Senior Architect at NVIDIA based in Austin, TX, previously at Intel; BS in Electrical and Computer Engineering from UT Austin — corroborating the filed employer 'NVIDIA' and occupation 'Computer engineer' at an Austin 78702 address. Has a prior Austin municipal giving history, including a $100 contribution on 06/30/2024 to City Council candidate Zohaib A. Qadri. No lobbyist registration and no PAC or advocacy-organization role found.",
+    "source_url": "https://www.linkedin.com/in/edgar-handal-072a6444",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1e92d0eb275e7a02",
+    "name": "Whatley, Melba",
+    "resolved_employer": "MDW Interests, Ltd. — principal; private oil, gas and real estate investment firm (filed as 'Unemployed')",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Longtime Austin civic figure and philanthropist who runs MDW Interests, a private oil, gas and real estate investment firm registered in Austin. Co-founder and president of the Waller Creek Conservancy (now Waterloo Greenway), former facilities chair at St. Edward's University, and instrumental in the merger creating The Contemporary Austin. Despite the 'Unemployed / None' occupation on the filing, her business identity is documented in public press releases. Her 213 federal contributions with a near-uniform Democratic lean are consistent with the civic-donor profile; no ideological PAC tie (pro-Israel, pro-Palestine, gun, or defense) was found in public records.",
+    "source_url": "https://www.prnewswire.com/news-releases/waller-creek-conservancy-announces-new-ceo-and-plans-for-2015-300020774.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "MDW Interests, Ltd.",
+        "role": "Principal / owner",
+        "category": "oil_gas",
+        "source_url": "https://www.prnewswire.com/news-releases/waller-creek-conservancy-announces-new-ceo-and-plans-for-2015-300020774.html",
+        "snippet": "Describes Melba Whatley as running \"MDW Interests, a private oil, gas, and real estate investment firm.\""
+      },
+      {
+        "org": "Waller Creek Conservancy (now Waterloo Greenway Conservancy)",
+        "role": "Founder and President",
+        "category": "civic",
+        "source_url": "https://magazine.texasarchitects.org/2017/11/16/austins-melba-whatley-named-txa-cornerstone-honoree/",
+        "snippet": "Identifies her as \"president and founder of the Waller Creek Conservancy of Austin,\" leading the removal of 28 acres from the downtown 100-year flood plain."
+      },
+      {
+        "org": "St. Edward's University",
+        "role": "Chair, Facilities Committee (former)",
+        "category": "civic",
+        "source_url": "https://magazine.texasarchitects.org/2017/11/16/austins-melba-whatley-named-txa-cornerstone-honoree/",
+        "snippet": "Former chair of St. Edward's Facilities Committee, overseeing \"the construction or complete renovation of 15 buildings.\""
+      },
+      {
+        "org": "The Contemporary Austin",
+        "role": "Instrumental in creation of Arthouse at the Jones Center / The Contemporary Austin",
+        "category": "civic",
+        "source_url": "https://magazine.texasarchitects.org/2017/11/16/austins-melba-whatley-named-txa-cornerstone-honoree/",
+        "snippet": "She was \"instrumental in the creation of Arthouse at the Jones Center, now The Contemporary Austin.\""
+      }
+    ]
+  },
+  {
+    "donor_id": "2146839b372737f3",
+    "name": "Salinas, Jake",
+    "resolved_employer": "Texas House of Representatives — Legislative Director",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Career Texas House staffer in Austin, listed as Legislative Director at the Texas House of Representatives, matching the filed employer and occupation and an Austin 78751 address. The Texas State Directory lists him as Legislative Director for TX House Rep. Sheryl Cole (entry last modified 12-17-2020, so the member assignment may have changed); House Research Organization staff directories show earlier service as constituent liaison in the 87th Legislature and director of legislative services in the 88th. He does NOT appear as a registered lobbyist in Texas Ethics Commission lobby registration searches, and no federal contributions are on record.",
+    "source_url": "https://www.txdirectory.com/online/person/?id=63097&staff=8763",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

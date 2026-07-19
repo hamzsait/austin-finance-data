@@ -1,10 +1,30 @@
-CYCLE: 31 batches pending
-(node:14152) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+CYCLE: 26 batches pending
+(node:16052) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-OK 1 d1batch_02.json [500s] cost=$7.383194500000003 running=$7.38
-USAGE-LIMIT PAUSE 5min
-OK 2 d1batch_01.json [541s] cost=$9.414731250000004 running=$16.80
-OK 3 d1batch_03.json [546s] cost=$9.37098525000001 running=$26.17
-OK 4 d1batch_04.json [613s] cost=$10.925000999999998 running=$37.09
-USAGE-LIMIT PAUSE 10min
-USAGE-LIMIT PAUSE 20min
+OK 1 d1batch_08.json [536s] cost=$8.206569349999999 running=$8.21
+OK 2 d1batch_09.json [594s] cost=$11.076823499999998 running=$19.28
+OK 3 d1batch_06.json [596s] cost=$8.570649250000006 running=$27.85
+OK 4 d1batch_07.json [602s] cost=$8.162244750000001 running=$36.02
+OK 5 d1batch_13.json [499s] cost=$6.9376820000000015 running=$42.95
+OK 6 d1batch_11.json [553s] cost=$9.341516750000004 running=$52.30
+OK 7 d1batch_10.json [634s] cost=$10.323388249999994 running=$62.62
+OK 8 d1batch_12.json [911s] cost=$10.075894250000006 running=$72.69
+OK 9 d1batch_15.json [396s] cost=$7.00727275 running=$79.70
+OK 10 d1batch_14.json [501s] cost=$7.980826500000003 running=$87.68
+OK 11 d1batch_16.json [440s] cost=$7.994072249999997 running=$95.68
+OK 12 d1batch_17.json [449s] cost=$7.697692999999999 running=$103.37
+OK 13 d1batch_18.json [479s] cost=$7.613686499999998 running=$110.99
+OK 14 d1batch_20.json [414s] cost=$5.024204849999999 running=$116.01
+OK 15 d1batch_19.json [542s] cost=$10.787345999999994 running=$126.80
+OK 16 d1batch_22.json [449s] cost=$6.221097749999998 running=$133.02
+OK 17 d1batch_23.json [465s] cost=$8.5500495 running=$141.57
+OK 18 d1batch_21.json [542s] cost=$8.140123749999997 running=$149.71
+OK 19 d1batch_24.json [590s] cost=$11.461922999999999 running=$161.17
+OK 20 d1batch_26.json [431s] cost=$6.609262999999997 running=$167.78
+OK 21 d1batch_25.json [484s] cost=$8.557917749999998 running=$176.34
+OK 22 d1batch_27.json [571s] cost=$9.007997000000001 running=$185.35
+OK 23 d1batch_28.json [478s] cost=$7.97862685 running=$193.33
+OK 24 d1batch_29.json [425s] cost=$6.109848999999998 running=$199.44
+OK 25 d1batch_30.json [432s] cost=$6.302856249999998 running=$205.74
+OK 26 d1batch_31.json [369s] cost=$7.2739385000000025 running=$213.01
+ALL DONE. completed this run: 26. total spend: $213.01. failed: 0

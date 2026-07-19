@@ -1,0 +1,478 @@
+[
+ {
+  "donor_id": "28f01ec3b5533aa0",
+  "name": "L. Martin, Tara",
+  "resolved_employer": "TLM Strategic Advisors (founder & CEO); subsequently Managing Director, Mercury Public Affairs, New York",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Tara L. Martin is the founder and CEO of TLM Strategic Advisors, a boutique public affairs/social impact firm in New York City, matching the filing's exact employer and 'CEO' occupation; she is New York City-based (Brooklyn), consistent with zip 11233, and was named to City & State's 2021 Brooklyn Power 100. She is a career public affairs executive and former registered lobbyist in New York (chief lobbyist for NYSNA), not a Texas lobbyist.",
+  "source_url": "https://www.mercuryllc.com/our-team/taralmartin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "New York State Nurses Association (NYSNA)",
+    "role": "State Political Director and Chief Lobbyist (former)",
+    "category": "political",
+    "source_url": "https://www.mercuryllc.com/our-team/taralmartin/",
+    "snippet": "Tara served as the Political Director and Chief Lobbyist of the New York State Nurses Association (NYSNA)."
+   },
+   {
+    "org": "Retail, Wholesale and Department Store Union / UFCW (RWDSU)",
+    "role": "Director of Communications (former)",
+    "category": "political",
+    "source_url": "https://www.mercuryllc.com/our-team/taralmartin/",
+    "snippet": "She has served as Communications Director for the Retail, Wholesale and Department Store Union/UFCW."
+   },
+   {
+    "org": "Mercury Public Affairs",
+    "role": "Managing Director, New York office",
+    "category": "business",
+    "source_url": "https://www.mercuryllc.com/our-team/taralmartin/",
+    "snippet": "Tara L. Martin is a Managing Director at Mercury's New York City office, advising clients on corporate strategy, government affairs, social impact and media strategies."
+   }
+  ]
+ },
+ {
+  "donor_id": "293a0308102b267d",
+  "name": "Banning, Rob",
+  "resolved_employer": "WEKA (WekaIO) — Director, Corporate Communications; subsequently Senior Director, Strategic Communications at Simbe Robotics",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Rob Banning is a San Francisco-based corporate communications executive who served as Director of Corporate Communications at WEKA, exactly matching the filing's 'Communications' occupation and 'WEKA' employer; SF location corroborates zip 94110. Prior roles include Amazon, HackerRank, Sidecar Health, Mixpanel and Sisense.",
+  "source_url": "https://www.linkedin.com/in/rbanning/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Frameline (San Francisco International LGBTQ+ Film Festival)",
+    "role": "Member, Board of Directors",
+    "category": "civic",
+    "source_url": "https://theorg.com/org/frameline/org-chart/rob-banning",
+    "snippet": "Rob Banning is listed as a Member of the Board of Directors at Frameline, the nonprofit promoting queer cinema."
+   }
+  ]
+ },
+ {
+  "donor_id": "2a0a37cd8a09c156",
+  "name": "Llanes, Daniel",
+  "resolved_employer": "No employer listed; longtime East Austin artist and community organizer (chair, Govalle/Johnston Terrace Neighborhood Plan Contact Team)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Corroborated as the well-known East Austin artist-activist Daniel Llanes: he chaired the Govalle/Johnston Terrace Neighborhood Plan Contact Team, whose planning area lies within 78702, and lived in Central East Austin. The blank occupation/employer and consistent progressive federal giving pattern (fec_partisan_lean 1.0) fit a full-time community organizer rather than a salaried employee. He died December 4, 2025, well after the September 2022 gift.",
+  "source_url": "https://austinfreepress.org/el-luchador/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Govalle/Johnston Terrace Neighborhood Plan Contact Team",
+    "role": "Chair",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/el-luchador/",
+    "snippet": "Llanes was instrumental in creating the 2003 Govalle/Johnston Terrace Plan, which rezoned industrial land to residential use while preserving affordable housing."
+   },
+   {
+    "org": "PODER (People Organized in Defense of Earth and her Resources)",
+    "role": "Active member / organizer",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/el-luchador/",
+    "snippet": "Active member: PODER, River Bluff Neighborhood Association, Save Our Springs Alliance, La Raza Roundtable, Undoing Racism Austin Collective."
+   },
+   {
+    "org": "East Austin 'tank farm' campaign (against six oil companies' 52-acre petroleum storage site)",
+    "role": "Lead organizer, opposition campaign",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/el-luchador/",
+    "snippet": "Led efforts to shut down the 52-acre petroleum storage tank farm operated by six oil companies in East Austin."
+   },
+   {
+    "org": "Save Our Springs Alliance",
+    "role": "Active member",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/between-earth-sky/",
+    "snippet": "He worked with PODER, the East Austin Strategy Team, and Save Our Springs to shut down the toxic petroleum-storage tank farm."
+   }
+  ]
+ },
+ {
+  "donor_id": "2b728471810648cd",
+  "name": "Hook, Kristin",
+  "resolved_employer": "Union of Concerned Scientists — Director for Science Policy",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dr. Kristin Hook is Director for Science Policy at the Union of Concerned Scientists, exactly matching the filing's 'Scientist' occupation and employer. Texas ties corroborate the San Marcos 78666 address: she was raised in South Texas, holds a BS/BA from UT Austin, and ran for U.S. House in TX-21 (which includes San Marcos), matching her FEC record and 1.0 partisan lean.",
+  "source_url": "https://www.ucs.org/about/people/kristin-hook",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Union of Concerned Scientists",
+    "role": "Director for Science Policy",
+    "category": "civic",
+    "source_url": "https://www.ucs.org/about/people/kristin-hook",
+    "snippet": "Dr. Hook is Director of Science Policy at the Union of Concerned Scientists, advising policymakers on emerging scientific and technological challenges."
+   },
+   {
+    "org": "500 Women Scientists",
+    "role": "Co-founder and grassroots leader, Washington DC pod",
+    "category": "civic",
+    "source_url": "https://www.ucs.org/about/people/kristin-hook",
+    "snippet": "Advancing diversity in STEM fields as co-founder and grassroots organizer of 500 Women Scientists in Washington, DC."
+   },
+   {
+    "org": "Dr. Kristin Hook for Congress (U.S. House, TX-21)",
+    "role": "Candidate / principal campaign committee (FEC candidate ID H4TX21108)",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/candidate/H4TX21108/",
+    "snippet": "FEC candidate overview page for HOOK, KRISTIN A DR., with authorized committee 'Dr. Kristin Hook for Congress' in Texas district 21."
+   },
+   {
+    "org": "Office of U.S. Senator Elizabeth Warren",
+    "role": "ASA Congressional Science & Engineering Fellow (former)",
+    "category": "political",
+    "source_url": "https://www.ucs.org/about/people/kristin-hook",
+    "snippet": "Served as ASA Congressional Science & Engineering Fellow in the office of Senator Elizabeth Warren."
+   }
+  ]
+ },
+ {
+  "donor_id": "2bb0788d7f1504de",
+  "name": "Peterson, Camille",
+  "resolved_employer": "Central Ohio Area Agency on Aging (COAAA), which became a stand-alone Regional Council of Governments on January 1, 2026 — social worker",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Camille Peterson is a licensed social worker (LSW since 2002, BSSW/MSW from Ohio State) employed by COAAA, the Central Ohio Area Agency on Aging, and has lived in Galloway, Ohio for over 20 years — matching zip 43119, the 'Social Worker' occupation, and the 'Council of Government' employer, since COAAA converted to a Regional Council of Governments effective January 1, 2026, months before the June 2026 gift. She was appointed to the South-Western City Schools Board of Education in 2024.",
+  "source_url": "https://www.petersonalkiredillon4swcs.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "South-Western City Schools Board of Education",
+    "role": "Board member (appointed 2024; ran for an at-large seat in the November 4, 2025 general election)",
+    "category": "political",
+    "source_url": "https://www.petersonalkiredillon4swcs.com/",
+    "snippet": "Camille was appointed to the School Board in 2024 and has called the South Western community home since 2004."
+   },
+   {
+    "org": "Central Ohio Area Agency on Aging (COAAA) Regional Council of Governments",
+    "role": "Social worker (staff)",
+    "category": "civic",
+    "source_url": "https://www.coaaa.org/about/regional-council-of-governments/",
+    "snippet": "COAAA operates as a Regional Council of Governments of representatives from eight central Ohio counties, effective January 1, 2026."
+   }
+  ]
+ },
+ {
+  "donor_id": "30f8562bff8f8e53",
+  "name": "Camorlinga, Vianey",
+  "resolved_employer": "CVR Associates (affordable-housing management consulting firm), Austin TX — relocation specialist",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Filing lists occupation 'Relocation Specialist' at CVR Associates, Austin 78757. CVR Associates is a real management-consulting firm founded 1995 specializing in affordable housing and relocation/mobility services, and it staffs tenant-relocation work in Austin (e.g., the Rosemont Tenant Investment Program for Strategic Housing Finance Corp). No independent public bio, news mention, or professional profile for Vianey Camorlinga was found, so identification rests on the self-reported filing plus the employer's verified Austin relocation practice.",
+  "source_url": "https://www.cvrassociates.com/consulting",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3260367dd6978f89",
+  "name": "Burkhart, Geoff",
+  "resolved_employer": "Travis County — County Executive for Community Legal Services (public defense, family representation); previously Executive Director, Texas Indigent Defense Commission and Texas Fair Defense Project",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Travis County's official Community Legal Services team page identifies Geoff Burkhart as County Executive for Community Legal Services, matching the filing's occupation 'Attorney' and employer 'Travis County' in Austin. The same person previously served as Executive Director of the Texas Indigent Defense Commission, which lists him in its staff directory.",
+  "source_url": "https://www.traviscountytx.gov/cls/meet-the-cls-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Indigent Defense Commission",
+    "role": "Former Executive Director",
+    "category": "civic",
+    "source_url": "https://www.traviscountytx.gov/cls/meet-the-cls-team",
+    "snippet": "Travis County bio: served as Executive Director for the Texas Indigent Defense Commission, where he helped double the State of Texas's public defense spending and tripled the number of public defender offices in the state."
+   },
+   {
+    "org": "Texas Fair Defense Project",
+    "role": "Former Executive Director",
+    "category": "civic",
+    "source_url": "https://www.traviscountytx.gov/cls/meet-the-cls-team",
+    "snippet": "Travis County bio: 'previously served as Executive Director for the Texas Fair Defense Project (TFDP), a nonprofit.'"
+   },
+   {
+    "org": "American Bar Association — Standing Committee on Legal Aid and Indigent Defendants (SCLAID) / Center for Innovation",
+    "role": "Former Project Director and Counsel; first Deputy Director and Counsel",
+    "category": "civic",
+    "source_url": "https://www.traviscountytx.gov/cls/meet-the-cls-team",
+    "snippet": "Travis County bio: helped lead the ABA's public defense reform efforts as Project Director and Counsel to SCLAID, and served as first Deputy Director and Counsel to the ABA Center for Innovation."
+   }
+  ]
+ },
+ {
+  "donor_id": "334c52689f3235da",
+  "name": "Wong, Andy",
+  "resolved_employer": "Chinese for Affirmative Action (CAA), San Francisco — Managing Director of Advocacy; founding partner of Stop AAPI Hate",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Filing occupation/employer ('Managing Director of Advocacy', 'Chinese for Affirmative Action') and San Francisco 94109 location match CAA's published staff listing and his board bio at The Campaign for College Opportunity, which names him Managing Director of Advocacy at CAA and a founding partner of Stop AAPI Hate.",
+  "source_url": "https://collegecampaign.org/people/andy-wong-secretary",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Giffords",
+    "role": "Former Engagement Director",
+    "category": "gun_control",
+    "source_url": "https://collegecampaign.org/people/andy-wong-secretary",
+    "snippet": "Board bio lists prior experience as Engagement Director at Giffords, the gun violence prevention organization."
+   },
+   {
+    "org": "Chinese for Affirmative Action / Stop AAPI Hate",
+    "role": "Managing Director of Advocacy; founding partner of Stop AAPI Hate",
+    "category": "civic",
+    "source_url": "https://collegecampaign.org/people/andy-wong-secretary",
+    "snippet": "Leads advocacy campaigns for CAA and spearheaded Stop AAPI Hate's partnership with the California AAPI Legislative Caucus securing the $166.5 million API Equity Budget."
+   },
+   {
+    "org": "The Campaign for College Opportunity",
+    "role": "Board Secretary",
+    "category": "civic",
+    "source_url": "https://collegecampaign.org/people/andy-wong-secretary",
+    "snippet": "Listed as Secretary on the board of The Campaign for College Opportunity."
+   }
+  ]
+ },
+ {
+  "donor_id": "34c2de28f26ed051",
+  "name": "Moore, Reggie",
+  "resolved_employer": "Medical College of Wisconsin, Comprehensive Injury Center — Director of Community Safety Policy and Engagement (formerly Director, City of Milwaukee Office of Violence Prevention)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "MCW's official staff page identifies Reggie Moore as Director of Community Safety Policy and Engagement at the Comprehensive Injury Center in Milwaukee, matching the filing's 'Director' / 'Medical College of WI' and Milwaukee 53210. Widely covered as the former director of Milwaukee's Office of Violence Prevention and author of the city's Blueprint for Peace.",
+  "source_url": "https://www.mcw.edu/departments/comprehensive-injury-center/people/reggie-moore",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Milwaukee Office of Violence Prevention",
+    "role": "Former Director (2016–2021)",
+    "category": "gun_control",
+    "source_url": "https://www.mcw.edu/news/reginald-reggie-moore-named-director-of-violence-prevention-policy-and-engagement-for-the-comprehens",
+    "snippet": "MCW announcement: Moore served as Director of Injury and Violence Prevention for the City of Milwaukee Health Department Office of Violence Prevention and led development of the Blueprint for Peace, a public health approach to gun violence."
+   },
+   {
+    "org": "Everytown for Gun Safety — 2020 Democratic National Convention gun safety panel",
+    "role": "Panelist (alongside Brady, CSGV, Community Justice Action Fund, Giffords, March for Our Lives)",
+    "category": "gun_control",
+    "source_url": "https://www.everytown.org/press/gun-safety-to-be-featured-during-the-democratic-national-convention/",
+    "snippet": "Everytown press release lists panel participant 'Reggie Moore, Director of the Office of Violence Prevention for the Milwaukee Health Department.'"
+   },
+   {
+    "org": "Medical College of Wisconsin, Comprehensive Injury Center",
+    "role": "Director, Community Safety Policy and Engagement",
+    "category": "gun_control",
+    "source_url": "https://www.mcw.edu/departments/comprehensive-injury-center/people/reggie-moore",
+    "snippet": "MCW profile: advances violence prevention policy and practice in Wisconsin and nationally; facilitated Wisconsin's first $10.5M Community Safety Fund in 2021."
+   },
+   {
+    "org": "Urban Underground",
+    "role": "Co-founder",
+    "category": "civic",
+    "source_url": "https://milwaukeenns.org/2021/05/21/exclusive-reggie-moore-s-role-of-a-lifetime-acting-to-stop-violence-before-it-starts/",
+    "snippet": "Milwaukee NNS profile: Moore co-founded Urban Underground, a youth leadership organization, with his wife Sharlen."
+   }
+  ]
+ },
+ {
+  "donor_id": "39042011e039cfb1",
+  "name": "Pharris, Mary",
+  "resolved_employer": "Self-employed consultant (Callicoon Center, NY). Possible match: a Mary Pharris who spent ~10 years as a political/nonprofit fundraiser, ran The Mary Pharris Group, and later worked in business development in New York — not confirmed to the 12724 address.",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Consultant', employer 'Self', Callicoon Center NY 12724. A public professional profile exists for a Mary Pharris with a UT Austin McCombs MBA who 'spent nearly 10 years working in politics and nonprofits as a fundraiser and managed her own firm for two years' and is based in New York — a plausible but unconfirmed match (no source places her in Sullivan County / 12724). Classified by the filing's own occupation as a fallback.",
+  "source_url": "https://www.generalassemb.ly/instructors/mary-pharris/18937",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "39f70b851f98b593",
+  "name": "Nelson, Piper",
+  "resolved_employer": "I Live Here I Give Here (Executive Director)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Piper Stege Nelson is the Executive Director of Austin nonprofit I Live Here I Give Here, matching the filing's occupation 'ED' and employer exactly; Austin-based, named to BBC 100 Women 2021 for anti-violence work at The SAFE Alliance. Prior roles include Deputy Director of Annie's List and Publisher of The Texas Observer; she was a 2020 candidate for Austin ISD District 5.",
+  "source_url": "https://en.wikipedia.org/wiki/Piper_Stege_Nelson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "I Live Here I Give Here",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Piper_Stege_Nelson",
+    "snippet": "Nelson serves as Executive Director of I Live Here I Give Here, an Austin, Texas non-profit dedicated to local philanthropy."
+   },
+   {
+    "org": "Annie's List",
+    "role": "Deputy Director (former)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Piper_Stege_Nelson",
+    "snippet": "Nelson has previously worked with Annie's List, a political action committee which recruits, trains, and supports progressive women running for office."
+   },
+   {
+    "org": "The SAFE Alliance",
+    "role": "Chief Public Strategies Officer (2017-2020), oversaw policy arm",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Piper_Stege_Nelson",
+    "snippet": "She served as Chief Public Strategies Officer at SAFE, managing the volunteer, community education, marketing & communications, earned revenue venture, and policy arms of the organization."
+   },
+   {
+    "org": "Austin Independent School District, District 5",
+    "role": "Candidate, 2020 general election (lost)",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Piper_Stege_Nelson",
+    "snippet": "Piper Stege Nelson ran for election to the Austin Independent School District to represent District 5 and lost in the general election on November 3, 2020."
+   }
+  ]
+ },
+ {
+  "donor_id": "3a30bb1404d82871",
+  "name": "Napier, Dan",
+  "resolved_employer": "Retired; self-reported occupation 'Rancher' (retired)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No public profile could be confirmed for a Dan Napier who is a retired rancher in San Antonio ZIP 78232. Multiple unrelated Dan Napiers appear in people-search and LinkedIn results (Westminster CO, Ottawa, MGM Grand Las Vegas), none matching the location or occupation. Classification rests solely on the self-reported occupation/employer on the filing; note the taxonomy has no agriculture label, so 'Self-Employed' is the closest available fit rather than an exact one.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ae92578440887ec",
+  "name": "Harrington, Jim",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity could not be corroborated. The filing has a blank ZIP, blank city, blank occupation and blank employer, leaving no data point to match against. Jim (James C.) Harrington, founder of the Texas Civil Rights Project, is an Austin-based civil rights attorney whose public profile would be consistent with a high federal donation count, but with no ZIP, occupation, or employer on the record there is nothing to confirm the match, and 'Jim Harrington' is a common name. Per instructions, not classified rather than guessed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3c1a26e6d80661c7",
+  "name": "Fambro, Mariah",
+  "resolved_employer": "Google (Global Technical Enablement Program Manager)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Mariah Fambro is listed as Global Technical Enablement Program Manager at Google, based in Austin, matching the filing's occupation 'Program manager', employer 'Google', and Austin/Pflugerville 78660 metro location. Name is uncommon and no competing Austin-area match surfaced. No LinkedIn or personal bio page was publicly readable, so corroboration is limited to the single directory listing.",
+  "source_url": "https://theorg.com/org/google/org-chart/mariah-fambro",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d23aa37bb23bb55",
+  "name": "Wing, Tisun",
+  "resolved_employer": "U.S. Department of the Treasury (Analyst)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A public property record lists 'Wing Tisun J & Jazmine R Leon-Wing' at a Nelson Oaks Dr address in Austin, TX 78724, matching the filing's name and ZIP exactly. Occupation 'Analyst' and employer 'Department of Treasury' are self-reported on the filing; no independent employment record was located, and the donor has zero federal contribution history.",
+  "source_url": "https://www.arivify.com/property/search/PW7rgG6hu",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d776c73a6c46c20",
+  "name": "Green, Dominique",
+  "resolved_employer": "Housing Authority of the City of Austin (HACA) — Family Self Sufficiency (FSS) / Youth Educational Success (YES) Manager",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Dominique Green is the Youth Educational Success (YES)/FSS PBRA Manager at the Housing Authority of the City of Austin, listed on HACA's own staff materials with a hacanet.org email and on LinkedIn as 'Family Self Sufficiency (FSS)/Youth Educational Success (YES) Manager - Housing Authority of the City of Austin'. This matches the filing's self-reported occupation 'Program Manager'/'Manager' and employer 'Housing Authority of Austin'/'HACA' exactly, in Austin.",
+  "source_url": "https://www.linkedin.com/in/dominique-green-23a900255/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3db3df5f677b883e",
+  "name": "Hernandez, Laura",
+  "resolved_employer": "Pescador Public Strategies, LLC — political marketing/public-affairs firm (donor self-reports 'Managing Director')",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Employer self-reported on the filing is Pescador Public Strategies, LLC, a real Texas political marketing/brand firm co-founded by a Laura Hernandez. Identity is only medium-confidence because public records show at least two distinct people: the firm site names a 'Laura Hernandez, Principal Owner' with a 29-year career (firm HQ San Antonio), while 'Laura Hernandez Volluz' on LinkedIn lists a 2011 UH-Downtown degree and a Houston base — neither is documented at the filing's Austin 78730 address, and neither is titled 'Managing Director'. The 282 FEC donations are consistent with a Democratic political-marketing professional but do not by themselves resolve which person this is. Industry classification rests on the self-reported employer, which is reliable. Texas Ethics Commission searches returned no lobbyist registration for either the donor name or the firm.",
+  "source_url": "https://www.pescadorps.com/ourdna",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Pescador Public Strategies, LLC",
+    "role": "Managing Director (self-reported on campaign finance filing); firm co-founder Laura Hernandez listed as Principal Owner on firm site",
+    "category": "political",
+    "source_url": "https://www.pescadorps.com/",
+    "snippet": "Pescador Public Strategies, LLC is described on its own site as a marketing and branding firm dedicated to working with progressive/democratic candidates and causes, applying marketing and brand development principles to position candidates and activate voters, with a focus on the Latino electorate."
+   }
+  ]
+ },
+ {
+  "donor_id": "3ebdd55026e483dc",
+  "name": "SMITH, BRIAN",
+  "resolved_employer": "Baylor Scott & White Health — registered nurse (RN), per self-reported filing only; no independent public profile located",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "No public profile could be matched to this specific person. 'Brian Smith' is an extremely common name and searches for a Brian Smith, RN at Baylor Scott & White in Buda/Hays County (zip 78610) returned no matching staff listing, bio, or professional profile — the only 'Brian Smith, RN' surfaced is a charge nurse at Intermountain Health, a different employer and state. Industry 'Healthcare' is a categorize-by-employer fallback based solely on the self-reported occupation 'RN' and employer 'Baylor Scott & White' on the filing. Zero FEC donations on record, consistent with no federal political footprint.",
+  "source_url": "https://www.bswhealth.com/locations/hospital/buda",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "406649861b2419c3",
+  "name": "WAJIMA, YUTAKA",
+  "resolved_employer": "North American Partners in Anesthesia (NAPA) / Cardiovascular Anesthesiology, PA — board-certified cardiothoracic anesthesiologist",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Yutaka Wajima, MD is a board-certified anesthesiologist practicing in Austin, TX, specializing in cardiothoracic anesthesiology and affiliated with Heart Hospital of Austin (a campus of St. David's Medical Center); his practice address on N Lamar Blvd, Austin is consistent with the filing's Austin 78731 zip. He graduated University of Texas Medical Branch in 1993 and his LinkedIn lists Cardiovascular Anesthesiology, PA — the practice type that matches the filing's self-reported employer North American Partners in Anesthesia. Name is distinctive and the occupation 'Physician' matches.",
+  "source_url": "https://www.healthgrades.com/physician/dr-yutaka-wajima-yfbhk",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4068b143e95d6ece",
+  "name": "DePalma, Richard",
+  "resolved_employer": "FGM Architects — Principal / Vice President, Business Development (Texas)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Rich (Richard) DePalma joined FGM Architects in 2020 as Principal/VP for business development in Texas, per the firm's own team page, matching the filing's occupation 'Principal' and employer 'FGM Architects'. He is a long-time Austin civic figure: City of Austin Parks and Recreation Board member and vice chair, 2018 candidate for Austin City Council District 8, and a resident of Southwest Austin — consistent with the filing's 78739 (Circle C) zip. A separate public contribution record shows a Richard DePalma giving from a 78739 address and listing FGM Architects as principal employer, directly corroborating name + zip + employer.",
+  "source_url": "https://www.fgmarchitects.com/team/rich-depalma/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Austin Parks and Recreation Board",
+    "role": "Board member and Vice Chair (from 2015)",
+    "category": "civic",
+    "source_url": "https://www.austinchronicle.com/news/2018-04-06/rich-depalma-enters-district-8-council-race/",
+    "snippet": "Austin Chronicle coverage of DePalma entering the 2018 District 8 council race identifies him as a Parks and Recreation Board member; board records show him serving since 2015 and as vice chair."
+   },
+   {
+    "org": "Barton Springs Conservancy",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://bartonspringsconservancy.org/leadership/",
+    "snippet": "Barton Springs Conservancy's leadership page lists Rich DePalma, Vice President and Principal at FGM Architects, on its board, and recounts his service on the City of Austin Parks and Recreation Board, Joint Sustainability Committee, Urban Trails Task Force, Aquatics Task Force and Downtown Austin Commission."
+   },
+   {
+    "org": "City of Austin Joint Sustainability Committee / Downtown Austin Commission / Urban Trails and Aquatics task forces",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://bartonspringsconservancy.org/leadership/",
+    "snippet": "His bio lists City of Austin service on the Joint Sustainability Committee, Urban Trails Task Force, Aquatics Task Force and Downtown Austin Commission."
+   },
+   {
+    "org": "Circle C Area Democrats",
+    "role": "Board President (past)",
+    "category": "political",
+    "source_url": "https://bartonspringsconservancy.org/leadership/",
+    "snippet": "His bio lists past service as Board President of the Circle C Area Democrats, alongside past board presidency of TreeFolks and board membership at Austin Parks Foundation."
+   },
+   {
+    "org": "TreeFolks / Explore Austin",
+    "role": "Past Board President (TreeFolks); Advisory Council member (TreeFolks and Explore Austin)",
+    "category": "civic",
+    "source_url": "https://www.fgmarchitects.com/team/rich-depalma/",
+    "snippet": "FGM Architects' profile notes he serves on the Barton Springs Conservancy Board of Directors and the Advisory Councils for Explore Austin and TreeFolks."
+   },
+   {
+    "org": "Austin ISD Facilities and Bond Planning Advisory Committee / Bond Oversight Committee; Austin Community College South Regional Advisory Committee",
+    "role": "Committee member; ACC advisory committee Co-Chair",
+    "category": "civic",
+    "source_url": "https://bartonspringsconservancy.org/leadership/",
+    "snippet": "His bio lists the AISD Facilities and Bond Planning Advisory Committee, the AISD Bond Oversight Committee, and co-chairmanship of the Austin Community College South Regional Advisory Committee."
+   }
+  ]
+ }
+]

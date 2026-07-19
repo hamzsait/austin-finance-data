@@ -1,0 +1,434 @@
+[
+ {
+  "donor_id": "50d05710316ff63e",
+  "name": "Ziai, Kamran",
+  "resolved_employer": "University of Texas at Austin — Director of IT for Instructional Technologies & Design, Dell Medical School (retired 2023); previously Director of IT, St. Edward's University",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Rare surname; the only Kamran Ziai in Austin public records is the longtime UT Austin IT director who retired in 2023 after ~31 years at the university (LinkedIn/aggregator profiles list Austin, TX and Director of IT for Instructional Technologies and Design at Dell Medical School, plus earlier Director of IT at St. Edward's University). Filing occupation 'Retired IT' / employer 'Retired' matches exactly; central-Austin address (78703, with an older public listing at 78705) is consistent. No lobbyist registration, PAC ties, or advocacy-org roles surfaced.",
+  "source_url": "https://www.linkedin.com/in/kamran-ziai-0552112",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5121d3b4841190ae",
+  "name": "Pena, Celina",
+  "resolved_employer": "in/tend LLC (Pittsburgh, PA) — founder/principal, nonprofit and CDFI consulting; previously ~12 years at LiftFund (San Antonio CDFI) as Chief Advancement / Chief Growth / Chief Program Officer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Exact match on all three filing fields: Celina Peña, Pittsburgh PA (15216 is Dormont/Mt. Lebanon, Pittsburgh), nonprofit consultant, employer 'Intend' = in/tend LLC, the consultancy she founded. CDFI Coalition lists her as 'Celina Pena, Intend LLC, Pittsburgh, PA.' Career is community-development finance and nonprofit capacity building; her public roles are civic/community-economic-development boards. No lobbyist registration and no ideological-PAC record surfaced.",
+  "source_url": "https://cdfi.org/testimonial/celina-pena-intend-llc-pittsburgh-pa/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Mexican American Civil Rights Institute (MACRI)",
+    "role": "Board Treasurer",
+    "category": "civic",
+    "source_url": "https://www.intend.us/",
+    "snippet": "Her firm bio lists current board service as Board Treasurer of the Mexican American Civil Rights Institute (MACRI)."
+   },
+   {
+    "org": "San Antonio Housing Trust",
+    "role": "Board Chair (former)",
+    "category": "civic",
+    "source_url": "https://www.intend.us/",
+    "snippet": "Bio lists prior board leadership as Board Chair of the San Antonio Housing Trust."
+   },
+   {
+    "org": "Credit Builders Alliance",
+    "role": "Board Secretary (former)",
+    "category": "civic",
+    "source_url": "https://www.intend.us/",
+    "snippet": "Bio lists prior board leadership as Board Secretary of Credit Builders Alliance."
+   },
+   {
+    "org": "NCRC CDFI Advisory Board",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.intend.us/",
+    "snippet": "Bio lists current membership on the National Community Reinvestment Coalition (NCRC) CDFI Advisory Board."
+   },
+   {
+    "org": "Guadalupe Cultural Arts Center",
+    "role": "Board Chair (former)",
+    "category": "civic",
+    "source_url": "https://www.intend.us/",
+    "snippet": "Bio lists prior board leadership as Board Chair of the Guadalupe Cultural Arts Center."
+   }
+  ]
+ },
+ {
+  "donor_id": "5461f9a60716a0d3",
+  "name": "Marsh, Lindsay",
+  "resolved_employer": "State of Texas (agency and role not confirmable from public sources)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Could not confirm which Lindsay Marsh this is. A 'Lindsay Marsh' appears in the Texas Tribune Government Salaries Explorer (employee record 1060772), which is consistent with the filing's employer 'State of texas', but that record page now 404s so the agency/title could not be verified. The two Austin-area LinkedIn profiles for the name work in consumer-brand and advertising roles, not state government, so neither corroborates. Industry recorded as Government solely on the self-reported employer field (categorize-by-employer fallback); the 'Performance' occupation string is too ambiguous to resolve. No lobbyist registration, PAC ties, or advocacy roles found for any Lindsay Marsh in Texas.",
+  "source_url": "https://salaries.texastribune.org/employees/lindsay-marsh-1060772/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5556355c1ca28534",
+  "name": "Patel, Ankur",
+  "resolved_employer": "Self-employed physician — Ankur P. Patel, MD, adult cardiothoracic anesthesiologist practicing in Austin and Round Rock, TX",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "AMA Find-a-Doctor lists Ankur P Patel, MD, adult cardiothoracic anesthesiology, with a primary practice address at 901 W Ben White Blvd, Austin, TX 78704 — matching the filing's 78704 zip and 'Physician' occupation; 'Self' as employer is consistent with an independent/partnership anesthesia practice. Confidence held at medium because the name is common (a separate Ankur S Patel, DDS also practices in Austin) and the zip match may reflect the practice rather than a residence. No lobbyist registration, ideological-PAC record, or policy-advocacy board role surfaced.",
+  "source_url": "https://find-doctor.ama-assn.org/doctor/ankur-p-patel-md/28392503",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "55ad5c6a37cd1dce",
+  "name": "Audelo, Sarah",
+  "resolved_employer": "Open Society Foundations / Open Society Institute — Deputy Advocacy Director, States",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Sarah Audelo is Deputy Advocacy Director, States at the Open Society Foundations (legal entity Open Society Institute), based in Washington, DC. FEC individual-contribution records show 110 contributions from AUDELO, SARAH at Washington DC zip 20020 listing employer OPEN SOCIETY INSTITUTE and occupation DIRECTOR / DEPUTY ADVOCACY DIRECTOR — an exact match to the D1 record's zip, occupation and employer strings. Previously Executive Director of the Alliance for Youth Action, Millennial/youth vote director for Hillary for America in 2016, and earlier a Special Projects Director at New Venture Fund.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AUDELO%2C+SARAH",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Open Society Foundations (Open Society Institute)",
+    "role": "Deputy Advocacy Director, States",
+    "category": "political",
+    "source_url": "https://www.linkedin.com/pulse/supporting-state-local-organizing-open-society-sarah-audelo",
+    "snippet": "Audelo writes as an Open Society staff member about the foundation's support for state and local organizing; FEC filings list her employer as OPEN SOCIETY INSTITUTE with occupation DEPUTY ADVOCACY DIRECTOR."
+   },
+   {
+    "org": "Alliance for Youth Action",
+    "role": "Executive Director (former)",
+    "category": "political",
+    "source_url": "https://allianceforyouthaction.org/the-new-executive-director/",
+    "snippet": "Alliance for Youth Action announcing Sarah Audelo as its new Executive Director, noting her prior work as a teacher in Texas's Rio Grande Valley, a DC policy advocate, and youth vote director for Hillary Clinton's campaign."
+   },
+   {
+    "org": "Aqui Estamos PAC",
+    "role": "Donor ($250, 2024-04-14)",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AUDELO%2C+SARAH",
+    "snippet": "FEC Schedule A record: AUDELO, SARAH, Washington DC 20020, OPEN SOCIETY INSTITUTE, DEPUTY ADVOCACY DIRECTOR — $250.00 to AQUI ESTAMOS PAC on 2024-04-14."
+   }
+  ]
+ },
+ {
+  "donor_id": "56b4100d87b3a926",
+  "name": "Suplina, Nicholas",
+  "resolved_employer": "New York State (attorney); formerly Senior Vice President for Law and Policy, Everytown for Gun Safety",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as the gun-policy Nicholas (Nick) Suplina. FEC Schedule A records show NICHOLAS SUPLINA, Brooklyn NY 11215, occupation ATTORNEY, with employer listed as EVERYTOWN in 2024 and NY STATE in 2025-2026 — the same zip, occupation and employer string as the D1 record. He was Senior Vice President for Law and Policy at Everytown for Gun Safety and, before that, Senior Advisor and Special Counsel to the New York State Attorney General, where he led work on gun trafficking and ghost guns. The recipient, Amber Goodwin, is herself a national gun-violence-prevention organizer, which corroborates the identification. Note: his current employer string 'New York State' is what he self-reports on federal filings; his LinkedIn headline also lists an Executive Director role in firearms accountability, so the current title is not fully pinned down.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=SUPLINA",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Everytown for Gun Safety",
+    "role": "Senior Vice President, Law and Policy (former)",
+    "category": "gun_control",
+    "source_url": "https://docs.house.gov/meetings/GO/GO00/20220608/114858/HHRG-117-GO00-Bio-SuplinaN-20220608.pdf",
+    "snippet": "House Oversight Committee witness bio: 'Nick Suplina, Senior Vice President, Law and Policy, Everytown for Gun Safety.' Corroborated by FEC filings listing NICHOLAS SUPLINA, Brooklyn 11215, employer EVERYTOWN, occupation ATTORNEY."
+   },
+   {
+    "org": "New York State Office of the Attorney General",
+    "role": "Senior Advisor and Special Counsel (former)",
+    "category": "gun_control",
+    "source_url": "https://www.jjay.cuny.edu/sites/default/files/News/nicholas-suplina-bio.pdf",
+    "snippet": "Bio: as Senior Advisor and Special Counsel to the NY State Attorney General he was lead author of the report 'Target on Trafficking', created a crime gun tracing database, and worked on combating untraceable ghost guns."
+   }
+  ]
+ },
+ {
+  "donor_id": "5938b38259beb384",
+  "name": "Moreno, Alfonso",
+  "resolved_employer": "MooreCo Inc. — Director of Digital Strategy / digital marketing and demand generation",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Alfonso Moreno is Director of Digital Strategy at MooreCo Inc., a Temple, Texas designer and manufacturer of commercial and educational furniture, visual-communication and technology products; he is based in Austin and holds a BS in Mechanical Engineering from UT Austin. FEC records show MORENO, ALFONSO, Austin TX 78723, employer MOORECO INC., occupation MARKETING — an exact match to the D1 record on name, zip, employer and occupation. Industry mapped to Retail as the closest taxonomy label for a commercial-goods manufacturer/supplier (the taxonomy has no manufacturing category).",
+  "source_url": "https://theorg.com/org/mooreco-inc/org-chart/alfonso-moreno",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "594aaeca645ba5de",
+  "name": "Scoor, Sabine",
+  "resolved_employer": "212 Catalysts — Founder & CEO (nonprofit consulting and fiscal-sponsorship intermediary, Austin area)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "212 Catalysts lists BiNi Scoor as Founder & CEO and Board Secretary; the firm is an Austin-area nonprofit consultancy and fiscal-sponsorship intermediary (EquiMediary) that has helped Black-led nonprofits secure over $26 million and supported roughly $600 million in funded projects across Texas. 'BiNi' appears to be the working name for the same person filing as Sabine Scoor — the D1 record's occupation 'CEO', employer '212 Catalysts', and Manor TX 78653 (greater Austin) all line up. Confidence held at medium because no public record directly ties the legal name 'Sabine' to 'BiNi'. No FEC contribution records exist under the Scoor surname.",
+  "source_url": "https://www.212catalysts.org/212-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "212 Catalysts",
+    "role": "Founder & CEO, Board Secretary",
+    "category": "business",
+    "source_url": "https://www.212catalysts.org/212-team",
+    "snippet": "212 Catalysts team page lists 'BiNi Scoor — Founder & CEO, Board Secretary'; the organization provides strategy, operations, financial and fiscal-sponsorship support to mission-driven nonprofits."
+   },
+   {
+    "org": "Austin Achieve Public Schools",
+    "role": "Board Chair",
+    "category": "civic",
+    "source_url": "https://www.austinachieve.org/about-us/board-of-directors",
+    "snippet": "Austin Achieve Public Schools board roster lists 'BiNi Scoor – Chair'."
+   },
+   {
+    "org": "African American Leadership Institute (AALI), Austin",
+    "role": "Co-founder",
+    "category": "civic",
+    "source_url": "https://www.aaliaustin.org/news/a5ektqq72s1gacmmxuf5jm1flndnh4",
+    "snippet": "AALI Austin post titled '2023 Black X Conference: AALI co-founder, BiNi Scoor x KVUE'; 212 Catalysts' own team page also lists a 'Director of Administration - AALI' role, corroborating the tie."
+   }
+  ]
+ },
+ {
+  "donor_id": "59b76348623ec940",
+  "name": "White-Ramsey, Chela",
+  "resolved_employer": "Indeed (Sr. Employee Development Specialist / Senior Manager, Employer Insights Training & Development); also owner of ChelaWorks, LLC, a career-coaching business",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Chela White-Ramsey, PhD is an Austin, TX-based learning-and-development manager at Indeed (the job-search company), where she builds training for engineering and product-management managers; she separately runs ChelaWorks, LLC for resume/interview coaching. The name is distinctive and the Austin location matches the 78747 filing address, though the filing itself lists no occupation or employer, so identity rests on name + city rather than a zip-level match.",
+  "source_url": "https://generalassemb.ly/instructors/chela-white-ramsey-phd/24867",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "59c883487e2f7d03",
+  "name": "Douglas, Anthony",
+  "resolved_employer": "University of Chicago Medicine — general surgery resident physician (filing lists employer as 'Self'); founder of Lil' Scholars, a Chicago 501(c)(3)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Best match is Dr. Anthony Douglas II, MD, a University of Chicago general surgery resident living in the Hyde Park area (60615 adjoins the UChicago medical campus), which fits the filing's 'Doctor' occupation. Corroborating donation pattern: his signature policy work is gun violence prevention, and the recipient candidate, Amber Goodwin, is nationally known for founding a gun-violence-prevention organization for communities of color. 'Anthony Douglas' is a common name and the filing gives no employer, so confidence is held at medium rather than high.",
+  "source_url": "https://p3rc.uic.edu/news-stories/inspiring-the-next-generation-of-surgeon-advocates/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Lil' Scholars",
+    "role": "Founder",
+    "category": "gun_control",
+    "source_url": "https://p3rc.uic.edu/news-stories/inspiring-the-next-generation-of-surgeon-advocates/",
+    "snippet": "He \"created Lil' Scholars, a 501c3 organization where we leverage the transformative power of literacy to prevent gun violence for South Side youth.\""
+   },
+   {
+    "org": "Responsibility in Firearms Legislation Alliance (RIFL)",
+    "role": "Policy brief author",
+    "category": "gun_control",
+    "source_url": "https://p3rc.uic.edu/news-stories/inspiring-the-next-generation-of-surgeon-advocates/",
+    "snippet": "He developed \"a policy brief for the Responsibility in Firearms Legislation Alliance (RIFL)\" proposing a no-fault victim compensation fund financed by the firearms industry."
+   },
+   {
+    "org": "Surgical Advocacy Fellowship, University of Chicago Department of Surgery",
+    "role": "Founder and inaugural fellow",
+    "category": "civic",
+    "source_url": "https://surgery.uchicago.edu/news/diversity-news/dr-anthony-douglas-advocates-prescription-drug-reform-senate-judiciary",
+    "snippet": "Testified before the Senate Judiciary Committee on prescription drug affordability at the invitation of Sen. Dick Durbin; the fellowship equips surgical residents for \"activism in the community, statehouse, and our nation's capital.\""
+   }
+  ]
+ },
+ {
+  "donor_id": "59eb6e345f49efa0",
+  "name": "Sherman, Lee",
+  "resolved_employer": "City of Austin Watershed Protection Department — Lee Sherman, P.E., Water Resources Engineer / project sponsor on stormwater water-quality capital projects",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Lee Sherman, P.E. is listed by name as a key contact and project sponsor on City of Austin Watershed Protection stormwater water-quality projects, and his professional profile lists him as a Water Resources Engineer at the City of Austin — an exact match to the filing's 'Engineer' occupation and 'City of Austin' employer. Residence in Elgin (78621) is a common Austin-area commuter location. Career civil servant; the 153 federal donations appear to be recurring small-dollar giving with no ideological-PAC tie surfacing in FEC or PAC-donor searches.",
+  "source_url": "https://www.austintexas.gov/department/stormwater-management",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cfbeb3a51383a8b",
+  "name": "Gaskew, Aaron",
+  "resolved_employer": "MarketStar — Program Manager, Channel Development (outsourced channel sales for technology vendors); previously Google, CDW-G, AOPEN",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "The only Aaron Gaskew with a public Chicago-area footprint is Aaron L. Gaskew, a Program Manager in Channel Development at MarketStar in Chicago, quoted on the Chicago Parks Foundation site for a MarketStar volunteer day in Humboldt Park, and separately posting publicly about an Oak Park Black-owned business — consistent with the 60302 Oak Park filing address. The filing lists occupation and employer as 'NA', so there is no employer field to corroborate against and the Oak Park link is circumstantial; confidence held low.",
+  "source_url": "https://www.chicagoparksfoundation.org/seeinggreen/green-teams/marketstar22",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "62a61acfbaa56d6b",
+  "name": "Magana Salas, Ginette",
+  "resolved_employer": "CincoDoce Media (co-founder/owner), Austin TX; previously founder/president of Talavera Strategies and Director of Corporate Affairs at NBCUniversal Telemundo",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Ginette Magana Salas is co-founder of CincoDoce Media, an Austin-based media production/creative agency she founded with Miguel Salas — matches the filed employer 'Cinco Doce Media' and Austin location. The firm's About page independently corroborates the same career arc found elsewhere under 'Ginette Magana': NBCUniversal Telemundo leadership, Obama White House Office of Public Engagement (Senior Associate Director, primary liaison to the Latino community and on immigration issues), and prior media/strategy firms (Talavera Strategies).",
+  "source_url": "https://www.cincodocemedia.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "NILC Immigrant Justice Fund (affiliate of the National Immigration Law Center)",
+    "role": "Board member (announced 2019; not listed on the current board roster, so apparently former)",
+    "category": "civic",
+    "source_url": "https://www.nilc.org/2019/10/28/nilc-and-ijf-welcome-new-board-members/",
+    "snippet": "NILC's 2019 announcement of new board members names Ginette Magana, identified as president and founder of Talavera Strategies and former senior associate director of public engagement at the Obama White House, as joining the NILC Immigrant Justice Fund board. The fund's current board page (immigrantjusticefund.org/board) no longer lists her."
+   },
+   {
+    "org": "White House Office of Public Engagement (Obama administration)",
+    "role": "Senior Associate Director; primary White House liaison to the Latino community and on immigration issues",
+    "category": "political",
+    "source_url": "https://obamawhitehouse.archives.gov/blog/author/ginette-maga%C3%B1a",
+    "snippet": "Obama White House archives host an author page for Ginette Magana; her firm bio and the Talavera Strategies launch release both describe her as Senior Associate Director in the White House Office of Public Engagement, the administration's primary liaison to the Latino community and on immigration-related issues."
+   }
+  ]
+ },
+ {
+  "donor_id": "65ab282145f020f9",
+  "name": "Luevanos-Elms, Ivan",
+  "resolved_employer": "Local Progress / Local Progress Impact Lab — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ivan Luevanos-Elms has been Executive Director of Local Progress and the Local Progress Impact Lab since August 2023 — an exact match to the filed occupation and employer. Local Progress is a national network of roughly 1,800 progressive local elected officials; his LA-area residence (90042) is consistent with a bio describing him as a gay Mexican who grew up in Los Angeles.",
+  "source_url": "https://localprogress.org/2023/06/01/next-executive-director-ivan-luevanos-elms/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Local Progress / Local Progress Impact Lab",
+    "role": "Executive Director (since Aug 21, 2023); previously Organizing Director for five years",
+    "category": "political",
+    "source_url": "https://localprogress.org/2023/06/01/next-executive-director-ivan-luevanos-elms/",
+    "snippet": "Local Progress announced Luevanos-Elms as its next Executive Director effective August 21, 2023, noting he had served five years as Organizing Director building the organization's state chapter framework and the Progressive Governance Academy."
+   },
+   {
+    "org": "Working Families Party",
+    "role": "Electoral strategy staff (earlier career)",
+    "category": "political",
+    "source_url": "https://localprogress.org/2023/06/01/next-executive-director-ivan-luevanos-elms/",
+    "snippet": "His published bio states he began 'first in electoral strategy with the Working Families Party.'"
+   },
+   {
+    "org": "Make the Road New York",
+    "role": "Staff, immigrant and LGBTQ+ rights work (earlier career)",
+    "category": "civic",
+    "source_url": "https://localprogress.org/2023/06/01/next-executive-director-ivan-luevanos-elms/",
+    "snippet": "Bio: worked 'at the intersection of immigrant and LGBTQ+ rights with Make the Road NY.'"
+   },
+   {
+    "org": "New York City Council",
+    "role": "Director, Community Engagement Division",
+    "category": "civic",
+    "source_url": "https://localprogress.org/2023/06/01/next-executive-director-ivan-luevanos-elms/",
+    "snippet": "Served as Director of the Community Engagement Division of the New York City Council, where he helped create NYC's municipal ID card system and expand participatory budgeting."
+   }
+  ]
+ },
+ {
+  "donor_id": "67f8904536275812",
+  "name": "Naranjo, Katie",
+  "resolved_employer": "A Pineywoods Home Health Care — Chief Executive Officer",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Confirmed the same Katie Naranjo known in Austin politics: the company's own leadership page lists Katie Naranjo as CEO of A Pineywoods Home Health Care (matching the filed employer and CEO occupation) and states she was President of College Democrats of America and formerly VP of Operations at GNI Strategies, a political consulting firm. Independent news coverage confirms she served as Travis County Democratic Party chair from 2020 until January 2024. Austin residence (78731) is consistent.",
+  "source_url": "https://apineywoods.com/home-health/our-team/katie-naranjo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Democratic Party",
+    "role": "Chair, 2020 – January 2024 (previously precinct chair, SDEC member, President of Capital Area Democratic Women, Texas Youth DNC member)",
+    "category": "political",
+    "source_url": "https://austinmonitor.com/stories/2024/01/pooja-sethi-to-serve-as-new-travis-county-democratic-party-chair/",
+    "snippet": "The Austin Monitor reported that the Travis County Democratic Party executive committee selected Pooja Sethi to serve out the unexpired term of Katie Naranjo as party chair in January 2024; Naranjo had been elected chair in 2020."
+   },
+   {
+    "org": "Texas Association of Home Care and Hospice",
+    "role": "Chair, Government Affairs Committee",
+    "category": "business",
+    "source_url": "https://apineywoods.com/home-health/our-team/katie-naranjo/",
+    "snippet": "Her company bio states she 'is Chair of the Government Affairs Committee at the Texas Association of Home Care and Hospice' — an industry-association legislative-advocacy role in the sector her employer operates in."
+   },
+   {
+    "org": "Planned Parenthood of Greater Texas",
+    "role": "Member, Austin Community Board",
+    "category": "civic",
+    "source_url": "https://apineywoods.com/home-health/our-team/katie-naranjo/",
+    "snippet": "Company bio: 'Katie serves on the Austin Community Board at Planned Parenthood of Greater Texas.'"
+   },
+   {
+    "org": "Naranjo Museum of Natural History",
+    "role": "Board Trustee",
+    "category": "civic",
+    "source_url": "https://apineywoods.com/home-health/our-team/katie-naranjo/",
+    "snippet": "Company bio lists her as 'a Board Trustee of the Naranjo Museum of Natural History.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "68a4712c03feb2b0",
+  "name": "Macon, Blake",
+  "resolved_employer": "U.S. Army — Transformation and Training Command / Army Futures Command HQ, Austin; IT Program Manager / Deputy Chief (federal civilian, CISSP)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A Blake Macon, CISSP, is publicly listed as Deputy Chief / IT Program Manager at Army Futures Command in Austin — the command headquartered in Austin that was reflagged as U.S. Army Transformation and Training Command (T2COM), matching the filed employer 'US Army T2COM HQ' and the 'IT Specialist' occupation and 78702 Austin address. His public profile shows a career as a federal civilian employee (prior roles at the Defense Contract Management Agency and the U.S. Naval Research Laboratory), not as a defense-industry principal. Identity is corroborated by employer, occupation and city but not by a source that states the address, so confidence is medium.",
+  "source_url": "https://www.linkedin.com/in/blakemacon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6943c9a2b4393feb",
+  "name": "Huynh, Jessica",
+  "resolved_employer": "JVH Law, PLLC — solo criminal-defense practice (matches filed employer \"Self\"); also Of Counsel at Smith & Vinson Law Firm and adjunct professor of trial advocacy at UT School of Law",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jessica V. Huynh is an Austin criminal-defense trial attorney who runs JVH Law, PLLC (self-employed, matching the filed employer \"Self\" + occupation \"Attorney\"); she spent 11 years as a prosecutor in Galveston, Williamson and Travis counties, was lead trainer at the Travis County DA's Office, and is an adjunct at UT Law. Zip 78737 (southwest Austin on the Travis/Hays line) is corroborated by her listed membership in the Hays County Bar Association alongside Austin-area bar groups. She was the 2022 Democratic primary candidate for Travis County's 331st District Court, consistent with the pipeline's FEC match showing 9 federal contributions at a fully Democratic partisan lean. FEC and TEC searches surfaced no federal ideological-PAC giving and no Texas lobbyist registration.",
+  "source_url": "https://www.smithandvinson.com/attorney-profiles/jessica-huynh/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Run for Something",
+    "role": "Endorsed candidate, Texas 331st District Court (2022)",
+    "category": "political",
+    "source_url": "https://directory.runforsomething.net/candidate/2233/huynh-jessica/",
+    "snippet": "Run for Something's candidate directory lists Huynh as a 2022 endorsed candidate for Texas State Judge, 331st District Court in Travis County, describing her as \"a single mom, attorney, and community leader.\""
+   },
+   {
+    "org": "Greater Austin Area Asian Chamber of Commerce",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.smithandvinson.com/attorney-profiles/jessica-huynh/",
+    "snippet": "Her firm bio lists the Greater Austin Area Asian Chamber of Commerce among her professional affiliations."
+   },
+   {
+    "org": "Austin Criminal Defense Lawyers Association",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.smithandvinson.com/attorney-profiles/jessica-huynh/",
+    "snippet": "Professional affiliations listed on her firm bio include the Austin Criminal Defense Lawyers Association, plus the Williamson County and Hays County Bar Associations."
+   }
+  ]
+ },
+ {
+  "donor_id": "69e43540921af0b3",
+  "name": "Pearl, Aaron",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer was given on the filing (\"N\"/\"A\" is \"N/A\" split across the two fields). Searches for an Aaron Pearl in Austin / zip 78722 (Cherrywood-area east Austin) returned no LinkedIn profile, bio page, business registration, news mention, or professional listing that could be corroborated to this person. The pipeline's own FEC match shows zero federal contributions, and no Texas Ethics Commission lobbyist registration under the Pearl surname was found. All three mandatory searches were run and came back empty; no industry is assigned rather than guessing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6af7aef64b93e61b",
+  "name": "Johnson, Kevin",
+  "resolved_employer": "KConnections Communications LLC — owner/founder (telecommunications and low-voltage cabling contractor, Austin, TX)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Identity corroborated through the business name rather than the (very common) personal name: the KConnections Communications LLC About page names Kevin D. Johnson as the owner/founder, an Austin-based U.S. Army veteran with 30+ years in the telecom low-voltage industry who opened the firm in 2023 — matching the filed employer string \"KConnections Communications LLC I'm the owner\" and occupation \"TELECOMMUNICATIONS.\" The company installs structured data/voice cabling, security cameras and access control for commercial and residential customers across Central Texas. FEC search found no federal contributions (pipeline FEC match count: 0) and no ideological-PAC giving; no Texas Ethics Commission lobbyist registration found. His Army service is personal military service, not a defense-contractor role, so no military_defense flag is warranted.",
+  "source_url": "https://www.kconnectcomm.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b22b4c9744db353",
+  "name": "Riley, Luke",
+  "resolved_employer": "Navy Federal Credit Union — Business Intelligence / Data Analyst (Washington, DC); professional listings show a subsequent move to Spotify as an analytics engineer",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Luke Riley of Washington, DC is listed on LinkedIn and professional-data aggregators as a Business Intelligence Analyst at Navy Federal Credit Union — an exact match to the filed employer, occupation \"Data Analyst,\" and DC location/zip 20018. His work history also shows prior roles with the United States Senate and Brightspeed, and a LaGrange College degree; SQL/Tableau/data-visualization skills are listed. Navy Federal Credit Union is a member-owned credit union serving military families, not a defense contractor, so no military_defense flag applies. FEC search surfaced no ideological-PAC giving; the pipeline's FEC match shows 4 federal contributions at a fully Democratic partisan lean. No Texas Ethics Commission lobbyist registration (he is DC-based; the only TEC Riley found was an unrelated Kyle B. Riley). LinkedIn/RocketReach/ZoomInfo pages returned 403 to direct fetch, so the bio could only be read via indexed summaries rather than a full page read.",
+  "source_url": "https://www.linkedin.com/in/luke-riley-43035523/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

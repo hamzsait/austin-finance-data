@@ -1,0 +1,444 @@
+[
+ {
+  "donor_id": "94cdf436c8a17f35",
+  "name": "Dobson, Lynne",
+  "resolved_employer": "Tejemos Foundation (co-founder/board); former Whataburger Restaurants board member & marketing/community-relations executive; former photojournalist (retired from newspaper career)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Lynne Dobson is an Austin/West Lake Hills philanthropist and former photojournalist married to Greg Wooldridge; she is a member of the Dobson family that owned Whataburger and served on its board until the 2019 sale. Identity corroborated by a City of Austin board-nomination document listing her at a 78746 address and by FEC records showing a Lynne Dobson, self-employed photographer, Austin TX 78746.",
+  "source_url": "https://www.thebakarifoundation.org/lynne-dobson.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Tejemos Foundation",
+    "role": "Co-founder and board member",
+    "category": "civic",
+    "source_url": "https://www.thebakarifoundation.org/lynne-dobson.html",
+    "snippet": "Bio lists her as board member of the Tejemos Foundation, which she co-founded with husband Greg Wooldridge in early 2020 to fund COVID/hunger relief, crisis healthcare and educational support."
+   },
+   {
+    "org": "Tres Grace Family Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://www.thebakarifoundation.org/lynne-dobson.html",
+    "snippet": "Bio page lists board membership on the Tres Grace Family Foundation."
+   },
+   {
+    "org": "Whataburger Restaurants",
+    "role": "Former board member and community relations / marketing executive (through the 2019 sale)",
+    "category": "business",
+    "source_url": "https://www.thebakarifoundation.org/lynne-dobson.html",
+    "snippet": "Bio: former board member and community relations/marketing executive at Whataburger Restaurants until the 2019 sale of the family business."
+   },
+   {
+    "org": "KUT / KUTX Public Media",
+    "role": "Major donor (with Greg Wooldridge, $1.5M gift, 2023)",
+    "category": "civic",
+    "source_url": "https://www.kut.org/station-information/2023-10-25/transformational-gift-to-help-kut-and-kutx-serve-growing-region",
+    "snippet": "KUT reported the largest outright gift in the station's history, from Lynne Dobson and Greg Wooldridge."
+   }
+  ]
+ },
+ {
+  "donor_id": "94e1f2d508b341fd",
+  "name": "Wood, Brian",
+  "resolved_employer": "Retired (former career not identifiable from public sources)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as RETIRED at an Austin 78731 address. 'Brian Wood' is an extremely common name with many Austin-area matches (Observint Technologies CEO, Adobe sales, IT consultant, and others); none could be tied to the 78731 address or to retirement status by any public record. No public bio, professional profile, or news coverage could be corroborated to this specific person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "95a4e035a26a11da",
+  "name": "Anderson, Christopher",
+  "resolved_employer": "Sgro's Barbershop (self-reported employer; barbershop confirmed to exist at 3237 Warrensville Center Rd, Shaker Heights/Cleveland OH, family-owned since 1964)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Self-reported as a barber at Sgro's Barbershop, Cleveland OH 44128. The employer is a real, long-established Cleveland-area barbershop, and the donor's 44128 zip is adjacent to the shop's 44122 location, which is consistent. However, the shop's public 'Our Team' page does not list a Christopher Anderson, and 'Christopher Anderson' is a very common name, so the specific individual could not be confirmed. The high FEC donation count attributed to this name (272) is likely a name-collision artifact and was not verified as this person.",
+  "source_url": "https://sgrosbarbershop.com/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "963714ab4785594c",
+  "name": "M Nieto, Hector",
+  "resolved_employer": "Travis County — Communications Director / Public Information Officer",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Hector Nieto is the Public Information Officer / Communications Director for Travis County government in Austin, confirmed by Travis County's own postings and directory listings (traviscountytx.gov email domain). His self-reported occupation and employer on the contribution record match exactly. Prior career: Texas Democratic Party communications director, traveling press secretary for Wendy Davis' gubernatorial campaign, and press/communications advisor for the Lone Star Project.",
+  "source_url": "https://www.traviscountytx.gov/images/docs/County-wide_Chart_1-14-2026.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County",
+    "role": "Public Information Officer / Communications Director",
+    "category": "civic",
+    "source_url": "https://www.traviscountytx.gov/images/docs/County-wide_Chart_1-14-2026.pdf",
+    "snippet": "Travis County countywide organizational chart and county communications postings identify Hector Nieto as the county's Public Information Officer."
+   },
+   {
+    "org": "Texas Democratic Party",
+    "role": "Director of Communications (former; promoted from deputy communications director)",
+    "category": "political",
+    "source_url": "https://texasweekly.texastribune.org/texas-weekly/vol-25/no-4/people/",
+    "snippet": "Texas Weekly 'Political People and their Moves' reported Hector Nieto becoming the Texas Democratic Party's director of communications, moving up from deputy communications director."
+   },
+   {
+    "org": "Wendy Davis for Governor campaign / Lone Star Project",
+    "role": "Traveling press secretary (Davis campaign); press communications advisor (Lone Star Project)",
+    "category": "political",
+    "source_url": "https://www.nbcnews.com/id/wbna53455284",
+    "snippet": "NBC News' profile of the Wendy Davis campaign staff notes Nieto, a former Texas Democratic Party spokesman, was dispatched by the Lone Star Project to work on the Davis gubernatorial campaign."
+   }
+  ]
+ },
+ {
+  "donor_id": "97ed3f010c85a28b",
+  "name": "Tabrizi, Ali",
+  "resolved_employer": "Retired electrical engineer (self-reported; former employer not identified)",
+  "industry": "Engineering",
+  "confidence": "low",
+  "evidence": "Self-reported as a retired electrical engineer in Austin 78703. Multiple people named Ali Tabrizi have Austin ties (an angel/VC investor formerly with Symantec/Blue Coat, a software engineer, and a 2021 UT Austin ECE PhD), and none could be matched to the 78703 address or to retired status. Industry recorded from the self-reported occupation only; the specific individual is unconfirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9d8f429a2f2a98c2",
+  "name": "Spataro, Susan",
+  "resolved_employer": "Travis County Auditor (retired)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Almost certainly Susan A. Spataro, CPA, who served ~24 years as Travis County Auditor until Travis County district judges removed her in August 2012; she is publicly described in Austin news coverage as 'retired Travis County Auditor' and remains an active Austin civic voice (Central Health audit advocacy). Corroborated by name + Austin location + 'RETIRED' occupation on the filing; the news sources do not state her zip, so identity is strong but not zip-confirmed.",
+  "source_url": "https://www.austinchronicle.com/news/2012-08-24/then-theres-this-ousting-the-auditor/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Central Health performance-audit advocacy (Travis County Commissioners Court)",
+    "role": "Public advocate / speaker before Commissioners Court",
+    "category": "civic",
+    "source_url": "https://theaustinbulldog.org/commissioners-order-central-health-performance-audit/",
+    "snippet": "Retired Travis County Auditor Susan Spataro urged commissioners to order an independent performance audit of Central Health, characterizing $35 million in transfers to Dell Medical School as an unlawful gift of public funds."
+   }
+  ]
+ },
+ {
+  "donor_id": "9df483c6e445bc9f",
+  "name": "Koskoff, Joshua",
+  "resolved_employer": "Koskoff, Koskoff & Bieder PC (Bridgeport, CT) - trial attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Joshua D. 'Josh' Koskoff, third-generation partner at the Connecticut plaintiffs' firm Koskoff Koskoff & Bieder; attorney directory listings place him at ZIP 06604 in Bridgeport, matching the filing's zip, occupation and employer exactly.",
+  "source_url": "https://www.avvo.com/attorneys/06604-ct-joshua-koskoff-1470936.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Soto v. Bushmaster / Remington Arms litigation (Sandy Hook families)",
+    "role": "Lead plaintiffs' counsel for nine Sandy Hook victims' families; obtained the $73M Remington settlement (litigation role, not an organizational board seat)",
+    "category": "gun_control",
+    "source_url": "https://www.ctpublic.org/news/2022-07-19/sandy-hook-attorneys-now-lauded-by-legal-peers-for-taking-the-case-against-remington",
+    "snippet": "\"Josh Koskoff says that when his law firm, Koskoff, Koskoff and Bieder, decided to represent the families of some of the victims of the Sandy Hook school shooting...\" - the suit argued Remington's AR-15 marketing was an unfair trade practice, defeating PLCAA immunity."
+   },
+   {
+    "org": "Sandy Hook families v. Alex Jones",
+    "role": "Counsel for 14 Sandy Hook family members in the defamation case that produced a ~$1.4B verdict",
+    "category": "gun_control",
+    "source_url": "https://www.koskoff.com/in-the-news/",
+    "snippet": "Firm news coverage credits Koskoff with representing Sandy Hook families against Alex Jones over false claims about the 2012 shooting."
+   }
+  ]
+ },
+ {
+  "donor_id": "9e24c7b5d2ea1503",
+  "name": "Marriott, Sue",
+  "resolved_employer": "Self-employed psychotherapist (LCSW, CGP), Austin; co-host/co-founder of the Therapist Uncensored podcast",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Sue Marriott, LCSW, CGP, is a self-employed Austin psychotherapist in private practice and co-founder of Therapist Uncensored, matching the filing's 'Therapist'/'Self' occupation and Austin location. Directory listings show a 78703 practice address rather than the filing's 78751 residential zip, so the zip is not directly corroborated.",
+  "source_url": "https://www.psychologytoday.com/us/therapists/sue-marriott-austin-tx/75886",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Family Equality Council",
+    "role": "Emeritus board member",
+    "category": "civic",
+    "source_url": "https://therapistuncensored.com/about-therapist-uncensored/",
+    "snippet": "Her bio states she is a current Emeritus Board member of the nationally-based Family Equality Council, an LGBTQ family advocacy organization."
+   },
+   {
+    "org": "Austin IN (Interpersonal Neurobiology) Connection",
+    "role": "Co-founder and former President",
+    "category": "civic",
+    "source_url": "https://therapistuncensored.com/about-therapist-uncensored/",
+    "snippet": "Bio: co-founder and former President of Austin IN Connection; board member of GAINS, the Global Association of Interpersonal Neurobiology Studies."
+   }
+  ]
+ },
+ {
+  "donor_id": "a60c990ed9bf32b4",
+  "name": "Sampson, Mark",
+  "resolved_employer": "Law Office of Mark A. Sampson, P.C. - criminal defense and personal injury attorney, 605 W. Oltorf St., Austin",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Mark A. Sampson, UT Law 1992, licensed in Texas since May 1993, sole practitioner at the Law Office of Mark A. Sampson, P.C.; his office address (605 W. Oltorf St.) and attorney-directory listings are in 78704, matching the filing's zip, occupation and employer.",
+  "source_url": "https://www.markasampsonlaw.com/attorney-profile/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Travis County Bar Association, Criminal Law Section",
+    "role": "Treasurer (2002-2003), Vice-Chairman (2003-2004)",
+    "category": "business",
+    "source_url": "https://www.markasampsonlaw.com/attorney-profile/",
+    "snippet": "Firm bio lists Travis County Bar Association Criminal Law Section Treasurer and Vice-Chairman, plus membership in the Austin Black Lawyers Association and Austin Criminal Defense Lawyers Association."
+   }
+  ]
+ },
+ {
+  "donor_id": "a694098fc99a1c3b",
+  "name": "Perkey, Jason",
+  "resolved_employer": "The Perkey Group (Louisville, KY) - founder/president, political and organizational consulting",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Charles Jason Perkey, Louisville-based Democratic political operative and founder/president of The Perkey Group; he is a sitting elected commissioner of the City of Seneca Gardens, a Louisville enclave inside the 40205 zip, which corroborates the filing's zip, employer and 'Consultant' occupation.",
+  "source_url": "https://cityofsenecagardens.com/city-commission/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Seneca Gardens, Kentucky",
+    "role": "City Commissioner (elected November 2024)",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Charles_Jason_Perkey_(Seneca_Gardens_City_Commission_At-large,_Kentucky,_candidate_2024)",
+    "snippet": "Ballotpedia lists Charles Jason Perkey as a candidate in the Nov. 5, 2024 general election for Seneca Gardens City Commission At-large; the city's site lists Jason Perkey as a seated Commissioner."
+   },
+   {
+    "org": "South Carolina Democratic Party / Kansas Democratic Party",
+    "role": "Executive Director (both); also President, Association of State Democratic Executive Directors",
+    "category": "political",
+    "source_url": "https://www.coker.edu/alumnus-update/jason-perkey/",
+    "snippet": "Bio: served as Executive Director of the South Carolina and Kansas Democratic Parties and as President of the Association of State Democratic Executive Directors."
+   },
+   {
+    "org": "Democratic Party of Wisconsin / Hillary Clinton 2016 campaign",
+    "role": "Coordinated campaign director",
+    "category": "political",
+    "source_url": "https://www.coker.edu/alumnus-update/jason-perkey/",
+    "snippet": "Bio: coordinated campaign director for the Democratic Party of Wisconsin and Hillary Clinton's 2016 presidential campaign."
+   },
+   {
+    "org": "Truman National Security Project",
+    "role": "Political Partner (leadership-development membership program; not a defense contractor role)",
+    "category": "civic",
+    "source_url": "https://www.coker.edu/alumnus-update/jason-perkey/",
+    "snippet": "Bio: a political partner in the Truman National Security Project, described as a leadership development program for national security and foreign policy."
+   }
+  ]
+ },
+ {
+  "donor_id": "a73b71709efa896e",
+  "name": "Tobin, Justin",
+  "resolved_employer": "Ascension Seton (Seton Healthcare Family) — Clinical Nurse Manager, Stroke/Cardiovascular Unit, Austin TX",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "A Justin Tobin in Austin, TX is publicly listed as Clinical Nurse Manager at Seton Healthcare Family (now Ascension Seton), matching the self-reported occupation 'Nurse' and employer 'Ascension Seton' and the Austin (78722) location. LinkedIn profile page itself could not be retrieved (HTTP 999), so identity rests on the indexed profile summary plus the occupation/employer/city match, and the full bio page could not be read.",
+  "source_url": "https://www.linkedin.com/in/justin-tobin-0507654/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a99816d90c7dcac8",
+  "name": "Zaragoza, Zachary",
+  "resolved_employer": "Nevada State Democratic Party (self-reported Executive Director); publicly documented as Zachary D. 'Zach' Zaragoza, former Executive Director of the Nevada State Democratic Party and State Director for U.S. Sen. Catherine Cortez Masto (D-NV)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Zach Zaragoza is a documented Nevada Democratic political operative: Executive Director of the Nevada State Democratic Party (from 2011), previously a Las Vegas-based regional representative for Sen. Harry Reid, and State Director for Sen. Catherine Cortez Masto since Nov. 2016 per LegiStorm. Name, title and organization match the donor's self-reported record and the Henderson/Las Vegas-area zip 89012; current employer of record could not be re-confirmed for 2026, so confidence is medium.",
+  "source_url": "https://www.legistorm.com/person/bio/21647/Zachary_D_Zaragoza.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Nevada State Democratic Party",
+    "role": "Executive Director (per donor's own self-reported employer/occupation; publicly documented in this role from 2011)",
+    "category": "political",
+    "source_url": "https://www.reviewjournal.com/news/politics-and-government/nevada/catherine-cortez-masto-names-7-senior-staff-for-us-senate-office/",
+    "snippet": "Coverage of Sen. Catherine Cortez Masto's senior staff describes Zach Zaragoza as her state director and as the former executive director of the Nevada State Democratic Party, previously a regional representative for Sen. Harry Reid in Las Vegas."
+   },
+   {
+    "org": "Office of U.S. Senator Catherine Cortez Masto (D-NV)",
+    "role": "State Director (since November 2016)",
+    "category": "political",
+    "source_url": "https://www.legistorm.com/person/bio/21647/Zachary_D_Zaragoza.html",
+    "snippet": "LegiStorm lists Zach Zaragoza as State Director for Sen. Catherine Cortez Masto (D-NV), serving since November 2016, with congressional salary and personal financial disclosure records on file."
+   }
+  ]
+ },
+ {
+  "donor_id": "aa714a705ac41f10",
+  "name": "Garrison, Bo",
+  "resolved_employer": "Self-reported 'Permian Companies LP', occupation 'Oil & Gas Services' — company and role could NOT be verified in any public source",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "A 'Bo Garrison' is associated with a Treadwell Blvd address in Austin's 78757 zip via people-search records, which matches the donor zip, but no company registry, corporate leadership page, news item, or professional profile could be found for 'Permian Companies LP' or for this individual's role in it. Industry is assigned from the self-reported occupation only (categorize-by-employer fallback); no independent corroboration of an oil & gas role exists, so no oil_gas affiliation is recorded.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ab392d282c2f12c6",
+  "name": "Wiley, Philip",
+  "resolved_employer": "Not employed — community volunteer / sustainability and neighborhood civic volunteer in Austin (formerly a senior technology manager)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "A Philip Wiley in Austin publicly describes himself as a community volunteer with a sustainability focus: Site Coordinator and Steering Committee leader for Deep Eddy Community Gardens, Travis County Master Gardener, Sustainable Food Center volunteer, and Judges Hill residential parking coordinator since 1999 — Judges Hill is a downtown Austin neighborhood inside zip 78701, matching the donor zip, and 'community volunteer' matches the self-reported 'Not Employed'. The profile page itself returned HTTP 999 and could not be read in full.",
+  "source_url": "https://www.linkedin.com/in/philip-wiley-57bb2824/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {
+    "org": "Deep Eddy Community Gardens / Judges Hill neighborhood; City of Austin 'Parking Benefits Districts' ordinance creation team",
+    "role": "Site Coordinator & Steering Committee leader; neighborhood residential parking coordinator; participant on City of Austin ordinance creation team",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/philip-wiley-57bb2824/",
+    "snippet": "Indexed professional profile lists him as Site Coordinator & Steering Committee Leader for Deep Eddy Community Gardens, a Travis County Master Gardener, Judges Hill Residential Parking Coordinator since 1999, and a participant on the City of Austin ordinance creation team for 'Parking Benefits Districts'. (Underlying page returned HTTP 999; detail taken from the indexed profile summary.)"
+   }
+  ]
+ },
+ {
+  "donor_id": "ac44465c91e98ad9",
+  "name": "Tran, Tina",
+  "resolved_employer": "AARP — AARP Texas State Director (joined AARP Texas 2014); more recently listed as AARP Vice President, South Region",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Tina Tran is the publicly named AARP Texas State Director, based in Austin, and is currently listed as AARP Vice President for the South Region; she holds a J.D. from Thurgood Marshall School of Law and previously served as Legislative Director for Texas State Sen. Rodney Ellis. Name, 'Exec' occupation, AARP employer and Austin-metro location (Manor, 78653) all corroborate. Search-engine summaries asserting a TEC lobbyist registration could not be verified against the actual registry and are NOT recorded.",
+  "source_url": "https://stylemagazine.com/news/2025/jan/14/aarp-texas-2025-legislative-priorities-building-a-better-future-for-aging-texans/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AARP Texas",
+    "role": "State Director (leads AARP Texas legislative advocacy); also listed as AARP Vice President, South Region",
+    "category": "civic",
+    "source_url": "https://stylemagazine.com/news/2025/jan/14/aarp-texas-2025-legislative-priorities-building-a-better-future-for-aging-texans/",
+    "snippet": "Article identifies 'Tina Tran, AARP Texas Director' and quotes her on the organization's 2025 legislative priorities: 'Our 2025 legislative priorities involve measures to prevent and fight elder exploitation and fraud, strengthen emergency response and preparedness, improve quality and access to healthcare and long-term care, and bolster financial security for Texans.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "b0de0f9313d8a39c",
+  "name": "Dorsey, Derrek",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public professional, civic, or political profile could be located for a Derrek Dorsey in Austin ZIP 78745. People-search aggregators list a 'Derek Darrell Dorsey' with a 78745 address and 'Derrek Dorsey' as an alternate spelling, but aggregator records are not sufficient to confirm this is the filer, and they carry no occupation data. Industry is taken directly from the filing's own 'Not Employed' fields rather than from any external source. FEC PAC search and Texas Ethics Commission lobbyist search both returned no match; no affiliation surfaced on any side of the Israel/Palestine, gun-rights/gun-control, oil-and-gas, or military-defense spectrums. NOTE: record-level FEC retrieval via api.open.fec.gov was blocked (DEMO_KEY HTTP 429) and OpenSecrets returned HTTP 403; FEC checking was done via web search of FEC/aggregator records.",
+  "source_url": "https://thatsthem.com/name/Derek-Darrell-Dorsey",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b2f4326b936ad580",
+  "name": "Bell, Linda",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual. 'Linda Bell' is a very common name and no public record ties a Linda Bell in Johns Island, SC (ZIP 29455) to any identifiable former career, employer, board seat, or political activity. A review of the city-data.com compilation of Johns Island (29455) federal contributions surfaced Bell-surname donors but no Linda Bell. Per the instructions, industry is left null rather than guessed. FEC PAC search and Texas Ethics Commission lobbyist search returned no match; no affiliation on any side of the Israel/Palestine, gun-rights/gun-control, oil-and-gas, or military-defense spectrums surfaced. NOTE: record-level FEC retrieval via api.open.fec.gov was blocked (DEMO_KEY HTTP 429) and OpenSecrets returned HTTP 403.",
+  "source_url": "https://www.city-data.com/elec/elec-JOHNS-ISLAND-SC.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b49536d981b4f311",
+  "name": "Moonesinghe, Mark",
+  "resolved_employer": "inKind (Austin-based restaurant-financing/hospitality fintech) — Director, Restaurant Relations",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Mark J. Moonesinghe is Director of Restaurant Relations at inKind, the Austin-based restaurant capital/hospitality-fintech company, corroborated by his LinkedIn headline and by business-directory listings (ZoomInfo, Lead411) showing an @inkind.com address and Austin location. Surname is rare and the filing's employer 'Inkind' plus Austin ZIP 78731 match exactly. Prior career was healthcare IT at Baylor Scott & White Health. DISCREPANCY FLAGGED: the filing lists occupation 'Owner', but every public source shows him as a salaried Director, not an owner or principal — inKind was co-founded by Johann and the late Rajan Moonesinghe. 'Owner' appears to be self-reported filing imprecision; it does not indicate a documented ownership stake. FEC PAC search and Texas Ethics Commission lobbyist search both returned no match. NOTE: record-level FEC retrieval via api.open.fec.gov was blocked (DEMO_KEY HTTP 429) and OpenSecrets returned HTTP 403; FEC checking was done via web search instead.",
+  "source_url": "https://www.linkedin.com/in/mmoonesinghe/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b62817554e5e3e7f",
+  "name": "Brand, Jessica",
+  "resolved_employer": "The Wren Collective (founder and general manager) — self-employed criminal-justice-reform attorney/consultant",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed as Jessica Robin Brand, Austin attorney (State Bar of Texas #24096181, licensed 2015) and founder/general manager of The Wren Collective, a criminal-justice-reform communications, policy and legal consultancy. Identity corroborated on three independent points matching the filing: OpenCorporates lists her registered-agent address in Austin, TX 78702 — an exact ZIP match; occupation 'lawyer' matches her bar license; and employer 'self' matches her status as founder of her own LLC. JD Harvard Law; previously The Justice Collaborative, Texas Defender Service, and the Public Defender Service for the District of Columbia. Full bio-page reads found one board seat (below) and no ties to Israel/Palestine advocacy on either side, oil and gas, gun-rights, gun-control, or defense-contractor organizations. Not a registered Texas lobbyist. NOTE: record-level FEC retrieval was blocked (api.open.fec.gov DEMO_KEY HTTP 429; OpenSecrets HTTP 403), so no individual PAC recipients could be independently verified.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0803547697",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Wren Collective",
+    "role": "Founder and general manager",
+    "category": "business",
+    "source_url": "https://en.wikipedia.org/wiki/Wren_Collective",
+    "snippet": "Jessica Brand is 'the general manager and founder' of the Wren Collective, 'an American criminal justice reform group based in Texas.'"
+   },
+   {
+    "org": "Texas Defender Service",
+    "role": "Board Member",
+    "category": "civic",
+    "source_url": "https://www.texasdefender.org/board-of-directors/",
+    "snippet": "Board of directors listing: 'Jessica Brand - Board Member; Founder, The Wren Collective.' Texas Defender Service is a capital-defense and indigent-defense nonprofit."
+   }
+  ]
+ },
+ {
+  "donor_id": "bbd95d766475b7b1",
+  "name": "Hayes-McMahon, Shellie",
+  "resolved_employer": "Planned Parenthood Texas Votes (PPTV) — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed: 'PPTV' in the filing resolves to Planned Parenthood Texas Votes, where Shellie Hayes-McMahon is Executive Director — matching the filing's 'ED' occupation exactly. She joined Planned Parenthood Advocates of Texas in 2021 as Deputy Executive Director of Operations and Development and was named Co-Executive Director in February 2023; previously Operations Director at Annie's List. The Cedar Park ZIP 78613 sits in Williamson County, independently corroborated by her documented role as Treasurer and Senior Advisor of the Williamson County Democratic Party. She is NOT personally a registered Texas lobbyist — she is absent from the TEC registered-lobbyist lists, and PPTV's registered lobbyist of record for 2025-2026 is Darcy Caballero (TEC ID 87494). Balanced-spectrum search found no affiliation on either side of the Israel/Palestine spectrum, and none with oil and gas, gun-rights, gun-control, or defense-contractor organizations. NOTE: record-level FEC retrieval was blocked (api.open.fec.gov DEMO_KEY HTTP 429; OpenSecrets HTTP 403), so no individual PAC recipients could be independently verified.",
+  "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Planned Parenthood Texas Votes",
+    "role": "Executive Director (Deputy ED for Operations & Development 2021; Co-Executive Director from Feb 2023)",
+    "category": "political",
+    "source_url": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes/blog/planned-parenthood-texas-votes-announces-new-leadership",
+    "snippet": "PPTV Board of Directors announced Shellie Hayes-McMahon as the organization's new Co-Executive Director; PPTV is the reproductive-rights political and legislative advocacy arm operating in Texas."
+   },
+   {
+    "org": "Annie's List",
+    "role": "Operations Director (former)",
+    "category": "political",
+    "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+    "snippet": "Served as Operations Director for Annie's List, 'managing the organization's ongoing operations to ensure the execution of its mission to elect Texas women to office.'"
+   },
+   {
+    "org": "Williamson County Democratic Party",
+    "role": "Treasurer and Senior Advisor; long-time Democratic Precinct Chair",
+    "category": "political",
+    "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+    "snippet": "Listed as 'Treasurer and Senior Advisor of the Williamson County Democratic Party, and long-time Democratic Precinct Chair.'"
+   },
+   {
+    "org": "Black Austin Democrats",
+    "role": "Former President",
+    "category": "political",
+    "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+    "snippet": "Described as the outgoing President of Black Austin Democrats."
+   },
+   {
+    "org": "Big Brothers Big Sisters of Central Texas",
+    "role": "Chair-elect, Board of Directors",
+    "category": "civic",
+    "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+    "snippet": "Chair-elect of the board of directors of Big Brothers Big Sisters of Central Texas, the first Black woman to hold the position."
+   },
+   {
+    "org": "Barbara Jordan Leadership Institute",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+    "snippet": "Listed among her board and leadership roles: 'Board member, Barbara Jordan Leadership Institute.'"
+   },
+   {
+    "org": "Lift Collective",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://bellairebraeswooddemocrats.org/2025/08/25/september-meeting-w-shellie-hayes-mcmahon-executive-director-of-planned-parenthood-texas-votes/",
+    "snippet": "Listed among her board and leadership roles: 'Board member, Lift Collective.'"
+   }
+  ]
+ }
+]

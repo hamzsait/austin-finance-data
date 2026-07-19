@@ -1,0 +1,267 @@
+[
+ {
+  "donor_id": "80d66eb514a5b2ab",
+  "name": "Sampson, Arthur",
+  "resolved_employer": "Retired (former career not identifiable in public records)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as 'Retired' on the City of Austin filing, Austin TX 78723. No public profile, bio, obituary, news mention, or professional record could be tied to this specific individual; the several Arthur Sampsons found in obituary databases are in Houston, Georgia, and elsewhere and none corroborate the 78723 Austin address. Former career unknown, so no career-based industry could be assigned.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "811ccda71ae52197",
+  "name": "Vanderhorst, Shatoyia",
+  "resolved_employer": "VLS Hair (sole proprietor hair salon, owner & creative director)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Texas Comptroller sales-tax permit records list Shatoyia Lee Vanderhorst as individual sole proprietor of VLS Hair, a hair salon (NAICS 812112), primary location in Austin, TX 78754 — an exact match to the donor zip, and consistent with the filing's 'Entrepreneur / Self Employed' occupation. Publicly presents as a professional braider and small-business owner. No policy-advocacy roles found.",
+  "source_url": "https://opengovus.com/texas-taxpayer/32055549219-2",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "826e9168ced5c4a2",
+  "name": "Vo, Catherine",
+  "resolved_employer": "Self-employed teacher/consultant (per filing; not independently verifiable)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Industry assigned via the categorize-by-employer fallback from the filing's own 'Teacher/Consultant, Self-Employed' occupation string; no public profile, school affiliation, consulting practice, or bio page could be matched to this specific person. 'Vo' is a very common Vietnamese surname and Austin has multiple same-named individuals, so identity is not independently corroborated beyond the filing. Pipeline data shows 114 FEC donations with a Democratic partisan lean, but itemized recipient detail could not be retrieved this run (FEC API rate-limited); no ideological-PAC hit surfaced in targeted name-vs-PAC searches.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "837a8e40dca451f2",
+  "name": "Wainwright, Mike",
+  "resolved_employer": "Pioneer Wine Company, L.P. — sales",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Employer verified as a real Austin-area business: Pioneer Wine Company, L.P. is a wine and spirits wholesale distributor with an Austin location, distributing to retail, restaurant and bar accounts across Texas. Employer string and Austin 78722 residence are internally consistent, but no individual bio or company staff page confirming Mike Wainwright's role could be verified directly; other Austin-area Wainwrights found are distinct people. Pipeline data shows 90 FEC donations with a Democratic partisan lean; no ideological PAC recipients surfaced. The only Wainwright in TEC-adjacent lobbyist results was Dale Wainwright, a different person and not a registered lobbyist.",
+  "source_url": "https://www.pioneerwine.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "83dd9c166e36afaf",
+  "name": "Holliman, Arnitta",
+  "resolved_employer": "Cities United (national nonprofit reducing violence affecting Black men and boys) — Deputy Director; formerly Director, City of Milwaukee Office of Violence Prevention",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Arnitta R. Holliman announced joining Cities United as Deputy in Jan 2025; previously appointed by Mayor Tom Barrett to lead Milwaukee's Office of Violence Prevention (2021-2022). Employer string 'Cities United' and occupation 'Deputy of Policy and Healing' match her documented role; Cities United is headquartered in Louisville with a distributed national staff, and she has publicly testified on Austin city violence-prevention policy.",
+  "source_url": "https://thecommunityjustice.net/newsroom/austin-ovp-support",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Cities United",
+    "role": "Deputy Director",
+    "category": "civic",
+    "source_url": "https://thecommunityjustice.net/newsroom/austin-ovp-support",
+    "snippet": "Holliman, Deputy Director of Cities United, appeared before Austin City Council supporting the resolution to strengthen the Office of Violence Prevention: 'Austin is taking a bold and necessary step, not just reacting to violence, but preventing it at the root.'"
+   },
+   {
+    "org": "City of Milwaukee Office of Violence Prevention",
+    "role": "Director (2021-2022)",
+    "category": "civic",
+    "source_url": "https://city.milwaukee.gov/mayorbarrett/News/2021-News/Mayor-Names-Arnitta-Holliman-to-Lead-the-Office-of-Violence-Prevention",
+    "snippet": "Mayor Tom Barrett named Arnitta Holliman to lead the city's Office of Violence Prevention; she had previously served there as program manager for the Resiliency in Communities After Stress and Trauma effort."
+   }
+  ]
+ },
+ {
+  "donor_id": "867e49cbf280f89f",
+  "name": "Simons, Cynthia",
+  "resolved_employer": "Travis County — Planning Manager, Reentry Services Program (Criminal Justice Research & Planning)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Cynthia Simons is listed on the Travis County Criminal Justice Research & Planning staff directory as Planning Manager for the Reentry Services Program, matching the filing's occupation 'Planning Manager' and employer 'Travis County'; Round Rock 78664 is a common commuter residence for Travis County staff. No lobbyist registration or ideological PAC record found.",
+  "source_url": "https://www.traviscountytx.gov/criminal-justice/research-planning/staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "874279d68baaa9c4",
+  "name": "Kiddy, Derek",
+  "resolved_employer": "IMEG Corp (employee-owned multidisciplinary engineering consulting firm with Texas-region offices) — engineer",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "No individual public profile, bio page, or news mention for Derek Kiddy could be located; classification rests on the employer-fallback rule using the filing's stated employer IMEG and occupation Engineer, corroborated only by IMEG having Texas-region operations consistent with a Carrollton, TX 75007 residence. No FEC contribution history and no Texas lobbyist registration found.",
+  "source_url": "https://imegcorp.com/location/texas-region/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "88c5dce3b335664d",
+  "name": "Foreman, Perry L",
+  "resolved_employer": "None listed (filing states Unemployed); a Perry L Foreman in Austin has a public profile in electrical/electronic manufacturing associated with Celestica",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Public records list a Perry L Foreman in Austin, TX 78723 — matching the filing's zip — and a profile for a Perry L Foreman in Austin in electrical/electronic manufacturing. The filing itself reports no current employer, so classified Not Employed with a possible prior electronics-manufacturing career. Identity is corroborated by name plus zip only, hence medium confidence. No lobbyist registration and no ideological PAC contributions surfaced.",
+  "source_url": "https://www.linkedin.com/in/perry-l-foreman-31a61971/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8a841e5d29eab739",
+  "name": "Walters, marissa",
+  "resolved_employer": "Wild Hair Auctions and Events (founder/benefit auctioneer, Denver); also owner of a Card My Yard Denver franchise and separately employed full-time in the oil & gas industry in a non-executive role",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Marissa Walters is the founder and benefit auctioneer of Wild Hair Auctions and Events in Denver, CO — an exact match to the donation's employer string, occupation, city and 80222 zip. A published VoyageDenver profile confirms she also works a full-time 9-to-5 job in the oil and gas industry alongside the auctioneering side business. That employment is rank-and-file, not executive/board/owner, and the one administrative-director title appearing in commercial data-broker listings is not confirmed by any primary source (she is not on the named company's published team page), so no oil_gas affiliation is recorded per the executive/board/owner standard.",
+  "source_url": "https://voyagedenver.com/interview/life-work-with-marissa-walters-of-denver/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8b65b9c8d44f3078",
+  "name": "Cochran, Codara",
+  "resolved_employer": "Credit Sesame — Senior Financial Systems Analyst (Austin, TX area); donation record lists her own name as employer",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Distinctive first name matches a single Austin-area professional: Codara Cochran, Senior Financial Systems Analyst at consumer-fintech company Credit Sesame since November 2021, previously at Sharecare and Viacom. Occupation 'Systems Analyst' and Austin-metro location (Cedar Park 78613) corroborate; the self-named employer string on the donation suggests self-reporting rather than a separate entity.",
+  "source_url": "https://www.linkedin.com/in/codaracochran",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8bc5ea9ab5bc8204",
+  "name": "Philpot, Tasha",
+  "resolved_employer": "University of Texas at Austin — Professor of Government; also founder of Philpot Consulting (academic/professional coaching)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Tasha S. Philpot is a Professor of Government at UT-Austin specializing in American politics, African-American politics and public opinion, with courtesy affiliations at UT's Center for African and African American Studies, Institute for Urban Policy Research & Analysis, and Center for Women's and Gender Studies. Name, employer string 'UT-Austin', occupation 'Professor' and Austin-metro zip all corroborate. University research-center affiliations are academic, not policy-advocacy roles, so none are recorded; no board seats or advocacy organization roles were found in her bio, personal site, or faculty page.",
+  "source_url": "https://liberalarts.utexas.edu/government/faculty/tsp228",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8c050215baf137de",
+  "name": "Countryman, Olivia",
+  "resolved_employer": "Hilgers PLLC (Dallas office) — commercial litigation associate; profiled on the firm site as Olivia Justice",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Olivia Justice Countryman is a commercial litigation associate in the Dallas office of Hilgers PLLC; Texas Bar licensed 2021, previously a litigation associate at Baker Botts and a law clerk to Judges John R. Parker and Sam A. Lindsay in the Northern District of Texas. Name, Dallas 75219 location and 'Lawyer'/'Hilgers PLLC' donation fields all corroborate. On the firm: Hilgers PLLC is the Lincoln, Nebraska-founded litigation boutique formerly known as Hilgers Graben PLLC, started in 2011 by Mike Hilgers — now Nebraska Attorney General, who ceased private practice in Dec 2022/Jan 2023 — and renamed in Nov 2025; it has no established connection to the Texas Attorney General's office. Countryman is a junior associate with no policy or government-affairs role. Her bio references unnamed 'non-profit board service'; no specific organization is identified in any public source, so no affiliation is recorded.",
+  "source_url": "https://hilgerslaw.com/professionals/olivia-countryman/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d1abb2b1897e6be",
+  "name": "Cox, Jen",
+  "resolved_employer": "Food Forward (Los Angeles-area produce-recovery nonprofit) — Chief Development Officer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Jen Cox is Chief Development Officer at Food Forward, matching the reported occupation (Nonprofit) and employer string exactly; her Food Forward bio places her in Los Angeles, consistent with the Studio City, CA 91614 donor address. Bio describes ~20 years in environmental policy/organizing in Washington DC followed by a Los Angeles fundraising consulting practice covering climate, environmental education, democracy reform and social justice.",
+  "source_url": "https://foodforward.org/team/jen-cox/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Food Forward",
+    "role": "Chief Development Officer",
+    "category": "civic",
+    "source_url": "https://foodforward.org/our-team/",
+    "snippet": "Listed in Food Forward's Senior Leadership section as Chief Development Officer; Food Forward recovers surplus produce and distributes it to hunger-relief agencies across 13 California counties and seven adjacent states and tribal lands."
+   }
+  ]
+ },
+ {
+  "donor_id": "8f97c3b56b3724cc",
+  "name": "Kovalcik, Jeffrey",
+  "resolved_employer": "Fond Memories Engraving (custom laser engraving business, Canyon Lake / New Braunfels TX area)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "A business named 'Fond Memories Engraving' has a public Facebook business page, matching the reported employer string, and a Jeffrey Kovalcik is publicly recorded as living in the New Braunfels, TX area adjacent to the donor's Canyon Lake 78133 address. Small custom-goods business with no other public footprint; no FEC history and no lobbyist registration found.",
+  "source_url": "https://www.facebook.com/fondmemorieseng/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "93a025ac19863ae3",
+  "name": "Chase, Laura",
+  "resolved_employer": "Martinrea International (Tier 1 automotive parts supplier) — Executive Assistant to the CEO and CFO",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "A public professional profile lists Laura Chase as Executive Assistant to the CEO and CFO at Martinrea International, with a martinrea.com work email and a Royal Oak, Michigan location — matching the donor's reported occupation (Exec asst), employer (Martinrea), and 48067 Royal Oak, MI address on all three points. No FEC contribution history and no lobbyist registration found; no public bio beyond the employment listing.",
+  "source_url": "https://www.signalhire.com/profiles/laura-chase's-email/109917335",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "94e1ea0c02e0fdda",
+  "name": "Wright, Chase",
+  "resolved_employer": null,
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "No public profile could be located for a Chase Wright working in tax preparation in Austin's 78724 (Colony Park/Govalle) area; searches of Austin tax-preparer directories and business listings returned no match, and the employer string 'Wealthy' matches only a 'Wealthy Tax Services' listing in Dallas, not Austin, so it cannot be tied to this donor. Industry assigned by the categorize-by-employer fallback from the self-reported occupation 'Tax prep' only. Pipeline data shows 58 FEC contributions with a Democratic lean, but no individual FEC record could be independently confirmed; no Texas Ethics Commission lobbyist registration was found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "98edf8985c4bb27d",
+  "name": "Bechhoefer, Andrew",
+  "resolved_employer": "Self-employed political consultant (per campaign finance filing occupation/employer fields)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "No public profile found for an Andrew Bechhoefer in Alexandria, VA 22314 across professional networks, firm sites, news, or consultant directories; identity cannot be corroborated beyond the filing's own self-reported 'Political Consultant / self employed'. Classified by employer-fallback only. No FEC individual-contribution records surfaced and no Texas lobbyist registration.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ac0d39e27559d6d",
+  "name": "Ogundeyi, LaKetica",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No zip, occupation, or employer in the record. The only public web reference to the name is a Texas obituary listing a 'LaKetica Ogundeyi (Olawale)' of Arlington, TX as a surviving relative — Arlington is ~180 miles from Austin and nothing in that record corroborates the donor (no occupation, employer, or donation pattern match), so identity is unconfirmed. No FEC records, no Texas Ethics Commission lobbyist registration, no bio page exists to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9d1035c24aa0b098",
+  "name": "Belizaire, Amelia",
+  "resolved_employer": "Retired (former career not confirmed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation and employer both as 'Retired' in Houston 77055. A profile exists for an Amelia Belizaire in Houston describing a ~20-year nursing career followed by work as a paramedical tattoo/PMU medical specialist, but that profile is not retired and nothing (zip, employer, donation pattern) corroborates it as the same person, so the former-career industry is not assigned. Heavy small-dollar federal giving history (89 FEC records, Democratic-leaning) is consistent with an ActBlue recurring small-dollar donor; no ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/amelia-belizaire-7895b585/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9d260dd951002f41",
+  "name": "LaMasters, Byron",
+  "resolved_employer": "InFocus Campaigns (co-founder and partner) — Democratic/progressive/labor telephone voter-contact firm, Washington DC 20001",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Byron LaMasters is a partner and 2011 co-founder (with Tammy Palmer) of InFocus Campaigns in Washington DC 20001 — matching the donor's employer string and zip exactly. University of Texas graduate; founded the Burnt Orange Report Texas political blog in 2003 and edited it through 2005; named to the American Association of Political Consultants' 2022 '40 Under 40' class.",
+  "source_url": "https://www.infocuscampaigns.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "InFocus Campaigns",
+    "role": "Partner and co-founder (2011)",
+    "category": "political",
+    "source_url": "https://www.infocuscampaigns.com/about/",
+    "snippet": "Byron founded InFocus Campaigns with Tammy Palmer in 2011; the firm delivers telephone voter contact service for Democratic, progressive, labor and non-partisan clients."
+   },
+   {
+    "org": "LGBTQ+ Victory Fund",
+    "role": "Member of the Victory Campaign Board (Eastern Caucus Chair)",
+    "category": "civic",
+    "source_url": "https://victoryfund.org/about/victory-campaign-board/",
+    "snippet": "Byron LaMasters, Washington DC, is listed on the LGBTQ+ Victory Fund's Victory Campaign Board, serving as Eastern Caucus Chair; his firm bio also states he 'currently serves on the Campaign Board for the LGBTQ+ Victory Fund.'"
+   },
+   {
+    "org": "Burnt Orange Report",
+    "role": "Founder (2003) and editor through 2005",
+    "category": "political",
+    "source_url": "https://www.infocuscampaigns.com/about/",
+    "snippet": "Byron LaMasters founded the Burnt Orange Report blog in 2003 and served as its editor through 2005."
+   }
+  ]
+ }
+]

@@ -1,0 +1,304 @@
+[
+ {
+  "donor_id": "870316f7e1b4f187",
+  "name": "Ouzillou, Yael",
+  "resolved_employer": "Y'alla Collaborative — Founder & CEO, development/fundraising consulting firm for progressive C3/C4 groups and campaigns (Austin, TX; founded 2020)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Yael Ouzillou is a career political fundraiser: 25+ years on national, state and local campaigns; Deputy National Finance Director for the South Central region of Hillary Clinton's 2016 presidential campaign; formerly a partner at RYLO Consulting. Two independent bio pages (her own firm site and NEWCO Strategies) corroborate the same career history, and the Austin 78704 zip matches her FEC contributor records.",
+  "source_url": "https://www.newcostrategies.com/strategic-partners/yael-ouzillou",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "American Israel Public Affairs Committee (AIPAC)",
+    "role": "Development (fundraising) staff — former, during eight-year period in Washington, DC",
+    "category": "aipac_direct",
+    "source_url": "https://www.newcostrategies.com/strategic-partners/yael-ouzillou",
+    "snippet": "\"During an eight-year stint in Washington, DC, Yael worked as part of the development staff for the American Israel Public Affairs Committee (AIPAC), the Democratic National Committee, EMILY's List and as the National Finance Director for Senator Jean Carnahan.\" The same passage appears verbatim on her own firm site, yallacollaborative.com."
+   },
+   {
+    "org": "Ann Richards School for Young Women Leaders Foundation",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://yallacollaborative.com/",
+    "snippet": "Her firm bio lists her as serving on the board of the Ann Richards School for Young Women Leaders Foundation."
+   },
+   {
+    "org": "ATX Invest to Elect",
+    "role": "Candidate Committee Chair, 2021 Executive Committee",
+    "category": "political",
+    "source_url": "https://www.txinvesttoelect.com/copy-of-who-we-are-1",
+    "snippet": "The organization's Executive Committee page lists Yael Ouzillou as Candidate Committee Chair on the 2021 Austin Invest to Elect Executive Committee. (Page surfaced in search index; the site was unreachable for a direct full read at time of research.)"
+   }
+  ]
+ },
+ {
+  "donor_id": "8c04b5358669cec9",
+  "name": "Everett, Stephen",
+  "resolved_employer": "\"All Saints Texas\" (self-reported employer; specific entity not confirmed — multiple unrelated Texas organizations use the name, including All Saints Catholic Church/School Dallas, All Saints Presbyterian Austin, and Baylor All Saints Medical Center Fort Worth, none confirmed as a Mesquite 75181 employer)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile could be tied to this donor. Searches for a Stephen Everett at any Texas 'All Saints' organization returned no staff-directory, bio, or news match; the only Mesquite 'Steve Everett' surfaced was an obituary for a landscaper/property manager, which does not corroborate a 2026 donor with this employer. Employer string does not resolve to a confirmed entity, so no taxonomy label is asserted.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8eea78f5f7e4ba4e",
+  "name": "Bruscato Poss, Marcia",
+  "resolved_employer": "Self-employed — manager/registered agent of Rogge Ranch House LLC (3506 Rogge Lane, Austin, TX 78723); also a long-time film/TV art-department construction buyer",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Identity is well corroborated on both halves of the self-reported occupation: OpenCorporates lists Marcia Bruscato Poss as manager of Rogge Ranch House LLC at a Rogge Lane address in the donor's exact 78723 zip (the 'Landlord' half), and IMDb credits Marcia Bruscato-Poss in art department/construction-buyer roles on Texas-shot productions including Spy Kids, Planet Terror, Predators and the series Walker (the 'Construction Buyer' half). Industry labeled Real Estate on the strength of the property LLC; Entertainment is a defensible secondary given the film crew career.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0803106098",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "948a8b63b721a31d",
+  "name": "Nguyen, Ly",
+  "resolved_employer": "\"AMS\" (self-reported employer acronym; no AMS entity confirmed in or near Carrollton, TX — Texas matches found for the acronym are in Houston/Alvin, unrelated to this donor)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public footprint could be attributed to this individual. 'Ly Nguyen' is an extremely common name and the employer string is an unresolvable acronym; FEC/OpenSecrets and Carrollton 75007 donor-lookup searches surfaced no record matching this name, occupation and zip together. Occupation 'machine operator' also has no clean match in the permitted taxonomy, so no label is asserted rather than guessing between manufacturing-adjacent categories.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a3303ea71e272a0",
+  "name": "Slaton, Chance",
+  "resolved_employer": "U.S. Air Force — contracting officer, Whiteman Air Force Base, Missouri (zip 65305)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Identified only from the filing's own occupation/employer fields ('Contracting Officer', 'USAF') plus the zip 65305, which is the dedicated Whiteman AFB installation ZIP — internally consistent but not independently corroborated. No LinkedIn, bio page, news mention, FEC individual-contribution record, or Texas lobbyist registration surfaced for this name. military_defense deliberately NOT applied: the instructions define that flag as defense-contractor executive, board member, owner, or lobbyist, and a uniformed/civil-service USAF contracting officer is ordinary federal government employment on the buying side of the procurement relationship, not an industry principal — flagging it would over-apply the tag to routine public service.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9c81e27888fa4729",
+  "name": "Terry, Mark",
+  "resolved_employer": "Center for Economics, Enterprise & Innovation (CEEI) — President & CEO; previously President & CEO of SingleOak / Single Oak Investment LLC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Mark A. Terry is listed as President & CEO of the Center for Economics, Enterprise & Innovation (CEEI), based in Austin, TX — matching the filing's employer string 'CEEI', occupation 'Economic Development', and Austin 78752 zip. CEEI describes itself as an economic-development hub partnering with chambers of commerce, community development corporations, CDFIs, EDCs and municipal agencies. Background is 30+ years in public school and higher-education administration plus nonprofit leadership; prior role at SingleOak (blockchain/Web3 and government tax-credit consulting). No FEC individual-contribution record, no Texas Ethics Commission lobbyist registration, and no policy-advocacy board seats surfaced.",
+  "source_url": "https://ceei.us/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ec667d58ca0f72b",
+  "name": "Kopser, Joseph",
+  "resolved_employer": "Grayline Group — co-founder and President (advisory/analytics firm, Austin TX)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Joseph Kopser is a public figure: 20-year U.S. Army combat veteran (retired Lt. Col.; West Point aerospace engineering, Harvard Kennedy School; Bronze Star, Ranger Tab, Combat Action Badge), co-founder/CEO of RideScout (acquired by Mercedes-Benz, 2014), and the 2018 Democratic nominee for Texas' 21st congressional district (FEC candidate H8TX21190). He is President of Grayline Group in Austin, inaugural Chairman of the Board of Advisors of the CleanTX Foundation, a 2013 White House Champion of Change for Energy and Transportation, and a 2025 CleanTX Service & Leadership Award recipient. His FEC profile (lean 1.0 across 231 donations) is consistent with a documented Democratic candidate and donor. Note on military_defense: he holds a Defense Council membership at the Truman National Security Project (a nonpartisan national-security policy nonprofit) and a national-security consulting practice, but no public record shows him as an executive, board member, owner, or registered lobbyist of a defense contractor, so the military_defense flag was considered and NOT applied; the Truman role is recorded as civic instead. No Texas Ethics Commission lobbyist registration found.",
+  "source_url": "https://graylinegroup.com/about/joseph-kopser/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "CleanTX Foundation",
+    "role": "Inaugural Chairman, Board of Advisors (2019–); board of directors",
+    "category": "civic",
+    "source_url": "https://graylinegroup.com/about/joseph-kopser/",
+    "snippet": "Grayline bio lists Kopser as 'Inaugural Chairman of the Board of Advisors for the CleanTX Foundation,' an economic-development and professional association for the Texas cleantech sector."
+   },
+   {
+    "org": "Truman National Security Project",
+    "role": "Member, Defense Council (since 2017)",
+    "category": "civic",
+    "source_url": "https://ballotpedia.org/Joseph_Kopser",
+    "snippet": "Leading up to the 2018 primary he was 'president of the advisory and analytics firm Grayline as well as a member of the Defense Council of the Truman National Security Project' — a nonpartisan national-security policy organization, not a defense contractor."
+   },
+   {
+    "org": "Democratic Party — U.S. House, Texas 21st District (2018)",
+    "role": "Democratic nominee for Congress",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/candidate/H8TX21190/",
+    "snippet": "FEC candidate record H8TX21190, 'KOPSER, JOSEPH,' Democratic candidate for House Texas District 21 in 2018; committee 'Kopser for Congress' (C00641191)."
+   }
+  ]
+ },
+ {
+  "donor_id": "a08335cf0a120bb3",
+  "name": "Young, Patty",
+  "resolved_employer": "Retired — former career not identifiable from public records",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing reports only 'Retired' with no employer. 'Patty/Patricia Young' is a very common name and nothing in the public record ties a specific individual to Austin zip 78748 — no LinkedIn, obituary, board roster, news item, professional license, or bio page corroborates identity or a former career. The FEC pattern attached to this record (112 donations, mixed lean 0.34) is consistent with a high-frequency small-dollar online donor but is not by itself identity-confirming, and no ideological PAC (pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense) contribution surfaced under this name and location. No Texas Ethics Commission lobbyist registration found. Per instructions, industry left null rather than guessed, since not even a generic employer/occupation fallback is available.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a3524478dbbccf9b",
+  "name": "Anderson, James",
+  "resolved_employer": "Pearce Services (Pearce, a CBRE subsidiary) — commercial/critical-infrastructure design engineering and maintenance services; designer",
+  "industry": "Engineering",
+  "confidence": "low",
+  "evidence": "Employer named on the filing is verifiable: Pearce Services is a national provider of design engineering, maintenance and repair for UPS, backup generation, BESS and critical cooling infrastructure, with Austin, TX operations and active Austin hiring; acquired by CBRE in a ~$1.2B deal. The individual himself could not be confirmed — 'James Anderson' is an extremely common name, the listed zip 78601 is Burnet not Austin (apparent filing error), and no LinkedIn, bio, news or licensing record ties a designer named James Anderson to Pearce Services in Central Texas. Industry assigned by employer fallback only.",
+  "source_url": "https://pearce-services.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ab4446412c83fd38",
+  "name": "Rhodes, John",
+  "resolved_employer": "CM1 Technologies, Inc. dba CM First Group — founder, Managing Director & Chief Technologist, and Chairman of the Board",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed match: CM1 Technologies, Inc. (dba CM First Group) is an Austin legacy-software-modernization firm headquartered at 7000 N. MoPac Expy Ste 200, Austin, TX 78731 — the same zip as the donor record — and John Rhodes is its founder, Managing Director/Chief Technologist and Board Chairman, a Texas A&M CS grad and NYU management master's who lives in Austin. Full leadership-bio read lists no board seats, industry-association posts, or civic/policy organization roles beyond his own company.",
+  "source_url": "https://cmfirstgroup.com/company/leadership/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "CM First Group (CM1 Technologies, Inc.)",
+    "role": "Founder, Managing Director & Chief Technologist; Chairman of the Board",
+    "category": "business",
+    "source_url": "https://cmfirstgroup.com/company/leadership/",
+    "snippet": "Company leadership page lists John Rhodes as founder, Managing Director and Chief Technologist on the management team and as Chairman in the board of directors section; prior principal architect/consulting manager at CA Technologies."
+   }
+  ]
+ },
+ {
+  "donor_id": "b6c614d49dc53be8",
+  "name": "Dang, Marvin",
+  "resolved_employer": "Molina Healthcare — data analyst (per filing; not independently corroborated)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "No public profile could be tied to this specific person. Molina Healthcare is a real Medicaid/marketplace managed-care insurer that posts Austin-area and remote data-analyst roles, so the stated occupation/employer is plausible, but the only 'Marvin Dang' data analysts findable online are at Envolve Health (a Centene subsidiary, no Texas location shown) and an unrelated California physician — neither corroborated by the Pflugerville 78660 zip. Industry assigned by employer fallback only; identity unconfirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b79e1ec70f250828",
+  "name": "Botchlet, Jeremiah",
+  "resolved_employer": "Birch Grove Software, Inc. (dba ActivTrak), Austin workforce-analytics software company — Controller",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed match on employer, occupation and zip: Birch Grove Software, Inc. is the legal entity doing business as ActivTrak, an Austin workforce-analytics/employee-monitoring software firm, and Jeremiah Botchlet is its Controller — matching the filing's employer 'Birch Grove Software' and occupation 'Finance'. Separately, TREC lists Jeremiah Ray Botchlet as a licensed Texas real estate sales agent (license 625434, issued 2013) at 1511 East 12th Street, Austin — inside the donor's listed 78702 zip. Prior finance roles: Corporate Controller at FloSports, Controller at eMDs and AgileAssets, auditor at Rush Enterprises; Oral Roberts University. Full profile read surfaced no board seats, nonprofit roles or policy-advocacy organization memberships.",
+  "source_url": "https://www.zoominfo.com/p/Jeremiah-Botchlet/3065800465",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Birch Grove Software, Inc. (dba ActivTrak)",
+    "role": "Controller",
+    "category": "business",
+    "source_url": "https://en.wikipedia.org/wiki/ActivTrak",
+    "snippet": "Birch Grove Software, Inc. is a privately owned software company doing business as ActivTrak, developing cloud-based workforce-analytics and productivity-monitoring software; Botchlet is listed as its Controller."
+   }
+  ]
+ },
+ {
+  "donor_id": "bae8eeb542be4573",
+  "name": "Dozier, Teresa",
+  "resolved_employer": "Ash Grove Cement Company (a CRH company) — HR Director, Central Region",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Ash Grove Cement, which brands itself publicly as 'Ash Grove, a CRH Company,' identifies Teresa Dozier as HR Director for its Central Region; her professional profile lists her as Regional Director of Human Resources at Ash Grove and places her in the Austin area (prior role: Head of HR at Hospice Austin). This corroborates the filing's occupation 'Hr', employer 'CRH', and Pflugerville/Austin-metro zip 78660. FEC individual-contribution and Texas Ethics Commission lobbyist searches returned no records under this name.",
+  "source_url": "https://theorg.com/org/ash-grove/org-chart/teresa-dozier",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ca7b092eafddf03e",
+  "name": "Kirk, Carolyn",
+  "resolved_employer": "Not employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile, bio, news mention, or professional listing could be tied to a Carolyn Kirk in the 78717 (northwest Austin/Avery Ranch) area. FEC individual-contributor and OpenSecrets donor-lookup searches surfaced no attributable record, and she does not appear in Texas Ethics Commission registered-lobbyist listings. Industry is the categorize-by-occupation fallback from the filing's self-reported 'Not Employed'; identity is otherwise uncorroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d281917b728646ca",
+  "name": "Calhoun, Derrick",
+  "resolved_employer": "Unemployed (self-reported, employer 'None')",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public footprint found for a Derrick Calhoun in Joliet, IL 60436 — no bio page, news coverage, professional profile, or organizational listing. No FEC individual-contribution record surfaced, and as an Illinois resident he does not appear in the Texas Ethics Commission lobbyist registry. Industry reflects the filing's self-reported 'Unemployed'; a quiet outcome with no corroborating identity evidence.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d7bb6eb539c0b836",
+  "name": "Garza, Angela",
+  "resolved_employer": "Self-employed; occupation self-reported as 'Principal' — could not resolve whether school principal or firm/business principal",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "'Angela Garza' is a very common name in Central Texas and no profile could be tied to zip 78721 (East Austin). She does not appear as a principal in Austin ISD leadership or campus directories, and the several Austin-area Angela Garza professional profiles found (Accenture, CRI Rugged, and a similarly named Angelica Garza at APG Strategic Consulting) are distinct people with no 78721 or self-employment corroboration. Because the school-principal vs. firm-principal question could not be resolved from public records, industry is set to the non-committal self-employment fallback rather than Education or Consulting / PR. No Texas Ethics Commission lobbyist registration found; FEC individual-contribution search returned nothing attributable to this specific person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "df7bb591af9de3e7",
+  "name": "Kaler, Robert",
+  "resolved_employer": "Robert Kaler Architect — sole-practitioner architecture firm, 207 E. 34th St, Austin TX 78705 (filing lists occupation as \"Not Employed\", consistent with a retired/inactive practice)",
+  "industry": "Architecture",
+  "confidence": "medium",
+  "evidence": "An Austin architect named Robert Kaler operates Robert Kaler Architect at 207 E. 34th Street, Austin TX 78705 — an exact match to the donor's 78705 zip; the practice is described as begun in the 1960s and specializing in classical residential design, so the \"Not Employed\" occupation on the filing is consistent with retirement. Identity is name+zip corroborated only, hence medium. No FEC ideological-PAC record, no Texas lobbyist registration, and no bio page listing board seats or advocacy roles surfaced.",
+  "source_url": "https://www.zabalist.com/directory/90496ff4-6c24-4fd1-8669-3f635eced5d9/robert-kaler-architect",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e19a2c13c1d08eeb",
+  "name": "Tillmon, Chico",
+  "resolved_employer": "University of Chicago Crime Lab — Executive Director, Community Violence Intervention (CVI) Leadership Academy",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Chico Tillmon is Executive Director of the CVI Leadership Academy at the University of Chicago Crime Lab, previously Executive Director of READI National Center for Safer Communities at Heartland Alliance and of the YMCA of Metro Chicago's Youth Safety and Violence Prevention programs — an exact match to the filing's \"Executive Director / University of Chicago\". Full bio read confirms a documented gun-violence-prevention advisory role (Everytown Community Safety Fund advisory board); no gun_rights/firearms-industry affiliation, no FEC ideological-PAC record, and no Texas lobbyist registration surfaced.",
+  "source_url": "https://crimelab.uchicago.edu/staff/chico-tillmon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Everytown Community Safety Fund (Everytown Support Fund)",
+    "role": "Advisory Board member",
+    "category": "gun_control",
+    "source_url": "https://everytownsupportfund.org/everytown-community-safety-fund/",
+    "snippet": "Advisory board listing: \"Dr. Chico Tillmon, Director, Community Violence Intervention (CVI) Leadership Academy, University of Chicago Crime Lab.\""
+   },
+   {
+    "org": "University of Chicago Crime Lab — Community Violence Intervention Leadership Academy",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://crimelab.uchicago.edu/staff/chico-tillmon/",
+    "snippet": "\"Executive Director of the Community Violence Intervention (CVI) Leadership Academy... the first CVI training program designed to elevate the leadership capacity of leaders who oversee community-based organizations, offices of violence prevention, hospital violence intervention.\""
+   },
+   {
+    "org": "Council on Criminal Justice — Violent Crime Working Group",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://counciloncj.org/chico-tillmon/",
+    "snippet": "Council on Criminal Justice directory bio lists Tillmon as a member of the Council's Violent Crime Working Group and a violence-prevention expert providing national consultation."
+   }
+  ]
+ },
+ {
+  "donor_id": "e2857c70f827ad58",
+  "name": "Goodine, Kate",
+  "resolved_employer": "Move, Inc. (parent of realtor.com; Austin-headquartered since Feb 2025) — analyst/analytics role",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Best match is Kate Harper Goodine, an Austin-based data and analytics leader (Head of Marketing Analytics at Miro; previously Expedia, Vrbo, HomeAway; MA Economics, University of Tennessee), consistent with the filing's \"Analyst / Move Inc\" — Move Inc. relocated its headquarters to Austin in February 2025. Zip 78739 was not independently confirmed, so medium confidence. Move Inc. is a real-estate-listings technology company (News Corp subsidiary), not a real-estate brokerage or development principal. No FEC ideological-PAC record, no Texas lobbyist registration, and no board or advocacy roles on her public profile.",
+  "source_url": "https://www.linkedin.com/in/katehgoodine/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e636af7d05a969a0",
+  "name": "Terry, Shirley",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public record identifying this specific Shirley Terry in Austin 78723 surfaced. The only Austin-area match found was an unrelated 2012 Austin American-Statesman obituary for a Shirley L'Dene Neal Terry, which does not correspond to a 2026 donor. Filing lists occupation \"Retiree\" with no employer, and no former career could be documented, so no industry fallback is supportable. FEC individual/PAC contribution search, Texas Ethics Commission lobbyist search, and bio searches all returned nothing. No public record supports a household or family link to donor \"Terry, Mark\" (78752, CEEI), so none is recorded.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

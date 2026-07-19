@@ -1,0 +1,363 @@
+[
+ {
+  "donor_id": "5bff509bad82592b",
+  "name": "Coleman, Kellee",
+  "resolved_employer": "City of Austin — Equity Office (business process consultant / equity staff)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Kellee Coleman is a City of Austin Equity Office staffer, matching the filing's 'COA' employer string, 'Manager' occupation, and Austin location; she is listed by name and department on the AFSCME Local 1624 executive board roster as a City Vice President — Local 1624 represents City of Austin and Travis County employees. Zip 78748 could not be independently confirmed and more than one Kellee Coleman appears in Austin-area search results, so identity rests on name + City of Austin employment rather than address. A secondary claim of Dell Medical School Community Strategy Team membership surfaced only via a LinkedIn profile that could not be read directly (HTTP 999), so it is not recorded as an affiliation. No FEC contribution record (pipeline count 0), no TEC lobbyist registration, and no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor ties found.",
+  "source_url": "https://afscme1624.org/executive-board",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AFSCME Local 1624",
+    "role": "City Vice President, Executive Board",
+    "category": "civic",
+    "source_url": "https://afscme1624.org/executive-board",
+    "snippet": "Executive board roster lists under City Vice Presidents: 'Kellee Coleman (City of Austin - Equity Office).' Local 1624 is the union representing City of Austin and Travis County employees."
+   }
+  ]
+ },
+ {
+  "donor_id": "5f2a81189b58dd09",
+  "name": "Richardson, George",
+  "resolved_employer": "Not employed (self-reported on the filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile, bio, news coverage, professional listing, or organizational role could be located for a George Richardson at Austin 78723. 'George Richardson' is a very high-collision name with hundreds of Texas matches and nothing in the public record distinguishes this individual. IMPORTANT CAVEAT: the pipeline's fec_partisan_lean of 0.76 across 245 donations is almost certainly a name-collision aggregate — no FEC contributor record could be tied to the 78723 address — and should not be read as evidence about this donor. Industry recorded solely from the filer's own self-reported 'Not Employed' occupation. No TEC lobbyist registration; no affiliations of any kind, on any side of any policy spectrum, surfaced.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6995866011722919",
+  "name": "Duffy, Joseph",
+  "resolved_employer": "JMD Public Strategies (founder/principal, Chicago government-relations and campaign consulting firm); concurrently Executive Director, Climate Jobs Illinois",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Joe Duffy is founder and principal of JMD Public Strategies, a Chicago-based government relations and campaign consulting firm — an exact match to the filing's employer string, Chicago 60657 location, and 'Consultant' occupation. Career Democratic operative: campaign manager for Kwame Raoul's 2018 Illinois AG race, executive director of the Missouri Democratic Party, Obama 2008 / Organizing for America, and Iowa Democratic Party coordinated campaign director (2014). His out-of-state donation to Amber Goodwin is consistent with a gun-violence-prevention professional network — Goodwin founded a gun violence prevention organization and Duffy ran Everytown's Nevada background-check ballot initiative. No TEC lobbyist registration (he is an Illinois practitioner); no pro-Israel, pro-Palestine, oil & gas, gun-rights, or defense-contractor ties found.",
+  "source_url": "https://www.jmdpublicstrategies.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Everytown for Gun Safety",
+    "role": "Staff — managed Nevada statewide background-check ballot initiative",
+    "category": "gun_control",
+    "source_url": "https://www.jmdpublicstrategies.com/",
+    "snippet": "Bio states he 'worked for Everytown for Gun Safety, where he managed a successful statewide ballot initiative to require background checks on all gun sales in Nevada.'"
+   },
+   {
+    "org": "Climate Jobs Illinois",
+    "role": "Executive Director",
+    "category": "civic",
+    "source_url": "https://climatejobsillinois.org/climate-jobs-illinois-names-joe-duffy-executive-director-to-continue-push-for-pro-climate-pro-worker-agenda/",
+    "snippet": "Press release: 'Climate Jobs Illinois names Joe Duffy executive director to continue push for pro-climate, pro-worker agenda.' CJI is a coalition of labor organizations."
+   },
+   {
+    "org": "Climate Jobs Institute, University of Illinois Urbana-Champaign",
+    "role": "Advisory board member (appointed by Gov. JB Pritzker)",
+    "category": "civic",
+    "source_url": "https://www.jmdpublicstrategies.com/",
+    "snippet": "Bio: 'serves on the advisory board of the Climate Jobs Institute at the University of Illinois Urbana-Champaign, to which he was appointed by Governor JB Pritzker.'"
+   },
+   {
+    "org": "Missouri Democratic Party",
+    "role": "Executive Director (former)",
+    "category": "political",
+    "source_url": "https://www.jmdpublicstrategies.com/",
+    "snippet": "Bio lists prior service as 'Executive Director of the Missouri Democratic Party,' alongside work for Obama 2008 and Gov. Jay Nixon's reelection."
+   }
+  ]
+ },
+ {
+  "donor_id": "6bbf71a90050457a",
+  "name": "Ouyang, Kevin",
+  "resolved_employer": "General Motors — data scientist (self-reported on the filing; a Kevin Ouyang with a General Motors affiliation appears on ResearchGate but could not be tied to the Audubon, PA address)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "'Kevin Ouyang' returns at least eight distinct professional profiles (GM/ResearchGate, Optum, Citi, Northwestern, Roblox, Allied Credit Group, an Ontario-based firm), and neither LinkedIn nor ResearchGate would serve full profile text (HTTP 999 / 403), so the specific individual at Audubon, PA 19403 could not be confirmed. Industry assigned by employer-fallback from the self-reported 'Data Scientist / General Motors' strings alone; note GM is an automaker, so 'Transportation' is a defensible alternative label. No FEC contribution record (pipeline count 0), no TEC lobbyist registration, and no advocacy footprint on any policy spectrum found for any Ouyang in the 19403 area.",
+  "source_url": "https://www.researchgate.net/profile/Kevin-Ouyang",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "784c31612240c711",
+  "name": "Mitchell, Terry",
+  "resolved_employer": "TPM Enterprise (self-reported; entity not located in public records)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "IDENTITY NOT CONFIRMED, and the obvious candidate was explicitly ruled out: Terry E. Mitchell, President of Momark Development, appears in Austin city campaign finance records at 3212 Bridle Path, Austin TX 78723 with employer 'MG Realty Investments/Momark Development' — a different zip and a different employer string than this donor's 78734 / 'TPM Enterprise' / 'Entrepreneur'. This donor is therefore NOT classified as real estate. Also considered Terry Pierre ('T.P.M.') Mitchell, an Austin serial entrepreneur whose initials match, but none of her documented ventures is named 'TPM Enterprise' and no public record places her in 78734. No Texas entity named 'TPM Enterprise(s)' tied to any Austin Terry Mitchell was found. Classified by self-reported employer/occupation only. No TEC lobbyist registration; the 2 federal donations were not tied to this individual.",
+  "source_url": "https://momarkdevelopment.com/team/terry-mitchell/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "821e2e7df1f7998a",
+  "name": "Golden, Nicole",
+  "resolved_employer": "Texas Gun Sense — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Nicole Golden, MSSW, is Executive Director of Texas Gun Sense, the Austin-headquartered statewide gun-violence-prevention nonprofit; she joined as Development Manager in 2021 and became ED in spring 2022. The filing's employer ('Texas Gun Sense') and occupation ('Executive Director') match exactly, and Texas Legislature witness lists document her at the Capitol as 'Executive director (Texas Gun Sense), Austin, TX.' She co-founded the Austin group of Moms Demand Action after Sandy Hook. UNRESOLVED THREAD: a search-engine index of the Texas Ethics Commission's 2023 and 2025 Registered Lobbyists PDFs indicates a 'Nicole G. Golden (Ms.)' entry, which would be plausible for a nonprofit ED who testifies at the Capitol, but the TEC PDFs are image/compressed and could not be read first-hand, and no client list or identity match could be confirmed — so a lobbyist registration is NOT recorded as an affiliation here and warrants a manual check at https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf. No pro-Israel, pro-Palestine, oil & gas, gun-rights, or defense-contractor ties found.",
+  "source_url": "https://voyageaustin.com/interview/rising-stars-meet-nicole-golden-of-austin-and-statewide/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Gun Sense",
+    "role": "Executive Director",
+    "category": "gun_control",
+    "source_url": "https://capitol.texas.gov/tlodocs/89R/witlistmtg/html/C5702025022414001.HTM",
+    "snippet": "Texas Senate committee witness list, 89th Legislature: Nicole Golden registered AGAINST SB 706, identified as 'Executive director (Texas Gun Sense), Austin, TX.'"
+   },
+   {
+    "org": "Moms Demand Action for Gun Sense in America (Austin group)",
+    "role": "Co-Founder",
+    "category": "gun_control",
+    "source_url": "https://voyageaustin.com/interview/rising-stars-meet-nicole-golden-of-austin-and-statewide/",
+    "snippet": "Golden co-founded the Austin chapter of Moms Demand Action following the Sandy Hook shooting, and specializes in public speaking, advocacy, and coalition-building."
+   }
+  ]
+ },
+ {
+  "donor_id": "88e7e91764abd7d7",
+  "name": "Curry, Donovan",
+  "resolved_employer": "Agent Curry LLC (self-reported)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "A Donovan Curry in Austin, TX appears on LinkedIn as a 'Fractional Revenue & Partnerships' professional, formerly at Apple, educated at Texas State University — plausibly consistent with a self-described entrepreneur operating a single-member 'Agent Curry LLC' — but the 78701 zip could not be corroborated, that profile could not be linked to the LLC, and no Texas entity registration for 'Agent Curry LLC' was located. Classified by self-reported employer/occupation only. No FEC contribution record (pipeline count 0), no TEC lobbyist registration, and no advocacy affiliations on any side of any policy spectrum found.",
+  "source_url": "https://www.linkedin.com/in/donovan-curry-734a97101/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8b75f6b329329d8e",
+  "name": "Korshidian, Yasminda",
+  "resolved_employer": "Lower Colorado River Authority (LCRA) — Senior Program Manager, Enterprise Risk",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "The filing's surname appears to be a misspelling of Khorshidian. Public-records aggregators return exactly one person by that name in Texas: Yasminda B. Khorshidian, Austin, TX, whose professional profile shows her at the Lower Colorado River Authority — a Texas public conservation-and-reclamation district and public utility — rising from Business Continuity & Enterprise Risk Senior Analyst to Senior Program Manager, Enterprise Risk, after earlier roles at Indeed and Wells Fargo. CAVEAT: her currently listed address is 78748 (moved ~2025), not the 78722 on the 2022 donation, so the zip does not directly corroborate; the name's uniqueness in Texas plus the Austin location are the corroborating factors. The donation record itself lists no occupation or employer. No FEC record, no TEC lobbyist registration, and no affiliations on any policy spectrum found.",
+  "source_url": "https://www.linkedin.com/in/yasminda/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa58be25f446befb",
+  "name": "Jagielko, Jennifer",
+  "resolved_employer": "PRO-ED, Inc. (Austin special-education and assessment publisher) — Research Specialist",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Jennifer R. Jagielko is published as a co-author on peer-reviewed child language / word-finding research (Newman, German & Jagielko, Communication Disorders Quarterly, 2018) and is listed as a Research Specialist at PRO-ED, Inc., the Austin-based special-education test and materials publisher at 1301 W 25th St. The filing's employer string ('PRO-ED') and occupation ('Researcher') match exactly; the Austin 78702 residence is consistent but not independently confirmed for this specific individual. No TEC lobbyist registration (no Jagielko appears in the registry). Direct FEC/OpenSecrets record-level lookup was blocked (HTTP 429/403), so the 29 federal donations could not be confirmed or ruled out at record level; no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor ties surfaced via web search.",
+  "source_url": "https://journals.sagepub.com/doi/10.1177/1525740117712205",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ae235ecf04dbe886",
+  "name": "Seraj, Sarah",
+  "resolved_employer": "A Better Force (Austin leadership/equity training and data consultancy) — Co-Founder and Chief Technology Officer",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Sarah Seraj, PhD (Social Psychology, UT Austin 2021) is co-founder and CTO of A Better Force, an Austin consultancy she founded with Saamiya Seraj; the firm won the 2024 Emerging Business Award at the Greater Austin Asian Chamber of Commerce Ovation Gala. The filing's employer ('A Better Force') and occupation ('Psychologist') match her published bio exactly, and she is confirmed Austin-based. JUDGMENT CALL: her public X display name includes a Palestinian flag emoji, but that is personal expression rather than a documented organizational role, so per the instructions it is deliberately NOT recorded as a palestine_solidarity affiliation. No TEC lobbyist registration; direct FEC record-level lookup was blocked (HTTP 429/403), and no PAC ties on any side surfaced via web search.",
+  "source_url": "https://www.abetterforce.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin Asian Community Health Initiative (AACHI)",
+    "role": "Vice Chair, Board of Directors",
+    "category": "civic",
+    "source_url": "https://aachi.org/about-us/board-of-directors/",
+    "snippet": "Board of Directors listing: 'Sarah Seraj, PhD is co-founder and CTO at A Better Force...' shown as Vice Chair of AACHI, a Central Texas nonprofit running health navigation, an annual health fair, and the Asian Behavioral Health Network."
+   }
+  ]
+ },
+ {
+  "donor_id": "b4b38c117fa6d13f",
+  "name": "Aiana, Kannou",
+  "resolved_employer": "Austin Independent School District (AISD) — Teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "No public web footprint found for this individual under this or variant spellings — no AISD staff directory entry, professional profile, news mention, FEC record, or lobbyist registration. Industry assigned by employer-fallback from the filing's own occupation ('Teacher') and employer ('AISD') strings only; identity could not be independently corroborated. The pipeline's own FEC match returned zero federal donations, consistent with no federal giving history. No affiliations on any side of any policy spectrum found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b68e1bc6e51f7e75",
+  "name": "Atkins, Kathryn",
+  "resolved_employer": "Licensed Master Social Worker (LMSW), solo telehealth practice, Austin; filing also lists Cetec ERP (unverified)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Kathryn Atkins, LMSW (Texas license 113448, supervised by Arlene Montgomery) lists her practice at Austin, TX 78724 — an exact zip match to the donation record — with an MSW from the University of Houston (2024) and two years in practice; a recruiting-data profile also shows her as an Austin ISD social work intern. The filing's 'Social Worker / Social Worker-HR' occupation matches; the 'Cetec ERP' employer string could not be corroborated on any public Cetec ERP staff listing, so the employer field is reported as filed but unverified. TEC registry checked: the only Atkins entries in the 2026 registered-lobbyist list are Grace M. Atkins and M. Winnfield Atkins, neither matching this donor. Direct FEC record-level lookup was blocked (HTTP 429/403); no PAC ties on any side surfaced via web search.",
+  "source_url": "https://www.psychologytoday.com/us/therapists/kathryn-atkins-austin-tx/1599039",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b745f858bd288041",
+  "name": "Lofton, Michael",
+  "resolved_employer": "African American Youth Harvest Foundation (Founder/CEO); also Founder/CEO, Harvest Trauma Recovery Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Native Austinite, founder and CEO of the African American Youth Harvest Foundation (est. 2006) and the Harvest Trauma Recovery Center (est. 2023). The filing's employer string matches his documented role exactly, and the AAYHF/African American Youth Resource Center is located in Northeast Austin, consistent with a 78723 residence. Austin Community College named him its 2025 Distinguished Alumnus. Former City of Austin commissioner (Resource Management; Community Development). No TEC lobbyist registration; no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor ties found.",
+  "source_url": "https://sites.austincc.edu/newsroom/2025/09/15/meet-accs-distinguished-alumni-of-the-year-michael-lofton/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "African American Youth Harvest Foundation",
+    "role": "Founder and CEO",
+    "category": "civic",
+    "source_url": "https://harvesttrc.org/team-members/michael-lofton/",
+    "snippet": "Bio identifies Lofton as Founder and CEO of the African American Youth Harvest Foundation, which opened the African American Youth Resource Center in 2011 to serve Northeast Austin and Northeast Travis County youth and adults."
+   },
+   {
+    "org": "Harvest Trauma Recovery Center",
+    "role": "Founder and CEO",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/servant-leaders/",
+    "snippet": "Article identifies Lofton as Chief Executive Officer of the Harvest Trauma Recovery Center, founded 2023, which houses 'about 30 plus nonprofits and government agencies, all under one roof.'"
+   },
+   {
+    "org": "City of Austin Resource Management Commission",
+    "role": "Former commissioner",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/servant-leaders/",
+    "snippet": "'He served on Austin's Resource Management and Community Development commissions.'"
+   },
+   {
+    "org": "City of Austin Community Development Commission",
+    "role": "Former commissioner",
+    "category": "civic",
+    "source_url": "https://austinfreepress.org/servant-leaders/",
+    "snippet": "'He served on Austin's Resource Management and Community Development commissions.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "b7df50254e0963dc",
+  "name": "Wainwright, Mike",
+  "resolved_employer": "Nautical Boat Club (Austin) — Manager",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "A 'Mike Wainwright' in Austin zip 78702 appears in FEC-reported ActBlue individual-contribution data (July 2019, $25, occupation then listed as wine salesman), matching this donor's name, city, and zip and consistent with the 84 small-dollar Democratic-leaning federal donations in the record; his current employer, Nautical Boat Club, is a real Austin membership boating club with Lake Austin/Lake Travis locations. Identity is corroborated by name + zip + donation pattern, but not by an employer-specific bio page. No TEC lobbyist registration; no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor PAC ties found — the federal giving is recurring small-dollar ActBlue activity rather than PAC-level.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part41.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bebab8c1335ad878",
+  "name": "Collier, Chelsea",
+  "resolved_employer": "Self-employed consultant — Principal, Intercambio Group; Founder, Digi.City",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Austin-based smart-cities consultant and writer: Founder of Digi.City, Principal at consulting firm Intercambio Group, Co-Founder of Impact Hub Austin, Editor-at-Large at Smart Cities Connect, Eisenhower Fellow, and a PhD student at UT Austin's School of Information. The filing's 'Consultant / Self employed' strings match her Intercambio consulting practice; the distinctive name plus Austin base corroborate, though the specific 78702 address was not independently confirmed. No TEC lobbyist registration found; no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor ties found.",
+  "source_url": "https://techconnect.org/our-story/team/chelsea-collier/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texans for Economic Progress",
+    "role": "Former Executive Director; Senior Advisor",
+    "category": "business",
+    "source_url": "https://techconnect.org/our-story/team/chelsea-collier/",
+    "snippet": "Bio lists her as 'Executive Director for Texans for Economic Progress,' described as a statewide technology coalition; other bios list her as Senior Advisor to the same organization."
+   },
+   {
+    "org": "Digi.City",
+    "role": "Founder",
+    "category": "civic",
+    "source_url": "https://www.digi.city/about",
+    "snippet": "Digi.City, created by Chelsea McCullough Collier in 2016 out of her Eisenhower Fellowship on smart cities, registered as a Texas nonprofit in 2023 to pursue education and collaboration on ethical smart-city technology."
+   },
+   {
+    "org": "Impact Hub Austin",
+    "role": "Co-Founder",
+    "category": "civic",
+    "source_url": "https://techconnect.org/our-story/team/chelsea-collier/",
+    "snippet": "Bio lists Collier as 'Co-Founder of Impact Hub Austin.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "c08ec7fb704bbd62",
+  "name": "Ross, Michael",
+  "resolved_employer": "The Tatted Frog LLC — Owner (business has no locatable public footprint)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "IDENTITY NOT CONFIRMED, and the record is internally inconsistent: the filing lists city 'Austin' but zip 79759, which is Wickett/Monahans in Ward County, West Texas — roughly 350 miles from Austin — suggesting a filer data-entry error. No public record of 'The Tatted Frog LLC' was found in Texas business listings or tattoo-industry directories, and 'Michael Ross' is an extremely high-collision name with no matching Austin or West Texas profile identifiable. FEC donation count is 0, consistent with no federal giving footprint; no TEC lobbyist registration. Industry recorded only as the generic self-employed-LLC-owner fallback; no reliable sector classification is supportable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0b2cdc7afe8d689",
+  "name": "Windberg, Thomas",
+  "resolved_employer": "Not employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Thomas Joseph Windberg, Austin TX 78745 — a retiree and prolific small-dollar Democratic donor. FEC individual-contribution records list 'Thomas Windberg, Retired, 78745, Austin TX' (e.g. a $30 contribution to Progressive Vote / Progressive Democrats of America, 7/19/2018), corroborating the zip, the retired status, and the 55-donation progressive giving pattern. No former career is identifiable in public sources, so no prior-career industry could be assigned; unrelated Windbergs (artist Dalhart Windberg of Georgetown; a welder in Ireland) were ruled out on location/age. No Austin architecture or civic-board connection found, no TEC lobbyist registration, and no PAC ties on any side of any policy spectrum.",
+  "source_url": "http://www.city-data.com/elec2/18/elec-AUSTIN-TX-18-part62.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cb380970a111c72b",
+  "name": "Wiesner, Ann",
+  "resolved_employer": "Wiesner Consulting (sole proprietor — leadership advising and facilitation)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Ann Wiesner is the founder and sole consultant of Wiesner Consulting, a Minneapolis-area leadership-advising and facilitation practice (stated services: Leadership Advising, Advocacy & Coalition-Building, Change & Transformation, Rethinking Hierarchy). This matches the filed occupation ('Facilitator, Consultant') and employer ('Self Employed / Self'); Minnetonka 55345 is a Minneapolis suburb consistent with the firm's stated metro, and the site lists a personal email and 612 number, confirming a one-person practice. IMPORTANT CAVEAT: the fec_partisan_lean of 0.0 across only 3 donations is not corroborated by any record found and appears to be a collision artifact — no Republican-aligned giving was located and it should not be treated as evidence of Republican alignment. No TEC lobbyist registration (she is Minnesota-based); no affiliations on any policy spectrum found.",
+  "source_url": "https://www.wiesnerconsulting.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "df90732d0e17d25d",
+  "name": "Robinson, Leenolia",
+  "resolved_employer": "Crete Carrier Corporation (nationwide truckload carrier)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "The filed employer 'Crete' plus occupation 'Transportation' resolves to Crete Carrier Corporation, a nationwide truckload carrier with Texas terminals and driver/office operations; Jarrell TX 76537 sits on the I-35 corridor consistent with that work. Identity corroborated to Central Texas by two independent listings of the uncommon name: Leenolia Robinson on the University of Mary Hardin-Baylor (Belton, TX) Provost's Honor Roll for Fall 2015, Fall 2016 and Spring 2017, and 'Leenolia B Robinson' on The Black Fund of Central Texas donor roster. No public professional profile or bio page, no federal PAC record, and no TEC lobbyist registration; a 2021 Dallas County divorce filing under the same name could not be tied to this donor.",
+  "source_url": "https://cretecarrier.com/company-driver/texas-driving-jobs/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Black Fund of Central Texas",
+    "role": "Listed donor",
+    "category": "civic",
+    "source_url": "https://theblackfundcentraltx.org/about/donor-roster/",
+    "snippet": "'Leenolia B Robinson' appears on the public donor roster under 'A Special Thank you to the donors that make our work possible.' The Black Fund of Central Texas collects donations and distributes grants to Central Texas community partners."
+   }
+  ]
+ },
+ {
+  "donor_id": "f516f7b071626ba3",
+  "name": "Reeves, Jessica",
+  "resolved_employer": "Amazon — Public Policy Manager, U.S. and Latin America",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jessica Reeves is Public Policy Manager for U.S. & Latin America at Amazon, based in Washington, DC, a role held since April 2025 — an exact match to the filed employer ('Amazon'), occupation ('Manager'), and DC 20011 location. Her documented career is in Latino civic engagement and voting rights: Chief Operating Officer of Voto Latino (2015-2019, after roles there from 2010), then Director of Public Engagement at the U.S. Small Business Administration as a Biden-Harris appointee (2022). BA Boston College, MA Georgetown. This profile is consistent with the 68 federal donations and Democratic lean, and distinguishes her from other same-named individuals (Anaconda COO, Harkins Theatres VP, GeekWire). No TEC lobbyist registration (she is a DC federal-policy practitioner); no pro-Israel, pro-Palestine, oil & gas, gun-rights, gun-control, or defense-contractor PAC ties found.",
+  "source_url": "https://rocketreach.co/jessica-reeves-email_46700881",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Voto Latino",
+    "role": "Chief Operating Officer (2015-2019); earlier Marketing & Partnerships Manager/Director and VP of Partnerships (2010-2015)",
+    "category": "civic",
+    "source_url": "https://www.charitycharge.com/charity-charge-podcasts/jessica-reeves-entrepreneur-former-coo-voto-latino/",
+    "snippet": "Described as 'former Chief Operating Officer (COO) of Voto Latino, a civic media organization focused on Latino civic engagement and voting rights'; her focus areas are listed as 'Latino Issues, Voting rights, Innovation, Government Relations and CSR.'"
+   },
+   {
+    "org": "U.S. Small Business Administration",
+    "role": "Director of Public Engagement (Biden-Harris administration appointee, announced Oct 2022)",
+    "category": "political",
+    "source_url": "https://www.sba.gov/article/2022/oct/24/administrator-guzman-applauds-president-bidens-new-appointees-us-small-business-administration",
+    "snippet": "SBA announcement of new Biden appointees names Reeves as Director of Public Engagement: 'Before joining the SBA, Ms. Reeves led projects for organizations such as YWCA, Rock the Vote, and Supermajority, as well as local and national clients with a focus on reaching and mobilizing diverse communities.'"
+   },
+   {
+    "org": "Support Latino Business",
+    "role": "Co-founder",
+    "category": "civic",
+    "source_url": "https://www.sba.gov/article/2022/oct/24/administrator-guzman-applauds-president-bidens-new-appointees-us-small-business-administration",
+    "snippet": "Same SBA appointment announcement notes she 'is also a co-founder of Support Latino Business, a nonprofit dedicated to assisting Latino-owned businesses.'"
+   }
+  ]
+ }
+]

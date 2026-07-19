@@ -1,0 +1,428 @@
+[
+ {
+  "donor_id": "c97957a7c1398b29",
+  "name": "Knizhnik, Sara",
+  "resolved_employer": "Lake County, Illinois — County Board Member, District 18 (Vernon Hills/Buffalo Grove/Lake Zurich area)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Sara Knizhnik is the elected Lake County (IL) Board Member for District 18, which covers Vernon Hills — matching the donor's stated occupation 'Elected Official', employer 'Lake County Illinois', and zip 60061 (Vernon Hills). Career gun-violence-prevention advocate; previously Vernon Township Trustee.",
+  "source_url": "https://www.lakecountyil.gov/4799/District-18-Sara-Knizhnik",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Moms Demand Action for Gun Sense in America",
+    "role": "Founder of the first local group in Chicago's northern suburbs (2015)",
+    "category": "gun_control",
+    "source_url": "https://www.saraknizhnik18.com/meetsara",
+    "snippet": "Bio states she founded the first Moms Demand Action for Gun Safety local group in the northern suburbs in 2015."
+   },
+   {
+    "org": "Illinois Gun Violence Prevention Coalition",
+    "role": "Organizer",
+    "category": "gun_control",
+    "source_url": "https://www.saraknizhnik18.com/meetsara",
+    "snippet": "Served as Organizer of the Illinois Gun Violence Prevention Coalition; organized the grassroots movement supporting the 2019 Illinois Gun Dealer Licensing law."
+   },
+   {
+    "org": "Newtown Action Alliance",
+    "role": "Director of Community Engagement",
+    "category": "gun_control",
+    "source_url": "https://www.dailyherald.com/news/20221014/sara-frederick-knizhnik-2022-candidate-for-lake-county-board-district-18/",
+    "snippet": "Served as Director of Community Engagement for Newtown Action Alliance, a national gun violence prevention organization founded after Sandy Hook."
+   },
+   {
+    "org": "Gun Violence Prevention Initiative, Lake County (IL) State's Attorney's Office",
+    "role": "Chair",
+    "category": "gun_control",
+    "source_url": "https://www.saraknizhnik18.com/meetsara",
+    "snippet": "Currently Chair of the Gun Violence Prevention Initiative (GVPI) at the Lake County State's Attorney's Office."
+   }
+  ]
+ },
+ {
+  "donor_id": "c9cafcee3b62db65",
+  "name": "Muller, Tiffany",
+  "resolved_employer": "End Citizens United / Let America Vote — President (also President, ECU-LAV Action Fund)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Tiffany Muller is the long-serving President of End Citizens United, Let America Vote, and the ECU/LAV Action Fund, headquartered in Washington DC — exactly matching the donor's stated occupation 'President', employer 'End Citizens United', and DC zip. Formerly chief of staff to two members of Congress and Deputy Political Director at the DSCC; in 2004 became the first openly gay elected official in Kansas (Topeka City Council).",
+  "source_url": "https://www.endcitizensunited.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "End Citizens United / Let America Vote",
+    "role": "President",
+    "category": "political",
+    "source_url": "https://www.endcitizensunited.org/about",
+    "snippet": "Muller serves as President; the organization is a federal PAC/advocacy network focused on 'getting big money out of politics and protecting the right to vote,' has raised over $200 million since 2015 and helped elect more than 600 candidates."
+   },
+   {
+    "org": "End Citizens United Action Fund",
+    "role": "President (2024 compensation reported at $369,399 from related organizations plus $25,171 other)",
+    "category": "political",
+    "source_url": "https://www.influencewatch.org/non-profit/end-citizens-united-action-fund/",
+    "snippet": "InfluenceWatch profile lists Muller as president of the End Citizens United Action Fund and reports her 2024 related-organization compensation."
+   },
+   {
+    "org": "Democratic Senatorial Campaign Committee (DSCC)",
+    "role": "Deputy Political Director (former)",
+    "category": "political",
+    "source_url": "https://www.legistorm.com/person/bio/201657/Tiffany_Muller.html",
+    "snippet": "Prior to End Citizens United she was Deputy Political Director at the DSCC and chief of staff to two members of Congress."
+   }
+  ]
+ },
+ {
+  "donor_id": "cc05b78c048ae01b",
+  "name": "Sheftall, Bill",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public-records aggregators place at least two men named Bill/William Sheftall at the same 78747 household (2300 Innisbrook Dr, Austin): William L. Sheftall, b. 1953 (age ~72, consistent with the donor's 'RETIRED' occupation), and a younger Bill Sheftall (b. ~1985) who is a commercial real-estate broker associate at McAllister & Associates. The donor's 'RETIRED' occupation points to the elder, but the two cannot be reliably separated from public sources and no former career is documented for him, so no industry is assigned. A separate Texas Ethics Commission filing snippet shows a 'Bill Sheftall' of Austin 78747 giving $200 to Texas Sport PAC on 05/21/2025; the underlying filing was not independently verified and it is unclear which household member it refers to.",
+  "source_url": "https://clustrmaps.com/person/Sheftall-netoe",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf5f3ebcc8c0be9c",
+  "name": "Revoyr, Nina",
+  "resolved_employer": "Ballmer Group — Vice Chair and Executive Director, Los Angeles & National Public Safety",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Nina Revoyr leads Ballmer Group's Los Angeles office and its national public-safety portfolio, matching the donor's occupation 'Philanthropy Administrator' and employer 'Ballmer Group'. Identity further corroborated by a prior FEC individual-contribution record listing 'Nina Revoyr, Ballmer Group/Philanthropy' in the South Bay LA area (90254), adjacent to the donor's Rancho Palos Verdes 90275. She is also a published novelist (six novels) and a former EVP/COO of Children's Institute, Inc.",
+  "source_url": "https://ballmergroup.org/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Ralph M. Parsons Foundation",
+    "role": "Board of Directors (joined 2018)",
+    "category": "civic",
+    "source_url": "https://rmpf.org/about-us/board-of-directors/nina-revoyr/",
+    "snippet": "Foundation board page lists Revoyr as a director since 2018 and describes her Ballmer Group role leading anti-poverty and economic-mobility grantmaking in Los Angeles County."
+   },
+   {
+    "org": "Ballmer Group",
+    "role": "Vice Chair and Executive Director, Los Angeles / National Public Safety",
+    "category": "civic",
+    "source_url": "https://www.insidephilanthropy.com/home/2023-7-11-six-questions-for-nina-revoyr-ballmer-groups-executive-director-los-angeles",
+    "snippet": "Inside Philanthropy interview identifies Revoyr as head of the LA office of Ballmer Group, the philanthropy founded by Steve and Connie Ballmer, setting strategy on economic mobility and criminal-justice/public-safety investments."
+   }
+  ]
+ },
+ {
+  "donor_id": "d383f31ed34ded18",
+  "name": "Buchanan, Lillian",
+  "resolved_employer": "Self-employed — Lillian Buchanan, PhD, private couples-counseling practice, Austin TX",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Lillian Buchanan, PhD is a Licensed Professional Counselor (NPI 1285238543) in solo private practice in Austin specializing in couples therapy, certified in both the Gottman Method and Emotionally Focused Therapy — consistent with the donor's occupation 'Therapist' and employer 'Self'. Her listed practice address is Travis Heights Blvd, 78704, one zip over from the donor's 78702 residential zip, so the match is strong but not zip-exact; no other Austin therapist by that name was found.",
+  "source_url": "https://lillianbuchananphd.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d3e4daabcc5d331e",
+  "name": "Robinson, Donald",
+  "resolved_employer": "IntraManagement Solutions (self-reported on filing; a project-management/EVM consulting firm headquartered in Frisco, TX) - individual not verified",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Could not confirm this specific person. 'Donald Robinson' is a very common name and no public profile ties a Donald Robinson in Bellevue WA 98004 to Intra Management Solutions; LinkedIn/company searches returned only unrelated Donald/Don Robinsons and the firm's leadership (founder/president Matt Wojciechowski) does not include him. Industry assigned by the categorize-by-employer fallback only, from the self-reported occupation 'Consultant' at a management-consulting firm.",
+  "source_url": "https://intramanagement.us/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4a332580dfaf0ff",
+  "name": "Flanagan, Margaret",
+  "resolved_employer": "State of Minnesota - Lieutenant Governor of Minnesota (Margaret 'Peggy' Flanagan)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Margaret 'Peggy' Flanagan is the 50th Lieutenant Governor of Minnesota (since Jan 2019) and resides in St. Louis Park, MN - an exact match to the filing's name, occupation ('Lieutenant Governor'), employer ('State of Minnesota') and city/zip (St Louis Park 55416). She is a member of the White Earth Band of Ojibwe and the DFL candidate for U.S. Senate in Minnesota in 2026.",
+  "source_url": "https://en.wikipedia.org/wiki/Peggy_Flanagan",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Peggy Flanagan for Minnesota (FEC candidate FLANAGAN, MARGARET, S6MN00440; committee C00897751)",
+    "role": "Federal candidate for U.S. Senate (DFL), 2026",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/candidate/S6MN00440/",
+    "snippet": "FEC candidate record lists 'FLANAGAN, MARGARET' as a Democratic-Farmer-Labor candidate in the 2026 Minnesota Senate election, principal committee 'PEGGY FLANAGAN FOR MINNESOTA'."
+   },
+   {
+    "org": "Democratic Lieutenant Governors Association",
+    "role": "Chair (elected 2023)",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Peggy_Flanagan",
+    "snippet": "Elected chair of the Democratic Lieutenant Governors Association in 2023; described as the first Native American woman elected to lead such a national committee. Also served as one of four chairs of the 2024 Democratic National Convention."
+   },
+   {
+    "org": "Children's Defense Fund - Minnesota",
+    "role": "Former Executive Director",
+    "category": "civic",
+    "source_url": "https://en.wikipedia.org/wiki/Peggy_Flanagan",
+    "snippet": "Served as executive director of Children's Defense Fund-Minnesota prior to statewide office."
+   }
+  ]
+ },
+ {
+  "donor_id": "d590d195a8886a75",
+  "name": "Hamilton, Shikha",
+  "resolved_employer": "Brady (Brady: United Against Gun Violence) - Vice President of Organizing; licensed attorney (CA and MI)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Verified as the gun-violence-prevention advocate. Shikha Bakshi Hamilton is an attorney listed at Foster City, CA 94404 on Avvo - an exact match to the filing's zip, city and occupation ('Attorney') - and is Brady's Vice President of Organizing, a licensed attorney in California and Michigan, and a past San Mateo County chapter president and California vice-president of the Brady Campaign. The 'Self / Attorney' employer field on the filing reflects her law licensure rather than her Brady role.",
+  "source_url": "https://www.avvo.com/attorneys/94404-ca-shikha-hamilton-208520.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Brady (Brady: United Against Gun Violence / Brady Campaign to Prevent Gun Violence)",
+    "role": "Vice President of Organizing; former member of the Board of Trustees; former San Mateo County chapter president and California state vice-president",
+    "category": "gun_control",
+    "source_url": "https://www.bradyunited.org/about-us/our-team/brady-leadership/shikha-hamilton",
+    "snippet": "Brady leadership page describes Hamilton as Vice President of Organizing, overseeing grassroots advocacy and mobilization including state and federal legislative efforts; she has worked on gun violence prevention since helping organize the 2000 Million Mom March and has held roles as chapter leader, state chapter president and Board of Trustees member."
+   },
+   {
+    "org": "Brady California / California legislative campaigns",
+    "role": "Organizer on California gun-law campaigns (Disarm Hate Act, Gun Violence Restraining Order law, assault weapons ban strengthening)",
+    "category": "gun_control",
+    "source_url": "https://ca.bradyunited.org/news/brady-seeks-influential-community-members-and-professionals",
+    "snippet": "Works with Brady Campaign chapters in California to pass gun laws including the Disarm Hate Act, the Gun Violence Restraining Order law, and measures strengthening California's assault weapons ban."
+   }
+  ]
+ },
+ {
+  "donor_id": "d634d4d1d4b0e397",
+  "name": "Patrick, Ginny",
+  "resolved_employer": "Alpheus Media (Austin, TX documentary/production agency) - Creative Director and Video Editor",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "A Ginny Patrick in Austin, Texas is listed as Creative Director and Video Editor at Alpheus Media, an Austin-based Emmy-winning documentary and commercial production agency - matching the filing's Austin location and self-reported 'Video Editor' occupation. An IMDb editorial-department credit under the same name (Waiting for the Punchline, Independent Lens) is consistent. Zip-level (78721) corroboration was not available, so confidence is medium rather than high.",
+  "source_url": "https://www.linkedin.com/in/ginny-patrick-b13474111/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d6c7e172f490c1fd",
+  "name": "Blandin, Neisha",
+  "resolved_employer": "Reproductive Freedom for All (formerly NARAL Pro-Choice America) - Chief of Staff",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Neisha Blandin is Chief of Staff at Reproductive Freedom for All (formerly NARAL Pro-Choice America), matching the filing's employer, occupation and Washington DC location. American University's Women & Politics Institute speaker bio and The Org's leadership chart independently confirm the role; prior roles include Head of Political Strategy at Swing Left, VP for Opportunity and Engagement at the 2020 DNC Host Committee, and staff positions at the DNC and the 2016 Clinton campaign.",
+  "source_url": "https://www.american.edu/spa/wpi/welead/neisha-blandin-speaker.cfm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Reproductive Freedom for All (formerly NARAL Pro-Choice America)",
+    "role": "Chief of Staff",
+    "category": "political",
+    "source_url": "https://theorg.com/org/reproductive-freedom-for-all/org-chart/neisha-blandin",
+    "snippet": "Listed as Chief of Staff at Reproductive Freedom for All on the organization's leadership chart; background spans over a decade of electoral and community engagement work."
+   },
+   {
+    "org": "Democratic Data Exchange",
+    "role": "Board member",
+    "category": "political",
+    "source_url": "https://www.american.edu/spa/wpi/welead/neisha-blandin-speaker.cfm",
+    "snippet": "Speaker bio states she 'sits on the board of the Democratic Data Exchange.'"
+   },
+   {
+    "org": "Swing Left / Democratic National Convention Host Committee (Milwaukee 2020) / Democratic National Committee",
+    "role": "Head of Political Strategy (Swing Left); VP for Opportunity and Engagement (DNC Host Committee); state party manager, Northeast (DNC)",
+    "category": "political",
+    "source_url": "https://www.american.edu/spa/wpi/welead/neisha-blandin-speaker.cfm",
+    "snippet": "Previously Head of Political Strategy at Swing Left overseeing candidate and electoral programs, national partnerships and surrogate engagement; earlier VP for Opportunity and Engagement for the 2020 DNC Host Committee coordinating over 19,000 volunteers."
+   }
+  ]
+ },
+ {
+  "donor_id": "d6cb87d755b1f4a9",
+  "name": "Anderson, Deborah",
+  "resolved_employer": "Retired (former K-12 teacher, per self-reported occupation)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Self-reported as a retired teacher in La Grange, IL (60525), a Chicago suburb. 'Deborah Anderson' is an extremely common name in Illinois and no public profile could be matched to this specific person; classification is an occupation/employer fallback only. Candidate Alexandria Anderson is publicly described as a Chicago native, but NO public source names Deborah Anderson as a relative, so no family relationship is asserted here.",
+  "source_url": "https://www.alexandriaforaustin.com/meetalexandria",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d719d2b07c4e28d7",
+  "name": "Moten, Cleve",
+  "resolved_employer": "Comerica (self-reported VP); a Cleve Moten in the Dallas area is listed on LinkedIn as VP, Data Scientist Manager at JPMorgan Chase",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Donor self-reports VP at Comerica, Wylie TX (75098). The only public professional profile for a Cleve Moten in that area is a LinkedIn listing as VP Data Scientist Manager at JPMorgan Chase (Plano), with 'Cleve Moten' associated with Wylie among Texas cities. Employer does not match, so identity is not confirmed; industry (Finance) is an employer-based fallback that holds either way.",
+  "source_url": "https://www.linkedin.com/in/cleve-moten-266a3878/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d730a8b47f1c7e63",
+  "name": "Bernhardt, Rebecca",
+  "resolved_employer": "Texas Physicians for Social Responsibility (Program Director; formerly Executive Director)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rebecca Bernhardt is Program Director (and former Executive Director) at Texas Physicians for Social Responsibility in Austin; prior roles include Director of Policy/legislative advocacy at ACLU of Texas, contract lobbyist for the Innocence Project of Texas, and Texas RioGrande/Rural Legal Aid. Identity corroborated by the Texas Ethics Commission 2021 registered-lobbyist list, which shows Rebecca Bernhardt, 'Non-profit Advocate,' at an Austin 78731 address matching the donor zip.",
+  "source_url": "https://www.linkedin.com/in/rebecca-bernhardt-9398a74/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Ethics Commission registered lobbyist",
+    "role": "Registered lobbyist (TEC ID 00060544); listed as 'Non-profit Advocate' in the 2021 registration list, Austin TX 78731. Also appears on the 2007 and 2011 lists; not on the 2024-2026 lists.",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2021/2021RegisteredLobbyists.pdf",
+    "snippet": "2021 TEC registered lobbyist list entry: Bernhardt, Rebecca -- Non-profit Advocate, Austin, TX 78731."
+   },
+   {
+    "org": "Texas Physicians for Social Responsibility",
+    "role": "Program Director (previously Executive Director) - public-health and environmental-health advocacy on climate change and toxic exposure in Texas",
+    "category": "civic",
+    "source_url": "https://texaspsr.org/",
+    "snippet": "Texas PSR works to promote a safe environment and improve public health in Texas, addressing climate change and toxic substances; Bernhardt is listed as its Program Director."
+   },
+   {
+    "org": "ACLU of Texas",
+    "role": "Former director of state and local legislative and policy advocacy; trained and supervised lobbying teams",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/rebecca-bernhardt-9398a74/",
+    "snippet": "At the ACLU of Texas, Bernhardt directed state and local legislative and policy advocacy efforts, training and supervising lobbying teams."
+   }
+  ]
+ },
+ {
+  "donor_id": "d8f13cce72ab8de9",
+  "name": "Bray, Timothy",
+  "resolved_employer": "City of Austin - Policy Advisor, District 4 Council Member Chito Vela's office",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Timothy Bray is listed as Policy Advisor in Austin City Council District 4 (CM Chito Vela) and has a City of Austin staff email page; his LinkedIn describes finance, field and data operations on local political campaigns. Donor zip 78751 (Hyde Park/North Loop) sits in/adjacent to District 4, and the self-reported 'Policy Advisor / City of Austin' matches exactly. He is also a published contributor to the Austin urbanist/pro-housing group AURA.",
+  "source_url": "https://www.austintexas.gov/email/timothybray",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AURA (Austin urbanist / pro-housing advocacy organization)",
+    "role": "Contributing author (no board role listed); published 'Should you have to own property to vote? Opponents of more housing in Austin think so.' (July 16, 2020), joined Aug 22, 2019",
+    "category": "civic",
+    "source_url": "https://aura-atx.org/author/timothy_bray/",
+    "snippet": "AURA author page for Timothy Bray, one land-use article arguing against property-ownership-based limits on who decides what housing gets built in Austin."
+   },
+   {
+    "org": "City of Austin, Council District 4",
+    "role": "Policy Advisor to Council Member Chito Vela",
+    "category": "political",
+    "source_url": "https://www.austintexas.gov/email/timothybray",
+    "snippet": "City of Austin staff contact page for Timothy Bray; District 4 council office directory lists him as policy adviser."
+   }
+  ]
+ },
+ {
+  "donor_id": "d96b598bd56c6f97",
+  "name": "Combee, Benjamin",
+  "resolved_employer": "Roku Inc. - Senior Software Engineer",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Ben (Benjamin) Combee is a Senior Software Engineer at Roku based in Austin, TX; long embedded/compiler/mobile-platform career (Motorola, Metrowerks, PalmSource/PalmOne, Mozilla, HP/webOS, LG Silicon Valley Labs) before Roku. Employer, occupation and Austin location match the donor record exactly.",
+  "source_url": "https://hackaday.io/unwiredben",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d995e723a714ca60",
+  "name": "Akpan, Erika",
+  "resolved_employer": "NRG Energy, Inc. — Director, Government Affairs (registered Texas lobbyist)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Erika Akpan is Director of Government Affairs for NRG Energy, Inc. and a registered Texas Ethics Commission lobbyist (filer ID 80829), business address 1005 Congress Ave, Suite 950, Austin TX 78701. Matches the donor's stated occupation 'Director', employer 'NRG', and Austin location; she appears on TEC registered-lobbyist lists for 2023, 2024, 2025 and 2026, and registered in support of SB 6 (89R) on behalf of NRG Energy. Note: this is a $100 gift, consistent with Austin's low contribution cap for registered lobbyists.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026LobbyGroupByLobbyist.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "NRG Energy, Inc.",
+    "role": "Director, Government Affairs; registered Texas lobbyist (filer ID 80829) representing NRG Energy, Inc.",
+    "category": "business",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026LobbyGroupByLobbyist.pdf",
+    "snippet": "Texas Ethics Commission 2026 lobbyist-with-clients list shows Erika Akpan, filer ID 80829, 1005 Congress, Austin TX 78701, title Director of Government Affairs, client NRG Energy, Inc."
+   },
+   {
+    "org": "NRG Energy, Inc.",
+    "role": "Registered 'For' SB 6 before a Texas House committee (89R) on behalf of NRG Energy",
+    "category": "political",
+    "source_url": "https://capitol.texas.gov/tlodocs/89R/witlistmtg/html/C4502025050708001.HTM",
+    "snippet": "Witness list for SB 6 lists Erika Akpan under 'Registering, but not testifying: For', representing NRG Energy."
+   }
+  ]
+ },
+ {
+  "donor_id": "d9caff87620e611f",
+  "name": "Crews, Anita",
+  "resolved_employer": "Transform Health, LLC — Director of Learning and Engagement (health-policy consulting firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Anita 'Ani' Fête Crews is a Director at Transform Health, LLC, leading learning and engagement for the firm's national capacity-building and workforce-development projects; she is an Ohio native (BA, Wittenberg University; legislative aide in the Ohio Senate; Chief of Government Affairs, Ohio Department of Health) with public profiles listing Cincinnati, consistent with the donor's Wyoming OH 45215 (Cincinnati suburb) address and 'Director'/'Transform Health' occupation-employer.",
+  "source_url": "https://transformhc.com/our-team/anita-ani-fete-crews/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Human Rights Campaign",
+    "role": "Director of Stakeholder Engagement",
+    "category": "civic",
+    "source_url": "https://blessedtomorrow.org/leader/anita-fete-crews/",
+    "snippet": "Bio identifies her as Director of Stakeholder Engagement at the Human Rights Campaign, focused on advancing LGBTQ+ civil rights at the state and federal levels."
+   },
+   {
+    "org": "Blessed Tomorrow (ecoAmerica climate program)",
+    "role": "Director, 2017-2022",
+    "category": "civic",
+    "source_url": "https://blessedtomorrow.org/leader/anita-fete-crews/",
+    "snippet": "Served as director from 2017-2022, growing the program's institutional partners three-fold and launching the initial cohort of Blessed Tomorrow Ambassadors."
+   },
+   {
+    "org": "Ohio Department of Health / Ohio Senate",
+    "role": "Chief of Government Affairs (ODH); legislative aide (Ohio Senate)",
+    "category": "political",
+    "source_url": "https://transformhc.com/our-team/anita-ani-fete-crews/",
+    "snippet": "Started her career as a legislative aide in the Ohio Senate and held the chief government affairs position at the Ohio Department of Health."
+   },
+   {
+    "org": "Enroll America / Get Covered Coalition; Association of State and Territorial Health Officials (ASTHO)",
+    "role": "Founding member (Enroll America); Senior Director of Member Engagement (ASTHO)",
+    "category": "civic",
+    "source_url": "https://blessedtomorrow.org/leader/anita-fete-crews/",
+    "snippet": "Prior background lists Senior Director of Member Engagement with ASTHO and founding member of Enroll America and the Get Covered Coalition."
+   }
+  ]
+ },
+ {
+  "donor_id": "da403d0c9b819a20",
+  "name": "Laflamme, Anthony",
+  "resolved_employer": "Wild Ducks (likely Wild Ducks LLC, an Austin-area AI/technology consulting firm) — individual not independently confirmed",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "No public profile could be confirmed for an Anthony Laflamme in Austin 78704. The stated employer 'Wild Ducks' most plausibly matches Wild Ducks LLC (wildducks.us), which describes itself as using AI to help everyday people, universities and small businesses with technology — supporting 'Developer' meaning software rather than real-estate development. The firm's site lists no team members, so the link to this donor is inferred from the employer name only, not corroborated. No real-estate-development tag applied.",
+  "source_url": "https://wildducks.us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "da4548e129cf6389",
+  "name": "Massingill, Brad",
+  "resolved_employer": "Self-employed (occupation listed as 'Helper')",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No public professional profile could be confirmed for Brad Massingill of Austin 78745. A BandMix musician listing for a 'Brad Massingill' in Austin TX exists but could not be corroborated to this donor's zip or occupation (the page returned HTTP 403). He does not appear on Texas Ethics Commission lobbyist lists; the only Massingills registered as Texas lobbyists are Gavin L. Massingill and Joshua David Massingill (Massingill Attorneys, Austin 78750), neither of whom matches this donor's name, zip or self-employed 'Helper' occupation. Employer-fallback classification only.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dc2e9053fe357c13",
+  "name": "Shu, Vicki",
+  "resolved_employer": "VS Planning (LLC) — independent nonprofit fundraising / strategic-planning consultant",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "The donor's employer 'VS Planning' matches VS Planning LLC, associated in professional-aggregator records with a Vicki Shu whose background is roughly 30 years of nonprofit work — grants administration, fundraising and donor engagement, strategic planning, and nonprofit board development. However, the best-documented Vicki Shu profile is Vice President, Resource Development & Communications at the East Bay Asian Local Development Corporation in Oakland, CA, which conflicts with this donor's Brooklyn NY 11201 address; identity is therefore not confirmed and confidence is low. Employer-fallback classification only.",
+  "source_url": "https://rocketreach.co/vicki-shu-email_93425940",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

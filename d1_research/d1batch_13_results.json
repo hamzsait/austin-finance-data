@@ -1,0 +1,434 @@
+[
+ {
+  "donor_id": "744aed2529dcd0db",
+  "name": "Soliz, Cynthia",
+  "resolved_employer": "Soliz Coleman, PLLC (partner; solo/small-firm attorney, filed as 'Self')",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Cynthia Heredia Soliz is an Austin attorney (State Bar of Texas #24064500, licensed 2010, UT School of Law JD 2009) and partner at Soliz Coleman, PLLC, with her office listed at 4600 Mueller Blvd, Austin, TX 78723 - an exact match to the donor zip 78723 and the 'Lawyer / Self' occupation-employer pair on the filing. Practice areas are personal injury, CPS/family, school and special-education, probate and LGBTQIA+ law. No lobbyist registration and no PAC or ideological-org affiliation surfaced on either side of any policy spectrum searched.",
+  "source_url": "https://solizcoleman.com/our-attorneys/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "76d3a4926a65c7bb",
+  "name": "Greenfield, Adam",
+  "resolved_employer": "Safe Streets Austin (interim executive director / principal officer); also executive director of Rethink35",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Adam Greenfield is an Austin-based pedestrian/bicycle and public-space advocate who serves as interim executive director and principal officer of Safe Streets Austin - an exact match to the 'Nonprofit / Safe Streets Austin' employer string on the filing - and as executive director of Rethink35, the grassroots campaign against the I-35 expansion. Full bio read confirms co-founder of Congress For All and campaign lead for the Austin Parking Reform Coalition. No TEC lobbyist registration found; no PAC or ideological-org affiliation surfaced on any of the tracked policy spectrums.",
+  "source_url": "https://plazaperspective.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Safe Streets Austin",
+    "role": "Interim Executive Director / Principal Officer; board and staff member",
+    "category": "civic",
+    "source_url": "https://plazaperspective.com/about/",
+    "snippet": "Board member and staff member with Safe Streets Austin, spearheading protected bicycle lanes on Congress Avenue and five miles of protected bike lanes and pedestrian improvements on Shoal Creek Boulevard."
+   },
+   {
+    "org": "Rethink35",
+    "role": "Executive Director (2020-present)",
+    "category": "civic",
+    "source_url": "https://plazaperspective.com/about/",
+    "snippet": "Rethink35 - Executive Director (2020-Present), leading a grassroots campaign addressing the I-35 expansion and pushing to rethink I-35 as an urban boulevard."
+   },
+   {
+    "org": "Congress For All",
+    "role": "Co-founder (2018-present)",
+    "category": "civic",
+    "source_url": "https://plazaperspective.com/about/",
+    "snippet": "Congress For All - Co-founder (2018-Present), reimagining Congress Avenue as a pedestrian-oriented public space."
+   },
+   {
+    "org": "Austin Parking Reform Coalition",
+    "role": "Campaign leader (2022-23)",
+    "category": "civic",
+    "source_url": "https://plazaperspective.com/about/",
+    "snippet": "Austin Parking Reform Coalition - Campaign leader (2022-23)."
+   }
+  ]
+ },
+ {
+  "donor_id": "7729f6c9ac2c780d",
+  "name": "Hubbard, Alison",
+  "resolved_employer": "Hubucchi LLC - interior design services business, Tampa, FL",
+  "industry": "Architecture",
+  "confidence": "medium",
+  "evidence": "The employer string 'Hubucchi' corroborates to Hubucchi LLC, a Tampa, FL business classified in interior design services in federal PPP loan records, matching the donor's Tampa zip 33635 and 'Interior Design' occupation. No personal bio page, LinkedIn, or press profile for Alison Hubbard herself could be located, so identification rests on the employer/location match rather than a profile; classification is the categorize-by-employer fallback (design professions). All three mandatory searches returned nothing - no FEC individual or PAC contributions (batch data also shows fec_donation_count 0), no Florida or Tampa lobbyist registration, and no bio page to read.",
+  "source_url": "https://www.federalpay.org/paycheck-protection-program/d2-design-company-llc-tampa-fl",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7891b8927e861745",
+  "name": "Lofton, Dyan",
+  "resolved_employer": "Austin Legal Access (managing attorney); also Law Office of Dyan Lofton, PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Dyan Renae Lofton is the managing attorney for Austin Legal Access, a nonprofit low-cost law firm - an exact match to the 'Attorney / Austin Legal Access' pair on the filing - and also runs the Law Office of Dyan Lofton, PLLC. State Bar of Texas member since 2018; JD from Texas Southern University's Thurgood Marshall School of Law; former prosecutor, now handling criminal defense, uncontested family law, probate and estate planning. Full bio read lists only bar membership, mediation certifications and a 2022 Texas real estate agent license - no board seats, advocacy roles, or political involvement. No TEC lobbyist registration and no PAC affiliations on any tracked spectrum.",
+  "source_url": "https://www.loftonlawtx.com/lawyers/dyan-lofton/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7fd460d47c94bf98",
+  "name": "McBain, Brittany",
+  "resolved_employer": "Founder, Laso Strategy Inc. (Austin brand/marketing and PR consultancy); filing lists 'Wild Ducks' with title CPO",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Brittany McBain is an Austin, TX-based marketing and PR leader and founder of Laso Strategy Inc., with a background in e-commerce and fashion PR (Parsons-educated; prior roles at Maison Simons, Milk, and Badgley Mischka). Her public profile references involvement with 'Wild Ducks,' the employer string on the filing, but no staff page or listing independently confirms a CPO title there, so the Austin location and marketing/consulting profile carry the identification rather than a verified role. All three mandatory searches came back quiet - no FEC individual or PAC contributions (batch data shows fec_donation_count 0), no Texas lobbyist registration, and no advocacy-org board or leadership role on any tracked policy spectrum.",
+  "source_url": "https://www.linkedin.com/in/brittany-mcbain-ab28844b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "84addc13bb94cb0a",
+  "name": "Johnson, Anne",
+  "resolved_employer": "Grassroots Solutions (Managing Principal and co-owner)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Anne Johnson is Managing Principal and co-owner of Grassroots Solutions, a Minneapolis-headquartered civic-engagement consulting firm; donor's listed employer string 'Grassroots Solutions', occupation 'Consultant', and St Paul MN 55104 address all corroborate the firm's Twin Cities base. Formerly Executive Director of Generation Progress (youth arm of the Center for American Progress) and led the Obama White House 'It's On Us' campaign.",
+  "source_url": "https://grassrootssolutions.com/member/anne-johnson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Grassroots Solutions",
+    "role": "Managing Principal / co-owner",
+    "category": "business",
+    "source_url": "https://grassrootssolutions.com/member/anne-johnson/",
+    "snippet": "Managing Principal and Co-Owner of Grassroots Solutions, providing engagement strategy, planning, and evaluation to nonprofit and philanthropic organizations."
+   },
+   {
+    "org": "Generation Progress (Center for American Progress)",
+    "role": "Executive Director (former)",
+    "category": "political",
+    "source_url": "https://grassrootssolutions.com/member/anne-johnson/",
+    "snippet": "Executive Director of Generation Progress, the youth division of the Center for American Progress; created millennial-focused campaigns on higher education, student debt, and gun violence prevention."
+   },
+   {
+    "org": "Generation Progress gun violence prevention campaigns",
+    "role": "Executive Director who created national millennial gun-violence-prevention campaigns",
+    "category": "gun_control",
+    "source_url": "https://grassrootssolutions.com/member/anne-johnson/",
+    "snippet": "created some of the nation's most successful millennial-focused campaigns on issues including higher education, student debt, and gun violence prevention."
+   },
+   {
+    "org": "Sandy Hook Promise",
+    "role": "Strategic consultant (client engagement via Grassroots Solutions)",
+    "category": "gun_control",
+    "source_url": "https://grassrootssolutions.com/member/anne-johnson/",
+    "snippet": "Bio lists Sandy Hook Promise among the organizations to which Anne has provided strategic consulting, alongside McKnight Foundation, Ford Foundation and NEO Philanthropy."
+   },
+   {
+    "org": "Obama Administration College Promise Advisory Board",
+    "role": "Founding member",
+    "category": "civic",
+    "source_url": "https://grassrootssolutions.com/member/anne-johnson/",
+    "snippet": "Founding member of the Obama Administration's College Promise Advisory Board."
+   }
+  ]
+ },
+ {
+  "donor_id": "8d87579312fdacfa",
+  "name": "Williams, Sidney",
+  "resolved_employer": "The Williams Law Firm (Sidney C. Williams, criminal defense and personal injury attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Sidney Clarence Williams, Texas Bar member #240936, runs The Williams Law Firm at 7901 Cameron Rd, Austin TX 78754 - an exact match to the donor's 78754 zip, 'Attorney' occupation and 'Williams Law' employer string. UT Austin BA and UT Law JD (2003). NOTE: the 294 federal-donation count attached to this record is almost certainly name-match aggregation across many unrelated 'Sidney Williams' donors nationally and should not be treated as confirmed for this individual; no FEC record was verified as his.",
+  "source_url": "https://thewilliamslawfirm.net/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Capital Area Private Defender Service (CAPDS)",
+    "role": "Board of Directors member",
+    "category": "civic",
+    "source_url": "https://thewilliamslawfirm.net/about-us",
+    "snippet": "Member of the board of directors for the Capital Area Private Defender's Service, a non-profit that supervises and establishes standards for private attorneys appointed to indigent defendants in the Travis County Criminal Justice System."
+   },
+   {
+    "org": "Austin Criminal Defense Lawyers Association",
+    "role": "Past President and board member",
+    "category": "business",
+    "source_url": "https://thewilliamslawfirm.net/about-us",
+    "snippet": "Member of the Austin Criminal Defense Lawyer Association, where he has served as both president and a member of the board of directors."
+   },
+   {
+    "org": "City of Austin Justice and Planning Committee",
+    "role": "Appointed subcommittee member",
+    "category": "civic",
+    "source_url": "https://thewilliamslawfirm.net/about-us",
+    "snippet": "Appointed as a subcommittee member on the Justice and Planning Committee for the City of Austin, completing justice evaluations and recommendations."
+   }
+  ]
+ },
+ {
+  "donor_id": "952f03a9a55f992c",
+  "name": "Turner, Lisa",
+  "resolved_employer": "The Turner Group Ltd (owner/president); State Director, Lone Star Project",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lisa Turner is the longtime owner/president of The Turner Group Ltd, a Democratic political consulting firm, and State Director of the Lone Star Project; she is the wife of Texas state Rep. Chris Turner, D-Grand Prairie, matching the donor's Grand Prairie TX 75054 address, 'Consultant' occupation and 'Self' employer string. Served in the Obama Administration as FDA Associate Commissioner for External Affairs and Chief Communications Officer at USDA's Food and Nutrition Service.",
+  "source_url": "https://lonestarproject.net/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Lone Star Project",
+    "role": "State Director",
+    "category": "political",
+    "source_url": "https://lonestarproject.net/about-us/",
+    "snippet": "LSP State Director, Lisa Turner, brings unmatched experience and expertise in working directly with candidates to prepare for debates, editorial boards and media appearances."
+   },
+   {
+    "org": "The Turner Group Ltd",
+    "role": "Owner / President",
+    "category": "political",
+    "source_url": "https://www.texastribune.org/2013/10/02/people-behind-wendy-davis-campaign-governor/",
+    "snippet": "Lisa Turner is president of The Turner Group Ltd, a campaign-consulting firm advising candidates, community leaders, philanthropists and national committees; Texas Democratic Trust paid the firm roughly $200,000 for political consulting."
+   },
+   {
+    "org": "Texas Justice Fund",
+    "role": "Director",
+    "category": "political",
+    "source_url": "https://www.texastribune.org/2013/10/02/people-behind-wendy-davis-campaign-governor/",
+    "snippet": "Texas Justice Fund is registered as a 501(c)(4) listing Matt Angle as president and Lisa Turner, a Democratic strategist and wife of state Rep. Chris Turner, as its director."
+   },
+   {
+    "org": "U.S. Food and Drug Administration / USDA Food and Nutrition Service (Obama Administration)",
+    "role": "Associate Commissioner for External Affairs (FDA); Chief Communications Officer (FNS)",
+    "category": "civic",
+    "source_url": "https://www.genderontheballot.org/people/lisa-turner/",
+    "snippet": "Served in the Obama Administration as Associate Commissioner for External Affairs for the FDA and as Chief Communications Officer at USDA's Food and Nutrition Service."
+   }
+  ]
+ },
+ {
+  "donor_id": "95ab5849ab0fae39",
+  "name": "Cervella, Jenn",
+  "resolved_employer": "OpenField (Chief Growth Officer)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jenn Cervella is Chief Growth Officer at OpenField, a Chicago-based community-organizing software platform, a role she began in 2022 - an exact match to the donor's employer string, title and Chicago 60618 address. Previously Deputy Chief Technology Officer at EMILY's List and a role at Civis Analytics.",
+  "source_url": "https://theorg.com/org/openfield/org-chart/jenn-cervella",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "OpenField",
+    "role": "Chief Growth Officer",
+    "category": "business",
+    "source_url": "https://theorg.com/org/openfield/org-chart/jenn-cervella",
+    "snippet": "Jenn Cervella is Chief Growth Officer at OpenField, responsible for driving revenue by partnering with customers; OpenField is a community organizing tool that enables organizations to build power."
+   },
+   {
+    "org": "EMILY's List",
+    "role": "Deputy Chief Technology Officer (former, 2018-2019)",
+    "category": "political",
+    "source_url": "https://theorg.com/org/openfield/org-chart/jenn-cervella",
+    "snippet": "Brings experience from previous roles at Civis Analytics and EMILY's List; in 2018 took on the role of Deputy Chief Technology Officer at EMILY's List before moving to Civis Analytics in 2019."
+   }
+  ]
+ },
+ {
+  "donor_id": "a11d08f3b9df4cc3",
+  "name": "Kiandoli, Cietta",
+  "resolved_employer": "U.S. Senate - Office of the Senate Democratic Leader (Director of Engagement)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Cietta C. Kiandoli has served as Director of Engagement in the office of Senate Democratic Leader Chuck Schumer since at least 2017, per Congressional Directory listings and LegiStorm staff records; the donor's 'Director' occupation, 'Federal Government' employer string and Silver Spring MD 20910 (DC-metro) address all corroborate. The name is highly distinctive with no competing public match.",
+  "source_url": "https://www.legistorm.com/person/bio/58441/Cietta_C_Kiandoli.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "U.S. Senate, Office of the Senate Democratic Leader",
+    "role": "Director of Engagement",
+    "category": "political",
+    "source_url": "https://www.legistorm.com/person/bio/58441/Cietta_C_Kiandoli.html",
+    "snippet": "Senate Democratic Minority Leader (Jan. 2025-), Engagement Director; listed in Congressional Directory staff rosters as Director of Engagement in Sen. Charles Schumer's office."
+   }
+  ]
+ },
+ {
+  "donor_id": "a72b99709061b588",
+  "name": "Kenney, Megan",
+  "resolved_employer": "Self-employed consultant (per filing); no specific individual confirmed",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Filing lists a self-employed consultant in Chevy Chase, MD 20815. Searches for 'Megan Kenney' in the DC/Maryland area return only unrelated same-named people (a Baltimore real-estate agent, a Boys' Latin School counselor/LCSW, a public-health staffer) — none tied to Chevy Chase 20815 or to consulting. No FEC contribution history in the source dataset (fec_donation_count 0). Industry recorded as the employer/occupation fallback only; the specific person is not identified.",
+  "source_url": "https://www.linkedin.com/in/megan-kenney-7a93a757/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aebfb6c4d88485b3",
+  "name": "Cofer, George",
+  "resolved_employer": "Self-employed consultant / project manager; founding CEO of Hill Country Conservancy (retired 2021)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Best match is George Cofer, sixth-generation Austinite and founding CEO of the Hill Country Conservancy (1999-2021), who retired in 2021 — consistent with the filing's self-employed 'consultant / project manager' occupation. Corroborating: he is a longtime Save Barton Creek Association activist, and the 78746 zip (West Lake Hills / Rollingwood / Barton Creek) is that organization's core area; the donor's heavy Democratic federal giving pattern (144 contributions, 0.964 partisan lean) fits an Austin environmental Democrat. Not confirmed against a residential address, so medium rather than high. No TEC lobbyist registration found; Hill Country Conservancy appears in the City of Austin lobbyist database as a client entry, not as a state lobbyist registration for Cofer personally. No ideological-PAC giving surfaced on either side of any tracked spectrum.",
+  "source_url": "https://texaslegacy.org/narrator/george-cofer/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Hill Country Conservancy",
+    "role": "Founder and CEO (1999-2021, retired)",
+    "category": "civic",
+    "source_url": "https://www.prnewswire.com/news-releases/hill-country-conservancy-founder-and-ceo-announces-retirement-300963055.html",
+    "snippet": "Founding CEO of the Hill Country Conservancy, which he founded in 1999 and led for 20 years; announced retirement in 2020 (postponed to 2021)."
+   },
+   {
+    "org": "Earth Share of Texas",
+    "role": "Founding Chair (1992)",
+    "category": "civic",
+    "source_url": "https://texaslegacy.org/narrator/george-cofer/",
+    "snippet": "Founding chair of Earth Share of Texas (1992), representing roughly 70 environmental nonprofits in workplace giving."
+   },
+   {
+    "org": "Save Barton Creek Association",
+    "role": "Conservation activist (since 1990)",
+    "category": "civic",
+    "source_url": "https://texaslegacy.org/narrator/george-cofer/",
+    "snippet": "Active with Save Barton Creek Association since 1990; contributed to creation of the 1,000-acre Barton Creek Wilderness Park and the Sheffield Environmental Education Center."
+   }
+  ]
+ },
+ {
+  "donor_id": "b88f7a26b72d35fc",
+  "name": "Mueller, Robert",
+  "resolved_employer": "Granger & Mueller, P.C. — lead criminal defense attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Robert Aaron Mueller Jr., Texas bar #00786480 (admitted 1993), lead attorney at Granger & Mueller, P.C., 605 W 10th St, Austin, TX 78701 — employer string and 78701 zip both match exactly. Former Assistant Attorney General at the Texas AG's office; lead counsel in 6,000+ criminal cases. No TEC lobbyist registration found (a separate 'Aaron Daniel' at Texas Land Title and an unrelated 'Karen Kenney' were the only near-name TEC hits). No ideological-PAC giving found on any tracked spectrum; only 3 federal contributions in the source dataset.",
+  "source_url": "https://www.grangerandmueller.com/About/Aaron-Mueller.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "West Austin Democrats",
+    "role": "President",
+    "category": "political",
+    "source_url": "https://www.avvo.com/attorneys/78701-tx-robert-mueller-245512.html",
+    "snippet": "Attorney profile lists under Associations: 'West Austin Democrats — President'."
+   },
+   {
+    "org": "Travis County Bail Bond Board",
+    "role": "Board member representing Travis County defense attorneys",
+    "category": "civic",
+    "source_url": "https://www.grangerandmueller.com/About/Aaron-Mueller.html",
+    "snippet": "Firm bio: 'Mueller serves on the Travis County Bail Bond Board, representing defense attorneys in the county.'"
+   },
+   {
+    "org": "Austin Criminal Defense Lawyers Association / Texas Criminal Defense Lawyers Association / Austin Bar Association",
+    "role": "Member",
+    "category": "business",
+    "source_url": "https://www.grangerandmueller.com/About/Aaron-Mueller.html",
+    "snippet": "Firm bio lists professional memberships in the Austin Criminal Defense Lawyers Association, Texas Criminal Defense Lawyers Association, and Austin Bar Association."
+   }
+  ]
+ },
+ {
+  "donor_id": "b9a2791d8a6cc42c",
+  "name": "Breed, Robin",
+  "resolved_employer": "Not employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing reports 'Not employed' in Georgetown, TX 78626. No public profile, bio, news mention, obituary, or professional listing found for a Robin Breed in Georgetown/Williamson County; searches returned only unrelated results. Federal giving pattern in the source dataset (58 contributions, 1.0 Democratic lean) is consistent with a retired or non-working small-dollar Democratic donor, but nothing public identifies a former career, so no retiree-industry classification is recorded. Not found in the Texas Ethics Commission lobbyist registry; no ideological-PAC ties surfaced on any tracked spectrum.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bb45e7ff666bb4ce",
+  "name": "Jerdine, Jermia",
+  "resolved_employer": "Not employed (per filing); a same-named metro-Atlanta real estate agent exists but is not confirmed as this donor",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing reports 'Not Employed' in Peachtree City, GA 30269. A Jermia Jerdine is listed as a real estate agent in metro Atlanta (Zillow/Homes.com/HomeLight, brokerage listings in Atlanta and College Park), but that profile does not list Peachtree City and directly conflicts with the filing's 'Not Employed' occupation, so identity is not corroborated. No federal contribution history in the source dataset (fec_donation_count 0). Not in the Texas Ethics Commission lobbyist registry (out-of-state donor). No ideological-PAC ties found on any tracked spectrum. Recorded per the filing's own occupation rather than the unconfirmed same-name match.",
+  "source_url": "https://www.homelight.com/agents/jermia-jerdine-ga-386907",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc4e4971f64d4f31",
+  "name": "Bailey, Ed",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'proletariat' / employer 'industry' is a joke entry and gives no usable employer information. 'Ed Bailey' is a common name; multiple distinct Austin-area Ed Baileys appear on LinkedIn (a cloud-infrastructure technology executive, a wellness author, and others) and none could be tied to the 78702 address or to this donation. A prior small political contribution by an 'Ed Bailey' at 1914 Riverview St, Austin, TX 78702 appears in a City of Austin campaign-finance filing, which is consistent with the zip but is not by itself enough to establish which person this is or what they do. The fec_partisan_lean of 0.006 in the input data was not corroborated by any public record I could retrieve and is not reported as fact.",
+  "source_url": "https://services.austintexas.gov/edims/document.cfm?id=213324",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c119eed2eeff8732",
+  "name": "Goodwin, Carl",
+  "resolved_employer": "Voya Financial Advisors, Inc. — Vice President, Client Relationship Director (retired)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "A Carl Goodwin in Ellenwood, Georgia — matching the donor's city and zip 30294 — has a public professional profile as a retired Vice President / Client Relationship Director and Registered Representative of Voya Financial Advisors, with earlier roles as Senior Relationship Manager at MassMutual Financial Group and Relationship Manager at TIAA-CREF (1992–2016), holding Series 6, 63 and 7 licenses. Retirement is consistent with the 'Not Employed' self-report on the contribution. No public record found supporting a family relationship to candidate Amber Goodwin; the shared surname alone is not evidence and no relationship is asserted here.",
+  "source_url": "https://www.linkedin.com/in/carl-goodwin-7031447/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c22e6698db16e787",
+  "name": "Wynd, Jasmin",
+  "resolved_employer": "Google — Strategy and Operations Lead",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Jasmin Wynd has a public professional profile listing Google as her employer and Austin as her location, with a strategy-and-operations background (strategic planning, goal-setting and initiative prioritization) and prior work as a management consultant at Booz Allen Hamilton. Name is distinctive and employer, city and job function all match the self-reported occupation/employer on the contribution. The Booz Allen tenure was a staff consulting role, not an executive, board, owner or lobbyist position, so it does not meet the bar for a military_defense affiliation flag.",
+  "source_url": "https://www.linkedin.com/in/jasminwynd/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c2f48ec9841cf596",
+  "name": "Moffitt, Erin",
+  "resolved_employer": "Not employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Public people-search records show an Erin Combs Moffitt (b. 1980) in Lubbock, TX with prior residence in Wolfforth, TX and a past association with Texas Tech University, and separately a Lubbock-native Erin Combs married to coach Mike Moffitt; neither record could be tied to the specific 79423 zip or to this donation, and a differently-located Erin Moffitt (Austin, public-health graduate student) also exists. Identity is therefore unconfirmed. Industry recorded as 'Not Employed' solely on the basis of the donor's own occupation/employer self-report on the filing.",
+  "source_url": "https://clustrmaps.com/persons/Erin-Moffitt",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c463fdbce84346cc",
+  "name": "Vickers, Jennifer",
+  "resolved_employer": "Community Investment Corporation (Austin, TX) — President and co-founder",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Jennifer Vickers is the president and co-founder of Community Investment Corporation, an Austin nonprofit she started with her husband Lee Walker, working on environmental initiatives, microcredit and entrepreneurial support, and public-space/urban design; she holds a BA from Brown and an MBA from UT Austin. Her unpaid civic/board work is consistent with the 'Volunteer / Self' occupation on the contribution, and her long-running Austin civic footprint plus the heavily Democratic federal giving pattern corroborate the match, though I could not independently confirm the 78751 address from a primary source.",
+  "source_url": "https://placemakingweek2019.sched.com/jen250",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Community Investment Corporation (Austin, TX)",
+    "role": "President and co-founder; board member",
+    "category": "civic",
+    "source_url": "https://placemakingweek2019.sched.com/jen250",
+    "snippet": "\"Jennifer is President of Community Investment Corp, a fund she co-founded with her husband Lee Walker\"; her work spans \"environmental initiatives, microcredit and entrepreneurial support, to livable urban space design.\""
+   },
+   {
+    "org": "Project for Public Spaces",
+    "role": "Board member",
+    "category": "civic",
+    "source_url": "https://theorg.com/org/project-for-public-spaces/org-chart/jennifer-vickers",
+    "snippet": "Listed on Project for Public Spaces' organization chart as \"Jennifer Vickers — President, Community Investment Corporation (Austin, TX, USA).\""
+   },
+   {
+    "org": "Sustainable Food Center",
+    "role": "Advisory Council member",
+    "category": "civic",
+    "source_url": "https://placemakingweek2019.sched.com/jen250",
+    "snippet": "\"She serves as a board member for the Project for Public Spaces, Ampersand, and the Sustainable Food Center's Advisory Council.\""
+   },
+   {
+    "org": "Mission Capital (Austin nonprofit capacity-building org)",
+    "role": "Board Chair (2016)",
+    "category": "civic",
+    "source_url": "https://www.missioncapital.org/20-years-timeline",
+    "snippet": "Mission Capital's organizational history lists Jennifer Vickers among its board chairs, serving in that role in 2016."
+   }
+  ]
+ }
+]

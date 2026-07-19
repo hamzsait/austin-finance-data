@@ -1,0 +1,438 @@
+[
+ {
+  "donor_id": "9d30e657e25c7a74",
+  "name": "Leffler, Benjamin",
+  "resolved_employer": "City of Austin — Chief of Staff, Council Member Ryan Alter (District 5)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Ben (Benjamin) Leffler is Chief of Staff for Austin City Council District 5 (Ryan Alter); previously staffed CM Chris Riley and ran for the District 9 council seat in 2022, finishing third. Identity corroborated by an FEC individual-contribution record for 'Benjamin Leffler, 78722' (ActBlue, $200, 10/02/2019) matching the donor's zip exactly, plus his City of Austin candidate filer record. MPAff, LBJ School, UT-Austin.",
+  "source_url": "https://austinmonitor.com/stories/2023/01/whos-working-at-city-hall-these-days/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Austin City Council (District 5 office)",
+    "role": "Chief of Staff; former 2022 candidate for Austin City Council District 9",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Ben_Leffler",
+    "snippet": "Ben Leffler ran for election to the Austin City Council to represent District 9 in Texas and lost in the general election on November 8, 2022; he was subsequently hired as chief of staff for District 5."
+   }
+  ]
+ },
+ {
+  "donor_id": "9df5714a104a17b8",
+  "name": "Foreman, Lauren",
+  "resolved_employer": "Lauren Foreman, Inc. (self-titled consulting corporation, Fort Worth TX; Texas domestic for-profit filed 08/21/2020)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "The employer entity 'Lauren Foreman, Inc.' is verifiable as a Fort Worth, TX domestic for-profit corporation filed 08/21/2020, consistent with the reported occupation 'Consultant' and the 76116 Fort Worth zip. The individual herself could not be confidently pinned down: many distinct 'Lauren Foreman' profiles exist and no accessible bio page tied a specific person to this corporation or zip. Industry assigned by employer fallback only. FEC contributor search and Texas Ethics Commission lobbyist registry search both returned nothing under this name.",
+  "source_url": "https://www.corporationwiki.com/p/3bz06i/lauren-foreman-inc/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f1e3c703b8dd722",
+  "name": "Macon, Steven",
+  "resolved_employer": "Dell, Inc. (per FEC contributor records)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Occupation and employer were blank on the city filing, but FEC individual-contribution records list 'Steven Macon, Dell, Inc., Austin TX 78702' making a $50 ActBlue contribution on 09/19/2020 — an exact zip match plus a recurring small-dollar ActBlue pattern consistent with the 296 FEC donations on file. No personal bio, profile page, or news coverage surfaced for him; no Texas lobbyist registration. Classification rests on the FEC-reported employer.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part283.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f5a19e33b41a9bb",
+  "name": "Coulston, Amy",
+  "resolved_employer": "Nelsen Partners, Inc. (architecture, interiors, planning and urban design firm, Austin TX)",
+  "industry": "Architecture",
+  "confidence": "medium",
+  "evidence": "An AIA national feature on AIA Austin's Leadership Collective profiles 'Amy Coulston, AIA,' a licensed Austin architect roughly 13 years into her career who returned to practice part-time after time away raising her son — corroborating the reported occupation 'Architect' and Austin location. The filing's employer, Nelsen Partners, is an Austin/Phoenix architecture and urban design firm. The AIA source does not name her firm, so the specific employer link is filing-reported rather than independently confirmed. No FEC PAC record; no Texas lobbyist registration.",
+  "source_url": "https://www.aia.org/aia-architect/article/look-inside-aia-austins-leadership-collective",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AIA Austin (American Institute of Architects, Austin chapter)",
+    "role": "Member; participant in the AIA Austin Leadership Collective mentorship program",
+    "category": "business",
+    "source_url": "https://www.aia.org/aia-architect/article/look-inside-aia-austins-leadership-collective",
+    "snippet": "Amy Coulston, AIA, was 13 years into her career when she joined the Leadership Collective, and through the program became inspired to increase her involvement with AIA Austin locally."
+   }
+  ]
+ },
+ {
+  "donor_id": "a1bc28173b61f1e1",
+  "name": "Witt, Vinetta",
+  "resolved_employer": "Newberry College (retired) — Professor Emerita of Sociology and former Chair, Dept. of Social and Behavioral Sciences (1999–2020); currently Organizational Manager, Generational Treasures, LLC",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Vinetta Goodwin Witt, Ph.D., is a Greenwood, SC native and Greenwood High School graduate who retired from Newberry College in 2020 after 21 years, the last six as department chair; she holds a B.A. (South Carolina State), M.A. (Clark-Atlanta), Gerontology Certificate and Ph.D. (University of South Carolina). Greenwood residence corroborates the 29649 zip and the filing's 'Professor / Newberry College' entry. No FEC contributor record; no Texas lobbyist registration (out of state).",
+  "source_url": "https://www.selfregional.org/2022/11/self-regional-healthcare-board-appoints-three-new-members/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Self Regional Healthcare / Greenwood County Hospital Board of Trustees",
+    "role": "Trustee, appointed to a six-year term by SC Governor Henry McMaster (November 2022)",
+    "category": "civic",
+    "source_url": "https://www.selfregional.org/2022/11/self-regional-healthcare-board-appoints-three-new-members/",
+    "snippet": "Three new members were appointed to Self Regional Healthcare's Board of Trustees by South Carolina Governor Henry McMaster for six-year terms, including Vinetta Goodwin Witt, Ph.D., retired from Newberry College as Chair of the Social and Behavioral Sciences Department."
+   },
+   {
+    "org": "Leukemia and Lymphoma Society, South Carolina chapter",
+    "role": "Former President, Board of Trustees",
+    "category": "civic",
+    "source_url": "https://www.selfregional.org/2022/11/self-regional-healthcare-board-appoints-three-new-members/",
+    "snippet": "Dr. Witt served as president of the South Carolina Sociology Association and on various committees within the American Sociology Association, and additionally served as president of the Board of Trustees for the South Carolina Leukemia and Lymphoma Society."
+   }
+  ]
+ },
+ {
+  "donor_id": "a4c27d9720f94b3e",
+  "name": "Enista Smith, Maya",
+  "resolved_employer": "Self-employed nonprofit/philanthropy consultant (former founding Executive Director, Born This Way Foundation)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Maya Enista Smith is a self-employed consultant to nonprofits, corporations and philanthropic institutions who lives in Lafayette, CA — matching the zip 94549, the 'Non-profit Consultant / Self Employed' occupation, and the CA location on the filing. She was the first executive director of Lady Gaga's Born This Way Foundation and previously CEO/COO of Mobilize.org and East Coast Coordinator for Rock the Vote. No FEC individual-contribution record and no Texas lobbyist registration surfaced.",
+  "source_url": "https://www.leapambassadors.org/ambassadors/smith/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Born This Way Foundation",
+    "role": "Founding Executive Director (former)",
+    "category": "civic",
+    "source_url": "https://www.leapambassadors.org/ambassadors/smith/",
+    "snippet": "Serves as the first executive director of Lady Gaga's Born This Way Foundation, which works to support the mental health of young people."
+   },
+   {
+    "org": "Mobilize.org",
+    "role": "Chief Executive Officer / Chief Operating Officer (former)",
+    "category": "civic",
+    "source_url": "https://www.leapambassadors.org/ambassadors/smith/",
+    "snippet": "Previous roles listed as Chief Executive Officer and Chief Operating Officer at Mobilize.org — a youth civic-engagement organization."
+   },
+   {
+    "org": "Rock the Vote",
+    "role": "East Coast Coordinator (former)",
+    "category": "civic",
+    "source_url": "https://www.leapambassadors.org/ambassadors/smith/",
+    "snippet": "Bio lists East Coast Coordinator for Rock The Vote among her previous roles."
+   }
+  ]
+ },
+ {
+  "donor_id": "a5376d4a2baa5ce7",
+  "name": "Wygal, S. Evette",
+  "resolved_employer": "AARP Texas / AARP Houston — Associate State Director of Outreach & Advocacy",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Filed as 'Wygal, S. Evette', Organizer at AARP, Houston TX 77253 (a Houston PO-box zip). Public records identify Shondra E. Wygal, MPA of Houston as AARP's Associate State Director of Outreach/Advocacy — the surname, the AARP employer, the Houston location, and the advocacy/'organizer' role all corroborate. Career includes Political Director for U.S. Rep. Sheila Jackson Lee and for the Annise Parker Houston mayoral campaign, and Statewide Field Director for The Pew Charitable Trusts. No AIPAC/UDP, J Street, NRA, oil-and-gas or defense PAC contributions surfaced; no Texas Ethics Commission lobbyist registration found under Wygal.",
+  "source_url": "https://www.communityforconsciousaging.org/event-info/shondra-e-wygal-presenting-the-aarp-homefit-guide-november-lunch-learn",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AARP (Houston/Texas)",
+    "role": "Associate State Director of Outreach & Advocacy",
+    "category": "civic",
+    "source_url": "https://www.communityforconsciousaging.org/event-info/shondra-e-wygal-presenting-the-aarp-homefit-guide-november-lunch-learn",
+    "snippet": "Listed as Associate State Director of Outreach/Advocacy, AARP Houston; her AARP work covers health care, financial security and livable-communities advocacy campaigns."
+   },
+   {
+    "org": "Office of U.S. Rep. Sheila Jackson Lee / Annise Parker for Houston Mayor",
+    "role": "Political Director (former)",
+    "category": "political",
+    "source_url": "https://www.linkedin.com/in/shondrawygal/",
+    "snippet": "Professional profile lists her as Political Director and Scheduler for Sheila Jackson Lee and as political staff on the Re-elect Annise Parker Houston Mayor campaign."
+   }
+  ]
+ },
+ {
+  "donor_id": "a5aa245dc2f21d2b",
+  "name": "Wendler, Lara",
+  "resolved_employer": "Texas Senate — Chief of Staff (long-time chief of staff to State Sen. John Whitmire, SD-15)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Lara Wendler is a career Texas Senate staffer based in Austin, listed by LegiStorm as Chief of Staff to State Sen. John Whitmire (D-Houston, SD-15) and associated with Texas Senate District 15 and a senate.texas.gov email — matching the filing's 'Chief of staff / Texas Senate' occupation and Austin 78702 zip. Note: a 'Wendler, Lara' at an Austin address appears in the Texas Ethics Commission's 2004 lobby list; same name and city, but identity could not be confirmed as the same individual. No AIPAC/UDP, J Street, NRA, oil-and-gas or defense PAC contributions surfaced.",
+  "source_url": "https://www.legistorm.com/person/bio/358948/Lara_Wendler.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Senate (Office of State Sen. John Whitmire, SD-15)",
+    "role": "Chief of Staff",
+    "category": "political",
+    "source_url": "https://www.legistorm.com/person/bio/358948/Lara_Wendler.html",
+    "snippet": "LegiStorm lists her as Chief of Staff to State Sen. John Whitmire (D-TX), under Texas Senate District 15."
+   },
+   {
+    "org": "Planned Parenthood of Houston and Southeast Texas; Texas Alliance of Boys & Girls Clubs (TEC 2004 lobby registration)",
+    "role": "Registered Texas lobbyist (2004) — IDENTITY NOT CONFIRMED, name+city match only",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2004/sublob2004b.htm",
+    "snippet": "TEC 2004 lobby list shows 'Wendler, Lara' at an Austin, TX address, registered on subject matters DAY CARE, EDUCATION and ELECTIONS, with clients Planned Parenthood of Houston and Southeast Texas, Inc. and Texas Alliance of Boys & Girls Club. Flagged as unconfirmed: this 2004 registration overlaps the period she is reported to have been a Senate chief of staff, so it may be a different person of the same name."
+   }
+  ]
+ },
+ {
+  "donor_id": "a6c41f5e07544686",
+  "name": "Jones, Tishaura",
+  "resolved_employer": "Oneda Consulting, LLC — founder/principal (former Mayor of St. Louis, 2021–2025)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Confirmed as the former St. Louis mayor rather than assumed: Oneda Consulting, LLC is publicly documented as the strategic government-and-civic consulting firm founded by Tishaura O. Jones, the 47th Mayor of St. Louis, launched in December 2025 shortly after she left office; the firm name derives from her middle name 'Oneda'. The employer string on the filing, the St. Louis 63112 zip, and the 'Self Employed' occupation all corroborate. Previously St. Louis City Treasurer and a Missouri State Representative. No individual FEC contributor record surfaced (her FEC footprint is as a 2016 MO-01 candidate); no Texas lobbyist registration (out of state).",
+  "source_url": "https://www.onedallc.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of St. Louis",
+    "role": "Mayor (2021–2025); previously City Treasurer and Missouri State Representative",
+    "category": "political",
+    "source_url": "https://www.onedallc.com/about",
+    "snippet": "Firm site describes Tishaura O. Jones as the 47th Mayor of the City of St. Louis with over 20 years of experience in local and state government, including service as St. Louis City Treasurer and Missouri State Representative."
+   },
+   {
+    "org": "Oneda Consulting, LLC",
+    "role": "Founder / principal",
+    "category": "business",
+    "source_url": "https://www.stltoday.com/news/local/column/joe-holleman/article_fe8b83fc-e69a-41d4-97a8-92975bdbab3c.html",
+    "snippet": "St. Louis Post-Dispatch reported Jones launched her own consulting firm, Oneda Consulting LLC, after leaving office; the firm advises municipalities, nonprofits and advocacy groups."
+   }
+  ]
+ },
+ {
+  "donor_id": "a6d5ff42f1c3203b",
+  "name": "Dupre, Alicia",
+  "resolved_employer": "Y'alla Collaborative — Client Partner (independent consultant/coach; former Planned Parenthood Federation of America political staff and registered federal lobbyist)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Alicia Dupré is an Austin-based consultant who joined Y'alla Collaborative — a firm serving progressive nonprofits and funders — in early 2024 after two decades in policy and politics; she is also a National Board Certified Health & Wellness Coach listed in the Austin Wellness Collaborative directory. The Austin location, 'Consultant' occupation and self-employed/independent status match the filing; the specific 78749 zip is not independently confirmed, hence medium rather than high. Prior roles include Special Assistant to then-Democratic Whip Nancy Pelosi, Field Director for U.S. Rep. Lloyd Doggett, and political-team member and registered federal lobbyist for Planned Parenthood Federation of America. No AIPAC/UDP, J Street, NRA, oil-and-gas or defense PAC contributions surfaced; no Texas Ethics Commission lobbyist registration found (her lobbying was federal).",
+  "source_url": "https://yallacollaborative.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Y'alla Collaborative",
+    "role": "Client Partner",
+    "category": "business",
+    "source_url": "https://yallacollaborative.com/",
+    "snippet": "Team bio: Alicia Dupré joined Y'alla Collaborative in early 2024 after two decades in policy and politics and several years as a certified coach. The firm works with funders, stakeholders, and visionary leaders building progressive ecosystems."
+   },
+   {
+    "org": "Planned Parenthood Federation of America",
+    "role": "Political team member and registered federal lobbyist (former)",
+    "category": "political",
+    "source_url": "https://yallacollaborative.com/",
+    "snippet": "Bio: part of the political team at Planned Parenthood's national office under Cecile Richards and a lobbyist for PPFA during the protracted Affordable Care Act battles and defunding fights."
+   },
+   {
+    "org": "Office of U.S. House Democratic Whip Nancy Pelosi; Office of U.S. Rep. Lloyd Doggett",
+    "role": "Special Assistant; Field Director (former)",
+    "category": "political",
+    "source_url": "https://yallacollaborative.com/",
+    "snippet": "Bio: Special Assistant to then Democratic Whip Nancy Pelosi in her first leadership office, and Field Director for Congressman Lloyd Doggett throughout the first rounds of Texas GOP-led redistricting."
+   }
+  ]
+ },
+ {
+  "donor_id": "a88e41cd0fede378",
+  "name": "Reynolds, Claire",
+  "resolved_employer": "Law Offices of Claire Anne Reynolds (solo attorney); FEC filings 2016–2025 list employer as State Bar of Texas",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Claire Anne Reynolds, Texas bar no. 24067772 (licensed TX 2009, CA 2002), listed at an Austin TX 78729 address — an exact match to the donor zip and to FEC records showing Austin 787297556. FEC shows ~74 small-dollar ActBlue/Texas Democratic Party contributions from that address with occupation 'Attorney'. No pro-Israel, pro-Palestine, gun, oil/gas or defense PAC contributions found; not in the TEC lobbyist registry.",
+  "source_url": "https://www.avvo.com/attorneys/78701-tx-claire-reynolds-283766.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a9b7b924a55cca3f",
+  "name": "Odems III, Demosesneeds",
+  "resolved_employer": "Self-employed football coach; career college/high-school coach (head coach, Austin LBJ HS 2008–11; Stephen F. Austin State, Montana State, Missouri Southern, Mary Hardin-Baylor, East Texas Baptist)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Demosesneeds 'Demo' Odems III is a well-documented Austin-raised football coach (Johnson/LBJ HS alum, four-year Iowa Hawkeyes receiver) whose public records place him in Austin TX 78722 — matching the donor zip. The 'Missionary' occupation on the filing is not independently documented, nor is his current self-employment. No FEC records exist under this name (an FEC surname search for 'Odems' returns only unrelated donors); not in the TEC lobbyist registry.",
+  "source_url": "https://goetbutigers.com/sports/football/roster/coaches/demo-odems-iii/73",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "abc9f12768fd4fd5",
+  "name": "Filippelli, Paul",
+  "resolved_employer": "Spitz, The Employee's Law Firm (associate, plaintiff-side employment and labor law), Columbus OH 43229",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Paul Steven Filippelli, admitted to the Ohio bar 2017, practices employment (80%) and labor (20%) law at Spitz's Columbus office at 1103 Schrock Rd, zip 43229 — an exact match to the donor's employer and zip. Ohio State and Georgetown Law; interned at the U.S. Department of Labor. FEC shows only small ActBlue contributions from a same-named Columbus donor at a different zip (43209), and no ideological PAC giving on any side; not in the TEC lobbyist registry.",
+  "source_url": "https://www.martindale.com/attorney/paul-filippelli-300828988/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Working America (AFL-CIO community affiliate)",
+    "role": "Former staff, pre-2019",
+    "category": "political",
+    "source_url": "https://www.calltherightattorney.com/attorney/filippelli-paul/",
+    "snippet": "After graduation, Paul worked for Working America and then for Southeastern Ohio Legal Services before coming to Spitz in 2019."
+   }
+  ]
+ },
+ {
+  "donor_id": "adfcf8acdc57ae50",
+  "name": "Chino, Anathea",
+  "resolved_employer": "Advance Native Political Leadership (Co-Founder and Executive Director)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Anathea Chino (Acoma Pueblo) is co-founder and executive director of Advance Native Political Leadership, a national organization addressing Native underrepresentation in state and local elected office. FEC records confirm the identity precisely: contributions from Philadelphia PA listing employer 'Advance Native Political Leadership' / occupation 'Executive Director'. Her federal giving is entirely to Democratic candidate committees via ActBlue with no pro-Israel, pro-Palestine, gun, oil/gas or defense PAC contributions; not in the TEC lobbyist registry.",
+  "source_url": "https://advancenativepl.org/our-team/anathea-chino/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Advance Native Political Leadership",
+    "role": "Co-Founder and Executive Director",
+    "category": "political",
+    "source_url": "https://advancenativepl.org/our-team/anathea-chino/",
+    "snippet": "Co-Founder and Executive Director of Advance Native Political Leadership, the first and only national Native organization aimed at addressing the underrepresentation of Native Americans in local and state elected leadership."
+   },
+   {
+    "org": "Americans for Indian Opportunity",
+    "role": "Board of Directors",
+    "category": "civic",
+    "source_url": "https://www.representwomen.org/anathea_chino",
+    "snippet": "Anathea currently serves on the national Board of Directors and Advisory Boards of Americans for Indian Opportunity, California Native Vote Project, Emergent Fund, Inclusv, and One for Democracy."
+   },
+   {
+    "org": "California Native Vote Project",
+    "role": "Board/Advisory Board member",
+    "category": "political",
+    "source_url": "https://www.representwomen.org/anathea_chino",
+    "snippet": "Serves on the national Board of Directors and Advisory Boards of ... California Native Vote Project."
+   },
+   {
+    "org": "One for Democracy",
+    "role": "Advisory Board member",
+    "category": "political",
+    "source_url": "https://www.representwomen.org/anathea_chino",
+    "snippet": "Serves on the national Board of Directors and Advisory Boards of ... One for Democracy."
+   },
+   {
+    "org": "Emergent Fund",
+    "role": "Advisory Council member",
+    "category": "civic",
+    "source_url": "https://www.emergentfund.net/advisorycouncil/2022/4/20/anathea-chino",
+    "snippet": "Anathea Chino is listed as a member of the Emergent Fund advisory council."
+   }
+  ]
+ },
+ {
+  "donor_id": "ae458f277d24b8af",
+  "name": "Ruiz, Isaac",
+  "resolved_employer": "Ruiz & Smart LLP (founder and managing attorney), Seattle WA — plaintiff-side insurance bad-faith and civil rights litigation",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Isaac Ruiz, founder/managing attorney of Ruiz & Smart LLP and adjunct professor at Seattle University School of Law, previously a partner at Keller Rohrback; UT Austin (1996) and Notre Dame Law (2000). FEC records confirm identity: Seattle WA contributions listing employer 'Ruiz & Smart' / 'Keller Rohrback' with occupation 'Attorney'. Federal giving is to Democratic candidates plus a $5,000 contribution to Latino Victory Fund; no pro-Israel, pro-Palestine, gun, oil/gas or defense PAC contributions found; not in the TEC lobbyist registry.",
+  "source_url": "https://ruizandsmart.com/team-member/isaac-ruiz/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Seattle Community Police Commission",
+    "role": "Commissioner and three-time co-chair (2016–2019 co-chair)",
+    "category": "civic",
+    "source_url": "https://law.seattleu.edu/faculty/directory/profiles/ruiz-isaac.html",
+    "snippet": "Commissioner and three-time co-chair of the Seattle Community Police Commission, the official community-centered accountability body created as part of the federal consent decree; played a role in passage of Seattle's police accountability law."
+   },
+   {
+    "org": "Entre Hermanos",
+    "role": "President of the Board",
+    "category": "civic",
+    "source_url": "https://ruizandsmart.com/team-member/isaac-ruiz/",
+    "snippet": "President of the Board of Entre Hermanos, which provides health services to members of the Latinx LGBTQ community."
+   },
+   {
+    "org": "QLaw Foundation of Washington",
+    "role": "President of the Board",
+    "category": "civic",
+    "source_url": "https://ruizandsmart.com/team-member/isaac-ruiz/",
+    "snippet": "President of the Board of the QLaw Foundation, which provides free legal services to members of the LGBTQ community."
+   },
+   {
+    "org": "Latino Victory Fund",
+    "role": "Donor ($5,000, 2018)",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ruiz%2C+Isaac&contributor_state=WA",
+    "snippet": "FEC Schedule A: LATINO VICTORY FUND, $5,000.00, 2018-03-29, Seattle WA, employer Keller Rohrback L.L.P., occupation 'Attorney at Law'."
+   }
+  ]
+ },
+ {
+  "donor_id": "aec090e40896b088",
+  "name": "Pham, Minh",
+  "resolved_employer": "Visa, Inc. — Software Engineer, Austin TX",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Reported occupation and employer match a documented Minh Pham who is a Software Engineer at Visa based in Austin, TX, with prior work as a computer lab proctor at UT Austin and CS/business degrees from UT Austin and McCombs; the Austin location and Visa employment corroborate, but 'Minh Pham' is a common name and the 78723 zip could not be independently confirmed. Federal giving pattern (89 small donations) is consistent with routine small-dollar online giving, not PAC-level activity; no Texas lobbyist registration.",
+  "source_url": "https://www.zoominfo.com/p/Minh-Pham/13413000638",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aed109543c926e00",
+  "name": "M Jacobs, Ally",
+  "resolved_employer": "State of Texas (attorney) — no specific agency or bar record located",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "No public profile surfaced for an 'Ally M Jacobs' / 'Ally Jacobs' attorney in Austin: no State Bar of Texas Find-A-Lawyer entry, no Austin Bar directory listing, no state agency staff page, and no news match at zip 78723. Classification rests solely on the self-reported occupation ('Attorney') and employer ('State of Texas') on the filing; the individual could not be confirmed. No FEC record on file and no Texas Ethics Commission lobbyist registration under this name in the 2023–2026 registered-lobbyist lists.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b2bfe9d6c3f3a48d",
+  "name": "Martin, Cynthia",
+  "resolved_employer": "Lower Colorado River Authority — customer account manager (retired)",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "A Cynthia Martin at the same Austin zip 78752 appears in federal contributor records self-reporting as 'Retired Account Manager, Lower Colorado River Authority' ($5 to Hillary for America, 10/13/2016); a business-directory listing independently records a Cynthia Martin as Customer Account Manager at LCRA in Austin. The exact zip match plus the current filing's 'Not Employed' status is consistent with the same retired LCRA employee. Her federal pattern (297 donations) is high-frequency small-dollar online giving; no PAC, industry, or ideological-org ties surfaced; no Texas lobbyist registration.",
+  "source_url": "https://www.city-data.com/elec2/16/elec-AUSTIN-TX-16-part43.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b40c0bbb35cc982a",
+  "name": "Hill, Todd",
+  "resolved_employer": "Urban Institute — Director of Policy and Programs, Housing and Communities Division (Housing Finance Policy Center); Dallas-based",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Todd M. Hill (Hill-Jones) is Director of Policy and Programs in the Urban Institute's Housing and Communities Division / Housing Finance Policy Center, rejoined May 2022 after three years at ed-tech firm Noodle; he is based in Dallas (zip 75208 is Oak Cliff), holds a BA from UT Arlington and an MA in Public Affairs from the LBJ School at UT Austin (2020), which explains the Austin political tie. Title, employer, and Dallas location all match the filing exactly. No Texas Ethics Commission lobbyist registration found; his government-affairs work was federal, not Texas state.",
+  "source_url": "https://www.urban.org/author/todd-m-hill-jones",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Urban Institute (Housing Finance Policy Center)",
+    "role": "Director of Policy and Programs, Housing and Communities Division",
+    "category": "civic",
+    "source_url": "https://www.urban.org/author/todd-m-hill-jones",
+    "snippet": "Directs policy and programs for the Urban Institute's housing finance research; expertise in housing finance policy, LGBTQ+ housing and transportation equity, and sexual orientation/gender identity antidiscrimination issues."
+   },
+   {
+    "org": "Housing Policy Council",
+    "role": "Senior Director of Government Affairs (former, ~6 years)",
+    "category": "business",
+    "source_url": "https://www.urban.org/author/todd-m-hill-jones",
+    "snippet": "Served six years as senior director of government affairs with the Housing Policy Council, where he advocated on key mortgage and housing finance marketplace interests in legislative, regulatory, and judicial forums."
+   }
+  ]
+ },
+ {
+  "donor_id": "b46ab611a8f8feda",
+  "name": "Brown, Kristin",
+  "resolved_employer": "Brady (Brady Campaign and Center to Prevent Gun Violence) — President; attorney",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "'Brady' is confirmed as Brady United / the Brady Campaign and Center to Prevent Gun Violence, the national gun-violence-prevention organization. The donor is Kristin King 'Kris' Brown, Brady's President since November 2018, a lawyer (formerly Weil, Gotshal & Manges and chief legal officer of a Switzerland-based public company) who lives in Arlington, VA; a Virginia state campaign-finance filing lists Kristin Brown at an Arlington VA 22201 address, matching the filing's zip, 'Attorney' occupation, and 'Brady' employer. Not in the TEC lobbyist registry (her advocacy is federal).",
+  "source_url": "https://www.bradyunited.org/about-us/our-team/brady-leadership/kris-brown",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Brady (Brady Campaign and Center to Prevent Gun Violence)",
+    "role": "President",
+    "category": "gun_control",
+    "source_url": "https://www.bradyunited.org/press/the-brady-campaign-and-center-names-kristin-brown-as-president",
+    "snippet": "Kris Brown was named sole President of the Brady Campaign and Center to Prevent Gun Violence in November 2018 after serving as co-president from September 2017; she began her career on Capitol Hill advocating for the bill that became the Brady Bill requiring background checks on federally licensed gun sales."
+   }
+  ]
+ }
+]
