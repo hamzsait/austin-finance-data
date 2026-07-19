@@ -10,6 +10,7 @@ Usage:
 
 import argparse
 import json
+import re
 import sqlite3
 import sys
 import io
@@ -145,6 +146,18 @@ CANDIDATE_CYCLES = {
 
 # Earliest contribution_year included in a profile (default 2018 = start of
 # clean city data). County officials have clean county filings back to 2016.
+# Patterns for the political-card dedup rule; see is_donation_restatement().
+_GIVING_LEAD = re.compile(
+    r'^\s*(major|recurring|consistent|significant|large|small|individual|federal|political|repeat|frequent|long-?time)?\s*'
+    r'(individual|federal|political)?\s*'
+    r'(donor|contributor|contribution|donation|giving|gave|donated|contributed)\b', re.I)
+_POLITICAL_ROLE = re.compile(
+    r'\b(chair|co-?chair|co-?founder|founder|president of|vice[- ]president of|director|board member|board of|'
+    r'trustee|treasurer|business manager|precinct|delegate|staff|senior advisor|advisor|adviser|judge|mayor|'
+    r'council ?member|commissioner|commission|candidate|organizer|lobbyist|lobby client|lobby registration|'
+    r'endorsed|endorsement|campaign manager|finance committee|leadership council|elected|appointed|incumbent|'
+    r'member;|spousal)\b', re.I)
+
 # ── Affiliation buckets ──────────────────────────────────────────────────────
 # One entry per rendered bucket. `categories` is an exact-match list; `prefix`
 # matches any category starting with that string (used for the oil_gas_* family,
@@ -187,7 +200,8 @@ AFFILIATION_BUCKETS = [
     {"key": "business", "label": "Business ownership & leadership",
      "categories": ["business", "industry"], "card": "business"},
     {"key": "political", "label": "Political & campaign roles",
-     "categories": ["political"], "card": "political"},
+     "categories": ["political"], "card": "political",
+     "drop_donation_restatements": True},
     {"key": "civic", "label": "Community & civic roles",
      "categories": ["civic"], "card": "civic"},
 ]
@@ -1171,13 +1185,53 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                 return row_category.startswith(bucket["prefix"])
             return row_category in bucket["categories"]
 
+        def is_donation_restatement(row):
+            """True when a `political` row only restates that someone gave money.
+
+            Dedup rule for the Political & Campaign Roles card. The Federal
+            Partisan Lean section already renders every donor's giving history
+            from structured FEC + Texas PAC data, dollar-weighted and
+            classified. A prose row reading "Donor ($2,500, 2012)" duplicates
+            that less rigorously and adds nothing a reader can act on.
+
+            KEEP anything describing a ROLE the chart cannot show -- party
+            chair, campaign treasurer, finance-committee member, endorsement,
+            lobby registration, elected or appointed office, union political
+            director. DROP anything whose role text leads with giving and names
+            no such role.
+
+            Judgment call: donations to state and city PACs (Save Austin Now,
+            Aqui Estamos) are dropped too, even though the partisan chart is
+            FEC/TEC-based and may not cover every local committee. They are
+            still donations rather than roles, which is the line this card
+            draws. Roughly 23 of 372 political rows drop under this rule.
+            """
+            role = row.get("role") or ""
+            return bool(_GIVING_LEAD.match(role)) and not _POLITICAL_ROLE.search(role)
+
         by_category = {}
         totals = {}
+        dropped_restatements = 0
         for bucket in AFFILIATION_BUCKETS:
             key = bucket["key"]
+            drop_dupes = bucket.get("drop_donation_restatements")
+
+            def row_ok(r, b=bucket, dd=drop_dupes):
+                if not matches(b, r["category"]):
+                    return False
+                if dd and is_donation_restatement(r):
+                    return False
+                return True
+
+            if drop_dupes:
+                for d in donor_affils.values():
+                    for r in d["rows"]:
+                        if matches(bucket, r["category"]) and is_donation_restatement(r):
+                            dropped_restatements += 1
+
             entries = []
             for d in donor_affils.values():
-                entry = bucket_entry(d, lambda r, b=bucket: matches(b, r["category"]))
+                entry = bucket_entry(d, row_ok)
                 if entry:
                     entries.append(entry)
             by_category[key] = sort_donors(entries)
@@ -1203,6 +1257,9 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
             n = totals.get(bucket["key"], 0)
             if n:
                 print(f"    {bucket['label']:34} {n}")
+        if dropped_restatements:
+            print(f"    (dropped {dropped_restatements} donation-restatement rows "
+                  f"already covered by the partisan-lean chart)")
 
     # ── Election cycles ───────────────────────────────────────────────────────
     cycles = []

@@ -1173,6 +1173,15 @@
       <div id="businessContent"></div>
     </div>
 
+    <!-- ── Political & Campaign Roles (Phase 4) ── -->
+    <div id="politicalSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Political &amp; Campaign Roles
+        <span class="hint" id="politicalHint"></span>
+      </div>
+      <div class="civic-methodology" id="politicalMethodology"></div>
+      <div id="politicalContent"></div>
+    </div>
+
     <!-- ── Partisan Lean (FEC data) ── -->
     <div id="partisanSection" class="card" style="display:none;margin-bottom:20px">
       <div class="card-title"><span>Federal Partisan Lean <span class="pop-hint">⤢ click a segment</span></span>
@@ -2114,7 +2123,7 @@ const AFFIL_CARD_DEFS = [
     methodologyId: 'civicMethodology',
     statsId: 'civicStats',
     contentId: 'civicContent',
-    hintNoun: 'documented policy or advocacy roles',
+    hintNoun: 'donors with documented policy or advocacy roles',
     methodology:
       '<strong>How to read this:</strong> Each entry is a documented organizational role &mdash; board membership, '
       + 'named fund, honoree, senior staff, or ownership &mdash; sourced from publicly available records. '
@@ -2161,6 +2170,27 @@ const AFFIL_CARD_DEFS = [
     buckets: [
       { key: 'business', title: 'Business Ownership &amp; Leadership', color: '#18314f',
         desc: 'Founders, owners, principals, and executives of identifiable companies and firms.' },
+    ],
+  },
+  {
+    card: 'political',
+    sectionId: 'politicalSection',
+    hintId: 'politicalHint',
+    methodologyId: 'politicalMethodology',
+    contentId: 'politicalContent',
+    hintNoun: 'donors holding a political or campaign role',
+    cap: 25,
+    methodology:
+      '<strong>How to read this:</strong> Donors who hold or held a named political role &mdash; party officer, '
+      + 'campaign staff or treasurer, finance-committee member, registered lobbyist or lobby client, elected or '
+      + 'appointed office, union political director, or a recorded endorsement. '
+      + '<strong>Rows that only restate that someone donated money are excluded</strong> &mdash; the Federal '
+      + 'Partisan Lean section above already renders every donor&rsquo;s giving history from structured FEC and '
+      + 'Texas PAC records, dollar-weighted and classified, which is a better account of the same fact. '
+      + 'Sorted by total given to this campaign.',
+    buckets: [
+      { key: 'political', title: 'Political &amp; Campaign Roles', color: '#cc1f3c',
+        desc: 'Party officers, campaign staff, lobby registrations, elected and appointed positions, and endorsements.' },
     ],
   },
 ];
