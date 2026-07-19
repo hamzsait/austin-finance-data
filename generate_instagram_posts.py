@@ -19,7 +19,7 @@ required; runs on any machine. Matching is by the cleaned employer identity:
               EXCLUDED, matching the site's firm rollups)
 
 Design system: see INSTAGRAM_DESIGN_SPEC_V4.md ("Statement"). Ink-navy canvas,
-crimson top edge, giant hero dollar figure with crimson $ and underline, brand
+crimson top edge, giant all-white hero dollar figure with crimson underline, brand
 fonts (Space Grotesk / Inter / Oswald from assets/fonts/), validated bar
 palette (#4a96d8 Endeavor / #e8536b Armbrust) on dark.
 """
@@ -295,13 +295,11 @@ def line_bar(draw, x, y, w, frac, color, h=12):
         draw.rectangle([x, y, x + max(6, int(frac * w)), y + h], fill=color)
 
 
-# ---- Hero dollar figure: crimson $, white digits, crimson underline ----
+# ---- Hero dollar figure: white $ and digits, crimson underline ----
 def hero_amount(draw, x, y, amount, max_size, max_w):
     text = money(amount)
     fnt, size = fit_grotesk(draw, text, max_size, max_w, 700)
-    draw.text((x, y), "$", font=fnt, fill=CRIMSON)
-    dx = x + tw(draw, "$", fnt)
-    draw.text((dx, y), text[1:], font=fnt, fill=WHITE)
+    draw.text((x, y), text, font=fnt, fill=WHITE)
     total_w = tw(draw, text, fnt)
     # underline clears the actual ink bbox (commas descend below the baseline)
     ink_bottom = draw.textbbox((x, y), text, font=fnt)[3]
@@ -383,17 +381,25 @@ def last_name(name):
 
 
 def intro_post(rows, title, combined_total, cols, right_tag, out_path, date_str):
+    """title is (lead, rest): the lead phrase renders in Endeavor blue, the
+    rest in white — e.g. ("Who's funding", "Austin City Council?")."""
     img, draw = base_canvas()
     header(draw, right_tag)
 
-    caps(draw, M, 208, "Follow the money  ·  All-time", size=24, fill=SKY)
+    caps(draw, M, 208, "Follow the money", size=24, fill=SKY)
 
     tf = grotesk(76, 700)
-    tlines = wrap(draw, title, tf, CW)
-    y = 250
-    for ln in tlines:
-        draw.text((M, y), ln, font=tf, fill=WHITE)
-        y += 88
+    lead, rest = title
+    words = [(w, ENDEAVOR) for w in lead.split()] + [(w, WHITE) for w in rest.split()]
+    space_w = tw(draw, " ", tf)
+    x, y = M, 250
+    for word, col in words:
+        ww = tw(draw, word, tf)
+        if x > M and x + ww > M + CW:
+            x, y = M, y + 88
+        draw.text((x, y), word, font=tf, fill=col)
+        x += ww + space_w
+    y += 88
 
     # hero total
     y += 18
@@ -470,6 +476,16 @@ def outro_post(rows, subtitle, right_tag, out_path, date_str):
     draw.text((M, uy + 120), "Every filing pulled, every dollar matched to its donor.",
               font=inter(29), fill=SLATE)
 
+    # methodology disclaimer — these totals are a deliberate undercount
+    disc = ("These totals are deliberately conservative — an undercount. Both "
+            "employees and their spouses give, but we only count contributions "
+            "whose reported employer verifiably matches the firm.")
+    df = inter(24)
+    dy = uy + 186
+    for ln in wrap(draw, disc, df, CW):
+        draw.text((M, dy), ln, font=df, fill=FAINT)
+        dy += 32
+
     footer(draw, date_str)
     img.save(out_path, "PNG", dpi=DPI)
 
@@ -515,7 +531,7 @@ def main():
 
     af = render_package(
         austin, "austin",
-        "Who's funding Austin City Council?",
+        ("Who's funding", "Austin City Council?"),
         "Austin campaign finance, decoded.",
         6, "Austin City Council", "Austin City Council",
         "Source: published filings at decodepolitics.org/austin",
@@ -523,7 +539,7 @@ def main():
 
     tf = render_package(
         travis, "travis",
-        "Who's funding Travis County?",
+        ("Who's funding", "Travis County?"),
         "Travis County campaign finance, decoded.",
         5, "Travis County", "Travis County",
         "Source: published filings at decodepolitics.org",
