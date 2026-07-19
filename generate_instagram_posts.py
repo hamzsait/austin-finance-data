@@ -98,6 +98,15 @@ def build(roster):
         for s in stats.values():
             s["total"] = round(s["total"], 2)
             s["donors"] = len(s["donors"])
+        # The live profile pages display the notable_firms rollups from
+        # <slug>_data.json — prefer those exact figures whenever the firm made
+        # the page's list, so every posted number matches the site verbatim.
+        site = json.load(open(os.path.join(HERE, slug_ + "_data.json")))
+        for f in site.get("notable_firms", []):
+            firm = match_firm(f.get("firm"))
+            if firm:
+                stats[firm]["total"] = float(f["total"])
+                stats[firm]["donors"] = f["donors"]
         dates = stats["endeavor"]["dates"] + stats["armbrust"]["dates"]
         rows.append({
             "name": name, "seat": seat, "photo": photo,
@@ -244,15 +253,27 @@ def footer(draw, date_str):
 
 # ---- Portraits: square, thin keyline ----
 def _square_photo(fname, side):
+    """Square-crop a headshot. Tall photos crop top-weighted (faces live in the
+    upper part of a portrait — a center crop chops foreheads); wide photos crop
+    horizontally centered. Per-photo overrides tune the window when needed."""
     path = os.path.join(PHOTOS, fname)
     try:
         img = Image.open(path).convert("RGB")
         w, h = img.size
         s = min(w, h)
-        img = img.crop(((w - s) // 2, (h - s) // 2, (w - s) // 2 + s, (h - s) // 2 + s))
+        if h > w:
+            top = int((h - s) * CROP_TOP_BIAS.get(fname, 0.10))
+            img = img.crop((0, top, s, top + s))
+        else:
+            left = (w - s) // 2
+            img = img.crop((left, 0, left + s, s))
         return img.resize((side, side), Image.LANCZOS)
     except Exception:
         return Image.new("RGB", (side, side), TRACK)
+
+
+# vertical crop-window bias for tall photos: 0.0 = flush top, 0.5 = centered
+CROP_TOP_BIAS = {}
 
 
 def portrait_tile(fname, side, radius=8):
@@ -282,8 +303,9 @@ def hero_amount(draw, x, y, amount, max_size, max_w):
     dx = x + tw(draw, "$", fnt)
     draw.text((dx, y), text[1:], font=fnt, fill=WHITE)
     total_w = tw(draw, text, fnt)
-    asc, desc = fnt.getmetrics()
-    uy = y + asc + int(size * 0.10)
+    # underline clears the actual ink bbox (commas descend below the baseline)
+    ink_bottom = draw.textbbox((x, y), text, font=fnt)[3]
+    uy = ink_bottom + int(size * 0.10)
     draw.rectangle([x, uy, x + total_w, uy + 8], fill=CRIMSON)
     return total_w, size, uy + 8
 

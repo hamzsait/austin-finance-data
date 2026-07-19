@@ -69,14 +69,17 @@ Principles:
 ## Member post (11 Austin + 5 Travis)
 
 1. Header + pager.
-2. **Portrait** 264 × 264 top-right at (732, 208): square center-crop, 8 px
-   radius, keyline. Faces at top-right balance the left-hung type.
+2. **Portrait** 264 × 264 top-right at (732, 208): square crop, 8 px radius,
+   keyline. Tall source photos crop **top-weighted** (10% bias) so foreheads are
+   never clipped; wide photos crop horizontally centered. Faces at top-right
+   balance the left-hung type.
 3. Left of portrait: sky eyebrow caps `DISTRICT 4 · AUSTIN CITY COUNCIL`, then
    **name** in Space Grotesk 700, ≤ 76 px, up to 2 lines, white. Suffixes (III,
    Jr.) never orphan onto their own line.
 4. Slate caps label `TOOK FROM DONORS AT THESE TWO FIRMS`, then the **hero
    figure** at y = 596: combined total ≤ 190 px, crimson `$` + white digits +
-   8 px crimson underline at figure width.
+   8 px crimson underline at figure width, placed below the figure's actual ink
+   bbox so comma descenders never touch it.
 5. **Two firm rows** (y = 906, pitch 144): firm name (Inter 600, 33, white) left,
    amount (Space Grotesk 500, 46) right — Endeavor blue / Armbrust crimson, slate
    when $0; beneath each a 12 px bar on a full-width track, fill scaled to the
@@ -123,6 +126,12 @@ Principles:
   - Armbrust — employer contains `"Armbrust"` **excluding** the joint
     `"Allen Boone Humphries Robinson / Armbrust Brown"` identity, matching the
     site's firm rollups.
+- **Totals and donor counts prefer the site's own displayed rollups**: when the
+  firm appears in `<slug>_data.json` → `notable_firms` (the "Notable firms" card
+  the live profile page renders), its `total` and `donors` are used verbatim, so
+  a posted figure always equals the live page. The donation-table computation is
+  the fallback only where a firm sits below the page's notable-firms cutoff (and
+  always supplies contribution counts and date spans, which the rollups lack).
 - Note this is intentionally **narrower** than the v3/PDF fuzzy DB rules (donor
   name + raw employer + occupation-field matching): totals equal what a reader
   can verify on the site's own donor tables, e.g. Watson $75,950 (v4) vs
