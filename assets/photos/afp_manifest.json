@@ -28,6 +28,13 @@
   "source_article": "https://austinfreepress.org/speaking-for-district-1/"
  },
  {
+  "key": "afp-d1-nahas",
+  "name": "Michael Nahas",
+  "district": "District 1",
+  "source_image": "https://theaustinbulldog.org/wp-content/uploads/2026/03/michael-nahas-300x252-1.png",
+  "source_article": "https://theaustinbulldog.org/seven-more-candidates-running-for-city-council/"
+ },
+ {
   "key": "afp-d1-ramos",
   "name": "Misael Ramos",
   "district": "District 1",
@@ -42,11 +49,25 @@
   "source_article": "https://austinfreepress.org/speaking-for-district-1/"
  },
  {
+  "key": "afp-d1-rogers",
+  "name": "Kyra Rogers",
+  "district": "District 1",
+  "source_image": "https://theaustinbulldog.org/wp-content/uploads/2026/03/kyra-rogers-300x247-1.png",
+  "source_article": "https://theaustinbulldog.org/seven-more-candidates-running-for-city-council/"
+ },
+ {
   "key": "afp-d3-velasquez",
   "name": "Jose Velasquez",
   "district": "District 3 (incumbent)",
   "source_image": "https://austinfreepress.org/wp-content/uploads/2025/06/VelasquezJose.jpg",
   "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d3-shah",
+  "name": "Neha Shah",
+  "district": "District 3",
+  "source_image": "https://theaustinbulldog.org/wp-content/uploads/2026/07/neha-shah-300x265-1.png",
+  "source_article": "https://theaustinbulldog.org/velasquez-finally-draws-a-challenger/"
  },
  {
   "key": "afp-d5-alter",
@@ -56,6 +77,14 @@
   "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
  },
  {
+  "key": "afp-d5-abraham",
+  "name": "Farrah Abraham",
+  "district": "District 5",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/AbrahamFarrah.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/",
+  "note": "Initially filed for mayor, re-filed for District 5 (not D8); residency questioned. See https://www.kxan.com/news/local/austin/former-reality-tv-star-farrah-abraham-ends-early-austin-mayoral-bid-will-run-for-district-5-seat/"
+ },
+ {
   "key": "afp-d5-weinberg",
   "name": "David Weinberg",
   "district": "District 5",
@@ -63,18 +92,25 @@
   "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
  },
  {
-  "key": "afp-d8-abraham",
-  "name": "Farrah Abraham",
-  "district": "District 8",
-  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/AbrahamFarrah.jpg",
-  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
- },
- {
   "key": "afp-d8-ellis",
   "name": "Paige Ellis",
-  "district": "District 8 (term-limited, petitioning)",
-  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/Paige-Ellis-D8Headshot-240x240-1.jpg",
-  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+  "district": "District 8 (term-limited, petitioning for third term)",
+  "source_image": "https://austin.widen.net/content/ldixhspulc/web/Austin%20District%208%20-%20Web_PJE-profiledetail-opt.png?crop=yes&w=1312&h=1168&itok=1UAn7rbk",
+  "source_article": "https://www.austintexas.gov/department/district-8"
+ },
+ {
+  "key": "afp-d8-bowen",
+  "name": "Jeffery Bowen",
+  "district": "District 8",
+  "source_image": "https://theaustinbulldog.org/wp-content/uploads/2024/10/jeffrey-bowen-300x250-1.png",
+  "source_article": "https://theaustinbulldog.org/bowen-in-the-race-for-district-8/"
+ },
+ {
+  "key": "afp-d8-hudsky",
+  "name": "Daniel Hudsky",
+  "district": "District 8",
+  "source_image": "https://theaustinbulldog.org/wp-content/uploads/2026/03/daniel-hudsky-300x249-1-1723x2048.jpeg",
+  "source_article": "https://theaustinbulldog.org/seven-more-candidates-running-for-city-council/"
  },
  {
   "key": "afp-d8-xie",
@@ -96,5 +132,19 @@
   "district": "District 9",
   "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/HeymanRichard.jpg",
   "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d9-kam",
+  "name": "Katie Kam",
+  "district": "District 9",
+  "source_image": "https://thedailytexan.com/wp-content/uploads/2026/04/4-3-26_KatieKam_CassidyMartinez-2.jpg",
+  "source_article": "https://thedailytexan.com/2026/04/05/now-is-the-right-time-ut-alumna-joins-race-for-uts-city-council-district/"
+ },
+ {
+  "key": "afp-d9-thadani",
+  "name": "Dave Thadani",
+  "district": "District 9",
+  "source_image": "https://thedailytexan.com/wp-content/uploads/2026/04/20260415_DaveThadani_DominicPlata_2.jpg",
+  "source_article": "https://thedailytexan.com/2026/04/16/university-freshman-joins-race-for-ut-and-west-campus-city-council-district/"
  }
 ]
