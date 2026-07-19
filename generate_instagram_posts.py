@@ -115,7 +115,7 @@ def build(roster):
             "span_min": min(dates) if dates else None,
             "span_max": max(dates) if dates else None,
         })
-    rows.sort(key=lambda r: r["combined"], reverse=True)
+    # keep roster order: Mayor/County Judge first, then districts/precincts
     return rows
 
 
