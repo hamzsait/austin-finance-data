@@ -1,0 +1,100 @@
+[
+ {
+  "key": "afp-d1-harpermadison",
+  "name": "Natasha Harper-Madison",
+  "district": "District 1 (outgoing)",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2025/11/HarperMadisonNatasha.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d1-anderson",
+  "name": "Alexandria Anderson",
+  "district": "District 1",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/03/Alexandria-Anderson.jpg",
+  "source_article": "https://austinfreepress.org/speaking-for-district-1/"
+ },
+ {
+  "key": "afp-d1-stevenbrown",
+  "name": "Steven Brown",
+  "district": "District 1",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/BrownSteven-1.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d1-goodwin",
+  "name": "Amber Goodwin",
+  "district": "District 1",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/03/Amber-Goodwin.png",
+  "source_article": "https://austinfreepress.org/speaking-for-district-1/"
+ },
+ {
+  "key": "afp-d1-ramos",
+  "name": "Misael Ramos",
+  "district": "District 1",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/03/Misael-Ramos-scaled-e1773100822678.jpeg",
+  "source_article": "https://austinfreepress.org/speaking-for-district-1/"
+ },
+ {
+  "key": "afp-d1-riggins",
+  "name": "Portia Riggins",
+  "district": "District 1",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/03/Portia-Riggins-e1773100705524.jpeg",
+  "source_article": "https://austinfreepress.org/speaking-for-district-1/"
+ },
+ {
+  "key": "afp-d3-velasquez",
+  "name": "Jose Velasquez",
+  "district": "District 3 (incumbent)",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2025/06/VelasquezJose.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d5-alter",
+  "name": "Ryan Alter",
+  "district": "District 5 (incumbent)",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2025/04/AlterRyan.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d5-weinberg",
+  "name": "David Weinberg",
+  "district": "District 5",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/WeinbergDavid-1.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d8-abraham",
+  "name": "Farrah Abraham",
+  "district": "District 8",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/AbrahamFarrah.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d8-ellis",
+  "name": "Paige Ellis",
+  "district": "District 8 (term-limited, petitioning)",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/Paige-Ellis-D8Headshot-240x240-1.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d8-xie",
+  "name": "Selena Xie",
+  "district": "District 8",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/XieSelena.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d9-qadri",
+  "name": "Zohaib Qadri",
+  "district": "District 9 (incumbent)",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2025/05/ZoQadri-e1746651587957.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ },
+ {
+  "key": "afp-d9-heyman",
+  "name": "Richard Heyman",
+  "district": "District 9",
+  "source_image": "https://austinfreepress.org/wp-content/uploads/2026/02/HeymanRichard.jpg",
+  "source_article": "https://austinfreepress.org/city-council-seats-up-for-grabs/"
+ }
+]
