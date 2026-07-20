@@ -1,0 +1,307 @@
+[
+  {
+    "donor_id": "7bfe6815a3b9ac21",
+    "name": "Payervand, Kiana",
+    "resolved_employer": "The University of Texas at Austin (student)",
+    "industry": "Student",
+    "confidence": "medium",
+    "evidence": "Kiana Payervand of Dallas, TX (LinkedIn lists Dallas, Texas); a student, prior Highland Park High School (HPHS) and UT. Same/related household (Roozbeh Payervand) also appears in Austin municipal campaign-finance filings; Kiana is recorded giving to Austin candidate Vanessa Fuentes, consistent with a repeat small-dollar Austin local donor rather than any policy-advocacy actor. No federal PAC records and no lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/kiana-payervand-294016363/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "85683d768bec629c",
+    "name": "Thompson, Kacey",
+    "resolved_employer": "Good Shepherd Episcopal School (Austin)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Kacey Thompson is a Lead Teacher in the Bridging Kindergarten program at Good Shepherd Episcopal School in Austin (matches 78756 area and 'Teacher' occupation). Filing also lists a Covenant Presbyterian Church tie. No federal PAC contributions and no Texas lobbyist registration found.",
+    "source_url": "https://gsesaustin.org/programs/bridging-kindergarten/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "85fc7c382e787aa8",
+    "name": "Bufkin, Susan",
+    "resolved_employer": "Self-employed / homemaker (\"Bufkin Brothers\")",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Susan Bufkin of Austin 78731 (4005 Edgefield Ct, matches zip), self-describes as self-employed / mother / homemaker under 'Bufkin Brothers'. Married to Ben Bufkin, a real-estate developer on Endeavor Real Estate Group's operating committee (co-led The Domain). No distinct 'Bufkin Brothers' business entity documented publicly; her own occupation is homemaker/self-employed, so industry classified Self-Employed (real-estate wealth is via spouse). Couple are documented supporters of Big Brothers Big Sisters of Central Texas. No federal PAC records and no lobbyist registration for Susan.",
+    "source_url": "https://blockshopper.com/tx/travis-county/austin/property/136336/4005-edgefield-court",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9d2357e479b6d110",
+    "name": "Hawkins, Mark",
+    "resolved_employer": "Armbrust & Brown, PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Mark Lee Hawkins, attorney at Armbrust & Brown, PLLC, 100 Congress Ave Ste 1300, Austin 78701 (matches zip and 'Legal' occupation). Practice is commercial/real-estate/construction litigation and mediation (member, National Academy of Distinguished Neutrals); acts as general counsel for Austin condominium/mixed-use developments. Despite A&B's reputation as a land-use/zoning lobbying firm, Hawkins is a litigator/mediator and does NOT appear on the Texas Ethics Commission lobbyist registry (2021-2026 lists checked; the John M. Hawkins and Albert Hawkins III entries are different people). No notable federal PAC contributions identified.",
+    "source_url": "https://www.abaustin.com/the-team/mark-hawkins/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9dcddd68f147a17a",
+    "name": "Noll, Dana",
+    "resolved_employer": "US Acute Care Solutions (USACS)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dana Noll (SHRM-CP) is VP Human Resources / HRBP Clinical Operations at US Acute Care Solutions, based in Austin, TX. Matches donor occupation (VP Human Resources), employer (USACS), and location exactly.",
+    "source_url": "https://rocketreach.co/dana-noll-email_12277866",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a28d81fa95f361fa",
+    "name": "Albert, David",
+    "resolved_employer": "Austin Community College",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "David J. Albert, PhD (Middle East Studies/Government, UT Austin), adjunct professor of government at Austin Community College since 2008, and a longtime officer of the ACC AFT union (Local 6249) - served as President, COPE Chair, and Adjunct Faculty Vice President. Matches donor occupation (Professor), employer (ACC), and Austin location.",
+    "source_url": "https://www.aft-acc.org/albert",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "American Federation of Teachers - ACC Chapter (AFT Local 6249)",
+        "role": "President / COPE Chair / Adjunct Faculty Vice President",
+        "category": "labor",
+        "source_url": "https://www.aft-acc.org/albert",
+        "snippet": "David J. Albert is an adjunct professor of government at Austin Community College as well as the COPE Chair and Adjunct Faculty Vice President for ACC AFT; a February 2023 recording is titled 'Testimony from ACC AFT President David Albert.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "bce6376444461ecb",
+    "name": "Bain, Patricia",
+    "resolved_employer": "Goranson Bain Ausley, PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Patricia Lindley Bain (goes by 'Lindley Bain') is a board-certified family-law attorney and Managing Partner at Goranson Bain Ausley, PLLC, an Austin family-law firm; licensed in TX since 2007, State Bar Family Law Section Chair (2019). Donor home zip 78704 (Austin) consistent; firm and attorney name match exactly.",
+    "source_url": "https://gbfamilylaw.com/attorney/p-lindley-bain/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Goranson Bain Ausley, PLLC",
+        "role": "Managing Partner",
+        "category": "business",
+        "source_url": "https://gbfamilylaw.com/attorney/p-lindley-bain/",
+        "snippet": "'Her election as the firm's managing partner is a testament to the respect she has earned from her colleagues, as well as her business and leadership acumen.'"
+      },
+      {
+        "org": "State Bar of Texas, Family Law & Collaborative Law Section",
+        "role": "Council Member; Vice Chair (2018), Chair (2019)",
+        "category": "business",
+        "source_url": "https://gbfamilylaw.com/attorney/p-lindley-bain/",
+        "snippet": "Served as Vice Chair (2018) and Chair (2019) of the State Bar of Texas Family Law Section; Fellow of the American Academy of Matrimonial Lawyers; member of the Texas Family Law Foundation."
+      }
+    ]
+  },
+  {
+    "donor_id": "c6de3cdd1d5b2cb9",
+    "name": "Northington, Dina",
+    "resolved_employer": "DSN Designs (self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Dina Northington is a Design Consultant at DSN Designs (home decor, furnishings, product selection, remodel supervision), based in Austin, UT Austin alum. LinkedIn matches donor employer (DSN Designs), occupation (Decorating), and Austin location; appears to be her own decorating business. Home zip 78703 not independently confirmed.",
+    "source_url": "https://www.linkedin.com/in/dina-northington-89036095/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d2991a634eba9736",
+    "name": "Beckham, William",
+    "resolved_employer": "Self-employed (real estate investor; likely Beckham Holdings, LLC, Austin)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Self-employed real estate investor in Austin 78759. A 'William Brian Beckham' is listed as manager of Beckham Holdings, LLC and other Austin real-estate entities on CorporationWiki, consistent with the occupation; exact-person match not fully confirmed.",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/william-brian-beckham/108342484.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d81dc8813533793f",
+    "name": "Hollingsworth, Desiree",
+    "resolved_employer": "Self-employed (jewelry import and sales)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Self-employed jewelry importer/retailer in Austin 78746 (Westlake area). No public bio, business page, LinkedIn, FEC record, or lobbyist registration located for this specific person; classification is occupation/employer-fallback only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dbf7eadf6b4493d3",
+    "name": "King, David",
+    "resolved_employer": "Armbrust & Brown, PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "David (Austin) King, litigation attorney at Armbrust & Brown, PLLC in Austin 78756; practice focuses on real property, land use, and construction litigation. UVA Law 2012, UT Austin B.A. 2006. Past President (2020) of Austin Young Lawyers Association. Distinct from the same-named Austin neighborhood activist. No personal TX lobbyist registration found (the firm registers other attorneys as lobbyists); no FEC PAC contributions found.",
+    "source_url": "https://www.abaustin.com/the-team/david-king/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin Young Lawyers Association",
+        "role": "President (2020); Board member 2015-2022",
+        "category": "civic",
+        "source_url": "https://www.abaustin.com/the-team/david-king/",
+        "snippet": "Firm bio lists King as President of the Austin Young Lawyers Association (2020) and a board member 2015-2022, plus Austin Bar Association Civil Litigation Section board (2024-present)."
+      }
+    ]
+  },
+  {
+    "donor_id": "f385349726c2174c",
+    "name": "Goff, Eric",
+    "resolved_employer": "Goff Policy (founder/president)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Eric Goff, founder/president of Goff Policy, an Austin energy & infrastructure policy advocacy/consulting firm (founded 2019); also serves as Office of Public Utility Counsel residential-consumer representative at ERCOT. Prominent Austin YIMBY/urbanist housing advocate: AURA contributor (26 blog posts since 2019) and described in news as an AURA board member; vocal supporter of the HOME initiative, ADU/backyard-cottage legalization, and zoning reform. Not currently listed on AURA's board page (past/former role). No FEC PAC contributions or personal TX lobbyist registration confirmed.",
+    "source_url": "https://www.goffpolicy.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "AURA (Austinites for Urbanism / Rail Action)",
+        "role": "Board member / prolific contributor (housing & transit advocacy)",
+        "category": "civic",
+        "source_url": "https://aura-atx.org/author/eric_goff/",
+        "snippet": "AURA author archive shows Goff joined Aug 2019 and authored 26 posts on housing affordability, ADU/backyard-cottage legalization, transit, and desegregation; news coverage (Next City, The Real Deal) refers to him as an AURA board member commenting on the HOME/ADU reforms."
+      },
+      {
+        "org": "ERCOT / Office of Public Utility Counsel (OPUC)",
+        "role": "Residential-consumer representative at ERCOT; chaired ERCOT subcommittees",
+        "category": "business",
+        "source_url": "https://www.goffpolicy.com/",
+        "snippet": "Goff Policy bio: Eric Goff serves as the OPUC representative for Texas residential consumers at ERCOT and has chaired ERCOT subcommittees; prior energy roles at Citigroup Energy, NRG, Reliant, and Constellation."
+      }
+    ]
+  },
+  {
+    "donor_id": "fd33c974968d685b",
+    "name": "Stanford, Jason",
+    "resolved_employer": "Austin ISD (Chief of Communications and Community Engagement)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Well-known Austin figure. Longtime Democratic political consultant/strategist, author (co-author of 'Forget the Alamo'), former communications director for Mayor Steve Adler; since April 2021 the Chief of Communications and Community Engagement at Austin ISD. Zip 78751 and AISD employer match the public record.",
+    "source_url": "https://en.wikipedia.org/wiki/Jason_Stanford_(consultant)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Stanford Caskey / Stanford Research",
+        "role": "Founder & principal (political research and crisis communications firm)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Jason_Stanford_(consultant)",
+        "snippet": "Professional Democratic strategist and commentator; founded Stanford Research (1997) and Stanford Caskey (2013); credited with helping elect or reelect 30+ members of Congress and managed Chris Bell's 2006 TX gubernatorial campaign."
+      },
+      {
+        "org": "OpenSecrets revolving-door / campaign-consulting record",
+        "role": "Political consultant (id 80872)",
+        "category": "political",
+        "source_url": "https://www.opensecrets.org/revolving-door/stanford-jason/summary?id=80872",
+        "snippet": "OpenSecrets maintains a profile for Jason Stanford as a Democratic campaign consultant; no personal federal PAC donations surfaced in FEC/OpenSecrets individual-contributor records, and he does not appear on the TEC registered-lobbyist lists."
+      }
+    ]
+  },
+  {
+    "donor_id": "56086e5b5117f3ea",
+    "name": "Martinez, Antoinette",
+    "resolved_employer": "Dell Technologies (Advisor)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Rockdale, TX (76567) donor listing occupation Advisor at Dell Technologies. Could not corroborate a specific individual profile; multiple same-named people exist and none matched Dell/Rockdale. Industry assigned by employer only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b07e4188714eecf0",
+    "name": "Sosa, Dianna",
+    "resolved_employer": "Snowflake (Sr. Account Executive, SLED); formerly SAS Regional Sales Manager, State & Local Government",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Dianna Elizabeth Sosa, Austin TX (78747), Sr. Account Executive - SLED (state/local/education/government) at Snowflake, previously Regional Sales Manager for State & Local Government at SAS. MBA from St. Edward's University. Matches the SAS/Snowflake employer strings on the donor record.",
+    "source_url": "https://theorg.com/org/snowflake/org-chart/dianna-sosa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "526a9a0de0e25a33",
+    "name": "Ramirez, Mari",
+    "resolved_employer": "Maria Alicia Ramirez CPA PC / Open Bookkeeping (CPA, owner)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Maria Alicia 'Mari' Ramirez, CPA and owner of Maria Alicia Ramirez CPA PC (office at 2318 Santa Rosa, Austin 78702) and Open Bookkeeping; 20+ years in public accounting, member of the Greater Austin Hispanic Chamber of Commerce. Matches the self-employed CPA occupation on the donor record.",
+    "source_url": "https://openbookkeeping.co/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Foundation for Learning and Youth Travel Education; Gwenievere Mann Foundation; Georgetown Art Works; Lark & Owl Booksellers",
+        "role": "Treasurer (two foundations), President (Georgetown Art Works), co-founder (bookstore)",
+        "category": "civic",
+        "source_url": "https://openbookkeeping.co/about/",
+        "snippet": "Documented civic/business leadership: serves as treasurer for the Foundation for Learning and Youth Travel Education and the Gwenievere Mann Foundation, president of Georgetown Art Works, and is one of ten co-founders of Lark & Owl Booksellers; received Humanitarian of the Year from Texas A&M International University. No policy-advocacy, FEC PAC, or TEC lobbyist activity found."
+      }
+    ]
+  },
+  {
+    "donor_id": "1b632b80e1993f8b",
+    "name": "Martinez, Ramiro",
+    "resolved_employer": "Onnit Labs, Inc.",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Ramiro Martinez, Senior Supply Chain Manager/Planner at Onnit Labs (Austin health/wellness supplement & fitness products company); LinkedIn confirms ~9 years at Onnit, matching donation occupation and Austin 78749 location.",
+    "source_url": "https://www.linkedin.com/in/ramiro-martinez-5851b1202/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d1cdbfef3426b4d",
+    "name": "Sauceda, Juan",
+    "resolved_employer": "Self-employed (Jay B. Sauceda / formerly Sauceda Industries)",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Donation email jayb.sauceda@gmail.com and name identify Juan Bernardo 'Jay B.' Sauceda, an Austin-based editorial/commercial photographer and entrepreneur (Texas Humor, founder of Sauceda Industries e-commerce fulfillment, acquired by Cart.com); occupation listed as 'Self' consistent with his creative/entrepreneur profile. Identity inferred from email + name, not 100% confirmed to 78745 address.",
+    "source_url": "https://www.jaybsauceda.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4c0099bbd7c9466",
+    "name": "Piano, Gian Michael",
+    "resolved_employer": "Presidium (Presidium Group)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Gian Michael Piano is a Principal / VP of Development at Presidium, a large Austin multifamily real-estate developer/investor; leads mixed-use developments (River Park, The Row). Joined 2016 as Development Analyst, rose to VP Development (2022). Matches donation occupation 'Real Estate,' employer 'Presidium,' and Austin 78701.",
+    "source_url": "https://www.linkedin.com/in/gianmichael-piano/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Presidium (Presidium Group)",
+        "role": "Principal / Vice President of Development",
+        "category": "business",
+        "source_url": "https://www.presidiumre.com/about/",
+        "snippet": "Executive at a large multifamily real-estate developer/investor leading ground-up multifamily and large-scale mixed-use developments in Austin (River Park, The Row) — a real-estate-development interest before a sitting council member."
+      }
+    ]
+  },
+  {
+    "donor_id": "b7633460ec3bfa40",
+    "name": "Moyer, Billy",
+    "resolved_employer": "Civilitude Group of Companies (Civilitude Engineers & Planners)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Billy Moyer is COO of the Civilitude Group of Companies (Austin civil-engineering / land-development consulting firm, noted for affordable-housing projects) and President of Civilitude Engineers & Planners; also Founder/CEO of SOS Leadership Institute and Founder/President of K921 Management. Matches donation occupation 'Consultant/COO' and employer 'Civilitude Group.' (Some secondary summaries list Austin city commission/RECA board seats, but these did not verify against current Austin Water/Wastewater Commission or RECA rosters, so they are not asserted here.)",
+    "source_url": "https://www.crunchbase.com/person/billy-moyer",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Civilitude Group of Companies / Civilitude Engineers & Planners",
+        "role": "Chief Operating Officer (COO) / President",
+        "category": "business",
+        "source_url": "https://www.collectiveadvisors.com/insights/blog/leadership-marriage-building-a-life-in-austin/",
+        "snippet": "Operations leader of an Austin civil-engineering and land-development consulting firm active in affordable-housing and public/private development projects — a land-use/development business interest before a sitting council member."
+      }
+    ]
+  }
+]

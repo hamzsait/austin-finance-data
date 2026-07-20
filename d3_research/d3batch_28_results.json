@@ -1,0 +1,286 @@
+[
+  {
+    "donor_id": "0cc2440a0a01761c",
+    "name": "Aleman, Nancy",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Retired Austin resident, zip 78745. Common name with multiple matches in TX public records; identity could not be confirmed to the specific donor and no verifiable policy-advocacy profile was found.",
+    "source_url": "https://veripages.com/name/Nancy/Aleman/TX/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1a65aaf08193af12",
+    "name": "Goleman, Kinnan",
+    "resolved_employer": "KG Strategies, LLC (founder/president); Of Counsel, Earth & Water Law Group — environmental/energy lobbyist & attorney",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed as Ronald Kinnan Golemon, longtime Austin environmental/energy lobbyist and attorney; TEC-registered lobbyist at 1212 Guadalupe St #102, Austin 78701 (matches donor zip). Former Partner at Brown McCarroll and General Counsel of the Texas Chemical Council (1992-2006).",
+    "source_url": "https://www.earthandwatergroup.com/our-professionals/kinnan-golemon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Chemical Council",
+        "role": "General Counsel (1992-2006)",
+        "category": "oil_gas",
+        "source_url": "https://www.earthandwatergroup.com/our-professionals/kinnan-golemon/",
+        "snippet": "Served as General Counsel for the Texas Chemical Council, the association representing ~90 chemical manufacturing operations in Texas."
+      },
+      {
+        "org": "Registered Texas lobbyist (clients incl. Shell Oil Co., Devon Energy)",
+        "role": "Registered lobbyist / consultant",
+        "category": "oil_gas",
+        "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+        "snippet": "TEC-registered lobbyist; Texas legislative witness lists show him representing Shell Oil Co. and Devon Energy Corp. on energy/environmental matters."
+      }
+    ]
+  },
+  {
+    "donor_id": "22457e081d4e9823",
+    "name": "McGarrahan, Ed",
+    "resolved_employer": "Retired (former career not identified)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Retired East Austin resident. A City of Austin document lists 'Ed and Letty McGarrahan, 1105 East 8th Street, Austin' in the 78702 zip matching the donor record, corroborating location; likely spouse of Letesia Cantu-McGarrahan (McGarrahan Architects). No verifiable policy-advocacy or board profile found.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=316585",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2fc2ebef2068000c",
+    "name": "Kakroo, Upasna",
+    "resolved_employer": "Peerbagh (nonprofit founder/leader); writer/author; prior marketing roles at University of Michigan, McKinsey, Rocket Internet",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Writer/author in Ann Arbor, MI (48103). Founder of Peerbagh, a nonprofit promoting South-Asia-inspired storytelling and a children's magazine (Bento); ~20 yrs in marketing/comms. Cultural/storytelling nonprofit, not policy advocacy.",
+    "source_url": "https://cynthialeitichsmith.com/2025/09/upasna-kakroo-discusses-peerbagh-a-south-asia-inspired-storytelling-organization/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3372dc33d6c9c472",
+    "name": "Browder, Joseph",
+    "resolved_employer": "OHT Partners (Austin multifamily real-estate development/construction firm) — self-reported; specific title unconfirmed",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor self-reports employer OHT Partners in real estate, zip 78703 (West Austin). OHT Partners is a confirmed Austin-based Class A multifamily developer/GC (formerly Oden Hughes). The firm's public leadership page lists a 'Ben Browder' (Principal) but no 'Joseph Browder'; Joseph's specific role could not be confirmed.",
+    "source_url": "https://www.ohtpartners.com/leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "OHT Partners",
+        "role": "Real estate (self-reported employer; title unconfirmed)",
+        "category": "business",
+        "source_url": "https://www.ohtpartners.com/",
+        "snippet": "OHT Partners is a Texas multifamily development, construction and investment company focused on Class A properties in Austin and other TX markets; donor lists it as employer with a real-estate occupation — a real-estate-development business interest."
+      }
+    ]
+  },
+  {
+    "donor_id": "4f555b6c938047dc",
+    "name": "Ford, Jenny",
+    "resolved_employer": "Stay-at-home parent (self-reported 'SAHM/Myself')",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported stay-at-home mom in 78702 (East Austin). No public profile could be uniquely tied to this specific person; multiple unrelated 'Jenny/Jennifer Ford' records exist in Texas. Cannot corroborate identity beyond the filing itself.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7c0738b367f28875",
+    "name": "Qadri, Zohaib",
+    "resolved_employer": "City of Austin (Council Member, District 9)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Zohaib 'Zo' Qadri, elected 2022, is the Austin City Council Member for District 9 and the first Muslim elected to the Austin Council. Identity confirmed by occupation/employer on filing matching the sitting D9 member.",
+    "source_url": "https://www.austintexas.gov/department/about-council-member-zohaib-zo-qadri",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Austin City Council (joint council-member statement, Dec. 2023)",
+        "role": "Co-signer",
+        "category": "civic",
+        "source_url": "https://www.austinmonitor.com/stories/2023/12/three-council-members-call-for-middle-east-cease-fire/",
+        "snippet": "Qadri, with council members Vanessa Fuentes and José Velásquez, issued a joint statement on the Israel-Hamas war calling for 'the immediate release of all hostages and a permanent cease-fire' and pledging to resist 'antisemitism, Islamophobia and all other forms of hate.' No FEC pro-Israel/pro-Palestine PAC contributions or TEC lobbyist registration found."
+      }
+    ]
+  },
+  {
+    "donor_id": "7f67c4ed7749435b",
+    "name": "Cantu-McGarrahan, Letesia",
+    "resolved_employer": "Cantu-McGarrahan Architects (owner/principal architect), Austin",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Letesia Cantu-McGarrahan operates d/b/a Cantu-McGarrahan Architects, a small Austin residential architecture firm (Travis County court records, city permits, LinkedIn 'Letty McGarrahan'). Name + firm + Austin + owner/architect occupation all corroborate.",
+    "source_url": "https://law.justia.com/cases/texas/third-court-of-appeals/2002/10919.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "891053e674ca44ef",
+    "name": "Renteria, Pio",
+    "resolved_employer": "Former Austin City Council Member, District 3 (2015-2023); retired IBM technician",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Sabino 'Pio' Renteria represented Austin District 3 from 2015 until 2023, when José Velásquez succeeded him; lifelong East Austin resident who retired from IBM after 34 years. Identity confirmed by occupation ('Councilman'), zip 78702, and predecessor-to-Velásquez status.",
+    "source_url": "https://ballotpedia.org/Sabino_%22Pio%22_Renteria",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8910cde4e21983ce",
+    "name": "Sugg, Paul",
+    "resolved_employer": "Harris County (Sr. Intergovernmental & Global Affairs Specialist); previously Legislative Director / Governmental Relations, Texas Association of Counties",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Paul Sugg was the longtime Legislative Director in Governmental Relations at the Texas Association of Counties (a county-lobbying association at the Texas Legislature) and per LinkedIn now serves as Senior Intergovernmental & Global Affairs Specialist for Harris County. Corroborated by TAC staff directory, legislative witness lists, and LinkedIn.",
+    "source_url": "https://www.linkedin.com/in/paul-sugg-2b90aa228/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Association of Counties",
+        "role": "Legislative Director / Governmental Relations (intergovernmental legislative advocacy for Texas counties)",
+        "category": "political",
+        "source_url": "https://imis.county.org/iMIS/TACMember/Directories/Staff_Directory_Compact_Legislative.aspx",
+        "snippet": "Sugg served in TAC Governmental Relations directing county-interest legislative advocacy at the Texas Capitol and appears repeatedly on legislative committee witness lists; intergovernmental/legislative-affairs work rather than a private-client cause. No pro-Israel/pro-Palestine, oil & gas, or gun PAC ties found in FEC records."
+      }
+    ]
+  },
+  {
+    "donor_id": "8df22cbf4ba3f4d1",
+    "name": "Harding, Vincent",
+    "resolved_employer": "Texas Alliance of Boys and Girls Clubs (Executive Director), Houston, TX; employment/ethics attorney",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Vincent Alexander Harding, employment/ethics attorney and former (youngest-ever) Chair of the Travis County Democratic Party; ran for Austin City Council District 1 in 2018. Now Executive Director of the Texas Alliance of Boys and Girls Clubs, based in Houston (zip 77019), corroborating the donor record's Houston/Boys & Girls Clubs occupation.",
+    "source_url": "https://www.austinchronicle.com/news/2018-06-15/a-new-era-for-the-travis-county-democratic-party/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Travis County Democratic Party",
+        "role": "Former Chair (and former Vice Chair)",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Vincent_Harding",
+        "snippet": "Harding was the youngest person and second Black man to serve as Chair of the Travis County Democratic Party; later a 2018 Austin City Council D1 candidate."
+      }
+    ]
+  },
+  {
+    "donor_id": "915b06e5a7347fb0",
+    "name": "Deverakonda, Puja",
+    "resolved_employer": "GLIDE (GLIDE Foundation), San Francisco — Senior Manager, Strategy & Operations (formerly Manager, Impact & Strategy)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Puja Deverakonda is a Senior Manager, Strategy & Operations at GLIDE, the San Francisco social-justice nonprofit; prior roles at Mental Health Association of SF and Hamilton Families. Zip 94114 is San Francisco, matching the GLIDE/Manager occupation in the donor record.",
+    "source_url": "https://www.zoominfo.com/p/Puja-Deverakonda/2024735931",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a7d35e060b820e8b",
+    "name": "Davila, LF",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed as retired in Buda, TX (zip 78610). Multiple Davilas live in 78610, but none could be tied to the specific 'LF Davila' initials, retired status, or any policy-advocacy/political record. Identity not confirmable beyond a retired Buda resident.",
+    "source_url": "https://www.ethics.state.tx.us/search/cf/SimpleSearch.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ba172c08951ac097",
+    "name": "Sookiasian, Richard?",
+    "resolved_employer": "Retired; formerly a registered Texas lobbyist (registered 2009)",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Donor record (retired, Austin 78745) matches Richard Sookiasian, listed in the 2009 Texas Ethics Commission lobbyist registry at 7707 Doncaster Dr., Austin, TX 78745 — the exact 78745 zip in the donor record. TEC ID 00061372, registered 02/05/2009-12/31/2009. Now retired. Specific 2009 clients could not be retrieved, so no issue-based affiliation is asserted.",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2009/loblst09_04.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Ethics Commission — Registered Lobbyist (clients not identified)",
+        "role": "Registered lobbyist (2009)",
+        "category": "political",
+        "source_url": "https://www.ethics.state.tx.us/search/lobby/2009/loblst09_04.htm",
+        "snippet": "Richard Sookiasian, 7707 Doncaster Dr., Austin, TX 78745, TEC ID 00061372, registered as a Texas lobbyist 02/05/2009-12/31/2009; the represented clients/subject matter were not recoverable from the public list."
+      }
+    ]
+  },
+  {
+    "donor_id": "d0810302b2dfe080",
+    "name": "Ortiz, Jr., Solomon",
+    "resolved_employer": "Ortiz Holdings LLC (Partner / Director of Governmental Affairs); former Texas State Representative, HD 33/34 (Corpus Christi)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Solomon P. Ortiz Jr., son of former U.S. Rep. Solomon Ortiz, served in the Texas House (Corpus Christi, ~2007-2011) and now works in governmental affairs at Ortiz Holdings LLC; appears in Texas Ethics Commission registered-lobbyist records. Zip 78414 / Corpus Christi and governmental-affairs occupation match.",
+    "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=5622",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas House of Representatives",
+        "role": "Former State Representative (HD 33/34, Corpus Christi)",
+        "category": "political",
+        "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=5622",
+        "snippet": "Solomon P. Ortiz Jr. served as Texas State Representative for the Corpus Christi-area district (roughly 2007-2011); son of former U.S. Rep. Solomon Ortiz."
+      },
+      {
+        "org": "Texas Ethics Commission (registered lobbyist)",
+        "role": "Registered lobbyist / Director of Governmental Affairs, Ortiz Holdings",
+        "category": "political",
+        "source_url": "https://www.ethics.state.tx.us/search/lobby/",
+        "snippet": "Solomon P. Ortiz Jr. appears in Texas Ethics Commission registered-lobbyist records (e.g., 2017), consistent with his governmental-affairs role."
+      }
+    ]
+  },
+  {
+    "donor_id": "ebb1b09c46fffabd",
+    "name": "Maciel?, Rose",
+    "resolved_employer": "Joe's Bakery & Coffee Shop, East Austin — President / co-owner",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Rose Ann Maciel is president/co-owner of Joe's Bakery & Coffee Shop (family restaurant founded 1962 in East Austin, zip 78702); eldest daughter of founder Joe Avila and mother of general manager Regina Estrada. Zip and 'restaurant owner' occupation confirm.",
+    "source_url": "https://joesbakery.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f204f826674d2c8c",
+    "name": "Billingsley, Anne",
+    "resolved_employer": "ONEOK, Inc. — Director, Government Affairs / Government Relations (Austin); registered Texas lobbyist",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Anne Billingsley is Director of Government Affairs/Government Relations for ONEOK, Inc., a major natural-gas pipeline company. She is a registered lobbyist with the Texas Ethics Commission (Austin) and has testified before the Texas Legislature on ONEOK's behalf. Austin base and public-affairs/ONEOK occupation match.",
+    "source_url": "https://www.linkedin.com/in/anne-billingsley-56b12b4/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "ONEOK, Inc.",
+        "role": "Director, Government Affairs / registered Texas lobbyist",
+        "category": "oil_gas",
+        "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+        "snippet": "Billingsley is Director of Government Relations for ONEOK, a natural-gas pipeline company, and a registered Texas Ethics Commission lobbyist who has testified before the Texas Legislature as ONEOK's government-relations representative."
+      }
+    ]
+  },
+  {
+    "donor_id": "fc8c35689c9d224d",
+    "name": "Flores, Lucy",
+    "resolved_employer": "Luz Collective / Luz Media — Co-Founder (Latina-focused digital media); former VP Public Affairs, mitú; former Nevada State Assemblywoman",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Lucy Flores is a former Nevada State Assemblywoman (District 28, 2010-2014) and media entrepreneur who co-founded Luz Collective/Luz Media, a Latina-focused digital media company, after serving as VP of Public Affairs at Latino media company mitú. Matches the 'Co-Founder/Luz Collective' occupation.",
+    "source_url": "https://en.wikipedia.org/wiki/Lucy_Flores",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Nevada State Assembly",
+        "role": "Former Assemblywoman (District 28, 2010-2014)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Lucy_Flores",
+        "snippet": "Flores was one of the first Latinas elected to the Nevada Legislature, serving Assembly District 28 from 2010-2014; later a 2014 candidate for NV Lieutenant Governor and 2016 congressional candidate."
+      }
+    ]
+  }
+]

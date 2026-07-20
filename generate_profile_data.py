@@ -19,7 +19,9 @@ from datetime import datetime, timezone
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-DB_PATH = "C:/Users/Hamza Sait/Electoral/austin-finance-data/austin_finance.db"
+# Repo-relative so builds work from any checkout/worktree of the repo.
+_REPO_ROOT = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(_REPO_ROOT, "austin_finance.db")
 
 INDUSTRY_COLORS = {
     "Real Estate":              "#f59e0b",
@@ -116,6 +118,7 @@ CANDIDATE_CYCLES = {
     'anderson':     [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'stevenbrown':  [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'riggins':      [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    'shah':         [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
 
     # -- Travis County (March primaries are the real race; 4-year terms) --
     # Brown: won the Nov 2020 SPECIAL election for Eckhardt's unexpired term
@@ -219,11 +222,12 @@ OFFICE_OVERRIDE = {
     'anderson':    'Austin City Council · District 1 Candidate',
     'stevenbrown': 'Austin City Council · District 1 Candidate',
     'riggins':     'Austin City Council · District 1 Candidate',
+    'shah':        'Austin City Council · District 3 Candidate',
 }
 
 CANDIDATE_MIN_YEAR = {
     'brown': 2016, 'travillion': 2016, 'shea': 2016, 'howard': 2016, 'gomez': 2016,
-    'morales': 2016,
+    'morales': 2016, 'shah': 2026,
 }
 
 
@@ -1367,7 +1371,7 @@ def main():
                         "Pass an exact recipient string to disambiguate (e.g. 'Alter, Ryan').")
     parser.add_argument("--slug", default=None, help="Override the output slug (e.g. 'alter'). "
                         "Defaults to a slugified candidate fragment.")
-    parser.add_argument("--output-dir", default="C:/Users/Hamza Sait/Electoral/austin-finance-data",
+    parser.add_argument("--output-dir", default=_REPO_ROOT,
                         help="Output directory for JSON files")
     args = parser.parse_args()
 

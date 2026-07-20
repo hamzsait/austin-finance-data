@@ -1,0 +1,248 @@
+[
+ {
+  "donor_id": "febdecda5cd8c0c1",
+  "name": "Alvarez, Theresa",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired donor in Rockdale, TX (zip 76567). Self-reported occupation/employer is 'Retired'; no public profile could be confirmed to this specific individual, and former career is unknown.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f9b6532fba25a625",
+  "name": "McLean, William",
+  "resolved_employer": "McLean & Howard, L.L.P. — founding partner (Austin real estate / commercial law firm)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "William P. 'Bill' McLean, founding partner of McLean & Howard LLP, an Austin real estate attorney practicing since 1991; firm name and 78703 location match the donor record exactly.",
+  "source_url": "https://mcleanhowardlaw.com/william-p-mclean/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of Austin", "role": "Member; Regional Collaboration and Education Committee", "category": "business", "source_url": "https://mcleanhowardlaw.com/william-p-mclean/", "snippet": "Real Estate Council of Austin (serves on Regional Collaboration and Education Committee)"},
+   {"org": "Colorado River Foundation", "role": "Board of Directors (2001-present), President (2008-present)", "category": "civic", "source_url": "https://mcleanhowardlaw.com/william-p-mclean/", "snippet": "Colorado River Foundation - Board of Directors (2001-Present); President (2008-Present)"},
+   {"org": "Coastal Conservation Association", "role": "Austin Chapter Board/President; TX State Board 1997-1999", "category": "civic", "source_url": "https://mcleanhowardlaw.com/william-p-mclean/", "snippet": "Coastal Conservation Association - Austin Chapter Board of Directors (1993-Present); Austin Chapter President (1996); Texas State Board of Directors (1997-1999)"}
+  ]
+ },
+ {
+  "donor_id": "d47b623220922ebc",
+  "name": "Kane, Gabriela",
+  "resolved_employer": "Latinitas, Inc. — Executive Director (Austin nonprofit; STEAM/media education for Latina girls)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Gabriela Kane Guardia, Executive Director of Latinitas (previously Development Director / Interim ED); MA Latin American Studies, UT Austin. Employer 'Latinitas, Inc.' and 'Director' title match the donor record.",
+  "source_url": "https://latinitasonline.org/news-post/welcome-gabriela-kane-guardia-executive-director-of-latinitas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Latinitas, Inc.", "role": "Executive Director (prior: Development Director / Interim ED)", "category": "civic", "source_url": "https://latinitasonline.org/news-post/welcome-gabriela-kane-guardia-executive-director-of-latinitas/", "snippet": "Welcome, Gabriela Kane Guardia, Executive Director of Latinitas... demonstrated leadership during her time as Interim Executive Director and Development Director at Latinitas"}
+  ]
+ },
+ {
+  "donor_id": "14648e3445f25735",
+  "name": "Northington, Charlie",
+  "resolved_employer": "Endeavor Real Estate Group — Managing Principal (Austin retail & mixed-use development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Charlie Northington, Managing Principal at Endeavor Real Estate Group, focused on retail/mixed-use development (21 years at Endeavor). Donor record 'Endeavor' + 'Real estate' and 78703 location match exactly.",
+  "source_url": "https://www.endeavor-re.com/about/team/charlie-northington/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of Austin", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/charlie-northington/", "snippet": "Organization Memberships - Real Estate Council of Austin; International Council of Shopping Centers"},
+   {"org": "Helping Hand Home for Children (Austin)", "role": "Member, Community Advisory Board", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/charlie-northington/", "snippet": "Member and Community Advisory Board at the Helping Hand of Austin"}
+  ]
+ },
+ {
+  "donor_id": "2ee6dc0541594774",
+  "name": "Iruegas, Sarita",
+  "resolved_employer": "University Federal Credit Union (UFCU) — Lock & Disclosure Desk Team Lead",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Sarita Iruegas's exact title 'Lock & Disclosure Desk Team Lead' at UFCU (Austin's largest locally owned credit union) matches a public LinkedIn post; uncommon name plus exact title/employer support identity.",
+  "source_url": "https://ufcu.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6550a167cfeb508b",
+  "name": "Limon-Mercado, Dyana",
+  "resolved_employer": "Planned Parenthood Texas Votes — Executive Director; also elected Travis County Clerk",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dyana Limon-Mercado (Austin 78745) is Executive Director of Planned Parenthood Texas Votes since 2020, former Travis County Democratic Party Chair (elected 2018), and now elected Travis County Clerk. Employer/occupation and location match exactly.",
+  "source_url": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes/blog/planned-parenthood-texas-votes-board-names-dyana-limon-mercado-new-executive-director",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Planned Parenthood Texas Votes", "role": "Executive Director", "category": "political", "source_url": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes/blog/planned-parenthood-texas-votes-board-names-dyana-limon-mercado-new-executive-director", "snippet": "Planned Parenthood Texas Votes Board Names Dyana Limon-Mercado New Executive Director"},
+   {"org": "Travis County Democratic Party", "role": "former Chair (elected 2018)", "category": "political", "source_url": "https://ballotpedia.org/Dyana_Limon-Mercado", "snippet": "In 2018 Travis County voters elected Dyana as the Travis County Democratic Party Chair, the first Hispanic person to do so."}
+  ]
+ },
+ {
+  "donor_id": "711176a605544056",
+  "name": "Morales, Nicole",
+  "resolved_employer": "Eller Group — CFO (Austin communications counsel & public-affairs firm)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Nicole Morales is CFO of Eller Group, Austin; Eller Group is a communications/public-affairs consultancy (not a real estate firm). LinkedIn confirms CFO title and Austin location matching the donor record.",
+  "source_url": "https://www.linkedin.com/in/nmorales/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "336b78e835d73555",
+  "name": "Rodriguez, Marianne",
+  "resolved_employer": "Corazón Team (Realty Austin, now Compass) — Realtor / Broker Associate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Marianne Rodriguez is a bilingual REALTOR/Broker Associate on the Corazón Team (originally Realty Austin, since moved to Compass), a former teacher active in Austin real estate since 2014. East Austin (78702) and Corazón Team employer match.",
+  "source_url": "https://corazonteamaustin.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b0bfb36dc242583b",
+  "name": "Srinivasan, Hari",
+  "resolved_employer": "BLEND360 — Manager, Data Science (Columbia, MD)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Hari Srinivasan is a Manager/Data Scientist at BLEND360 in Columbia, MD (zip 21044 matches). A same-named Vanderbilt neuroscience PhD/autism advocate is a DIFFERENT person and was excluded. Out-of-state donor to challenger Neha Shah.",
+  "source_url": "https://www.zoominfo.com/p/Hari-Srinivasan/15318472665",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b377c516f29a3ae9",
+  "name": "Alvarez, Raul",
+  "resolved_employer": "Community Advancement Network — Executive Director (since 2015); former Austin City Council member (2000-2006)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as the former Austin City Council member (2000-2006), now Executive Director of the Community Advancement Network (CAN) since 2015; East Austin (78702) and employer match. Also ACC Board of Trustees and Capital Metro Board alum.",
+  "source_url": "https://canatx.org/contact-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Austin City Council", "role": "former Council Member (2000-2006)", "category": "political", "source_url": "https://canatx.org/contact-us/", "snippet": "Raul served as an Austin City Council member from 2000-2006."},
+   {"org": "East Austin Conservancy", "role": "Board President", "category": "civic", "source_url": "https://canatx.org/contact-us/", "snippet": "He is the board president of the East Austin Conservancy, an organization working to address displacement of residents in Central East Austin."},
+   {"org": "Community Advancement Network", "role": "Executive Director (since 2015)", "category": "civic", "source_url": "https://canatx.org/contact-us/", "snippet": "Raul has served as the Executive Director of the Community Advancement Network (CAN) since 2015."}
+  ]
+ },
+ {
+  "donor_id": "03dfced6bf4fb02f",
+  "name": "Sepeda, Manuel",
+  "resolved_employer": "Covert Buick GMC (auto dealership) — sales",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Sales staffer at Covert Buick GMC, an Austin-area auto dealer; donor lists Kyle, TX (78640). No public profile found to confirm this specific individual; classified by employer (auto dealership).",
+  "source_url": "https://www.covertbuickgmc.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10b98b8509e1fd5d",
+  "name": "Morran, John",
+  "resolved_employer": "TOPO (TOPO Development Group) — Principal / co-founder (Austin commercial real estate development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "John Morran is a principal/co-founder of TOPO, an Austin vertically-integrated commercial real estate development firm; ~30 years in capital markets before founding it. LinkedIn and TOPO 'About' page confirm identity and 78703 location.",
+  "source_url": "https://www.topo-dg.com/about-topo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "TOPO (TOPO Development Group)", "role": "Principal / co-founder", "category": "business", "source_url": "https://www.topo-dg.com/about-topo", "snippet": "Principals listed: Daryl Kunik, Kim Shipman, John Morran — deep experience founding and leading a diverse set of hospitality and customer-facing businesses."}
+  ]
+ },
+ {
+  "donor_id": "15bc390e2295f20f",
+  "name": "Kunik, Randy",
+  "resolved_employer": "Kunik Orthodontics, Austin — owner/orthodontist (Dr. Randall L. Kunik, DDS)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Randy (Randall L.) Kunik owns Kunik Orthodontics, an Austin orthodontic practice he opened in 1991 (three locations); UT Austin undergrad, UT Dental Branch Houston DDS. Identity confirmed via practice site and AAO locator.",
+  "source_url": "https://www.kunikorthodontics.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "29da1ec35cb77cdb",
+  "name": "Maldonado, Vanessa",
+  "resolved_employer": "AVANCE-North Texas — Executive Director (Latino family-services nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Vanessa Maldonado is Executive Director of AVANCE-North Texas, a nonprofit providing education/resources to Latino families; St. Edward's University nonprofit-management degree, prior Chief Engagement Officer at Easterseals. Name+employer match; Austin donor zip vs. AVANCE's North Texas base is a mild discrepancy.",
+  "source_url": "https://theorg.com/org/avance-inc/org-chart/vanessa-maldonado",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "AVANCE-North Texas", "role": "Executive Director", "category": "civic", "source_url": "https://theorg.com/org/avance-inc/org-chart/vanessa-maldonado", "snippet": "Vanessa Maldonado - Executive Director, North Texas at AVANCE; more than a decade of nonprofit leadership; nearly doubled AVANCE's annual budget serving Latino families."}
+  ]
+ },
+ {
+  "donor_id": "48cb3151d51647c4",
+  "name": "Goff, Eric",
+  "resolved_employer": "Eric Winters Goff LLC ('Goff Policy') — housing/urban-policy consultant and advocate",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "The well-known Austin YIMBY/urbanist. Eric Goff runs Eric Winters Goff LLC / 'Goff Policy' and is a prominent housing-policy advocate active with AURA (26 authored posts since 2019); frequently quoted on Austin zoning/'missing middle' reform, ADUs, and the housing bond.",
+  "source_url": "https://aura-atx.org/author/eric_goff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "AURA (Austin urbanist/housing advocacy org)", "role": "Contributor / housing advocate", "category": "civic", "source_url": "https://aura-atx.org/author/eric_goff/", "snippet": "Eric Goff joined AURA Aug 22, 2019 and has authored 26 articles; quoted advocating 'missing middle housing,' ADUs/backyard cottages, and reduced parking requirements in Austin's land-development-code fight."},
+   {"org": "Eric Winters Goff LLC / Goff Policy", "role": "Owner / policy consultant", "category": "business", "source_url": "https://www.linkedin.com/in/ericwgoff/", "snippet": "LinkedIn lists Eric Goff with 'Goff Policy'; Eric Winters Goff, LLC, Austin."}
+  ]
+ },
+ {
+  "donor_id": "648cc045d80b6d1d",
+  "name": "Ferrero, Charles",
+  "resolved_employer": "Hotel Vegas / Volstead Lounge — co-owner and founding partner (East Austin music venue/bar)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Charles Ferraro (record spells it 'Ferrero') co-founded East 6th Street music venue/bar Hotel Vegas and The Volstead Lounge in March 2011; East Austin zip 78702 matches the venue location and 'Owner' occupation.",
+  "source_url": "https://austin.culturemap.com/news/entertainment/hotel-vegas-volstead-15th-anniversary/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b51565d4d66fc95",
+  "name": "Garza, Richard",
+  "resolved_employer": "Giant Noise (Austin PR/communications firm) — Principal",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Rich Garza is a Principal at Austin PR firm Giant Noise (prior roles at Mercury Mambo, Cornerstone Agency); Brown University BA in History. Matches Austin location, 'Executive' occupation, and named employer.",
+  "source_url": "https://rocketreach.co/rich-garza-email_38804505",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6f25ac32c955a321",
+  "name": "Navarro, Alex",
+  "resolved_employer": "1839 Real Estate Group — co-manager/principal (residential & commercial agent)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Alex Navarro, originally from Lockhart (zip 78644), leads 1839 Real Estate Group; former Thermo Fisher scientist and Camp Gladiator trainer. Active in real-estate advocacy and City of Austin civic commissions.",
+  "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-alex-navarro-of-1839-real-estate-group-realty-one-group-prosper/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "NAHREP Austin (National Association of Hispanic Real Estate Professionals)", "role": "Board of Directors", "category": "business", "source_url": "https://nahrepaustin.org/board-of-directors/", "snippet": "Serves on the NAHREP Austin Board of Directors, which supports opportunity and advocacy across residential and commercial real estate."},
+   {"org": "City of Austin Water & Wastewater Commission", "role": "Commissioner, District 2", "category": "civic", "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-alex-navarro-of-1839-real-estate-group-realty-one-group-prosper/", "snippet": "He serves as Water & Wastewater Commissioner for District 2 and is a board member for Keep Austin Beautiful."}
+  ]
+ },
+ {
+  "donor_id": "770a3723c941d79a",
+  "name": "Kunik, Sophie",
+  "resolved_employer": "Goosehead Insurance — Account Executive (insurance agent)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Sophie Kunik is an Account Executive/agent at Goosehead Insurance, 4201 Bee Cave Rd, Austin 78746 — matching the named employer, occupation, and zip.",
+  "source_url": "https://nextdoor.com/pages/goosehead-insurance-sophie-kunik-austin-tx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "870172dafac658cb",
+  "name": "Eastridge, Antoinette",
+  "resolved_employer": "Dell Technologies — Analyst (per donation record; no independent public profile located)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "No public bio, LinkedIn, FEC, or lobbyist record confirming this specific person was found; classified by named employer only (Dell Technologies, HQ Round Rock TX; donor listed in Rockdale 76567). Quiet result — searches run, nothing surfaced.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

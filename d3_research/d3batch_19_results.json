@@ -1,0 +1,254 @@
+[
+  {
+    "donor_id": "55ac03d3ed62d5a7",
+    "name": "Reyes, Irma",
+    "resolved_employer": "Texas House Democratic Caucus",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Austin-based Democratic political operative; public records (LegiStorm) document an Irma M. Reyes who served as staff to a TX House Democrat and Executive Director of the Mexican American Legislative Caucus, consistent with donor's self-reported roles (Political director/Senior strategist at Beto for Texas and Texas House Democratic Caucus). No FEC PAC or lobbyist registration found.",
+    "source_url": "https://www.legistorm.com/person/bio/414380/Irma_M_Reyes.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mexican American Legislative Caucus (MALC)", "role": "Executive/Caucus Director", "category": "political", "source_url": "https://www.legistorm.com/person/bio/414380/Irma_M_Reyes.html", "snippet": "Executive Director, Mexican American Legislative Caucus; previously staff to State Rep. Victoria Neave Criado (D-TX)."}
+    ]
+  },
+  {
+    "donor_id": "57acaf4c9d5f52ad",
+    "name": "Sanchez, Bethbiriah",
+    "resolved_employer": "Sanchez Law",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Bethbiriah 'Beth' Sanchez, Austin native, licensed by State Bar of Texas May 2016, founder/principal of Sanchez Law (personal injury firm, 4360 S Congress Ave, 78745). Founder of nonprofit Community By Sanchez. No FEC PAC donations or TX lobbyist registration found.",
+    "source_url": "https://sanchezlawtx.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Community By Sanchez (CMMNTYxSNCHZ)", "role": "Founder", "category": "civic", "source_url": "https://communitybysanchez.org/about-us", "snippet": "Beth Sanchez is listed as Founder of Community by Sanchez, a nonprofit creating educational pathways, scholarships and mentorship for underserved families."}
+    ]
+  },
+  {
+    "donor_id": "64752f4236fb137c",
+    "name": "Rodriguez III, Donato",
+    "resolved_employer": "City of Austin (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor self-reports COA (City of Austin) and Retired. No public bio, FEC PAC contribution, or TX lobbyist record located; categorized by employer as retired municipal (City of Austin) employee.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a7c74aac8bfe93c",
+    "name": "Valencia, Blanca Nereida",
+    "resolved_employer": "Round Rock ISD",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Blanca Nereida Valencia is a Round Rock ISD educator/administrator (named Success High School principal 2024; prior assistant principal at RRISD Opportunity Center). Confirmed via RRISD news and Voyage Austin bio. No FEC PAC donations or TX lobbyist registration found.",
+    "source_url": "https://news.roundrockisd.org/2024/06/17/blanca-valencia-named-success-high-school-principal",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Contigo Wellness Foundation", "role": "Vice President and founding board member", "category": "civic", "source_url": "https://voyageaustin.com/interview/rising-stars-meet-blanca-nereida-valencia-of-austin-tx/", "snippet": "Valencia is Vice President and founding board member of Contigo Wellness Foundation, addressing mental health stigma in BIPOC communities; describes herself as a social justice activist and educator focused on equity."}
+    ]
+  },
+  {
+    "donor_id": "aa6b0cc0a5d1c786",
+    "name": "Natsheh, Hatem",
+    "resolved_employer": "Kwik Mart (self-employed)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Self-employed convenience store (Kwik Mart) owner in Austin. A Hatem Natsheh (self-employed, Austin) appears in FEC records with a small-dollar contribution to Bernie 2020; high FEC donation count (54) consistent with a recurring small-dollar donor. No PAC/advocacy-org affiliation documented; industry classified by employer.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part22.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c2258ac21628a362",
+    "name": "Sokolic, Katherine",
+    "resolved_employer": "Compass RE Texas (formerly Realty Austin)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Kathy Sokolic is an Austin realtor at Compass/Realty Austin; office at 4646 Mueller Blvd, 78723 matches donor zip. Chair of her Mueller-area neighborhood association. No federal PAC or TX lobbyist record found.",
+    "source_url": "https://kathysokolicrealtor.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mueller-area neighborhood association", "role": "Chair", "category": "civic", "source_url": "https://kathysokolicrealtor.com/", "snippet": "serves as Chair of her neighborhood association, organizing neighborhood block captains, and planning block parties and fall festivals"}
+    ]
+  },
+  {
+    "donor_id": "d1e521740199ab95",
+    "name": "Juarez Rosales, Armandina",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-Austin donor (Porter TX 77365), self-employed/retired. No public record identifying this specific person or a former career was found; unable to corroborate industry.",
+    "source_url": "https://radaris.com/p/Armida/Juarez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d226cc739cc5bd85",
+    "name": "Alderete, Carina",
+    "resolved_employer": "Accenture",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Carina Alderete is an Austin-based marketing/VP-level executive at Accenture (LinkedIn, theorg) and serves on the City of Austin Technology + Telecommunications Commission since Oct 2023. No federal PAC or TX lobbyist record found.",
+    "source_url": "https://theorg.com/org/city-of-austin/org-chart/carina-alderete",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of Austin Technology + Telecommunications Commission", "role": "Commissioner / Board Member", "category": "civic", "source_url": "https://theorg.com/org/city-of-austin/org-chart/carina-alderete", "snippet": "serving as a Board Member for the Technology + Telecommunications Commission for the City of Austin since October 2023"}
+    ]
+  },
+  {
+    "donor_id": "10a27bbf8a34f75b",
+    "name": "Velasquez, Julius",
+    "resolved_employer": "Capital Metro (CapMetro)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Listed as a Planner at Capital Metro, Austin's public transit authority (Buda TX 78610). Could not independently confirm the specific individual online; industry assigned by employer fallback. Surname shared with candidate but no family relation is documented in any public record.",
+    "source_url": "https://www.capmetro.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f0ac516df38822b",
+    "name": "Coufal, Liz",
+    "resolved_employer": "Valkyrie",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Liz Coufal is Co-founder & COO of Valkyrie (valkyrie.ai / valkyrie.science), the Austin applied-sciences/AI lab. She also co-founded GoodPolitics, an Austin nonpartisan 501(c)(4) civic-engagement organization. No federal PAC or TX lobbyist record found.",
+    "source_url": "https://theorg.com/org/valkyrie-ai/org-chart/liz-coufal",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "GoodPolitics", "role": "Co-founder", "category": "civic", "source_url": "https://medium.com/good-politics/announcing-good-politics-81aa2b46fe35", "snippet": "GoodPolitics is a 501(c)(4) ... Founded in 2018 by Nathan Ryan and Liz Coufal ... a formal series of nonpartisan, big tent 'political parties'"}
+    ]
+  },
+  {
+    "donor_id": "54acd3bbd26b3c4d",
+    "name": "Baez, III, Celso",
+    "resolved_employer": "LINK Strategic Partners",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Celso Baez III is Director of Strategy & Texas Branch Manager who launched LINK Strategic Partners' Austin office (June 2022); prior public-sector roles at CapMetro, Austin ISD, Central Health. Matches occupation 'Director of Strategy' / employer 'Link'.",
+    "source_url": "https://www.linksp.com/celso-baez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "I Live Here I Give Here", "role": "Board of Directors", "category": "civic", "source_url": "https://www.linksp.com/celso-baez", "snippet": "Board & leadership affiliations list I Live Here I Give Here Board of Directors (current)."},
+      {"org": "City of Austin Urban Transportation Commission", "role": "Appointed commissioner (advisory)", "category": "political", "source_url": "https://www.linksp.com/celso-baez", "snippet": "Appointed advisory roles include City of Austin Urban Transportation Commission and the Mayor's Task Force on Institutional Racism and Systemic Inequities."},
+      {"org": "La Fuente Learning Center", "role": "Former Board President", "category": "civic", "source_url": "https://www.linksp.com/celso-baez", "snippet": "Former President of the La Fuente Learning Center Board."}
+    ]
+  },
+  {
+    "donor_id": "6d89d30728357b58",
+    "name": "Cottingim, Krista",
+    "resolved_employer": "Hustle for the Cause, LLC",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Distinctive name matches Krista Cottingim, co-founder/owner of Hustle for the Cause, an Austin creative social-impact studio (produces Chingona Fest Texas). Consistent with self-employed 'Consultant'; 78747 zip not independently confirmed.",
+    "source_url": "https://www.hustleforthecause.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hustle for the Cause, LLC / Chingona Fest Texas", "role": "Co-founder / Owner", "category": "civic", "source_url": "https://craftbeeraustin.com/recap-hustle-for-the-cause-debuts-chingona-fest", "snippet": "Austin-based social-impact production company owned and operated by LGBTQ women of color (Denise Hernandez and Krista Cottingim); produces the Latina-empowerment Chingona Fest Texas."}
+    ]
+  },
+  {
+    "donor_id": "962e7c189c351de3",
+    "name": "Rios Valdez, Rosa",
+    "resolved_employer": "BCL of Texas (Business & Community Lenders of Texas) — Founder Emerita",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Distinctive name matches Rosa Rios Valdez, founder and longtime CEO (now Founder Emerita / Founder in Residence) of BCL of Texas, a nonprofit CDFI community lender in Austin. Occupation field was garbage ('Xx'); SW-Austin 78736 zip plausible but not independently confirmed.",
+    "source_url": "https://www.bcloftexas.org/get-to-know-us/meet-our-ceo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "BCL of Texas (Business & Community Lenders of Texas)", "role": "Founder / former CEO (Founder Emerita)", "category": "civic", "source_url": "https://www.bcloftexas.org/get-to-know-us/bcl-circle/our-founder-rosa-is-one-of-25-latina-leaders-among-1300-cdfis", "snippet": "Founded BCL and for 34 years advanced economic opportunity for underserved Texas communities; recognized among 25 Latina-led CDFIs nationally."}
+    ]
+  },
+  {
+    "donor_id": "9f3bdba0cb3b47a0",
+    "name": "Ramirez, Mari",
+    "resolved_employer": "Maria Alicia Ramirez CPA PC (Mari Ramirez CPA PC)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Exact firm-name match: 'Ramirez, Mari', CPA, owner of Maria Alicia Ramirez CPA PC / Mari Ramirez CPA PC, an Austin-area CPA firm (20+ years public accounting); GAHCC member. 78721 East Austin consistent with home address.",
+    "source_url": "https://www.linkedin.com/in/maricpa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Greater Austin Hispanic Chamber of Commerce", "role": "Member business", "category": "business", "source_url": "https://business.gahcc.org/list/member/maria-alicia-ramirez-cpa-pc-10957", "snippet": "Maria Alicia Ramirez CPA PC listed as a GAHCC member providing accounting/audit/tax services."}
+    ]
+  },
+  {
+    "donor_id": "b5e47bcab0232661",
+    "name": "Candelas, Elaine",
+    "resolved_employer": "Apple",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Public records place an Elaine Candelas in Austin 78702, corroborating the donor's zip; stated employer Apple in a sales-operations role is consistent with Apple's large Austin workforce. No further public professional profile or affiliations found.",
+    "source_url": "https://www.officialusa.com/names/Elaine-Candelas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c22330b2c94162b8",
+    "name": "Israel, Celia",
+    "resolved_employer": "Travis County Tax Assessor-Collector's Office",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed Celia Marie Israel, elected Travis County Tax Assessor-Collector (sworn in Jan 3, 2025); former 4-term TX State Rep (District 50), 2022 Austin mayoral runoff candidate, Democrat. Employer 'Travis County / Tax Assessor' matches exactly. (Surname 'Israel' is unrelated to Israel/Palestine policy.)",
+    "source_url": "https://en.wikipedia.org/wiki/Celia_Israel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 50)", "role": "Former State Representative (Democrat), 2014-2023", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Celia_Israel", "snippet": "Represented the 50th district in the Texas House; four-term Democratic state representative, succeeded by James Talarico when she ran for Austin mayor."},
+      {"org": "Texas House LGBTQ Caucus", "role": "Co-founder", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Celia_Israel", "snippet": "As a state representative, Israel co-founded the LGBTQ Caucus in the Texas House."},
+      {"org": "LPAC", "role": "Endorsed candidate", "category": "political", "source_url": "https://www.teamlpac.com/our-candidates/celia-israel", "snippet": "Featured as an endorsed candidate by LPAC, a national LGBTQ women's political action committee."}
+    ]
+  },
+  {
+    "donor_id": "c410e5b5d270d5f1",
+    "name": "Becerra, Jesus",
+    "resolved_employer": "Amegy Bank",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "No distinct public profile confirming this specific Jesus Becerra (Buda TX, 78610) as an Amegy Bank commercial-banking VP; generic name yielded unrelated profiles. Industry assigned by employer fallback (Amegy Bank = commercial bank).",
+    "source_url": "https://www.amegybank.com/business/commercial-banking/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e3db089e91d44963",
+    "name": "Pena, Maria",
+    "resolved_employer": "Donn's Barbeque and Catering (Donn's BBQ)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Community Impact profile identifies Maria Peña as vice president of Donn's Barbecue, daughter of owner Jose Guerrero, operating all three Austin locations; matches donor 'Owner, Donn's BBQ,' zip 78744 Austin.",
+    "source_url": "https://communityimpact.com/austin/southwest-austin-dripping-springs/2022/05/23/donns-bbq-cooks-up-authentic-texas-food-for-over-30-years-in-austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f121cdd234b6cf04",
+    "name": "Alexander, Samantha",
+    "resolved_employer": "CapMetro (Capital Metropolitan Transportation Authority)",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Confirmed as CapMetro's EVP / Chief Experience and Engagement Officer (CXO); joined CapMetro 2019; prior City of Austin and Austin ISD public affairs roles. Matches occupation 'CXO,' employer 'Capital Metro.'",
+    "source_url": "https://www.capmetro.org/executive-staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3d6bf099dd65aef1",
+    "name": "Walker, Nathaniel",
+    "resolved_employer": "Self-employed lobbyist (Nathaniel J. Walker)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Confirmed registered Austin lobbyist (City Clerk registrant RG00090886) and listed as a Texas lobbyist on Transparency USA; matches donor 'State lobbyist / business owner, Self,' Austin 78752. Clients concentrated in labor, affordable housing, and emergency services.",
+    "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG00090886",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin EMS Association", "role": "Registered lobbyist (client)", "category": "civic", "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG00090886", "snippet": "Registered City of Austin lobbying client; labor organization representing Austin EMS medics."},
+      {"org": "Foundation Communities", "role": "Registered lobbyist (client)", "category": "civic", "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG00090886", "snippet": "Affordable-housing developer among Walker's registered lobbying clients."},
+      {"org": "Mobile Loaves and Fishes", "role": "Registered lobbyist (client)", "category": "civic", "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG00090886", "snippet": "Affordable-housing / homelessness nonprofit listed as lobbying client."},
+      {"org": "The Other Ones Foundation", "role": "Registered lobbyist (client)", "category": "civic", "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG00090886", "snippet": "Emergency shelter and services nonprofit listed as lobbying client."},
+      {"org": "Travis County Fire Rescue", "role": "Registered lobbyist (client)", "category": "civic", "source_url": "https://services.austintexas.gov/cityclerk/lobbyist/detail_lobbyists.cfm?registrant_id=RG00090886", "snippet": "Emergency-services entity listed among Walker's registered clients."}
+    ]
+  }
+]

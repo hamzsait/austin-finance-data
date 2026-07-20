@@ -1,0 +1,228 @@
+[
+  {
+    "donor_id": "d9a1e92079a09847",
+    "name": "Phillips, Travis",
+    "resolved_employer": "Armbrust & Brown, PLLC (commercial real estate / land-use transactional attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Travis Phillips is a transactional commercial real estate attorney at Armbrust & Brown; native Austinite, UT B.A. 1998, LBJ School M.P.Aff. 2000, UT Law J.D. 2006. Matches occupation/employer/78704 zip.",
+    "source_url": "https://www.abaustin.com/the-team/travis-phillips/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Leadership Development Council (2010)", "category": "business", "source_url": "https://www.abaustin.com/the-team/travis-phillips/", "snippet": "Firm bio lists Real Estate Council of Austin Leadership Development Council."},
+      {"org": "Texas Land Conservancy", "role": "Board of Directors", "category": "civic", "source_url": "https://www.abaustin.com/the-team/travis-phillips/", "snippet": "Serves on the Board of Directors of the Texas Land Conservancy (land conservation)."},
+      {"org": "Texas Land Trust Council", "role": "Board of Directors", "category": "civic", "source_url": "https://www.abaustin.com/the-team/travis-phillips/", "snippet": "Serves on the Board of Directors of the Texas Land Trust Council."}
+    ]
+  },
+  {
+    "donor_id": "dad4cd3601ceeebd",
+    "name": "Macmurdo, Kristen",
+    "resolved_employer": "Attorney employed by the State of Louisiana; Austin 78701; tied by name/LA nexus to Mark Macmurdo (real estate/finance attorney at Armbrust & Brown, licensed TX and LA, LSU-educated)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Attorney whose employer is a state government (State of Louisiana). Corroborated as Louisiana-admitted attorney Kristen Hunter Macmurdo (LA bar 2016, Baton Rouge), tied by name and LA nexus to Mark Macmurdo of Armbrust & Brown (100 Congress Ave, Austin 78701). Spouse/relative link is inferential, hence medium.",
+    "source_url": "https://www.abaustin.com/the-team/mark-macmurdo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db45b2c4db161a7f",
+    "name": "Wills, Adam",
+    "resolved_employer": "Co-owner of Lolo, a natural wine bar / bottle shop at 1504 E. 6th St, East Austin",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Adam Wills is a co-owner/operator of Lolo natural wine bar (with Matt Bowman, Charles Ferraro, Christian Moses). LinkedIn lists 'Owner at Lolo,' matching the record's 'Bar Owner / Self.' Lives in 78704; bar is in East Austin.",
+    "source_url": "https://austin.culturemap.com/news/restaurants-bars/02-05-20-east-austin-lolo-natural-wine-bar-and-bottle-shop/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dbbb2611fdc3d865",
+    "name": "Campos, William",
+    "resolved_employer": "Self-employed in finance (specific individual not confirmed)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Common name; could not corroborate the specific individual. A LinkedIn 'William Campos' works in commercial real estate finance (PGIM) but does not match the record's 'Self' employer, so not confirmed. Industry set from self-reported occupation 'Finance' only. No PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/william-campos-386945136/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dcbf7ad319f3869a",
+    "name": "Swan, Stephen",
+    "resolved_employer": "Unemployed / not employed (per donation record)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'None' / employer 'Unemployed', Austin 78736. Record shows ~134 prior FEC donations, but itemized FEC records could not be retrieved (OpenFEC HTTP 429; OpenSecrets 403), so specific recipients and any ideological PACs could not be verified. No TX lobbyist registration. Common name — specific individual not independently corroborated.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dd0e180500e87f1f",
+    "name": "Hollingsworth, Wayne",
+    "resolved_employer": "Armbrust & Brown, PLLC (tax/corporate/real-estate attorney and CPA)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Wayne S. Hollingsworth is a tax/corporate/real-estate attorney and CPA at Armbrust & Brown PLLC in Austin (100 Congress Ave); Baylor Law 1984, TX Bar since 1984. Record fields were swapped as noted. Bio lists only professional bar/CPA memberships, no board seats or policy-advocacy roles.",
+    "source_url": "https://www.abaustin.com/the-team/wayne-hollingsworth/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "deaa98022c28d4b7",
+    "name": "Reynolds, George",
+    "resolved_employer": "Cybereason (Sr. Director, User Experience; now VP UX Design at Tricentis)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "George Reynolds is an Austin-based UX leader; was Sr. Director of User Experience at Cybereason (cybersecurity), previously SolarWinds and Spiceworks, now VP UX Design at Tricentis. Austin location and employer match the record.",
+    "source_url": "https://www.linkedin.com/in/george-reynolds-1142483/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e0a9d133574a2292",
+    "name": "Griggs, John",
+    "resolved_employer": "Presidium (Co-Founder & Co-CEO, real estate investment/development), Dallas 75225",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "John Griggs is Co-Founder and Co-CEO of Presidium, a Dallas-based vertically integrated multifamily real estate investment/development firm; former corporate lawyer at Milbank and Wilson Sonsini. Board seats are professional/educational (Young Presidents' Organization, Stanford Professionals in Real Estate, Weiser Center for Real Estate at U-Michigan) — not policy advocacy. No ideological PACs confirmed.",
+    "source_url": "https://www.presidiumre.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e229997b40b89865",
+    "name": "Sanchez, Sergio",
+    "resolved_employer": "LOC Consultants (Austin civil/structural/environmental engineering firm), principal",
+    "industry": "Engineering",
+    "confidence": "medium",
+    "evidence": "Employer 'LOC Consult' resolves to LOC Consultants, an Austin civil/structural/environmental engineering firm founded by Sergio Lozano-Sanchez (PE); Austin 78741 and 'Principal' title align. This is NOT the McAllen/Rio Grande Valley Republican radio host Sergio Sanchez (KURV 710) — different location, no LOC/engineering tie. Name variant (Lozano-Sanchez vs Sanchez) keeps confidence at medium. No PAC or lobbyist records.",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/sergio-lozano-sanchez/32867223.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e25fddd011ce6acc",
+    "name": "Barber, Kristina",
+    "resolved_employer": "CBRE (accountant; commercial real estate services firm)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Kristina Barber's LinkedIn confirms she works at CBRE and is Austin-based (education Purdue University Global). Occupation 'Accountant' at CBRE per record; categorized by employer (CBRE = commercial real estate services). Limited public profile beyond LinkedIn. No PAC or lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/kristina-barber-41594a136/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e5869a455cee5f36",
+    "name": "Carlson, Michelle",
+    "resolved_employer": "Carlson Law, PLLC (founding member; commercial real estate attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Michelle Lokey Carlson, founding member of Carlson Law PLLC, commercial/real estate attorney at 2604 Wooldridge Dr, Austin TX 78703 (zip matches). Records show she gave $450 as 'attorney, Carlson Law PLLC' in Nov 2022 and earlier as an Armbrust & Brown attorney. No PAC or lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/michelle-carlson-b88573b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e5a812295ac929be",
+    "name": "Setzer, Kathy",
+    "resolved_employer": "Heywood Hotel (Owner / General Manager)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Kathy Setzer is Owner/GM of the Heywood Hotel, a boutique hotel on Cesar Chavez in east Austin (near 78741); prior career at IBM, projekt202, frog design. Listed occupation 'Hotel Manager' / employer 'Heywood Hotel' matches exactly. No PAC or lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/kathysetzer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6a42e1425d8c73a",
+    "name": "Turner, Scott",
+    "resolved_employer": "Riverside Homes LLC / Turner Residential LLC (owner; custom home builder)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Scott Turner, owner/founder of Riverside Homes and Turner Residential, a Central Austin custom home builder since 1996 and 2022 president of the Home Builders Association of Greater Austin. Occupation 'self' / 'Home Builder' matches; 78731 residence plausible but not directly confirmed. Distinct from same-named HUD Secretary/ex-NFL player.",
+    "source_url": "https://www.riversidehomesaustin.com/our-team/scott-turner",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Home Builders Association of Greater Austin", "role": "2022 President; advocate for zoning code updates and 'missing middle' housing", "category": "business", "source_url": "https://www.riversidehomesaustin.com/our-team/scott-turner", "snippet": "Served as 2022 HBA of Greater Austin president; helped update Austin's building code and advocates for missing-middle housing (duplex/triplex/townhome)."}
+    ]
+  },
+  {
+    "donor_id": "e76f478bd389f8a0",
+    "name": "Dean, Carter",
+    "resolved_employer": "Armbrust & Brown, PLLC (Partner; municipal utility district / real estate / municipal law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Carter W. Dean, promoted to Partner at Armbrust & Brown PLLC in March 2025; practices municipal utility district, real estate and municipal law representing developers and landowners. UT Austin BA (2014), UT Law JD (2017). Employer and attorney occupation match; 78746 (Westlake) consistent.",
+    "source_url": "https://www.abaustin.com/the-team/carter-dean/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e8e570894879e0dc",
+    "name": "Jamroz, David",
+    "resolved_employer": "Journeyman Group (Austin commercial construction firm; senior/VP-level role, prior listing as Senior Estimator)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "David Jamroz appears on Journeyman Group's Austin-based construction team (prior listing as Senior Estimator); Journeyman Group is a Texas commercial builder ($1.5B completed, 10,000+ multifamily units). Uncommon name plus Austin construction and 78759 (NW Austin) consistent with swapped 'Journeyman Construction' / 'VP' fields. Current title not confirmed on live page.",
+    "source_url": "https://www.journeymangroup.com/construction",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e967f83b46832aaa",
+    "name": "Palandino, Pamela",
+    "resolved_employer": "NCP Equity LLC — small Austin family holding/equity LLC (78702); works in Human Resources",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Pamela Palandino is a managing member of NCP Equity LLC, a family entity registered in Austin 78702 (co-managing member/registered agent Christopher Palandino, likely household-related; Christopher separately gave to this race). Occupation 'Human Resources.' No public bio, PAC, or lobbyist records; business sector of the LLC is indeterminate, so no industry assigned.",
+    "source_url": "https://opencorporates.com/companies/us_tx/0801802274",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eca361869681f0aa",
+    "name": "Moceri, Susan",
+    "resolved_employer": "Homemaker (not employed); household tied to the Austin Moceri family (relative Cross Moceri is Co-Founder/Co-CEO of Presidium, a large multifamily real estate firm at 1601 Rio Grande St, Austin 78701)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Susan (Beth) Moceri, Austin 78701, self-described homemaker. Public records link her to the Austin Moceri family (relative Cross Moceri, Co-CEO of Presidium, whose office is in the same 78701 zip). Household ties suggest real estate wealth, but she herself is not employed; no personal PAC or lobbyist records found.",
+    "source_url": "https://www.presidiumre.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f5e2d3e90550250b",
+    "name": "Reese, Gina",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-described community volunteer, Austin 78701, employer 'NA.' Common name; could not confirm a specific individual. A 'Donald J & Gina Reese' hold Austin-area mineral rights, but ownership alone is not advocacy-relevant and identity is unconfirmed. No PAC or lobbyist records. Quiet outcome.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f69432479de32895",
+    "name": "Curp, Tony",
+    "resolved_employer": "Kairoi Residential — Senior Vice President of Development (Austin & Nashville markets); 20+ yrs real estate, $1B+ in transactions; JD, Univ. of Missouri-Kansas City; formerly VP Development at Aspen Heights",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed via Kairoi Residential firm bio: SVP of Development at Kairoi, a major Austin multifamily developer. Matches donor occupation 'Real Estate' / employer 'Kairoi Residential.' No board seats, PAC, or lobbyist records disclosed on bio or in searches.",
+    "source_url": "https://www.kairoi.com/about-kairoi/our-team/tony-curp/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f99e47f4f71c4564",
+    "name": "Khanlari, Mahan",
+    "resolved_employer": "University of Texas at Austin — student (B.S. Astronomy & B.S. Physics, 2024 CNS Dean's Honored Graduate); HETDEX astrophysics research",
+    "industry": "Student",
+    "confidence": "medium",
+    "evidence": "Mahan Khanlari, Austin 78705 (UT campus area), UT Austin astronomy/physics student and 2024 College of Natural Sciences Dean's Honored Graduate; astrophysics/ML research on HETDEX. Matches donor occupation 'Student' / employer 'UT.' No PAC or lobbyist records.",
+    "source_url": "https://cns.utexas.edu/news/accolades/celebrating-2024-college-natural-sciences-deans-honored-graduates",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

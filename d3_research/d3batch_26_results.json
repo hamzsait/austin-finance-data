@@ -1,0 +1,226 @@
+[
+  {
+    "donor_id": "8a75b5ea16f6907f",
+    "name": "Ramos-Lynch, Michael",
+    "resolved_employer": "Ramos-Lynch Law Office, PLLC (principal attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Michael Anthony Ramos-Lynch, Austin TX attorney (State Bar of TX, zip 78724 matches). Solo firm focused on NDAs, commercial contracts and tech transactions. JD (Distinction) + MS Management Science & Engineering from Stanford; formerly at DLA Piper and advisor at Innovation Endeavors (VC). No policy-advocacy affiliations surfaced.",
+    "source_url": "https://ramoslynchlaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8abf8e4fb745d55f",
+    "name": "Castro, Nicole",
+    "resolved_employer": "Metcalfe Wolff Stuart & Williams, LLP (partner, commercial real estate attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Nicole Castro, partner at Metcalfe Wolff Stuart & Williams (Austin commercial real estate law firm; employer string matches). JD UT-Austin 2001 cum laude, BBA Finance UT 1994; represents developers, landlords and government agencies in CRE transactions. A $450 out-of-state PAC contribution appears in a 2022 Kirk Watson report under 'Nicole Castro' but could not be corroborated to this individual, so not attributed. No lobbyist registration; no federal PAC record.",
+    "source_url": "https://mwswtexas.com/our-people/nicole-castro/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Member", "category": "business", "source_url": "https://mwswtexas.com/our-people/nicole-castro/", "snippet": "Professional Memberships & Affiliations: State Bar of Texas - Real Estate, Probate and Tax Section; Real Estate Council of Austin; Austin Bar Association"}
+    ]
+  },
+  {
+    "donor_id": "8c2f31469faccd10",
+    "name": "Watsa, Nayantara",
+    "resolved_employer": "Tiko (Chief Strategy & Development Officer) - global adolescent-health nonprofit/social enterprise; formerly Mann Global Health and Living Goods",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Nayantara (Csaszar) Watsa is listed as Chief Strategy & Development Officer on Tiko's team page (employer string 'Tiko USA' matches; DC zip 20015 consistent with US-based global-health professional). MPH/MBA; prior Director of Strategic Growth at Mann Global Health and Deputy Director, Business Development at Living Goods. Work is global public-health financing/fundraising, not domestic policy advocacy. No FEC PAC record, no TX lobbyist registration.",
+    "source_url": "https://tiko.org/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8d2e298407a2eebb",
+    "name": "Millican, James",
+    "resolved_employer": "Self-employed (specific field/business not identifiable from public records)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Donor lists employer 'Self' / occupation 'Employed' in West Bloomfield Township, MI (48323); 29 federal contributions suggest an active small-dollar ActBlue-style donor. Multiple James Millicans appear on LinkedIn but none could be tied to this West Bloomfield self-employed record (the 'JEM Enterprises' owner is in El Paso, TX; a Cox Automotive PM and an Apple program manager are separate people). Could not confirm which individual this is. FEC OpenFEC API was rate-limited (HTTP 429) for the session, so the granular 29-donation PAC history could not be enumerated.",
+    "source_url": "https://www.linkedin.com/pub/dir/James/Millican",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "988292f62ac618ad",
+    "name": "Ibarra, Nicole",
+    "resolved_employer": "Habanero Mexican Cafe (family-owned Austin restaurant, 501 W. Oltorf St.) - manager / 'owner in training'",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Nicole 'Nikki' Ibarra manages the family-owned Habanero Mexican Cafe in South Austin (78704); the restaurant descends from the Ibarra family's Dos Hermanos restaurants (1970s). LinkedIn lists her as Manager at Habanero Mexican Cafe; her X profile says 'Owner in training.' Local restaurateur, no policy-advocacy affiliations found; no TX lobbyist registration or federal PAC activity surfaced.",
+    "source_url": "https://www.linkedin.com/in/nikki-ibarra-a82274103/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "99858f9fd0d7347e",
+    "name": "Siddiqui, Sameem",
+    "resolved_employer": "Product role at a technology company (self-reported occupation 'Product' / employer 'Tech'; specific employer unconfirmed)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Donor self-reports a product role in tech, Rockville, MD (20855). Public records (Veripages) corroborate a 'Sameem Z Siddiqui' in the Rockville area, but the name maps to several distinct people online (a Wayfair economist based in Boston with a UCSD econ PhD; a speculative-fiction author) and none could be firmly matched to this Rockville product/tech donor. Classified by self-reported occupation/employer only. No TX lobbyist registration and no federal PAC (AIPAC/J Street/etc.) hits surfaced.",
+    "source_url": "https://www.linkedin.com/pub/dir/Sameem/Siddiqui",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9be2c4b6c01c31ae",
+    "name": "Velasquez, Francis",
+    "resolved_employer": "Dan Hernandez Electric (electrician)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Electrician in Austin 78702 employed by Dan Hernandez Electric, a verified Austin-area electrical contractor (BBB/Yelp/TDLR-listed). Individual not independently profiled beyond employer and FEC donor record to Jose Velasquez; no unique public bio found.",
+    "source_url": "https://www.bbb.org/us/tx/lago-vista/profile/electrician/dan-hernandez-electric-0825-52888",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f3b5bcb0429fa93",
+    "name": "Reyna-Worthington, Jessica",
+    "resolved_employer": "Self-employed; Jessica Worthington Counseling (Licensed Marriage & Family Therapist Associate)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Jessica L. Reyna Worthington, MS, LMFT-Associate (TX license #202122), solo couples/marriage therapist in Austin (practice at 3811 Bee Cave Rd; donor zip 78760 is an Austin PO-box zip). Corroborated by NPI registry, Healthgrades, Psychology Today, and her own practice site. Occupation 'LMFT' / employer 'Self' matches exactly.",
+    "source_url": "https://npidb.org/doctors/behavioral_health/counselor_101y00000x/1306102967.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a219844b32ee15e2",
+    "name": "Ramos, Michael",
+    "resolved_employer": "Self-employed attorney; Ramos-Lynch Law Office (tech transactions / IP / business / real estate)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Donor 'Ramos, Michael' (self-employed lawyer, 78724) matches Michael Anthony Ramos-Lynch, a solo Austin attorney at 78724 (State Bar #24094909; LinkedIn 'Tech Transactions & NDA Attorney'; practice areas Business/IP/Real Estate). Same-person assessment: the shared 78724 zip and self-employed-lawyer occupation make 'Ramos, Michael' and 'Ramos-Lynch, Michael' (donor 8a75b5ea16f6907f) almost certainly the same individual. Note: ramoscounsel.com (NY/Bethesda/Santa Monica) is a different Michael Ramos and NOT this donor.",
+    "source_url": "https://www.avvo.com/attorneys/78724-tx-michael-ramoslynch-4686203.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a901bd98343ca0ca",
+    "name": "Vasquez, isabel",
+    "resolved_employer": "Austin Independent School District (AISD) - Accounts Payable / administrative role",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Self-reported occupation 'Accounts Payable' at 'Aisd' (Austin ISD) matches a LinkedIn profile for an Isabel Vasquez listed as Administrative Assistant at Austin Independent School District. Austin 78702 (East Austin) is consistent with an AISD employee giving to incumbent Velasquez.",
+    "source_url": "https://www.linkedin.com/in/isabel-vasquez-219737a6/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aac566652331a0b7",
+    "name": "Katz, Lauren",
+    "resolved_employer": "Higher-education institution (development/fundraising professional) in the Amherst, MA area",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Fundraising' with employer 'Higher Education' in Amherst, MA 01002 (home to Amherst College, UMass Amherst, Hampshire College). Multiple distinct 'Lauren Katz' LinkedIn profiles exist and none could be uniquely matched to this donor's zip/role, so specific individual could not be corroborated. Out-of-state donor to challenger Shah.",
+    "source_url": "https://www.linkedin.com/pub/dir/Lauren/Katz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b26258e0ce5ba8ee",
+    "name": "Cox, Will",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported. 'Will/William Cox' is a very common name in Austin 78731 with numerous unrelated matches (real estate agents, an attorney, sales professionals, multiple residential records). Cannot corroborate a specific individual, so no identity or industry assigned.",
+    "source_url": "https://www.instantcheckmate.com/amp/people/w-cox/texas/austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b559645e68dc679b",
+    "name": "Haltom, Cody",
+    "resolved_employer": "Self-employed independent art director & graphic designer (studio codyhaltom.com); former co-owner/creative director of Last Straw bar, Austin; partner in Trespasser photobook imprint",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Cody Haltom is a well-documented independent art director/designer who spent ~15 years in Austin (East Austin, 78702) before relocating to Santa Fe, NM in Oct 2023. Occupation 'Designer' and employer 'Myself' match his solo design practice exactly. No policy-advocacy affiliations found.",
+    "source_url": "https://codyhaltom.com/information/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b56e885cb54378e2",
+    "name": "Razo Torres, Laura",
+    "resolved_employer": "TRANSFR (VR career-training / edtech company) - Manager, Secondary Programs / career & technical education (CTE) and workforce placement; formerly Senior Associate, Career Readiness at Education Strategy Group",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Laura Razo is a Manager of Secondary Programs at TRANSFR based in Austin, TX, focused on CTE program development, workforce/job-placement pipelines and school partnerships. Employer 'TRANSFR', Austin location, and 'Job Placement Manager' occupation all corroborate. (Donor filed as 'Razo Torres'; LinkedIn/ZoomInfo use 'Laura Razo'.)",
+    "source_url": "https://www.zoominfo.com/p/Laura-Razo/5346998793",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b847c42792fcbb51",
+    "name": "Shakra, Fatima",
+    "resolved_employer": "IT professional (self-reported occupation 'IT Professional', employer filed as 'Confidential'; specific employer unconfirmed)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Donor to challenger Neha Shah, self-reported 'IT Professional' with a 'Confidential' employer. A Fatima Shakra is listed by Datanyze as an IT professional tied to H-E-B, but that page returned 403 and the H-E-B link is unconfirmed; the filed zip 77042 (Houston) contradicts the listed city 'Live Oak' (a San Antonio suburb), so the geographic record is internally inconsistent. Classified as Technology from the self-reported IT occupation only; no FEC or TEC records found.",
+    "source_url": "https://www.datanyze.com/people/Fatima-Shakra/-2033549800",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b8d9b7dd502e643e",
+    "name": "Boeta, Barbra",
+    "resolved_employer": "Texas Capital Bank - Vice President, Community Development Officer (Austin, TX region); formerly Central Region Director at PeopleFund (CDFI)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Clear match: VP/Community Development Officer at Texas Capital Bank, Austin area, Buda 78610 residence consistent with her Austin-region banking role. 2025 Texas Bankers Foundation LiFE award recipient. No political-advocacy affiliations found.",
+    "source_url": "https://texascapitalbank.com/node/4841",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b9299950da09c54e",
+    "name": "Beane, Benjamin",
+    "resolved_employer": "Education Resource Strategies (ERS), Watertown/Boston MA - Communications Lead; previously Community & Marketing Assistant at Austin ISD and Community Content Producer at Gannett in Austin",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Match confirmed via ERS staff bio: Communications Lead at ERS (education nonprofit); Boston 02130 zip matches; prior Austin ISD/Gannett-Austin work explains Austin ties and Velasquez donation. Bio lists no board seats or policy-advocacy memberships. No PAC or lobbyist records found.",
+    "source_url": "https://www.erstrategies.org/people/ben-beane/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bf1543acca2b8b23",
+    "name": "Stanford, Jason",
+    "resolved_employer": "Dallas ISD - Special Assistant to the Superintendent; longtime Democratic political consultant (founder, Stanford Research), author (Forget the Alamo, Adios Mofo), former communications director for Austin Mayor Steve Adler and former Chief of Communications at Austin ISD",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "The known Texas political consultant/writer, confirmed via Wikipedia and LinkedIn: Dallas ISD special assistant, formerly Austin ISD comms chief and Adler comms director. Dallas 75204 zip and prior Austin roles explain 55 FEC donations and Velasquez giving - consistent with a career Democratic operative. FEC API (429) and OpenSecrets (403) blocked live enumeration, but searches surfaced no single-issue PAC (AIPAC/J Street/oil-gas/gun/defense) activity or TX lobbyist registration.",
+    "source_url": "https://en.wikipedia.org/wiki/Jason_Stanford_(consultant)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c0ff2af7e1c35df0",
+    "name": "Arreaga, Becky",
+    "resolved_employer": "The Arreaga Agency (Farmers Insurance) - President/Agency owner; formerly co-founder/President of Mercury Mambo marketing agency",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Becky (Rebecca) Arreaga owns The Arreaga Agency - Farmers Insurance at 1107 S 8th St, Austin, TX 78704 (matches donor zip 78704). Former co-founder/President of Mercury Mambo marketing agency; entered insurance in 2019. No pro-Israel/pro-Palestine, oil/gas, gun, or defense affiliations found.",
+    "source_url": "https://agents.farmers.com/tx/austin/rebecca-arreaga/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin LGBT Chamber of Commerce", "role": "Board Member", "category": "civic", "source_url": "https://members.austinlgbtchamber.com/list/member/the-arreaga-agency-insurance-18550", "snippet": "The Arreaga Agency is a member of the Austin LGBT Chamber; Becky Arreaga serves as a Board Member for the Austin LGBT Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "c89d89eda2941b69",
+    "name": "Saenz, Victor",
+    "resolved_employer": "University of Texas at Austin - L.D. Haskew Centennial Professor in Public School Administration (Dept. of Educational Leadership & Policy); Associate Dean for Student Success, College of Education",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Victor B. Saenz, Ph.D., is a UT Austin professor in Educational Leadership & Policy and Associate Dean in the College of Education; co-founder of Project MALES. Donor zip 78723 and 'Professor / UT Austin' occupation match. FEC record shows a Victor Saenz (UT Austin professor, 78723) gave $250 to ActBlue on 03/06/2019 - consistent identity; ActBlue is a conduit, not a policy org, so no affiliation asserted. Not a registered TX lobbyist.",
+    "source_url": "https://education.utexas.edu/faculty/victor_saenz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

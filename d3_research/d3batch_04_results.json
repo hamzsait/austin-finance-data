@@ -1,0 +1,256 @@
+[
+ {
+  "donor_id": "d676bdd939901b4b",
+  "name": "Garza, Delia",
+  "resolved_employer": "Travis County (County Attorney)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Delia Garza, Travis County Attorney (since Jan 2021), former Austin City Council member (District 2) and Austin's first Latina mayor pro tem. FEC records confirm identity: Austin TX, employer 'Travis County'/'City of Austin', occupation Attorney/Council Member.",
+  "source_url": "https://ballotpedia.org/Delia_Garza",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic candidates/committees", "role": "Individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=garza+delia&contributor_state=TX&contributor_city=Austin", "snippet": "FEC records show recurring Democratic giving: Greg Casar for Congress ($200-$500 multiple cycles), Castro for Congress, Harris for President, and ActBlue. No AIPAC/pro-Israel, oil/gas, gun, or defense PAC contributions found."},
+   {"org": "Travis County / City of Austin", "role": "Elected official (County Attorney; former Council Member/Mayor Pro Tem)", "category": "civic", "source_url": "https://ballotpedia.org/Delia_Garza", "snippet": "First Latina on Austin City Council and first Latina Travis County Attorney; ran on criminal-justice-reform platform."}
+  ]
+ },
+ {
+  "donor_id": "e4d1e08de9650aaf",
+  "name": "Valdes, Cristina",
+  "resolved_employer": "Self / Chancla Ventures LLC (REALTOR, Austin)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Austin REALTOR (active since 2001), works with the Corazon Team; NAHREP Top 250 Latino REALTORS. FEC records directly confirm employer 'Chancla Ventures' and 'Realty Austin', occupation Realtor, zip 78702.",
+  "source_url": "https://bramlettpartners.com/agents/cristina-valdes",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic candidates/committees", "role": "Individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=valdes+cristina&contributor_state=TX", "snippet": "FEC records show consistent Democratic giving: Beto for Texas/America (up to $2,450), Jon Ossoff, Warnock for Georgia, Fair Fight PAC, Jaime Harrison, Obama for America. No AIPAC/pro-Israel, pro-Palestine, oil/gas, gun, or defense PAC contributions found."},
+   {"org": "NAHREP (National Assoc. of Hispanic Real Estate Professionals)", "role": "Top 250 Latino REALTOR honoree", "category": "business", "source_url": "https://bramlettpartners.com/agents/cristina-valdes", "snippet": "Recognized by NAHREP in the Top 250 Latino REALTORS nationally and #52 among Texas Latino agents."}
+  ]
+ },
+ {
+  "donor_id": "b5ec03deee5d3253",
+  "name": "Dunaway, Travis",
+  "resolved_employer": "Endeavor Real Estate Group (Principal, Office & Industrial Leasing)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Travis Dunaway, Principal at Endeavor Real Estate Group (22 yrs), leads Office & Industrial Leasing/Research. FEC record confirms identity: Travis G Dunaway, Austin TX 78703.",
+  "source_url": "https://www.endeavor-re.com/about/team/travis-dunaway/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "John Cornyn for Senate", "role": "Individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=dunaway+travis&contributor_state=TX", "snippet": "FEC record shows $1,000 to John Cornyn for Senate (2002), Austin TX 78703 (Republican). No AIPAC/pro-Israel, oil/gas, gun, or defense PAC contributions found."},
+   {"org": "Downtown Austin Alliance; CCIM Central Texas; Central Texas Commercial Assoc. of Realtors; Commercial Brokers Association", "role": "Past President (CCIM) and former board member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/travis-dunaway/", "snippet": "Bio lists Past President of CCIM Central Texas Chapter and former board seats on the Downtown Austin Alliance, Commercial Brokers Association, and Central Texas Commercial Association of Realtors."}
+  ]
+ },
+ {
+  "donor_id": "ad535b17ae6a2dea",
+  "name": "Tate, Jonathan",
+  "resolved_employer": "Endeavor Real Estate Group (Principal, Office & Industrial Division)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jonathan Tate, Principal at Endeavor Real Estate Group, oversees Office/Industrial brokerage; McCombs MBA. FEC record confirms Jonathan Tate, employer Endeavor, occupation Real Estate, Austin TX (78746 in 2015 filing; donor file lists 78703). Employer+occupation match is definitive.",
+  "source_url": "https://www.endeavor-re.com/about/team/jonathan-tate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Right to Rise USA (Jeb Bush super PAC)", "role": "Individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=tate+jonathan&contributor_state=TX&contributor_city=Austin", "snippet": "FEC record shows $500 to Right to Rise USA (2015), the pro-Jeb Bush Republican super PAC; employer Endeavor, occupation Real Estate. No AIPAC/pro-Israel, oil/gas, gun, or defense PAC contributions found."},
+   {"org": "Commercial Brokers Association; Real Estate Council of Austin; Urban Land Institute Young Leaders", "role": "CBA Treasurer/Past President; RECA committee member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/jonathan-tate/", "snippet": "Bio lists board/Treasurer/Past President roles at the Commercial Brokers Association, RECA committee/Leadership Development Council membership, and former ULI Young Leaders Group member."}
+  ]
+ },
+ {
+  "donor_id": "694412bec4cca470",
+  "name": "Palmer, Geoffrey",
+  "resolved_employer": "Endeavor Real Estate Group, Ltd",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Principal at Endeavor Real Estate Group (Austin), leads downtown high-rise/mixed-use development ($1.6B+ transactions). FEC individual-contribution records confirm 'PALMER, GEOFFREY / ENDEAVOR REAL ESTATE GROUP / Real Estate/Principal' in Austin TX. FEC shows zip 78701 vs. donor-list 78734 (Lakeway) but name+employer+occupation match the same person. No TX lobbyist registration found.",
+  "source_url": "https://www.endeavor-re.com/about/team/geoffrey-palmer/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Now Electing Honest Leadership and Service PAC (Rep. Troy Nehls leadership PAC) / Nehls for Congress / WinRed", "role": "Donor", "category": "political", "source_url": "https://www.opensecrets.org/political-action-committees-pacs/now-electing-honest-leadership-service-pac/C00757120/summary/2024", "snippet": "FEC records show Geoffrey Palmer (Endeavor Real Estate) gave $5,000 (2025-03-04) to Troy Nehls's leadership PAC, $2,000 to Nehls for Congress, and WinRed contributions - a Republican federal giving pattern."},
+   {"org": "King Benjamin Foundation / Escalera", "role": "Board member (King Benjamin Foundation); former board member (Escalera)", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/geoffrey-palmer/", "snippet": "Firm bio lists Palmer as a King Benjamin Foundation board member and former Escalera board member."},
+   {"org": "Real Estate Council of Austin (RECA); Urban Land Institute", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/geoffrey-palmer/", "snippet": "Bio lists RECA and ULI memberships - commercial real estate industry/advocacy bodies."}
+  ]
+ },
+ {
+  "donor_id": "31991700f17821f4",
+  "name": "Martinez, Ana Maria",
+  "resolved_employer": "AFL-CIO (retired)",
+  "industry": "Labor",
+  "confidence": "low",
+  "evidence": "FEC donor field lists employer AFL-CIO, occupation Retired, with a very high count (~262) of small-dollar contributions typical of a recurring ActBlue-style Democratic/labor donor. 'Ana Maria Martinez' is a common name and no public bio, LinkedIn, or news item uniquely corroborates this specific Austin (78745) individual. Industry assigned via employer fallback (AFL-CIO = Labor). No TX lobbyist registration found; no distinct pro-Israel/oil-gas/gun/defense PAC record surfaced for the confirmed individual.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ana+maria+martinez&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "55fedaa48cca0d88",
+  "name": "Lickteig, Josh",
+  "resolved_employer": "Endeavor Real Estate Group",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Principal at Endeavor Real Estate Group (Austin); UT-Austin MBA; leads $1B+ office/industrial/multifamily/mixed-use acquisitions and development. Identity corroborated by firm bio and RECA member spotlight. No TX lobbyist registration found; no federal PAC contribution record surfaced (FEC API rate-limited during retrieval, but name/state searches run).",
+  "source_url": "https://www.endeavor-re.com/about/team/josh-lickteig/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of Austin (RECA)", "role": "2024 Board Chair", "category": "business", "source_url": "https://www.reca.org/member-spotlights/josh-lickteig", "snippet": "RECA member spotlight identifies Lickteig as the 2024 RECA Board Chair, leading Austin's largest commercial real estate advocacy organization."}
+  ]
+ },
+ {
+  "donor_id": "1d5c8218c3c51d1e",
+  "name": "Meza, Matthew",
+  "resolved_employer": "Presidium Group, LLC (General Counsel)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "General Counsel at Presidium (Austin), 30+ years commercial real estate law; formerly partner at Halling Meza LLP and attorney at Milbank; UC Berkeley A.B., Michigan J.D. FEC records confirm 'MEZA, MATTHEW / AUSTIN / 78735 / PRESIDIUM / LAWYER' making ~$226 total in small ActBlue contributions (2019-2024). No TX lobbyist registration found.",
+  "source_url": "https://www.presidiumre.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue (Democratic candidates/committees)", "role": "Small-dollar donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=matthew+meza&contributor_state=TX", "snippet": "FEC records show Meza (Presidium, Austin 78735) made a series of small ActBlue contributions ($1-$50) between 2019-2024, a Democratic-leaning small-dollar pattern."}
+  ]
+ },
+ {
+  "donor_id": "2ecb5aa087b4547b",
+  "name": "Whitworth, David",
+  "resolved_employer": "Whitworth Homes (David Whitworth Development Company)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Central Austin infill/custom home builder since 2004, former civil engineer (UT Austin), lives in Hyde Park (Central Austin, consistent with 78751). Wrote 2020 Austin Chronicle op-ed advocating denser housing and by-right permitting. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.whitworth-homes.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Pro-housing / density reform advocacy (informal)", "role": "Op-ed author / advocate", "category": "civic", "source_url": "https://www.austinchronicle.com/columns/2020-09-11/opinion-time-to-look-in-the-mirror-on-housing/", "snippet": "Whitworth publicly advocates ending strict single-family zoning, allowing 'denser row housing and tri-flats' and by-right permitting: 'Are we preserving Austin for the buildings or for the people?'"}
+  ]
+ },
+ {
+  "donor_id": "b45f87d4eedbb7bb",
+  "name": "ferraro, Charles",
+  "resolved_employer": "Hotel Vegas / The Long Goodbye (co-owner)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Charles Ferraro is co-founder/co-owner of Hotel Vegas (East 6th live music bar) and co-owner of The Long Goodbye at 2808 Manor (East Austin, consistent with 78722); ~25 years in Austin live-music scene; also runs GAT5 Studio. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://tribeza.com/restaurants/bars/the-long-goodbye-east-austin-nightlife/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d27619111136cd3",
+  "name": "Corona, Christina",
+  "resolved_employer": "Emerson (Chief of Staff Global Operations / Head of Operational Excellence); formerly NXP Semiconductors (Director)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "LinkedIn (christina-corona-atx) and business profiles confirm Austin-based operations/engineering director at NXP Semiconductors and current Emerson operations leadership role, matching listed employer and occupation. No FEC PAC or TX lobbyist records found (a 'Christina I. Gonzalez' lobbyist is a different person).",
+  "source_url": "https://www.linkedin.com/in/christina-corona-atx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e82a28ad7149947",
+  "name": "Van Meter, Sonia",
+  "resolved_employer": "Stanford Campaigns, LLC (Managing Partner)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Managing Partner of Austin-based opposition-research/political consulting firm Stanford Campaigns since 2009 (partner 2013); in political consulting 13+ years; corporate registry lists her as managing member in Austin. High FEC donation count (131) consistent with a political consultant.",
+  "source_url": "https://oppresearch.com/our-people",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic-aligned campaign clients (DCCC, DGA, EMILY's List, Planned Parenthood)", "role": "Consultant / Managing Partner", "category": "political", "source_url": "https://oppresearch.com/our-people", "snippet": "Firm bio: 'has worked alongside the DCCC, the DGA, EMILY's List, and Planned Parenthood, as well as dozens of corporate clients in need of due diligence research.'"}
+  ]
+ },
+ {
+  "donor_id": "7df81b9c1f82160f",
+  "name": "McIver, Diana",
+  "resolved_employer": "DMA Development Company / DMA Companies",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "President/owner of DMA Companies, a 40+ yr Austin affordable-housing developer (35+ communities, 3,500+ units); zip 78746 and occupation 'Real Estate Development' match exactly. Inducted into Affordable Housing Finance Hall of Fame (2021).",
+  "source_url": "https://dmacompanies.com/about-us/our-team/diana-mciver/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "TAAHP (Texas Affiliation of Affordable Housing Providers)", "role": "Past President; co-chair Federal Legislative Advisory Group / Governmental Affairs Committee", "category": "business", "source_url": "https://dmacompanies.com/about-us/our-team/diana-mciver/", "snippet": "Past President of TAAHP and co-chairs its Federal Legislative Advisory Group - housing-industry policy advocacy."},
+   {"org": "HousingWorks Austin", "role": "Board Member / Treasurer", "category": "civic", "source_url": "https://www.zoominfo.com/p/Diana-Mciver/3068075536", "snippet": "Board Member and Treasurer at HousingWorks Austin, a local housing-policy nonprofit."},
+   {"org": "Commission on Affordable Housing and Health Care Facility Needs for Seniors (21st Century)", "role": "Congressional appointee (2001)", "category": "civic", "source_url": "https://dmacompanies.com/about-us/our-team/diana-mciver/", "snippet": "Congressional appointment to the 14-member senior-housing commission reporting to Congress in 2002."}
+  ]
+ },
+ {
+  "donor_id": "711b0654b8c911ac",
+  "name": "Limon, Lonnie",
+  "resolved_employer": "Dieste Inc.",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Managing Director / Brand Leadership on Dieste's leadership team (Hispanic-market ad agency, ~136 employees); occupation 'Advertising' and employer 'Dieste Inc.' match. Confidence medium because Dieste is Dallas-based while donor zip is Austin 78704 (remote/relocation plausible).",
+  "source_url": "https://theorg.com/org/dieste/org-chart/lonnie-limon",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e0acaed51c56889a",
+  "name": "Guerrero, Denise",
+  "resolved_employer": "Donn's BBQ (Donn's Barbeque & Catering)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Co-owner/secretary of Donn's BBQ and wife of Jose Guerrero; same 78744 address and employer. Actively manages the family's three Austin BBQ locations.",
+  "source_url": "https://communityimpact.com/austin/southwest-austin-dripping-springs/2022/05/23/donns-bbq-cooks-up-authentic-texas-food-for-over-30-years-in-austin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e474fea962125b7a",
+  "name": "Guerrero, Jose",
+  "resolved_employer": "Donn's BBQ (Donn's Barbeque & Catering)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Owner/partner of Donn's BBQ; joined 1987 as cook, became partner with James Howell, family now runs all 3 Austin locations. Matches occupation 'Partner' and employer 'Donn's BBQ / Howell and Guerrero'.",
+  "source_url": "https://communityimpact.com/austin/southwest-austin-dripping-springs/2022/05/23/donns-bbq-cooks-up-authentic-texas-food-for-over-30-years-in-austin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c51b436145d26d8a",
+  "name": "McElrath, Daniel",
+  "resolved_employer": "Milestone Community Builders / Intracorp (Austin real estate development); also linked to River City Capital Partners / Sierra Real Estate Partners",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Austin-area real estate developer/project manager; public records associate Daniel McElrath with 'Milestone Community Builders, LLC' and LinkedIn shows real-estate capital/development roles, matching donor occupation 'Project Manager / real estate developer' and employer Intracorp/Milestone. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/daniel-mcelrath-09b0a58a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "197076b8bbfdea6e",
+  "name": "Fuentes & Curtis Smith, Vanessa",
+  "resolved_employer": "City of Austin (Vanessa Fuentes, Council Member District 2) / Texas Nursery & Landscape Association (Curtis Smith, Dir. Legislative & Regulatory Affairs)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Combined household of Austin City Council Member Vanessa Fuentes (District 2, elected 2020/re-elected 2024) and her husband Curtis Daniel Smith; the two married Dec 2019 and Smith is TNLA's Director of Legislative & Regulatory Affairs. Zip 78744 is in Fuentes's own District 2 (Dove Springs). Curtis Smith is a registered Texas lobbyist (Transparency USA / TEC). No federal PAC contributions surfaced.",
+  "source_url": "https://www.austintexas.gov/department/council-member-vanessa-fuentes-biography",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Austin City Council (District 2)", "role": "Council Member / Mayor Pro Tem (2025)", "category": "political", "source_url": "https://ballotpedia.org/Vanessa_Fuentes", "snippet": "Vanessa Fuentes represents Austin City Council District 2, elected 2020 and re-elected 2024; a Democrat, she chairs public health efforts."},
+   {"org": "Texas Nursery & Landscape Association (TNLA)", "role": "Registered Texas lobbyist / Director of Legislative & Regulatory Affairs (Curtis Smith)", "category": "business", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/curtis-d-smith-88829", "snippet": "Curtis D. Smith is listed as a registered Texas lobbyist; he leads TNLA's legislative/regulatory advocacy after 17+ years in Texas legislative staff roles."}
+  ]
+ },
+ {
+  "donor_id": "f41264e261c9c798",
+  "name": "Moceri Sr,, Cheryl and Cross",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Retired married couple at 1612 Buffalo Thunder, Leander TX 78641; public records match both Cheryl and Cross Moceri at that address (Cheryl formerly a teacher). Donation lists occupation 'retired/retired', so no current employer/industry. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://nationalpublicdata.com/people/c/moceri-cross/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "530cd59e00cfe3a6",
+  "name": "Frey, Daniel",
+  "resolved_employer": "Endeavor Real Estate Group (Principal, Retail)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Dan (Daniel) Frey is a Principal at Endeavor Real Estate Group in Austin (16 yrs), sourcing retail acquisition/development and doing tenant rep; TCU BBA. Matches donor occupation 'CRE' and employer 'ERG/Endeavor'. No FEC PAC contributions and not a registered TX lobbyist.",
+  "source_url": "https://www.endeavor-re.com/about/team/dan-frey/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of Austin", "role": "Leadership Development Council member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/dan-frey/", "snippet": "Frey's Endeavor bio lists membership on the Leadership Development Council of the Real Estate Council of Austin and the International Council of Shopping Centers."},
+   {"org": "Austin Community College Foundation", "role": "Former Board Member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/dan-frey/", "snippet": "Endeavor bio lists Frey as a former board member of the Austin Community College Foundation and Young Texans Against Cancer."}
+  ]
+ }
+]

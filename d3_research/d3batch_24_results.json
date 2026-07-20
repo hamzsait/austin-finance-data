@@ -1,0 +1,249 @@
+[
+  {
+    "donor_id": "0ce34facf4a03623",
+    "name": "Haben, Michelle",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed occupation/employer as NA in zip 78727 (North Austin). No public profile, FEC PAC record, or TX lobbyist entry could be tied to a Michelle Haben in Austin with corroborating detail. Cannot confirm the specific individual.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0ff2176a5e069b02",
+    "name": "Spann, Julia",
+    "resolved_employer": "The SAFE Alliance (Central Texas anti-abuse/domestic-violence nonprofit) — CEO",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Employer 'The SAFE Alliance' and occupation 'Non profit administrator' match exactly. Julia Spann is the named CEO of The SAFE Alliance (formerly Co-CEO), a social worker with 24+ years at SAFE and its predecessor agencies (SafePlace). Austin-based.",
+    "source_url": "https://www.safeaustin.org/meet-julia-spann-safes-ceo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1017fa99a8c4d9ef",
+    "name": "Hernandez, Krista",
+    "resolved_employer": "Self-employed (unspecified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed occupation and employer both as 'Self' in zip 78747 (far South Austin), 2026 cycle. 'Krista Hernandez' is a very common name; no FEC PAC record, TX lobbyist entry, or public profile could be confirmed as this specific person. Only unrelated same-named individuals found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "13f9a51bb815e485",
+    "name": "Garza, Roger",
+    "resolved_employer": "Democratic/progressive political strategist; formerly Deputy National Political Director at the National Democratic Redistricting Committee (NDRC); as of March 2024, Texas State Director for GIFFORDS (gun-safety org)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Occupation 'NDRC' + employer 'Political Strategist' match exactly: Roger Garza was Deputy National Political Director at the National Democratic Redistricting Committee and has run a boutique Democratic political consulting firm since 2011 (chief strategist for Rep. Colin Allred's 2018 win). Austin-based. Now leads GIFFORDS' Texas gun-safety program.",
+    "source_url": "https://giffords.org/press-release/2024/03/giffords-announces-roger-garza-as-texas-state-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "GIFFORDS",
+        "role": "Texas State Director",
+        "category": "gun_control",
+        "source_url": "https://giffords.org/press-release/2024/03/giffords-announces-roger-garza-as-texas-state-director/",
+        "snippet": "Garza serves as Texas State Director for GIFFORDS, overseeing state-based gun-safety strategy including policy, coalition building, political campaigns, community violence intervention, and litigation."
+      },
+      {
+        "org": "National Democratic Redistricting Committee (NDRC) / Democratic campaigns",
+        "role": "Deputy National Political Director; Democratic political consultant",
+        "category": "political",
+        "source_url": "https://giffords.org/press-release/2024/03/giffords-announces-roger-garza-as-texas-state-director/",
+        "snippet": "Served as Deputy National Political Director for the NDRC and chief strategist for Rep. Colin Allred's 2018 election; ran a Democratic/progressive political consulting firm across dozens of Texas campaigns."
+      }
+    ]
+  },
+  {
+    "donor_id": "140444ff5e3d4d99",
+    "name": "Villarreal, Melissa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor deliberately listed both occupation and employer as 'Anonymous' in zip 78744 (Southeast Austin), 2022 cycle. 'Melissa Villarreal' is a very common Texas name; no FEC PAC record, TX lobbyist entry, or public profile could be tied to this specific person. Identity unresolvable.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14058600ffd1aa18",
+    "name": "Koske, Philip",
+    "resolved_employer": "Nudge Design (co-founder & Principal Landscape Architect), Austin TX",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Philip Koske, PLA, LEED AP, co-founded Nudge Design (2017) with Brian Ott; Austin-based landscape architect working on TX public/private projects since 2003 (prior: Design Workshop, TBG Partners, Reich Associates). Occupation/employer match the donation record exactly.",
+    "source_url": "https://www.nudgedesign.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14841dda27d62de4",
+    "name": "Garcia, Blanca",
+    "resolved_employer": "Self-employed real estate broker (likely broker/owner of Casa Blanca Realty, Austin — unconfirmed)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Occupation 'Real Estate Broker, Self' matches Blanca Zamora Garcia, broker/owner of Casa Blanca Realty (~23 yrs licensed), but her listed business address is 78704 vs the donor's 78744, and 'Blanca Garcia' is a very common name in Austin, so the specific person cannot be confirmed. Industry assigned from stated occupation; no affiliations found.",
+    "source_url": "https://www.har.com/casa-blanca-realty/broker_ABORTX-3208",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1f9bc2e3b4a3adfc",
+    "name": "Cox, William",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donation record lists occupation and employer as 'Requested' (unknown). 'William Cox' in 78702 is a very common name; candidates surfaced (a TX Indigent Defense Commission staffer, a Hunton attorney, an Austin LinkedIn profile) but none could be tied to this donor. No PAC or lobbyist records confirmable. Cannot identify the specific person.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "21c995c84e4a7458",
+    "name": "Rodriguez, Eduardo",
+    "resolved_employer": "Capstone Title, Austin — VP / Commercial Business Development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Eduardo Rene 'Eddie' Rodriguez — former Texas State Representative (District 51, ~2003–2023, Democrat) representing Central/East Austin and SE Travis County; since 2017 a VP for Commercial Business Development at Capstone Title (a real estate title/escrow firm). Occupation 'Business Development', employer 'Capstone Title', and zip 78701 all match. Not found on current TX lobbyist registry.",
+    "source_url": "https://www.capstonetitletx.com/team.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 51)", "role": "Former State Representative (Democrat), ~20 years", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Eddie_Rodriguez_(politician)", "snippet": "Eduardo Rene 'Eddie' Rodriguez, former Texas House member representing Central/East Austin, focused on economic development, affordable housing, and public education."},
+      {"org": "Austin Habitat for Humanity", "role": "Board member", "category": "civic", "source_url": "https://www.capstonetitletx.com/team.html", "snippet": "Served on the boards of Austin Habitat for Humanity, Urban Roots, the Alliance for Public Transportation, and the Economic Growth Business Incubator."},
+      {"org": "Alliance for Public Transportation", "role": "Board member", "category": "civic", "source_url": "https://www.capstonetitletx.com/team.html", "snippet": "Board service listed in Capstone Title bio; transportation-advocacy nonprofit."}
+    ]
+  },
+  {
+    "donor_id": "278ff2cc33de1d02",
+    "name": "Perkins, Javier",
+    "resolved_employer": "Austin Regional Clinic (ARC) — radiographer",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Donation record lists occupation 'Radiographer' at 'ARC' (Austin Regional Clinic), a large Austin multi-specialty healthcare group, consistent with zip 78702. No independent public profile (LinkedIn/news/bio) for this specific individual was found; industry assigned via employer fallback. No PAC or lobbyist records.",
+    "source_url": "https://www.austinregionalclinic.com/services/radiology-services",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "27bdd5c05a24b509",
+    "name": "Land, Craig",
+    "resolved_employer": "One Development LLC (principal/owner) — Austin real-estate development, construction & project-management firm",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Craig Land is principal/owner of One Development (onedevelopment.com), a commercial real-estate development/construction firm in Austin; 25+ yrs in CRE, former Balfour Beatty central-Texas operations lead. Firm bio and LinkedIn confirm Austin location and occupation matching the 'Owner / One Development Solutions' listing.",
+    "source_url": "https://www.onedevelopment.com/team/craig-land",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a1837d2401dd523",
+    "name": "Stern, Lonny",
+    "resolved_employer": "Austin Transit Partnership (Community Engagement / Public Involvement Manager at time of donation); now Executive Director of Movability (transportation demand-management nonprofit)",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Lonny Stern (MPA) is a well-known Austin transit/mobility professional: led community engagement for Austin Transit Partnership on Project Connect light rail, previously at Capital Metro, now Executive Director at Movability. Location, employer and occupation match the donation record.",
+    "source_url": "https://www.linkedin.com/in/lonnystern/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Movability (Austin transportation management association / nonprofit)",
+        "role": "Executive Director",
+        "category": "civic",
+        "source_url": "https://www.zoominfo.com/p/Lonny-Stern/11424872684",
+        "snippet": "Currently Executive Director at Movability, previously Public Involvement / Community Engagement roles at Austin Transit Partnership and Capital Metro."
+      }
+    ]
+  },
+  {
+    "donor_id": "2a4102989d3e9dd6",
+    "name": "Ghilarducci, Ali",
+    "resolved_employer": "Austin Independent School District — Chief Communications & Community Engagement Officer (formerly Assistant Director, Community Engagement)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Ali (Alison) Ghilarducci leads Austin ISD's Communications & Community Engagement department; joined district in 2017. Prior roles at Austin Voices for Education and Youth and Literacy Coalition of Central Texas. Employer/occupation match the 'Communications / Austin ISD' listing.",
+    "source_url": "https://www.austinisd.org/about-us/leadership",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2c6eab9f91c5bc6f",
+    "name": "Gellhaus, Aaron",
+    "resolved_employer": "BigCommerce — enterprise sales / revenue leadership",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Aaron Gellhaus is a BigCommerce (Austin ecommerce-software company) enterprise-sales executive; UT Austin MPA. Prior roles at Granicus, SourceDay, CareerPlug. Employer/occupation ('Software / BigCommerce') and Austin ties match the donation record.",
+    "source_url": "https://www.linkedin.com/in/aaron-gellhaus-43224923/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "30868c1e9dfba19a",
+    "name": "Villegas, Adrian",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donation record lists only an email (adrian_villegas@hotmail.com) for occupation/employer — no confirmable employer. A prominent Adrian Villegas is the Austin playwright/comedian and Artistic Director of the Latino Comedy Project, associated with South Austin (78704); a donation to a Latino council incumbent fits that profile, but the common name plus absence of any occupation/employer detail means the specific individual cannot be confirmed. Industry left null per no-guess rule.",
+    "source_url": "https://latinxpoplab.la.utexas.edu/creatives/adrian-villegas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "30f57849c46173b9",
+    "name": "Chamness, Joyita",
+    "resolved_employer": "Constellation Brands (beer/wine/spirits producer) — Business/Corporate Strategy, Chicago",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "LinkedIn directory places Joyita Chamness in a business-strategy role at Constellation Brands (occupation 'Corporate Strategy', zip 60640 Uptown Chicago). A public wedding registry ('joyita-bhaskar-graham-chamness') corroborates the name. No clean taxonomy fit for a beverage-alcohol CPG strategist, so industry left null.",
+    "source_url": "https://www.linkedin.com/company/constellation-brands",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "38225f2cb5fc8518",
+    "name": "Westover, Clinton",
+    "resolved_employer": "Agiloft (contract-lifecycle-management software) — Principal Solutions Consultant, Chicago",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn and TheOrg both confirm Clinton Westover as Principal Solutions Consultant at Agiloft, a CLM software company; Chicago-based, matching occupation 'Consultant', employer 'Agiloft', and zip 60657 (Lakeview). Presents CLM/software webinars.",
+    "source_url": "https://theorg.com/org/agiloft/teams/solutions-consulting",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "385fa5cd87e8e148",
+    "name": "Maynard, Scott",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation 'Engineer' with generic employer 'Tech' in zip 78703 (central Austin). Multiple distinct people named Scott Maynard surface (a Grant Thornton advisor, a business-strategy/sales leader, an Austin hair salon, a Steckler-law attorney) with none confirmable as an Austin tech engineer. Could not corroborate the specific individual, so no industry assigned.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3ad7d1095c4fb7b0",
+    "name": "Duran, Angela",
+    "resolved_employer": "Self-employed, real estate (per donor filing)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Donor self-reports real estate / self-employed at zip 78748 (south Austin). A public people-search record lists an Angela Duran at an address in 78748, consistent with location, but no verified real-estate license, brokerage, or professional profile was found to confirm this specific person. Industry reflects self-reported occupation only.",
+    "source_url": "https://ufind.name/Angela+Duran",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3dc999397e273d5c",
+    "name": "Boone, Alexandra",
+    "resolved_employer": "GarzaEMC, LLC (civil engineering, management & consulting firm, Austin) — Professional Engineer (P.E.)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "LinkedIn ('Alexandra Boone, P.E. - GarzaEMC') and firm/chamber listings confirm a licensed professional engineer at GarzaEMC, an Austin civil-engineering firm. Matches occupation 'Civil engineer', employer 'GarzaEMC', and Austin location (zip 78749).",
+    "source_url": "https://www.linkedin.com/in/alexandra-boone-p-e-10a70870",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

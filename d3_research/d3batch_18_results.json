@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "1cd99b63ac9d22a9",
+    "name": "Teich, Alexander",
+    "resolved_employer": "Self-employed CPA / IRS-registered tax preparer (Alexander Teich, CPA), Austin TX 78757",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "IRS-registered CPA and tax preparer in Austin at zip 78757, matching donor occupation 'CPA' and employer 'Self' exactly. No public board seats, PAC contributions, or lobbyist registration found.",
+    "source_url": "https://taxrpo.com/preparer/alexander-teich-austin-tx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26aceb99b6e485c2",
+    "name": "Tran, Keri",
+    "resolved_employer": "Self-employed dentist (Keri Tran, DDS, P.C.), Dallas, TX",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "A dentist named Keri Tran, DDS practices in Dallas (Keri Tran DDS, P.C.), matching donor occupation 'Dentist' and city Dallas; specific zip 75219 not independently confirmed. Out-of-town Shah donor. No PAC or lobbyist records found.",
+    "source_url": "https://www.corporationwiki.com/Texas/Dallas/keri-tran-dds-pc/37767749.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78e8926395b5e3c0",
+    "name": "Velasquez, Richard",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Richard Velasquez is a very common name in Texas; could not confirm the specific retiree at Austin zip 78745. No family relationship to incumbent Jose Velasquez is documented in any public source. No PAC or lobbyist records found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "87c275e858f26bee",
+    "name": "Hinojosa, Daniel",
+    "resolved_employer": "Self-employed data consultant (specific individual not confirmed)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Multiple public profiles for people named Daniel Hinojosa exist, but none could be confirmed as the specific Corpus Christi zip 78415 donor. Industry assigned via occupation fallback ('Data Consultant'/'Self'). No PAC or lobbyist records found.",
+    "source_url": "https://sessionize.com/daniel-hinojosa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "886fb844641f387d",
+    "name": "Reese, Andrew",
+    "resolved_employer": "Riverside Resources (Austin commercial real-estate investment/development firm)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Self-reported employer Riverside Resources is a confirmed privately held Austin commercial real-estate investment/development firm (founded 1990 by Don Reese, HQ on S. MoPac). Occupation 'Real Estate' and zip 78746 are consistent; could not independently confirm the specific individual Andrew Reese's role/title at the firm, so identity is corroborated by employer but not by a personal bio.",
+    "source_url": "https://www.mccombs.utexas.edu/wp-content/uploads/2024/12/Deans-Advisory-Council-Don-Reese.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Riverside Resources", "role": "Real estate (title unconfirmed)", "category": "business", "source_url": "https://www.riversideresources.com/", "snippet": "Riverside Resources is a privately held Austin-based commercial real-estate investment and development firm; donor self-reports 'Real Estate' at this employer."}
+    ]
+  },
+  {
+    "donor_id": "995a539159529322",
+    "name": "Mejia, Edith",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Homemaker (no employer) in Las Lomas, West Lake Hills 78746, an affluent enclave; gave $250 to Velasquez on 10/24/2022. No spouse/household member matching a real-estate or lobbyist figure could be identified in public records, and no FEC or TX-lobbyist record was found.",
+    "source_url": "https://www.redfin.com/TX/West-Lake-Hills/104-Las-Lomas-Ct-78746/home/31215816",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bd8b0e2c057e8017",
+    "name": "Lee, Patrick",
+    "resolved_employer": "Central Health (Travis County Healthcare District), President & CEO",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Patrick (Pat) Lee, MD/MBA, confirmed President & CEO of Central Health — Travis County's taxpayer-funded hospital district — since 2024 (prior: One Brooklyn Health, Mass General). Title, employer and Austin location all match the donor record. No FEC PAC contributions, TX lobbyist registration, or policy-advocacy board seats found in his bio.",
+    "source_url": "https://www.centralhealth.net/biographies/patrick-lee/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Central Health (Travis County Healthcare District)", "role": "President & CEO", "category": "civic", "source_url": "https://www.centralhealth.net/biographies/patrick-lee/", "snippet": "Dr. Patrick Lee serves as President and CEO of Central Health, Travis County's public hospital district funded by property taxes."}
+    ]
+  },
+  {
+    "donor_id": "c51c0d8ec59a87b5",
+    "name": "Tommy, Tucker",
+    "resolved_employer": "Legacy Performance Capital, Chief Operating Officer (real-estate development/investment)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Name is transposed in the record ('Tommy, Tucker'); the actual person is Tommy Tucker, a veteran real-estate developer (30+ yrs; formerly Johnson Development Corp., Crescent Communities, Catellus/Mueller) named first-ever COO of Legacy Performance Capital in 2022. Employer, COO title and Austin base match. No FEC PAC or TX-lobbyist records found; press bio lists no policy-advocacy affiliations.",
+    "source_url": "https://www.prnewswire.com/news-releases/legacy-performance-capital-names-first-ever-coo-to-spearhead-growth-of-residential-and-mixed-use-properties-with-initial-focus-in-central-texas-301572458.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Legacy Performance Capital", "role": "Chief Operating Officer", "category": "business", "source_url": "https://www.prnewswire.com/news-releases/legacy-performance-capital-names-first-ever-coo-to-spearhead-growth-of-residential-and-mixed-use-properties-with-initial-focus-in-central-texas-301572458.html", "snippet": "Legacy Performance Capital names Tommy Tucker its first-ever COO to spearhead growth of residential and mixed-use properties in Central Texas."}
+    ]
+  },
+  {
+    "donor_id": "e4d7f8673f2ee74c",
+    "name": "Poll, Krista",
+    "resolved_employer": "Urban Sports Ventures (self-reported occupation 'Finance'); firm not independently verifiable",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Could not confirm the specific individual: a LinkedIn stub returns 'Profile Not Found' and no firm named 'Urban Sports Ventures' appears in public records (only unrelated Austin Sports Ventures / Precourt Sports Ventures). Industry assigned from self-reported occupation 'Finance' via employer/occupation fallback only. Shah donor in 78704.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e85d013cf18b1315",
+    "name": "Morales, George",
+    "resolved_employer": "Travis County Constable, Precinct 4 (2017-2025); elected Travis County Commissioner, Precinct 4 (took office 2025)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "George Morales III, three-term Travis County Constable for Precinct 4 (Southeast Austin, matches zip 78744), a Certified Master Texas Peace Officer with ~27 years in law enforcement; later elected Precinct 4 Commissioner succeeding Margaret Gomez. Occupation/precinct on the 2022 donation matches his elected office.",
+    "source_url": "https://ballotpedia.org/George_Morales_III",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Travis County (Constable Pct. 4 / Commissioner Pct. 4)", "role": "Elected official", "category": "political", "source_url": "https://ballotpedia.org/George_Morales_III", "snippet": "George Morales III served as Travis County Constable for Precinct 4 and was elected Travis County Commissioner for Precinct 4."}
+    ]
+  },
+  {
+    "donor_id": "6a7eff706aa05fab",
+    "name": "Chapa, Marcos",
+    "resolved_employer": "In-School Suspension (ISS) Monitor, Austin Independent School District",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Public professional listing shows Marcos Chapa as an ISS Monitor at Austin Independent School District, matching the donation record's occupation and employer exactly; East Austin zip 78702 is consistent. No public FEC/PAC, lobbyist, or advocacy footprint found.",
+    "source_url": "https://www.zoominfo.com/p/Marcos-Chapa/-1525596268",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "10b22dc3224b4e0e",
+    "name": "Rios, Christopher",
+    "resolved_employer": "Wells Fargo — Regional VP of Social Impact & Sustainability (Philanthropy/Community Impact), since 2022; previously ~decade at Texas Capital Bank in community development",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Christopher Rios of Pflugerville, UT-Austin McCombs grad and Laredo native, leads Wells Fargo social-impact/philanthropy for Central & West Texas after a decade at Texas Capital Bank; matches employer strings and 'Philanthropy/Banker' occupation. Extensive civic board record. No FEC PAC or lobbyist registration found.",
+    "source_url": "https://assetfunders.org/person/christopher-rios/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CommUnityCare Health Centers", "role": "Treasurer and Past-Chair", "category": "civic", "source_url": "https://assetfunders.org/person/christopher-rios/", "snippet": "Treasurer and Past-Chair, CommUnityCare Health Centers (CUC)."},
+      {"org": "Greater Austin Hispanic Chamber of Commerce", "role": "Past Chairman", "category": "business", "source_url": "https://assetfunders.org/person/christopher-rios/", "snippet": "Past Chairman, Greater Austin Hispanic Chamber of Commerce (GAHCC)."}
+    ]
+  },
+  {
+    "donor_id": "4c2021cb68aa8431",
+    "name": "Davila, Larissa",
+    "resolved_employer": "Owner, BCO Consulting Group (bilingual translation/interpretation & business-development consulting, est. 2015); also Executive Director of Economic Growth Business Incubator (EGBI)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Confirmed founder/owner of BCO Consulting Group in Austin (translation/interpretation + business consulting), matching donation employer string; graduate of Texas A&M International, prior corporate roles at FedEx/Sony. Now also ED of EGBI. No PAC or lobbyist activity found.",
+    "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-larissa-davila-of-bco-consulting-group/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Economic Growth Business Incubator (EGBI)", "role": "Executive Director", "category": "civic", "source_url": "https://egbi.org/staff/", "snippet": "Larissa Davila serves as Executive Director of the Economic Growth Business Incubator (EGBI), a nonprofit supporting Austin small businesses."}
+    ]
+  },
+  {
+    "donor_id": "75b25f8a4b574afa",
+    "name": "Gonzales, Matthew",
+    "resolved_employer": "Laborers' Local 1095 / LiUNA (labor union); most likely Matthew R. Gonzales, Business Manager of Local 1095",
+    "industry": "Labor",
+    "confidence": "medium",
+    "evidence": "Employer string exactly matches Laborers' Local 1095; the public figure at that local, Matthew R. Gonzales, is its Business Manager (25+ yrs construction, second-generation union member). Donation occupation lists 'Union Worker,' so could be a rank-and-file member of the same local sharing the name; identity beyond the union not fully confirmed. No PAC or lobbyist registration found.",
+    "source_url": "https://www.workforcesolutionsalamo.org/board-member/matthew-r-gonzales/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Laborers' Local 1095 (LiUNA)", "role": "Business Manager (Matthew R. Gonzales)", "category": "civic", "source_url": "https://swldc.org/our-local-unions/laborers-local-1095/", "snippet": "Matthew R. Gonzales is Business Manager for Laborers' Local 1095, representing over 900 members, a second-generation union member with 25+ years in construction."}
+    ]
+  },
+  {
+    "donor_id": "8438c512cb84e1f0",
+    "name": "Maldonado, Monica",
+    "resolved_employer": "Property Manager, Berkshire (Berkshire Residential/Communities), Austin; prior roles at Fairfield Residential and Easter Seals Central Texas",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Public professional records confirm a Monica Maldonado working as a property manager for Berkshire in the Austin area, matching donation occupation and employer. Common name and zip 78744 not independently confirmed, so medium confidence. No PAC or lobbyist activity found.",
+    "source_url": "https://rocketreach.co/monica-maldonado-email_132542503",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dbf72da78b5930ec",
+    "name": "Fernandez, Veronica",
+    "resolved_employer": "COO/CFO, The Hector and Gloria Lopez Foundation, Austin (private foundation, joined June 2021); 20+ yrs corporate finance at American Express, Merrill Lynch, AT&T",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Veronica Rosas Fernandez is named on the Foundation's own site as COO/CFO, matching donation occupation and employer exactly. Notre Dame grad; serves on several Austin nonprofit/school boards. No PAC or lobbyist registration found.",
+    "source_url": "https://www.hglopezfoundation.org/veronica-rosas-fernandez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Con Mi MADRE", "role": "Past Board Chair and Treasurer", "category": "civic", "source_url": "https://www.hglopezfoundation.org/veronica-rosas-fernandez", "snippet": "Past Board Chair and Treasurer for Con Mi MADRE, which provides educational programming for Latina teenagers in Texas."},
+      {"org": "The Long Center", "role": "Vice Chair of Board of Trustees, Finance Chair, Secretary", "category": "civic", "source_url": "https://www.hglopezfoundation.org/veronica-rosas-fernandez", "snippet": "At the Long Center she served as Vice Chair of the Board of Trustees, Finance Chair and Secretary."}
+    ]
+  },
+  {
+    "donor_id": "645130e985f45a35",
+    "name": "Pantoja, Damian",
+    "resolved_employer": "City of Austin, Office of Civil Rights — Community Engagement Specialist",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Native Austinite, Community Engagement Specialist in the City of Austin Office of Civil Rights; raised in Montopolis (matches zip 78741 Riverside/Montopolis); Del Valle ISD alumnus and school-board candidate.",
+    "source_url": "https://www.austintexas.gov/equity-inclusion/public-participation-and-information",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Del Valle ISD School Board", "role": "School Board Trustee candidate (SMD2)", "category": "political", "source_url": "https://directory.runforsomething.net/candidate/3974/pantoja-damian/", "snippet": "Running for a seat on the Del Valle ISD School Board, Damian has come to understand that making impactful decisions for students requires a combination of professional expertise and personal experience."}
+    ]
+  },
+  {
+    "donor_id": "99c2bcf6cc6ee2f1",
+    "name": "Stewart, Jerri",
+    "resolved_employer": "Texas Mutual Insurance Company — workers' compensation dispute specialist",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Filing lists her at Texas Mutual Insurance Company (Austin, the state's leading workers'-comp insurer), zip 78744 Austin; no independent professional profile located (an Austin 'Jerri Stewart Design' interior decorator appears to be a different person). Insurance-carrier employer maps to Finance.",
+    "source_url": "https://www.texasmutual.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "13bc21b88bcd9e42",
+    "name": "Perez, Alicia",
+    "resolved_employer": "Alicia Perez-Hodge & Associates (own consulting firm); retired — former first Latina Assistant City Manager of Austin and Chief Administrative Officer of the Travis County Medical Examiner's Office",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Exact name match to 'Alicia Perez-Hodge & Associates'; confirmed as the prominent Austin public figure — Austin's first Latina Assistant City Manager and Travis County ME CAO, decades of public service; zip 78703 (Tarrytown) fits a retired senior executive.",
+    "source_url": "https://www.facebook.com/traviscountyclerk/posts/alicia-perez-hodge-has-been-a-prominent-figure-in-the-austin-community-for-over-/830183659149854/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hispanic Advocates and Business Leaders of Austin (HABLA)", "role": "Co-founder", "category": "civic", "source_url": "https://www.facebook.com/traviscountyclerk/posts/alicia-perez-hodge-has-been-a-prominent-figure-in-the-austin-community-for-over-/830183659149854/", "snippet": "Co-founder of the Hispanic Advocates and Business Leaders of Austin (HABLA)."},
+      {"org": "Austin Latino Coalition", "role": "Co-founder", "category": "civic", "source_url": "https://www.facebook.com/traviscountyclerk/posts/alicia-perez-hodge-has-been-a-prominent-figure-in-the-austin-community-for-over-/830183659149854/", "snippet": "Co-founder of the Austin Latino Coalition."}
+    ]
+  },
+  {
+    "donor_id": "424a793bc4cc8306",
+    "name": "De La Rosa, Nora",
+    "resolved_employer": "Marketing (self-reported; specific employer/person not confirmed)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Plano zip 75023, generic occupation/employer 'Marketing'; multiple same-named marketing professionals in TX and no way to confirm which is the donor, so identity unresolved and industry left null. No PAC or lobbyist records found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

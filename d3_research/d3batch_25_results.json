@@ -1,0 +1,229 @@
+[
+  {
+    "donor_id": "4bdefe7c63ba1045",
+    "name": "Neece, Jarod",
+    "resolved_employer": "Taco Journalism (co-founder/author); veteran SXSW Film Festival programmer, now Senior Programmer at Tribeca Enterprises",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Jarod Neece of Austin (78745) is the co-founder/editor of the Austin food blog Taco Journalism and co-author of 'Austin Breakfast Tacos'/'The Tacos of Texas'; a longtime SXSW Film Festival senior programmer. Occupation 'Author' + employer 'Taco Journalism' + Austin location match exactly. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://jarodneece.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5115438a9374cd00",
+    "name": "Aguilar Ramirez, Diana",
+    "resolved_employer": "Harris County (county management/budget/administration)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Occupation 'County management' + employer 'Harris County' + Houston location match Diana Ramirez, Harris County Administrator, who spent 20+ years in Travis County budget/economic development before joining Harris County in 2021 (explaining a donation to an Austin candidate). Middle name 'Aguilar' not confirmed against the public official, so identity is probable but not certain. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.houstonlanding.org/shedding-interim-title-diana-ramirez-becomes-first-latina-harris-county-administrator/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5298ce1b3c084804",
+    "name": "Lopez, Candace",
+    "resolved_employer": "Small Seeds Consulting (self-employed nonprofit fundraising/development consultant)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Oakland-based self-employed consultant matches Candace Lopez of Small Seeds Consulting, a nonprofit fundraising/development consultant (18-20 yrs) who has raised money for organizations in Austin, San Antonio, LA and the SF Bay Area — the Austin work plausibly explains the Velasquez gift. Distinct from the Horizons Foundation 'Candace Lopez' seen in an earlier batch (different zip). No FEC PAC or TX lobbyist record found.",
+    "source_url": "http://afpgoldengate.org/consultant-directory/name/small-seeds-consulting/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "56a8db525a04d78a",
+    "name": "Cortez, Ana",
+    "resolved_employer": "Self (real estate sales agent, sponsored by Keller Williams / KW Management LLC)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Ana Cortez is a licensed Texas real estate sales agent (TREC #740810, issued 2020) based in Manor, TX, sponsored by KW Management LLC (Keller Williams). Occupation 'Realtor' + employer 'Self' + Manor location match (record zip 79653 is a likely typo for Manor's 78653). No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://licensee.io/real-estate/740810-ana-cortez-tx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5a3f4193ea2454ce",
+    "name": "Ishmael, Ralph",
+    "resolved_employer": "Ishmael Law Firm, P.C. (attorney, self-employed)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Ralph Edward Ishmael Jr. is an Austin attorney (State Bar of TX, admitted 1987) at Ishmael Law Firm P.C., 3009 N Lamar Blvd, 78705, practicing employment, real estate and business law. Occupation 'Lae'/'Selg' are typos for 'Law'/'Self'; 78705 zip matches. FEC records show him ('SELF/LAW', 78705) as a frequent ActBlue/Democratic small-dollar donor, not an ideological-PAC pattern. No TX lobbyist record found.",
+    "source_url": "https://lawyers.justia.com/lawyer/ralph-edward-ishmael-jr-222999",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6428cf44450a2d47",
+    "name": "Garcia, Elizabeth",
+    "resolved_employer": "Executive coach / leadership development — The Holdsworth Center (K-12 education leadership nonprofit) & her own practice 'Courageous Feats'",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Executive coach in education-leadership development; The Holdsworth Center is an Austin K-12 education-leadership nonprofit and lists a 'Dr. Liz Garcia' on staff. Occupation, employer, and Austin location match; specific zip not independently confirmed. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://holdsworthcenter.org/our-staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "672bafb789be2dff",
+    "name": "Martinez Gonzalez, Anali",
+    "resolved_employer": "Graduate/civil engineer (EIT) at MWM DesignGroup, Austin",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Anali Martinez Gonzalez, E.I.T., civil engineer at MWM DesignGroup (Austin); UT Austin BSCE, designs water/wastewater/storm infrastructure; serves on TSPE Travis Chapter board and ASCE younger-members committee. Name, employer, occupation, and Austin location all match. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://mwmdesigngroup.com/mwm-designgroup-hires-anali-martinez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6aa84050ddb1b4d5",
+    "name": "Zapata, David",
+    "resolved_employer": "Plumbing superintendent, Rich Plumbing, Austin",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Given as plumbing superintendent at Rich Plumbing, Austin 78702. No distinct public profile found beyond occupation/employer; 'David Zapata' is common, so the specific individual could not be independently corroborated. Classified by employer fallback (plumbing/construction). High FEC count (212, lean 0.96) is consistent with aggregated ActBlue small-dollar giving, not an ideological PAC pattern. No TX lobbyist record found.",
+    "source_url": "https://tsbpe.texas.gov/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6cfb01d529d59e41",
+    "name": "Ramos-Lynch, Michael",
+    "resolved_employer": "Attorney / owner, Ramos-Lynch Law Office, PLLC (tech transactions, NDAs, IP, real estate), Pflugerville",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Michael Anthony Ramos-Lynch, licensed Texas attorney (State Bar), solo firm Ramos-Lynch Law Office PLLC in Pflugerville 78660 focused on NDAs/commercial agreements, IP, and real estate. Name, firm, occupation, and Pflugerville/78660 location all match. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://ramoslynchlaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7314edd2fb134a5f",
+    "name": "Robledo, Isabel",
+    "resolved_employer": "Senior Assistant Manager, employer 'CM' (unidentified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as Senior Assistant Manager, employer 'CM', Cedar Creek 78612. No public profile located to confirm identity or clarify the abbreviated employer; industry cannot be reliably classified. All three searches run with no matches.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "74f25d3a049c5d7d",
+    "name": "Viagran, Crystal",
+    "resolved_employer": "Hogg Foundation for Mental Health (UT Austin) — Director of Foundation Administration/Initiatives",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Crystal Viagran is a Director at the UT Austin Hogg Foundation for Mental Health (foundation administration/initiatives), Austin 78702 — matches donor occupation 'Director' and employer string exactly. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://hogg.utexas.edu/about/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7956bc33792bf6cd",
+    "name": "Briceo, Rafael",
+    "resolved_employer": "University of Texas (retired)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Donor listed as Retired, former University of Texas, Austin 78702 (name likely 'Briceño'). Could not confirm the specific individual; an Austin 'Rafael Briceno' LinkedIn exists (real-estate-related) but does not corroborate a retired UT employee. Employer-fallback classification only. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/rafael-briceno-874020175/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b981f01b409424f",
+    "name": "Siles, Karen",
+    "resolved_employer": "IBM — Program Director / Senior Delivery Manager, IBM Cloud",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Karen Mariela Siles is a Program Director/Senior Delivery Manager for IBM Cloud, Austin metro (MSTC UT Austin), matching donor occupation 'IBM / Program director - Cloud'. Also serves on the CommUnityCare (FQHC) board. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/karenmsiles/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CommUnityCare Health Centers", "role": "Board Member", "category": "civic", "source_url": "https://communitycaretx.org/boardofdirectors/", "snippet": "Karen Siles, IBM delivery manager, listed as a board member of CommUnityCare, a federally qualified health center serving Travis County."}
+    ]
+  },
+  {
+    "donor_id": "7bac771aa7df2b50",
+    "name": "Dagli, Dhwani",
+    "resolved_employer": "F5 (software/technology)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Donor is a San Jose (95132) software/tech worker who gave to challenger Neha Shah in 2026. A LinkedIn profile with the exact handle 'dhwanidagli' (Dhwani D., F5, San Jose) matches the name and location, supporting a Technology classification. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/dhwanidagli/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7e9467bdb8ec989f",
+    "name": "Beane, Ben",
+    "resolved_employer": "Education Resource Strategies — Communications Lead",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Ben (Benjamin) Beane is Communications Lead at Education Resource Strategies, a national education nonprofit (HQ Watertown, MA); formerly a communications/marketing staffer at Austin ISD, explaining the Austin/Velasquez tie. Now based in the Boston/Cambridge area (02139). No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.erstrategies.org/people/ben-beane/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f9d8b3a6e841f36",
+    "name": "Campos, Maria I.",
+    "resolved_employer": "Director of Strategic Initiatives and Grants, CommUnityCare Health Centers (Austin nonprofit FQHC)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Maria I. Campos, a native Austinite and St. Edward's University graduate, is a nonprofit executive (Director of Strategic Initiatives & Grants at CommUnityCare, formerly Head Start regional director in the RGV); name, middle initial, Austin location and 'nonprofit executive' occupation all corroborate. Zip 78745 not independently confirmed but all other markers align. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.autmhq.org/board/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood of Greater Texas (Community Board)", "role": "Community Board member", "category": "political", "source_url": "https://www.autmhq.org/board/", "snippet": "She is a 2020 New Leaders Council Alumni and is proud to serve on the AUTMHQ board and the Planned Parenthood of Greater Texas Community Board — a reproductive-rights advocacy organization."}
+    ]
+  },
+  {
+    "donor_id": "8123b0c833f6fb5d",
+    "name": "Heidrick, Clarke",
+    "resolved_employer": "Of Counsel, McGinnis Lochridge LLP (Austin law firm)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Robert Clarke Heidrick, longtime Austin attorney (Of Counsel, McGinnis Lochridge; SMU Law 1975), corporate/commercial-lease and venture-fund practice. Prominent Austin civic figure named Austinite of the Year; occupation/employer/location all confirmed via firm bio. (Fields 'occupations' and 'employer_strings' are swapped in the source record.) No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Central Health (Travis County Hospital District)", "role": "Former Chair of the Board", "category": "civic", "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick", "snippet": "He has formerly served as Chair of the Board of Travis County Hospital District (now known as Central Health)."},
+      {"org": "Greater Austin Chamber of Commerce", "role": "Former Chair of the Board", "category": "business", "source_url": "https://www.mcginnislaw.com/attorneys-Clarke-Heidrick", "snippet": "He has formerly served as Chair of the Board of the Greater Austin Chamber of Commerce; honored by the Chamber as Austinite of the Year."}
+    ]
+  },
+  {
+    "donor_id": "812cc321c83c5da5",
+    "name": "Lauren, Jennifer",
+    "resolved_employer": "Of Counsel, Botkin Chiarello Calaf PLLC (Austin litigation firm)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Jennifer Lauren, commercial-litigation/appellate attorney and former journalist (Univ. of Washington 2006), joined Austin firm Botkin Chiarello Calaf in 2024; moved to Austin ~2020. Lawyer occupation and Austin location match; zip 78704 not independently confirmed. First gift 2026 to challenger Shah fits a recently-arrived Austin attorney. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.bccaustin.com/news/botkin-chiarello-calaf-welcomes-jennifer-lauren",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "83939e51677bd37b",
+    "name": "Markham, Tyler",
+    "resolved_employer": "Zero Waste Planner, City of Austin",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Tyler Markham is a Zero Waste Planner at the City of Austin (UT-Austin BBA 2015; prior roles at Central Texas Food Bank and East Side Compost Pedallers). Occupation 'Planner' and employer 'City of Austin' confirmed directly. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://rocketreach.co/tyler-markham-email_75513762",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a067b37013dd614",
+    "name": "Petra, Maria",
+    "resolved_employer": "Guerrero Industries (VP) — employer unverified in public records",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as VP of 'Guerrero Industries' in Austin (78748). No company by that exact name could be verified; multiple unrelated 'Guerrero' businesses exist in Austin (tire shop, construction, trucking) but none confirmed as her employer, and no public profile matches this individual. Identity and industry cannot be confirmed. No FEC PAC or TX lobbyist record found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

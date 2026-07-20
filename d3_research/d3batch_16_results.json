@@ -1,0 +1,251 @@
+[
+  {
+    "donor_id": "45e288f0bfcb8671",
+    "name": "Velasquez, Gilbert",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired Austin resident in 78702 who shares a surname and zip with incumbent José Velásquez, but no public record confirms a family relationship, and no former career is documented for this specific individual (common name). Not a registered TX lobbyist; no FEC PAC records.",
+    "source_url": "https://www.austintexas.gov/department/about-council-member-velasquez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1fe4f712e2c804cc",
+    "name": "Worthington, Matt",
+    "resolved_employer": "Longevity Partners (Associate Director, Data Science + Analytics; ESG/sustainability consultancy)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Matt Worthington of Austin (78744) is Associate Director of Data Science + Analytics at Longevity Partners, an ESG/sustainability consultancy; former LBJ School data project manager and ex-special-ed teacher. Identity corroborated by his own bio, LinkedIn, and 2022 candidacy — all list Austin + data science + Longevity Partners.",
+    "source_url": "https://www.mrworthington.com/about.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House District 51", "role": "Democratic candidate (2022 primary)", "category": "political", "source_url": "https://ballotpedia.org/Matthew_Worthington", "snippet": "Matthew Worthington ran for election to the Texas House of Representatives to represent District 51 as a Democratic candidate; lost in the Democratic primary on March 1, 2022."},
+      {"org": "Del Valle ISD", "role": "Board Member", "category": "civic", "source_url": "https://theorg.com/org/del-valle-isd/org-chart/matt-worthington", "snippet": "Matt Worthington - Board Member at Del Valle ISD; also served on the City of Austin Early Childhood Council and Del Valle Community Coalition."}
+    ]
+  },
+  {
+    "donor_id": "7f58c24bbafa5d8f",
+    "name": "Razo, Laura",
+    "resolved_employer": "Transfr Inc. (Secondary/CTE Programs Manager)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Laura Razo of Austin, TX is Secondary Programs Manager at Transfr Inc. (a VR-based career/CTE workforce-training ed-tech firm), with 15+ years in career & technical education program development. LinkedIn confirms Austin location and Transfr/CTE role. Not a registered TX lobbyist.",
+    "source_url": "https://www.linkedin.com/in/laura-razo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ef4f1a62d05004fc",
+    "name": "Glenn, David",
+    "resolved_employer": "Home Builders Association of Greater Austin (Director of Government Relations)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "David Glenn was Senior Director of Government Relations for the Home Builders Association of Greater Austin, overseeing regulatory/legislative advocacy for the homebuilding industry across 30+ Central Texas cities. Registered TX lobbyist (David W. Glenn). His LinkedIn now shows a later move to Intersect Power, but his donor employer string (HBA) matches his gov-relations tenure.",
+    "source_url": "https://www.hbaaustin.com/advocacy.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Home Builders Association of Greater Austin", "role": "Director of Government Relations / registered lobbyist", "category": "business", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf", "snippet": "David W. Glenn appears on the Texas Ethics Commission registered-lobbyist lists (2019, 2025, 2026); at HBA he oversaw all regulatory and legislative functions for the home-building industry."}
+    ]
+  },
+  {
+    "donor_id": "14bd88e7e09ef561",
+    "name": "King, Jd",
+    "resolved_employer": "John King Construction, Ltd. (President)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "JD King is President of John King Construction, Ltd., a Round Rock (78681) commercial general contractor founded 1978; he holds a Construction Management degree (Texas State). Corroborated by company site and ZoomInfo. The large 'John King' FEC contributions found are a different person (John F. King of Georgia). Not a registered TX lobbyist.",
+    "source_url": "https://johnkingconstruction.com/our-story",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1551fe6ada8f8975",
+    "name": "Hernandez, Leslie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, occupation listed as 'Advocate,' Austin 78702 (East Austin). 'Leslie Hernandez' is a very common name; despite the high FEC small-donor count (389, consistent with recurring ActBlue-style giving), no public record could be matched to this specific individual with confidence. Cannot confirm identity, so industry left null.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "190810a048b86acd",
+    "name": "Colmenero, Rudy",
+    "resolved_employer": "Vacek, Kiecke & Colmenero, LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Rudolfo 'Rudy' R. Colmenero, partner and named principal at Austin law firm Vacek, Kiecke & Colmenero LLP (tax, estate planning, probate, real estate). Also a Texas CPA; UT Law JD; past president of the Hispanic Bar Association of Austin. Firm and occupation match the filing exactly. No FEC PAC or TX lobbyist registry records found.",
+    "source_url": "https://www.vk-c.com/attorneys/rudy-r-colmenero/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Capital Bank", "role": "Board of Directors (2006–present)", "category": "business", "source_url": "https://www.vk-c.com/attorneys/rudy-r-colmenero/", "snippet": "Austin Capital Bank, Board of Directors (2006–Present)"},
+      {"org": "Austin Community Foundation", "role": "Board of Directors", "category": "civic", "source_url": "https://www.vk-c.com/attorneys/rudy-r-colmenero/", "snippet": "Austin Community Foundation, Board of Directors"},
+      {"org": "Austin PBS", "role": "Board of Directors", "category": "civic", "source_url": "https://www.vk-c.com/attorneys/rudy-r-colmenero/", "snippet": "Austin-PBS, Board of Directors"}
+    ]
+  },
+  {
+    "donor_id": "2abcb1089402d115",
+    "name": "Kreilein, Amber",
+    "resolved_employer": "Wayground (formerly Quizizz) — K-12 Strategy",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Amber Orenstein Kreilein, Head of K-12 Strategy at Wayground — the confirmed rebrand of ed-tech firm Quizizz. Chicago/Evanston area (filing zip 60203 = Evanston, IL); MBA UChicago Booth; prior roles at Discovery Education and BetterLesson. Occupation 'Strategy' and employer 'Wayground' match. Out-of-state donor to Shah. No FEC PAC or TX lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/amber-orenstein/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "30391359a27531b9",
+    "name": "Levy, Stephen",
+    "resolved_employer": "LEVY DYKEMA (formerly LEVY Architects, PLLC)",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Stephen V. Levy, AIA, founding principal architect of LEVY Architects (2010), now LEVY DYKEMA after a 2021 merger. Home/business address 9505 Leaning Rock Circle, Austin 78730 matches filing zip and 'Architect/Self' descriptors. No FEC PAC or TX lobbyist registry records found.",
+    "source_url": "https://aiaaustin.org/architects/levy-dykema/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "323f280ebf742520",
+    "name": "Diaz, Ramiro",
+    "resolved_employer": "Saks Fifth Avenue (software engineer)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Ramiro Diaz, Austin-based software engineer whose public career profile lists Saks Fifth Avenue among prior/current employers (also H-E-B, Under Armour, IBM); MS software/computer engineering. Former president of SHPE Austin and YHPAA, and a Latinitas board member. Occupation and Saks employer match the filing; identity is likely but not certain given the common name, hence medium.",
+    "source_url": "https://rocketreach.co/ramiro-diaz-email_63684523",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Latinitas", "role": "Board Member", "category": "civic", "source_url": "https://latinitas.medium.com/new-board-member-alert-ramiro-diaz-3349ee3f986a", "snippet": "New Board Member Alert: Ramiro Diaz — newly appointed to the Latinitas Board; former president of SHPE and YHPAA."}
+    ]
+  },
+  {
+    "donor_id": "36c51c4564b29fda",
+    "name": "Loera, Laura",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm the specific individual. Multiple 'Laura Loera' profiles exist in the Austin area but none is verifiably a program manager at Google (employer string 'G'); no single record matches occupation + 78702 East Austin + the high (65) federal small-dollar donation pattern. Employer 'G' is unverified — not forcing a Technology/Google classification.",
+    "source_url": "https://www.linkedin.com/pub/dir/Laura/Loera/us-0-United-States",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3b237956c9bd1d72",
+    "name": "Franz, Eddie",
+    "resolved_employer": "Jail to Jobs (Executive Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Executive Director of Jail to Jobs, an Austin-area nonprofit doing employment-based mentoring for youthful offenders; rose through Supervisor/Program Coordinator/Director of Ops roles, BBA from UT Austin, former Lockhart firefighter. Red Rock, TX residence consistent with the org's Central Texas footprint. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/eddie-franz-91347b92/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Jail to Jobs", "role": "Executive Director", "category": "civic", "source_url": "https://www.linkedin.com/in/eddie-franz-91347b92/", "snippet": "Eddie Franz is the Executive Director at Jail to Jobs, an organization focused on empowering youthful offenders through employment-based mentoring."}
+    ]
+  },
+  {
+    "donor_id": "43df9e678d2559d8",
+    "name": "Pelham, John",
+    "resolved_employer": "GarzaEMC (Garza EMC, LLC) — Senior Vice President",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Senior Vice President at GarzaEMC, a large Austin-based civil engineering / land-development firm (founded 2012 by Rudy Garza). 30+ years in civil engineering, BS Civil Engineering from UT Austin, lives in Dripping Springs (78620). Matches occupation 'Engineer' and employer 'GarzaEMC'. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/john-pelham-3a801321",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "GarzaEMC (Garza EMC, LLC)", "role": "Senior Vice President", "category": "business", "source_url": "https://www.linkedin.com/in/john-pelham-3a801321", "snippet": "John Pelham - Senior Vice President at GarzaEMC ... over 30 years of experience in civil engineering, land development, and project management."}
+    ]
+  },
+  {
+    "donor_id": "462d7f10c81220a1",
+    "name": "Bulmash, Mark",
+    "resolved_employer": "Presidium (Presidium Group) — President, Mixed-Use/Master Plan Development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "President, Mixed-Use/Master Plan Development at Presidium, a diversified multifamily real-estate developer; 33-year veteran with prior senior roles at Howard Hughes Corp, Taubman, Related, and Forest City; founder of Bulmash Real Estate Advisors. Based in Plano, TX (75093). Matches occupation 'Presidium' / employer 'Real Estate'. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://rednews.com/testimonial/presidium-group-hires-mark-bulmash-as-president-mixed-use-master-plan-development/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Presidium Group", "role": "President, Mixed-Use/Master Plan Development", "category": "business", "source_url": "https://rednews.com/testimonial/presidium-group-hires-mark-bulmash-as-president-mixed-use-master-plan-development/", "snippet": "Presidium selected Mark Bulmash as President, Mixed-Use/Master Plan Development ... a 33-year real estate veteran."},
+      {"org": "Urban Land Institute (ULI)", "role": "Member", "category": "business", "source_url": "https://knowledge.uli.org/en/people/b/m/mark-bulmash-82bf", "snippet": "Mark Bulmash | ULI Knowledge Finder (member profile)."}
+    ]
+  },
+  {
+    "donor_id": "48217a04989cb684",
+    "name": "Karim, Sarah",
+    "resolved_employer": "Self-employed (independent facilitation/strategy consultant, sarahkarim.com)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Independent consultant (Mercer Island, WA, 98040) serving public/nonprofit/social-impact clients; 20 years' experience incl. Acumen, The Citizens Foundation, Yunus Social Business; BA Wellesley, MBA George Washington. Own bio site confirms occupation 'Consultant' / employer 'Self'. Out-of-state Shah donor, identity corroborated by personal website. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.sarahkarim.com/whoiam",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Maternal Coalition", "role": "Board/Advisory", "category": "civic", "source_url": "https://www.sarahkarim.com/whoiam", "snippet": "The Maternal Coalition (Seattle nonprofit supporting perinatal/reproductive health)."},
+      {"org": "Mercer Island School District – Superintendent Equity Advisory Council / Lakeridge PTA Board", "role": "Committee member / Board", "category": "civic", "source_url": "https://www.sarahkarim.com/whoiam", "snippet": "Serves on Mercer Island School District committees including the Superintendent Equity Advisory Council and Lakeridge PTA's Board."}
+    ]
+  },
+  {
+    "donor_id": "52937a3d6c070aec",
+    "name": "Rodriguez, Eddie",
+    "resolved_employer": "Texas House of Representatives (former State Rep., District 51); now self-employed business development consultant",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Eduardo Rene 'Eddie' Rodriguez, Democrat, served Texas House District 51 (East Austin/SE Travis County) 2003-2023; UT Austin gov degree and UT Law JD; ran for TX-35 Congress in 2022 (lost to Casar). Now a business development consultant in Austin. Zip 78702 (East Austin) and 'State Representative' occupation match.",
+    "source_url": "https://en.wikipedia.org/wiki/Eddie_Rodriguez_(politician)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mexican American Legislative Caucus (MALC)", "role": "Vice-Chair (while in office)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Eddie_Rodriguez_(politician)", "snippet": "Vice-Chair of the Mexican American Legislative Caucus (MALC); chaired the Texas House Farm-To-Table Caucus."}
+    ]
+  },
+  {
+    "donor_id": "5dcde42334ea0601",
+    "name": "Yeatts, Malcolm",
+    "resolved_employer": "Retired (former City of Austin networking/systems engineer)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Retired after ~40 years in Information Systems/Networking Engineering; designed transport technologies on the City of Austin metropolitan fiber network. Lives in 78741; chairs the East Riverside/Oltorf Neighborhood Plan Contact Team. Occupation 'Engineer'/'retired' and zip match. (retired)",
+    "source_url": "https://www.linkedin.com/in/malcolm-yeatts-71676036/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "East Riverside/Oltorf Combined Neighborhood Planning Area Contact Team", "role": "Chair", "category": "civic", "source_url": "https://www.linkedin.com/in/malcolm-yeatts-500b3155/", "snippet": "Chair, East Riverside/Oltorf Combined Neighborhood Planning Area Contact Team."}
+    ]
+  },
+  {
+    "donor_id": "604a20e6b5eab717",
+    "name": "Ashley, Mariko",
+    "resolved_employer": "U.S. Equal Employment Opportunity Commission (EEOC) — Senior Trial Attorney",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Mariko Mae Ashley, Senior Trial Attorney at the EEOC (federal employment-discrimination enforcement); California Bar member admitted Dec 2016 (#311897); prior associate roles at Jackson Lewis and Morgan Lewis. Out-of-state Shah donor in Alameda, CA 94501; occupation/employer/location all match.",
+    "source_url": "https://apps.calbar.ca.gov/attorney/Licensee/Detail/311897",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "63f6a7f94e7d407e",
+    "name": "Johnson, Alondra Geneva",
+    "resolved_employer": "A.G. Johnson Law, PLLC (owner/solo attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Solo attorney/owner of A.G. Johnson Law, PLLC in Austin; State Bar of Texas member (#334943); JD from Texas Tech School of Law; practices criminal defense, family law, and bankruptcy. Austin/78749 and employer string match.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=334943",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Criminal Defense Lawyers Association (ACDLA)", "role": "Member", "category": "business", "source_url": "https://acdla.com/members/alondra-geneva-johnson/", "snippet": "Listed as a member of the Austin Criminal Defense Lawyers Association."}
+    ]
+  },
+  {
+    "donor_id": "6963d5f4719f537d",
+    "name": "Crowley, Monica",
+    "resolved_employer": "Central Health (Travis County Healthcare District) — Chief Strategy & Planning Officer",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Chief Strategy and Planning Officer at Central Health, Travis County's public hospital district; 20+ years as attorney/advocate for public entities and nonprofits; prior roles at Lone Star Circle of Care, TX Securities Board, DOJ Antitrust, and TX AG Medicaid Fraud Unit; Austin College + UT Law. South Austin resident (78704). This is the Austin healthcare executive, NOT the Fox News commentator of the same name.",
+    "source_url": "https://www.centralhealth.net/central-health-announces-new-chief-strategy-planning-officer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Caritas of Austin", "role": "Board of Directors", "category": "civic", "source_url": "https://www.centralhealth.net/central-health-announces-new-chief-strategy-planning-officer/", "snippet": "Serves on the Board of Directors for Caritas of Austin; passionate about homelessness prevention and intervention."}
+    ]
+  }
+]

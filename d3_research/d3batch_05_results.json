@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "042effc08b828fec",
+    "name": "Bavishi, Anish",
+    "resolved_employer": "Broadview Capital",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Managing Director at Broadview Capital, a Houston-based private-equity real estate firm (10500 Richmond Ave, Houston 77042) focused on acquisition/development/management across multifamily, healthcare, hospitality and commercial office. Title, firm, and zip corroborated by campaign-finance records and the firm's own site. Likely relative of Ashay Bavishi (same firm/address).",
+    "source_url": "https://www.broadviewcapital.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "07d353ce85904a43",
+    "name": "Phillips, Robin",
+    "resolved_employer": "AEG Presents",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Vice President, Southwest Region at AEG Presents (live-entertainment/concert promotion), a talent booker for the DFW/Southwest market; BA in Political Science (Latin America emphasis), University of North Texas. Identity/title consistent across LinkedIn, TheOrg, ZoomInfo. Task flags 108 FEC donations on file, but the recipient breakdown could not be retrieved (FEC API rate-limited, FEC/OpenSecrets data pages not machine-readable) — no specific ideological PAC confirmed or ruled out; volume is consistent with recurring small-dollar giving but that is unverified.",
+    "source_url": "https://theorg.com/org/aeg-presents/org-chart/robin-phillips",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "136b2aad459a3a59",
+    "name": "Shah, Neha",
+    "resolved_employer": "Expedia",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "The challenger candidate for Austin City Council District 3 (2026), the first to challenge incumbent José Velásquez; immigrant (grew up in Qatar/UAE/India), Mount Holyoke undergrad + GWU MBA, moved to Austin 2016. This is a self-funding contribution by the candidate. Occupation 'Product Manager' at Expedia per the campaign-finance record; the campaign bio did not itemize employer, so the Technology label rests on the filing's occupation/employer.",
+    "source_url": "https://theaustinbulldog.org/velasquez-finally-draws-a-challenger/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1449419a68f4794a",
+    "name": "de la Fuente Stevens, Jenefer",
+    "resolved_employer": "Self-Employed (film/movie industry, per filing)",
+    "industry": "Entertainment",
+    "confidence": "low",
+    "evidence": "Campaign-finance filing lists occupation 'Movie Industry', self-employed, Austin 78704. Could not independently corroborate this specific individual; an Austin film producer/actress 'Jenny de la Fuente' (UT theatre grad) exists but the name/spelling ('Jenefer ... Stevens') and identity do not clearly match, so not conflated. Industry inferred from self-reported occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "23ff28732dcd2eec",
+    "name": "Jones, Melissa",
+    "resolved_employer": "Retired (former career not reliably identified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; the donor lists Los Angeles 90068, Retired. A LinkedIn profile exists for a 'Melissa Jones - Nonprofit consultant at Retired,' but LinkedIn was inaccessible and the profile's location could not be confirmed as LA/90068, so no reliable identification could be made. No FEC PAC, TX lobbyist, or corroborated bio matched.",
+    "source_url": "https://www.linkedin.com/in/melissa-jones-1a658780",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26ae891e2f55d92a",
+    "name": "Beuerlein, Steve",
+    "resolved_employer": "Burlington Ventures, Inc.",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "President/founder of Burlington Ventures Inc., a Central Austin real estate investment firm he founded in 1992 focused on renovating and developing multifamily projects (also brokerage/property management); UT-Austin civil engineering '85, former commercial RE appraiser. Clear real-estate-development ties. A same-name, same-zip (78703) 'Steve Beuerlein, President' gave $5,000 to the National Multifamily Housing Council PAC (2020) — an industry trade PAC — though that FEC record lists employer as 'Heritage Title Company of Austin,' a discrepancy that could not be fully reconciled, so the PAC match is treated as probable not certain.",
+    "source_url": "https://burlingtonventures.com/team/steve-beuerlein",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32e4a3cc6852bc2f",
+    "name": "Reed, Kenley",
+    "resolved_employer": "Presidium",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Development manager at Presidium, a Dallas/Austin multifamily real-estate development firm (~$2.6B AUM). Leads the master plan and mixed-use components of Presidium's 314-acre 'The Row' (formerly Velocity) development in Southeast Austin near the Tesla gigafactory. Clear active real-estate-development interest. No FEC PAC contributions or TX lobbyist registration found (an OpenSecrets hit for 'Keenan Austin Reed' is a different person).",
+    "source_url": "https://www.bldup.com/posts/presidium-s-314-acre-velocity-project-gets-new-name-ahead-of-groundbreaking",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3aff19f9901af0f5",
+    "name": "Bavishi, Ashay",
+    "resolved_employer": "Broadview Capital",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Managing Director at Broadview Capital, Houston real-estate private-equity firm (10500 Richmond Ave, Suite 200, Houston 77042). Title/firm/zip corroborated by campaign-finance filings and firm site. Likely relative of Anish Bavishi (same firm/address). No public individual bio, PAC, or lobbyist record surfaced.",
+    "source_url": "https://www.broadviewcapital.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3ba30811b63ee279",
+    "name": "Martinez, Ramiro",
+    "resolved_employer": "Onnit Labs, Inc.",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Senior Supply Chain Manager at Onnit Labs, an Austin health-and-wellness / nutritional-supplement and fitness consumer-products company (~9 years tenure); attended Texas State University; Austin-based, consistent with zip 78741. Identity corroborated via LinkedIn and campaign-finance filing. Industry labeled Retail (consumer packaged goods) as best-fit; could arguably be Healthcare given the supplement focus. No PAC or lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/ramiro-martinez-5851b1202/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e57b29f72516385",
+    "name": "Lupa, Sara",
+    "resolved_employer": "Drinks Lounge (co-owner)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Sara Lupa and husband Tim Lupa are the couple behind East Austin bar Drinks Lounge (2001 E. Cesar Chavez) and former co-owners of The Brixton; they later opened Velouria (SoCo) and Drinks Backyard. Self-employed bar owner matches the filing (employer 'Drinks Lounge', Austin 78744). No FEC PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://austin.culturemap.com/news/restaurants-bars/04-17-19-velouria-from-owners-of-drinks-lounge-brixton-opening-south-congress-hours-menu/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "44be8cb6cd000e11",
+    "name": "Powell, Adam",
+    "resolved_employer": "Austin History Center Association (Executive Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Named Executive Director of the Austin History Center Association (nonprofit) in Feb 2025; native Austinite, TCU history degree, prior director of advocacy at Measure, ran for Austin City Council District 7 in 2024 (lost; was endorsed by CM José Velásquez). Board of SAFE Alliance and North Shoal Creek Neighborhood Assn; active with ReThink35, Shoal Creek Conservancy, Texas Freedom Network. No FEC PAC contributions or TX lobbyist registration found; his documented advocacy does not fall within the balanced ideological categories tracked.",
+    "source_url": "https://www.austinmonitor.com/stories/2025/02/austin-history-center-association-names-powell-as-new-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "458390e737b31e18",
+    "name": "Castillo, Gerardo",
+    "resolved_employer": "ABML — AshBritt Management and Logistics",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "President of ABML (AshBritt Management and Logistics), the government-solutions/disaster-response arm of AshBritt Environmental; named president in 2019, led COVID and hurricane (Ian, Harvey) and Camp Fire response operations. Holds an MPA from UT Austin's LBJ School and a B.A. from UT Austin, which explains the 'Austin, TX' label, while the 33483 (Delray Beach FL) zip matches AshBritt's South Florida base — high-confidence identity. Industry label 'Construction' is approximate: ABML is a disaster-recovery/emergency-management contractor (debris, base camps, temporary facilities, plus logistics/medical support); no dedicated government-services/logistics bucket exists in the taxonomy. No individual FEC PAC records or TX lobbyist registration identified for him personally (AshBritt Environmental as an org reported ~$46K in the 2024 cycle, but not attributed to Castillo).",
+    "source_url": "https://abmlresponse.com/leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d15f3fdb0bca65c",
+    "name": "Abrams, Bailey",
+    "resolved_employer": "Longbow Partners (Longbow Partners, LLP)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Director of Operations at Longbow Partners, an Austin-based Texas government-affairs/lobbying and strategic consulting firm (donor data lists 'Partner'; firm bio lists 'Director of Operations'). Austin-based, prior operations roles at WeWork, B.A. Communication Univ. of Oklahoma. No federal PAC contributions or Texas lobbyist registration found; her only listed board (Elizabeth Ann Seton Board) is a Catholic charity board, not policy-advocacy relevant.",
+    "source_url": "https://longbow-partners.com/our-team/bailey-abrams/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5024c872291d863e",
+    "name": "Fowler, Amy",
+    "resolved_employer": "Fowler Family (household; unconfirmed)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm a specific individual. Occupation 'Boss' and employer 'Fowler Family' in the Lakeway/Bee Cave 78738 area read as a homemaker/household-head self-description, but no public profile, FEC record, TX lobbyist entry, or business/real-estate tie could be matched to this exact Amy Fowler. (Unrelated near-matches found and excluded: 'Amy Swift Reynolds' of West Austin Dance Academy in 78738; the Fowler Law Firm / Fowler Family Foundation founded by 'Laura' Fowler; a 'voteamyfowler' candidate page — none corroborated as this donor.) Per protocol, identity unconfirmed so industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5354e6fc162a6c33",
+    "name": "Garcia, Briana",
+    "resolved_employer": "Self-Employed (film/movie industry, per filing)",
+    "industry": "Entertainment",
+    "confidence": "low",
+    "evidence": "Filing lists occupation 'Movie Industry', self-employed, Austin 78751. Name is common; could not confirm the specific person. A 'Bri Garcia' (Austin Film Festival marketing intern) and a 'Briana Garcia' event planner (Hermanas ATX, Voyage Austin) both exist but neither confirmably matches this donor, so not conflated (the 'Briana Gordley' lobbyist hit is a different person). Industry inferred from self-reported occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5e9d86a67d8be3f8",
+    "name": "Stratmann, Ben",
+    "resolved_employer": "Longbow Partners (Longbow Partners, LLP)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Robert B. 'Ben' Stratmann is an equity partner and registered Texas lobbyist at Longbow Partners, an Austin government-affairs/lobbying firm; former Chief of Staff to TX Sen. Brian Birdwell and prior staff to Gov. Perry, Sen. Hutchison, Lt. Gov. Dewhurst. Fifth-generation Austin native. Board/civic roles are charity/civic only (Blood Cancer United chair, Austin Sunshine Camps, Young Men's Business League, and chair of the Austin City Council Ethics Review Commission) — none in the balanced advocacy categories. No individual federal PAC contributions surfaced.",
+    "source_url": "https://longbow-partners.com/our-team/robert-ben-stratmann/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "614acc6572ba3bf9",
+    "name": "Castilla, Juany",
+    "resolved_employer": "Owner, Juany Cleaning Service LLC (also runs event-center and real-estate ventures); 'Mystik' not confirmed as a specific registered entity",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Juany Castilla is a documented Austin entrepreneur and single mother who owns Juany Cleaning Service LLC (17+ yrs) and has expanded into real estate and event-center management. Person ID is strong (name + Austin + 'Owner'); the specific employer 'Mystik' could not be tied to a confirmed business (Mystik Cleaning Service is owned by another person; Mystik Events is a San Diego company), so the exact entity behind 'Mystik' is unresolved. No FEC PAC or TX lobbyist ties found.",
+    "source_url": "https://voyageaustin.com/interview/hidden-gems-meet-juany-castilla-of-juany-cleaning-service-llc/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "68569f6dc3696252",
+    "name": "Moroney, William",
+    "resolved_employer": "Retired trade-association CEO (led several tech/telecom industry associations incl. Utilities Telecom Council, Electronic Messaging/Mail Association, MultiMedia Telecommunications Association)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "William 'Bill' Moroney is a lifelong Washington DC (Georgetown = 20007) resident who spent ~30 years as CEO of several industry/technology trade associations, retiring in 2011; he led regulatory/standards advocacy for emerging tech (electronic funds transfer, e-mail, smart grid). DC/Georgetown residence and 'Retired' both corroborate the donor record. Now a board member of Georgetown Heritage and other National Park Friends/education-foundation civic groups. No FEC PAC or TX lobbyist ties in the flagged categories found.",
+    "source_url": "https://joshuaryu-georgetown.squarespace.com/moroney",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "696fd867e630e5b9",
+    "name": "Malik, Zeeshan",
+    "resolved_employer": "Malik Legal Group PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Austin transactional real-estate attorney (TX bar since 2013), principal of Malik Legal Group PLLC (1608 W 5th St), advising on commercial RE acquisitions/entitlement/financing. Also Founding Board Member & General Counsel of Transit Forward (Austin public-transit advocacy 501(c)(3)), Founding Principal of Thoughtful Development Partners (sustainable homebuilding), co-founder of Onward! Austin Ventures, and Leadership Austin Essential 44 (2022-23). Advocacy is transit/urbanism-focused; no FEC PAC contributions or TX lobbyist registration found, and none of his documented advocacy falls within the balanced ideological categories tracked.",
+    "source_url": "https://www.maliklegalgroup.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6e68c666ef9543cf",
+    "name": "Watson, Liz",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "FEC/OpenSecrets occupation and employer both listed as 'none.' Consistent with a prolific Democratic small-dollar (ActBlue) donor, but no public bio, LinkedIn, or professional profile could be tied to the Austin 78751 individual. Deliberately NOT conflated with the nationally-known Liz Watson (Indiana congressional candidate / Congressional Progressive Caucus ED), whose location does not corroborate Austin. Identity of this specific donor could not be independently confirmed.",
+    "source_url": "https://www.opensecrets.org/donor-lookup",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

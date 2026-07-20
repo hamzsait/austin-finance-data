@@ -1,0 +1,235 @@
+[
+  {
+    "donor_id": "d164b0cdd06608a6",
+    "name": "Kuchinsky, Ari",
+    "resolved_employer": "Metcalfe Wolff Stuart & Williams LLP (Partner, commercial real estate attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Ari H. Kuchinsky, partner at Austin land-use/real-estate firm Metcalfe Wolff; Board Certified in Commercial Real Estate Law, practice focuses on representing developers in acquisition/development/disposition of real property. Firm bio + State Bar corroborate Austin identity; zip 78738 consistent.",
+    "source_url": "http://mwswtexas.com/our-people/ari-kuchinsky/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Member", "category": "business", "source_url": "http://mwswtexas.com/our-people/ari-kuchinsky/", "snippet": "Professional affiliations listed on firm bio include Real Estate Council of Austin, an industry advocacy group active on Austin land-use/zoning policy."}
+    ]
+  },
+  {
+    "donor_id": "0524cb858702bc58",
+    "name": "Frazier, Jeffrey K",
+    "resolved_employer": "Kyle Frazier Consulting, Inc. / Texas Desalination Association (Executive Director; registered Texas lobbyist)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "'Jeffrey K Frazier' = J. Kyle Frazier (goes by Kyle); occupation 'Executive Director, Government Relations' and employer 'Southwest/Texas Desalination Association' match exactly. Registered Texas lobbyist 30+ yrs lobbying on water desalination, healthcare, alcohol regulation, and excise/sales taxes. Austin, zip 78749 consistent.",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/j-kyle-frazier-13170",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Desalination Association / Kyle Frazier Consulting", "role": "Executive Director & registered Texas lobbyist", "category": "business", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/j-kyle-frazier-13170", "snippet": "J. Kyle Frazier appears in Texas Ethics Commission registered-lobbyist lists 2018-2026; represents legislative/public-policy interests for water desalination, healthcare, alcohol regulation, and excise/sales taxes."}
+    ]
+  },
+  {
+    "donor_id": "0f918db473c139df",
+    "name": "Ishmael, Ed",
+    "resolved_employer": "Ishmael Law Firm, P.C. (Owner/attorney, real estate closings for infill builders/developers)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Ralph Edward 'Ed' Ishmael Jr., owner of Ishmael Law Firm PC (3009 N Lamar, Austin 78705; donor zip 78706 adjacent), real estate attorney serving infill builders, developers, lenders; also of counsel to Independence/Midtown Title. FEC shows small 2020 ActBlue donations from a Ralph Ishmael (SELF, 78705), consistent but not an org affiliation.",
+    "source_url": "https://www.independencetitle.com/bios/ed-ishmael/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "144479badc96b09f",
+    "name": "Schroeder, Chad",
+    "resolved_employer": "Eurus Capital Partners, LLC (Vice President, commercial real estate investment)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Chad Schroeder, VP at Austin commercial real-estate investment firm Eurus Capital Partners (donor's 'AKMI - Eurus Capital'); Texas A&M grad. Prior roles at CIMA Energy and Stallion Oilfield Services (oil-field services, employee-level, not exec/owner). Not a registered TX lobbyist; no FEC PAC records found. Zip 78750 consistent.",
+    "source_url": "https://www.euruscap.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "48fbac45fb4773fc",
+    "name": "Eisman, Denise",
+    "resolved_employer": "Austin Hotel & Lodging Association (Executive Director); also President, Events512",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Denise Z. Eisman, Executive Director of the Austin Hotel & Lodging Association (AHLA = Austin Hotel & Lodging Assn, NOT humane/American Hotel & Lodging), ~25 yrs Texas hospitality sales/marketing; also President of Events512. Pflugerville TX 78660 matches Radaris listing. Not personally listed as a registered TX lobbyist (AHLA/THLA lobbying handled by Scott Joslove); no FEC PAC records found.",
+    "source_url": "https://www.austinlodging.org/greenforum/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Hotel & Lodging Association", "role": "Executive Director", "category": "business", "source_url": "https://gbta-austinbta.starchapter.com/meetinginfo.php?id=64&ts=1456773170", "snippet": "Denise Eisman listed as Executive Director, Austin Hotel & Lodging Association, an industry group active on hospitality/hotel-tax policy."}
+    ]
+  },
+  {
+    "donor_id": "621fa101d5ae5beb",
+    "name": "Garza, Jose",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "San Antonio (78228) retiree; extremely common name and no employer string. Cannot confirm the specific individual and is not the Travis County DA José Garza. Former career undeterminable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "634ec907fc95ed04",
+    "name": "Eisman, James",
+    "resolved_employer": "FBI (law enforcement)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor record lists occupation Law Enforcement / employer FBI in Pflugerville 78660. A Denise Z Eisman is publicly listed at Pflugerville, TX (same zip), supporting the household/spouse relationship noted; no individual FEC PAC or TX lobbyist records found.",
+    "source_url": "https://radaris.com/Denise-Eisman/1458188281",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ed3d9796609859a",
+    "name": "Fenwick, Samuel",
+    "resolved_employer": "Narrow Road Group (Austin real estate investment/development); since moved to VP at Tiemann Land and Cattle Development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Sam Fenwick, Austin TX, Columbia MBA, real estate private-equity background (Pennybacker Capital, CIM Group); employer Narrow Road Group matches donor record. Narrow Road Group is itself a registered City of Austin lobby client. No personal FEC PAC or TX lobbyist registration found.",
+    "source_url": "https://rocketreach.co/sam-fenwick-email_12773306",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8868dc487a4b3b54",
+    "name": "Morris, Lance",
+    "resolved_employer": "The Retail Connection (President, Austin office) — commercial retail real estate",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Lance Morris is President of The Retail Connection's Austin office, a 38-year Austin commercial retail real estate broker (formerly The Weitzman Group); ICSC member. Firm bio and LinkedIn confirm identity in Austin 78703. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://theretailconnection.net/our-team/lance-morris/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ba947b715502a258",
+    "name": "Morehead,  Lucian",
+    "resolved_employer": "Asterra Properties (Principal / co-founder) — Austin commercial real estate brokerage",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Lucian Morehead co-founded Asterra Properties (2008) in Austin; commercial real estate broker, UT Austin BFA, board of Austin Commercial Real Estate Society. Firm staff page confirms identity; employer 'Asterra Kucera' in record corresponds to Asterra. No FEC PAC or TX lobbyist records found (a distinct 'Tracy Morehead' appears in TEC lobby data — not this person).",
+    "source_url": "https://asterra.com/staff/lucian-morehead/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d6038d021d6c019f",
+    "name": "Cannon, Tina",
+    "resolved_employer": "Austin LGBT Chamber of Commerce (President & CEO through Sept 2025); now VP Strategic Alliances / Executive Director, Visit Austin Foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Well-documented Austin figure: President & CEO of the Austin LGBT Chamber of Commerce 2017-2025, prior VP Government Relations for Greater Austin Chamber and Senior Policy Analyst for City of Austin; moved to Visit Austin Sept 2025. Austin 78704 matches. Note: a separate 'Tina Cannon' who ran for US House in Utah (R, 2022) is a different person.",
+    "source_url": "https://www.austintexas.org/articles/post/tina-cannon-joins-visit-austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin LGBT Chamber of Commerce", "role": "President & CEO (2017-2025)", "category": "civic", "source_url": "https://austinlgbtchamber.com/tina-cannon-to-lead-visit-austin-foundation-strategic-alliances/", "snippet": "Cannon served as President & CEO of the Chamber since 2017; led REED (Regional Equity in Economic Development) Plan and DECA regional economic-development advocacy."}
+    ]
+  },
+  {
+    "donor_id": "febd19d3823804ce",
+    "name": "Holcolmb, Bennett",
+    "resolved_employer": "Riverside Resources (Austin commercial real estate investment/development firm) — investment & development / leasing",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Name is 'Holcomb'; Bennett Holcomb works in investment & development (leasing, project management, underwriting) at Riverside Resources, an Austin CRE firm (HQ 1221 S MoPac). West Point BS, McCombs MBA in Real Estate Finance, prior JLL summer analyst and US Army. Employer string 'Riverside Resources' + occupation 'Real Estate' match exactly; the listed zip 78112 (south of San Antonio) is inconsistent with the Austin firm but the specific employer match is strong.",
+    "source_url": "https://www.zoominfo.com/p/Bennett-Holcomb/2394631963",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3a9f8ff9802c4359",
+    "name": "Gatica, Stephanie",
+    "resolved_employer": "University of Texas at Austin — Senior Program Coordinator, Experiential Engagement, College of Natural Sciences (formerly Systems Outreach Coordinator, United Way for Greater Austin)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "UT Austin directory confirms Stephanie Gatica as Senior Program Coordinator, Experiential Engagement in the College of Natural Sciences; ZoomInfo shows prior Systems Outreach Coordinator role at United Way of Austin. Donor employer strings (United Way, University of Texas) and outreach occupations match precisely; Austin 78758 consistent.",
+    "source_url": "https://cns.utexas.edu/directory/stephanie-gatica",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eebc0c6a1b5ddaa5",
+    "name": "Sepulveda, Gabriel",
+    "resolved_employer": "The Williams Companies — Director, Government & Regulatory Affairs (natural gas/energy)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Garbled fields resolve cleanly: 'Williams' = employer (Williams Companies, interstate natural-gas pipeline company), 'Government Affairs' = role. Gabriel Sepulveda has been Director of Government & Regulatory Affairs at Williams since Dec 2019; prior Legislative Director in the Texas House, founder of Paradigm Advocates, and a registered Texas lobbyist in 2013/2016 (client Advance America). Austin 78745.",
+    "source_url": "https://theorg.com/org/williams/org-chart/gabriel-sepulveda",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Williams Companies", "role": "Director, Government & Regulatory Affairs", "category": "oil_gas", "source_url": "https://theorg.com/org/williams/org-chart/gabriel-sepulveda", "snippet": "Director of Government and Regulatory Affairs at Williams since December 2019, overseeing government/regulatory affairs for the natural-gas/energy company; guided Williams at Texas Energy Day at the Capitol."},
+      {"org": "Texas Ethics Commission lobbyist registry", "role": "Registered lobbyist (2013, 2016)", "category": "oil_gas", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2016/2016LobbyistGroupByClient.pdf", "snippet": "Gabriel G. Sepulveda registered as a Texas lobbyist (2013/2016), Austin address, client Advance America Cash Advance Centers; consistent with his career as an energy government-affairs professional."}
+    ]
+  },
+  {
+    "donor_id": "b4f9adc8ab597c4e",
+    "name": "Azurin, Dana",
+    "resolved_employer": "Arrow Electronics — Senior Field Application Engineer",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Dana Azurin is a Senior Field Application Engineer at Arrow Electronics (electronics/technology distribution), based in the Austin/Pflugerville area (78660); also serves on the Pflugerville Education Foundation board. LinkedIn + employer 'Arrow Electronics' + Pflugerville zip match. Note: a separate retired 'Dana Azurin' at a 78703 Austin address who gave $50 to an out-of-state PAC in 2022 is a different person and not attributed here.",
+    "source_url": "https://www.linkedin.com/in/danaazurin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "057b49d79b74929f",
+    "name": "McLemore, Victoria",
+    "resolved_employer": "Austin PBS (KLRU-TV), Marketing Director; previously marketing communications consultant for Austin Energy",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Victoria McLemore was hired as Marketing Director for Austin PBS in 2022, having previously worked as a marketing communications consultant for Austin Energy; Liberty Hill/78642 and the Austin PBS/Austin Energy/marketing occupation strings all corroborate.",
+    "source_url": "https://current.org/2022/04/comings-and-goings-austin-pbs-appoints-cfo-michigan-radio-hires-pd/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9e606629e3b67d0d",
+    "name": "Lopez, Carisa",
+    "resolved_employer": "Texas Freedom Network, Deputy Director (formerly Senior Political Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Carisa Lopez is Deputy Director (formerly Senior/Political Director) at Texas Freedom Network, a progressive advocacy org; Austin/78703 and the TFN/Political Director occupation strings match, and she is a registered Texas lobbyist for TFN PAC.",
+    "source_url": "https://tfn.org/staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Freedom Network / TFN PAC", "role": "Deputy Director (formerly Political/Senior Political Director); registered Texas lobbyist", "category": "political", "source_url": "https://www.ethics.state.tx.us/search/lobby/loblistsREG2021-2025.php", "snippet": "Carisa Lopez (Deputy Director) is listed in Texas Ethics Commission lobby registration records associated with TFN PAC, Austin; TFN is a progressive advocacy organization supporting public schools, equality and social justice."}
+    ]
+  },
+  {
+    "donor_id": "da72d0bc523749d6",
+    "name": "Rivera, Samuel",
+    "resolved_employer": "City of Austin (Fleet Mobility Services), Vehicle Coordinator",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Occupation strings (Vehicle Coordinator, Fleet, City of Austin) and Austin/78744 are internally consistent with a City of Austin Fleet Mobility Services employee; no distinct individual public profile found (common name), so classified by employer fallback.",
+    "source_url": "https://www.austintexas.gov/fleet-mobility",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "efcd58916b3acb4c",
+    "name": "Banda, Rosemary",
+    "resolved_employer": "Tito's Handmade Vodka (Fifth Generation Inc.), Giving Operations Coordinator; previously 3M Community Affairs",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Rosemary H. Banda is Giving Operations Coordinator at Tito's Handmade Vodka in Austin, previously an administrative coordinator in 3M Community Affairs; Austin/78745 and the 'community affairs'/'Titos' employer strings match her LinkedIn. Role is corporate philanthropy, not policy advocacy.",
+    "source_url": "https://www.linkedin.com/in/rosemary-h-banda-0927288b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "06b694a097575217",
+    "name": "Alonso, Maria",
+    "resolved_employer": "City of Austin (Austin Center for Events), Permit & License Review Analyst / project coordinator",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "A Maria (Maru) Alonso works for the City of Austin's Austin Center for Events as a Permit and License Review Analyst, consistent with the 'Project Coordinator/Manager, City of Austin' strings and Austin/78721; name is common so identity is only moderately confirmed.",
+    "source_url": "https://www.linkedin.com/in/marualonso/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "donor_id": "8b4361a10c9b5312",
+    "name": "Sosa, Dianna",
+    "resolved_employer": "SAS Institute (Regional Sales Mgr., State & Local Government)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Dianna Sosa, Austin TX, was Regional Sales Manager for State & Local Government at SAS (data-analytics software) before moving to North Highland and Snowflake; occupation/employer/location match exactly.",
+    "source_url": "https://www.linkedin.com/in/dianna-sosa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8c5cf2efe30f8001",
+    "name": "Morran, Amy",
+    "resolved_employer": "Self-employed consultant",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Public records place an Amy (Colleen) Morran at 608 Deep Eddy Ave, Austin 78703, matching the donor zip; self-described consultant. Could not confirm consulting specialty or a bio page, so identity/industry are only weakly corroborated.",
+    "source_url": "https://www.advancedbackgroundchecks.com/amy-morran_id_Gy6dB0OE0kNpMd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f1ef789ff83887f",
+    "name": "Sauceda, Priscilla",
+    "resolved_employer": "Sauceda Industries (eCommerce/fulfillment, acquired by Cart.com 2021); St. Elmo real-estate development",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "LinkedIn and Austin Woman profile identify Priscilla Sauceda as co-founder of Sauceda Industries, an Austin eCommerce/fulfillment company at 400 Industrial Blvd, 78745 (matches donor zip); later focused on St. Elmo real-estate development. Industry sits between Technology and Real Estate.",
+    "source_url": "https://www.linkedin.com/in/priscilla-sauceda-235b6412/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a46fc68bd83c870b",
+    "name": "Moses, Christian",
+    "resolved_employer": "Hotel Vegas / Volstead Lounge / LoLo natural wine bar (co-owner)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "CultureMap and Austin Chronicle confirm Christian Moses co-founded and co-owns Hotel Vegas and Volstead (East 6th, East Austin, 78702) since 2010 and co-opened LoLo wine bar in 2020; matches employer, occupation (Owner), and 78702 zip. Same Moses tied to LoLo in other batches.",
+    "source_url": "https://austin.culturemap.com/news/restaurants-bars/02-05-20-east-austin-lolo-natural-wine-bar-and-bottle-shop/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a4f885d0f068aae6",
+    "name": "Fuentes, Frank",
+    "resolved_employer": "Fuentes Construction; U.S. Hispanic Contractors Association de Austin (leadership)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "KVUE and CorporationWiki confirm Frank Fuentes as the well-known Austin Hispanic contractor and chairman/leader of the US Hispanic Contractors Association de Austin; USHCA leadership page lists him by name. Matches CEO/Fuentes Construction and Austin location.",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/frank-fuentes/38870085.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "United States Hispanic Contractors Association de Austin (USHCA)", "role": "Chairman / Convention Chairman", "category": "business", "source_url": "https://www.hcadetejas.org/expo/leadership.htm", "snippet": "USHCA de Austin leadership page lists 'Frank Fuentes, Conventon [sic] Chairman, USHCA de Austin'; CorporationWiki lists him as Chairman of the United States Hispanic Contractors Association."}
+    ]
+  },
+  {
+    "donor_id": "a7768c2994f855d9",
+    "name": "Shipman, Kimberly",
+    "resolved_employer": "TOPO (TOPO Development Group)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Kim Shipman is listed as one of three co-founding Principals of TOPO, a full-service commercial real estate development company in Austin; title 'Principal' and Austin/78746 match. 'TOPO-graphy' is a garbled render of the firm name (not a landscape-architecture firm).",
+    "source_url": "https://www.topo-dg.com/about-topo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "TOPO (TOPO Development Group)", "role": "Principal / Co-founder", "category": "business", "source_url": "https://www.topo-dg.com/about-topo", "snippet": "Kim Shipman is listed as one of the three principals of TOPO, a full-service commercial real estate development company in Austin, TX."}
+    ]
+  },
+  {
+    "donor_id": "aaee2b399c58bb73",
+    "name": "Odonnell, Denis",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation 'Ninja' / employer 'Mountains of China' are joke self-descriptions. A plausible real match is Denis O'Donnell, Austin musician and music-venue owner (The White Horse, Sagebrush), but that person is tied to East Austin, not the 78746/Westlake address, and could not be confirmed as the same donor; FEC pattern could not be verified (API rate-limited).",
+    "source_url": "https://voyageaustin.com/interview/daily-inspiration-meet-denis-odonnell/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ab1ad2f698750fb2",
+    "name": "Rather, Dawn Robin",
+    "resolved_employer": "Collective Strength (self-employed sustainability consultant)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Strongly consistent with Robin Rather (daughter of newsman Dan Rather), an Austin-based, self-employed sustainability consultant and CEO of Collective Strength; matches the flagged Dan Rather family link and 'self employed' occupation. 'Consumrant' appears to be a garbled employer field and zip 78794 is non-standard, hence medium confidence.",
+    "source_url": "https://atxwoman.com/2024/05/01/leading-green-robin-rather/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Save Our Springs Alliance", "role": "Former Board Chair", "category": "civic", "source_url": "https://atxwoman.com/2024/05/01/leading-green-robin-rather/", "snippet": "Robin was chair of the board of the historic Save Our Springs Alliance, established in 1992 to advocate for Austin's Barton Springs and the Edwards Aquifer ecosystem."},
+      {"org": "Liveable City / Hill Country Conservancy / Envision Central Texas", "role": "Co-founder", "category": "civic", "source_url": "https://atxwoman.com/2024/05/01/leading-green-robin-rather/", "snippet": "She was co-founder of Liveable City, Hill Country Conservancy, and Envision Central Texas."}
+    ]
+  },
+  {
+    "donor_id": "ca64c58c2d7c5c74",
+    "name": "Alaniz-Moyer, Ashley",
+    "resolved_employer": "Hispanic Scholarship Consortium",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as Executive Director of the Hispanic Scholarship Consortium, an Austin nonprofit; corroborated by the org's leadership page and an Austin Young Chamber profile. Occupation 'Nonprofit' and employer match exactly.",
+    "source_url": "https://www.hispanicscholar.org/our-leadership",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hispanic Scholarship Consortium", "role": "Executive Director", "category": "civic", "source_url": "https://www.hispanicscholar.org/our-leadership", "snippet": "Ashley Alaniz-Moyer is listed as Executive Director of the Hispanic Scholarship Consortium, working with ~200 Hispanic students annually on scholarships, leadership development, and mentoring."},
+      {"org": "Austin Young Chamber", "role": "Member (featured Member of the Month)", "category": "civic", "source_url": "https://austinyc.org/member-month-ashley-alaniz-moyer/", "snippet": "Ashley Alaniz-Moyer was featured as Austin Young Chamber's Member of the Month."}
+    ]
+  },
+  {
+    "donor_id": "d11e2325ede7926f",
+    "name": "Valerio, John",
+    "resolved_employer": "766 Auto Inc",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Confirmed as John A. (Johnny) Valerio, founder/owner of 766 Auto Inc, an auto-repair shop at 209 N Pleasant Valley Rd, Austin 78702; matches occupation 'Small Business Owner' and employer/zip exactly.",
+    "source_url": "https://www.766auto.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "766 Auto Inc", "role": "Founder / Owner", "category": "business", "source_url": "https://www.linkedin.com/in/johnny-valerio-17854623/", "snippet": "Johnny Valerio - Founder & CEO, 766 Auto Inc; founded the East Austin auto-repair shop (formerly Youniversal Auto Care) in 2009, incorporated as 766 Auto Inc in 2020."}
+    ]
+  },
+  {
+    "donor_id": "e4d49749e2437c2f",
+    "name": "Vasquez, Reynaldo",
+    "resolved_employer": null,
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Common name; donor lists only 'Self employed'/'Self' in 78702. A Reynaldo Vasquez works as a self-employed real estate agent in East Austin 78702 (GoodLifeREALTY, 1114 E Cesar Chavez), a plausible but unconfirmed match. Cannot confirm specific individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e92aa73dce271eee",
+    "name": "Navarro, Ashley",
+    "resolved_employer": "1839 Real Estate Group",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Employer 1839 Real Estate Group is a confirmed Austin commercial/residential brokerage (principal Alex Navarro); occupation 'Real Estate' consistent. Classified by employer; specific Ashley Navarro not independently verified. No FEC PAC or TX lobbyist records.",
+    "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-alex-navarro-of-1839-real-estate-group-realty-one-group-prosper/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "1839 Real Estate Group", "role": "Real estate agent", "category": "business", "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-alex-navarro-of-1839-real-estate-group-realty-one-group-prosper/", "snippet": "1839 Real Estate Group is an Austin-based real estate brokerage handling commercial and residential real estate."}
+    ]
+  },
+  {
+    "donor_id": "39b6b92354f5ab22",
+    "name": "Ellison, Jessica",
+    "resolved_employer": "Communication Service for the Deaf (CSD)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Occupation 'CSD / Director of Internal Communications' matches LinkedIn: Jessica L. Ellison, Director of Internal Communication at Communication Service for the Deaf (CSD), Austin TX. Also a marketing/communications consultant. No FEC PAC or TX lobbyist records (distinct from 'Jessica Ellison of Texans for Accountable Gov't').",
+    "source_url": "https://www.linkedin.com/in/jessicalellison/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58cde6bb56ce08cd",
+    "name": "Pownall, Bailey",
+    "resolved_employer": "Latinitas / Mural Supply Co.",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Both listed employers confirmed: co-founder of Mural Supply Co. (Austin mural/public-art company) and Engagement/Development staff at Latinitas (Austin nonprofit for Latina girls); UT San Antonio grad who founded nonprofit 'Honeycomb' for millennial giving. No FEC PAC or TX lobbyist records.",
+    "source_url": "https://latinitas.medium.com/latinitas-first-engagement-manager-eats-breathes-and-sleeps-millennial-giving-95c01967932",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Latinitas", "role": "Engagement/Development Manager", "category": "civic", "source_url": "https://latinitas.medium.com/latinitas-first-engagement-manager-eats-breathes-and-sleeps-millennial-giving-95c01967932", "snippet": "Bailey Pownall joined Latinitas as Engagement Manager, handling volunteer management tied to the organization's development ecosystem."},
+      {"org": "Mural Supply Co.", "role": "Co-founder / Co-owner", "category": "business", "source_url": "https://www.muralsupply.com/about", "snippet": "Mural Supply Co. is an Austin company providing wall prep, UV protection, and public/commercial mural project services; Bailey Pownall is a co-founder."}
+    ]
+  },
+  {
+    "donor_id": "80831bbf36b0cd94",
+    "name": "Medel, Gabriel",
+    "resolved_employer": "BSI Auditors, LLC",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "ZoomInfo confirms Gabriel Medel as Principal Owner of BSI Auditors, LLC (Austin accounting/auditing firm); also co-founder/business partner of Radix House Coffee (opened Oct 2020 with high-school friend Roger Pilney). Classified by primary employer (auditing). No FEC PAC or TX lobbyist records.",
+    "source_url": "https://www.zoominfo.com/p/Gabriel-Medel/1601985192",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Radix House Coffee", "role": "Co-founder / Managing Partner", "category": "business", "source_url": "https://communityimpact.com/austin/southwest-austin-dripping-springs/dining/2022/03/29/truck-provides-coffee-cbd-and-community/", "snippet": "Gabriel Medel co-founded Radix House Coffee Shop, opening the first location in October 2020 with high-school friend Roger Pilney."}
+    ]
+  },
+  {
+    "donor_id": "bb775eced7e4b8c6",
+    "name": "Donnelly, Laura",
+    "resolved_employer": "Latinitas",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Co-founder (2002) and longtime CEO/Executive Director of Latinitas, the Austin bilingual nonprofit empowering Latina girls in media/tech; departed 2023 to consult. Name, CEO title, employer and Austin 78702 all match. No federal PAC or TX lobbyist records found.",
+    "source_url": "https://atxwoman.com/2023/09/01/i-am-austin-woman-laura-donnelly/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Latinitas", "role": "Co-founder & former CEO/Executive Director", "category": "civic", "source_url": "https://latinitasonline.org/about/", "snippet": "Latinitas was founded in 2002 by Laura Donnelly and Alicia Rascon; she served as CEO of the Austin nonprofit for two decades."}
+    ]
+  },
+  {
+    "donor_id": "82b7af68d25d5f0e",
+    "name": "Rosas, Adrian",
+    "resolved_employer": "TRE & Associates, LLC",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Adrian Rosas, PE, CFM — Principal at TRE & Associates, a civil engineering firm (El Paso/Austin); ~20 yrs in water/wastewater infrastructure, UT-Austin civil engineering degree. Name, occupation, employer, Austin 78735 match. No federal PAC or TX Ethics Commission lobbyist records found.",
+    "source_url": "https://tr-eng.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9987c481ed961f4f",
+    "name": "LaGrone, Terry",
+    "resolved_employer": "MileStone Community Builders (CFO)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "CFO of MileStone Community Builders ('Mlestone' is a typo), an Austin-based single-family/condo homebuilder; prior finance roles at William Lyon Homes, Lennar, KB Home, Ryland. Name, CFO title, employer and Lago Vista 78645 residence match. No individual federal PAC contribution or TX lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/terry-lagrone-49ab835/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "MileStone Community Builders", "role": "Chief Financial Officer", "category": "business", "source_url": "https://www.linkedin.com/in/terry-lagrone-49ab835/", "snippet": "Terry LaGrone is CFO of MileStone Community Builders, an Austin homebuilder/residential developer."}
+    ]
+  },
+  {
+    "donor_id": "5d4106606aa6a61b",
+    "name": "Benson, James",
+    "resolved_employer": "Progress Coffee",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Managing partner / co-owner of Progress Coffee (East Austin coffee roaster and coffee-and-cocktails bar), which he co-runs with Scott Withers; roasting specialist who joined the business in 2012. Owner occupation, employer and 78704 Austin residence match; the 'H'/'NA' occupation strings are noise. No federal PAC or TX lobbyist records found.",
+    "source_url": "https://www.axios.com/local/austin/2023/10/24/progress-coffee-james-benson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fc795cddab7f83cf",
+    "name": "Newman, Jake",
+    "resolved_employer": "Endeavor Real Estate Group (Principal)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Principal at Endeavor Real Estate Group (major Austin commercial/residential developer), hired late 2023 to lead its student-housing platform; former EVP/Head of Development at American Campus Communities (21 yrs, 45,000+ beds, $4.1B). 2026 gift is to Velásquez's current re-election. Not a personally registered City of Austin lobbyist (Endeavor's registered lobbyists are Richard Suttle, Julienne Cain, Amanda Hendrix, et al.); no federal PAC contribution found.",
+    "source_url": "https://www.endeavor-re.com/about/team/jake-newman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Multifamily Housing Council", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/jake-newman/", "snippet": "Professional affiliations listed on Endeavor bio: National Multifamily Housing Council (member)."},
+      {"org": "Urban Land Institute – Student Housing Product Council", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/jake-newman/", "snippet": "Member of the Urban Land Institute Student Housing Product Council; real-estate-development industry body."}
+    ]
+  }
+]
