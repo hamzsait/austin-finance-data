@@ -258,5 +258,95 @@
     "w": 58
    }
   ]
+ },
+ "ellis": {
+  "raised": 111663,
+  "donors": 420,
+  "contributions": 526,
+  "avg": 265.86,
+  "first_gift": "2025-05-31",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Real Estate",
+    "amt": 35317,
+    "w": 100
+   },
+   {
+    "label": "Consulting / PR",
+    "amt": 8339,
+    "w": 24
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 7894,
+    "w": 22
+   },
+   {
+    "label": "Engineering",
+    "amt": 7433,
+    "w": 21
+   }
+  ]
+ },
+ "xie": {
+  "raised": 104827,
+  "donors": 660,
+  "contributions": 793,
+  "avg": 158.83,
+  "first_gift": "2025-06-16",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Healthcare",
+    "amt": 11453,
+    "w": 100
+   },
+   {
+    "label": "Not Employed",
+    "amt": 10227,
+    "w": 89
+   },
+   {
+    "label": "Government",
+    "amt": 9269,
+    "w": 81
+   },
+   {
+    "label": "Technology",
+    "amt": 9253,
+    "w": 81
+   }
+  ]
+ },
+ "bowen": {
+  "raised": 16816,
+  "donors": 39,
+  "contributions": 82,
+  "avg": 431.18,
+  "first_gift": "2026-04-01",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Not Employed",
+    "amt": 3626,
+    "w": 100
+   },
+   {
+    "label": "Legal",
+    "amt": 3500,
+    "w": 97
+   },
+   {
+    "label": "Technology",
+    "amt": 2500,
+    "w": 69
+   },
+   {
+    "label": "Government",
+    "amt": 2100,
+    "w": 58
+   }
+  ]
  }
 }

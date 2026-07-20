@@ -182,6 +182,66 @@
     }
    ],
    "omitted": []
+  },
+  {
+   "race_id": "district8",
+   "seat": "District 8",
+   "title": "Austin City Council District 8",
+   "kind": "incumbent",
+   "cycle_start_year": 2025,
+   "data_through": "2026-06-30",
+   "election_date": "2026-11-03",
+   "runoff_date": "2026-12-12",
+   "early_voting": "2026-10-19 to 2026-10-30",
+   "filing_opens": "2026-07-20",
+   "filing_closes": "2026-08-17",
+   "ballot_final": false,
+   "intro": "Paige Ellis, who has represented District 8 since 2019, is seeking a rare third term. Austin's two-term limit permits a third term only if a member gathers signatures from 5% of registered voters in the district — roughly 3,000 for District 8 — and her campaign began collecting them in June; the petition is due with her ballot application by August 17. She won the seat in a December 2018 runoff and was re-elected outright in 2022 with 58% of the vote. The district covers Southwest Austin. Note: figures here cover reported contributions only — Ellis has loaned her campaign about $30,000 and Selena Xie about $25,000; loans do not appear in contribution filings.",
+   "context_note": "Candidate filing runs July 20 - August 17, 2026. Everyone listed here has declared and appointed a campaign treasurer, but filing has not closed. Expect additions, and expect some listed candidates not to complete filing.",
+   "candidates": [
+    {
+     "slug": "ellis",
+     "name": "Paige Ellis",
+     "recipient": "Ellis, Paige",
+     "photo": "au8",
+     "website": "https://www.paigeforaustin.org",
+     "bio": "Environmental and public-relations professional; won this seat in a December 2018 runoff and was re-elected in 2022. Seeking a third term by petition.",
+     "status": "incumbent",
+     "has_data": true
+    },
+    {
+     "slug": "xie",
+     "name": "Selena Xie",
+     "recipient": "Xie, Selena",
+     "photo": null,
+     "website": "https://selenaforaustin.com",
+     "bio": "Austin-Travis County EMS commander, ICU nurse and longtime president of the Austin EMS Association. First run for office.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "bowen",
+     "name": "Jeffery Bowen",
+     "recipient": "Bowen, Jeffery L.",
+     "photo": null,
+     "website": "https://www.jeffbowenforaustincitycouncil.com",
+     "bio": "Retired Air Force veteran and construction manager; president of the Austin Neighborhoods Council and chair of the Board of Adjustment. Ran for mayor in 2024.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": null,
+     "name": "Daniel Hudsky",
+     "recipient": null,
+     "photo": null,
+     "website": null,
+     "bio": "Army veteran and 40-year Austin resident; running as the field's conservative voice.",
+     "status": "declared",
+     "has_data": false,
+     "placeholder_note": "Filed to run - no campaign finance data on file yet"
+    }
+   ],
+   "omitted": []
   }
  ]
 }
