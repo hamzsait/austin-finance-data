@@ -28,7 +28,8 @@ import re
 # once here is enough (re-wrapping stdout again closes the shared buffer under GC).
 import generate_profile_data as gpd
 
-ROOT = "C:/Users/Hamza Sait/Electoral/austin-finance-data"
+# Repo-relative so builds work from any checkout/worktree of the repo.
+ROOT = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE = os.path.join(ROOT, "profile_template.html")
 
 # Remaining current incumbents not yet live. recipient = exact string in the DB.
@@ -78,10 +79,11 @@ def og_meta_for(slug: str) -> dict:
                     break
                 g = s["topGroups"]
                 tops = " and ".join(f"{x['label']} (${x['amt']:,})" for x in g[:2]) or "—"
+                seat_context = "an open seat" if race.get("kind") == "open" else "a seat on the November 2026 ballot"
                 return {
                     "title": f"{cand['name']} — {race['seat']} Candidate — decode(politics):",
                     "desc": (
-                        f"{cand['name']} is running for Austin City Council {race['seat']}, an open seat. "
+                        f"{cand['name']} is running for Austin City Council {race['seat']}, {seat_context}. "
                         f"Raised ${s['raised']:,} from {s['donors']:,} donors this cycle. "
                         f"Top donor interests: {tops}. Every dollar decoded, donor by donor."
                     ),
@@ -115,7 +117,7 @@ COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez", "morales"}
 # template with the officeholder-specific framing swapped out. NOTE: Steven
 # Brown is slug "stevenbrown" because "brown" is already Travis County Judge
 # Andy Brown; passing the exact recipient string keeps the LIKE match clean.
-CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins"}
+CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins", "shah"}
 
 CANDIDATE_TEMPLATE_SUBS = [
     # NOTE: the hero badge is NOT set here -- renderHero() overwrites it from

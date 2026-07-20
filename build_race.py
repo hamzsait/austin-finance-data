@@ -115,10 +115,11 @@ def og_meta_for(race, stats) -> dict:
     live = [c for c in race["candidates"] if c.get("slug") and c["slug"] in stats]
     total = sum(stats[c["slug"]]["raised"] for c in live)
     n = len(race["candidates"])
+    seat_context = "an open seat" if race.get("kind") == "open" else "a seat on the November 2026 ballot"
     return {
         "title": f"{race['seat']} 2026 — Austin Campaign Finance — decode(politics):",
         "desc": (
-            f"{n} candidates are running for Austin City Council {race['seat']}, an open seat. "
+            f"{n} candidates are running for Austin City Council {race['seat']}, {seat_context}. "
             f"${total:,} raised so far this cycle, decoded donor by donor."
         ),
         "alt": f"Austin City Council {race['seat']} 2026 candidates — campaign money decoded by decode(politics):",

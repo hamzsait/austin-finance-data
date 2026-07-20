@@ -448,7 +448,8 @@ function raceCardHtml(race, stats){
   const tag = race.ballot_final
     ? '<span class="racetag">BALLOT SET</span>'
     : '<span class="racetag pending">FILING OPEN</span>';
-  const kind = race.kind === 'open' ? 'Open seat' : 'Council race';
+  const kind = race.kind === 'open' ? 'Open seat'
+    : race.kind === 'incumbent' ? 'Incumbent seeking re-election' : 'Council race';
   const outgoing = race.outgoing ? ' · ' + esc(race.outgoing.name) + ' not seeking re-election' : '';
   return '<a class="racecard" href="/austin/' + esc(race.race_id) + '/">'
     + '<div class="racetop"><span class="raceseat">' + esc(race.seat) + '</span>' + tag + '</div>'
