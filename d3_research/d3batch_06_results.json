@@ -1,0 +1,248 @@
+[
+  {
+    "donor_id": "6f3b1eac456a6876",
+    "name": "Price, Eva B.",
+    "resolved_employer": "Integral Care (Austin Travis County Integral Care)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Behavioral-health clinician / QMHP Supervisor at Integral Care, Travis County's Local Mental Health Authority; LinkedIn lists her as a rehabilitation/mental-health professional at Integral Care in Austin, matching the reported occupation and employer (zip 78758).",
+    "source_url": "https://www.linkedin.com/in/eva-price-51b208b4/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "73e59d3b118e311f",
+    "name": "Duhr, Kellie Lynn",
+    "resolved_employer": "Vice President, State Government Relations, Sazerac Company, Inc. (in-house lobbyist)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "VP of State Government Relations at spirits maker Sazerac and a registered Texas lobbyist; TEC and Transparency USA list her lobbying for Sazerac, confirming the 'Government Relations / Sazerac' occupation as an in-house corporate lobbyist role (Austin 78703).",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/kellie-duhr-61238",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Sazerac Company, Inc.", "role": "Vice President, State Government Relations / registered Texas lobbyist", "category": "business", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/kellie-duhr-61238", "snippet": "Kellie Duhr registered as a Texas lobbyist ('Vice President, State Government Relations') with Sazerac Company, Inc. among her clients in the Texas Ethics Commission lobbyist registry."}
+    ]
+  },
+  {
+    "donor_id": "7b6b2183983133eb",
+    "name": "CLIFFORD, JORDAN",
+    "resolved_employer": "Self (independent/angel investor; co-founder of crypto VC fund Scalar Capital, ex-Coinbase)",
+    "industry": "Venture Capital",
+    "confidence": "medium",
+    "evidence": "Occupation 'Investor / self' most plausibly matches Jordan Clifford, co-founder of crypto venture fund Scalar Capital (ex-Coinbase), now independent and based in the Austin metro (Pflugerville 78660 is a NE Austin suburb). Common name; exact Pflugerville address not independently confirmed, hence medium confidence.",
+    "source_url": "https://www.crunchbase.com/person/jordan-clifford",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b8e8e00eab615da",
+    "name": "Sanchez, Chris",
+    "resolved_employer": "Travis County (Transportation & Natural Resources / Public Works, Signs & Markings)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Public-sector field employee: Travis County 'Signs and Markings Specialist' (per donor record), a Public Works street-sign/pavement-marking role (Austin 78745). 'Chris Sanchez' is a very common name; no unique public bio or FEC record found. A 'Chris J. Sanchez' appears in the TEC lobbyist list but is almost certainly a different person (a county field-crew specialist is not a registered lobbyist), so not recorded.",
+    "source_url": "https://www.traviscountytx.gov/tnr/public-works",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7fcc4e8514120f20",
+    "name": "Needham, Jordan",
+    "resolved_employer": "Founding Partner, Seco Ventures (Austin commercial real estate); also Founding Partner, Bronco Ventures",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Founding Partner of Seco Ventures, an Austin commercial real-estate development firm founded by the Needham family; 15+ yrs CRE (prior Riverside Resources, BlackSwan Real Estate Partners), Vanderbilt Engineering/Economics. Also Founding Partner of Bronco Ventures, a Texas-focused PE firm. Corroborates 'investor'/self-employed, Lakeway/Austin (78734).",
+    "source_url": "https://secoventures.com/bios",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8152f44afef363bf",
+    "name": "Kang, Hannah",
+    "resolved_employer": "Presidium (Presidium Group multifamily real estate)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Analyst at Presidium, a Dallas/Austin-based multifamily real-estate developer/owner-operator; prior roles at Sands Investment Group, CBRE, Northwestern Mutual. Matches donor occupation 'Real Estate' and Austin 78701 location.",
+    "source_url": "https://www.presidiumre.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "896848246f87ef41",
+    "name": "Beuerlein, Laura",
+    "resolved_employer": "Executive VP of Marketing / owner-partner, Heritage Title Company of Austin",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Executive VP of Marketing and owner/partner at Heritage Title Company of Austin (title insurance/real estate); joined 1986, partner since 1989. Extensive real-estate civic leadership matches 'Vice President'/'Heritage Title' (Austin 78703).",
+    "source_url": "https://heritagetitleofaustin.com/team_member/team-member-laura-beuerlein/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Multifamily Housing Council (NMHC)", "role": "Board member; serves on the NMHC PAC Board", "category": "business", "source_url": "https://heritagetitleofaustin.com/team_member/team-member-laura-beuerlein/", "snippet": "Longtime NMHC board member; former Executive Committee Chair of Membership; currently serves on the PAC Board."},
+      {"org": "Real Estate Council of Austin (RECA)", "role": "22-year Board of Directors member; Executive Committee", "category": "business", "source_url": "https://heritagetitleofaustin.com/team_member/team-member-laura-beuerlein/", "snippet": "22-year Board of Directors member; multiple Executive Committee terms; former secretary."},
+      {"org": "Urban Land Institute (ULI)", "role": "Vice Chair, Multi-Family Silver Council; Austin Advisory Council", "category": "business", "source_url": "https://heritagetitleofaustin.com/team_member/team-member-laura-beuerlein/", "snippet": "Local and national ULI leadership on multi-family real estate."}
+    ]
+  },
+  {
+    "donor_id": "8f9e0096483718eb",
+    "name": "Black, Terry W. and Patti M.",
+    "resolved_employer": "Owners/Founders, Black Family Hospitality (Terry Black's Barbecue)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Terry and Patti Black are the Lockhart founders/owners of Terry Black's Barbecue, operating under Black Family Hospitality (restaurants, Friday Mountain Wines, Opal's Oysters). Matches 'President'/'Black Family Hospitality'/Lockhart 78644.",
+    "source_url": "https://blackfamilyhospitality.com/properties/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9646bce4935975a7",
+    "name": "Austin, Andy",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retiree in East Austin (78702) listing occupation/employer as 'retired'. Could not corroborate a specific individual; retired U.S. Magistrate Judge Andrew W. 'Andy' Austin (formerly W.D. Tex., ex-Vinson & Elkins litigator) is a plausible but unconfirmed match, and multiple people share the name. No documented former career could be tied to this specific donor. (retired)",
+    "source_url": "https://law.utexas.edu/faculty/andrew-w-austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a93e5f024669e380",
+    "name": "Bavishi, Dipti",
+    "resolved_employer": "Dr. Dipti Bavishi Gastroenterology Clinic (self-employed)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Dipti Bavishi, MD is a double board-certified gastroenterologist/internist in solo private practice at 10500 Richmond Ave, Houston, TX 77042 (matches donor zip), in practice since 1995. Member ACG, Harris County Medical Society, Texas Medical Association, Texas Society of Gastroenterology. Out-of-district Houston donor.",
+    "source_url": "https://www.healthgrades.com/physician/dr-dipti-bavishi-x8w3p",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "acbc75a61b6bd941",
+    "name": "Lupa, Tim",
+    "resolved_employer": "Owner, Drinks Lounge (East Austin); co-owner of The Brixton and Velouria bars",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Tim Lupa (with wife Sara Lupa) owns East Austin bars The Brixton and Drinks Lounge (2001 E. Cesar Chavez) and later opened SoCo cocktail bar Velouria; a self-employed East Austin hospitality operator, consistent with the 78744 self-employed listing.",
+    "source_url": "https://austin.culturemap.com/news/restaurants-bars/07-03-14-brixton-shangri-la-new-bar-east-cesar-chavez-drinks",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c119349f47609bd7",
+    "name": "Orozco, Sylvia",
+    "resolved_employer": "Co-Founder & Executive Director, Mexic-Arte Museum",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Sylvia Orozco co-founded the nonprofit Mexic-Arte Museum in downtown Austin in 1984 and has served as its Executive Director since; Austin Arts Hall of Fame inductee (2009) and 2007 Ohtli Award recipient. Austin-based, consistent with 78703. Distinct from an unrelated Chino, CA school-board member of the same name.",
+    "source_url": "https://mexic-artemuseum.org/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Institute of Museum and Library Services (IMLS)", "role": "National Museum and Library Services Board member", "category": "civic", "source_url": "https://www.imls.gov/about/board/sylvia-orozco", "snippet": "Sylvia Orozco listed as a member of the federal IMLS board, reflecting a national arts/museum-governance appointment."}
+    ]
+  },
+  {
+    "donor_id": "c1586b25c18330f0",
+    "name": "Lal, Savita",
+    "resolved_employer": "Director, Monetization & Business Planning, Microsoft",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Savita Lal is a Director, Business Planning at Microsoft, based in the Seattle/Redmond WA area (zip 98199), matching donor occupation and employer. Wharton MBA; prior roles at Twilio, Medallia, Capital One. Out-of-state donor to challenger Neha Shah.",
+    "source_url": "https://www.zoominfo.com/p/Savita-Lal/3364096551",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c1cc4212454daf05",
+    "name": "Templeton, Toni",
+    "resolved_employer": "Founder, TTM Analytics, LLC (Austin data-analytics consultancy); PhD research scientist, Univ. of Houston Education Research Center",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Toni Templeton founded TTM Analytics, LLC (2014), an Austin woman-owned data-analytics/research consultancy registered at 2028 Encino Cir, Austin TX 78723 (matches donor zip) serving education advocacy groups, schools and legal counsel; also a PhD research scientist at the University of Houston Education Research Center. Matches 'Data Consultant'/'TTM Analytics'.",
+    "source_url": "http://ttm-analytics.com/about-2",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c34800e29175d183",
+    "name": "Goodwin, Amber",
+    "resolved_employer": "Assistant District Attorney, Travis County DA's Office; founder of Community Justice Action Fund",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Amber K. Goodwin is a lawyer and gun-violence-prevention advocate now an Assistant District Attorney in Travis County (matches 'Lawyer'/'Travis County', Austin 78701). She founded/led the Community Justice Action Fund (Black- and Brown-led gun violence prevention org) and was first National Advocacy Director at Giffords. She is herself a 2026 Austin City Council District 1 candidate (endorsed by GIFFORDS PAC).",
+    "source_url": "https://thecommunityjustice.net/amber-goodwin-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Community Justice Action Fund", "role": "Founder / Executive Director", "category": "gun_control", "source_url": "https://www.congress.gov/116/meeting/house/110018/witnesses/HHRG-116-JU08-Wstate-GoodwinA-20190926.pdf", "snippet": "Testimony of Amber Goodwin, Executive Director, Community Justice Action Fund — the nation's only Black- and Brown-led gun violence prevention organization."},
+      {"org": "Giffords (Americans for Responsible Solutions)", "role": "First National Advocacy Director", "category": "gun_control", "source_url": "https://giffords.org/candidates/amber-goodwin/", "snippet": "Amber, a longtime ally of GIFFORDS, worked on closing the gun show loophole and strengthening domestic violence gun laws; GIFFORDS PAC endorsed her 2026 Austin City Council run."},
+      {"org": "Annie's List / Our Future Texas", "role": "Board member", "category": "civic", "source_url": "https://thecommunityjustice.net/amber-goodwin-1", "snippet": "Board service listed for Annie's List (Texas progressive women candidates) and Our Future Texas."}
+    ]
+  },
+  {
+    "donor_id": "c41f56ca476fc6bc",
+    "name": "Miller, Jason",
+    "resolved_employer": "Partner, Westfield Company, Inc. (Denver, CO real estate development firm)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jason Miller is a Partner at Westfield Company, Inc., a Denver real-estate development/investment firm; prior 18 years at Mortenson Construction. Occupation 'Development' and Castle Rock CO (80108) location fit. Note: 'Jason Miller' is a very common name, so the fec_donation_count of 221 is almost certainly aggregation across many people and cannot be attributed to this individual; no ideological PAC tie confirmed for him specifically.",
+    "source_url": "https://www.westfield-co.com/team/jason-miller",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hispanic Contractors of Colorado", "role": "Former board member", "category": "business", "source_url": "https://www.westfield-co.com/team/jason-miller", "snippet": "Former board member, Hispanic Contractors of Colorado; also HCC Safety Committee member."},
+      {"org": "Denver Architectural Foundation", "role": "Former board member", "category": "civic", "source_url": "https://www.westfield-co.com/team/jason-miller", "snippet": "Former board member, Denver Architectural Foundation."},
+      {"org": "RTD Small & Disadvantaged Business Enterprise Advisory Committee", "role": "Former member", "category": "civic", "source_url": "https://www.westfield-co.com/team/jason-miller", "snippet": "Previously served on RTD's Small and Disadvantaged Business Enterprise Advisory Committee."}
+    ]
+  },
+  {
+    "donor_id": "d42678c4cc9be235",
+    "name": "Moroney, Tracy",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired Washington, DC (Georgetown 20007) resident; appears to be the wife of William 'Bill' Moroney (retired trade-association CEO). Since retirement the couple has been involved with Georgetown Heritage, National Park Friends groups, and education foundations. Her own former career is not documented in public sources, so industry left null. Out-of-state donor to challenger Neha Shah. (retired)",
+    "source_url": "https://joshuaryu-georgetown.squarespace.com/moroney",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Georgetown Heritage", "role": "Supporter/volunteer (retirement civic involvement)", "category": "civic", "source_url": "https://joshuaryu-georgetown.squarespace.com/moroney", "snippet": "Since their retirement, they have been involved with Georgetown Heritage, other National Park Friends organizations, and several education foundations."}
+    ]
+  },
+  {
+    "donor_id": "dad15fcf8267c1ec",
+    "name": "Fuentes, Francisco",
+    "resolved_employer": "Self-employed developer / construction consultant; Chairman, U.S. Hispanic Contractors Association (USHCA) de Austin",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Francisco 'Frank' Fuentes is a longtime Austin developer/construction-industry figure and Chairman of the U.S. Hispanic Contractors Association de Austin; CorporationWiki lists him as 'Francisco (Frank) Fuentes' in Austin. Occupation 'Developer and Construction Consultant'/self-employed fits a local construction powerbroker. Medium confidence because exact 78759 address could not be independently confirmed against the public Frank Fuentes.",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/frank-fuentes/38870085.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. Hispanic Contractors Association (USHCA) de Austin", "role": "Chairman", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/Austin/frank-fuentes/38870085.aspx", "snippet": "Frank Fuentes - Chairman for United States Hispanic Contractors Association, Austin."},
+      {"org": "City of Austin Board of Adjustment", "role": "Chair (per news reporting)", "category": "civic", "source_url": "https://www.austinchronicle.com/search/keywords:Frank+Fuentes/", "snippet": "Described in Austin Chronicle reporting as a Hispanic contracting 'powerbroker' who chaired the city's Board of Adjustment."}
+    ]
+  },
+  {
+    "donor_id": "e8b1eb050d52dfec",
+    "name": "Garza, Rudy",
+    "resolved_employer": "Founder, President & CEO, GarzaEMC, LLC (Austin civil engineering / construction management); former City of Austin assistant city manager",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Rudy Garza is founder/President & CEO of GarzaEMC (Austin civil engineering / project & construction management firm), former City of Austin assistant city manager (2000-2011). This is a DIFFERENT person from Rudy D. Garza the CPS Energy/LCRA CEO; employer (GarzaEMC), CEO title, and Spicewood (78669) region match the engineering-firm founder, not the utility executive.",
+    "source_url": "https://www.austinchamber.com/press-releases/austin-chamber-confirms-2024-board-chair-and-announces-board-chair-elect",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Chamber of Commerce", "role": "2024 Board Chair", "category": "business", "source_url": "https://www.austinchamber.com/press-releases/austin-chamber-confirms-2024-board-chair-and-announces-board-chair-elect", "snippet": "Rudy Garza, President and CEO of GarzaEMC, named 2024 Austin Chamber Board Chair; also serves on boards of Real Estate Council of Austin, Leadership Austin, and Salvation Army."},
+      {"org": "Real Estate Council of Austin", "role": "Board member", "category": "business", "source_url": "https://www.austinchamber.com/press-releases/austin-chamber-confirms-2024-board-chair-and-announces-board-chair-elect", "snippet": "Board Affiliations: Real Estate Council of Austin, Leadership Austin, Salvation Army."}
+    ]
+  },
+  {
+    "donor_id": "eb40429c428260c5",
+    "name": "Muniz, Jose Juan",
+    "resolved_employer": "Owner, Muniz Concrete & Contracting, Inc. (Austin-area concrete/construction contractor)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Jose Juan Muniz owns Muniz Concrete & Contracting, Inc., an Austin-area concrete/construction contractor (25+ years; public infrastructure, ADA, transit) serving the Austin/Round Rock (78681) region. Named as owner in a 2021 U.S. Attorney (W.D. Tex.) civil False Claims Act settlement over DBE certifications on City of Austin/Cap Metro contracts, corroborating name + ownership + occupation.",
+    "source_url": "https://www.munizcontracting.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Greater Austin Hispanic Chamber of Commerce", "role": "Member business (Construction Commercial)", "category": "business", "source_url": "https://business.gahcc.org/list/member/muniz-concrete-contracting-inc-13422", "snippet": "Muniz Concrete & Contracting Inc listed as a construction/commercial member of the Greater Austin Hispanic Chamber of Commerce."}
+    ]
+  }
+]

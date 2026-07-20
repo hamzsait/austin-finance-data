@@ -1,0 +1,241 @@
+[
+  {
+    "donor_id": "30ed0c8fe143332b",
+    "name": "Callahan, Brendan",
+    "resolved_employer": "Endeavor Real Estate Group (Principal)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Principal at Endeavor Real Estate Group (~15 yr tenure), office/retail/self-storage acquisition & development; Austin. Occupation strings 'Endeavor Real Estate Group,Professional' and RE background match firm bio; address 78704.",
+    "source_url": "https://www.endeavor-re.com/about/team/brendan-callahan/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Past Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/brendan-callahan/", "snippet": "Community Involvement: Real Estate Council of Austin – Past Member; Urban Land Institute – Past Member. RECA is a local real-estate industry advocacy org active at Austin City Hall; listed as past membership only, no leadership role."}
+    ]
+  },
+  {
+    "donor_id": "5ed4c6ff109c1cae",
+    "name": "Phillippi, Luke",
+    "resolved_employer": "Endeavor Real Estate Group (Principal, multifamily division)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Principal running Endeavor's multifamily development/acquisitions (~7 yr tenure); Austin (78735). Occupation strings 'Endeavor,Real estate' match firm bio exactly. Distinctive name; single clear match.",
+    "source_url": "https://www.endeavor-re.com/about/team/luke-phillippi/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5aa1f8554175b347",
+    "name": "Older, Cory",
+    "resolved_employer": "River City Capital Partners (President & Co-Founder)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Cory Older co-founded Austin real-estate development firm River City Capital Partners in 2014; CPA and licensed TX real estate agent, ~15 yrs development experience (East Riverside 518-unit, Parmer 300-unit projects). Zip 78704 and 'River City Capital Partners' employer strings match. Volunteer/board roles (Explore Austin, Central Texas Media Foundation) are youth/media 501(c)(3)s with no policy-advocacy component, not recorded.",
+    "source_url": "https://www.linkedin.com/in/cory-older/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f3e3743d8b81684a",
+    "name": "Osherow, Billy",
+    "resolved_employer": "Endeavor Real Estate Group (Principal, retail leasing)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Principal at Endeavor (~25 yr tenure) leading retail leasing (Domain Northside, Village at Westlake); Austin (78731). Occupation strings 'Real Estate,Endeavor' match. Distinctive name; single clear match.",
+    "source_url": "https://www.endeavor-re.com/about/team/billy-osherow/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Shalom Austin / Jewish Federation of Austin", "role": "Board Member & Vice Chair (2013-2018)", "category": "jewish_civic", "source_url": "https://www.endeavor-re.com/about/team/billy-osherow/", "snippet": "Board Member & Vice Chair, Shalom Austin (2013-2018); Past Co-Chair, Men's Division and Chair of Momentum at Jewish Federation of Austin. Recorded as documented community civic leadership (federation umbrella includes a community-relations arm); NOT evidence of any specific policy position or Israel-related PAC activity."}
+    ]
+  },
+  {
+    "donor_id": "2b892ea6c0e44ba1",
+    "name": "Dong, Xiaoran",
+    "resolved_employer": "Presidium (multifamily real-estate development)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Xiaoran Dong works in real-estate development at Presidium, an Austin/Dallas multifamily developer; Austin campaign-finance filing lists him at 15104 Barrie Dr, Austin TX 78734 with Presidium/real estate occupation. Shares that address with Huiwen Chen (donor 06850b52) — the two are a household, appearing together on the same TEC filing.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=394210",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a5d5b7e473e765f7",
+    "name": "Carlson, Patrick",
+    "resolved_employer": "Armbrust & Brown, PLLC — real estate/land-use attorney (real estate transactions, economic-development incentives, utility/special-district financing, MUDs)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Patrick M. Carlson is an attorney at Armbrust & Brown (Austin land-use/real-estate firm), J.D. Texas Tech 2006; practice covers real estate acquisitions, government economic-development incentives, and water/sewer special districts. Zip 78703 matches.",
+    "source_url": "https://www.txdirectory.com/online/person/?id=47576&office=19871",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Member", "category": "business", "source_url": "https://www.txdirectory.com/online/person/?id=47576&office=19871", "snippet": "Member of the State Bar of Texas, Austin Bar Association, Texas and Austin Young Lawyers associations, Real Estate Council of Austin, and Capital Area Suburban Exchange."}
+    ]
+  },
+  {
+    "donor_id": "03a0ea95ae56b6e1",
+    "name": "Phillips, Travis",
+    "resolved_employer": "Armbrust & Brown, PLLC — commercial real estate/transactional attorney (land acquisition, entitlements, financing, leasing; rural land/conservation easements)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Travis Robert Phillips, native Austinite, UT grad, former shareholder at Graves Dougherty Hearon & Moody, now transactional real estate attorney at Armbrust & Brown. FEC shows a 2022 $500 contribution listing employer 'Armbrust & Brown, PLLC', Austin — confirms identity.",
+    "source_url": "https://www.abaustin.com/the-team/travis-phillips/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Eddie for Texas (Eddie Rodriguez congressional campaign, Democratic)", "role": "Individual donor ($500)", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Travis+Phillips&contributor_city=Austin", "snippet": "Travis Phillips, Attorney, Armbrust & Brown, PLLC, Austin TX — $500 to Eddie for Texas, 2/2/2022. No ideological/AIPAC/oil-gas/defense PACs found."}
+    ]
+  },
+  {
+    "donor_id": "06850b522e4fa5e3",
+    "name": "Chen, Huiwen",
+    "resolved_employer": "USAA (data scientist / Director, financial-services firm)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Huiwen (Jocelyn) Chen, Austin, is a data scientist/Director at USAA per LinkedIn; matches 'USAA / Data Scientist' donor strings. Shares residence 15104 Barrie Dr, Austin TX 78734 with Xiaoran Dong (Presidium) — they are a household and co-filed the same contribution. The 'Presidium/Real Estate Development' string derives from that joint household filing; her own employer is USAA.",
+    "source_url": "https://www.linkedin.com/in/huiwen-chen/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "106b598b7c94d7ca",
+    "name": "Joslove, Scott",
+    "resolved_employer": "Texas Hotel & Lodging Association (President & CEO)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "President & CEO of the Texas Hotel & Lodging Association (THLA) for 24+ years, the largest state hotel association; leads legislative advocacy for the Texas lodging industry. Austin 78701, matches donor record.",
+    "source_url": "https://www.linkedin.com/in/scott-joslove-13a479ab/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Hotel & Lodging Association", "role": "President & CEO / Registered Texas lobbyist", "category": "business", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf", "snippet": "Scott K. Joslove is registered with the Texas Ethics Commission as a lobbyist for Texas Hotel & Lodging, address 1701 West Avenue, Austin, TX 78701 (2026 Registered Lobbyists list)."}
+    ]
+  },
+  {
+    "donor_id": "148673a1263d7ce8",
+    "name": "Hobbs, Jeff",
+    "resolved_employer": "Armbrust & Brown, PLLC — commercial/real estate/construction litigation attorney (land use, entitlements, contracts, mechanic's liens; clients incl. developers, home builders, cities/utility districts)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jeffrey Jackson 'Jeff' Hobbs, J.D. UT Law 1999, at Armbrust & Brown since 2003; real estate/construction litigator, 35+ trials/arbitrations, Super Lawyers 2025-26. Firm address matches; donor zip 78756 Austin residential.",
+    "source_url": "https://www.abaustin.com/the-team/jeff-hobbs/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "293c4b64a541e021",
+    "name": "Reed, Kenley",
+    "resolved_employer": "Presidium (Development Manager/Associate)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Kenley Reed is a Development Manager/Associate at Presidium (Austin/Dallas multifamily developer), leading the 314-acre 'The Row' (formerly Velocity) mixed-use project in southeast Austin; quoted in project press releases. LinkedIn title matches 'Presidium / Development Associate' donor strings; zip 78702 (East Austin).",
+    "source_url": "https://www.linkedin.com/in/kenley-reed-73924959",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36a9ff90eec80810",
+    "name": "Alam, Omar Jamil",
+    "resolved_employer": "Endeavor Real Estate Group (Managing Principal; high-rise mixed-use urban development)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Goes by 'Jamil Alam,' Managing Principal at Austin's Endeavor Real Estate Group; FEC/Austin records list 'Omar Jamil Alam / Endeavor Real Estate Group / Austin 78746' matching donor zip and occupation.",
+    "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Board Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/", "snippet": "Board Member, Real Estate Council of Austin"},
+      {"org": "City of Rollingwood Planning & Zoning", "role": "Member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/", "snippet": "Member, City of Rollingwood Planning & Zoning"}
+    ]
+  },
+  {
+    "donor_id": "3c70fde796a498a6",
+    "name": "Castaneda, Tristan",
+    "resolved_employer": "Longbow Partners LLP (equity partner, government relations / lobbying)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Tristan 'Tris' Castañeda Jr., equity partner at Longbow Partners (state government-relations/lobbying firm), 30+ years in local/state governmental relations; former VP Government Relations at Greater San Antonio Chamber, ex-Texas AG's Office. Registered Texas lobbyist at 502 W. 13th St, Austin 78701; donor zip 78739.",
+    "source_url": "https://texaswatertrade.org/team/tristan-tris-castaneda-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Longbow Partners LLP", "role": "Equity partner / Registered Texas lobbyist (direct advocacy on environmental, transportation, tax, land use, utility matters)", "category": "business", "source_url": "https://texaslobby.org/lobbying-firms/longbow-partners", "snippet": "Tristan Castaneda Jr. is a registered lobbyist at 502 W. 13th Street, Austin, TX 78701, working with Longbow Partners, LLP; equity partner responsible for direct advocacy and lobbying before the Texas Legislature."}
+    ]
+  },
+  {
+    "donor_id": "43f1f7918e4f930d",
+    "name": "Hinojosa, Daniel",
+    "resolved_employer": "Lift ATX (owner/CEO, East Austin community gym)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Daniel Hinojosa, MBA, founder/owner of Lift ATX, an open-air East Austin community gym opened Sept 2020; former longtime East Austin teacher/coach/athletic director. Uses the gym for community fundraisers. Austin 78723 matches donor record. No documented policy-advocacy affiliation.",
+    "source_url": "https://www.liftatx.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57ada412d2cf0e50",
+    "name": "Marsh, Jennifer",
+    "resolved_employer": "DESIGNHOUSE (residential architecture firm, Austin); principal Jennifer Sands Marsh",
+    "industry": "Architecture",
+    "confidence": "medium",
+    "evidence": "Jennifer Sands Marsh runs DESIGNHOUSE, an Austin residential architecture/design firm at 2212 E Windsor Rd, Austin 78703 (matches donor zip and 'Architect'/'Design House' occupation); distinct from Jennifer Mowery Marsh of Mowery Marsh Architects.",
+    "source_url": "https://houzz.com/pro/jennifersandsmarsh/designhouse",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "596af59671e32646",
+    "name": "Miller, Kris",
+    "resolved_employer": "Homemaker (Westlake/78746); household tied to Endeavor Real Estate Group — likely spouse of Co-Founder/Managing Principal Bryce Miller (not confirmed)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Mixed records: occupations 'Homemaker,MP' and employer_strings 'Self,Endeavor Real Estate Group'. 'MP' matches the exact title of Bryce Miller, Endeavor Co-Founder/Managing Principal. Homemaker in Westlake (78746) whose donation clusters with Endeavor executives, strongly suggesting an Endeavor household — most plausibly Bryce Miller's spouse — but the spousal link could NOT be confirmed in public records. Classified Real Estate on household/employer-string basis; could equally be recorded Not Employed (homemaker).",
+    "source_url": "https://www.endeavor-re.com/about/team/bryce-miller/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "59931bf39aec6d21",
+    "name": "Brooks Littlefield, Sue",
+    "resolved_employer": "Armbrust & Brown PLLC (attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Commercial real estate / municipal / MUD attorney at Armbrust & Brown PLLC (100 Congress Ave, Austin 78701); admitted to Texas Bar 1980, UT Law. Represents builders/developers and serves as general counsel to Central Texas special districts. Resides West Lake Hills 78746, consistent with donor record. Listed memberships are professional bar associations only (not policy-advocacy), not recorded.",
+    "source_url": "https://www.abaustin.com/the-team/sue-brooks-littlefield/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "617877f050347598",
+    "name": "Smartt, Schafer",
+    "resolved_employer": "Larkspur Capital LP (VP of Development); formerly Kairoi Residential and HFF",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Schafer Smartt was a Development Associate at Kairoi Residential in Austin (matches donor employer) and is now VP of Development at Larkspur Capital; UT-Austin grad; FEC/Austin record shows 'Schafer Smartt / Real Estate Development / Austin' $450 contribution.",
+    "source_url": "https://larkspurcapital.com/team/schafer-smartt",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "TREC (The Real Estate Council) Dallas & Greater Fort Worth", "role": "Member", "category": "business", "source_url": "https://larkspurcapital.com/team/schafer-smartt", "snippet": "Member, TREC Dallas; Member, TREC Greater Fort Worth"}
+    ]
+  },
+  {
+    "donor_id": "675711ebdaa92ce6",
+    "name": "Miller, Arnold Bryce",
+    "resolved_employer": "Endeavor Real Estate Group (Co-Founder & Managing Principal)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Bryce Miller is Co-Founder and Managing Principal of Endeavor Real Estate Group ('MP'=Managing Principal, 'ERG'=Endeavor), 78746 matches; possibly same 78746 household as 'Miller, Kris (Homemaker/Endeavor)' but household link not confirmed in public records.",
+    "source_url": "https://www.endeavor-re.com/about/team/bryce-miller/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hill Country Conservancy", "role": "Board Member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/bryce-miller/", "snippet": "Board Member for the Hill Country Conservancy"}
+    ]
+  },
+  {
+    "donor_id": "6bd31142b00a82eb",
+    "name": "Whitt, Chris",
+    "resolved_employer": "Armbrust & Brown, PLLC — partner, real estate department (commercial leasing, purchase/sale, loan docs for office/industrial/retail projects)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Christopher Charles Whitt, J.D. Duke 2008, licensed in TX and CA, partner in Armbrust & Brown's real estate department focused on commercial leasing. Firm address (78701) matches; donor zip 78756 is Austin residential.",
+    "source_url": "https://www.abaustin.com/the-team/chris-whitt/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

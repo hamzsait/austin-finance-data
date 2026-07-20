@@ -149,18 +149,18 @@
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 30966,
+    "amt": 31916,
     "w": 100
    },
    {
     "label": "Finance",
     "amt": 8725,
-    "w": 28
+    "w": 27
    },
    {
     "label": "Nonprofit / Advocacy",
     "amt": 5760,
-    "w": 19
+    "w": 18
    },
    {
     "label": "Government",

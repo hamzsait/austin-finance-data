@@ -1,0 +1,237 @@
+[
+  {
+    "donor_id": "0703db14530600ed",
+    "name": "DeLeon, Adam",
+    "resolved_employer": "Page (Page Architecture)",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Construction Administrator at Page, the architecture/engineering firm (ZoomInfo lists a@pagethink.com). Austin zip 78702 and 'Page Architecture' occupation match Page's Austin office. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.zoominfo.com/p/Adam-Deleon/7973003703",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "11038a41b9075bbc",
+    "name": "Brown, Caitlin",
+    "resolved_employer": "Travis County",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Works for Travis County (donor lists 'Policy Aide/Policy Advisor'); a Caitlin Brown appears as staff to a Travis County Commissioners Court precinct office. Austin zip 78753 and county employer corroborate; common name so exact role not fully verified. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-one",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6acfda20705fd85d",
+    "name": "Lopez, Candace",
+    "resolved_employer": "Horizons Foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Chief Philanthropy Officer / fundraiser at Horizons Foundation, the SF Bay Area LGBTQ community foundation; confirmed as a Horizons Foundation author/staffer (Oakland zip 94607 is in-region). Consistent with 2022 gifts. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.horizonsfoundation.org/author/clopez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6c3845c74b237d8f",
+    "name": "Duran, Angela",
+    "resolved_employer": "Nirvana Systems Inc.",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Angela Duran works at Nirvana Systems, an Austin trading-software company (OmniTrader/OmniVest/VisualTrader); LinkedIn/Datanyze place her in integration/delivery of a portfolio trading tool. Austin zip 78745 and 'Nirvana Systems/Software' employer strings match. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/angela-duran1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "81a2b4b039885b05",
+    "name": "Casati, Josefina",
+    "resolved_employer": "Grantmakers for Girls of Color (G4GC)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Senior Director of Communications at Grantmakers for Girls of Color; award-winning journalist and social-justice storyteller based in Austin (zip 78741). Prior role: Creative/Editorial Director at Pulso. Documented Austin nonprofit board seats. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://g4gc.org/dipl-team-member/josefina-v-casati",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Book Festival", "role": "Board member", "category": "civic", "source_url": "https://g4gc.org/dipl-team-member/josefina-v-casati", "snippet": "Her work serving on boards and volunteering with nonprofits has included the Texas Book Festival Board..."},
+      {"org": "Austin PBS", "role": "Community Advisory Board member", "category": "civic", "source_url": "https://g4gc.org/dipl-team-member/josefina-v-casati", "snippet": "...Austin PBS Community Advisory Board, Settlement Home for Children, Communities in Schools, and Latinitas."}
+    ]
+  },
+  {
+    "donor_id": "a5e5427bdf185ca4",
+    "name": "Caballero, Robert",
+    "resolved_employer": "FedEx",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Courier for FedEx in Austin (zip 78741, near FedEx's E Riverside/Airport Commerce facilities). No individual public profile beyond generic occupation. Small-dollar 2022 Velasquez donor. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://careers.fedex.com/store-pud-courier/job/P25-293532-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f5a999d22f636a89",
+    "name": "Mendoza, Leticia",
+    "resolved_employer": "Texas Disposal Systems (Director of Marketing & Communications, 2018-2024); since 2024 Sr. Director External Communications, Ascension Texas",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Director of Marketing & Communications at Texas Disposal Systems (Austin waste/environmental hauler) Jan 2018-May 2024; since May 2024 Sr. Director External Communications at Ascension Texas. UTEP grad. Not personally a registered TX lobbyist (no TEC match); TDS holds city contracts but her role is comms, not lobbying. No FEC PAC record found.",
+    "source_url": "https://www.linkedin.com/in/leticiacmendoza/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Leadership Austin", "role": "Program participant", "category": "civic", "source_url": "https://www.linkedin.com/in/leticiacmendoza/", "snippet": "Participated in leadership programs including Leadership Austin and Hispanic Austin Leadership."},
+      {"org": "Hispanic Austin Leadership", "role": "Program participant", "category": "civic", "source_url": "https://www.linkedin.com/in/leticiacmendoza/", "snippet": "Hispanic Austin Leadership alumna per bio."}
+    ]
+  },
+  {
+    "donor_id": "9473aed59945eebe",
+    "name": "Hernandez, John and Gloria",
+    "resolved_employer": "Bucket's Deli and Sports Bar",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Self-employed owners of Bucket's Deli and Sports Bar, an East Austin sports bar at 2020 E Cesar Chavez St (est. 2008); residence zip 78744. Local small-business owners; very high FEC count (541) consistent with aggregated household small-dollar ActBlue giving, not an ideological PAC pattern. No TX lobbyist record found.",
+    "source_url": "http://bucketsbar.com/index.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0442823d1adab08c",
+    "name": "Meza, Juan",
+    "resolved_employer": "Juan in a Million",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Juan Meza Jr., General Manager of Juan in a Million (family-owned East Austin Mexican restaurant, 2300 E Cesar Chavez St, est. 1980); manages day-to-day operations. 2026 Velasquez donor. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://communityimpact.com/austin/north-central-austin/dining/2025/08/29/juan-in-a-million-celebrates-45-years-of-mexican-cuisine-in-east-austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "04620930f39cc89b",
+    "name": "Yacob, Suzie",
+    "resolved_employer": "Self (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Plano/Dallas-area (zip 75025) self-described business owner; a Dallas-based Suzie Yacob LinkedIn profile cites marketing/management experience but the full bio is not publicly readable and could not be firmly tied to the donation record. 2026 Shah (challenger) donor. No confirmed ideological PAC or TX lobbyist ties surfaced.",
+    "source_url": "https://www.linkedin.com/in/suzieyacob/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2ab60a2de01b5205",
+    "name": "perez, michael j",
+    "resolved_employer": "Business owner (self-employed)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Self-described business owner in 'Marketing, Sales & Promotion' in East Austin (78702). Too many Michael/Mike Perez profiles in Austin to confirm a specific individual or firm; no distinctive public bio, PAC, or lobbyist record found.",
+    "source_url": "https://www.spokeo.com/Michael-Perez/Texas/Austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "326e9b8eaefb60d3",
+    "name": "Morris, Caroline",
+    "resolved_employer": "Amazon Web Services (AWS)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Matches Caroline Morris, Senior Global Engagement Manager for Sports, Media & Entertainment at Amazon Web Services (AWS Professional Services/consulting), based in Washington DC - consistent with 20009 zip, 'Consulting' occupation, and Amazon employer. Heavy Democratic-lean donor (FEC count 76, lean 0.94). No PAC advocacy or TX lobbyist ties surfaced.",
+    "source_url": "https://www.linkedin.com/in/caroline-morris-b679bb14/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "464b63466bee21f2",
+    "name": "Rodriguez, Alyssa",
+    "resolved_employer": "Rod's Auto Collision",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Listed as CFO of Rod's Auto Collision, a small/family auto body & collision repair shop. Business exists but the individual Alyssa Rodriguez could not be independently verified; no PAC or lobbyist record. Likely a family-business finance role.",
+    "source_url": "https://www.instagram.com/rodsa_uto/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "476efa0f47a975a7",
+    "name": "Chopra, Anjali",
+    "resolved_employer": "Consulate General of India, San Francisco (CGISF)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Employer acronym 'CGISF' maps to the Consulate General of India, San Francisco; occupation 'Communication' is consistent with a consulate communications/press role. Resides in Sausalito (94965). Specific individual not verifiable among many Anjali Chopra profiles; no PAC or lobbyist record. 2026 Shah (challenger) donor.",
+    "source_url": "https://www.cgisf.gov.in/section/press-releases/20/4/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5fbc5c310aa7673a",
+    "name": "Guerrero, Maria",
+    "resolved_employer": "Guerrero Industries",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as VP of 'Guerrero Industries' in south Austin (78744). No public record found for a company by that exact name; numerous unrelated Guerrero construction/concrete/service businesses exist locally, so the sector cannot be confirmed. Individual not identifiable; no PAC or lobbyist record.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "820cc473bb5c3506",
+    "name": "Siles, Karen",
+    "resolved_employer": "IBM",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Karen Mariela Siles, MSTC - Program Director, IBM Cloud in Austin TX; with IBM since 2007, UT Austin McCombs, holds multiple patents. LinkedIn and IBM speaker catalog confirm role/location. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.linkedin.com/in/karenmsiles/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "IBM Hispanic Employee Resource Group (Austin)", "role": "Chair (past)", "category": "civic", "source_url": "https://www.linkedin.com/in/karenmsiles/", "snippet": "Part of the Hispanic Employee Resource Group at IBM Austin for 10 years and served as Chair."}
+    ]
+  },
+  {
+    "donor_id": "861d5b8fb0e5f467",
+    "name": "Sanchez, Beth",
+    "resolved_employer": "Sanchez Law",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Bethbiriah 'Beth' Sanchez, Austin native, founder/principal attorney of Sanchez Law (personal injury, 4360 S Congress Ave Ste 111, 78745); St. Mary's JD 2015, State Bar of TX licensed May 2016; Super Lawyers Rising Stars 2023-2025. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://sanchezlawtx.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Sanchez Law", "role": "Founder / Principal Attorney", "category": "business", "source_url": "https://sanchezlawtx.com/about", "snippet": "Founded Sanchez Law in 2019 as principal attorney of a minority- and woman-owned personal injury firm."}
+    ]
+  },
+  {
+    "donor_id": "9b5022b6f21151ef",
+    "name": "Meza, Matthew",
+    "resolved_employer": "Presidium",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Matthew Stephen Meza, General Counsel at Presidium (Austin multifamily real-estate investment/development firm); 30+ years in commercial real estate law; formerly Partner at Halling Meza LLP and Milbank; UC Berkeley A.B., Michigan Law J.D. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.presidiumre.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Presidium", "role": "General Counsel", "category": "business", "source_url": "https://www.presidiumre.com/about/", "snippet": "Oversees all legal matters for the firm including acquisitions, financing, development, joint ventures and corporate governance."}
+    ]
+  },
+  {
+    "donor_id": "cc7c1c4cd5ca87ae",
+    "name": "Fernández, Verónica Rosas",
+    "resolved_employer": "The Hector and Gloria Lopez Foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Verónica Rosas Fernández, COO/CFO of The Hector and Gloria Lopez Foundation (Austin) since June 2021; prior COO/CFO of Elephant Labs/Claimbot and 20+ yrs finance at Amex, Merrill Lynch, AT&T; Notre Dame grad, Austin native. No FEC PAC or TX lobbyist record found.",
+    "source_url": "https://www.hglopezfoundation.org/veronica-rosas-fernandez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Con Mi MADRE", "role": "Past Board Chair and Treasurer", "category": "civic", "source_url": "https://www.hglopezfoundation.org/veronica-rosas-fernandez", "snippet": "Past Board Chair and Treasurer for Con Mi MADRE, which provides educational programming for Latina teenagers in Texas."},
+      {"org": "The Long Center", "role": "Vice Chair of Board of Trustees / Finance Chair", "category": "civic", "source_url": "https://www.hglopezfoundation.org/veronica-rosas-fernandez", "snippet": "Served as Vice Chair of the Board of Trustees, Finance Chair and Secretary at the Long Center."}
+    ]
+  },
+  {
+    "donor_id": "cfe90708c6563c2a",
+    "name": "Hidrogo, Kimberly",
+    "resolved_employer": "Travis County (County Attorney's Office)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Kimberly Marie Hidrogo, Assistant County Attorney and team lead in the Travis County Attorney's Office (314 W 11th St, Austin); St. Mary's J.D. 2017, State Bar of TX licensed 05/04/2018. No FEC PAC or TX lobbyist record found beyond her public-sector role.",
+    "source_url": "https://www.traviscountytx.gov/county-attorney",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "donor_id": "152b48a1278c1a8b",
+    "name": "Palandino, Christopher",
+    "resolved_employer": "Packaging Management Inc. (Austin small business); role listed as Manager / Human Resources",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Identity confirmed via City of Austin campaign finance filing: Christopher Palandino, Austin TX 78702, employer Packaging Management Inc., gave $450. No public profile beyond the employer; no advocacy, PAC, or lobbyist record found. Industry left null because 'packaging management' does not map cleanly to the taxonomy.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=454092",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "169eb4b7db34d945",
+    "name": "Macmurdo, Mark",
+    "resolved_employer": "Armbrust & Brown, PLLC — transactional attorney (real estate, finance, business)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Mark Carl Macmurdo, attorney at Armbrust & Brown (100 Congress Ave, Austin 78701); TX bar 2022, prior LA bar 2016, LSU Law. Full firm bio read: transactional real estate/finance practice, no board seats, memberships, or advocacy roles listed. No TX lobbyist registration and no FEC/PAC record found.",
+    "source_url": "https://www.abaustin.com/the-team/mark-macmurdo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "19d2a94dceaaedca",
+    "name": "Gray, John J.",
+    "resolved_employer": "Grayco Partners, LLC — Founder and President (national multifamily real estate development firm, Houston)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "John J. Gray, Houston-based multifamily developer, founder/president of Grayco Partners; 20+ years, Camden Property Trust partnership. Full leadership bio read. FEC/OpenSecrets and TX lobbyist searches run; no ideological-PAC or lobbyist record surfaced (7 federal donations not itemizable line-by-line due to FEC API rate limit, but no AIPAC/J Street/gun/oil-gas/defense PAC hits).",
+    "source_url": "https://www.graycopartners.com/about/leadership.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Multifamily Housing Council (NMHC)", "role": "Board member", "category": "business", "source_url": "https://www.graycopartners.com/about/leadership.php", "snippet": "Board member of NMHC (National Multifamily Housing Council)"},
+      {"org": "Urban Land Institute (ULI) Multifamily Silver Council", "role": "Active participant", "category": "business", "source_url": "https://www.graycopartners.com/about/leadership.php", "snippet": "Active participant in ULI Multifamily Silver Council"},
+      {"org": "The Fay School, Houston", "role": "Board member / head of long-range planning", "category": "civic", "source_url": "https://www.graycopartners.com/about/leadership.php", "snippet": "Board member and head of long-range planning for The Fay School, Houston, Texas"}
+    ]
+  },
+  {
+    "donor_id": "1a016f87b2868fd0",
+    "name": "Reese, Don",
+    "resolved_employer": "Self / investments — real estate investor associated with Riverside Resources (Central Texas real estate investment firm)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Don Reese, Austin (78746) investor tied to Riverside Resources, a Central Texas real estate investment/development firm; consistent with 'self/investments' occupation. Medium confidence because a separate attorney 'Donald J. Reese' shares the 78746 zip; the investor profile better matches the donor's stated occupation. No PAC/ideological or lobbyist affiliation found (16 federal donations not itemizable due to FEC API rate limit; no ideological-PAC hits in web searches).",
+    "source_url": "https://www.linkedin.com/in/don-reese-04881a38/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1aa1b082083441f8",
+    "name": "Crowe, Nelson",
+    "resolved_employer": "Crowe Capital — Managing Partner (multifamily real estate); previously Principal at Endeavor Real Estate Group",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "G. Nelson Crowe III, Austin multifamily developer; founded/led Endeavor's multifamily platform (2016) and now Managing Partner of Crowe Capital. Full bio read. FEC/OpenSecrets and TX lobbyist searches run; no ideological-PAC or lobbyist registration found. Documented affiliations are real-estate-industry and civic.",
+    "source_url": "https://www.crowe-capital.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Board of Directors / Executive Committee / Finance Chair", "category": "business", "source_url": "https://www.crowe-capital.com/", "snippet": "Executive Committee member, Board of Directors, and Finance Chair, Real Estate Council of Austin"},
+      {"org": "Austin Achieve Public Schools", "role": "Past Vice Chairman of the Board / Facilities Chair", "category": "civic", "source_url": "https://www.crowe-capital.com/", "snippet": "Past Vice Chairman, Board of Directors, and Facilities Chair, Austin Achieve Public Schools"},
+      {"org": "Apartment Life Central Texas Advisory Board", "role": "Chair", "category": "civic", "source_url": "https://www.crowe-capital.com/", "snippet": "Chair, Apartment Life's Central Texas Advisory Board"},
+      {"org": "McCombs School of Business (UT) Real Estate Finance and Investment Center", "role": "Advisory Council member", "category": "business", "source_url": "https://www.crowe-capital.com/", "snippet": "Advisory Council member, Real Estate Finance and Investment Center at McCombs School of Business"}
+    ]
+  },
+  {
+    "donor_id": "1d481ca89c3320a9",
+    "name": "Smalling, Richard",
+    "resolved_employer": "American Innovations (Co-Chairman/Consultant); also Rolling8 & Riverbank Consulting Group",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Rich Smalling led Austin-based American Innovations (pipeline remote-monitoring/data tech serving oil & gas pipeline operators) as CEO for ~25 years, now Co-Chairman/Consultant. Founder/board chair of nonprofit Austin Together; Virginia Tech engineering advisory chair. Matches 78731 Austin consultant/American Innovations occupation. Classified Technology by the firm's own business; note oil-gas client nexus.",
+    "source_url": "https://www.richsmalling.com/experience",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Together", "role": "Founder & board chair / interim Executive Director", "category": "civic", "source_url": "https://www.richsmalling.com/experience", "snippet": "Founder & advisory committee, Austin Together; nonprofit encouraging sustained collaboration among Central Texas nonprofits."},
+      {"org": "Creative Action", "role": "Board member / capital campaign chair", "category": "civic", "source_url": "https://www.richsmalling.com/experience", "snippet": "Multiple roles, Creative Action (nonprofit); capital campaign chair."}
+    ]
+  },
+  {
+    "donor_id": "1f58ea2a6b717581",
+    "name": "Alarcon, Guillermo",
+    "resolved_employer": "Armbrust & Brown PLLC (litigation partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Guillermo 'Memo' Alarcon is a civil-litigation partner at Austin firm Armbrust & Brown (real estate, oil & gas, construction, business disputes); UT Law JD 2016, former clerk to Judge Nelva Gonzales Ramos. Matches lawyer/Armbrust & Brown occupation. No TX lobbyist registration or ideological-PAC record found.",
+    "source_url": "https://www.abaustin.com/the-team/guillermo-alarcon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2252dfd3e25e8e5b",
+    "name": "Flores, Fabiola",
+    "resolved_employer": "Texas RioGrande Legal Aid (staff attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Fabiola Flores is a staff attorney at Texas RioGrande Legal Aid in Austin (labor-employment & workers' comp), UT Law grad. Confirms the donor record's 'TRLA'/attorney designation and 78723 Austin area. No TX lobbyist registration or ideological-PAC record found.",
+    "source_url": "https://www.linkedin.com/in/fabiola-flores-8726827/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2276e246217dd7a7",
+    "name": "Li, Yinan",
+    "resolved_employer": "Presidium Group (Vice President, Controller / VP Finance)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Yinan Li is VP/Controller at Presidium Group, a Dallas-based multifamily real estate development and property-management firm, overseeing accounting. Matches Dallas 75287 and the VP Controller/Presidium record. No TX lobbyist registration or ideological-PAC record found.",
+    "source_url": "https://www.linkedin.com/in/yinan-li-05362a276/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "242190d5a8a5c608",
+    "name": "Gregorcyk, David",
+    "resolved_employer": "Journeyman Construction / Journeyman Group (VP, Risk Management & General Counsel)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "David Gregorcyk is VP of Risk Management and resident attorney/General Counsel at Austin-based Journeyman Construction and the Journeyman Group; former construction-law litigator, board certified in Construction Law, UT-Austin BA / St. Mary's JD. Matches VP/Partner Journeyman record and 78756 Austin. No TX lobbyist registration or ideological-PAC record found.",
+    "source_url": "https://journeymangroup.com/project/david-gregorcyk/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2608a7619edd1a08",
+    "name": "Luckie, Matt",
+    "resolved_employer": "FBR Management (co-founder/owner) — Austin bar & hospitality group operating Lavaca Street Bar, Star Bar, Mean Eyed Cat, Gibson Street Bar, The Wheel, Midnight Cowboy, plus festival bar operations",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Longtime Austin nightlife entrepreneur (opened Lucky Lounge 1997; The Belmont, Brazos Hall); co-founded FBR Management with Jeff Waughtal. Matches 78702 (East Austin) owner of 'FBR mgmt.' Corroborated by multiple Austin news/business sources. No PAC/ideological or lobbyist records found.",
+    "source_url": "https://austinparks.org/blog/people-plus-parks-raise-a-glass-to-this-donor/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mike & Sherry Project", "role": "Team member (service-industry mental-health charity)", "category": "civic", "source_url": "https://www.mikeandsherryproject.com/team-member/matt-luckie/", "snippet": "Matt Luckie listed as a team member of the Mike & Sherry Project, 'Serving the Minds and Souls of the Austin service industry.'"},
+      {"org": "Austin Parks Foundation", "role": "Donor / supporter", "category": "civic", "source_url": "https://austinparks.org/blog/people-plus-parks-raise-a-glass-to-this-donor/", "snippet": "Austin Parks Foundation blog profiles the FBR/bar entrepreneur as a donor supporting city parks."}
+    ]
+  },
+  {
+    "donor_id": "282239f2a4168508",
+    "name": "Solomon, Gabriella",
+    "resolved_employer": "Self-employed / entrepreneur (specific business not identifiable from public records)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Stated occupation self/entrepreneur, 78727 (North Austin). Multiple same-named people nationally; none could be corroborated to the 78727 Austin entrepreneur. No PAC or lobbyist records found. Classified Self-Employed by self-reported occupation (categorize-by-employer fallback).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "283430306a495ee1",
+    "name": "Esteves, Tara",
+    "resolved_employer": "Armbrust & Brown, PLLC — Partner (corporate & securities attorney: private-company M&A, private placements, bank/mezzanine financings, corporate governance)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Tara Allen Esteves, Partner at Austin firm Armbrust & Brown; J.D. Duke (1999), B.A. Pomona (1996), TX bar since 2006, NY bar 2000; Super Lawyers-rated M&A attorney. Matches 78704 attorney at Armbrust & Brown. High federal donation count consistent with an established professional donor, but no specific PAC/ideological recipient surfaced.",
+    "source_url": "https://www.abaustin.com/the-team/tara-allen-esteves/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "296745951c3db115",
+    "name": "Suttle, Molly",
+    "resolved_employer": "Trace (recruiting/staffing firm) — recruiter",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Stated as recruiter at 'Trace', 78703 (Tarrytown/West Austin). An Austin LinkedIn for Molly Suttle exists but was not directly accessible; role/employer not fully confirmed and 'Trace' firm not definitively identified. Recruiting/staffing classified under professional services (categorize-by-employer fallback). No PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/mollysuttle1995",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2b6aa07513574764",
+    "name": "Miller, Colleen",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Stated occupation 'Unemployed'. Public property record shows a Colleen C. Miller at a 78759 Austin address matching the donor's zip. Common name, so identity is address-consistent but not certain. No PAC or lobbyist records found.",
+    "source_url": "https://blockshopper.com/tx/travis-county/austin/property/160573/10905-catthorn-cove",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2c58a41c8b14be02",
+    "name": "Bukowski, Sean",
+    "resolved_employer": "Bukowski Law Firm, P.C. (founder; commercial real estate / land-use attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sean Christopher Bukowski, founder (2010) of Bukowski Law Firm, Austin commercial real estate/land-use attorney; zip 78702 matches his donor record. Board member of Austin Creative Alliance and an active advocate for dense urban housing who corresponds with CM Velásquez on land-use policy.",
+    "source_url": "https://www.bukowskilawfirm.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Creative Alliance", "role": "Board member", "category": "civic", "source_url": "https://www.bukowskilawfirm.com/post/seans-response-letter-to-councilmember-velasquez-and-other-members-explaining-how-each-point-that-the-city-staff-raised-in-its-memo-was-wrong/", "snippet": "Referred to in his firm's advocacy post and search results as 'ACA board member and local real estate attorney' who lobbied Council members over an arts-space property acquisition."}
+    ]
+  },
+  {
+    "donor_id": "2f5b044c35169475",
+    "name": "Jamroz, Raquel",
+    "resolved_employer": "The Austin Diagnostic Clinic (cytotechnologist)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Cytotechnologist at The Austin Diagnostic Clinic, Austin (zip 78759). LinkedIn/ZoomInfo profile under 'Raquel Jane' matches identical role and employer (cytotechnologist, ADC; prior Quest Diagnostics; Univ. of Miami cytotech cert). Employer + occupation corroborate; possible maiden/married name variation. No political/PAC/lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/raquel-jane-2530ab39",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2fa2920362825695",
+    "name": "Bain, Lindley",
+    "resolved_employer": "Goranson Bain Ausley, PLLC (Managing Partner; board-certified family law attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "P. Lindley Bain, Managing Partner of Goranson Bain Ausley PLLC (Austin/Midland offices), board-certified family law attorney who lives in Austin (78704 residential matches). FEC 'solo/Lindley Bain' employer reflects self-reporting. Fellow of AAML; chaired State Bar of Texas Family Law Section (2019). No ideological PAC or lobbyist records.",
+    "source_url": "https://gbfamilylaw.com/attorney/p-lindley-bain/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "31a22b3123be84f9",
+    "name": "Alarcon, Stephanie",
+    "resolved_employer": "Saatchi Art (Hospitality Project Manager)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Hospitality Project Manager at Saatchi Art, Austin (zip 78745). UT Austin BS Interior Design (2015); prior events/hospitality roles at Uptown Events, Vintage Villas Hotel & Events, and Pearl Events Austin. Identity corroborated by employer + role + Austin location. No political/PAC/lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/stephanie-alarcon-b580b49b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "360e0c34cf4077d8",
+    "name": "Moyer, William",
+    "resolved_employer": "Civilitude Engineers & Planners / Civilitude Group (Chief People & Operations Officer / President)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "William 'Billy' Moyer, Chief People & Operations Officer and President of Civilitude Engineers & Planners (Austin civil engineering/planning firm, zip 78753); runs operations for the Civilitude Group and also runs a leadership-consulting firm, SOS Leadership. Firm specializes in affordable-housing projects. No ideological PAC or lobbyist records.",
+    "source_url": "https://civilitude.com/about/people/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

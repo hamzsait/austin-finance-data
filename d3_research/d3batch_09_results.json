@@ -1,0 +1,242 @@
+[
+  {
+    "donor_id": "381b472346eb6159",
+    "name": "Myrick, Daniel",
+    "resolved_employer": "Armbrust & Brown, PLLC (Partner/Member, attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Daniel Patrick Myrick, partner/member at Austin land-use & real-estate law firm Armbrust & Brown; Board Certified in Commercial Real Estate Law; practices municipal utility district, municipal, commercial real estate and land use/entitlement law. Firm bio and State Bar of Texas confirm identity; matches 78732 Austin.",
+    "source_url": "https://www.abaustin.com/the-team/daniel-myrick/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Bar Association, Real Estate Section", "role": "Board of Directors", "category": "business", "source_url": "https://www.abaustin.com/the-team/daniel-myrick/", "snippet": "Board of Directors, Real Estate Section - Austin Bar Association"},
+      {"org": "Bee Cave Chamber of Commerce", "role": "Founding Member and Former Director", "category": "civic", "source_url": "https://www.abaustin.com/the-team/daniel-myrick/", "snippet": "Founding Member and Former Director - Bee Cave Chamber of Commerce"}
+    ]
+  },
+  {
+    "donor_id": "384c9ab14751ffa7",
+    "name": "Heston, Becky",
+    "resolved_employer": "Endeavor Real Estate Group - former Principal of Property Management (retired)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Becky Heston, Austin-based, served as Principal of Property Management at Endeavor Real Estate Group (major Central/South Texas commercial developer), now retired; UT Austin B.S. Communications. Corroborated by Revere/RocketReach/Bloomberg profiles and Endeavor RE leadership listings; matches 78704 Austin.",
+    "source_url": "https://platform.reverecre.com/user/becky.heston",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "39fad9ae5d5a09f5",
+    "name": "Farrell, Mark and Lori",
+    "resolved_employer": "Presidium Group - President of Development Emeritus (real estate development executive); wife Lori Farrell",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Mark Farrell of Ponte Vedra Beach FL (78732/32082) is President of Development Emeritus at Presidium Group (Dallas multifamily developer); prior CEO/President of The Vestcor Companies and founder of Killashee Investments; CPA, married to Lori. Confirmed via LinkedIn, Presidium news post and RocketReach. Distinct from the San Francisco politician of the same name.",
+    "source_url": "https://www.presidiumre.com/people-on-the-move-mark-farrell/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "466d6932706e2f25",
+    "name": "Beckham, Brian",
+    "resolved_employer": "Self-employed real estate investor (Austin, 78759)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Brian Beckham, self-employed real estate investor in NW Austin (78759); appears in Austin municipal campaign-finance filings as a real estate investor donor. No detailed public bio beyond occupation/employer; identity corroborated by donor occupation record and Austin campaign-finance documents. No PAC or lobbyist records found.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=432374",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "46edd14d6100e1f8",
+    "name": "Watson, Kirk",
+    "resolved_employer": "City of Austin - Mayor of Austin",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Kirk Preston Watson, 59th Mayor of Austin (since 2023; also 54th mayor 1997-2001); attorney; former Texas State Senator, District 14 (2007-2020) and former chair of the Senate Democratic Caucus. Confirmed via Ballotpedia, City of Austin, Wikipedia; matches 78751 Austin.",
+    "source_url": "https://ballotpedia.org/Kirk_Watson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mayor of Austin, City of Austin", "role": "Mayor (elected official)", "category": "political", "source_url": "https://www.austintexas.gov/mayor", "snippet": "Kirk Watson has served as the 59th mayor of Austin since 2023."},
+      {"org": "Texas Senate / Senate Democratic Caucus", "role": "Former State Senator (D), District 14; former Caucus Chair", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Kirk_Watson", "snippet": "Served in the Texas State Senate as a Democrat 2007-2020; chaired the Senate Democratic Caucus 2011-2015."}
+    ]
+  },
+  {
+    "donor_id": "49854d97a065278b",
+    "name": "Ellis, Chris",
+    "resolved_employer": "Endeavor Real Estate Group (Managing Principal)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Chris Ellis, Managing Principal at Endeavor Real Estate Group (major Austin developer); joined 2001, developed The Domain, Southpark Meadows, 1890 Ranch and other retail/mixed-use projects; sits on Endeavor Investment Committee. TCU BA, UT-Austin MBA. Matches 78746 Westlake / 'MP' / Endeavor.",
+    "source_url": "https://www.endeavor-re.com/about/team/chris-ellis/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a33a80d1e29ff0c",
+    "name": "Lepore, Melissa",
+    "resolved_employer": "Joe W. Fly Co., Inc. (sales) — Austin-based commercial/industrial HVAC air-filtration distributor",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Sales employee at Joe W. Fly Co., a family-owned Austin HVAC/air-filtration distribution firm (founded 1967). No individual public profile confirmed beyond the employer/occupation; several 'Melissa Lepore' LinkedIn profiles exist but are non-Austin, so identity is corroborated only via listed employer and Austin 78748 location. Classified by employer (building-systems supply). No PAC or lobbyist records found.",
+    "source_url": "https://www.joeflyco.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a3f00654837c991",
+    "name": "Reese, Donald",
+    "resolved_employer": "Riverside Resources (Founder & Partner) — Central Texas commercial real estate investment firm",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Don Reese, Founder/Partner of Riverside Resources (founded 1990), a Central Texas value-add commercial real estate investment firm (>$2B in transactions); licensed attorney and former CPA, UT-Austin MBA. 'Investor / Self' on filing is consistent with founder/principal status; downtown 78701 matches firm location.",
+    "source_url": "https://www.mccombs.utexas.edu/wp-content/uploads/2024/12/Deans-Advisory-Council-Don-Reese.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Director", "category": "business", "source_url": "https://www.mccombs.utexas.edu/wp-content/uploads/2024/12/Deans-Advisory-Council-Don-Reese.pdf", "snippet": "Bio lists him as 'Director of the Real Estate Council of Austin,' an industry/development-advocacy organization."},
+      {"org": "UT Real Estate Finance and Investment Center", "role": "Executive Council member", "category": "business", "source_url": "https://www.mccombs.utexas.edu/wp-content/uploads/2024/12/Deans-Advisory-Council-Don-Reese.pdf", "snippet": "Served as an Executive Council member of the University of Texas Real Estate Finance and Investment Center; also on McCombs Dean's Advisory Council."}
+    ]
+  },
+  {
+    "donor_id": "4ddea9ab79372341",
+    "name": "Eastridge, Arianna",
+    "resolved_employer": "Woof Gang Bakery & Grooming Westlake (Key Holder) — pet food/supply retail & grooming store",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Key holder at Woof Gang Bakery & Grooming Westlake, a pet food/supply and grooming retail store (701 S Capital of Texas Hwy, Austin 78746). Employer confirmed; no individual public profile for Arianna Eastridge beyond the job (near-UT 78705 resident). Quiet result; classified by employer as Retail. No PAC or lobbyist records found.",
+    "source_url": "https://woofgangwestlake.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5221da7a5c2a1b6a",
+    "name": "McDaniel, Dennis",
+    "resolved_employer": "Austin Fairchild Management Company, LLC (Founder & President) — real estate investment/development/management firm",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Dennis R. McDaniel, founder (1985) and President of Austin Fairchild Management Company, a real estate investment/development/management firm; 30+ years in investment real estate, projects in East Austin and downtown San Antonio (Steel House Lofts), co-founded Merit Texas Properties. UT-Arlington BS, SMU MBA. Matches 78733 / 'real estate' / 'Austin Fairchild'.",
+    "source_url": "http://www.austinfairchild.net/leadership.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Fairchild Art Foundation", "role": "Founder / principal (c/o Dennis R. McDaniel)", "category": "civic", "source_url": "https://app.candid.org/profile/8161862/austin-fairchild-art-foundation-75-1983753", "snippet": "IRS/Candid records list the Austin Fairchild Art Foundation as 'c/o Dennis R McDaniel'; a cultural/philanthropic entity tied to his real estate work."}
+    ]
+  },
+  {
+    "donor_id": "548e07300aca307b",
+    "name": "Smitheal, Jeremy",
+    "resolved_employer": "Riverside Resources (Austin commercial real estate investment firm) — Managing/Partner",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jeremy Smitheal is Managing Partner at Riverside Resources, a privately held Central Texas commercial real estate investment/development firm; UT Austin BBA (Finance/Real Estate) + MBA, formerly Bear Stearns analyst. Confirms 78701 downtown Austin, 'Partner', 'Riversode Resource' (Riverside Resources).",
+    "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/jeremy-smitheal/2hs04fcb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "56b26489d942f7f6",
+    "name": "Northington, Charlie",
+    "resolved_employer": "Endeavor Real Estate Group (major Austin developer) — Managing Principal, retail & mixed-use development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Charlie (Charles) Northington is a Managing Principal at Endeavor Real Estate Group, on its Investment Committee, focused on retail/mixed-use urban infill; 21 years at Endeavor. Matches donor 78701, 'Real estate', 'ERG'.",
+    "source_url": "https://www.endeavor-re.com/about/team/charlie-northington/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/charlie-northington/", "snippet": "Member of the Real Estate Council of Austin."},
+      {"org": "International Council of Shopping Centers", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/charlie-northington/", "snippet": "Member of the International Council of Shopping Centers."}
+    ]
+  },
+  {
+    "donor_id": "57aac8db1e87fabe",
+    "name": "Kazi, Fayez",
+    "resolved_employer": "Civilitude Engineers & Planners (Founder & CEO) — civil engineering, land development, affordable housing",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Fayez Kazi, PE, LEED AP, is Founder & CEO of Civilitude Engineers & Planners (founded 2010; affordable-housing-focused civil engineering/planning); UT Austin MS Engineering & BS Architectural Engineering. Confirms donor fields (occupation 'Civilitude', title 'CEO', 78753).",
+    "source_url": "https://civilitude.com/fayez-kazi/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of Austin Planning Commission", "role": "Former Commissioner and Chair", "category": "civic", "source_url": "https://civilitude.com/fayez-kazi/", "snippet": "Commissioner and Chair, City of Austin Planning Commission."},
+      {"org": "Real Estate Council of Austin", "role": "Board Member", "category": "business", "source_url": "https://civilitude.com/fayez-kazi/", "snippet": "Board Member, Real Estate Council of Austin."},
+      {"org": "Austin Asian Chamber of Commerce", "role": "Board Member", "category": "business", "source_url": "https://civilitude.com/fayez-kazi/", "snippet": "Board Member, Austin Asian Chamber."}
+    ]
+  },
+  {
+    "donor_id": "58e80427a548018d",
+    "name": "Northington, RC",
+    "resolved_employer": "Endeavor Real Estate Group (major Austin developer) — real estate",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor lists Endeavor Real Estate Group, 78701, 'Real estate'; classified by employer. The only Northington with a public Endeavor profile is Charlie (Managing Principal); R.C. appears to be a related/associated Endeavor principal, but no distinct public bio page was located to independently confirm role. No PAC or lobbyist records found.",
+    "source_url": "https://www.endeavor-re.com/about/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "592c582bfb93ebea",
+    "name": "Kooris, Richard",
+    "resolved_employer": "Pegalo Properties Inc. — Owner/President (Austin real estate developer; 501 Studios); also Managing Partner, Nido Capital",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Richard I. Kooris has developed Austin property since 1976; owner/president of Pegalo Properties (developed 501 Studios from warehouse buildings) and Managing Partner at Nido Capital; UT Austin MFA, Carleton College BA. Matches donor 78746 Westlake Hills, 'Pegalo Properties Inc.', 'Real Estate'.",
+    "source_url": "https://pegalo.net/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Preservation Austin", "role": "Board Member", "category": "civic", "source_url": "https://www.linkedin.com/in/richard-kooris-6337a79/", "snippet": "Board Member at Preservation Austin, supporting historic preservation of Austin's cultural heritage."}
+    ]
+  },
+  {
+    "donor_id": "5a396f5b14a7cee8",
+    "name": "Smith, Winston",
+    "resolved_employer": "Riverside Resources (Central Texas commercial real estate investment firm) — Partner",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Winston Smith is a Partner at Riverside Resources, an Austin-based commercial real estate investment/development firm; joined 2011 as intern, made Partner Sept 2018; focuses on office, multifamily, retail, industrial and land investments; St. Edward's University finance grad. Matches zip 78703 West Austin and 'Investor'/'Riverside Resources' occupation.",
+    "source_url": "https://www.linkedin.com/in/winston-smith-72375026/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5aa98d01336e1e51",
+    "name": "Jones, Annette",
+    "resolved_employer": "Retired (former career not identifiable in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Downtown Austin (78701) retiree and prolific small-dollar Democratic donor (FEC 194 donations, partisan lean ~0.98). Name is too common and no distinguishing bio, obituary, employer, or news record could corroborate a former career or specific identity beyond the self-reported 'retired'. No PAC-specific or lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5b376e0352833170",
+    "name": "Payervand, Ava",
+    "resolved_employer": "Student (employer self-reported 'Champman' — likely Chapman University)",
+    "industry": "Student",
+    "confidence": "medium",
+    "evidence": "Self-reported as a student with employer 'Champman' (a common misspelling of Chapman University); Dallas TX 75209; gave to Velasquez in 2024. No public profile beyond student status; classified Student per self-reported occupation. No PAC or lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5f9d2d5295dc315b",
+    "name": "Martin, Alyssa",
+    "resolved_employer": "Homemaker / None",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Self-reported homemaker with no employer; Austin 78763 (PO-box zip); frequent Democratic small-dollar donor (FEC 56 donations, partisan lean 1.0). Name too common to corroborate a distinct identity or former career; an unrelated employed 'Alyssa Martin' (Holtzman Partners) exists but does not match the homemaker profile and was not conflated. No PAC or lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5fbc1fd4b4c4086b",
+    "name": "Piano, Gian Michael",
+    "resolved_employer": "Presidium (Dallas/Austin multifamily real estate developer) — Principal / VP of Development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Gian Michael Piano is Principal / VP of Development at Presidium, a multifamily and mixed-use real estate developer; joined 2016 as Development Analyst, led Austin projects River Park and The Row; UW-Madison BS. Matches Hyde Park (78751) address and 'Presidium'/'Real Estate' occupation/employer fields.",
+    "source_url": "https://www.linkedin.com/in/gianmichael-piano/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

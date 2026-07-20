@@ -1,0 +1,246 @@
+[
+  {
+    "donor_id": "9110909b85a7469c",
+    "name": "Krumme, Gregg",
+    "resolved_employer": "Partner, Armbrust & Brown PLLC (Austin land-use/real-estate development law firm)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Gregg C. Krumme, partner at Armbrust & Brown; UT Law JD 1989; real estate, MUD, economic development and municipality law. Matches Austin 78703 attorney profile. Note: 'Krumme Oil' (Tulsa, George W. Krumme) in OpenSecrets is an unrelated family, not this donor.",
+    "source_url": "https://www.abaustin.com/the-team/gregg-krumme/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Former Board of Directors member", "category": "business", "source_url": "https://www.abaustin.com/the-team/gregg-krumme/", "snippet": "Previously served on the Board of Directors of the Real Estate Council of Austin (a real-estate development advocacy org)."},
+      {"org": "Travis County Bar Association, Real Estate section", "role": "Past secretary/treasurer of the Board", "category": "business", "source_url": "https://www.abaustin.com/the-team/gregg-krumme/", "snippet": "Past secretary and treasurer of the Board of Directors, Real Estate section, Travis County Bar Association."}
+    ]
+  },
+  {
+    "donor_id": "58531ae523444b2f",
+    "name": "Moceri, Cross",
+    "resolved_employer": "Co-Founder & Co-CEO, Presidium (Presidium Group multifamily real-estate developer/operator)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Co-Founder and Co-CEO of Presidium, a Dallas/Austin multifamily real-estate developer/operator; zip 78701 matches downtown Austin. Presidium leadership page gives full bio (master planning, development, capital formation, acquisitions); former Milbank corporate lawyer; B.A. Notre Dame, J.D. Michigan. No ideological/oil-gas/defense/gun PACs and no TX lobbyist registration surfaced.",
+    "source_url": "https://www.presidiumre.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Member", "category": "business", "source_url": "https://www.presidiumre.com/about/", "snippet": "Cross is an active member of several trade associations, including Opportunity Austin, the Real Estate Council of Austin, the National Multifamily Housing Council and the Urban Land Institute."},
+      {"org": "Urban Land Institute", "role": "Member", "category": "business", "source_url": "https://www.presidiumre.com/about/", "snippet": "an active member of several trade associations, including ... the Urban Land Institute."},
+      {"org": "National Multifamily Housing Council", "role": "Member", "category": "business", "source_url": "https://www.presidiumre.com/about/", "snippet": "an active member of several trade associations, including ... the National Multifamily Housing Council."},
+      {"org": "Opportunity Austin", "role": "Member", "category": "business", "source_url": "https://www.presidiumre.com/about/", "snippet": "an active member of several trade associations, including Opportunity Austin."},
+      {"org": "Stewart Title, Austin", "role": "Advisory Board member", "category": "business", "source_url": "https://www.presidiumre.com/about/", "snippet": "Cross sits on the Advisory Board of Stewart Title, Austin."}
+    ]
+  },
+  {
+    "donor_id": "63333293151eff87",
+    "name": "Piano, Molly",
+    "resolved_employer": "Ascension/Seton (self-reported, Healthcare Administration)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported employer Ascension/Seton in Healthcare Administration (zip 78751, Austin). Could not locate a matching public bio or executive profile for a 'Molly Piano' at Ascension Seton; the only Austin 'Molly Piano' web result is an unrelated salon technician, so identity is unconfirmed. Classified Healthcare by self-reported employer (categorize-by-employer fallback). No federal PAC contributions (fec_count 0) and no TX lobbyist registration.",
+    "source_url": "https://healthcare.ascension.org/seton",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0bd31c34284f422b",
+    "name": "Jones, Annette",
+    "resolved_employer": "Armbrust & Brown PLLC (listed employer); occupation none/NA/Attorney — likely retired attorney or household member",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Zip 78703; filings list occupation 'none/NA/Atty' and employer 'Armbrust Brown PLLC.' Ken Jones is a real-estate attorney at Armbrust & Brown in the same 78703 area, so a household tie is plausible but NOT independently corroborated (recorded as unconfirmed). Prolific Democratic small-dollar donor (fec_count 194, lean 0.98). No AIPAC/oil-gas/gun/defense PAC ties surfaced and no TX lobbyist registration. Caveat: FEC individual-contribution API was rate-limited, so her 194 contributions could not be enumerated line-by-line.",
+    "source_url": "https://www.abaustin.com/the-team/ken-jones/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0d9f1c259b2edaa2",
+    "name": "Marsh, Charles",
+    "resolved_employer": "CEO & Managing Principal, Endeavor Real Estate Group",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Charles 'Chad' Marsh is CEO & Managing Principal at Endeavor Real Estate Group (Austin's largest commercial developer; The Domain). Legal name 'Charles Alan Marsh' appears in TX broker records sponsored by Endeavor 2015 Management LLC, corroborating the 'Charles Marsh / Endeavor' identity and 78703 (Tarrytown) profile. Not personally a registered TX or City of Austin lobbyist (Endeavor retains outside contract lobbyists). No Israel/Palestine, oil & gas, or gun PAC affiliations found.",
+    "source_url": "https://www.endeavor-re.com/about/team/chad-marsh/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Opportunity Austin", "role": "Board Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/chad-marsh/", "snippet": "Opportunity Austin Board Member (regional economic-development initiative of the Austin Chamber)."},
+      {"org": "West Austin Youth Association / YMCA Camp Moody Capital Committee", "role": "Youth sports coach / committee member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/chad-marsh/", "snippet": "Basketball and football coach, West Austin Youth Association; YMCA Camp Moody Capital Committee member."}
+    ]
+  },
+  {
+    "donor_id": "17b8faa0a5a18b85",
+    "name": "Taylor, Kimberly",
+    "resolved_employer": "Leander ISD (retired teacher)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Self-reported retired teacher, Leander ISD (zip 78726, Austin). 'Kimberly Taylor' is a very common name; no single public profile could be uniquely matched to this donor, so identity beyond the self-reported occupation is unconfirmed. Classified Education (retired) by self-reported occupation. No federal PAC contributions (fec_count 0) and no TX lobbyist registration.",
+    "source_url": "https://www.leanderisd.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "27c7a6d1709a1326",
+    "name": "Marsh, Louisa",
+    "resolved_employer": "Not Employed (self-described stay-at-home parent / family manager)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-lists as 'stay at home parent / self employed / family manager'; zip 78746 (West Lake Hills/Rollingwood). fec_count 0. Hypothesized household tie to an Endeavor Real Estate Group Marsh (Chad/Will Marsh are Endeavor principals in the same 78746 area) is plausible but NOT corroborated by any public record (marriage/property/obituary), so recorded as unconfirmed evidence only, not an asserted affiliation. No federal PACs and no TX lobbyist registration.",
+    "source_url": "https://www.endeavor-re.com/about/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "370b1ead1a706c73",
+    "name": "Bufkin, Ben",
+    "resolved_employer": "Managing Principal, Endeavor Real Estate Group",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Ben Bufkin is a Managing Principal at Endeavor Real Estate Group (22 years) and sits on the firm's 5-member Operating Committee; co-led development of The Domain. Matches donor employer/title and 78731 west-Austin profile. fec_count 0; not a registered TX or City of Austin lobbyist; no Israel/Palestine, oil & gas, or gun PAC affiliations found.",
+    "source_url": "https://www.endeavor-re.com/about/team/ben-bufkin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Urban Land Institute", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/ben-bufkin/", "snippet": "Professional affiliations: Urban Land Institute member; International Council of Shopping Centers member."},
+      {"org": "University of Texas Real Estate Finance and Investment Center", "role": "Advisory Council Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/ben-bufkin/", "snippet": "Advisory Council Member, University of Texas Real Estate Finance and Investment Center."},
+      {"org": "Big Brothers Big Sisters", "role": "Advisory Council member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/ben-bufkin/", "snippet": "Community involvement: Big Brothers Big Sisters Advisory Council; Board of Directors, Fishers of Men; Colorado River Alliance member."}
+    ]
+  },
+  {
+    "donor_id": "4d92b726dba0249b",
+    "name": "Whitt, Ashley",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation listed as None/n/a; zip 78756. Multiple distinct 'Ashley Whitt' records exist in Austin (an AP clerk, a teacher of the visually impaired, a homemaker volunteer) and none could be corroborated to zip 78756 or to the fec_count-11 / lean-1.0 pattern, so identity is unconfirmed. Industry left null per no-guess rule. FEC PAC search returned no federal PAC donations; TX Ethics Commission lobbyist registry shows no 'Ashley Whitt'.",
+    "source_url": "https://www.linkedin.com/in/ashley-whitt-a219429/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5d0c7c0bf67786eb",
+    "name": "Baumgartner, Matthew",
+    "resolved_employer": "Partner, Armbrust & Brown PLLC — trial/appellate litigator (NOT the Austin restaurateur of the same name)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Matthew Birk Baumgartner, A&B partner; Univ. of Michigan JD 2004 + MPP; former WilmerHale associate and clerk to Judge William Wayne Justice. Distinct from Austin restaurateur Matt Baumgartner (Banger's/Home Slice) — different career, education, and profile. No ideological/oil-gas/gun/defense PAC ties and no TX lobbyist registration surfaced.",
+    "source_url": "https://www.abaustin.com/the-team/matt-baumgartner/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "71625ee2184b1b8e",
+    "name": "Jones, Kenneth",
+    "resolved_employer": "Attorney, Armbrust & Brown PLLC (real estate, land use, business law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Kenneth N. 'Ken' Jones, A&B attorney; UT Law JD 1985; Best Lawyers Real Estate Law, AV Preeminent. Matches Austin 78703 attorney profile. Note: reported fec_donation_count 89 is likely inflated by name-conflation ('Kenneth Jones' is very common); no specific federal PAC donation could be tied to this individual. No TX lobbyist registration.",
+    "source_url": "https://www.abaustin.com/the-team/ken-jones/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "af337182c6c83655",
+    "name": "Thumlert, Jason",
+    "resolved_employer": "Managing Principal, Endeavor Real Estate Group",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jason Thumlert is a Managing Principal at Endeavor Real Estate Group (20 years) on the 5-person operating committee; led the ~900,000 SF Saltillo mixed-use development in East Austin (in/near District 3). UT-Austin BBA Finance; former CIBC World Markets investment banker. Matches 78704 profile. Not a registered lobbyist; no Israel/Palestine, oil & gas, or gun PAC affiliations found.",
+    "source_url": "https://www.endeavor-re.com/about/team/jason-thumlert/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/jason-thumlert/", "snippet": "Member of the Real Estate Council of Austin (development-industry advocacy organization)."}
+    ]
+  },
+  {
+    "donor_id": "d15ab60ad044d471",
+    "name": "Marsh, William",
+    "resolved_employer": "Managing Principal, Endeavor Real Estate Group",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "William 'Will' Marsh is a Managing Principal at Endeavor Real Estate Group (22 years), involved in office/mixed-use projects (The Quincy, Gulch Union, 1200 Broadway, The Bowie). Matches 78746 (Westlake) profile; distinct individual from Charles/Chad Marsh. Not a registered TX or City of Austin lobbyist; no external advocacy memberships listed on his Endeavor bio; no Israel/Palestine, oil & gas, or gun PAC affiliations found.",
+    "source_url": "https://www.endeavor-re.com/about/team/will-marsh/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dba3a821598e8bd3",
+    "name": "Beckham, Kimberly",
+    "resolved_employer": "Attorney, Armbrust & Brown PLLC (commercial real estate; general counsel to Central Texas municipal utility districts)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Kimberly S. 'Kim' Beckham, at A&B since 1998; UT Law; commercial real estate practice — acquisitions, financing, MUD/special-district counsel for real-estate developments. Matches Austin 78759 attorney profile. No ideological/oil-gas/gun/defense PAC ties and no TX lobbyist registration surfaced.",
+    "source_url": "https://www.abaustin.com/the-team/kimberly-beckham/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dec2ec6fc3101ee7",
+    "name": "Taylor, Scott",
+    "resolved_employer": "Partner, Armbrust & Brown PLLC (corporate/business law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Scott A. Taylor is a partner at Armbrust & Brown PLLC practicing corporate/business law (M&A, governance, financings); J.D./M.B.A. UT Austin 1994. Civic roles are non-policy (Boy Scouts, church building committee, Optimist Club youth sports). FEC PAC search found no federal contributions attributable to this individual (fec_count 0; national results are an unrelated same-named ex-Congressman from VA). No TX lobbyist registration.",
+    "source_url": "https://www.abaustin.com/the-team/scott-taylor/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f7c21b8abdaf2c74",
+    "name": "Alam, Paige",
+    "resolved_employer": "Self-employed (faith columnist / minister / homemaker)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Paige (Gressett) Alam, West Lake Hills TX 78746; spouse Jamil Alam ('Paige and Jamil Alam, Austin, Texas' on a 2026 UT giving roster). LinkedIn headline 'Faith Columnist/Reporter - West Austin News'; attended Austin Presbyterian Theological Seminary (~2022), consistent with filed employer strings 'Homemaker, Minister' and occupation 'Self Employed.' No federal PAC contributions (only ~$400 local Austin giving 2021-2022) and no TX lobbyist registration. No documented policy-advocacy religious-org role, so no affiliation recorded.",
+    "source_url": "https://www.linkedin.com/in/paige-gressett-alam-4733b8a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ff9c622d6b8de5fe",
+    "name": "Flahive, Kevin",
+    "resolved_employer": "Attorney, Armbrust & Brown PLLC (real estate / land use)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Kevin M. Flahive, real estate/land-use attorney at Armbrust & Brown since 2011 (entitlement/development, zoning/permitting, special utility districts); J.D. cum laude Texas Tech 2006. Austin Monitor (2016) classified him as a 'nonlobbyist member of his firm' for city contribution limits; no TEC lobbyist registration found. FEC PAC search surfaced no ideological-PAC contributions (fec_count 2).",
+    "source_url": "https://www.abaustin.com/the-team/kevin-flahive/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin", "role": "Leadership Development Council member", "category": "business", "source_url": "https://www.abaustin.com/the-team/kevin-flahive/", "snippet": "Real Estate Council of Austin (Leadership Development Council member)."},
+      {"org": "Urban Land Institute", "role": "Member", "category": "business", "source_url": "https://www.abaustin.com/the-team/kevin-flahive/", "snippet": "Urban Land Institute member."}
+    ]
+  },
+  {
+    "donor_id": "644605a93ed5d270",
+    "name": "Brown, Frank",
+    "resolved_employer": "Armbrust & Brown PLLC (name partner; corporate/tax/estate/real estate) (retired)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Frank B. Brown is a name partner at Armbrust & Brown PLLC (admitted 1976; CPA; Life Fellow Texas Bar Foundation; former USAF fighter/instructor pilot). FEC Schedule A confirms identity: contributions under employer 'Armbrust & Brown,' zip 78746 — RickPerry.org $1,000 (2011, R), Judge John Carter for Congress $500 (2002, R), Alaskans for Begich $500 (2008, D). Bipartisan pattern matches lean 0.49; no ideological/issue PAC (AIPAC/UDP, J Street, NRA, oil & gas, defense) among contributions. Prior USAF service is biographical, not defense-industry advocacy. No lobbyist registration.",
+    "source_url": "https://www.abaustin.com/the-team/frank-brown/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f2187e47b897d09",
+    "name": "Brown, Janice",
+    "resolved_employer": "Independent educational consultant / college counselor (retired) — identity unconfirmed",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Occupation given as retired consultant/college counselor at West Lake Hills zip 78746 — same zip as name-partner Frank Brown, supporting a probable household/spouse relationship, but no public record (obituary, announcement, joint filing) confirms the link and no matching firm/LinkedIn bio could be accessed. A same-named 'Janice Brown, Educational Consultant' in directories is tied to Santa Barbara CA, so identity is not confirmed. Classified Education from stated occupation only (categorize-by-employer fallback). FEC PAC search (fec_count 7) surfaced no ideological-PAC contributions; no TEC lobbyist registration.",
+    "source_url": "https://www.abaustin.com/the-team/frank-brown/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "23cf6900f523e1d2",
+    "name": "Lasch, Megan",
+    "resolved_employer": "Owner & President, O-SDA Industries, LLC (affordable-housing developer)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Owner and President of O-SDA Industries, LLC, an Austin MBE/WBE/HUB-certified affordable-housing developer (collaborates with Saigebrook Development); zip 78731 (NW Austin). B.S. Biosystems Engineering, Oklahoma State; has financed/closed $1B+ across 40+ affordable developments in Texas. Industry: Real Estate (affordable-housing development). No ideological/oil-gas/defense/gun PACs and no TX lobbyist registration surfaced.",
+    "source_url": "https://affordablehousingtexas.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Member", "category": "business", "source_url": "https://affordablehousingtexas.com/about/", "snippet": "Member of the Real Estate Council of Austin."},
+      {"org": "Skillpoint Alliance", "role": "Former Board Chair", "category": "civic", "source_url": "https://affordablehousingtexas.com/about/", "snippet": "Former Board Chair for Skillpoint Alliance, a nonprofit providing technology-based workforce training."}
+    ]
+  }
+]

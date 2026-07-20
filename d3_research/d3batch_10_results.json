@@ -1,0 +1,228 @@
+[
+  {
+    "donor_id": "65a54d8f9df40d8b",
+    "name": "Moceri, Cheryl",
+    "resolved_employer": "Teacher (school listed as \"St. Lawrence\" — likely St. Lawrence Catholic Parish/School, Cedar Park–Leander area)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Donor fields indicate a teacher at \"St. Lawrence\" in the Leander/Cedar Park area (zip 78641). Could not confirm the specific individual; other same-named people exist. Occupation-as-teacher is the only corroborating detail. Likely related to Dr Cross Moceri at the same 78641 zip.",
+    "source_url": "https://www.familytreenow.com/records/people/id/gsulkootkntotakpprnel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "68f61b2e62ad8bab",
+    "name": "Green, Ricky",
+    "resolved_employer": "Attorney / owner, The Law Office of Ricky D. Green, PLLC (Austin; Texas workers' compensation insurance defense)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Austin attorney, SMU Law 1993, 28+ years in Texas workers' comp insurance defense; firm opened 2005 at 1807 W. Slaughter Ln. Member of Austin Black Lawyers' Assn and Travis County Bar; board/service roles at St. Stephen's Episcopal School, Breakthrough Central Texas, and the Austin Geriatric Center (civic/educational, not policy-advocacy).",
+    "source_url": "https://rickydgreen.com/about-the-firm/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "69519d17901a0fc5",
+    "name": "Zavareh, Rahil",
+    "resolved_employer": "Works in hospitality (Austin, TX)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Occupation \"Employed\"/employer \"Hospitality\"; a Rahil Zavareh appears in Austin campaign-finance records (listed address 603 W. 8th St., Austin 78701) tied to the hospitality industry. No detailed public bio beyond business/campaign-finance listings.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=444509",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6dc071b5e1c13873",
+    "name": "Farrell, Lori",
+    "resolved_employer": "Homemaker",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Ponte Vedra Beach, FL 32082) listing occupation Homemaker. Public records reference a Mark T. and Lori Farrell household in Ponte Vedra Beach; no independent career/bio found to classify an industry.",
+    "source_url": "https://www.spokeo.com/Louise-Farrell/Florida",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "74276606ec416d18",
+    "name": "Gregorcyk, Jennifer",
+    "resolved_employer": "Homemaker (self)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public records place a Jennifer Elizabeth Gregorcyk at 4205 Shoalwood Ave, Austin 78756 (matches donor zip), consistent with the \"Self\"/Homemaker occupation. A different Jennifer Raye Gregorcyk is a Round Rock ISD educator, but her Round Rock location does not match the 78756 donor address.",
+    "source_url": "https://www.instantcheckmate.com/people/jennifer-gregorcyk/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "745b23fa7ca0231f",
+    "name": "Myrick, Tracey",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "A Tracey L. Myrick is listed in public records at a 78732 Austin address (Steiner Ranch area), and a 2025 City of Austin campaign-finance report shows a Tracey Myrick contribution of $450. No occupation, employer, LinkedIn, or bio page could be confirmed for the Austin person; multiple unrelated Tracey/Tracy Myricks exist elsewhere.",
+    "source_url": "https://services.austintexas.gov/edims/document.cfm?id=455348",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "758a19cbd7971814",
+    "name": "Moceri, Dr Cross",
+    "resolved_employer": "Self-employed physician (occupation 'Doctor' per filing); note a separately identifiable Cross Moceri is Co-CEO of Presidium real estate — likely a family member, not this donor",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor's occupation is 'Doctor'/'Self' at Leander 78641, matching an older Cross Moceri (public records) at a Leander address, likely related to Cheryl Moceri at the same zip. A distinct, better-known Cross Moceri (JD, ex-Milbank Tweed lawyer) is Co-Founder/Co-CEO of Presidium and would file as real-estate, not 'Doctor'/'Self' — so this donor is most likely the physician relative, not the developer.",
+    "source_url": "https://www.instantcheckmate.com/people/cross-moceri/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "76b1ff3a83a56ea8",
+    "name": "Dong, Shawn",
+    "resolved_employer": "Presidium (multifamily real-estate investment/development firm); Director of Investments / Acquisitions",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Shawn Dong's LinkedIn and ZoomInfo confirm he works at Presidium in real-estate acquisitions/investments (Master of Entrepreneurship, University of Michigan), matching the donor's stated occupation 'Real Estate Development' / employer 'Presidium' at Austin 78734.",
+    "source_url": "https://www.linkedin.com/in/s-dong/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "787032425517d1d4",
+    "name": "Jones, Ken",
+    "resolved_employer": "Armbrust & Brown, PLLC — attorney (real estate, land use, business law); former General Counsel of Stratus Properties",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Firm bio confirms Kenneth N. 'Ken' Jones is an Austin real-estate/land-use attorney at Armbrust & Brown (100 Congress Ave, 78701), Texas bar since 1986, UT Law J.D., prior General Counsel at Stratus Properties — matching donor's attorney/Armbrust Brown/78701 details. Firm does municipal-utility-district work but Ken Jones is not individually listed in the TEC lobbyist registry.",
+    "source_url": "https://www.abaustin.com/the-team/ken-jones/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78760ff27ba436df",
+    "name": "Perkins, Bob",
+    "resolved_employer": "Retired Travis County District Judge, 331st Criminal District Court (1982–2010); still serves as a Senior District Judge (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor is Retired in downtown Austin 78701, consistent with the well-documented Bob Perkins, longtime elected Travis County judge who retired from the 331st District Court in 2010 and continues as a Senior District Judge; identity is a strong but not certain match (common name).",
+    "source_url": "https://en.wikipedia.org/wiki/Bob_Perkins_(judge)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "79c147df6cd5aad9",
+    "name": "Hollingworth, Wayne",
+    "resolved_employer": "Attorney & CPA at Armbrust & Brown, PLLC (Austin land-use/business law firm) — record name is a typo for Wayne S. Hollingsworth",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Record name is a typo; firm attorney is Wayne S. Hollingsworth, partner/attorney and licensed CPA at Armbrust & Brown PLLC, 100 Congress Ave Ste 1300, Austin 78701. Practices tax, partnership/LLC, corporate, real estate transactions & finance, construction/design contracts. TX Bar licensed 1984. Home zip 78746 (Westlake) consistent.",
+    "source_url": "https://www.abaustin.com/the-team/wayne-hollingsworth/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7da65e868951e695",
+    "name": "Smitheal, Kaye",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Only thin data-aggregator records found for a Kaye/Kaye Ellen Smitheal at 100 Congress Ave, Austin 78701, occupation shown as 'Investor'; appears related to the Austin Smitheal family (Jeremy Smitheal is a local commercial real estate broker). Original record had no occupation/employer; could not corroborate a specific verified profile, so industry left null.",
+    "source_url": "https://www.linkedin.com/pub/dir/+/Smitheal/us-64-Austin,-Texas-Metropolitan-Area",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8082b14b6b849213",
+    "name": "Alam, Jamil",
+    "resolved_employer": "Managing Principal, Endeavor Real Estate Group (major Austin developer)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jamil Alam is Managing Principal at Endeavor Real Estate Group, in commercial real estate since 1988, leading high-rise mixed-use urban infill development (The Bowie, IBC Bank Plaza, 91-93 Red River). Sits on Endeavor's Investment/Fundraising/Compensation committees. Home zip 78746 matches his listed Rollingwood civic role.",
+    "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Board Member", "category": "business", "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/", "snippet": "Board Member, Real Estate Council of Austin (industry group active on Austin land-use/development policy)."},
+      {"org": "City of Rollingwood", "role": "Planning & Zoning Member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/", "snippet": "Planning & Zoning Member, City of Rollingwood."},
+      {"org": "Austin Parks Foundation", "role": "Board Member", "category": "civic", "source_url": "https://www.endeavor-re.com/about/team/jamil-alam/", "snippet": "Board Member, Austin Parks Foundation."}
+    ]
+  },
+  {
+    "donor_id": "80e62b0a493da050",
+    "name": "Smith, Emerson",
+    "resolved_employer": "Founder & CEO, Pushnami (Austin martech/ad-tech messaging platform)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Emerson A. Smith is founder/CEO of Pushnami, an Austin omnichannel push/email messaging platform (founded 2017); UT-Austin economics BA. Austin 78703. A 2024 Austin campaign-finance filing lists him as Pushnami CEO making a $450 contribution; no ideological/issue PAC (AIPAC, J Street, oil/gas, defense, NRA) records found.",
+    "source_url": "https://theorg.com/org/pushnami/org-chart/emerson-smith",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "82e65255bf2cc103",
+    "name": "Kumar, Hema",
+    "resolved_employer": "Journeyman Group (Austin real estate development & construction firm) — VP per self-report; wife of founder/president Sam Kumar",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Record fields swapped (occupation 'Journeyman Construction' / employer 'VP'). Journeyman Group is Sam Kumar's Austin real estate development & construction firm; Hema Kumar is his wife and co-namesake of UT-Austin's Sam and Hema Kumar Construction Engineering & Project Management Program. Austin 78746 consistent. Her formal VP title is self-reported and not independently confirmed, but affiliation to Journeyman/construction is solid.",
+    "source_url": "https://cockrell.utexas.edu/news/cockrell-school-celebrates-naming-of-the-sam-and-hema-kumar-construction-engineering-and-project-management-program/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "852a25552c17f14a",
+    "name": "Payervand, Darian",
+    "resolved_employer": "Student at SMU (Southern Methodist University), Dallas; prior experience at Centurion American (real-estate developer)",
+    "industry": "Student",
+    "confidence": "high",
+    "evidence": "Darian Payervand's LinkedIn confirms he is an SMU student based in Dallas, TX, matching the 75209 zip and 'Student at SMU' occupation; also appears on the Austin campaign-finance filing. (LinkedIn page returned a login wall; identity corroborated via search snippet plus the campaign-finance filing.)",
+    "source_url": "https://www.linkedin.com/in/darianpayervand/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "85b8d3ec8c88ecd3",
+    "name": "Scholl, Jennifer",
+    "resolved_employer": "Attorney (real estate, municipal law, MUD law) at Armbrust & Brown, PLLC, Austin",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jenn Scholl is a real-estate/municipal-law attorney at Armbrust & Brown (100 Congress Ave, 78701); JD Texas Tech 2014; matches name, firm, Austin location.",
+    "source_url": "https://www.abaustin.com/the-team/jennifer-scholl/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8945e0c9d5b810b2",
+    "name": "Hobbs, Jeff",
+    "resolved_employer": "Attorney (commercial/real-estate/construction litigation) at Armbrust & Brown, PLLC, Austin",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jeffrey Jackson 'Jeff' Hobbs is a litigation attorney at Armbrust & Brown since 2003 (UT Law 1999); clients include real-estate developers, home builders, utility districts; matches name, firm, Austin location.",
+    "source_url": "https://www.abaustin.com/the-team/jeff-hobbs/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8d48a33f55636b00",
+    "name": "Gritz, Rob",
+    "resolved_employer": "President & CEO of Texas Global Equity / Texas Growth Fund (private equity, real-estate & EB-5 investment), Austin",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Robert 'Rob' Gritz is President & CEO of Texas Global Equity and Texas Growth Fund in Austin, a private-equity/EB-5 investment firm; prior career at Credit Suisse First Boston and Kluge & Co.; matches name, title, employer.",
+    "source_url": "https://www.linkedin.com/in/rob-gritz-austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8e44aa1a720d4f86",
+    "name": "Harris, William",
+    "resolved_employer": "CFO of Butler Family Interests (real-estate investments for the family of former Austin Mayor Roy A. Butler); listed as William M. 'Matt' Harriss",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "William M. 'Matt' Harriss is CFO of Butler Family Interests, handling Central Texas real-estate investments for the family of former Austin Mayor Roy A. Butler; matches occupation (CFO) and employer despite the 'Harriss' spelling.",
+    "source_url": "https://www.austinpetsalive.org/about/leadership/william-m-matt-harriss",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Capital Metro / CAMPO (Capital Area Metropolitan Planning Organization)", "role": "Board member", "category": "civic", "source_url": "https://www.austinpetsalive.org/about/leadership/william-m-matt-harriss", "snippet": "Matt serves on the Boards of Capital Metro, CAMPO, the Trail Conservancy, and the Waterloo Greenway Conservancy."}
+    ]
+  }
+]

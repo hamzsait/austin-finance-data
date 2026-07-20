@@ -1,0 +1,252 @@
+[
+  {
+    "donor_id": "e7c22d86dd34aed8",
+    "name": "Yarlagadda, Roopa",
+    "resolved_employer": "Texas Department of Transportation (TxDOT)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Roopa Yarlagadda is an Accountant / CPA at TxDOT in Austin (salary ~$86,310 as of 2024); appears in TxDOT accounting records. Matches donor occupation (Accountant), employer (TxDOT) and Austin 78736. Gave to challenger Neha Shah.",
+    "source_url": "https://salaries.texastribune.org/employees/roopa-yarlagadda-700444/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ff37db15ff5c5874",
+    "name": "Cobb, Amy",
+    "resolved_employer": "Amy Cobb Consulting (self-employed); We Are Blood",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Amy Cobb is a Pflugerville-based nonprofit accountant / QuickBooks ProAdvisor and owner of Amy Cobb Consulting, specializing in nonprofit accounting; consistent with donor occupation (Accountant) and employer strings 'We Are Blood, Self' at Pflugerville 78660. No ideological PAC or lobbyist record found.",
+    "source_url": "https://www.amycobb.co/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5f6f9b7d0198ecfd",
+    "name": "Harding, Vincent",
+    "resolved_employer": "Aldine ISD (Associate/Assistant General Counsel)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Vincent Alexander Harding is a Texas-licensed attorney and former Chair of the Travis County Democratic Party; ran for Austin City Council District 1 in 2018; later moved to Houston and serves as school-district counsel at Aldine ISD, with prior University of Texas at Austin affiliation. Matches Houston 77044, Attorney, University of Texas, Aldine ISD associate counsel.",
+    "source_url": "https://ballotpedia.org/Vincent_Harding",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Travis County Democratic Party", "role": "Former Chair", "category": "political", "source_url": "https://ballotpedia.org/Vincent_Harding", "snippet": "Vincent Harding served as Chair of the Travis County Democratic Party (announced Oct. 2017 he would not seek another term) and ran for Austin City Council District 1 in 2018."}
+    ]
+  },
+  {
+    "donor_id": "25d4267da5035840",
+    "name": "Hallmark, Chad",
+    "resolved_employer": "OHT Partners, LLC",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Chad Hallmark is a Principal (formerly VP/Development Associate) at OHT Partners, an Austin luxury multifamily real-estate developer; Austin native, UT-Austin McCombs MBA. Matches donor occupation (Residential Developer/Real Estate), employer (OHT Partners) and Austin 78703.",
+    "source_url": "https://www.ohtpartners.com/leadership/chad-hallmark/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2dc66564bf92bd56",
+    "name": "Carr, Stuart",
+    "resolved_employer": "Carr Residential LLC",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Carr Residential LLC is a family-owned Austin residential real-estate development/construction company; consistent with donor occupation (Residential Development), employer (Carr Residential LLC) and Austin 78746. Company 'About' page does not name Stuart Carr individually, so identity is inferred from the company. The registered TX lobbyist 'Snapper L. Carr' (Focused Advocacy) is a different person and is NOT this donor.",
+    "source_url": "https://carr-re.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6541bbe04b6db37d",
+    "name": "Maedius, Andrew",
+    "resolved_employer": "Riverside Resources",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Donor name 'Maedius' is a misspelling of Andrew Kingsland Maebius. Texas Bar and Justia list him as a Business/Real Estate attorney whose firm is Riverside Resources (an Austin commercial real estate investment firm), where he serves as in-house/corporate counsel; licensed in TX since 2001. Zip 78703 (Tarrytown/Tarry Hill) matches; listed as president of the Tarry Hill Homeowner's Association. Donor's 'Investor' occupation + 'Riverside Resource' employer align. No FEC ideological-PAC contributions and no state lobbyist registration found.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=206966",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Riverside Resources", "role": "In-house/corporate counsel; business & real estate attorney", "category": "business", "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=206966", "snippet": "State Bar of Texas / Justia list Andrew Kingsland Maebius, firm 'Riverside Resources,' practice areas Business and Real Estate, Austin TX, licensed 2001."},
+      {"org": "Tarry Hill Homeowner's Association, Inc.", "role": "President", "category": "civic", "source_url": "https://www.corporationwiki.com/p/2fnh8d/andrew-maebius", "snippet": "CorporationWiki lists Andrew Maebius as President for Tarry Hill Homeowner's Association, Inc. (Tarry Hill is in the 78703 zip)."}
+    ]
+  },
+  {
+    "donor_id": "65cfe1b669d36440",
+    "name": "Sookiasian, Nanette Y.",
+    "resolved_employer": "retired",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retired. Identity corroborated via the Austin American-Statesman obituary of Antonio Soza (2018), which names daughter 'Nanette Sookiasian' and husband 'Rick' (Richard). Same 78746 (Westlake) address as Richard F. Sookiasian confirms a spousal pair (née Soza). No career/employer beyond 'retired' documented; no FEC ideological-PAC contributions and no Texas lobbyist registration found under her name.",
+    "source_url": "https://www.legacy.com/us/obituaries/statesman/name/antonio-soza-obituary?id=10283184",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6d080566b237b5c9",
+    "name": "Sookiasian, Richard F.",
+    "resolved_employer": "retired",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retired; spouse of Nanette Y. Sookiasian (same 78746 address; obituary of Antonio Soza names son-in-law 'Rick'). A 'Richard Sookiasian' (rare surname, Austin) was a registered Texas lobbyist in 2010 for the Texas Association of Manufacturers, consistent with a now-retired government-relations career — plausibly the same person but not fully confirmed to the donor's middle initial. No FEC ideological-PAC contributions found.",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/2010/conlob2010d.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Association of Manufacturers", "role": "Registered lobbyist (2010) — likely same person, now retired", "category": "business", "source_url": "https://www.ethics.state.tx.us/search/lobby/2010/conlob2010d.htm", "snippet": "2010 TEC lobby list: Richard Sookiasian (ID 00061372) registered for client Texas Association of Manufacturers, prospective compensation $25,000-$49,999.99, 01/08/2010-11/04/2010."}
+    ]
+  },
+  {
+    "donor_id": "711ffe3fbd878db3",
+    "name": "Siegel, Michael",
+    "resolved_employer": "City of Austin",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed public official: Mike (Michael J.W.) Siegel, elected 2024 as Austin City Council Member for District 7. Civil-rights/employment attorney (J.D. Cornell, B.A. Brandeis), former Assistant City Attorney for the City of Austin, and two-time Democratic nominee for U.S. House TX-10 (2018 and 2020). Co-founder of Ground Game Texas, a progressive issue-campaign advocacy organization. Zip 78757 (Crestview) matches his District 7 residence. No pro-Israel/pro-Palestine, oil & gas, or gun PAC affiliations surfaced.",
+    "source_url": "https://www.austintexas.gov/department/about-council-member-mike-siegel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of Austin", "role": "City Council Member, District 7 (elected 2024); former Assistant City Attorney", "category": "political", "source_url": "https://www.austintexas.gov/department/about-council-member-mike-siegel", "snippet": "Official city bio: Mike Siegel elected 2024 to represent Austin's District 7; civil rights lawyer and former Assistant City Attorney who co-authored/defended city policies including paid sick leave."},
+      {"org": "Ground Game Texas", "role": "Co-founder", "category": "political", "source_url": "https://ballotpedia.org/Mike_Siegel", "snippet": "Siegel co-founded Ground Game Texas, which pursues democracy and social-justice local issue campaigns across the state."},
+      {"org": "U.S. House TX-10 campaigns (Democratic)", "role": "Democratic nominee 2018 & 2020 vs. Rep. Michael McCaul", "category": "political", "source_url": "https://ballotpedia.org/Mike_Siegel", "snippet": "Won the 2020 Democratic runoff for Texas' 10th Congressional District for a rematch with Republican Rep. Michael McCaul; came within ~5 points in 2018."}
+    ]
+  },
+  {
+    "donor_id": "9ab6f426e56811c6",
+    "name": "Bordas, Mark",
+    "resolved_employer": "Aegis Advocacy, LLC",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Mark E. Bordas is a registered Texas lobbyist (TEC registrations 2018-2025+) and Managing Member of Aegis Advocacy, LLC, a Westlake/Austin government-affairs and lobbying firm. LinkedIn/RocketReach also list him as Senior Vice President for Governmental Affairs (Southwest Region) at Scofes & Associates Consulting, with prior roles at Anheuser-Busch. Zip 78746 (Westlake) matches his TEC registration. Government-relations/lobbying places him in Consulting / PR. No pro-Israel/pro-Palestine, oil & gas, or gun ideological-PAC contributions surfaced.",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/mark-e-bordas-53187/activity",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Aegis Advocacy, LLC", "role": "Managing Member; registered Texas lobbyist", "category": "business", "source_url": "https://www.corporationwiki.com/p/2rsuly/mark-bordas", "snippet": "CorporationWiki lists Mark Bordas as Managing Member for Aegis Advocacy, LLC; TEC lists Mark E. Bordas as a registered lobbyist under Aegis Advocacy LLC (2018-2025)."},
+      {"org": "Scofes & Associates Consulting", "role": "Senior Vice President, Governmental Affairs - Southwest Region", "category": "business", "source_url": "https://www.linkedin.com/in/markbordas/", "snippet": "LinkedIn/RocketReach: Mark Bordas, SVP for Governmental Affairs (Southwest Region), Scofes & Associates Consulting; prior roles at Aegis Advocacy and Anheuser-Busch."}
+    ]
+  },
+  {
+    "donor_id": "ed606a5c1c4e3b61",
+    "name": "Wiese, William",
+    "resolved_employer": "DuBois, Bryant & Campbell, LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "William 'Bill' Wiese is a Partner at DuBois, Bryant & Campbell (Austin) and a Registered Patent Attorney (USPTO). His practice is intellectual-property transactions: software/patent licenses, technology development, trademark and Internet/privacy law. J.D. with Honors from UT Austin. Identity corroborated by Austin location and the exact employer string. No ideological/PAC (AIPAC, J Street, oil & gas, defense, NRA, gun-control) contributions and no TX lobbyist registration found.",
+    "source_url": "https://dbcllp.com/dbc-attorneys/bill-wiese/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "DuBois, Bryant & Campbell, LLP", "role": "Partner (IP/patent attorney)", "category": "business", "source_url": "https://dbcllp.com/dbc-attorneys/bill-wiese/", "snippet": "Bill Wiese specializes in intellectual-property-based transactions including software licenses, patent licenses and technology development agreements; Registered Patent Attorney with the USPTO."},
+      {"org": "Texas Bar Foundation", "role": "Life Fellow", "category": "civic", "source_url": "https://dbcllp.com/dbc-attorneys/bill-wiese/", "snippet": "Serves as a Life Fellow of the Texas Bar Foundation and a member of the Austin Intellectual Property Inn of Court and the American Intellectual Property Law Association."}
+    ]
+  },
+  {
+    "donor_id": "de2a6f29348625fe",
+    "name": "Flint, Cynthia",
+    "resolved_employer": "Y Strategy",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Donor's employer strings (Y-Strategy / Operations Director) match Y Strategy, an Austin full-service progressive political consulting firm (founded 2013; down-ballot progressive candidates: campaign management, digital, field, comms). Her specific name is not listed on the firm's public 'Meet the Team' page, so individual confirmation rests on the self-reported employer only; confidence medium. No ideological/PAC contributions found on any side and no TX lobbyist registration.",
+    "source_url": "http://www.y-strategy.com/team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Y Strategy", "role": "Operations Director", "category": "political", "source_url": "http://www.y-strategy.com/", "snippet": "Y Strategy is an Austin-based full-service political consulting firm founded in 2013 to focus on progressive down-ballot candidates; services include campaign management, field organizing, and communications."}
+    ]
+  },
+  {
+    "donor_id": "483682fa4481d830",
+    "name": "Velasquez, Julius",
+    "resolved_employer": "Capital Metro (CapMetro)",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Occupation/employer strings indicate a Scheduling and Planning Coordinator at Capital Metro, Austin's public transit agency (Kyle, TX resident). No individual public profile (LinkedIn, news, bio) found to confirm this specific person; 'Velasquez' is a common name and he shares a surname with the candidate (Jose Velasquez) — a family relation is plausible but NO source documents any relationship, so it is not asserted. Categorized by employer only. No FEC ideological-PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://www.capmetro.org/plans-development",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9320f46324c9c4b3",
+    "name": "Gins, Jonathon",
+    "resolved_employer": "Texas Beer Company",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Donor (occupation 'Brewer, Texas Beer Company', Taylor TX 76574, 22 FEC donations) resolves to JD Gins, co-founder and original head brewer of Texas Beer Company, a craft brewery/taproom in downtown Taylor, TX. Published reporting documents that Gins and co-founder Ian Davis met as organizers on the Barack Obama presidential campaign — a documented Democratic-campaign background consistent with his high donation count. No ideological single-issue PAC contributions surfaced and no TX lobbyist registration.",
+    "source_url": "https://www.texasbeerco.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Beer Company", "role": "Co-founder / head brewer", "category": "business", "source_url": "https://craftbeeraustin.com/foreclosure-leads-to-new-ownership-for-texas-beer-co", "snippet": "JD Gins is co-founder of Texas Beer Company, a locally owned brewery in Taylor, TX."},
+      {"org": "Barack Obama presidential campaign", "role": "Field organizer (former)", "category": "political", "source_url": "http://digital.olivesoftware.com/olive/apa/austinamericanstatesman/sharedview.article.aspx?href=AAS/2017/05/11&id=Ar01402&sk=0F986640&viewMode=text", "snippet": "Austin American-Statesman reporting notes Gins met co-founder Ian Davis while working as organizers on the Barack Obama presidential campaign."}
+    ]
+  },
+  {
+    "donor_id": "e35e381caa671d32",
+    "name": "Grimaldo, juan",
+    "resolved_employer": "LTD Material, LLC",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Employer strings ('LTD materials', semiconductor/quartz manufacturing, Laborer) match LTD Material, LLC, an Austin-based precision quartz and ceramic component manufacturer serving semiconductor wafer-fabrication (won a $1M Texas Semiconductor Innovation Fund grant Jan 2026). No individual public profile for Juan Grimaldo exists; categorized by employer as a manufacturing laborer (Austin 78745, consistent). No FEC ideological-PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://ltdmaterial.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "22987847c8028091",
+    "name": "Bentley, Jeremiah",
+    "resolved_employer": "Texas Mutual Insurance Company",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Jeremiah Bentley, VP of Marketing & Community Affairs at Texas Mutual Insurance Company (the state's leading workers' comp insurer), joined 1998; matches employer strings and Austin location. Bio confirms multiple civic/business board seats (all non-ideological). No FEC PAC contributions and no TX Ethics Commission lobbyist registration found.",
+    "source_url": "https://unitedwayaustin.org/people/jeremiah-bentley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "United Way for Greater Austin", "role": "Board of Directors", "category": "civic", "source_url": "https://unitedwayaustin.org/people/jeremiah-bentley/", "snippet": "Bio lists board of directors membership for United Way for Greater Austin."},
+      {"org": "Leadership Austin", "role": "Board of Directors", "category": "civic", "source_url": "https://unitedwayaustin.org/people/jeremiah-bentley/", "snippet": "Board of Directors, Leadership Austin."},
+      {"org": "Greater Austin Hispanic Chamber of Commerce", "role": "Board of Directors", "category": "business", "source_url": "https://www.gahcc.org/jeremiah-bentley", "snippet": "Member of the board of directors for the Greater Austin Hispanic Chamber of Commerce."},
+      {"org": "Greater Austin Chamber of Commerce", "role": "Executive Committee member", "category": "business", "source_url": "https://www.austinchamber.com/uploads/marketing/groups/2021-board-of-directors-PHOTOS-CONTACT.pdf", "snippet": "On the executive committee of the Greater Austin Chamber of Commerce."},
+      {"org": "Asset Funders Network (Central Texas chapter)", "role": "Co-chair", "category": "civic", "source_url": "https://unitedwayaustin.org/people/jeremiah-bentley/", "snippet": "Co-chair of the Central Texas chapter of the Asset Funders Network."}
+    ]
+  },
+  {
+    "donor_id": "8379f8d3c3db56ab",
+    "name": "McIllwain, Andrea",
+    "resolved_employer": "Austin ISD",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Andrea McIllwain appears in Austin ISD's 2023 Teacher of the Year recognition as the representative from Blanton Elementary (an AISD dual-language campus), consistent with the reported PK4 Dual Language Teacher occupation and Austin ISD employer; Manor (78653) residence is adjacent to Austin. Categorized by employer. No FEC PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://www.austinisd.org/announcements/2023/02/21/congratulations-our-2023-teacher-year-teacher-promise-year",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f40ffd5ab988892",
+    "name": "Castilleja, Jessica",
+    "resolved_employer": null,
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Identified as Jessica (Renee) Castilleja, Austin attorney (JD; BA Political Science), State Bar of Texas member (licensed 05/04/2018). Public profiles note a prior role as a Policy Advisor in the Texas Legislature (consistent with employer string 'State') and work with a nonprofit promoting worker safety/dignity (consistent with 'Union'); current practice areas personal injury and government/administrative law. No current board/policy-advocacy membership documented. No FEC PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://about.me/jcastilleja",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c5e11dec4693a25",
+    "name": "Hernandez, Gloria",
+    "resolved_employer": "Self-employed (\"Buckets\")",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-reported as self-employed owner of a business called 'Buckets' in Austin (78744). No public record, business listing, or profile located to confirm the nature of the business or the specific individual. Employer-based fallback only. No FEC PAC contributions and no TX lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "73bb6b3b2acdc37d",
+    "name": "Lastra, Daniela",
+    "resolved_employer": null,
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Daniela Lastra of the El Paso metro area (matches 79930) is documented on the Progress321 Board of Directors, an El Paso young-professionals civic nonprofit; public bio notes an MSW, LCSW, and Certified Nonprofit Professional. Donor's self-reported occupation is 'Community Volunteer / Not Applicable', consistent with a nonprofit/civic community role. Identity match is plausible but not fully certain. No FEC PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://www.progress321.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Progress321", "role": "Board of Directors", "category": "civic", "source_url": "https://www.progress321.org/about", "snippet": "Daniela Lastra is part of the Progress321 Board of Directors, an El Paso purpose-driven professionals organization focused on regional leadership and community development."}
+    ]
+  }
+]
