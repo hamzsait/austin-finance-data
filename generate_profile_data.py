@@ -119,6 +119,7 @@ CANDIDATE_CYCLES = {
     'stevenbrown':  [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'riggins':      [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'shah':         [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    'weinberg':     [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
 
     # -- Travis County (March primaries are the real race; 4-year terms) --
     # Brown: won the Nov 2020 SPECIAL election for Eckhardt's unexpired term
@@ -223,11 +224,12 @@ OFFICE_OVERRIDE = {
     'stevenbrown': 'Austin City Council · District 1 Candidate',
     'riggins':     'Austin City Council · District 1 Candidate',
     'shah':        'Austin City Council · District 3 Candidate',
+    'weinberg':    'Austin City Council · District 5 Candidate',
 }
 
 CANDIDATE_MIN_YEAR = {
     'brown': 2016, 'travillion': 2016, 'shea': 2016, 'howard': 2016, 'gomez': 2016,
-    'morales': 2016, 'shah': 2026,
+    'morales': 2016, 'shah': 2026, 'weinberg': 2025,
 }
 
 

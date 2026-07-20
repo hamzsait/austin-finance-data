@@ -132,6 +132,56 @@
     }
    ],
    "omitted": []
+  },
+  {
+   "race_id": "district5",
+   "seat": "District 5",
+   "title": "Austin City Council District 5",
+   "kind": "incumbent",
+   "cycle_start_year": 2025,
+   "data_through": "2026-06-30",
+   "election_date": "2026-11-03",
+   "runoff_date": "2026-12-12",
+   "early_voting": "2026-10-19 to 2026-10-30",
+   "filing_opens": "2026-07-20",
+   "filing_closes": "2026-08-17",
+   "ballot_final": false,
+   "intro": "Ryan Alter, who has represented District 5 since 2023, is seeking a second term. He won the seat in December 2022, defeating Stephanie Bazan in a runoff with 60% of the vote. The district covers South-Central Austin. Note: figures here cover reported contributions only — David Weinberg has additionally loaned his campaign $275,000, which does not appear in contribution filings.",
+   "context_note": "Candidate filing runs July 20 - August 17, 2026. Everyone listed here has declared and appointed a campaign treasurer, but filing has not closed. Expect additions, and expect some listed candidates not to complete filing.",
+   "candidates": [
+    {
+     "slug": "alter",
+     "name": "Ryan Alter",
+     "recipient": "Alter, Ryan",
+     "photo": "au5",
+     "website": "https://www.ryanforatx.com",
+     "bio": "Attorney and former Texas Senate policy staffer; elected to this seat in 2022, defeating Stephanie Bazan in a December runoff. Seeking a second term.",
+     "status": "incumbent",
+     "has_data": true
+    },
+    {
+     "slug": "weinberg",
+     "name": "David Weinberg",
+     "recipient": "Weinberg, David M.",
+     "photo": null,
+     "website": "https://davidforatx.com",
+     "bio": "Public-affairs consultant; former executive director of the Texas League of Conservation Voters and leader of the Save Zilker Park PAC. Barton Hills resident.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": null,
+     "name": "Farrah Abraham",
+     "recipient": null,
+     "photo": null,
+     "website": "https://farrahabraham.com/farrah-for-austin",
+     "bio": "Television personality and Austin business owner; initially filed for mayor before entering the District 5 race in January 2026.",
+     "status": "declared",
+     "has_data": false,
+     "placeholder_note": "Filed to run - no campaign finance data on file yet"
+    }
+   ],
+   "omitted": []
   }
  ]
 }
