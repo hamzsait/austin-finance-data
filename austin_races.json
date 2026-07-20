@@ -242,6 +242,70 @@
     }
    ],
    "omitted": []
+  },
+  {
+   "race_id": "district9",
+   "seat": "District 9",
+   "title": "Austin City Council District 9",
+   "kind": "incumbent",
+   "cycle_start_year": 2025,
+   "data_through": "2026-06-30",
+   "election_date": "2026-11-03",
+   "runoff_date": "2026-12-12",
+   "early_voting": "2026-10-19 to 2026-10-30",
+   "filing_opens": "2026-07-20",
+   "filing_closes": "2026-08-17",
+   "ballot_final": false,
+   "intro": "Zohaib “Zo” Qadri, who has represented District 9 since 2023, is seeking a second term. He won the open seat in 2022, defeating Linda Guerrero with 51% of the vote in a December runoff. The district covers central Austin, including the University of Texas and West Campus.",
+   "context_note": "Candidate filing runs July 20 - August 17, 2026. Everyone listed here has declared and appointed a campaign treasurer, but filing has not closed. Expect additions, and expect some listed candidates not to complete filing.",
+   "candidates": [
+    {
+     "slug": "qadri",
+     "name": "Zohaib Qadri",
+     "recipient": "Qadri, Zohaib",
+     "photo": "au9",
+     "website": "https://www.zoforaustin.com",
+     "bio": "Austin's first South Asian council member; won this seat in 2022, defeating Linda Guerrero in a December runoff. Seeking a second term.",
+     "status": "incumbent",
+     "has_data": true
+    },
+    {
+     "slug": "heyman",
+     "name": "Richard Heyman",
+     "recipient": "Heyman, Richard",
+     "photo": null,
+     "website": "https://www.richforaustin.org",
+     "bio": "Urban geographer who taught urban studies at the University of Texas for two decades; District 9 homeowner since 2006. First run for office.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "kam",
+     "name": "Katie Kam",
+     "recipient": "Kam, Katherine",
+     "photo": null,
+     "website": "https://www.katiekamforaustin.com",
+     "bio": "Civil and transportation engineer, former city urban planner and AISD science teacher; Austin resident since 1983. First run for office.",
+     "status": "declared",
+     "has_data": true
+    },
+    {
+     "slug": "thadani",
+     "name": "Dave Thadani",
+     "recipient": "Thadani, Dave",
+     "photo": null,
+     "website": "https://daveforaustintx.com",
+     "bio": "University of Texas computer science student running on renter protections and affordable housing.",
+     "status": "declared",
+     "has_data": true
+    }
+   ],
+   "omitted": [
+    {
+     "name": "Ard Ardalan",
+     "reason": "Suspended his campaign in December 2025 after raising $7,600. His treasurer appointment remains on file; he will be restored to the page if he re-enters before filing closes."
+    }
+   ]
   }
  ]
 }

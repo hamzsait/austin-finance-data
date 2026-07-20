@@ -348,5 +348,125 @@
     "w": 58
    }
   ]
+ },
+ "qadri": {
+  "raised": 90090,
+  "donors": 529,
+  "contributions": 695,
+  "avg": 170.3,
+  "first_gift": "2025-01-02",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Technology",
+    "amt": 14813,
+    "w": 100
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 9653,
+    "w": 65
+   },
+   {
+    "label": "Government",
+    "amt": 8301,
+    "w": 56
+   },
+   {
+    "label": "Real Estate",
+    "amt": 7363,
+    "w": 50
+   }
+  ]
+ },
+ "heyman": {
+  "raised": 27391,
+  "donors": 188,
+  "contributions": 203,
+  "avg": 145.7,
+  "first_gift": "2025-08-08",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Education",
+    "amt": 5705,
+    "w": 100
+   },
+   {
+    "label": "Not Employed",
+    "amt": 5355,
+    "w": 94
+   },
+   {
+    "label": "Legal",
+    "amt": 2760,
+    "w": 48
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 2225,
+    "w": 39
+   }
+  ]
+ },
+ "kam": {
+  "raised": 8355,
+  "donors": 51,
+  "contributions": 54,
+  "avg": 163.82,
+  "first_gift": "2026-03-12",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Technology",
+    "amt": 1800,
+    "w": 100
+   },
+   {
+    "label": "Legal",
+    "amt": 1400,
+    "w": 78
+   },
+   {
+    "label": "Education",
+    "amt": 1050,
+    "w": 58
+   },
+   {
+    "label": "Healthcare",
+    "amt": 595,
+    "w": 33
+   }
+  ]
+ },
+ "thadani": {
+  "raised": 1944,
+  "donors": 20,
+  "contributions": 44,
+  "avg": 97.2,
+  "first_gift": "2026-02-04",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Government",
+    "amt": 802,
+    "w": 100
+   },
+   {
+    "label": "Not Employed",
+    "amt": 502,
+    "w": 63
+   },
+   {
+    "label": "Retail",
+    "amt": 420,
+    "w": 52
+   },
+   {
+    "label": "Transportation",
+    "amt": 100,
+    "w": 12
+   }
+  ]
  }
 }
