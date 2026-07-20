@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Social link previews (Open Graph + Twitter) — placeholders filled by build_candidate.py -->
-<meta name="description" content="Portia Riggins is running for Austin City Council District 1, an open seat. Raised $800 from 2 donors this cycle. Top donor interests: Legal ($300). Every dollar decoded, donor by donor.">
+<meta name="description" content="Portia Riggins is running for Austin City Council District 1, an open seat. Raised $800 from 2 donors this cycle. Top donor interests: Retail ($500) and Legal ($300). Every dollar decoded, donor by donor.">
 <link rel="canonical" href="https://decodepolitics.org/austin/riggins/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="Portia Riggins — District 1 Candidate — decode(politics):">
-<meta property="og:description" content="Portia Riggins is running for Austin City Council District 1, an open seat. Raised $800 from 2 donors this cycle. Top donor interests: Legal ($300). Every dollar decoded, donor by donor.">
+<meta property="og:description" content="Portia Riggins is running for Austin City Council District 1, an open seat. Raised $800 from 2 donors this cycle. Top donor interests: Retail ($500) and Legal ($300). Every dollar decoded, donor by donor.">
 <meta property="og:url" content="https://decodepolitics.org/austin/riggins/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-riggins.png">
 <meta property="og:image:width" content="1200">
@@ -17,7 +17,7 @@
 <meta property="og:image:alt" content="Portia Riggins (District 1 candidate) — $800 raised, 2 donors, decoded by decode(politics):">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Portia Riggins — District 1 Candidate — decode(politics):">
-<meta name="twitter:description" content="Portia Riggins is running for Austin City Council District 1, an open seat. Raised $800 from 2 donors this cycle. Top donor interests: Legal ($300). Every dollar decoded, donor by donor.">
+<meta name="twitter:description" content="Portia Riggins is running for Austin City Council District 1, an open seat. Raised $800 from 2 donors this cycle. Top donor interests: Retail ($500) and Legal ($300). Every dollar decoded, donor by donor.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-riggins.png">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
@@ -942,6 +942,72 @@
     font-variant-numeric: tabular-nums;
   }
 
+  /* ── Out-of-Austin limit meters ── */
+  .ooa-legend {
+    display: flex; flex-wrap: wrap; gap: 6px 18px;
+    font-size: 12px; color: var(--muted); margin-bottom: 18px;
+  }
+  .ooa-legend .swatch {
+    display: inline-block; width: 10px; height: 10px; border-radius: 3px;
+    margin-right: 6px; vertical-align: baseline;
+  }
+  .ooa-cycle { margin-bottom: 22px; }
+  .ooa-cycle:last-of-type { margin-bottom: 8px; }
+  .ooa-cycle-head {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 10px; flex-wrap: wrap; margin-bottom: 6px;
+  }
+  .ooa-cycle-label { font-size: 13px; font-weight: 600; }
+  .ooa-cycle-label .yr { color: var(--muted); font-weight: 400; }
+  .ooa-amounts { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .ooa-amounts strong { color: var(--text); font-weight: 700; }
+  .ooa-status {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 10.5px; font-weight: 700; letter-spacing: .4px; text-transform: uppercase;
+    border-radius: 999px; padding: 2px 9px; white-space: nowrap;
+  }
+  .ooa-status-ok    { color: #1a6b45; background: rgba(26,107,69,.08);  border: 1px solid rgba(26,107,69,.3); }
+  .ooa-status-near  { color: #9a5a08; background: rgba(194,106,19,.08); border: 1px solid rgba(194,106,19,.35); }
+  .ooa-status-over  { color: var(--accent); background: rgba(186,18,0,.06); border: 1px solid rgba(186,18,0,.3); }
+  .ooa-status-none  { color: var(--muted); background: var(--surface2); border: 1px solid var(--border); }
+  .ooa-meter { position: relative; height: 20px; margin: 4px 0 6px; }
+  .ooa-track {
+    position: absolute; top: 0; bottom: 0; left: 0;
+    background: var(--surface2); border-radius: 4px;
+  }
+  .ooa-seg { position: absolute; top: 0; bottom: 0; min-width: 2px; }
+  .ooa-seg.first { border-radius: 4px 0 0 4px; }
+  .ooa-seg.last  { border-radius: 0 4px 4px 0; }
+  .ooa-seg.only  { border-radius: 4px; }
+  .ooa-seg-ind { background: #2a6cb0; }
+  .ooa-seg-ent { background: #c26a13; }
+  .ooa-tick {
+    position: absolute; top: -3px; bottom: -3px; width: 2px;
+    background: var(--navy); opacity: .55; border-radius: 1px;
+  }
+  .ooa-sub { font-size: 11.5px; color: var(--muted); line-height: 1.5; }
+  .ooa-sources { margin-top: 6px; }
+  .ooa-sources summary {
+    cursor: pointer; font-size: 11.5px; font-weight: 600; color: var(--navy);
+    list-style: none; display: inline-flex; align-items: center; gap: 5px;
+  }
+  .ooa-sources summary::-webkit-details-marker { display: none; }
+  .ooa-sources summary::after { content: '›'; transform: rotate(90deg); transition: transform .12s; opacity: .5; }
+  .ooa-sources[open] summary::after { transform: rotate(-90deg); }
+  .ooa-sources table { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 6px; }
+  .ooa-sources td { padding: 4px 8px 4px 0; border-bottom: 1px solid var(--border); }
+  .ooa-sources td:last-child { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
+  .ooa-src-type {
+    font-size: 9.5px; font-weight: 700; letter-spacing: .4px; text-transform: uppercase;
+    border-radius: 4px; padding: 1px 6px; white-space: nowrap;
+  }
+  .ooa-src-type.ent { color: #9a5a08; background: rgba(194,106,19,.1); }
+  .ooa-src-type.ind { color: #205a94; background: rgba(42,108,176,.1); }
+  .ooa-methodology {
+    margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border);
+    font-size: 11.5px; color: var(--muted); line-height: 1.6; max-width: 780px;
+  }
+
   /* ── Pop-out affordance cues ── */
   .pop-hint {
     display: inline-flex; align-items: center; gap: 4px;
@@ -1236,6 +1302,20 @@
           </table>
         </div>
       </div>
+    </div>
+
+    <!-- ── Out-of-Austin contribution limit (Charter Art. III § 8(A)(3)) ── -->
+    <div id="ooaSection" class="card" style="display:none;margin-bottom:20px">
+      <div class="card-title">Out-of-Austin Money Limit
+        <span class="hint">aggregate cap under City Charter Art. III &sect; 8(A)(3)</span>
+      </div>
+      <div class="ooa-legend">
+        <span><span class="swatch" style="background:#2a6cb0"></span>Out-of-town individuals</span>
+        <span><span class="swatch" style="background:#c26a13"></span>Entities &amp; PACs (any location)</span>
+        <span><span class="swatch" style="background:var(--surface2);border:1px solid var(--border)"></span>Remaining allowance</span>
+      </div>
+      <div id="ooaCycles"></div>
+      <div class="ooa-methodology" id="ooaMethodology"></div>
     </div>
 
     <!-- ── Row 3: Notable firms + Top donors ── -->
@@ -2603,6 +2683,123 @@ function renderSummaryCards(data) {
   section.style.display = '';
 }
 
+// ── Out-of-Austin limit meters ───────────────────────────────────────────────
+function _ooaEsc(s) {
+  return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+                        .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function renderOutOfAustin(ooa) {
+  if (!ooa || !ooa.applies || !(ooa.cycles || []).length) return;
+  const section = document.getElementById('ooaSection');
+  const host = document.getElementById('ooaCycles');
+
+  const rows = ooa.cycles.map(c => {
+    const counted = c.counted_total || 0;
+    const ceiling = c.ceiling || 0;
+    const scaleMax = Math.max(ceiling, counted) || 1;
+    const pct = v => (v / scaleMax * 100);
+
+    // Status chip — icon + words, never color alone
+    let chip;
+    if (counted === 0) {
+      chip = '<span class="ooa-status ooa-status-none">— no counted money</span>';
+    } else if (counted > ceiling) {
+      chip = '<span class="ooa-status ooa-status-over">&#9650; over the published cap</span>';
+    } else if (counted >= 0.85 * ceiling) {
+      chip = '<span class="ooa-status ooa-status-near">&#9679; near the cap</span>';
+    } else {
+      chip = '<span class="ooa-status ooa-status-ok">&#10003; within the cap</span>';
+    }
+
+    // Stacked fill: fixed order — individuals, then entities, 2px surface gaps
+    const indW = pct(c.individual_out_total || 0);
+    const entW = pct(c.entity_total || 0);
+    let segs = '';
+    if (indW > 0) {
+      const cls = entW > 0 ? 'first' : 'only';
+      segs += `<div class="ooa-seg ooa-seg-ind ${cls}" style="left:0;width:${indW}%"
+        title="Out-of-town individuals: ${fmtExact(c.individual_out_total)} (${c.individual_out_count} contributions)"></div>`;
+    }
+    if (entW > 0) {
+      const cls = indW > 0 ? 'last' : 'only';
+      const left = indW > 0 ? `calc(${indW}% + 2px)` : '0';
+      segs += `<div class="ooa-seg ooa-seg-ent ${cls}" style="left:${left};width:calc(${entW}% - ${indW > 0 ? 2 : 0}px)"
+        title="Entities &amp; PACs: ${fmtExact(c.entity_total)} (${c.entity_count} contributions)"></div>`;
+    }
+
+    // General-cap tick when the ceiling includes a runoff allowance
+    const tick = (ceiling > c.limit)
+      ? `<div class="ooa-tick" style="left:${pct(c.limit)}%" title="General-election cap: ${fmtExact(c.limit)}"></div>`
+      : '';
+
+    // Cap description line
+    let capDesc;
+    if (c.had_runoff && c.runoff_limit) {
+      capDesc = `Cap: ${fmtExact(c.limit)} general + ${fmtExact(c.runoff_limit)} runoff allowance (race went to a December runoff)`;
+    } else if (c.had_runoff && !c.runoff_limit) {
+      capDesc = `Cap: ${fmtExact(c.limit)} general &mdash; this race also went to a December runoff, whose separate ` +
+                `allowance for ${c.election_year} was never published and is not included`;
+    } else {
+      capDesc = `Cap: ${fmtExact(c.limit)} per election`;
+    }
+    if (c.limit_provisional) {
+      capDesc += ` &mdash; ${c.election_year} caps are not yet set; showing the current (2026) values`;
+    }
+    const unknownNote = (c.unknown_total || 0) > 0
+      ? ` &middot; ${fmtExact(c.unknown_total)} from ${c.unknown_count} contribution${c.unknown_count === 1 ? '' : 's'} with no usable zip is excluded`
+      : '';
+
+    // Top out-of-Austin sources
+    let sources = '';
+    if ((c.top_sources || []).length) {
+      const trs = c.top_sources.map(s => `
+        <tr>
+          <td>${_ooaEsc(s.name)}</td>
+          <td>${_ooaEsc(s.location) || '&mdash;'}</td>
+          <td><span class="ooa-src-type ${s.entity ? 'ent' : 'ind'}">${s.entity ? 'Entity/PAC' : 'Individual'}</span></td>
+          <td>${fmtExact(s.total)}</td>
+        </tr>`).join('');
+      sources = `
+        <details class="ooa-sources">
+          <summary>Top out-of-Austin sources</summary>
+          <table><tbody>${trs}</tbody></table>
+        </details>`;
+    }
+
+    const pctOfCeiling = ceiling ? Math.round(counted / ceiling * 100) : 0;
+    return `
+      <div class="ooa-cycle">
+        <div class="ooa-cycle-head">
+          <span class="ooa-cycle-label">${_ooaEsc(c.label)} <span class="yr">&middot; ${c.election_year} election</span></span>
+          ${chip}
+        </div>
+        <div class="ooa-amounts"><strong>${fmtExact(counted)}</strong> counted of ${fmtExact(ceiling)} allowed (${pctOfCeiling}%)</div>
+        <div class="ooa-meter">
+          <div class="ooa-track" style="width:${pct(ceiling)}%"></div>
+          ${segs}
+          ${tick}
+        </div>
+        <div class="ooa-sub">${capDesc}${unknownNote}</div>
+        ${sources}
+      </div>`;
+  });
+
+  host.innerHTML = rows.join('');
+
+  document.getElementById('ooaMethodology').innerHTML =
+    `The City Charter caps the total a council or mayoral candidate may accept per election from
+     <em>&ldquo;sources other than natural persons eligible to vote in a postal zip code completely or partially
+     within the Austin city limits&rdquo;</em> &mdash; i.e., every entity and PAC anywhere, plus individuals outside
+     Austin-area zips. Voter registration is not visible in filings, so this monitor uses the City Clerk&rsquo;s
+     ${ooa.zip_list_vintage} zip-code list (plus Austin PO-box zips) as the eligibility proxy &mdash; totals are an
+     estimate for transparency, not a legal determination. Caps are CPI-adjusted each budget year; a December
+     runoff carries its own separate allowance. Money accepted for a runoff is reported in the same filings, so a
+     cycle that went to a runoff is measured against the combined general + runoff allowance.`;
+
+  section.style.display = '';
+}
+
 function renderAll(data, allDonations) {
   // Populate globals
   INTEREST_GROUPS = data.interest_groups;
@@ -2633,6 +2830,9 @@ function renderAll(data, allDonations) {
 
   // Partisan lean
   renderPartisanLean(data.partisan_lean);
+
+  // Out-of-Austin limit meters (city offices only)
+  renderOutOfAustin(data.out_of_austin);
 
   // Summary cards
   renderSummaryCards(data);
