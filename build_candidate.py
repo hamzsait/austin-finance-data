@@ -117,7 +117,7 @@ COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez", "morales"}
 # template with the officeholder-specific framing swapped out. NOTE: Steven
 # Brown is slug "stevenbrown" because "brown" is already Travis County Judge
 # Andy Brown; passing the exact recipient string keeps the LIKE match clean.
-CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins", "shah", "weinberg"}
+CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins", "shah", "weinberg", "xie", "bowen"}
 
 CANDIDATE_TEMPLATE_SUBS = [
     # NOTE: the hero badge is NOT set here -- renderHero() overwrites it from
