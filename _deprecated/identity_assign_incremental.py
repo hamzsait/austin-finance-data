@@ -73,8 +73,10 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
-    conn = sqlite3.connect(DB, timeout=120)
+    conn = sqlite3.connect(DB, timeout=180)
+    conn.isolation_level = None   # autocommit; we manage BEGIN/COMMIT explicitly
     conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA busy_timeout=180000")   # wait out the parallel writer
     cur = conn.cursor()
 
     # Non-destructive: speeds up the aggregation join below AND all future
@@ -160,6 +162,24 @@ def main():
           f"(covering {created_new_rows:,} rows)")
     print(f"  unparseable (left NULL)     : {len(skipped):,}")
 
+    # Some existing identities we attach to have ZERO prior cf.donor_id presence
+    # (e.g. joint second-donor identities live in donor_identities but appear in
+    # campaign_finance only as donor_id_2). Attaching gives them their first
+    # donor_id-column row, so they add to COUNT(DISTINCT donor_id). Count them
+    # now (pre-write) so the distinct-donor gate expects the right delta.
+    orphan_attach = 0
+    if affected_existing_ids and not args.dry_run:
+        cur.execute("CREATE TEMP TABLE _chk(donor_id TEXT PRIMARY KEY)")
+        cur.executemany("INSERT OR IGNORE INTO _chk VALUES (?)",
+                        [(d,) for d in affected_existing_ids])
+        prior_present = cur.execute(
+            "SELECT COUNT(*) FROM _chk c WHERE EXISTS("
+            "SELECT 1 FROM campaign_finance cf WHERE cf.donor_id = c.donor_id)"
+        ).fetchone()[0]
+        orphan_attach = len(affected_existing_ids) - prior_present
+        cur.execute("DROP TABLE _chk")
+        print(f"  (existing ids w/ no prior cf presence: {orphan_attach})")
+
     if args.dry_run:
         print("\n[dry-run] no writes. Sample new identities:")
         for k, i in list(new_key_id.items())[:5]:
@@ -168,8 +188,16 @@ def main():
         return
 
     # ── 3. Apply writes in a single transaction ────────────────────────────────
+    # BEGIN IMMEDIATE grabs the write lock up-front (no read->write upgrade, which
+    # SQLite refuses immediately as SQLITE_BUSY_SNAPSHOT when another writer —
+    # here the parallel city_resolve_incremental job — is active). busy_timeout
+    # makes us WAIT for that other writer instead of failing fast.
     try:
-        cur.execute("BEGIN")
+        cur.execute("BEGIN IMMEDIATE")
+
+        # Re-read the baseline under our exclusive write lock so PRE and POST are
+        # captured consistently (a concurrent writer can't move them mid-txn).
+        pre = invariants(cur)
 
         cur.executemany(
             "UPDATE campaign_finance SET donor_id=?, match_confidence=? WHERE rowid=?",
@@ -265,9 +293,11 @@ def main():
         gates.append(("keyable-null now == unparseable",
                       post["keyable_null"] == len(skipped),
                       f'{post["keyable_null"]} (expected {len(skipped)})'))
-        gates.append(("distinct donor_id increased by #new",
-                      post["distinct_donor"] == pre["distinct_donor"] + len(new_ids),
-                      f'{pre["distinct_donor"]} -> {post["distinct_donor"]} (+{len(new_ids)})'))
+        expected_distinct = pre["distinct_donor"] + len(new_ids) + orphan_attach
+        gates.append(("distinct donor_id += #new + orphan-attach",
+                      post["distinct_donor"] == expected_distinct,
+                      f'{pre["distinct_donor"]} -> {post["distinct_donor"]} '
+                      f'(expected +{len(new_ids)}+{orphan_attach}={expected_distinct})'))
         orphans = cur.execute("""
             SELECT COUNT(*) FROM (
               SELECT DISTINCT cf.donor_id FROM campaign_finance cf
@@ -310,6 +340,7 @@ def main():
     print(f"  Rows given a NEW identity            : {created_new_rows:,}")
     print(f"  New identities created               : {len(new_ids):,}")
     print(f"  Existing identities that gained rows : {len(affected_existing_ids):,}")
+    print(f"    of which had no prior cf presence  : {orphan_attach:,}")
     print(f"  Rows left NULL (unparseable name)    : {len(skipped):,}")
     conn.close()
 
