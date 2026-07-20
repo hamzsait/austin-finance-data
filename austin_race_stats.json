@@ -198,5 +198,65 @@
     "w": 37
    }
   ]
+ },
+ "alter": {
+  "raised": 90823,
+  "donors": 353,
+  "contributions": 386,
+  "avg": 257.29,
+  "first_gift": "2025-01-16",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Real Estate",
+    "amt": 20300,
+    "w": 100
+   },
+   {
+    "label": "Government",
+    "amt": 6611,
+    "w": 33
+   },
+   {
+    "label": "Engineering",
+    "amt": 6175,
+    "w": 30
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 5930,
+    "w": 29
+   }
+  ]
+ },
+ "weinberg": {
+  "raised": 16035,
+  "donors": 116,
+  "contributions": 144,
+  "avg": 138.23,
+  "first_gift": "2025-10-17",
+  "last_gift": "2026-06-30",
+  "topGroups": [
+   {
+    "label": "Not Employed",
+    "amt": 3260,
+    "w": 100
+   },
+   {
+    "label": "Self-Employed",
+    "amt": 2360,
+    "w": 72
+   },
+   {
+    "label": "Legal",
+    "amt": 1975,
+    "w": 61
+   },
+   {
+    "label": "Education",
+    "amt": 1885,
+    "w": 58
+   }
+  ]
  }
 }
