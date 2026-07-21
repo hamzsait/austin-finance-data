@@ -99,16 +99,21 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'duchen':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'kelly':        [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'guerrero':     [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    # Corrected 2026-07-21 after a race-by-race audit against Ballotpedia/KUT/
+    # Austin Monitor coverage. Ganguly's only race was 2024 D10 (lost to Duchen,
+    # no runoff); she had been configured with a phantom 2022 cycle. Israel's
+    # city money is her 2022 mayoral run (lost the Dec runoff) — her 2024 win
+    # was county Tax Assessor, filed with the county, so no city cycle for it.
+    # Kelly won D6 in 2020 via the Dec runoff (config had dropped that whole
+    # campaign), then lost to Laine in 2024 (no runoff). Guerrero's only race
+    # was 2022 D9 (lost the Dec runoff to Qadri). None of the four holds city
+    # office or has a declared 2026+ city campaign, so no open cycle.
+    'ganguly':      [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024}],
+    'israel':       [{'label': 'Mayoral Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022}],
+    'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024}],
+    'kelly':        [{'label': 'Initial Run',    'election_year': 2020, 'start_year': None, 'end_year': 2020},
+                     {'label': 'Re-election Run', 'election_year': 2024, 'start_year': 2021, 'end_year': 2024}],
+    'guerrero':     [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022}],
 
     # -- 2026 District 1 candidates (open seat; not officeholders) --
     # Ramos ran for this same seat in 2022, so he gets a prior cycle; the other

@@ -55,17 +55,16 @@ AUSTIN_PO_BOX_ZIPS = {
 # Aggregate limit by election year: (general, runoff, runoff_verified).
 # The charter base (2006) was $30,000 / $20,000, CPI-W-adjusted each August
 # with the budget, so the value in force for a November election is the one
-# set that summer. Sourced per year:
-#   2018  $37,000  (Austin Monitor 11/2019: limit rose FROM $37k TO $38k)
-#   2020  $38,000  (Austin Monitor 11/2019)
+# set that summer. Sourced per year, all from City Clerk "Annual Adjustment
+# of Campaign Finance Limits" memos unless noted:
+#   2018  $37,000 / $25,000  (memo 8/7/2018, edims id 296172)
+#   2020  $38,000 / $25,000  (memo 5/1/2020, edims id 338797)
 #   2022  $44,000 / $30,000  (Austin Monitor 7/2022)
 #   2024  $47,000 / $31,000  (clerk, Nov 2024 election; May 2024 was 46/30)
-#   2026  $48,000 / $32,000  (clerk memo 5/1/2026, 2026 candidate packet)
-# 2018/2020 runoff figures were never published in a source we could verify;
-# they carry runoff_verified=False and the UI says "amount unverified".
+#   2026  $48,000 / $32,000  (memo 5/1/2026, 2026 candidate packet)
 LIMITS = {
-    2018: {"general": 37000, "runoff": None,  "runoff_verified": False},
-    2020: {"general": 38000, "runoff": None,  "runoff_verified": False},
+    2018: {"general": 37000, "runoff": 25000, "runoff_verified": True},
+    2020: {"general": 38000, "runoff": 25000, "runoff_verified": True},
     2022: {"general": 44000, "runoff": 30000, "runoff_verified": True},
     2024: {"general": 47000, "runoff": 31000, "runoff_verified": True},
     2026: {"general": 48000, "runoff": 32000, "runoff_verified": True},
@@ -75,17 +74,24 @@ LIMITS = {
 _LATEST_YEAR = max(LIMITS)
 
 # (slug, election_year) pairs whose race went to a December runoff, verified
-# against KUT/Texas Tribune results coverage. A runoff carries its own
-# separate aggregate allowance on top of the general-election cap, so these
-# cycles get an extended ceiling instead of reading as violations.
+# race-by-race against KUT/Austin Monitor/Wikipedia results coverage
+# (audit 2026-07-21). A runoff carries its own separate aggregate allowance
+# on top of the general-election cap, so these cycles get an extended
+# ceiling instead of reading as violations.
 #   Dec 2018: D1 Harper-Madison, D8 Ellis
-#   Dec 2022: Mayor Watson, D3 Velásquez, D5 Alter, D9 Qadri (+ Guerrero,
-#             Israel as losing runoff candidates — flagged only where the
-#             repo's cycle config puts that money in a 2022 cycle)
+#   Dec 2020: D6 Kelly (beat Flannigan)
+#   Dec 2022: Mayor Watson & Israel, D3 Velásquez, D5 Alter,
+#             D9 Qadri & Guerrero
 #   Dec 2024: D7 Siegel
+# Verified NO-runoff races: Fuentes 2020/2024, Vela 2022 (Jan special)/2024,
+# Harper-Madison 2022, Ellis 2022, Watson 2024 (50.004%, cleared by 13
+# votes), Laine/Kelly 2024, Duchen/Ganguly 2024, Llanes 2024, Bowen 2024,
+# Ramos 2022.
 HAD_RUNOFF = {
     ("harpermadison", 2018), ("ellis", 2018),
-    ("watson", 2022), ("velasquez", 2022), ("alter", 2022), ("qadri", 2022),
+    ("kelly", 2020),
+    ("watson", 2022), ("israel", 2022), ("velasquez", 2022),
+    ("alter", 2022), ("qadri", 2022), ("guerrero", 2022),
     ("siegel", 2024),
 }
 
@@ -231,5 +237,7 @@ def build_payload(cur, base_where: str, base_params: tuple, slug: str, cycles: l
     return {
         "applies": True,
         "zip_list_vintage": ZIP_LIST_VINTAGE,
+        "zip_list": sorted(AUSTIN_ZIPS),
+        "po_box_zips": sorted(AUSTIN_PO_BOX_ZIPS),
         "cycles": [build_cycle_block(cur, base_where, base_params, slug, c) for c in cycles],
     }

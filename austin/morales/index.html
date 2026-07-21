@@ -1007,6 +1007,18 @@
     margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border);
     font-size: 11.5px; color: var(--muted); line-height: 1.6; max-width: 780px;
   }
+  .ooa-ziplist { margin-top: 8px; }
+  .ooa-ziplist summary {
+    cursor: pointer; font-weight: 600; color: var(--navy);
+    list-style: none; display: inline-flex; align-items: center; gap: 5px;
+  }
+  .ooa-ziplist summary::-webkit-details-marker { display: none; }
+  .ooa-ziplist summary::after { content: '›'; transform: rotate(90deg); transition: transform .12s; opacity: .5; }
+  .ooa-ziplist[open] summary::after { transform: rotate(-90deg); }
+  .ooa-zips {
+    display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 8px 0;
+    font-variant-numeric: tabular-nums; color: var(--text);
+  }
 
   /* ── Pop-out affordance cues ── */
   .pop-hint {
@@ -1313,6 +1325,7 @@
         <span><span class="swatch" style="background:#2a6cb0"></span>Out-of-town individuals</span>
         <span><span class="swatch" style="background:#c26a13"></span>Entities &amp; PACs (any location)</span>
         <span><span class="swatch" style="background:var(--surface2);border:1px solid var(--border)"></span>Remaining allowance</span>
+        <span id="ooaViewHint" style="margin-left:auto"></span>
       </div>
       <div id="ooaCycles"></div>
       <div class="ooa-methodology" id="ooaMethodology"></div>
@@ -1984,6 +1997,7 @@ function switchCycle(idx) {
   renderBars('total');
   renderFirms();
   renderTopDonors();
+  renderOOAView(idx);
 }
 
 function updateHeroStats(hero, meta) {
@@ -2689,12 +2703,9 @@ function _ooaEsc(s) {
                         .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-function renderOutOfAustin(ooa) {
-  if (!ooa || !ooa.applies || !(ooa.cycles || []).length) return;
-  const section = document.getElementById('ooaSection');
-  const host = document.getElementById('ooaCycles');
+let _OOA_DATA = null;
 
-  const rows = ooa.cycles.map(c => {
+function _ooaCycleHTML(c) {
     const counted = c.counted_total || 0;
     const ceiling = c.ceiling || 0;
     const scaleMax = Math.max(ceiling, counted) || 1;
@@ -2783,9 +2794,28 @@ function renderOutOfAustin(ooa) {
         <div class="ooa-sub">${capDesc}${unknownNote}</div>
         ${sources}
       </div>`;
-  });
+}
 
-  host.innerHTML = rows.join('');
+// Follows the site's existing cycle tabs: switchCycle() calls this with the
+// active index (-1 = All Time, which shows every cycle's meter).
+function renderOOAView(idx) {
+  if (!_OOA_DATA) return;
+  const host = document.getElementById('ooaCycles');
+  const cycles = _OOA_DATA.cycles;
+  const hint = document.getElementById('ooaViewHint');
+  if (idx >= 0 && cycles[idx]) {
+    host.innerHTML = _ooaCycleHTML(cycles[idx]);
+    if (hint) hint.textContent = 'following the cycle tabs above';
+  } else {
+    host.innerHTML = cycles.map(_ooaCycleHTML).join('');
+    if (hint) hint.textContent = cycles.length > 1 ? 'all cycles — pick one with the cycle tabs above' : '';
+  }
+}
+
+function renderOutOfAustin(ooa) {
+  if (!ooa || !ooa.applies || !(ooa.cycles || []).length) return;
+  _OOA_DATA = ooa;
+  const section = document.getElementById('ooaSection');
 
   document.getElementById('ooaMethodology').innerHTML =
     `The City Charter caps the total a council or mayoral candidate may accept per election from
@@ -2795,8 +2825,15 @@ function renderOutOfAustin(ooa) {
      ${ooa.zip_list_vintage} zip-code list (plus Austin PO-box zips) as the eligibility proxy &mdash; totals are an
      estimate for transparency, not a legal determination. Caps are CPI-adjusted each budget year; a December
      runoff carries its own separate allowance. Money accepted for a runoff is reported in the same filings, so a
-     cycle that went to a runoff is measured against the combined general + runoff allowance.`;
+     cycle that went to a runoff is measured against the combined general + runoff allowance.
+     <details class="ooa-ziplist">
+       <summary>Show the ${(ooa.zip_list || []).length} zip codes treated as within Austin</summary>
+       <div class="ooa-zips">${(ooa.zip_list || []).map(z => `<span>${z}</span>`).join('')}</div>
+       <p>Also treated as Austin: PO-box &amp; agency zips ${(ooa.po_box_zips || []).join(', ')} &mdash;
+          not on the clerk&rsquo;s geographic list, but their boxes sit inside the city limits.</p>
+     </details>`;
 
+  renderOOAView(ACTIVE_CYCLE);
   section.style.display = '';
 }
 
