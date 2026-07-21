@@ -986,6 +986,14 @@
     background: var(--navy); opacity: .55; border-radius: 1px;
   }
   .ooa-sub { font-size: 11.5px; color: var(--muted); line-height: 1.5; }
+  .ooa-cycle.ooa-compact {
+    opacity: .62; cursor: pointer; margin-bottom: 14px;
+    transition: opacity .12s ease;
+  }
+  .ooa-cycle.ooa-compact:hover { opacity: 1; }
+  .ooa-cycle.ooa-compact .ooa-cycle-label { font-size: 12px; }
+  .ooa-cycle.ooa-compact .ooa-amounts { font-size: 11.5px; }
+  .ooa-cycle.ooa-compact .ooa-meter { height: 10px; margin: 2px 0 0; }
   .ooa-sources { margin-top: 6px; }
   .ooa-sources summary {
     cursor: pointer; font-size: 11.5px; font-weight: 600; color: var(--navy);
@@ -1830,9 +1838,13 @@ document.addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(
 // ── Cycle comparison rendering ────────────────────────────────────────────────
 function renderCycleComparison(cycles) {
   if (!cycles || cycles.length < 2) return;
-  const c0 = cycles[0];
-  const c1 = cycles[cycles.length - 1];
-  if (!c1.hero.total_raised || c1.hero.total_raised === 0) return;
+  // Compare the first and last cycles WITH MONEY — a trailing $0 cycle
+  // (Vela's next race is 2028) previously killed the panel outright even
+  // though his 2022-vs-2024 comparison is perfectly comparable.
+  const populated = cycles.filter(c => c.hero.total_raised > 0);
+  if (populated.length < 2) return;
+  const c0 = populated[0];
+  const c1 = populated[populated.length - 1];
 
   document.getElementById('cycleComparison').style.display = 'block';
   document.getElementById('cmpSubtitle').textContent =
@@ -1952,8 +1964,11 @@ function renderCycleNav(cycles) {
   allBtn.onclick = () => switchCycle(-1);
   nav.appendChild(allBtn);
 
-  // Per-cycle tabs
+  // Per-cycle tabs — only cycles with money get one. An empty cycle
+  // (Harper-Madison's 2026 slot, everyone's not-yet-started 2028) is a tab
+  // into all-zero charts that reads as a data failure, not a view.
   cycles.forEach((c, i) => {
+    if (!c.hero.total_raised) return;
     const btn = document.createElement('button');
     btn.className = 'cycle-tab';
     btn.dataset.cycle = i;
@@ -2715,7 +2730,7 @@ function _ooaEsc(s) {
 
 let _OOA_DATA = null;
 
-function _ooaCycleHTML(c) {
+function _ooaCycleHTML(c, compact = false, idx = -1) {
     const counted = c.counted_total || 0;
     const ceiling = c.ceiling || 0;
     const scaleMax = Math.max(ceiling, counted) || 1;
@@ -2789,6 +2804,23 @@ function _ooaCycleHTML(c) {
     }
 
     const pctOfCeiling = ceiling ? Math.round(counted / ceiling * 100) : 0;
+    if (compact) {
+      // Non-selected cycles stay visible but small; clicking one switches
+      // the whole page to that cycle via the shared tab handler.
+      return `
+      <div class="ooa-cycle ooa-compact" onclick="switchCycle(${idx})" role="button" tabindex="0"
+           title="Switch to ${_ooaEsc(c.label)}">
+        <div class="ooa-cycle-head">
+          <span class="ooa-cycle-label">${_ooaEsc(c.label)} <span class="yr">&middot; ${c.election_year} election</span></span>
+          <span class="ooa-amounts">${fmtExact(counted)} of ${fmtExact(ceiling)} (${pctOfCeiling}%)</span>
+        </div>
+        <div class="ooa-meter">
+          <div class="ooa-track" style="width:${pct(ceiling)}%"></div>
+          ${segs}
+          ${tick}
+        </div>
+      </div>`;
+    }
     return `
       <div class="ooa-cycle">
         <div class="ooa-cycle-head">
@@ -2811,14 +2843,27 @@ function _ooaCycleHTML(c) {
 function renderOOAView(idx) {
   if (!_OOA_DATA) return;
   const host = document.getElementById('ooaCycles');
-  const cycles = _OOA_DATA.cycles;
   const hint = document.getElementById('ooaViewHint');
-  if (idx >= 0 && cycles[idx]) {
-    host.innerHTML = _ooaCycleHTML(cycles[idx]);
-    if (hint) hint.textContent = 'following the cycle tabs above';
-  } else {
-    host.innerHTML = cycles.map(_ooaCycleHTML).join('');
-    if (hint) hint.textContent = cycles.length > 1 ? 'all cycles — pick one with the cycle tabs above' : '';
+  // Every cycle with money stays visible in every view — hiding the other
+  // cycles behind the tabs erased the initial-run/this-cycle distinction.
+  // The tab-selected cycle renders full; the rest render compact. Cycles
+  // with nothing reported (a not-yet-started 2028, Harper-Madison's unused
+  // 2026 slot) render nowhere.
+  const populated = _OOA_DATA.cycles
+    .map((c, i) => ({ c, i }))
+    .filter(({ c }) => (c.counted_total + c.exempt_total + c.unknown_total) > 0);
+  if (!populated.length) {
+    document.getElementById('ooaSection').style.display = 'none';
+    return;
+  }
+  const focus = idx >= 0 && populated.some(p => p.i === idx) ? idx : -1;
+  host.innerHTML = populated
+    .map(({ c, i }) => _ooaCycleHTML(c, focus >= 0 && i !== focus, i))
+    .join('');
+  if (hint) {
+    hint.textContent = focus >= 0 && populated.length > 1
+      ? 'highlighting the selected cycle — others shown small'
+      : (populated.length > 1 ? 'all cycles — pick one with the cycle tabs above' : '');
   }
 }
 
