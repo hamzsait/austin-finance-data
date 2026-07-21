@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Social link previews (Open Graph + Twitter) — placeholders filled by build_candidate.py -->
-<meta name="description" content="Amber Goodwin is running for Austin City Council District 1, an open seat. Raised $91,346 from 482 donors this cycle. Top donor interests: Legal ($12,022) and Government ($9,885). Every dollar decoded, donor by donor.">
+<meta name="description" content="Amber Goodwin is running for Austin City Council District 1, an open seat. Raised $91,346 from 482 donors this cycle. Top donor interests: Legal ($12,522) and Nonprofit / Advocacy ($11,972). Every dollar decoded, donor by donor.">
 <link rel="canonical" href="https://decodepolitics.org/austin/goodwin/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="Amber Goodwin — District 1 Candidate — decode(politics):">
-<meta property="og:description" content="Amber Goodwin is running for Austin City Council District 1, an open seat. Raised $91,346 from 482 donors this cycle. Top donor interests: Legal ($12,022) and Government ($9,885). Every dollar decoded, donor by donor.">
+<meta property="og:description" content="Amber Goodwin is running for Austin City Council District 1, an open seat. Raised $91,346 from 482 donors this cycle. Top donor interests: Legal ($12,522) and Nonprofit / Advocacy ($11,972). Every dollar decoded, donor by donor.">
 <meta property="og:url" content="https://decodepolitics.org/austin/goodwin/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-goodwin.png">
 <meta property="og:image:width" content="1200">
@@ -17,7 +17,7 @@
 <meta property="og:image:alt" content="Amber Goodwin (District 1 candidate) — $91,346 raised, 482 donors, decoded by decode(politics):">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Amber Goodwin — District 1 Candidate — decode(politics):">
-<meta name="twitter:description" content="Amber Goodwin is running for Austin City Council District 1, an open seat. Raised $91,346 from 482 donors this cycle. Top donor interests: Legal ($12,022) and Government ($9,885). Every dollar decoded, donor by donor.">
+<meta name="twitter:description" content="Amber Goodwin is running for Austin City Council District 1, an open seat. Raised $91,346 from 482 donors this cycle. Top donor interests: Legal ($12,522) and Nonprofit / Advocacy ($11,972). Every dollar decoded, donor by donor.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-goodwin.png">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
@@ -1869,8 +1869,14 @@ function renderCycleNav(cycles) {
     nav.appendChild(btn);
   });
 
-  // Default to All Time (the union of every cycle)
-  switchCycle(-1);
+  // Default view: a candidate on THIS November's ballot opens on their
+  // current cycle (that's the money readers came to see mid-race); everyone
+  // else opens on All Time. 'Final Term' is excluded — Gómez's wind-down
+  // carries election_year 2026 but she is not on the ballot.
+  const last = cycles[cycles.length - 1];
+  const onBallot = last.election_year === new Date().getFullYear()
+                   && last.label !== 'Final Term';
+  switchCycle(onBallot ? cycles.length - 1 : -1);
 }
 
 function switchCycle(idx) {
