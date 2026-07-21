@@ -35,7 +35,9 @@
    ],
    "section": "council",
    "seat": "Mayor",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "harpermadison",
@@ -71,7 +73,11 @@
    ],
    "section": "council",
    "seat": "District 1",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$0",
+   "donors_cycle": "0",
+   "show_cycle": false
   },
   {
    "slug": "fuentes",
@@ -107,7 +113,9 @@
    ],
    "section": "council",
    "seat": "District 2",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "velasquez",
@@ -143,7 +151,11 @@
    ],
    "section": "council",
    "seat": "District 3",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$95K",
+   "donors_cycle": "329",
+   "show_cycle": true
   },
   {
    "slug": "vela",
@@ -179,7 +191,9 @@
    ],
    "section": "council",
    "seat": "District 4",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "alter",
@@ -215,7 +229,11 @@
    ],
    "section": "council",
    "seat": "District 5",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$164K",
+   "donors_cycle": "556",
+   "show_cycle": true
   },
   {
    "slug": "laine",
@@ -251,7 +269,9 @@
    ],
    "section": "council",
    "seat": "District 6",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "siegel",
@@ -287,7 +307,9 @@
    ],
    "section": "council",
    "seat": "District 7",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "ellis",
@@ -323,7 +345,11 @@
    ],
    "section": "council",
    "seat": "District 8",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$112K",
+   "donors_cycle": "420",
+   "show_cycle": true
   },
   {
    "slug": "qadri",
@@ -359,7 +385,11 @@
    ],
    "section": "council",
    "seat": "District 9",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$259K",
+   "donors_cycle": "1,072",
+   "show_cycle": true
   },
   {
    "slug": "duchen",
@@ -395,7 +425,9 @@
    ],
    "section": "council",
    "seat": "District 10",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "brown",
@@ -431,7 +463,11 @@
    ],
    "section": "county",
    "seat": "County Judge",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$904K",
+   "donors_cycle": "564",
+   "show_cycle": true
   },
   {
    "slug": "travillion",
@@ -467,7 +503,9 @@
    ],
    "section": "county",
    "seat": "Precinct 1",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "shea",
@@ -503,7 +541,11 @@
    ],
    "section": "county",
    "seat": "Precinct 2",
-   "status": "current"
+   "status": "current",
+   "on_ballot": true,
+   "raised_cycle": "$440K",
+   "donors_cycle": "363",
+   "show_cycle": true
   },
   {
    "slug": "howard",
@@ -539,7 +581,9 @@
    ],
    "section": "county",
    "seat": "Precinct 3",
-   "status": "current"
+   "status": "current",
+   "on_ballot": false,
+   "show_cycle": false
   },
   {
    "slug": "morales",
@@ -576,7 +620,11 @@
    "section": "county",
    "seat": "Precinct 4",
    "status": "current",
-   "status_note": "Since June 2026"
+   "status_note": "Since June 2026",
+   "on_ballot": true,
+   "raised_cycle": "$319K",
+   "donors_cycle": "473",
+   "show_cycle": true
   },
   {
    "slug": "gomez",
@@ -613,7 +661,9 @@
    "section": "county",
    "seat": "Precinct 4",
    "status": "retired",
-   "status_note": "Retired June 2026"
+   "status_note": "Retired June 2026",
+   "on_ballot": false,
+   "show_cycle": false
   }
  ]
 }

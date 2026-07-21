@@ -301,7 +301,7 @@ function cardHtml(c){
 
   const metrics = live
     ? '<div class="metrics">'
-      + '<div class="metric hot"><div class="mv">' + money(c.stats.raised) + '</div><div class="mk">Raised</div></div>'
+      + '<div class="metric hot"><div class="mv">' + money(c.stats.raised) + '</div><div class="mk">Raised this cycle</div></div>'
       + '<div class="metric"><div class="mv">' + c.stats.donors.toLocaleString() + '</div><div class="mk">Donors</div></div>'
       + '<div class="metric"><div class="mv">$' + Math.round(c.stats.avg).toLocaleString() + '</div><div class="mk">Avg gift</div></div>'
       + '</div>'
@@ -415,8 +415,9 @@ Promise.all([
   renderComparison();
 
   document.getElementById('methodology').textContent =
-    'Figures cover the ' + RACE.election_date.slice(0,4) + ' election cycle — contributions reported from January 1, '
-    + RACE.cycle_start_year + ' forward — so candidates who have run for office before are compared on this race alone, '
+    'Figures cover the ' + RACE.election_date.slice(0,4) + ' election cycle. Each candidate’s window is their own: '
+    + 'an incumbent’s cycle opens the January after their last election (not just when challengers started filing), '
+    + 'while first-time candidates are counted from their first report — so everyone is compared on this race alone, '
     + 'not on lifetime fundraising. Data is sourced from Austin City Clerk campaign finance filings and runs through '
     + prettyDate(RACE.data_through) + '. Candidates who have not filed a contribution report are shown without figures rather than as zero. '
     + 'Industry classifications are derived from employer identities, occupation records, and public information. All source data is public record.';
