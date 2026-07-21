@@ -27,7 +27,8 @@
     "amt": 9446,
     "w": 75
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "ramos": {
   "raised": 24846,
@@ -57,7 +58,8 @@
     "amt": 2316,
     "w": 71
    }
-  ]
+  ],
+  "cycle_start_year": 2023
  },
  "anderson": {
   "raised": 28092,
@@ -87,7 +89,8 @@
     "amt": 2350,
     "w": 76
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "stevenbrown": {
   "raised": 21482,
@@ -117,7 +120,8 @@
     "amt": 1575,
     "w": 48
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "riggins": {
   "raised": 800,
@@ -137,37 +141,39 @@
     "amt": 300,
     "w": 60
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "velasquez": {
-  "raised": 89251,
-  "donors": 313,
-  "contributions": 328,
-  "avg": 285.15,
-  "first_gift": "2025-02-06",
+  "raised": 95435,
+  "donors": 329,
+  "contributions": 345,
+  "avg": 290.08,
+  "first_gift": "2024-09-24",
   "last_gift": "2026-06-30",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 31916,
+    "amt": 32922,
     "w": 100
    },
    {
     "label": "Finance",
-    "amt": 8725,
-    "w": 27
+    "amt": 9175,
+    "w": 28
    },
    {
     "label": "Nonprofit / Advocacy",
     "amt": 5760,
-    "w": 18
+    "w": 17
    },
    {
     "label": "Government",
-    "amt": 5316,
+    "amt": 5517,
     "w": 17
    }
-  ]
+  ],
+  "cycle_start_year": 2023
  },
  "shah": {
   "raised": 10985,
@@ -197,37 +203,39 @@
     "amt": 1186,
     "w": 37
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "alter": {
-  "raised": 90823,
-  "donors": 353,
-  "contributions": 386,
-  "avg": 257.29,
-  "first_gift": "2025-01-16",
+  "raised": 163664,
+  "donors": 556,
+  "contributions": 629,
+  "avg": 294.36,
+  "first_gift": "2023-09-26",
   "last_gift": "2026-06-30",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 20300,
+    "amt": 50448,
     "w": 100
    },
    {
     "label": "Government",
-    "amt": 6611,
-    "w": 33
+    "amt": 10732,
+    "w": 21
    },
    {
-    "label": "Engineering",
-    "amt": 6175,
-    "w": 30
+    "label": "Finance",
+    "amt": 9140,
+    "w": 18
    },
    {
-    "label": "Nonprofit / Advocacy",
-    "amt": 5930,
-    "w": 29
+    "label": "Legal",
+    "amt": 8787,
+    "w": 17
    }
-  ]
+  ],
+  "cycle_start_year": 2023
  },
  "weinberg": {
   "raised": 16035,
@@ -257,7 +265,8 @@
     "amt": 1885,
     "w": 58
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "ellis": {
   "raised": 111663,
@@ -287,7 +296,8 @@
     "amt": 7433,
     "w": 21
    }
-  ]
+  ],
+  "cycle_start_year": 2023
  },
  "xie": {
   "raised": 104827,
@@ -317,7 +327,8 @@
     "amt": 9253,
     "w": 81
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "bowen": {
   "raised": 16816,
@@ -347,37 +358,39 @@
     "amt": 2100,
     "w": 58
    }
-  ]
+  ],
+  "cycle_start_year": 2025
  },
  "qadri": {
-  "raised": 90090,
-  "donors": 529,
-  "contributions": 695,
-  "avg": 170.3,
-  "first_gift": "2025-01-02",
+  "raised": 258574,
+  "donors": 1072,
+  "contributions": 1483,
+  "avg": 241.21,
+  "first_gift": "2024-01-22",
   "last_gift": "2026-06-30",
   "topGroups": [
    {
-    "label": "Technology",
-    "amt": 14813,
+    "label": "Real Estate",
+    "amt": 58104,
     "w": 100
    },
    {
+    "label": "Technology",
+    "amt": 35378,
+    "w": 61
+   },
+   {
     "label": "Nonprofit / Advocacy",
-    "amt": 9653,
-    "w": 65
+    "amt": 19598,
+    "w": 34
    },
    {
-    "label": "Government",
-    "amt": 8301,
-    "w": 56
-   },
-   {
-    "label": "Real Estate",
-    "amt": 7363,
-    "w": 50
+    "label": "Legal",
+    "amt": 16367,
+    "w": 28
    }
-  ]
+  ],
+  "cycle_start_year": 2023
  },
  "heyman": {
   "raised": 27391,
@@ -407,7 +420,8 @@
     "amt": 2225,
     "w": 39
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "kam": {
   "raised": 8355,
@@ -437,7 +451,8 @@
     "amt": 595,
     "w": 33
    }
-  ]
+  ],
+  "cycle_start_year": 0
  },
  "thadani": {
   "raised": 1944,
@@ -467,6 +482,7 @@
     "amt": 100,
     "w": 12
    }
-  ]
+  ],
+  "cycle_start_year": 0
  }
 }

@@ -12,11 +12,17 @@ Adding District 3/5/8/9 later is a data change: add a race entry to
 austin_races.json, then run `python build_race.py --race district3`.
 No new page logic.
 
-Stats are computed on a CYCLE basis (contributions from cycle_start_year
-forward), not lifetime, so a candidate who has run before -- Ramos ran for this
-same seat in 2022 -- is compared on this race only. Comparing his lifetime
-total against a first-time candidate's would overstate his position in this
-race by roughly a third.
+Stats are computed on a CYCLE basis, not lifetime, so a candidate who has run
+before -- Ramos ran for this same seat in 2022 -- is compared on this race
+only. Comparing his lifetime total against a first-time candidate's would
+overstate his position in this race by roughly a third.
+
+The cycle window is PER CANDIDATE, not per race: an incumbent's current cycle
+opens the January after their last election (Qadri's 2026 campaign began
+January 2023), so their window comes from CANDIDATE_CYCLES in
+generate_profile_data.py. The race's cycle_start_year only covers candidates
+with no cycle config. A single race-wide start date silently truncated
+incumbents -- Qadri's card showed $90k when his cycle total was $258k.
 
 Usage:
     python build_race.py --race district1
@@ -29,6 +35,8 @@ import json
 import os
 import re
 import sqlite3
+
+from generate_profile_data import CANDIDATE_CYCLES
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(ROOT, "austin_finance.db")
@@ -87,23 +95,40 @@ def candidate_stats(cur, recipient: str, cycle_start_year: int):
     }
 
 
+def cycle_start_for(slug: str, race) -> int:
+    """The year a candidate's CURRENT campaign window opens.
+
+    The cycle matching the race's election year in CANDIDATE_CYCLES wins
+    (its start_year is the January after the candidate's last election);
+    the race-wide cycle_start_year covers candidates with no cycle config.
+    A None start_year (first-time filers) means all their money is this
+    race's — represented as year 0.
+    """
+    election_year = int(race.get("election_date", "2026")[:4])
+    for cyc in CANDIDATE_CYCLES.get(slug, []):
+        if cyc["election_year"] == election_year:
+            return cyc["start_year"] if cyc["start_year"] is not None else 0
+    return race.get("cycle_start_year", 2025)
+
+
 def build_stats(races) -> dict:
     """Recompute stats for every candidate across every race; write STATS_JSON."""
     conn = sqlite3.connect(DB_PATH, timeout=120)
     cur = conn.cursor()
     stats = {}
     for race in races["races"]:
-        cycle = race.get("cycle_start_year", 2025)
         for c in race["candidates"]:
             if not c.get("slug") or not c.get("recipient"):
                 continue
+            cycle = cycle_start_for(c["slug"], race)
             s = candidate_stats(cur, c["recipient"], cycle)
             if s is None:
                 print(f"  ! {c['name']}: no rows from {cycle} forward — card renders as pending")
                 continue
+            s["cycle_start_year"] = cycle
             stats[c["slug"]] = s
             print(f"  {c['name']:22} ${s['raised']:>8,}  {s['donors']:>4} donors  "
-                  f"avg ${s['avg']:>7,.0f}  {s['first_gift']}..{s['last_gift']}")
+                  f"avg ${s['avg']:>7,.0f}  {s['first_gift']}..{s['last_gift']}  (from {cycle or 'start'})")
     conn.close()
     with open(STATS_JSON, "w", encoding="utf-8") as f:
         json.dump(stats, f, indent=1)

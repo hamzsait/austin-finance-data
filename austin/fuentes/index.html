@@ -1872,10 +1872,14 @@ function renderCycleNav(cycles) {
   // Default view: a candidate on THIS November's ballot opens on their
   // current cycle (that's the money readers came to see mid-race); everyone
   // else opens on All Time. 'Final Term' is excluded — Gómez's wind-down
-  // carries election_year 2026 but she is not on the ballot.
+  // carries election_year 2026 but she is not on the ballot. A $0 current
+  // cycle also falls back to All Time: Harper-Madison holds a 2026 roster
+  // slot but has raised nothing and isn't running — opening her profile on
+  // empty charts would read as a data failure.
   const last = cycles[cycles.length - 1];
   const onBallot = last.election_year === new Date().getFullYear()
-                   && last.label !== 'Final Term';
+                   && last.label !== 'Final Term'
+                   && last.hero.total_raised > 0;
   switchCycle(onBallot ? cycles.length - 1 : -1);
 }
 
