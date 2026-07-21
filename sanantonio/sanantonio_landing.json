@@ -1,0 +1,176 @@
+{
+ "updated": "2026-07-21",
+ "candidates": [
+  {
+   "slug": "jones",
+   "photo": "sa-jones",
+   "name": "Gina Ortiz Jones",
+   "district": "Mayor",
+   "race": "Elected June 2025",
+   "href": "/sanantonio/jones/",
+   "raised": "$632K",
+   "donors": "3,038",
+   "empPct": "43.7%",
+   "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$184K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$64K",
+     "w": 35
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$41K",
+     "w": 22
+    },
+    {
+     "label": "Government",
+     "amt": "$31K",
+     "w": 17
+    }
+   ],
+   "section": "council",
+   "seat": "Mayor",
+   "status": "current"
+  },
+  {
+   "slug": "galvan",
+   "photo": "sa-galvan",
+   "name": "Ric Galvan",
+   "district": "District 6",
+   "race": "Elected June 2025",
+   "href": "/sanantonio/galvan/",
+   "raised": "$81K",
+   "donors": "317",
+   "empPct": "66.0%",
+   "topGroups": [
+    {
+     "label": "Legal",
+     "amt": "$13K",
+     "w": 100
+    },
+    {
+     "label": "Education",
+     "amt": "$11K",
+     "w": 85
+    },
+    {
+     "label": "Government",
+     "amt": "$11K",
+     "w": 83
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$11K",
+     "w": 81
+    }
+   ],
+   "section": "council",
+   "seat": "District 6",
+   "status": "current"
+  },
+  {
+   "slug": "kaur",
+   "photo": "sa-kaur",
+   "name": "Sukh Kaur",
+   "district": "District 1",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 1",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "mckeerodriguez",
+   "photo": "sa-mckeerodriguez",
+   "name": "Jalen McKee-Rodriguez",
+   "district": "District 2",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 2",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "viagran",
+   "photo": "sa-viagran",
+   "name": "Phyllis Viagran",
+   "district": "District 3",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 3",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "mungia",
+   "photo": "sa-mungia",
+   "name": "Edward Mungia",
+   "district": "District 4",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 4",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "castillo",
+   "photo": "sa-castillo",
+   "name": "Teri Castillo",
+   "district": "District 5",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 5",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "gavito",
+   "photo": "sa-gavito",
+   "name": "Marina Alderete Gavito",
+   "district": "District 7",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 7",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "gonzalez",
+   "photo": "sa-gonzalez",
+   "name": "Ivalis Meza Gonzalez",
+   "district": "District 8",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 8",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "spears",
+   "photo": "sa-spears",
+   "name": "Misty Spears",
+   "district": "District 9",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 9",
+   "status": "current",
+   "soon": true
+  },
+  {
+   "slug": "whyte",
+   "photo": "sa-whyte",
+   "name": "Marc Whyte",
+   "district": "District 10",
+   "race": "Elected June 2025",
+   "section": "council",
+   "seat": "District 10",
+   "status": "current",
+   "soon": true
+  }
+ ]
+}
