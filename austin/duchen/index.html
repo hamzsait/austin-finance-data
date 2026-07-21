@@ -1962,8 +1962,14 @@ function renderCycleNav(cycles) {
     nav.appendChild(btn);
   });
 
-  // Default to All Time (the union of every cycle)
-  switchCycle(-1);
+  // Default view: a candidate on THIS November's ballot opens on their
+  // current cycle (that's the money readers came to see mid-race); everyone
+  // else opens on All Time. 'Final Term' is excluded — Gómez's wind-down
+  // carries election_year 2026 but she is not on the ballot.
+  const last = cycles[cycles.length - 1];
+  const onBallot = last.election_year === new Date().getFullYear()
+                   && last.label !== 'Final Term';
+  switchCycle(onBallot ? cycles.length - 1 : -1);
 }
 
 function switchCycle(idx) {

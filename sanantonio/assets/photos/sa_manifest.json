@@ -1,0 +1,57 @@
+{
+  "jones": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/4/mayor/mayor-headshot.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/Mayor/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "kaur": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/5/council/images/d1-biography.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D1/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "mckeerodriguez": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/5/council/images/d2headshot.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "viagran": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/1/council/images/d3.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D3/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "mungia": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/2/council/images/d4.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D4/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "castillo": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/1/council/images/d5.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D5/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "galvan": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/2/council/images/d6-biography.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D6/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "gavito": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/5/council/images/d7-bio.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D7/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "gonzalez": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/2/council/images/d8-biography.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D8/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "spears": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/2/council/images/d9-biography.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D9/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  },
+  "whyte": {
+    "source_url": "https://www.sa.gov/files/assets/main/v/7/council/images/d-10.jpg?w=1280",
+    "page_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D10/Biography",
+    "license_note": "Official headshot from City of San Antonio website (sa.gov); public-sector work used for civic information purposes."
+  }
+}
