@@ -421,7 +421,8 @@ fetch('/austin_landing.json')
         status: c.status || 'current',
         name: c.name,
         office: c.seat + ' · ' + (c.status_note || c.race),
-        pill: c.raised + ' raised', note: c.donors + ' donors',
+        pill: c.show_cycle ? c.raised_cycle + ' raised this cycle' : c.raised + ' raised overall',
+        note: (c.show_cycle ? c.donors_cycle : c.donors) + ' donors',
         photo: c.photo, href: c.href || ('/austin/' + c.slug + '/'), topGroups: c.topGroups
       }));
       document.getElementById(def.grid).innerHTML = cards.map(cardHtml).join('');
