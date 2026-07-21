@@ -17,6 +17,8 @@ import io
 import os
 from datetime import datetime, timezone
 
+import out_of_austin
+
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # Repo-relative so builds work from any checkout/worktree of the repo.
@@ -97,16 +99,21 @@ CANDIDATE_CYCLES = {
                      {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
     'duchen':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
                      {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'ganguly':      [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022},
-                     {'label': 'This Cycle',   'election_year': 2026, 'start_year': 2023, 'end_year': None}],
-    'israel':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'kelly':        [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
-    'guerrero':     [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024},
-                     {'label': 'This Cycle',   'election_year': 2028, 'start_year': 2025, 'end_year': None}],
+    # Corrected 2026-07-21 after a race-by-race audit against Ballotpedia/KUT/
+    # Austin Monitor coverage. Ganguly's only race was 2024 D10 (lost to Duchen,
+    # no runoff); she had been configured with a phantom 2022 cycle. Israel's
+    # city money is her 2022 mayoral run (lost the Dec runoff) — her 2024 win
+    # was county Tax Assessor, filed with the county, so no city cycle for it.
+    # Kelly won D6 in 2020 via the Dec runoff (config had dropped that whole
+    # campaign), then lost to Laine in 2024 (no runoff). Guerrero's only race
+    # was 2022 D9 (lost the Dec runoff to Qadri). None of the four holds city
+    # office or has a declared 2026+ city campaign, so no open cycle.
+    'ganguly':      [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024}],
+    'israel':       [{'label': 'Mayoral Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022}],
+    'llanes':       [{'label': 'Initial Run',  'election_year': 2024, 'start_year': None, 'end_year': 2024}],
+    'kelly':        [{'label': 'Initial Run',    'election_year': 2020, 'start_year': None, 'end_year': 2020},
+                     {'label': 'Re-election Run', 'election_year': 2024, 'start_year': 2021, 'end_year': 2024}],
+    'guerrero':     [{'label': 'Initial Run',  'election_year': 2022, 'start_year': None, 'end_year': 2022}],
 
     # -- 2026 District 1 candidates (open seat; not officeholders) --
     # Ramos ran for this same seat in 2022, so he gets a prior cycle; the other
@@ -1296,6 +1303,12 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     else:
         print(f"  No cycle definitions found for slug '{slug}' — cycles will be empty")
 
+    # ── Out-of-Austin aggregate limit (Charter Art. III § 8(A)(3)) ───────────
+    # City offices only; the county commissioners' court is outside the
+    # charter's reach, so those profiles get {applies: False} and no card.
+    ooa_payload = out_of_austin.build_payload(
+        cur, BASE_WHERE, base_params, slug, CANDIDATE_CYCLES.get(slug, []))
+
     conn.close()
 
     # ── Assemble meta ─────────────────────────────────────────────────────────
@@ -1319,6 +1332,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
         "partisan_lean": partisan_lean,
         "ip_spectrum": ip_spectrum,
         "civic_affiliations": civic_affiliations_payload,
+        "out_of_austin": ooa_payload,
     }
     data_path = os.path.join(output_dir, f"{slug}_data.json")
     with open(data_path, "w", encoding="utf-8") as f:
@@ -1352,6 +1366,19 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     print(f"\n  Top donors (3):")
     for d in top_donors[:3]:
         print(f"    {d['name']}: ${d['total']:,} ({d['count']} gifts) @ {d['employer']}")
+
+    # ── Out-of-Austin verification ────────────────────────────────────────────
+    if ooa_payload.get("applies"):
+        print(f"\n  Out-of-Austin aggregate (Charter § 8(A)(3)):")
+        for c in ooa_payload["cycles"]:
+            runoff_note = " incl. runoff allowance" if c["had_runoff"] and c["runoff_limit"] else ""
+            print(f"    [{c['label']}] election {c['election_year']}: "
+                  f"${c['counted_total']:,} counted of ${c['ceiling']:,} ceiling"
+                  f" ({c['pct_of_ceiling']}%{runoff_note}); "
+                  f"entities ${c['entity_total']:,} / out-of-town individuals "
+                  f"${c['individual_out_total']:,} / unknown ${c['unknown_total']:,}")
+    else:
+        print(f"\n  Out-of-Austin limit: n/a ({ooa_payload.get('reason', 'no cycles')})")
 
     # ── Cycle verification ────────────────────────────────────────────────────
     if cycles:
