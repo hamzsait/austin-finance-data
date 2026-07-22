@@ -490,6 +490,93 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
     }
 
 
+def build_cycle_partisan(cur, where_sql, params, total_donors):
+    """Per-cycle partisan lean for the cycle selector.
+
+    Same donor query and bucketing as the all-time partisan block inside
+    generate() (keep the two in sync), but the committee drill-down maps
+    (donor_committees, donor_fec_names) are omitted: a donor's federal
+    giving history is cycle-independent, so the template reuses the
+    all-time maps when a cycle is selected.
+    """
+    rows = cur.execute(f"""
+        SELECT di.donor_id, di.canonical_name,
+               COALESCE(di.fec_total_dem, 0), COALESCE(di.fec_total_rep, 0),
+               COALESCE(di.fec_total_other, 0), COALESCE(di.fec_total_donations, 0),
+               COALESCE(di.tec_total_dem, 0), COALESCE(di.tec_total_rep, 0),
+               COALESCE(di.tec_total_other, 0), COALESCE(di.tec_total_donations, 0),
+               SUM(CAST(cf.contribution_amount AS REAL))
+        FROM donor_identities di
+        JOIN campaign_finance cf ON cf.donor_id = di.donor_id
+        WHERE {where_sql}
+          AND (di.fec_partisan_lean IS NOT NULL OR COALESCE(di.tec_matched, 0) = 1)
+        GROUP BY di.donor_id
+    """, params).fetchall()
+    if not rows:
+        return None
+
+    buckets = [
+        {"label": "Strong D",  "min": 0.9, "max": 1.01, "donors": 0, "total": 0},
+        {"label": "Lean D",    "min": 0.6, "max": 0.9,  "donors": 0, "total": 0},
+        {"label": "Mixed",     "min": 0.4, "max": 0.6,  "donors": 0, "total": 0},
+        {"label": "Lean R",    "min": 0.1, "max": 0.4,  "donors": 0, "total": 0},
+        {"label": "Strong R",  "min": -0.01, "max": 0.1, "donors": 0, "total": 0},
+    ]
+    dem = rep = mixed = fec_only = tec_only = both = 0
+    weighted_sum = weighted_amt = 0
+    donors_list = []
+    for did, name, fec_dem, fec_rep, fec_other, fec_n, \
+            tec_dem, tec_rep, tec_other, tec_n, local in rows:
+        combined_dem = (fec_dem or 0) + (tec_dem or 0)
+        combined_rep = (fec_rep or 0) + (tec_rep or 0)
+        partisan_amount = combined_dem + combined_rep
+        if partisan_amount <= 0:
+            continue
+        lean = combined_dem / partisan_amount
+        if fec_n and tec_n:
+            both += 1
+        elif fec_n:
+            fec_only += 1
+        else:
+            tec_only += 1
+        amt = local or 0
+        for b in buckets:
+            if b["min"] <= lean < b["max"]:
+                b["donors"] += 1
+                b["total"] += round(amt, 2)
+                break
+        if lean >= 0.6:
+            dem += 1
+        elif lean <= 0.4:
+            rep += 1
+        else:
+            mixed += 1
+        if amt > 0:
+            weighted_sum += lean * amt
+            weighted_amt += amt
+        donors_list.append({
+            "id": did, "name": name, "lean": round(lean, 3),
+            "dem": round(combined_dem, 0), "rep": round(combined_rep, 0),
+            "other": round((fec_other or 0) + (tec_other or 0), 0),
+            "fec_n": fec_n or 0, "tec_n": tec_n or 0,
+            "fec_dem": round(fec_dem or 0, 0), "fec_rep": round(fec_rep or 0, 0),
+            "tec_dem": round(tec_dem or 0, 0), "tec_rep": round(tec_rep or 0, 0),
+            "local": round(amt, 0),
+        })
+    if not donors_list:
+        return None
+    donors_list.sort(key=lambda d: -(d["dem"] + d["rep"]))
+    return {
+        "matched_donors": len(donors_list),
+        "total_donors": total_donors,
+        "dem_donors": dem, "rep_donors": rep, "mixed_donors": mixed,
+        "fec_only": fec_only, "tec_only": tec_only, "both_sources": both,
+        "weighted_lean": round(weighted_sum / weighted_amt, 3) if weighted_amt > 0 else None,
+        "buckets": buckets,
+        "donors": donors_list,
+    }
+
+
 def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str = None):
     conn = sqlite3.connect(DB_PATH, timeout=120)
     conn.execute("PRAGMA journal_mode=WAL")
@@ -1300,6 +1387,48 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
             cycle_data = build_cycle_data(cur, candidate_fragment, cycle_def, by_year)
             cycles.append(cycle_data)
         print(f"  Built {len(cycles)} election cycles for '{slug}'")
+
+        # ── Per-cycle scoping data ───────────────────────────────────────────
+        # When a cycle is selected, every component on the page reflects it.
+        # Each cycle gets its own partisan_lean plus a compact donor_totals
+        # map (canonical name -> [in-cycle $, gifts]) covering only the
+        # IP-flagged and civic-affiliated donors — the template filters the
+        # all-time IP/civic structures against it rather than us duplicating
+        # their org rows and FEC transactions per cycle.
+        scoped_names = set()
+        if ip_spectrum:
+            for cat in ip_spectrum["categories"]:
+                scoped_names.update(d["name"] for d in cat["donor_list"])
+        if civic_affiliations_payload:
+            for entries in civic_affiliations_payload["by_category"].values():
+                scoped_names.update(e["donor_name"] for e in entries)
+        for cycle_def, cycle_data in zip(CANDIDATE_CYCLES[slug], cycles):
+            year_clauses, year_params = build_year_clause(cycle_def)
+            cyc_where = BASE_WHERE
+            if year_clauses:
+                cyc_where += " AND " + " AND ".join(year_clauses)
+            cyc_params = tuple(base_params) + tuple(year_params)
+            cycle_data["partisan_lean"] = build_cycle_partisan(
+                cur, cyc_where, cyc_params, cycle_data["hero"]["unique_donors"])
+            donor_totals = {}
+            if scoped_names:
+                for cname, total, gifts in cur.execute(f"""
+                    SELECT di.canonical_name,
+                           ROUND(SUM(COALESCE(cf.balanced_amount, cf.contribution_amount)), 0),
+                           COUNT(*)
+                    FROM campaign_finance cf
+                    JOIN donor_identities di ON cf.donor_id = di.donor_id
+                    WHERE {cyc_where}
+                      AND di.canonical_name IS NOT NULL AND di.canonical_name != ''
+                    GROUP BY di.canonical_name
+                """, cyc_params).fetchall():
+                    if cname in scoped_names:
+                        donor_totals[cname] = [int(total or 0), int(gifts or 0)]
+            cycle_data["donor_totals"] = donor_totals
+            pl = cycle_data["partisan_lean"]
+            print(f"    [{cycle_data['label']}] scoping: "
+                  f"{len(donor_totals)}/{len(scoped_names)} flagged donors active, "
+                  f"partisan matched {pl['matched_donors'] if pl else 0}")
     else:
         print(f"  No cycle definitions found for slug '{slug}' — cycles will be empty")
 
