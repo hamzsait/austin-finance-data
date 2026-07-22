@@ -1015,6 +1015,7 @@
     margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border);
     font-size: 11.5px; color: var(--muted); line-height: 1.6; max-width: 780px;
   }
+  .cycle-empty { color: var(--muted); font-size: 13px; padding: 6px 0; display: inline-block; }
   .ooa-ziplist { margin-top: 8px; }
   .ooa-ziplist summary {
     cursor: pointer; font-weight: 600; color: var(--navy);
@@ -1530,15 +1531,24 @@ function renderYearBars() {
   barsEl.innerHTML = '';
   labelsEl.innerHTML = '';
 
-  // Highlight the year with highest total
-  const maxYear = BY_YEAR.reduce((a, b) => b.total > a.total ? b : a, BY_YEAR[0] || {}).year;
+  // When a cycle is selected, years outside it dim — the timeline keeps
+  // its all-time shape for context, but the scope reads at a glance.
+  const range = _cycleYearRange(_activeCycleObj());
+  const inCycle = y => !range ||
+    ((range[0] === null || y >= range[0]) && (range[1] === null || y <= range[1]));
+
+  // Highlight the in-scope year with the highest total
+  const scoped = BY_YEAR.filter(d => inCycle(parseInt(d.year)));
+  const maxYear = scoped.reduce((a, b) => b.total > a.total ? b : a, scoped[0] || {}).year;
 
   BY_YEAR.forEach(d => {
     const pct = (d.total / maxTotal * 90) + '%';
-    const isActive = d.year === maxYear;
+    const dimmed = !inCycle(parseInt(d.year));
+    const isActive = !dimmed && d.year === maxYear;
 
     const col = document.createElement('div');
     col.className = 'year-col';
+    if (dimmed) col.style.opacity = '0.3';
 
     const amtEl = document.createElement('div');
     amtEl.className = 'year-amount';
@@ -1941,6 +1951,7 @@ function renderCycleNav(cycles) {
   const populated = cycles ? cycles.filter(c => c.hero.total_raised > 0) : [];
   if (!cycles || populated.length < 2) {
     nav.style.display = 'none';
+    switchCycle(-1);   // renderAll routes every cycle-scoped render through here
     return;
   }
   nav.style.display = 'flex';
@@ -2023,6 +2034,19 @@ function switchCycle(idx) {
   renderFirms();
   renderTopDonors();
   renderOOAView(idx);
+
+  // Cycle-scope the donor-level sections. Each derives a scoped copy of the
+  // all-time payload from the cycle's donor_totals / partisan_lean; -1
+  // passes the all-time structures through untouched.
+  const cyc = idx >= 0 ? CYCLES[idx] : null;
+  renderYearBars();
+  renderIPSpectrum(cyc ? _scopeIP(_FULL_DATA.ip_spectrum, cyc) : _FULL_DATA.ip_spectrum);
+  renderCivicAffiliations(cyc ? _scopeCivic(_FULL_DATA.civic_affiliations, cyc) : _FULL_DATA.civic_affiliations);
+  renderPartisanLean(_scopePartisan(cyc));
+  renderSummaryCards(
+    cyc ? cyc.hero : _FULL_DATA.hero,
+    _scopePartisan(cyc),
+    ((cyc ? cyc.notable_firms : _FULL_DATA.notable_firms) || []).length);
 }
 
 function updateHeroStats(hero, meta) {
@@ -2043,14 +2067,89 @@ function updateHeroStats(hero, meta) {
 
 // ── Main render ───────────────────────────────────────────────────────────────
 // ── Israel/Palestine spectrum ────────────────────────────────────────────────
+// ── Cycle scoping helpers ────────────────────────────────────────────────────
+// One rule: when a cycle is selected, every component reflects that cycle.
+// These derive cycle-scoped copies of the donor-level payloads from the
+// all-time structures plus each cycle's donor_totals map
+// (name -> [in-cycle $, gifts]) and per-cycle partisan_lean.
+function _activeCycleObj() {
+  return (ACTIVE_CYCLE >= 0 && CYCLES[ACTIVE_CYCLE]) ? CYCLES[ACTIVE_CYCLE] : null;
+}
+
+function _cycleYearRange(cyc) {
+  if (!cyc || !cyc.year_range) return null;
+  const [a, b] = cyc.year_range.split('–');
+  const s = parseInt(a);
+  const e = b === 'present' ? null : parseInt(b);
+  return [isNaN(s) ? null : s, (e === null || isNaN(e)) ? null : e];
+}
+
+function _scopeIP(ip, cyc) {
+  if (!ip || !cyc) return ip;
+  const dt = cyc.donor_totals || {};
+  const categories = (ip.categories || []).map(cat => {
+    const donor_list = cat.donor_list
+      .filter(d => dt[d.name])
+      .map(d => ({ ...d, local_total: dt[d.name][0] }));
+    return { ...cat, donor_list, donors: donor_list.length,
+             ip_total: donor_list.reduce((s, d) => s + (d.ip_total || 0), 0),
+             local_total: donor_list.reduce((s, d) => s + d.local_total, 0) };
+  }).filter(cat => cat.donors > 0);
+  return { total_flagged: categories.reduce((s, c) => s + c.donors, 0),
+           categories, _scoped: true, _cycleLabel: cyc.label };
+}
+
+function _scopeCivic(ca, cyc) {
+  if (!ca || !cyc) return ca;
+  const dt = cyc.donor_totals || {};
+  const by_category = {}, totals = {};
+  const seen = new Set();
+  for (const [key, entries] of Object.entries(ca.by_category || {})) {
+    let list = (entries || [])
+      .filter(e => dt[e.donor_name])
+      .map(e => ({ ...e, local_total: dt[e.donor_name][0], gifts: dt[e.donor_name][1] }));
+    // Dollar-sorted buckets re-rank by in-cycle dollars; the civic bucket
+    // stays alphabetical (same rationale as the pipeline's sort rule).
+    if (key !== 'civic') {
+      list.sort((a, b) => (b.local_total - a.local_total) ||
+                          a.donor_name.localeCompare(b.donor_name));
+    }
+    by_category[key] = list;
+    totals[key] = list.length;
+    list.forEach(e => seen.add(e.donor_name));
+  }
+  return { ...ca, by_category, totals, total_donors_with_affiliations: seen.size,
+           _scoped: true, _cycleLabel: cyc.label };
+}
+
+function _scopePartisan(cyc) {
+  const base = _FULL_DATA ? _FULL_DATA.partisan_lean : null;
+  if (!cyc) return base;
+  if (!cyc.partisan_lean) return null;
+  // A donor's federal/state committee history is cycle-independent — the
+  // drill-down panels reuse the all-time maps.
+  return { ...cyc.partisan_lean,
+           donor_committees: (base && base.donor_committees) || {},
+           donor_fec_names: (base && base.donor_fec_names) || {},
+           _scoped: true, _cycleLabel: cyc.label };
+}
+
 function renderIPSpectrum(ip) {
   const section = document.getElementById('ipSection');
-  if (!ip || !ip.total_flagged) { section.style.display = 'none'; return; }
+  if (!ip || (!ip.total_flagged && !ip._scoped)) { section.style.display = 'none'; return; }
   section.style.display = '';
   window._IP_DATA = ip;
 
+  if (ip._scoped && !ip.total_flagged) {
+    document.getElementById('ipHint').textContent = ip._cycleLabel;
+    document.getElementById('ipContent').innerHTML =
+      `<p class="cycle-empty">None of the donors on this spectrum gave during ${_ooaEsc(ip._cycleLabel)}.</p>`;
+    return;
+  }
+
   document.getElementById('ipHint').textContent =
-    `${ip.total_flagged} donors with Israel/Palestine-related federal committee donations · click a donor for details`;
+    `${ip.total_flagged} donors with Israel/Palestine-related federal committee donations` +
+    (ip._scoped ? ` during ${ip._cycleLabel}` : '') + ` · click a donor for details`;
 
   const fmt = n => '$' + Math.round(n).toLocaleString();
   const catColors = {
@@ -2519,7 +2618,23 @@ let _PARTISAN_DATA = null;
 
 function renderPartisanLean(pl) {
   const section = document.getElementById('partisanSection');
-  if (!pl || !pl.matched_donors) { section.style.display = 'none'; return; }
+  if (!pl || !pl.matched_donors) {
+    // In a cycle view, a profile that HAS all-time partisan data keeps the
+    // section with an explicit empty note — vanishing reads as a bug.
+    const cyc = _activeCycleObj();
+    if (cyc && _FULL_DATA && _FULL_DATA.partisan_lean && _FULL_DATA.partisan_lean.matched_donors) {
+      section.style.display = '';
+      document.getElementById('partisanHint').textContent = cyc.label;
+      document.getElementById('partisanBar').innerHTML = '';
+      document.getElementById('partisanBarLabels').innerHTML = '';
+      document.getElementById('partisanWeighted').innerHTML =
+        `<span class="cycle-empty">None of the FEC/TEC-matched donors gave during ${_ooaEsc(cyc.label)}.</span>`;
+      const tb = document.querySelector('#partisanBuckets tbody');
+      if (tb) tb.innerHTML = '';
+      return;
+    }
+    section.style.display = 'none'; return;
+  }
   section.style.display = '';
   _PARTISAN_DATA = pl;
 
@@ -2540,7 +2655,8 @@ function renderPartisanLean(pl) {
       ? ` (${both} with both FEC + Texas PAC history, ${tecOnly} Texas-only)`
       : '';
     document.getElementById('partisanHint').textContent =
-      `${pl.matched_donors} of ${pl.total_donors} donors matched in FEC + Texas PAC records${extra}`;
+      `${pl.matched_donors} of ${pl.total_donors} donors matched in FEC + Texas PAC records${extra}` +
+      (pl._scoped ? ` · ${pl._cycleLabel}` : '');
   }
 
   // Build the bar segments (clickable)
@@ -2699,16 +2815,14 @@ function showDonorFEC(donorId, donorName, lean) {
   body.innerHTML = html;
 }
 
-function renderSummaryCards(data) {
+function renderSummaryCards(hero, pl, firmsCount) {
   const section = document.getElementById('summaryCards');
-  const hero = data.hero;
-  const pl = data.partisan_lean;
   const fmt = n => '$' + Math.round(n).toLocaleString();
 
   document.getElementById('scRaised').textContent = fmt(hero.total_raised);
   document.getElementById('scAffiliated').textContent = hero.employer_affiliated_pct + '%';
   document.getElementById('scDonors').textContent = hero.unique_donors.toLocaleString();
-  document.getElementById('scFirms').textContent = (data.notable_firms || []).length;
+  document.getElementById('scFirms').textContent = firmsCount;
 
   if (pl && pl.matched_donors) {
     const leanPct = (pl.weighted_lean * 100).toFixed(0);
@@ -2904,30 +3018,18 @@ function renderAll(data, allDonations) {
   _FULL_DATA     = data;
 
   renderHero(data);
-  renderYearBars();
-  renderDonut();
-  renderBars('total');
-  renderFirms();
-  renderTopDonors();
 
-  // Cycles
-  renderCycleNav(CYCLES);
+  // Out-of-Austin card first so _OOA_DATA exists before the first
+  // switchCycle; the cycle-comparison panel is inherently cross-cycle.
+  renderOutOfAustin(data.out_of_austin);
   renderCycleComparison(CYCLES);
 
-  // Israel/Palestine spectrum
-  renderIPSpectrum(data.ip_spectrum);
-
-  // Verified civic affiliations (ADL, AIPAC, Shalom Austin, Oil & Gas, etc.)
-  renderCivicAffiliations(data.civic_affiliations);
-
-  // Partisan lean
-  renderPartisanLean(data.partisan_lean);
-
-  // Out-of-Austin limit meters (city offices only)
-  renderOutOfAustin(data.out_of_austin);
-
-  // Summary cards
-  renderSummaryCards(data);
+  // ONE rule drives the page: everything cycle-dependent renders through
+  // switchCycle. renderCycleNav always ends in a switchCycle call (the
+  // on-ballot default or All Time), which renders the timeline, donut,
+  // category bars, firms, top donors, IP spectrum, affiliation cards,
+  // partisan lean, summary cards, and the OOA meters for that scope.
+  renderCycleNav(CYCLES);
 
   // Show content, hide loading
   document.getElementById('loadingOverlay').style.display = 'none';
