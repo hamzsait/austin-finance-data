@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21",
+ "updated": "2026-07-23",
  "candidates": [
   {
    "slug": "jones",
@@ -10,7 +10,7 @@
    "href": "/sanantonio/jones/",
    "raised": "$632K",
    "donors": "3,038",
-   "empPct": "43.7%",
+   "empPct": "56.6%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -19,18 +19,18 @@
     },
     {
      "label": "Legal",
-     "amt": "$64K",
-     "w": 35
+     "amt": "$67K",
+     "w": 37
     },
     {
      "label": "Consulting / PR",
-     "amt": "$41K",
-     "w": 22
+     "amt": "$55K",
+     "w": 30
     },
     {
      "label": "Government",
-     "amt": "$31K",
-     "w": 17
+     "amt": "$36K",
+     "w": 20
     }
    ],
    "section": "council",
@@ -78,11 +78,36 @@
    "photo": "sa-kaur",
    "name": "Sukh Kaur",
    "district": "District 1",
-   "race": "Elected June 2025",
+   "race": "Re-elected June 2025",
    "section": "council",
    "seat": "District 1",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/kaur/",
+   "raised": "$555K",
+   "donors": "830",
+   "empPct": "71.6%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$79K",
+     "w": 100
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$70K",
+     "w": 89
+    },
+    {
+     "label": "Legal",
+     "amt": "$57K",
+     "w": 73
+    },
+    {
+     "label": "Healthcare",
+     "amt": "$40K",
+     "w": 51
+    }
+   ]
   },
   {
    "slug": "mckeerodriguez",
