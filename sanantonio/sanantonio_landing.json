@@ -114,11 +114,36 @@
    "photo": "sa-mckeerodriguez",
    "name": "Jalen McKee-Rodriguez",
    "district": "District 2",
-   "race": "Elected June 2025",
+   "race": "Re-elected May 2025",
    "section": "council",
    "seat": "District 2",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/mckeerodriguez/",
+   "raised": "$295K",
+   "donors": "2,201",
+   "empPct": "57.7%",
+   "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$54K",
+     "w": 100
+    },
+    {
+     "label": "Government",
+     "amt": "$28K",
+     "w": 52
+    },
+    {
+     "label": "Legal",
+     "amt": "$24K",
+     "w": 45
+    },
+    {
+     "label": "Education",
+     "amt": "$24K",
+     "w": 44
+    }
+   ]
   },
   {
    "slug": "viagran",
