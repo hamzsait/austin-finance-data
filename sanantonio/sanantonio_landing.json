@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23",
+ "updated": "2026-07-30",
  "candidates": [
   {
    "slug": "jones",
@@ -10,7 +10,7 @@
    "href": "/sanantonio/jones/",
    "raised": "$632K",
    "donors": "3,038",
-   "empPct": "56.6%",
+   "empPct": "56.8%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -19,13 +19,13 @@
     },
     {
      "label": "Legal",
-     "amt": "$67K",
+     "amt": "$68K",
      "w": 37
     },
     {
      "label": "Consulting / PR",
-     "amt": "$55K",
-     "w": 30
+     "amt": "$54K",
+     "w": 29
     },
     {
      "label": "Government",
@@ -46,7 +46,7 @@
    "href": "/sanantonio/galvan/",
    "raised": "$81K",
    "donors": "317",
-   "empPct": "66.0%",
+   "empPct": "64.9%",
    "topGroups": [
     {
      "label": "Legal",
@@ -54,9 +54,9 @@
      "w": 100
     },
     {
-     "label": "Education",
-     "amt": "$11K",
-     "w": 85
+     "label": "Not Employed",
+     "amt": "$12K",
+     "w": 92
     },
     {
      "label": "Government",
@@ -64,9 +64,9 @@
      "w": 83
     },
     {
-     "label": "Not Employed",
-     "amt": "$11K",
-     "w": 81
+     "label": "Education",
+     "amt": "$10K",
+     "w": 74
     }
    ],
    "section": "council",
@@ -85,27 +85,27 @@
    "href": "/sanantonio/kaur/",
    "raised": "$555K",
    "donors": "830",
-   "empPct": "71.6%",
+   "empPct": "71.3%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$79K",
+     "amt": "$78K",
      "w": 100
     },
     {
      "label": "Not Employed",
      "amt": "$70K",
-     "w": 89
+     "w": 90
     },
     {
      "label": "Legal",
-     "amt": "$57K",
-     "w": 73
+     "amt": "$56K",
+     "w": 71
     },
     {
      "label": "Healthcare",
-     "amt": "$40K",
-     "w": 51
+     "amt": "$41K",
+     "w": 52
     }
    ]
   },
@@ -121,27 +121,27 @@
    "href": "/sanantonio/mckeerodriguez/",
    "raised": "$295K",
    "donors": "2,201",
-   "empPct": "57.7%",
+   "empPct": "60.1%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$54K",
+     "amt": "$55K",
      "w": 100
     },
     {
      "label": "Government",
-     "amt": "$28K",
-     "w": 52
-    },
-    {
-     "label": "Legal",
-     "amt": "$24K",
-     "w": 45
+     "amt": "$34K",
+     "w": 62
     },
     {
      "label": "Education",
-     "amt": "$24K",
-     "w": 44
+     "amt": "$28K",
+     "w": 51
+    },
+    {
+     "label": "Legal",
+     "amt": "$22K",
+     "w": 41
     }
    ]
   },
@@ -150,11 +150,36 @@
    "photo": "sa-viagran",
    "name": "Phyllis Viagran",
    "district": "District 3",
-   "race": "Elected June 2025",
+   "race": "Re-elected May 2025",
    "section": "council",
    "seat": "District 3",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/viagran/",
+   "raised": "$231K",
+   "donors": "360",
+   "empPct": "57.2%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$32K",
+     "w": 100
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$26K",
+     "w": 82
+    },
+    {
+     "label": "Legal",
+     "amt": "$21K",
+     "w": 66
+    },
+    {
+     "label": "Self-Employed",
+     "amt": "$19K",
+     "w": 58
+    }
+   ]
   },
   {
    "slug": "mungia",
