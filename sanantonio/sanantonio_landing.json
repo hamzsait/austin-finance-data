@@ -10,11 +10,11 @@
    "href": "/sanantonio/jones/",
    "raised": "$632K",
    "donors": "3,038",
-   "empPct": "56.8%",
+   "empPct": "57.1%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$184K",
+     "amt": "$182K",
      "w": 100
     },
     {
@@ -46,7 +46,7 @@
    "href": "/sanantonio/galvan/",
    "raised": "$81K",
    "donors": "317",
-   "empPct": "64.9%",
+   "empPct": "65.2%",
    "topGroups": [
     {
      "label": "Legal",
@@ -61,7 +61,7 @@
     {
      "label": "Government",
      "amt": "$11K",
-     "w": 83
+     "w": 85
     },
     {
      "label": "Education",
@@ -85,17 +85,17 @@
    "href": "/sanantonio/kaur/",
    "raised": "$555K",
    "donors": "830",
-   "empPct": "71.3%",
+   "empPct": "71.4%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$78K",
+     "amt": "$79K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$70K",
-     "w": 90
+     "amt": "$69K",
+     "w": 88
     },
     {
      "label": "Legal",
@@ -121,27 +121,27 @@
    "href": "/sanantonio/mckeerodriguez/",
    "raised": "$295K",
    "donors": "2,201",
-   "empPct": "60.1%",
+   "empPct": "59.9%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$55K",
+     "amt": "$56K",
      "w": 100
     },
     {
      "label": "Government",
      "amt": "$34K",
-     "w": 62
+     "w": 61
     },
     {
      "label": "Education",
      "amt": "$28K",
-     "w": 51
+     "w": 50
     },
     {
      "label": "Legal",
-     "amt": "$22K",
-     "w": 41
+     "amt": "$23K",
+     "w": 40
     }
    ]
   },
@@ -157,7 +157,7 @@
    "href": "/sanantonio/viagran/",
    "raised": "$231K",
    "donors": "360",
-   "empPct": "57.2%",
+   "empPct": "57.3%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -167,7 +167,7 @@
     {
      "label": "Not Employed",
      "amt": "$26K",
-     "w": 82
+     "w": 80
     },
     {
      "label": "Legal",
@@ -177,7 +177,7 @@
     {
      "label": "Self-Employed",
      "amt": "$19K",
-     "w": 58
+     "w": 57
     }
    ]
   },
@@ -186,11 +186,36 @@
    "photo": "sa-mungia",
    "name": "Edward Mungia",
    "district": "District 4",
-   "race": "Elected June 2025",
+   "race": "Elected May 2025",
    "section": "council",
    "seat": "District 4",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/mungia/",
+   "raised": "$90K",
+   "donors": "301",
+   "empPct": "70.5%",
+   "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$13K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$11K",
+     "w": 85
+    },
+    {
+     "label": "Government",
+     "amt": "$9K",
+     "w": 69
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$8K",
+     "w": 60
+    }
+   ]
   },
   {
    "slug": "castillo",
