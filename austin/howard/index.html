@@ -951,6 +951,17 @@
     display: inline-block; width: 10px; height: 10px; border-radius: 3px;
     margin-right: 6px; vertical-align: baseline;
   }
+  .ooa-entity-note {
+    display: flex; gap: 8px; align-items: flex-start;
+    font-size: 12px; color: var(--text); line-height: 1.55; max-width: 780px;
+    background: rgba(30,138,85,.07); border: 1px solid rgba(30,138,85,.28);
+    border-radius: 6px; padding: 9px 12px; margin: -6px 0 18px;
+  }
+  .ooa-entity-note .swatch {
+    flex: none; width: 10px; height: 10px; border-radius: 3px;
+    background: #1e8a55; margin-top: 3px;
+  }
+  .ooa-entity-note a { color: var(--navy); font-weight: 600; }
   .ooa-cycle { margin-bottom: 22px; }
   .ooa-cycle:last-of-type { margin-bottom: 8px; }
   .ooa-cycle-head {
@@ -980,7 +991,7 @@
   .ooa-seg.last  { border-radius: 0 4px 4px 0; }
   .ooa-seg.only  { border-radius: 4px; }
   .ooa-seg-ind { background: #2a6cb0; }
-  .ooa-seg-ent { background: #c26a13; }
+  .ooa-seg-ent { background: #1e8a55; }
   .ooa-tick {
     position: absolute; top: -3px; bottom: -3px; width: 2px;
     background: var(--navy); opacity: .55; border-radius: 1px;
@@ -1009,7 +1020,7 @@
     font-size: 9.5px; font-weight: 700; letter-spacing: .4px; text-transform: uppercase;
     border-radius: 4px; padding: 1px 6px; white-space: nowrap;
   }
-  .ooa-src-type.ent { color: #9a5a08; background: rgba(194,106,19,.1); }
+  .ooa-src-type.ent { color: #17714a; background: rgba(30,138,85,.12); }
   .ooa-src-type.ind { color: #205a94; background: rgba(42,108,176,.1); }
   .ooa-methodology {
     margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border);
@@ -1251,9 +1262,19 @@
       </div>
       <div class="ooa-legend">
         <span><span class="swatch" style="background:#2a6cb0"></span>Out-of-town individuals</span>
-        <span><span class="swatch" style="background:#c26a13"></span>Entities &amp; PACs (any location)</span>
+        <span><span class="swatch" style="background:#1e8a55"></span>Entities &amp; PACs &mdash; counted even when Austin-based</span>
         <span><span class="swatch" style="background:var(--surface2);border:1px solid var(--border)"></span>Remaining allowance</span>
         <span id="ooaViewHint" style="margin-left:auto"></span>
+      </div>
+      <div class="ooa-entity-note">
+        <span class="swatch" aria-hidden="true"></span>
+        <span><strong>&ldquo;Out-of-Austin&rdquo; is a nickname &mdash; the cap is not purely geographic.</strong>
+          The charter exempts only <em>natural persons</em> (individual people) in Austin-area zip codes.
+          Businesses, PACs, and other campaigns cannot vote, so their contributions count toward this same
+          cap <em>even when the donor has an Austin address</em>. Green segments are that entity money: it is
+          not out-of-town, but it uses up the same allowance.
+          <a href="http://austin-tx.elaws.us/code/coor_ch_artiii_sec8" target="_blank" rel="noopener">Read
+          the charter text (Art.&nbsp;III &sect;&nbsp;8)</a>.</span>
       </div>
       <div id="ooaCycles"></div>
       <div class="ooa-methodology" id="ooaMethodology"></div>
@@ -2875,7 +2896,7 @@ function _ooaCycleHTML(c, compact = false, idx = -1) {
       const cls = indW > 0 ? 'last' : 'only';
       const left = indW > 0 ? `calc(${indW}% + 2px)` : '0';
       segs += `<div class="ooa-seg ooa-seg-ent ${cls}" style="left:${left};width:calc(${entW}% - ${indW > 0 ? 2 : 0}px)"
-        title="Entities &amp; PACs: ${fmtExact(c.entity_total)} (${c.entity_count} contributions)"></div>`;
+        title="Entities &amp; PACs: ${fmtExact(c.entity_total)} (${c.entity_count} contributions) — counts toward the cap regardless of location, including Austin addresses"></div>`;
     }
 
     // General-cap tick when the ceiling includes a runoff allowance
@@ -2912,7 +2933,7 @@ function _ooaCycleHTML(c, compact = false, idx = -1) {
         </tr>`).join('');
       sources = `
         <details class="ooa-sources">
-          <summary>Top out-of-Austin sources</summary>
+          <summary>Largest sources counted toward the cap</summary>
           <table><tbody>${trs}</tbody></table>
         </details>`;
     }
@@ -2987,13 +3008,15 @@ function renderOutOfAustin(ooa) {
   const section = document.getElementById('ooaSection');
 
   document.getElementById('ooaMethodology').innerHTML =
-    `The City Charter caps the total a council or mayoral candidate may accept per election from
+    `The <a href="http://austin-tx.elaws.us/code/coor_ch_artiii_sec8" target="_blank" rel="noopener">City
+     Charter (Art. III &sect; 8(A)(3))</a> caps the total a council or mayoral candidate may accept per election from
      <em>&ldquo;sources other than natural persons eligible to vote in a postal zip code completely or partially
-     within the Austin city limits&rdquo;</em> &mdash; i.e., every entity and PAC anywhere, plus individuals outside
-     Austin-area zips. Voter registration is not visible in filings, so this monitor uses the City Clerk&rsquo;s
+     within the Austin city limits&rdquo;</em> &mdash; i.e., every entity and PAC anywhere (Austin included), plus
+     individuals outside Austin-area zips. Voter registration is not visible in filings, so this monitor uses the City Clerk&rsquo;s
      ${ooa.zip_list_vintage} zip-code list (plus Austin PO-box zips) as the eligibility proxy &mdash; totals are an
-     estimate for transparency, not a legal determination. Caps are CPI-adjusted each budget year; a December
-     runoff carries its own separate allowance. Money accepted for a runoff is reported in the same filings, so a
+     estimate for transparency, not a legal determination. Caps are CPI-adjusted each budget year (current
+     values are published by the <a href="https://www.austintexas.gov/clerk/programs/elections" target="_blank"
+     rel="noopener">City Clerk</a>); a December runoff carries its own separate allowance. Money accepted for a runoff is reported in the same filings, so a
      cycle that went to a runoff is measured against the combined general + runoff allowance.
      <details class="ooa-ziplist">
        <summary>Show the ${(ooa.zip_list || []).length} zip codes treated as within Austin</summary>
