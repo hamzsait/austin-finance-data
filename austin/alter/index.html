@@ -1005,23 +1005,6 @@
   .ooa-cycle.ooa-compact .ooa-cycle-label { font-size: 12px; }
   .ooa-cycle.ooa-compact .ooa-amounts { font-size: 11.5px; }
   .ooa-cycle.ooa-compact .ooa-meter { height: 10px; margin: 2px 0 0; }
-  .ooa-sources { margin-top: 6px; }
-  .ooa-sources summary {
-    cursor: pointer; font-size: 11.5px; font-weight: 600; color: var(--navy);
-    list-style: none; display: inline-flex; align-items: center; gap: 5px;
-  }
-  .ooa-sources summary::-webkit-details-marker { display: none; }
-  .ooa-sources summary::after { content: '›'; transform: rotate(90deg); transition: transform .12s; opacity: .5; }
-  .ooa-sources[open] summary::after { transform: rotate(-90deg); }
-  .ooa-sources table { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 6px; }
-  .ooa-sources td { padding: 4px 8px 4px 0; border-bottom: 1px solid var(--border); }
-  .ooa-sources td:last-child { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
-  .ooa-src-type {
-    font-size: 9.5px; font-weight: 700; letter-spacing: .4px; text-transform: uppercase;
-    border-radius: 4px; padding: 1px 6px; white-space: nowrap;
-  }
-  .ooa-src-type.ent { color: #17714a; background: rgba(30,138,85,.12); }
-  .ooa-src-type.ind { color: #205a94; background: rgba(42,108,176,.1); }
   .ooa-methodology {
     margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border);
     font-size: 11.5px; color: var(--muted); line-height: 1.6; max-width: 780px;
@@ -2921,23 +2904,6 @@ function _ooaCycleHTML(c, compact = false, idx = -1) {
       ? ` &middot; ${fmtExact(c.unknown_total)} from ${c.unknown_count} contribution${c.unknown_count === 1 ? '' : 's'} with no usable zip is excluded`
       : '';
 
-    // Top out-of-Austin sources
-    let sources = '';
-    if ((c.top_sources || []).length) {
-      const trs = c.top_sources.map(s => `
-        <tr>
-          <td>${_ooaEsc(s.name)}</td>
-          <td>${_ooaEsc(s.location) || '&mdash;'}</td>
-          <td><span class="ooa-src-type ${s.entity ? 'ent' : 'ind'}">${s.entity ? 'Entity/PAC' : 'Individual'}</span></td>
-          <td>${fmtExact(s.total)}</td>
-        </tr>`).join('');
-      sources = `
-        <details class="ooa-sources">
-          <summary>Largest sources counted toward the cap</summary>
-          <table><tbody>${trs}</tbody></table>
-        </details>`;
-    }
-
     const pctOfCeiling = ceiling ? Math.round(counted / ceiling * 100) : 0;
     if (compact) {
       // Non-selected cycles stay visible but small; clicking one switches
@@ -2969,7 +2935,6 @@ function _ooaCycleHTML(c, compact = false, idx = -1) {
           ${tick}
         </div>
         <div class="ooa-sub">${capDesc}${unknownNote}</div>
-        ${sources}
       </div>`;
 }
 
