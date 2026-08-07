@@ -15,6 +15,17 @@ import json, os, re, sys
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+
+def chunk_out(c):
+    """Resolve a chunk's output path against this directory.
+
+    Historically _chunks.json stored absolute paths, which silently broke
+    validation whenever the repo moved (a worktree checkout elsewhere made
+    every report look 'not extracted yet'). Accept both forms.
+    """
+    p = c['out']
+    return p if os.path.isabs(p) else os.path.join(ROOT, p)
+
 RAW = os.path.join(ROOT, 'extracted', 'raw')
 TOL = 1.00
 
@@ -67,13 +78,13 @@ for (official, report), cs in sorted(by_report.items()):
     rid = f'{official}__{report}'
     if only and only not in rid:
         continue
-    missing_chunks = [c['id'] for c in cs if not os.path.exists(c['out'])]
+    missing_chunks = [c['id'] for c in cs if not os.path.exists(chunk_out(c))]
     pages = {}
     for c in cs:
         if c['id'] in [m for m in missing_chunks]:
             continue
         try:
-            data = json.load(open(c['out'], encoding='utf-8-sig'))
+            data = json.load(open(chunk_out(c), encoding='utf-8-sig'))
         except Exception as e:
             queue.append({'report': rid, 'chunk': c['id'], 'problem': f'bad json: {e}'})
             continue

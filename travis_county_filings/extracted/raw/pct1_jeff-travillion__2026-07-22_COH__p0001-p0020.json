@@ -1,0 +1,27 @@
+{"chunk": "pct1_jeff-travillion__2026-07-22_COH__p0001-p0020", "pages": [
+{"page": 1, "type": "OTHER", "label": "FORM UD - Unsworn Declaration"},
+{"page": 2, "type": "COVER1", "filer_name": "Travillion, Jeff", "report_type": "July 15", "period_from": "01/01/2026", "period_through": "06/30/2026", "office_held": "Travis County Commissioner Precinct 1", "correction": false},
+{"page": 3, "type": "COVER2", "total_unitemized_contributions": 0.00, "total_contributions": 6000.46, "total_unitemized_expenditures": 900.00, "total_expenditures": 32786.93, "contribution_balance": 34760.57, "outstanding_loans": 0.00},
+{"page": 4, "type": "COVER3"},
+{"page": 5, "type": "A1", "sch_pos": "1/1",
+ "entries": [
+   {"date": "06/18/2026", "name": "Husch Blackwell LLP", "city_state_zip": null, "amount": 5000.00, "occupation": null, "employer": null, "oos_pac": false},
+   {"date": "06/08/2026", "name": "RECA - Good Government PAC", "city_state_zip": null, "amount": 1000.00, "occupation": null, "employer": null, "oos_pac": false},
+   {"date": "01/25/2026", "name": "Travillion Sr., Jeffrey", "city_state_zip": null, "amount": 0.46, "occupation": "County Commissioner", "employer": "Travis County", "oos_pac": false}
+ ]},
+{"page": 6, "type": "OTHER", "label": "SCHEDULE B - Pledged Contributions"},
+{"page": 7, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 8, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 9, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 10, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 11, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 12, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 13, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 14, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 15, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 16, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 17, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 18, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 19, "type": "OTHER", "label": "SCHEDULE F1"},
+{"page": 20, "type": "OTHER", "label": "SCHEDULE F1"}
+]}
