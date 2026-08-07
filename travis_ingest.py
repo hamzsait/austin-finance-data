@@ -32,6 +32,21 @@ DRY = "--dry-run" in sys.argv
 APPEND_ONLY = None
 if "--append-only" in sys.argv:
     APPEND_ONLY = sys.argv[sys.argv.index("--append-only") + 1]
+# --only-report <report-stem>: narrow further to a single filing (the stem is
+# the PDF name without .pdf, e.g. 2026-07-22_COH). Use this when a refresh adds
+# new reports to officials already in the DB.
+#
+# Why it exists: --append-only alone deletes and re-resolves EVERY row for the
+# official. Identity matching needs a zip or an employer to corroborate a name
+# (score >= 0.83), so any row carrying neither can never match and mints a fresh
+# identity on every run. Travillion and Howard have 121 and 123 such rows, so a
+# re-ingest duplicated ~100 donors each and orphaned their previous identities
+# with stale totals. Scoping to the new report leaves settled rows untouched.
+ONLY_REPORT = None
+if "--only-report" in sys.argv:
+    ONLY_REPORT = sys.argv[sys.argv.index("--only-report") + 1]
+    if not APPEND_ONLY:
+        sys.exit("--only-report requires --append-only <official_slug>")
 
 AUTO, REVIEW_LOW = 0.83, 0.65
 EMP_AUTO = 0.85
@@ -66,10 +81,17 @@ def main():
     rows = list(csv.DictReader(open(CSV_PATH, encoding="utf-8")))
     if APPEND_ONLY:
         rows = [r for r in rows if r["official_slug"].startswith(APPEND_ONLY)]
-        print(f"CSV rows (append-only '{APPEND_ONLY}'): {len(rows)}")
-        cur.execute("DELETE FROM campaign_finance WHERE transaction_id LIKE ?",
-                    (f"TRAVIS-{APPEND_ONLY}%",))
-        print(f"removed prior rows for this official: {cur.rowcount}")
+        if ONLY_REPORT:
+            rows = [r for r in rows if r["report_file"][:-4] == ONLY_REPORT]
+            if not rows:
+                sys.exit(f"no CSV rows for report '{ONLY_REPORT}' under '{APPEND_ONLY}'")
+            scope = f"TRAVIS-{APPEND_ONLY}-{ONLY_REPORT}-%"
+            print(f"CSV rows ({APPEND_ONLY} / {ONLY_REPORT}): {len(rows)}")
+        else:
+            scope = f"TRAVIS-{APPEND_ONLY}%"
+            print(f"CSV rows (append-only '{APPEND_ONLY}'): {len(rows)}")
+        cur.execute("DELETE FROM campaign_finance WHERE transaction_id LIKE ?", (scope,))
+        print(f"removed prior rows in scope: {cur.rowcount}")
     else:
         print(f"CSV rows: {len(rows)}")
         # ---------- Phase A: wipe prior travis ingest (idempotent) ----------
@@ -120,7 +142,8 @@ def main():
 
     # map txid -> rowid + kind
     txkind = {i["transaction_id"]: i["_kind"] for i in inserts}
-    tx_filter = f"TRAVIS-{APPEND_ONLY}%" if APPEND_ONLY else "TRAVIS-%"
+    # identity + employer resolution runs over exactly the rows just inserted
+    tx_filter = scope if APPEND_ONLY else "TRAVIS-%"
     new_rows = cur.execute(
         "SELECT rowid, * FROM campaign_finance WHERE transaction_id LIKE ?", (tx_filter,)).fetchall()
 
