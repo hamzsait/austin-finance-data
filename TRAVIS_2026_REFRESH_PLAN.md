@@ -1,7 +1,26 @@
 # Travis County Commissioners — 2026 donations refresh
 
-Exploration notes for branch `travis-2026-donations`. Written 2026-08-07 against
-the state of the EasyVote portal that day.
+Branch `travis-2026-donations`, 2026-08-07.
+
+## Status: incumbents done
+
+The three July 2026 semiannuals are extracted, validated, ingested and live in
+the profile JSON. Scope was incumbents only.
+
+| Official | Contributions added | Amount | Profile total |
+|---|---:|---:|---|
+| Brown, Andy (County Judge) | 79 | $12,413.00 | $1,422,380 → $1,434,793 |
+| Travillion, Jeff (Pct 1) | 3 | $6,000.46 | $619,514 → $625,514 |
+| Howard, Ann (Pct 3) | 3 | $550.00 | $399,089 → $399,639 |
+
+All three reconcile to their sworn cover-sheet totals exactly. TRAVIS rows in
+the DB: 7,039 → 7,124.
+
+**Shea, Gómez and Morales have no July 2026 filing to ingest** — see
+"Missing 2026 data" below. Their pages still show data through Feb/May 2026.
+
+Not done: the six never-covered challengers in the contested Pct 2 / Pct 4
+races (their PDFs are downloaded but unprocessed), and county race pages.
 
 ## What's already in the repo (the July 2026 process, reusable)
 
@@ -136,10 +155,87 @@ race metadata to county races — `race_template.html` and `build_race.py` assum
 council seats. Alternative is to ship the challengers as standalone profiles
 plus landing cards and defer race pages.
 
+## Two traps in the ingest path (both now handled)
+
+**`--append-only` re-resolves everything.** It deletes and re-inserts every row
+for an official, then re-runs identity matching over all of them. Matching needs
+a zip or an employer to corroborate a name (score ≥ 0.83), so a row carrying
+neither can never match and mints a fresh identity — on every run. Travillion
+and Howard have 121 and 123 such rows; a plain `--append-only` re-ingest created
+221 identities, ~208 duplicating existing donors, and orphaned the originals
+with stale totals still attached. Brown has zero such rows, so his run looked
+clean and gave no warning. Use `--only-report <stem>` for refreshes; it leaves
+settled rows untouched (11 identities created instead of 221).
+
+**Some filings redact the whole address.** Travillion's and Howard's July 2026
+PDFs black out the entire address block — city and zip too, not just the street,
+contrary to what `travis_county_filings/README.md` describes. Those donors have
+no matchable evidence at all. `travis_stitch_redacted.py` links them by hand to
+their existing identities, logs each to `review_queue` as
+`travis-redacted-stitch` with a justification, and drops the minted duplicate.
+
+This is intermittent, not a policy change: 2026 has 7 blank-address rows out of
+1,236, 2022 had 309, and Brown's own July 2026 report has full addresses. Check
+each refresh rather than assuming either way.
+
+## Missing 2026 data (researched 2026-08-07)
+
+Shea, Gómez and Morales have filed no July 2026 semiannual, and there is nothing
+to retrieve — verified against both the county portal and the TEC state system.
+The control that makes the negative trustworthy: Travillion has *zero* TEC
+records despite demonstrably filing with the county on 2026-07-22, confirming
+Travis commissioners are local-only filers with no state-level copy.
+
+The gap is cohort-wide, not individual: **all nine 2026 candidates across the
+contested Pct 2 and Pct 4 races are absent**, while ~28 other county offices
+(Sheriff, DA, County Clerk, all constables, all county-court judges) filed in
+the normal July 6–22 wave.
+
+Framing matters here. The County Clerk states that absence from the website does
+not mean a candidate has not filed
+(https://votetravis.gov/candidates-office-holders/campaign-finance/), and paper
+filings can lag scanning. **"July 2026 semiannual not yet posted" with an as-of
+date is defensible; "did not file" is not**, on this evidence.
+
+Per official:
+- **Shea** — latest 2026-02-26. Unopposed for a fourth term after winning the
+  March primary. Filed a July semiannual every prior year, so this breaks an
+  unbroken pattern. No exemption applies (treasurer appointment on file, no
+  final report).
+- **Morales** — latest 2026-05-18, the 8-day pre-runoff report. **The entire
+  runoff-through-appointment period is missing** — the largest real gap. Two
+  filer records exist; all 2026 activity is under Commissioner Pct 4
+  (`6518393A-B4C0-4701-BD49-9164B9B53956`), while Constable Pct 4 went dormant
+  after 2025-07-15.
+- **Gómez** — retired 2026-06-11, earlier than her term required. No further
+  filings expected beyond possibly a final report.
+
+Next steps: poll the documentsearch endpoint for those filer IDs (cheap, and
+authoritative), and consider calling the Clerk's Elections Division at
+(512) 854-4996 to distinguish "not filed" from "filed on paper, not yet
+scanned" — worth asking why the whole Pct 2/4 cohort is absent. Next guaranteed
+data point is the January 2027 semiannual, due 2027-01-15.
+
+An Austin Bulldog headline about a "million-dollar advantage" in a commissioner
+race could not be opened (HTTP 403) and its race/cycle is unconfirmed — do not
+cite it until a human reads it.
+
 ## Environment note
 
-PyMuPDF was missing from `python3.13.exe` and had to be reinstalled
-(`pip install PyMuPDF`) — `_render_pages.py` imports it as `fitz`, which now
-emits a deprecation warning but still works. `_run_extraction.js` also has a
-hardcoded `PAGES_ROOT` pointing at a stale July scratchpad path; update it
-before the next vision run.
+`python3.13.exe` had no packages at all; PyMuPDF, rapidfuzz and jellyfish were
+reinstalled to run the pipeline. `_render_pages.py` imports PyMuPDF as `fitz`,
+which now warns but works.
+
+Two stale-path bugs were fixed rather than worked around:
+- `_run_extraction.js` hardcoded `PAGES_ROOT` to a July scratchpad that no
+  longer exists — the driver could not run at all. Now `PAGES_ROOT`,
+  `TRAVIS_PY`, `TRAVIS_POOL`, `TRAVIS_TOTAL_PAGES` env vars.
+- `_chunks.json` stored absolute `out` paths, so `_validate.py` reported every
+  historical report as "not extracted yet" from a worktree at a different path,
+  while the raw JSON sat right there. Paths are repo-relative; both readers
+  accept either form.
+
+The DB lives only in the main worktree (`austin-finance-data/`, gitignored), so
+ingest and profile builds run from this worktree with `DB_PATH` pointed there.
+Backup taken before ingest:
+`austin_finance.backup-2026-08-07-pre-travis-july2026.db`.
