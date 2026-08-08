@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30",
+ "updated": "2026-08-01",
  "candidates": [
   {
    "slug": "jones",
@@ -25,11 +25,11 @@
     {
      "label": "Consulting / PR",
      "amt": "$54K",
-     "w": 29
+     "w": 30
     },
     {
      "label": "Government",
-     "amt": "$36K",
+     "amt": "$37K",
      "w": 20
     }
    ],
@@ -45,8 +45,8 @@
    "race": "Elected June 2025",
    "href": "/sanantonio/galvan/",
    "raised": "$81K",
-   "donors": "317",
-   "empPct": "65.2%",
+   "donors": "347",
+   "empPct": "66.4%",
    "topGroups": [
     {
      "label": "Legal",
@@ -60,8 +60,8 @@
     },
     {
      "label": "Government",
-     "amt": "$11K",
-     "w": 85
+     "amt": "$12K",
+     "w": 89
     },
     {
      "label": "Education",
@@ -84,18 +84,18 @@
    "status": "current",
    "href": "/sanantonio/kaur/",
    "raised": "$555K",
-   "donors": "830",
+   "donors": "832",
    "empPct": "71.4%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$79K",
+     "amt": "$78K",
      "w": 100
     },
     {
      "label": "Not Employed",
      "amt": "$69K",
-     "w": 88
+     "w": 89
     },
     {
      "label": "Legal",
@@ -120,8 +120,8 @@
    "status": "current",
    "href": "/sanantonio/mckeerodriguez/",
    "raised": "$295K",
-   "donors": "2,201",
-   "empPct": "59.9%",
+   "donors": "2,262",
+   "empPct": "60.1%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -136,7 +136,7 @@
     {
      "label": "Education",
      "amt": "$28K",
-     "w": 50
+     "w": 51
     },
     {
      "label": "Legal",
@@ -157,7 +157,7 @@
    "href": "/sanantonio/viagran/",
    "raised": "$231K",
    "donors": "360",
-   "empPct": "57.3%",
+   "empPct": "57.0%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -177,7 +177,7 @@
     {
      "label": "Self-Employed",
      "amt": "$19K",
-     "w": 57
+     "w": 59
     }
    ]
   },
@@ -192,7 +192,7 @@
    "status": "current",
    "href": "/sanantonio/mungia/",
    "raised": "$90K",
-   "donors": "301",
+   "donors": "302",
    "empPct": "70.5%",
    "topGroups": [
     {
@@ -222,11 +222,36 @@
    "photo": "sa-castillo",
    "name": "Teri Castillo",
    "district": "District 5",
-   "race": "Elected June 2025",
+   "race": "Re-elected May 2025",
    "section": "council",
    "seat": "District 5",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/castillo/",
+   "raised": "$176K",
+   "donors": "1,286",
+   "empPct": "61.1%",
+   "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$25K",
+     "w": 100
+    },
+    {
+     "label": "Education",
+     "amt": "$22K",
+     "w": 87
+    },
+    {
+     "label": "Nonprofit / Advocacy",
+     "amt": "$18K",
+     "w": 70
+    },
+    {
+     "label": "Legal",
+     "amt": "$10K",
+     "w": 40
+    }
+   ]
   },
   {
    "slug": "gavito",
