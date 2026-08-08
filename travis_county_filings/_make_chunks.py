@@ -38,7 +38,9 @@ for r in inv:
             'report': stem,
             'first_page': start + 1,
             'pages': [os.path.join(pagedir, p) for p in part],
-            'out': os.path.join(OUT_ROOT, cid + '.json'),
+            # relative to this file's dir: absolute paths break the moment
+            # the repo is cloned or checked out as a worktree elsewhere
+            'out': os.path.join('extracted', 'raw', cid + '.json'),
         })
 
 os.makedirs(OUT_ROOT, exist_ok=True)

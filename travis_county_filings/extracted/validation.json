@@ -231,6 +231,27 @@
   "issues": []
  },
  {
+  "report": "county-judge_andy-brown__2026-07-14_COH-Andy-Brown-July-2026",
+  "status": "PASS",
+  "pages": 112,
+  "a1_pages": 16,
+  "entries": 79,
+  "inkind": 0,
+  "itemized_sum": 12413.0,
+  "unitemized": 0.0,
+  "cover_total": 12413.0,
+  "delta": 0.0,
+  "uncertain_entries": 0,
+  "filer_note": null,
+  "period": [
+   "01/01/2026",
+   "06/30/2026"
+  ],
+  "report_type": "July 15",
+  "correction": false,
+  "issues": []
+ },
+ {
   "report": "pct1_jeff-travillion__2017-01-17_COH",
   "status": "PASS",
   "pages": 8,
@@ -500,6 +521,27 @@
    "12/31/2025"
   ],
   "report_type": "January 15",
+  "correction": false,
+  "issues": []
+ },
+ {
+  "report": "pct1_jeff-travillion__2026-07-22_COH",
+  "status": "PASS",
+  "pages": 92,
+  "a1_pages": 1,
+  "entries": 3,
+  "inkind": 0,
+  "itemized_sum": 6000.46,
+  "unitemized": 0.0,
+  "cover_total": 6000.46,
+  "delta": 0.0,
+  "uncertain_entries": 0,
+  "filer_note": null,
+  "period": [
+   "01/01/2026",
+   "06/30/2026"
+  ],
+  "report_type": "July 15",
   "correction": false,
   "issues": []
  },
@@ -1067,6 +1109,27 @@
    "12/31/2025"
   ],
   "report_type": "January 15",
+  "correction": false,
+  "issues": []
+ },
+ {
+  "report": "pct3_ann-howard__2026-07-17_COH",
+  "status": "PASS",
+  "pages": 46,
+  "a1_pages": 1,
+  "entries": 3,
+  "inkind": 0,
+  "itemized_sum": 550.0,
+  "unitemized": 0.0,
+  "cover_total": 550.0,
+  "delta": 0.0,
+  "uncertain_entries": 0,
+  "filer_note": null,
+  "period": [
+   "01/01/2026",
+   "06/30/2026"
+  ],
+  "report_type": "July 15",
   "correction": false,
   "issues": []
  },

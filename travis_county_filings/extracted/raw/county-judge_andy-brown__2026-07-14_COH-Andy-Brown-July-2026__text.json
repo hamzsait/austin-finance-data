@@ -1,0 +1,1318 @@
+{
+ "chunk": "county-judge_andy-brown__2026-07-14_COH-Andy-Brown-July-2026__text",
+ "pages": [
+  {
+   "page": 1,
+   "type": "OTHER",
+   "label": null
+  },
+  {
+   "page": 2,
+   "type": "COVER1",
+   "filer_name": "Brown, Andy",
+   "report_type": "July 15",
+   "period_from": "01/01/2026",
+   "period_through": "06/30/2026",
+   "office_held": "Travis County Judge",
+   "correction": false
+  },
+  {
+   "page": 3,
+   "type": "COVER2",
+   "total_unitemized_contributions": 0.0,
+   "total_contributions": 12413.0,
+   "total_unitemized_expenditures": 0.0,
+   "total_expenditures": 102450.17,
+   "contribution_balance": 664574.46,
+   "outstanding_loans": 0.0
+  },
+  {
+   "page": 4,
+   "type": "COVER3",
+   "label": "SCHEDULE K"
+  },
+  {
+   "page": 5,
+   "type": "A1",
+   "sch_pos": "1/16",
+   "entries": [
+    {
+     "date": "01/15/2026",
+     "name": "Albert, David",
+     "city_state_zip": "Austin, TX 78741",
+     "amount": 100.0,
+     "occupation": "Austin Community College",
+     "employer": "Professor",
+     "oos_pac": false
+    },
+    {
+     "date": "03/26/2026",
+     "name": "Bryce, James",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 250.0,
+     "occupation": null,
+     "employer": null,
+     "oos_pac": false
+    },
+    {
+     "date": "01/31/2026",
+     "name": "Burek, Susan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "02/28/2026",
+     "name": "Burek, Susan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "03/31/2026",
+     "name": "Burek, Susan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "type": "A1",
+   "sch_pos": "2/16",
+   "entries": [
+    {
+     "date": "04/30/2026",
+     "name": "Burek, Susan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "05/31/2026",
+     "name": "Burek, Susan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/30/2026",
+     "name": "Burek, Susan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/27/2026",
+     "name": "Conyngham, Karen",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 25.0,
+     "occupation": "researcher",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "01/28/2026",
+     "name": "Douglas, Cynthia",
+     "city_state_zip": "Austin, TX 78724",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "type": "A1",
+   "sch_pos": "3/16",
+   "entries": [
+    {
+     "date": "02/28/2026",
+     "name": "Douglas, Cynthia",
+     "city_state_zip": "Austin, TX 78724",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "03/28/2026",
+     "name": "Douglas, Cynthia",
+     "city_state_zip": "Austin, TX 78724",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "04/28/2026",
+     "name": "Douglas, Cynthia",
+     "city_state_zip": "Austin, TX 78724",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "05/28/2026",
+     "name": "Douglas, Cynthia",
+     "city_state_zip": "Austin, TX 78724",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/28/2026",
+     "name": "Douglas, Cynthia",
+     "city_state_zip": "Austin, TX 78724",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "type": "A1",
+   "sch_pos": "4/16",
+   "entries": [
+    {
+     "date": "05/04/2026",
+     "name": "Fuentes Jr., Francisco",
+     "city_state_zip": "Austin, TX 78759",
+     "amount": 1500.0,
+     "occupation": null,
+     "employer": null,
+     "oos_pac": false
+    },
+    {
+     "date": "02/02/2026",
+     "name": "Ganesh, Sai",
+     "city_state_zip": "Austin, TX 78745",
+     "amount": 3000.0,
+     "occupation": null,
+     "employer": null,
+     "oos_pac": false
+    },
+    {
+     "date": "01/02/2026",
+     "name": "Hayes-McMahon, Shellie",
+     "city_state_zip": "Cedar Park, TX 78613",
+     "amount": 75.0,
+     "occupation": "ED",
+     "employer": "PPTV",
+     "oos_pac": false
+    },
+    {
+     "date": "01/31/2026",
+     "name": "Hecker, Marvin",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "02/28/2026",
+     "name": "Hecker, Marvin",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "type": "A1",
+   "sch_pos": "5/16",
+   "entries": [
+    {
+     "date": "03/31/2026",
+     "name": "Hecker, Marvin",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "04/30/2026",
+     "name": "Hecker, Marvin",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "05/31/2026",
+     "name": "Hecker, Marvin",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/30/2026",
+     "name": "Hecker, Marvin",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/27/2026",
+     "name": "Hughes, Michelle",
+     "city_state_zip": "Austin, TX 78723",
+     "amount": 25.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "type": "A1",
+   "sch_pos": "6/16",
+   "entries": [
+    {
+     "date": "04/29/2026",
+     "name": "Jackson Walker LLP PAC",
+     "city_state_zip": "Dallas, TX 75201",
+     "amount": 1000.0,
+     "occupation": null,
+     "employer": null,
+     "oos_pac": false
+    },
+    {
+     "date": "06/30/2026",
+     "name": "Jackson, Benjamin",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 10.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/26/2026",
+     "name": "Jackson, Dee",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 100.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "05/04/2026",
+     "name": "Jauregui, Luis",
+     "city_state_zip": "Austin, TX 78746",
+     "amount": 250.0,
+     "occupation": "Architect",
+     "employer": "Jauregui Inc.",
+     "oos_pac": false
+    },
+    {
+     "date": "06/30/2026",
+     "name": "Longley, Susan",
+     "city_state_zip": "Austin, TX 78703",
+     "amount": 100.0,
+     "occupation": "PR",
+     "employer": "Self",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "type": "A1",
+   "sch_pos": "7/16",
+   "entries": [
+    {
+     "date": "01/18/2026",
+     "name": "Loyd, Matt",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 25.0,
+     "occupation": "Sales",
+     "employer": "Temenos",
+     "oos_pac": false
+    },
+    {
+     "date": "02/18/2026",
+     "name": "Loyd, Matt",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 25.0,
+     "occupation": "Sales",
+     "employer": "Temenos",
+     "oos_pac": false
+    },
+    {
+     "date": "03/18/2026",
+     "name": "Loyd, Matt",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 25.0,
+     "occupation": "Sales",
+     "employer": "Temenos",
+     "oos_pac": false
+    },
+    {
+     "date": "04/18/2026",
+     "name": "Loyd, Matt",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 25.0,
+     "occupation": "Sales",
+     "employer": "Temenos",
+     "oos_pac": false
+    },
+    {
+     "date": "05/18/2026",
+     "name": "Loyd, Matt",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 25.0,
+     "occupation": "Sales",
+     "employer": "Temenos",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "type": "A1",
+   "sch_pos": "8/16",
+   "entries": [
+    {
+     "date": "06/18/2026",
+     "name": "Loyd, Matt",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 25.0,
+     "occupation": "Sales",
+     "employer": "Temenos",
+     "oos_pac": false
+    },
+    {
+     "date": "01/22/2026",
+     "name": "Martin, Rebekah",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 15.0,
+     "occupation": "Business Analyst",
+     "employer": "Centene",
+     "oos_pac": false
+    },
+    {
+     "date": "02/22/2026",
+     "name": "Martin, Rebekah",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 15.0,
+     "occupation": "Business Analyst",
+     "employer": "Centene",
+     "oos_pac": false
+    },
+    {
+     "date": "03/22/2026",
+     "name": "Martin, Rebekah",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 15.0,
+     "occupation": "Business Analyst",
+     "employer": "Centene",
+     "oos_pac": false
+    },
+    {
+     "date": "04/22/2026",
+     "name": "Martin, Rebekah",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 15.0,
+     "occupation": "Business Analyst",
+     "employer": "Centene",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "type": "A1",
+   "sch_pos": "9/16",
+   "entries": [
+    {
+     "date": "05/22/2026",
+     "name": "Martin, Rebekah",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 15.0,
+     "occupation": "Business Analyst",
+     "employer": "Centene",
+     "oos_pac": false
+    },
+    {
+     "date": "06/22/2026",
+     "name": "Martin, Rebekah",
+     "city_state_zip": "Austin, TX 78748",
+     "amount": 15.0,
+     "occupation": "Business Analyst",
+     "employer": "Centene",
+     "oos_pac": false
+    },
+    {
+     "date": "06/26/2026",
+     "name": "McElroy, Jim",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 10.0,
+     "occupation": "Financial Analyst",
+     "employer": "Health and Human Svcs Dept",
+     "oos_pac": false
+    },
+    {
+     "date": "02/04/2026",
+     "name": "McLane, John",
+     "city_state_zip": "Marble Falls, TX 78723",
+     "amount": 5.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "01/10/2026",
+     "name": "Mclaughlin, Alex",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Boats",
+     "employer": "Self",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "type": "A1",
+   "sch_pos": "10/16",
+   "entries": [
+    {
+     "date": "02/10/2026",
+     "name": "Mclaughlin, Alex",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Boats",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "03/10/2026",
+     "name": "Mclaughlin, Alex",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Boats",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "04/15/2026",
+     "name": "Mclaughlin, Alex",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Boats",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "05/16/2026",
+     "name": "Mclaughlin, Alex",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Boats",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "06/10/2026",
+     "name": "Mclaughlin, Alex",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Boats",
+     "employer": "Self",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "type": "A1",
+   "sch_pos": "11/16",
+   "entries": [
+    {
+     "date": "06/30/2026",
+     "name": "Mueller, Monica",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 50.0,
+     "occupation": "Data Analyst",
+     "employer": "Ironclad",
+     "oos_pac": false
+    },
+    {
+     "date": "05/13/2026",
+     "name": "Muniz, Augustina",
+     "city_state_zip": "Round Rock, TX 78681",
+     "amount": 1000.0,
+     "occupation": "Co- owner",
+     "employer": "Muniz Concrete",
+     "oos_pac": false
+    },
+    {
+     "date": "05/13/2026",
+     "name": "Muniz, Jeannette",
+     "city_state_zip": "Austin, TX 78728",
+     "amount": 1000.0,
+     "occupation": "Construction",
+     "employer": "Jenny Rodriguez",
+     "oos_pac": false
+    },
+    {
+     "date": "05/13/2026",
+     "name": "Muniz, Johnathan",
+     "city_state_zip": "Austin, TX 78758",
+     "amount": 1000.0,
+     "occupation": "Controller",
+     "employer": "Muniz Concrete & Contracting Inc.",
+     "oos_pac": false
+    },
+    {
+     "date": "05/13/2026",
+     "name": "Muniz, Jose",
+     "city_state_zip": "Austin, TX 78702",
+     "amount": 1000.0,
+     "occupation": "Project Mngr",
+     "employer": "Muniz Inc",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "type": "A1",
+   "sch_pos": "12/16",
+   "entries": [
+    {
+     "date": "01/02/2026",
+     "name": "Pennington, Gloria",
+     "city_state_zip": "Austin, TX 78756",
+     "amount": 25.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "01/30/2026",
+     "name": "Peters, Hannah",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Consultant",
+     "employer": "WE Communications",
+     "oos_pac": false
+    },
+    {
+     "date": "02/28/2026",
+     "name": "Peters, Hannah",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Consultant",
+     "employer": "WE Communications",
+     "oos_pac": false
+    },
+    {
+     "date": "03/30/2026",
+     "name": "Peters, Hannah",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Consultant",
+     "employer": "WE Communications",
+     "oos_pac": false
+    },
+    {
+     "date": "04/30/2026",
+     "name": "Peters, Hannah",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Consultant",
+     "employer": "WE Communications",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "type": "A1",
+   "sch_pos": "13/16",
+   "entries": [
+    {
+     "date": "05/30/2026",
+     "name": "Peters, Hannah",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Consultant",
+     "employer": "WE Communications",
+     "oos_pac": false
+    },
+    {
+     "date": "06/30/2026",
+     "name": "Peters, Hannah",
+     "city_state_zip": "Austin, TX 78757",
+     "amount": 50.0,
+     "occupation": "Consultant",
+     "employer": "WE Communications",
+     "oos_pac": false
+    },
+    {
+     "date": "01/01/2026",
+     "name": "Rentfro, Joe",
+     "city_state_zip": "Dripping Springs, TX 78620",
+     "amount": 500.0,
+     "occupation": "Real Estate Developer",
+     "employer": "Arete Thomas Ranch",
+     "oos_pac": false
+    },
+    {
+     "date": "06/26/2026",
+     "name": "Reynolds, Joseph",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 50.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "06/26/2026",
+     "name": "Richardson, Judy",
+     "city_state_zip": "Austin, TX 78749",
+     "amount": 50.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "type": "A1",
+   "sch_pos": "14/16",
+   "entries": [
+    {
+     "date": "06/26/2026",
+     "name": "Rowe, Vivian",
+     "city_state_zip": "Austin, TX 78721",
+     "amount": 50.0,
+     "occupation": "Not Employed",
+     "employer": "Not Employed",
+     "oos_pac": false
+    },
+    {
+     "date": "01/01/2026",
+     "name": "Switzer, Brittany",
+     "city_state_zip": "Austin, TX 78704",
+     "amount": 3.0,
+     "occupation": "Consultant",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "02/01/2026",
+     "name": "Switzer, Brittany",
+     "city_state_zip": "Austin, TX 78704",
+     "amount": 3.0,
+     "occupation": "Consultant",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "03/01/2026",
+     "name": "Switzer, Brittany",
+     "city_state_zip": "Austin, TX 78704",
+     "amount": 3.0,
+     "occupation": "Consultant",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "04/01/2026",
+     "name": "Switzer, Brittany",
+     "city_state_zip": "Austin, TX 78704",
+     "amount": 3.0,
+     "occupation": "Consultant",
+     "employer": "Self",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "type": "A1",
+   "sch_pos": "15/16",
+   "entries": [
+    {
+     "date": "05/01/2026",
+     "name": "Switzer, Brittany",
+     "city_state_zip": "Austin, TX 78704",
+     "amount": 3.0,
+     "occupation": "Consultant",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "06/01/2026",
+     "name": "Switzer, Brittany",
+     "city_state_zip": "Austin, TX 78704",
+     "amount": 3.0,
+     "occupation": "Consultant",
+     "employer": "Self",
+     "oos_pac": false
+    },
+    {
+     "date": "06/29/2026",
+     "name": "Wallace, Bill",
+     "city_state_zip": "Tyler, TX 75701",
+     "amount": 50.0,
+     "occupation": "Capacity Building",
+     "employer": "Nonprofit",
+     "oos_pac": false
+    },
+    {
+     "date": "01/24/2026",
+     "name": "Wallace, Katharine",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 25.0,
+     "occupation": "office manager",
+     "employer": "Lake flato",
+     "oos_pac": false
+    },
+    {
+     "date": "02/24/2026",
+     "name": "Wallace, Katharine",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 25.0,
+     "occupation": "office manager",
+     "employer": "Lake flato",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "type": "A1",
+   "sch_pos": "16/16",
+   "entries": [
+    {
+     "date": "03/24/2026",
+     "name": "Wallace, Katharine",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 25.0,
+     "occupation": "office manager",
+     "employer": "Lake flato",
+     "oos_pac": false
+    },
+    {
+     "date": "04/24/2026",
+     "name": "Wallace, Katharine",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 25.0,
+     "occupation": "office manager",
+     "employer": "Lake flato",
+     "oos_pac": false
+    },
+    {
+     "date": "05/24/2026",
+     "name": "Wallace, Katharine",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 25.0,
+     "occupation": "office manager",
+     "employer": "Lake flato",
+     "oos_pac": false
+    },
+    {
+     "date": "06/24/2026",
+     "name": "Wallace, Katharine",
+     "city_state_zip": "Austin, TX 78731",
+     "amount": 25.0,
+     "occupation": "office manager",
+     "employer": "Lake flato",
+     "oos_pac": false
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 22,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 23,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 24,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 25,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 26,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 27,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 28,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 29,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 30,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 31,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 32,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 33,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 34,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 35,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 36,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 37,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 38,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 39,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 40,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 41,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 42,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 43,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 44,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 45,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 46,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 47,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 48,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 49,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 50,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 51,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 52,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 53,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 54,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 55,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 56,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 57,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 58,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 59,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 60,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 61,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 62,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 63,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 64,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 65,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 66,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 67,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 68,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 69,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 70,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 71,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 72,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 73,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 74,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 75,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 76,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 77,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 78,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 79,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 80,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 81,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 82,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 83,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 84,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 85,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 86,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 87,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 88,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 89,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 90,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 91,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 92,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 93,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 94,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 95,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 96,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 97,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 98,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 99,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 100,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 101,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 102,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 103,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 104,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 105,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 106,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 107,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 108,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 109,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 110,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 111,
+   "type": "OTHER",
+   "label": "SCHEDULE P"
+  },
+  {
+   "page": 112,
+   "type": "OTHER",
+   "label": "SCHEDULE K"
+  }
+ ]
+}

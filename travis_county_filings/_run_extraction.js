@@ -8,9 +8,12 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = __dirname;
-const PY = 'C:\\Users\\Hamza Sait\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe';
-const PAGES_ROOT = 'C:\\Users\\HAMZAS~1\\AppData\\Local\\Temp\\claude\\C--Users-Hamza-Sait-Electoral-austin-finance-data\\bca7901c-5f3c-4d08-a629-e850b78c00ac\\scratchpad\\pages';
-const POOL = 4;
+// Configurable so a refresh run isn't tied to whatever scratchpad the previous
+// run happened to use: PAGES_ROOT / TRAVIS_PY / TRAVIS_TOTAL_PAGES env vars.
+const PY = process.env.TRAVIS_PY ||
+  'C:\\Users\\Hamza Sait\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe';
+const PAGES_ROOT = process.env.PAGES_ROOT || path.join(ROOT, '_pages');
+const POOL = Number(process.env.TRAVIS_POOL || 4);
 const JOB_TIMEOUT_MS = 12 * 60 * 1000;
 const MAX_TRIES = 3;
 const FAST_FAIL_S = 30;       // failure under this = infra problem, not content
@@ -48,7 +51,10 @@ function limitPause() {
   }
   return pausePromise;
 }
-const TOTAL_PAGES_EXPECTED = 3692; // 3694 minus ACTA(1) + Conflicts(1) skips
+// Pages this run expects to see chunked before it stops waiting on the renderer.
+// Defaults to whatever the current chunk plan already covers (i.e. rendering is
+// assumed done); set TRAVIS_TOTAL_PAGES when running alongside a live render.
+const TOTAL_PAGES_EXPECTED = Number(process.env.TRAVIS_TOTAL_PAGES || 0);
 
 const failures = {};
 

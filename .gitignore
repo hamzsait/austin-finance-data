@@ -41,15 +41,15 @@ mobile_*.png
 qadrizohaib_data.json
 qadrizohaib_all_donations.json
 
-# Travis County source PDFs (232 MB — re-downloadable via the EasyVote API,
-# see travis_county_filings/README.md; extracted CSVs/JSONs ARE committed)
-travis_county_filings/county-judge_andy-brown/
-travis_county_filings/pct1_jeff-travillion/
-travis_county_filings/pct2_brigid-shea/
-travis_county_filings/pct3_ann-howard/
-travis_county_filings/pct4_margaret-gomez/
-travis_county_filings/pct4_george-morales/
-travis_county_filings/pct4_george-morales-constable/
+# Travis County source PDFs (re-downloadable via the EasyVote API — run
+# travis_county_filings/_fetch_filings.py; extracted CSVs/JSONs ARE committed).
+# One folder per filer: <precinct-or-office>_<first-last>/
+travis_county_filings/county-judge_*/
+travis_county_filings/pct1_*/
+travis_county_filings/pct2_*/
+travis_county_filings/pct3_*/
+travis_county_filings/pct4_*/
+!travis_county_filings/extracted/
 
 # OS
 .DS_Store

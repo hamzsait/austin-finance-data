@@ -11,6 +11,17 @@ import csv, json, os, re
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+
+def chunk_out(c):
+    """Resolve a chunk's output path against this directory.
+
+    Historically _chunks.json stored absolute paths, which silently broke
+    validation whenever the repo moved (a worktree checkout elsewhere made
+    every report look 'not extracted yet'). Accept both forms.
+    """
+    p = c['out']
+    return p if os.path.isabs(p) else os.path.join(ROOT, p)
+
 RAW = os.path.join(ROOT, 'extracted', 'raw')
 OUT = os.path.join(ROOT, 'extracted')
 
@@ -53,7 +64,7 @@ for (official, report), cs in sorted(by_report.items()):
         continue
     rows = []
     for c in cs:
-        data = json.load(open(c['out'], encoding='utf-8-sig'))
+        data = json.load(open(chunk_out(c), encoding='utf-8-sig'))
         for p in data['pages']:
             if p['type'] not in ('A1', 'A2'):
                 continue
