@@ -112,14 +112,14 @@
   .social-band h3{font-family:"Anton",system-ui;font-size:clamp(22px,2.2vw,30px);letter-spacing:-.01em}
   .social-band .lead a{font-size:14px;font-weight:600;color:var(--accent);text-decoration:none}
   .social-band .lead a:hover{color:var(--accent-hover)}
-  .ig-rail{position:relative;overflow:hidden}
-  .ig-grid{display:flex;width:max-content;padding-bottom:4px;animation:igSlide var(--ig-dur,45s) linear infinite}
-  .ig-rail:hover .ig-grid{animation-play-state:paused}
-  .ig-grid > *{flex:0 0 228px;margin-right:16px}
-  @keyframes igSlide{to{transform:translateX(-50%)}}
-  @media (max-width:820px){.ig-grid > *{flex:0 0 170px}}
-  @media (max-width:680px){.ig-grid > *{flex:0 0 140px}}
-  @media (prefers-reduced-motion:reduce){.ig-grid{animation:none}.ig-rail{overflow-x:auto}}
+  .ig-rail{position:relative}
+  .ig-grid{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x proximity;scroll-behavior:smooth;
+        padding-bottom:10px;scrollbar-width:thin;scrollbar-color:rgba(24,49,79,.28) transparent}
+  .ig-grid::-webkit-scrollbar{height:6px}
+  .ig-grid::-webkit-scrollbar-track{background:transparent}
+  .ig-grid::-webkit-scrollbar-thumb{background:rgba(24,49,79,.28);border-radius:3px}
+  .ig-grid > *{flex:0 0 calc((100% - 80px)/6);scroll-snap-align:start}
+  @media (max-width:820px){.ig-grid > *{flex:0 0 calc((100% - 32px)/3)}}
   .ig-cell{position:relative;display:block;aspect-ratio:4/5;overflow:hidden;border-radius:4px;background:#eef2f6;
         background-image:repeating-linear-gradient(135deg,#e3e9f0 0 10px,#eef2f6 10px 20px)}
   .ig-cell img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
@@ -425,29 +425,15 @@
 <script>
 (function(){
   var grid = document.getElementById('igGrid');
-  if (!grid) return;
-  function marquee(){
-    if (grid.dataset.marquee) return;
-    grid.dataset.marquee = '1';
-    var n = grid.children.length;
-    if (!n) return;
-    grid.innerHTML += grid.innerHTML.replace(/<a /g, '<a aria-hidden="true" tabindex="-1" ');
-    grid.style.setProperty('--ig-dur', (n * 4) + 's');
-  }
-  if (window.fetch) {
-    fetch('/assets/ig/ig.json').then(function(r){ return r.json(); }).then(function(d){
-      if (d && d.posts && d.posts.length) {
-        var esc = function(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); };
-        grid.innerHTML = d.posts.map(function(p){
-          return '<a class="ig-cell" href="' + esc(p.href) + '" target="_blank" rel="noopener">' +
-                 '<img src="' + esc(p.image) + '" alt="' + esc(p.alt) + '"></a>';
-        }).join('');
-      }
-      marquee();
-    }).catch(marquee);
-  } else {
-    marquee();
-  }
+  if (!grid || !window.fetch) return;
+  fetch('/assets/ig/ig.json').then(function(r){ return r.json(); }).then(function(d){
+    if (!d || !d.posts || !d.posts.length) return;
+    var esc = function(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); };
+    grid.innerHTML = d.posts.map(function(p){
+      return '<a class="ig-cell" href="' + esc(p.href) + '" target="_blank" rel="noopener">' +
+             '<img src="' + esc(p.image) + '" alt="' + esc(p.alt) + '" loading="lazy"></a>';
+    }).join('');
+  }).catch(function(){});
 })();
 </script>
 <script>
