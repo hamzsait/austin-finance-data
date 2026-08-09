@@ -503,9 +503,14 @@
   }
   function attachHold(btn, dir){
     if (!btn) return;
-    var raf, holding = false, last = null;
+    var raf, holding = false, last = null, held = 0;
     function loop(ts){
-      if (last !== null) grid.scrollLeft += dir * 0.11 * (ts - last);
+      if (last !== null) {
+        var dt = ts - last;
+        held += dt;
+        var speed = 0.3 + Math.min(1, held / 2000) * 0.25;
+        grid.scrollLeft += dir * speed * dt;
+      }
       last = ts;
       if (holding) raf = requestAnimationFrame(loop);
     }
@@ -519,7 +524,7 @@
       if (btn.disabled) return;
       e.preventDefault();
       try { btn.setPointerCapture(e.pointerId); } catch(err){}
-      holding = true; last = null;
+      holding = true; last = null; held = 0;
       btn.classList.add('holding');
       cancelAnimationFrame(anim);
       raf = requestAnimationFrame(loop);
