@@ -24,7 +24,7 @@
     },
     {
      "label": "Consulting / PR",
-     "amt": "$53K",
+     "amt": "$54K",
      "w": 29
     },
     {
@@ -85,7 +85,7 @@
    "href": "/sanantonio/kaur/",
    "raised": "$555K",
    "donors": "831",
-   "empPct": "70.8%",
+   "empPct": "71.6%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -94,17 +94,17 @@
     },
     {
      "label": "Not Employed",
-     "amt": "$73K",
-     "w": 94
+     "amt": "$70K",
+     "w": 89
     },
     {
      "label": "Legal",
-     "amt": "$57K",
-     "w": 73
+     "amt": "$59K",
+     "w": 76
     },
     {
      "label": "Healthcare",
-     "amt": "$39K",
+     "amt": "$38K",
      "w": 49
     }
    ]
@@ -121,27 +121,27 @@
    "href": "/sanantonio/mckeerodriguez/",
    "raised": "$294K",
    "donors": "2,262",
-   "empPct": "60.0%",
+   "empPct": "59.9%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$56K",
+     "amt": "$57K",
      "w": 100
     },
     {
      "label": "Government",
      "amt": "$33K",
-     "w": 58
+     "w": 57
     },
     {
      "label": "Education",
      "amt": "$28K",
-     "w": 51
+     "w": 50
     },
     {
      "label": "Legal",
      "amt": "$24K",
-     "w": 42
+     "w": 41
     }
    ]
   },
@@ -157,27 +157,27 @@
    "href": "/sanantonio/viagran/",
    "raised": "$231K",
    "donors": "361",
-   "empPct": "57.0%",
+   "empPct": "55.6%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$34K",
+     "amt": "$32K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$26K",
-     "w": 75
+     "amt": "$28K",
+     "w": 85
+    },
+    {
+     "label": "Self-Employed",
+     "amt": "$21K",
+     "w": 66
     },
     {
      "label": "Legal",
      "amt": "$21K",
-     "w": 62
-    },
-    {
-     "label": "Self-Employed",
-     "amt": "$19K",
-     "w": 56
+     "w": 66
     }
    ]
   },
@@ -193,7 +193,7 @@
    "href": "/sanantonio/mungia/",
    "raised": "$104K",
    "donors": "310",
-   "empPct": "69.7%",
+   "empPct": "69.5%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -203,17 +203,17 @@
     {
      "label": "Real Estate",
      "amt": "$13K",
-     "w": 85
+     "w": 84
     },
     {
      "label": "Government",
      "amt": "$11K",
-     "w": 74
+     "w": 73
     },
     {
      "label": "Consulting / PR",
      "amt": "$8K",
-     "w": 51
+     "w": 52
     }
    ]
   },
@@ -229,27 +229,27 @@
    "href": "/sanantonio/castillo/",
    "raised": "$179K",
    "donors": "1,324",
-   "empPct": "60.5%",
+   "empPct": "60.1%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$27K",
+     "amt": "$28K",
      "w": 100
     },
     {
      "label": "Education",
      "amt": "$22K",
-     "w": 82
+     "w": 80
     },
     {
      "label": "Nonprofit / Advocacy",
      "amt": "$18K",
-     "w": 66
+     "w": 65
     },
     {
      "label": "Government",
      "amt": "$10K",
-     "w": 38
+     "w": 37
     }
    ]
   },
@@ -265,7 +265,7 @@
    "href": "/sanantonio/gavito/",
    "raised": "$391K",
    "donors": "647",
-   "empPct": "67.5%",
+   "empPct": "67.3%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -274,18 +274,18 @@
     },
     {
      "label": "Legal",
-     "amt": "$58K",
+     "amt": "$59K",
      "w": 96
     },
     {
      "label": "Real Estate",
-     "amt": "$33K",
-     "w": 54
+     "amt": "$32K",
+     "w": 53
     },
     {
      "label": "Healthcare",
      "amt": "$29K",
-     "w": 48
+     "w": 47
     }
    ]
   },
@@ -298,7 +298,32 @@
    "section": "council",
    "seat": "District 8",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/gonzalez/",
+   "raised": "$229K",
+   "donors": "546",
+   "empPct": "63.4%",
+   "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$34K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$33K",
+     "w": 97
+    },
+    {
+     "label": "Self-Employed",
+     "amt": "$22K",
+     "w": 65
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$19K",
+     "w": 56
+    }
+   ]
   },
   {
    "slug": "spears",
