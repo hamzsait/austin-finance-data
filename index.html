@@ -503,9 +503,9 @@
   }
   function attachHold(btn, dir){
     if (!btn) return;
-    var raf, holding = false, t0 = 0, last = null;
+    var raf, holding = false, last = null;
     function loop(ts){
-      if (last !== null) grid.scrollLeft += dir * 0.22 * (ts - last);
+      if (last !== null) grid.scrollLeft += dir * 0.11 * (ts - last);
       last = ts;
       if (holding) raf = requestAnimationFrame(loop);
     }
@@ -514,13 +514,12 @@
       holding = false; last = null;
       btn.classList.remove('holding');
       cancelAnimationFrame(raf);
-      if (performance.now() - t0 < 250) nudge(dir);
     }
     btn.addEventListener('pointerdown', function(e){
       if (btn.disabled) return;
       e.preventDefault();
       try { btn.setPointerCapture(e.pointerId); } catch(err){}
-      holding = true; t0 = performance.now(); last = null;
+      holding = true; last = null;
       btn.classList.add('holding');
       cancelAnimationFrame(anim);
       raf = requestAnimationFrame(loop);
@@ -534,24 +533,37 @@
   attachHold(prev, -1);
   attachHold(next, 1);
   if (track) {
-    var dragging = false;
+    var dragging = false, dragTarget = 0, dragRaf;
     function seek(e){
       var r = track.getBoundingClientRect();
       var thumbW = bar.offsetWidth;
       var frac = (e.clientX - r.left - thumbW / 2) / (r.width - thumbW);
       frac = Math.max(0, Math.min(1, frac));
-      grid.scrollLeft = frac * (grid.scrollWidth - grid.clientWidth);
+      dragTarget = frac * (grid.scrollWidth - grid.clientWidth);
+    }
+    function follow(){
+      var d = dragTarget - grid.scrollLeft;
+      if (Math.abs(d) > 0.5) grid.scrollLeft += reduced ? d : d * 0.22;
+      if (dragging || Math.abs(d) > 0.5) dragRaf = requestAnimationFrame(follow);
     }
     track.addEventListener('pointerdown', function(e){
       dragging = true;
       track.classList.add('dragging');
       try { track.setPointerCapture(e.pointerId); } catch(err){}
       cancelAnimationFrame(anim);
+      cancelAnimationFrame(dragRaf);
+      grid.style.scrollSnapType = 'none';
       seek(e);
+      dragRaf = requestAnimationFrame(follow);
       e.preventDefault();
     });
     track.addEventListener('pointermove', function(e){ if (dragging) seek(e); });
-    function endDrag(){ dragging = false; track.classList.remove('dragging'); }
+    function endDrag(){
+      if (!dragging) return;
+      dragging = false;
+      track.classList.remove('dragging');
+      grid.style.scrollSnapType = '';
+    }
     track.addEventListener('pointerup', endDrag);
     track.addEventListener('pointercancel', endDrag);
   }
