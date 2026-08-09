@@ -10,11 +10,11 @@
    "href": "/sanantonio/jones/",
    "raised": "$632K",
    "donors": "3,038",
-   "empPct": "57.0%",
+   "empPct": "57.1%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$183K",
+     "amt": "$182K",
      "w": 100
     },
     {
@@ -85,7 +85,7 @@
    "href": "/sanantonio/kaur/",
    "raised": "$555K",
    "donors": "831",
-   "empPct": "71.6%",
+   "empPct": "71.7%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -121,17 +121,17 @@
    "href": "/sanantonio/mckeerodriguez/",
    "raised": "$294K",
    "donors": "2,262",
-   "empPct": "59.9%",
+   "empPct": "60.1%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$57K",
+     "amt": "$56K",
      "w": 100
     },
     {
      "label": "Government",
      "amt": "$33K",
-     "w": 57
+     "w": 58
     },
     {
      "label": "Education",
@@ -141,7 +141,7 @@
     {
      "label": "Legal",
      "amt": "$24K",
-     "w": 41
+     "w": 42
     }
    ]
   },
@@ -157,27 +157,27 @@
    "href": "/sanantonio/viagran/",
    "raised": "$231K",
    "donors": "361",
-   "empPct": "55.6%",
+   "empPct": "56.6%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$32K",
+     "amt": "$33K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$28K",
-     "w": 85
-    },
-    {
-     "label": "Self-Employed",
-     "amt": "$21K",
-     "w": 66
+     "amt": "$26K",
+     "w": 78
     },
     {
      "label": "Legal",
      "amt": "$21K",
-     "w": 66
+     "w": 65
+    },
+    {
+     "label": "Self-Employed",
+     "amt": "$21K",
+     "w": 64
     }
    ]
   },
@@ -202,8 +202,8 @@
     },
     {
      "label": "Real Estate",
-     "amt": "$13K",
-     "w": 84
+     "amt": "$12K",
+     "w": 78
     },
     {
      "label": "Government",
@@ -229,27 +229,27 @@
    "href": "/sanantonio/castillo/",
    "raised": "$179K",
    "donors": "1,324",
-   "empPct": "60.1%",
+   "empPct": "61.0%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$28K",
+     "amt": "$26K",
      "w": 100
     },
     {
      "label": "Education",
      "amt": "$22K",
-     "w": 80
+     "w": 85
     },
     {
      "label": "Nonprofit / Advocacy",
      "amt": "$18K",
-     "w": 65
+     "w": 68
     },
     {
      "label": "Government",
      "amt": "$10K",
-     "w": 37
+     "w": 39
     }
    ]
   },
@@ -265,27 +265,27 @@
    "href": "/sanantonio/gavito/",
    "raised": "$391K",
    "donors": "647",
-   "empPct": "67.3%",
+   "empPct": "68.0%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$61K",
+     "amt": "$59K",
      "w": 100
     },
     {
      "label": "Legal",
      "amt": "$59K",
-     "w": 96
+     "w": 99
     },
     {
      "label": "Real Estate",
      "amt": "$32K",
-     "w": 53
+     "w": 54
     },
     {
      "label": "Healthcare",
      "amt": "$29K",
-     "w": 47
+     "w": 49
     }
    ]
   },
@@ -301,27 +301,27 @@
    "href": "/sanantonio/gonzalez/",
    "raised": "$229K",
    "donors": "546",
-   "empPct": "63.4%",
+   "empPct": "64.2%",
    "topGroups": [
-    {
-     "label": "Not Employed",
-     "amt": "$34K",
-     "w": 100
-    },
     {
      "label": "Legal",
      "amt": "$33K",
-     "w": 97
+     "w": 100
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$33K",
+     "w": 100
     },
     {
      "label": "Self-Employed",
-     "amt": "$22K",
-     "w": 65
+     "amt": "$21K",
+     "w": 66
     },
     {
      "label": "Consulting / PR",
      "amt": "$19K",
-     "w": 56
+     "w": 58
     }
    ]
   },
@@ -334,7 +334,32 @@
    "section": "council",
    "seat": "District 9",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/spears/",
+   "raised": "$157K",
+   "donors": "318",
+   "empPct": "72.4%",
+   "topGroups": [
+    {
+     "label": "Not Employed",
+     "amt": "$24K",
+     "w": 100
+    },
+    {
+     "label": "Real Estate",
+     "amt": "$22K",
+     "w": 89
+    },
+    {
+     "label": "Government",
+     "amt": "$21K",
+     "w": 88
+    },
+    {
+     "label": "Legal",
+     "amt": "$18K",
+     "w": 73
+    }
+   ]
   },
   {
    "slug": "whyte",
