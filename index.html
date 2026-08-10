@@ -332,20 +332,19 @@
     <h2>Welcome to <strong>decode</strong>.</h2>
     <div class="prose">
       <p>Reading the signal under the noise.</p>
-      <p>We pull every filing, match each dollar to the office and the donor, and publish clear, sourced scorecards. No party money, no corporate money — just the record, decoded seat by seat so you can see who is paying for the politics where you live.</p>
+      <p>Every dollar given to a campaign carries a name, an employer, a date, a public record almost nobody reads. We lay them out plain, so you can see for yourself who is paying for power in your city.</p>
     </div>
     <div class="pills">
-      <button class="pill" data-k="about" aria-selected="true">About decode</button>
-      <button class="pill" data-k="races">2026 Austin Races</button>
+      <button class="pill" data-k="races" aria-selected="true">2026 Austin Races</button>
       <button class="pill" data-k="austin">Austin Campaign Finance</button>
       <button class="pill" data-k="sa">San Antonio Finance</button>
     </div>
     <div class="panel">
       <div class="txt">
-        <p class="cat" id="pnCat">About decode</p>
-        <h3 id="pnHead">The money leaves a record. We read it.</h3>
-        <p class="body" id="pnBody">Every dollar given to a campaign carries a name, an employer, a date, a public record almost nobody reads. We lay them out plain, so you can see for yourself who is paying for power in your city.</p>
-        <a class="readmore" href="/austin/" hidden><span id="pnLink">Read more</span></a>
+        <p class="cat" id="pnCat">2026 Austin Races</p>
+        <h3 id="pnHead">Eleven seats, one scoreboard.</h3>
+        <p class="body" id="pnBody">Mayor plus ten council districts, tracked from the first filing to election day. Each race card shows every declared candidate, what they have raised, and how much of it came from outside the district.</p>
+        <a class="readmore" href="/austin/"><span id="pnLink">See the 2026 races</span></a>
       </div>
       <figure><div class="chartwrap" id="pnChart" hidden></div><img id="pnImg" src="assets/about-decode-v4.png" alt="Texas Capitol collaged with hundred-dollar bills" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block"></figure>
     </div>
@@ -606,9 +605,6 @@
 <script>
 (function(){
   var P = {
-    about: {cat:'About decode', head:'The money leaves a record. We read it.',
-      body:'Every dollar given to a campaign carries a name, an employer, a date, a public record almost nobody reads. We lay them out plain, so you can see for yourself who is paying for power in your city.',
-      link:'', href:''},
     races: {cat:'2026 Austin Races', head:'Eleven seats, one scoreboard.',
       body:'Mayor plus ten council districts, tracked from the first filing to election day. Each race card shows every declared candidate, what they have raised, and how much of it came from outside the district.',
       link:'See the 2026 races', href:'/austin/'},
@@ -691,6 +687,7 @@
       }).join('') + '</div></div><p class="src">' + c.src + '</p>';
     wrap.hidden = false; if (img) img.style.display = 'none';
   };
+  window.__renderPanelChart('races');
 })();
 </script>
 </body>
