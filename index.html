@@ -491,6 +491,7 @@
     var target = Math.max(0, Math.min(max, Math.round((from + dir * step) / step) * step));
     if (reduced) { grid.scrollLeft = target; return; }
     cancelAnimationFrame(anim);
+    grid.style.scrollSnapType = 'none';
     var start = null, dur = 420;
     function ease(t){ return t < .5 ? 4*t*t*t : 1 - Math.pow(-2*t + 2, 3)/2; }
     function frame(ts){
@@ -498,19 +499,15 @@
       var t = Math.min(1, (ts - start) / dur);
       grid.scrollLeft = from + (target - from) * ease(t);
       if (t < 1) anim = requestAnimationFrame(frame);
+      else grid.style.scrollSnapType = '';
     }
     anim = requestAnimationFrame(frame);
   }
   function attachHold(btn, dir){
     if (!btn) return;
-    var raf, holding = false, last = null, held = 0, t0 = 0;
+    var raf, holding = false, last = null;
     function loop(ts){
-      if (last !== null) {
-        var dt = ts - last;
-        held += dt;
-        var speed = 1.2 + Math.min(1, held / 1500) * 0.8;
-        grid.scrollLeft += dir * speed * dt;
-      }
+      if (last !== null) grid.scrollLeft += dir * 0.6 * (ts - last);
       last = ts;
       if (holding) raf = requestAnimationFrame(loop);
     }
@@ -518,15 +515,16 @@
       if (!holding) return;
       holding = false; last = null;
       btn.classList.remove('holding');
+      grid.style.scrollSnapType = '';
       cancelAnimationFrame(raf);
-      if (performance.now() - t0 < 250) nudge(dir);
     }
     btn.addEventListener('pointerdown', function(e){
       if (btn.disabled) return;
       e.preventDefault();
       try { btn.setPointerCapture(e.pointerId); } catch(err){}
-      holding = true; last = null; held = 0; t0 = performance.now();
+      holding = true; last = null;
       btn.classList.add('holding');
+      grid.style.scrollSnapType = 'none';
       cancelAnimationFrame(anim);
       raf = requestAnimationFrame(loop);
     });
