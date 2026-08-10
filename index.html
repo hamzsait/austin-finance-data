@@ -613,7 +613,7 @@
       body:'Real estate is the number one donor industry for most sitting members. Totals range from $8,229 across 37 contributions to $98,306 across 289 — every number traced to the filing it came from.',
       link:'Browse Austin filings', href:'/austin/'},
     sa: {cat:'San Antonio Finance', head:'The same method, one city over.',
-      body:'More than $2.7 million in San Antonio money, decoded — the mayor and every council member matched donor by donor, so the two cities can be read side by side.',
+      body:'More than $2.7 million in San Antonio money, decoded — the mayor and eight sitting council members matched donor by donor, so the two cities can be read side by side.',
       link:'Browse San Antonio filings', href:'/sanantonio/'}
   };
   var pills = document.querySelectorAll('.pills .pill');
@@ -648,14 +648,13 @@
   var C = {
     races: {type:'bar', title:'Which industries are funding the <mark>2026 races</mark>', sub:'Donations to the 16 candidates with contributions on file across the five council races, counted from the start of each campaign’s cycle — January 2023 for sitting members — through June 30, 2026.',
       src:'Source: decode analysis of Austin City Clerk filings',
-      rows:[['Real Estate',185800,'#EC3A22'],['Technology',84127,'#18314f'],['Nonprofit / Advocacy',68123,'#18314f'],['Government',67938,'#18314f'],['Legal',66507,'#18314f'],['Not Employed',58583,'#18314f'],['Healthcare',55994,'#18314f']]},
-    austin: {title:'Who funds the <mark>City Council</mark>', sub:'Share of money raised by sitting council members, grouped by donor industry.',
+      rows:[['Real Estate',185800,'#EC3A22'],['Technology',84127,'#18314f'],['Nonprofit / Advocacy',70923,'#18314f'],['Government',68438,'#18314f'],['Legal',67457,'#18314f'],['Not Employed',60838,'#18314f'],['Healthcare',55994,'#18314f']]},
+    austin: {type:'bar', title:'Which industries fund the <mark>Austin City Council</mark>', sub:'Every contribution on file for the mayor and ten sitting council members — $5.8 million through the June 30, 2026 filings, each dollar matched to a donor and their industry.',
       src:'Source: decode analysis of Austin City Clerk filings',
-      rows:[['Real estate — 38%',38,'#EC3A22'],['Law & lobbying — 19%',19,'#3FA9F5'],['Tech — 16%',16,'#18314f'],['Everyone else — 27%',27,'#d8d8d8']]},
-    sa: {type:'bar', title:'Who has raised the most at <mark>San Antonio City Hall</mark>', sub:'Mayor and council members ranked by total raised, every dollar matched donor by donor to City Clerk filings.',
+      rows:[['Real Estate',1166963,'#EC3A22'],['Not Employed',638072,'#18314f'],['Legal',535281,'#18314f'],['Technology',374634,'#18314f'],['Self-Employed',330391,'#18314f'],['Consulting / PR',315926,'#18314f'],['Finance',283913,'#18314f']]},
+    sa: {type:'bar', title:'Which industries fund <mark>San Antonio City Hall</mark>', sub:'Every contribution on file for the mayor and the eight sitting council members decoded so far — $2.7 million through the June 30, 2026 filings.',
       src:'Source: decode analysis of San Antonio City Clerk filings',
-      legend:[['Mayor','#EC3A22'],['D1','#F5A623'],['D7','#3FA9F5'],['D2','#8FA8C2'],['D3','#18314f']],
-      rows:[['Gina Ortiz Jones · Mayor',632319,'#EC3A22'],['Sukh Kaur · D1',554816,'#F5A623'],['Marina Alderete Gavito · D7',390632,'#3FA9F5'],['Jalen McKee-Rodriguez · D2',294412,'#8FA8C2'],['Phyllis Viagran · D3',231197,'#18314f']]}
+      rows:[['Not Employed',480479,'#EC3A22'],['Legal',296682,'#18314f'],['Real Estate',221711,'#18314f'],['Consulting / PR',169190,'#18314f'],['Government',155251,'#18314f'],['Education',152387,'#18314f'],['Healthcare',151757,'#18314f']]}
   };
   var wrap = document.getElementById('pnChart'), img = document.getElementById('pnImg');
   function money(n){ return '$' + n.toLocaleString('en-US'); }
