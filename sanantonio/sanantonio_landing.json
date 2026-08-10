@@ -85,27 +85,27 @@
    "href": "/sanantonio/kaur/",
    "raised": "$555K",
    "donors": "831",
-   "empPct": "71.7%",
+   "empPct": "71.4%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$78K",
+     "amt": "$77K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$70K",
-     "w": 89
+     "amt": "$71K",
+     "w": 92
     },
     {
      "label": "Legal",
      "amt": "$59K",
-     "w": 76
+     "w": 77
     },
     {
      "label": "Healthcare",
      "amt": "$38K",
-     "w": 49
+     "w": 50
     }
    ]
   },
@@ -140,8 +140,8 @@
     },
     {
      "label": "Legal",
-     "amt": "$24K",
-     "w": 42
+     "amt": "$23K",
+     "w": 41
     }
    ]
   },
@@ -161,23 +161,23 @@
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$33K",
+     "amt": "$34K",
      "w": 100
     },
     {
      "label": "Not Employed",
      "amt": "$26K",
-     "w": 78
+     "w": 76
     },
     {
      "label": "Legal",
      "amt": "$21K",
-     "w": 65
+     "w": 63
     },
     {
      "label": "Self-Employed",
      "amt": "$21K",
-     "w": 64
+     "w": 62
     }
    ]
   },
@@ -265,11 +265,11 @@
    "href": "/sanantonio/gavito/",
    "raised": "$391K",
    "donors": "647",
-   "empPct": "68.0%",
+   "empPct": "67.9%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$59K",
+     "amt": "$60K",
      "w": 100
     },
     {
@@ -279,8 +279,8 @@
     },
     {
      "label": "Real Estate",
-     "amt": "$32K",
-     "w": 54
+     "amt": "$33K",
+     "w": 55
     },
     {
      "label": "Healthcare",
@@ -366,11 +366,36 @@
    "photo": "sa-whyte",
    "name": "Marc Whyte",
    "district": "District 10",
-   "race": "Elected June 2025",
+   "race": "Re-elected May 2025",
    "section": "council",
    "seat": "District 10",
    "status": "current",
-   "soon": true
+   "href": "/sanantonio/whyte/",
+   "raised": "$488K",
+   "donors": "810",
+   "empPct": "72.0%",
+   "topGroups": [
+    {
+     "label": "Real Estate",
+     "amt": "$87K",
+     "w": 100
+    },
+    {
+     "label": "Legal",
+     "amt": "$86K",
+     "w": 99
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$84K",
+     "w": 97
+    },
+    {
+     "label": "Consulting / PR",
+     "amt": "$25K",
+     "w": 29
+    }
+   ]
   }
  ]
 }
