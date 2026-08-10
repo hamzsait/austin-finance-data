@@ -503,7 +503,7 @@
   }
   function attachHold(btn, dir){
     if (!btn) return;
-    var raf, holding = false, last = null, held = 0;
+    var raf, holding = false, last = null, held = 0, t0 = 0;
     function loop(ts){
       if (last !== null) {
         var dt = ts - last;
@@ -519,12 +519,13 @@
       holding = false; last = null;
       btn.classList.remove('holding');
       cancelAnimationFrame(raf);
+      if (performance.now() - t0 < 250) nudge(dir);
     }
     btn.addEventListener('pointerdown', function(e){
       if (btn.disabled) return;
       e.preventDefault();
       try { btn.setPointerCapture(e.pointerId); } catch(err){}
-      holding = true; last = null; held = 0;
+      holding = true; last = null; held = 0; t0 = performance.now();
       btn.classList.add('holding');
       cancelAnimationFrame(anim);
       raf = requestAnimationFrame(loop);
