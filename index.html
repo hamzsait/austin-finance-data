@@ -96,6 +96,7 @@
   .panel .txt{padding:64px 56px;align-self:center;max-width:600px}
   .panel .cat{font-family:'Oswald',sans-serif;font-size:16px;letter-spacing:.22em;text-transform:uppercase;font-weight:600;color:var(--accent);margin-bottom:14px}
   .panel h3{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(24px,2.4vw,36px);line-height:1.12;letter-spacing:-.02em;margin-bottom:14px}
+  .panel h3.xl{font-size:clamp(36px,4.2vw,58px);line-height:1.02;letter-spacing:-.03em;margin-bottom:18px}
   .panel .body{color:var(--muted);font-size:16px;line-height:1.65;margin-bottom:26px;max-width:46ch}
   .readmore{display:inline-flex;align-items:center;gap:16px;font-weight:600;font-size:15px;color:var(--navy);text-decoration:none;transition:color .3s ease}
   .readmore::before{content:"";width:24px;height:2px;background:#f0483c;flex:none;transition:width .3s ease}
@@ -341,9 +342,9 @@
     </div>
     <div class="panel">
       <div class="txt">
-        <p class="cat" id="pnCat">2026 Austin Races</p>
-        <h3 id="pnHead">Eleven seats, one scoreboard.</h3>
-        <p class="body" id="pnBody">Mayor plus ten council districts, tracked from the first filing to election day. Each race card shows every declared candidate, what they have raised, and how much of it came from outside the district.</p>
+        <p class="cat" id="pnCat">On the ballot · November 3, 2026</p>
+        <h3 id="pnHead" class="xl">2026 Austin Races</h3>
+        <p class="body" id="pnBody">Five council seats. Sixteen declared candidates. $982,254 raised — every dollar matched to a donor.</p>
         <a class="readmore" href="/austin/"><span id="pnLink">See the 2026 races</span></a>
       </div>
       <figure><div class="chartwrap" id="pnChart" hidden></div><img id="pnImg" src="assets/about-decode-v4.png" alt="Texas Capitol collaged with hundred-dollar bills" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block"></figure>
@@ -605,8 +606,8 @@
 <script>
 (function(){
   var P = {
-    races: {cat:'2026 Austin Races', head:'Eleven seats, one scoreboard.',
-      body:'Mayor plus ten council districts, tracked from the first filing to election day. Each race card shows every declared candidate, what they have raised, and how much of it came from outside the district.',
+    races: {cat:'On the ballot · November 3, 2026', head:'2026 Austin Races',
+      body:'Five council seats. Sixteen declared candidates. $982,254 raised — every dollar matched to a donor.',
       link:'See the 2026 races', href:'/austin/'},
     austin: {cat:'Austin Campaign Finance', head:'Who funds the Austin City Council.',
       body:'Real estate is the number one donor industry for most sitting members. Totals range from $8,229 across 37 contributions to $98,306 across 289 — every number traced to the filing it came from.',
@@ -627,6 +628,7 @@
       lk.textContent = d.link;
       lk.parentNode.setAttribute('href', d.href);
       lk.parentNode.hidden = !d.link;
+      document.getElementById('pnHead').classList.toggle('xl', p.dataset.k === 'races');
       if (window.__renderPanelChart) window.__renderPanelChart(p.dataset.k);
     });
   });
@@ -644,10 +646,9 @@
 <script>
 (function(){
   var C = {
-    races: {type:'bar', title:'Who has raised the most in the <mark>2026 Austin races</mark>', sub:'Top five candidates, counted from Jan 1, 2025 forward — the same start line for incumbents and challengers — through June 30, 2026.',
-      src:'',
-      legend:[['D1','#EC3A22'],['D5','#F5A623'],['D8','#3FA9F5'],['D9','#8FA8C2']],
-      rows:[['Paige Ellis (inc.) · D8',111663,'#3FA9F5'],['Selena Xie · D8',104827,'#3FA9F5'],['Amber Goodwin · D1',91346,'#EC3A22'],['Ryan Alter (inc.) · D5',90823,'#F5A623'],['Zohaib Qadri (inc.) · D9',90090,'#8FA8C2']]},
+    races: {type:'bar', title:'Which industries are funding the <mark>2026 races</mark>', sub:'Donations to all 16 declared candidates across the five council races, counted from the start of each campaign’s cycle — January 2023 for sitting members — through June 30, 2026.',
+      src:'Source: decode analysis of Austin City Clerk filings',
+      rows:[['Real Estate',185800,'#EC3A22'],['Technology',84127,'#18314f'],['Nonprofit / Advocacy',68123,'#18314f'],['Government',67938,'#18314f'],['Legal',66507,'#18314f'],['Not Employed',58583,'#18314f'],['Healthcare',55994,'#18314f']]},
     austin: {title:'Who funds the <mark>City Council</mark>', sub:'Share of money raised by sitting council members, grouped by donor industry.',
       src:'Source: decode analysis of Austin City Clerk filings',
       rows:[['Real estate — 38%',38,'#EC3A22'],['Law & lobbying — 19%',19,'#3FA9F5'],['Tech — 16%',16,'#18314f'],['Everyone else — 27%',27,'#d8d8d8']]},
