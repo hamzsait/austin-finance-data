@@ -128,11 +128,11 @@
   .ig-fade.r{right:0;background:linear-gradient(to left,var(--page) 12%,transparent)}
   .ig-rail.can-l .ig-fade.l{opacity:1}
   .ig-rail.can-r .ig-fade.r{opacity:1}
-  .ig-grid{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x proximity;
+  .ig-grid{display:flex;gap:16px;overflow-x:auto;
         padding:6px 2px 14px;scrollbar-width:none}
   .ig-grid::-webkit-scrollbar{display:none}
   .ig-grid:focus-visible{outline:none;box-shadow:0 0 0 3px #F5A623;border-radius:8px}
-  .ig-grid > *{flex:0 0 calc((100% - 80px)/6);scroll-snap-align:start}
+  .ig-grid > *{flex:0 0 calc((100% - 80px)/6)}
   @media (max-width:820px){.ig-grid > *{flex:0 0 calc((100% - 32px)/3)}.ig-fade{width:32px}}
   @media (max-width:560px){.ig-grid > *{flex:0 0 calc((100% - 16px)/2)}}
   .ig-cell{position:relative;display:block;aspect-ratio:4/5;overflow:hidden;border-radius:8px;background:#eef2f6;
@@ -484,6 +484,21 @@
     return card ? card.getBoundingClientRect().width + 16 : grid.clientWidth / 3;
   }
   var anim;
+  function coast(dir, dist){
+    var max = grid.scrollWidth - grid.clientWidth;
+    var from = grid.scrollLeft;
+    var target = Math.max(0, Math.min(max, from + dir * dist));
+    if (reduced) { grid.scrollLeft = target; return; }
+    cancelAnimationFrame(anim);
+    var start = null, dur = 380;
+    function frame(ts){
+      if (start === null) start = ts;
+      var t = Math.min(1, (ts - start) / dur);
+      grid.scrollLeft = from + (target - from) * (1 - Math.pow(1 - t, 3));
+      if (t < 1) anim = requestAnimationFrame(frame);
+    }
+    anim = requestAnimationFrame(frame);
+  }
   function nudge(dir){
     var step = cardStep();
     var max = grid.scrollWidth - grid.clientWidth;
@@ -491,7 +506,6 @@
     var target = Math.max(0, Math.min(max, Math.round((from + dir * step) / step) * step));
     if (reduced) { grid.scrollLeft = target; return; }
     cancelAnimationFrame(anim);
-    grid.style.scrollSnapType = 'none';
     var start = null, dur = 420;
     function ease(t){ return t < .5 ? 4*t*t*t : 1 - Math.pow(-2*t + 2, 3)/2; }
     function frame(ts){
@@ -499,15 +513,18 @@
       var t = Math.min(1, (ts - start) / dur);
       grid.scrollLeft = from + (target - from) * ease(t);
       if (t < 1) anim = requestAnimationFrame(frame);
-      else grid.style.scrollSnapType = '';
     }
     anim = requestAnimationFrame(frame);
   }
   function attachHold(btn, dir){
     if (!btn) return;
-    var raf, holding = false, last = null;
+    var raf, holding = false, last = null, moved = 0;
     function loop(ts){
-      if (last !== null) grid.scrollLeft += dir * 0.6 * (ts - last);
+      if (last !== null) {
+        var dt = ts - last;
+        grid.scrollLeft += dir * 0.6 * dt;
+        moved += 0.6 * dt;
+      }
       last = ts;
       if (holding) raf = requestAnimationFrame(loop);
     }
@@ -515,16 +532,16 @@
       if (!holding) return;
       holding = false; last = null;
       btn.classList.remove('holding');
-      grid.style.scrollSnapType = '';
       cancelAnimationFrame(raf);
+      var min = cardStep();
+      if (moved < min) coast(dir, min - moved);
     }
     btn.addEventListener('pointerdown', function(e){
       if (btn.disabled) return;
       e.preventDefault();
       try { btn.setPointerCapture(e.pointerId); } catch(err){}
-      holding = true; last = null;
+      holding = true; last = null; moved = 0;
       btn.classList.add('holding');
-      grid.style.scrollSnapType = 'none';
       cancelAnimationFrame(anim);
       raf = requestAnimationFrame(loop);
     });
@@ -556,7 +573,6 @@
       try { track.setPointerCapture(e.pointerId); } catch(err){}
       cancelAnimationFrame(anim);
       cancelAnimationFrame(dragRaf);
-      grid.style.scrollSnapType = 'none';
       seek(e);
       dragRaf = requestAnimationFrame(follow);
       e.preventDefault();
@@ -566,7 +582,6 @@
       if (!dragging) return;
       dragging = false;
       track.classList.remove('dragging');
-      grid.style.scrollSnapType = '';
     }
     track.addEventListener('pointerup', endDrag);
     track.addEventListener('pointercancel', endDrag);
