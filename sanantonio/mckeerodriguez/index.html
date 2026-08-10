@@ -974,22 +974,79 @@
     font-family: 'Oswald', sans-serif;
   }
 </style>
+<style id="site-chrome">
+  /* ── decode(politics): shared header/footer chrome ── */
+  nav.sitenav{display:flex;align-items:center;gap:24px}
+  nav.sitenav .nlink{color:#0c1a2c;text-decoration:none;cursor:pointer;padding:4px 0 !important;border:0 !important;
+        border-radius:0 !important;background:none !important;display:inline-flex;align-items:center;gap:8px;
+        transition:color .12s ease}
+  nav.sitenav .nlink:hover{background:none !important;color:#ba1200 !important}
+  nav.sitenav .nlink.live{color:#ba1200 !important}
+  nav.sitenav .nlink .dot{display:none}
+  .browsertab, .browsertab *, .wordmark, .wordmark *{
+        font-family:'Space Grotesk',sans-serif !important;font-weight:700 !important;
+        letter-spacing:-.015em !important;line-height:1 !important;font-size:28px !important}
+  .browsertab{background:transparent !important;border-radius:0 !important;height:auto !important;
+        padding:0 !important;max-width:none !important}
+  .browsertab .corner,.tabstrip .traffic,.tabstrip .newtab,.browsertab .tabx{display:none !important}
+  .siteheader{position:sticky;top:-1px;z-index:300;transition:.2s ease-in-out;
+        flex-direction:row !important;align-items:center;justify-content:space-between;
+        padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2));
+        min-height:72px;border-bottom:1px solid rgba(24,49,79,.12);background:#fff !important}
+  .siteheader.stuck{box-shadow:rgba(0,0,0,.6) 0 0 15px 5px}
+  .siteheader.unpin{position:relative;box-shadow:none}
+  .tabstrip{padding:0 !important;background:transparent !important;align-items:center}
+  .navrow{min-height:0 !important;padding:0 !important;background:transparent !important;
+        border-bottom:none !important;justify-content:flex-end !important}
+  nav.sitenav, nav.sitenav .nlink{
+        font-family:'Inter',system-ui,sans-serif !important;font-weight:700 !important;
+        font-size:13.75px !important;letter-spacing:.27px !important;text-transform:uppercase !important}
+  nav.sitenav .nlink{
+        background-image:linear-gradient(to right,#ba1200,#ba1200);
+        background-repeat:no-repeat;background-position:left bottom;background-size:0% 3px;
+        transition:background-size .7s ease-in-out,color .2s ease;will-change:background-size}
+  nav.sitenav .nlink:hover{background-size:100% 3px}
+  @media (max-width:680px){.siteheader{padding:14px 20px 12px;flex-wrap:wrap;gap:8px 0}
+    nav.sitenav{gap:15px;flex-wrap:wrap}}
+  @media (max-width:480px){.navrow{max-width:100%}nav.sitenav{gap:12px;flex-wrap:wrap;justify-content:flex-end;row-gap:4px}nav.sitenav .nlink{font-size:12px !important;letter-spacing:.2px !important}}
+
+  .sitefooter{text-align:left;background:#18314f;color:#e7edf4;padding:56px max(48px,calc((100% - 1480px)/2)) 48px;
+        font-family:'Inter',system-ui,sans-serif;font-size:14.5px;line-height:1.6}
+  .sitefooter a{color:inherit;text-decoration:none}
+  .foot-top{display:grid;grid-template-columns:minmax(220px,1fr) 2fr;gap:48px}
+  .foot-mark, .foot-mark *{font-family:'Space Grotesk',sans-serif !important;font-weight:700 !important;
+        letter-spacing:-.015em !important;line-height:1 !important;font-size:22px !important}
+  .foot-mark .f{color:#f0483c}
+  .foot-social{list-style:none;display:flex;gap:10px;margin:22px 0 0;padding:0}
+  .foot-social a{position:relative;width:34px;height:34px;border-radius:50%;border:1px solid rgba(255,255,255,.28);
+        display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.85);
+        transition:background .2s ease,color .2s ease,border-color .2s ease}
+  .foot-social a:hover{background:#F5A623;border-color:#F5A623;color:#18314f}
+  .foot-cols{display:grid;grid-template-columns:repeat(2,1fr);gap:40px}
+  .foot-cols h5{font-family:'Oswald',sans-serif;font-size:12px;letter-spacing:.2em;text-transform:uppercase;
+        font-weight:600;color:#8fa8c2;margin:0 0 14px}
+  .foot-cols ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;font-size:14.5px}
+  .foot-cols a:hover{color:#F5A623}
+  .foot-note{margin:36px 0 0;font-size:12.5px;color:rgba(231,237,244,.55)}
+  .foot-note a{font-weight:600;text-decoration:underline;text-underline-offset:2px}
+  .foot-note a:hover{color:#F5A623}
+  @media (max-width:900px){.sitefooter{padding:40px 20px 36px}.foot-top{grid-template-columns:1fr;gap:32px}
+    .foot-cols{grid-template-columns:1fr 1fr;gap:28px}}
+</style>
 </head>
 <body>
 <div class="siteheader">
   <div class="tabstrip padx">
-    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
-    <a class="browsertab" href="/" title="decode(politics): home">
-      <span class="corner l"></span><span class="corner r"></span>
+    <a class="browsertab" href="/" title="decode(politics):">
       <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
       <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
-      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
     </a>
-    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
   </div>
   <div class="navrow padx">
     <nav class="sitenav">
-      <a class="nlink live" href="/sanantonio/"><span class="dot"></span>San Antonio Finance</a>
+      <a class="nlink" href="/">Home</a>
+      <a class="nlink" href="/austin/">Austin Finance</a>
+      <a class="nlink live" href="/sanantonio/">San Antonio Finance</a>
     </nav>
   </div>
 </div>
@@ -1287,8 +1344,34 @@
   </div><!-- /#profileContent -->
 </div>
 
-<footer>
-  decode(politics): · San Antonio Finance Transparency Project · Not affiliated with any campaign · <a href="mailto:info@decodepolitics.org" style="color:inherit;font-weight:600;text-decoration:none">info@decodepolitics.org</a>
+<footer class="sitefooter">
+  <div class="foot-top">
+    <div>
+      <a class="foot-mark" href="/"><span class="f">decode</span>(politics)<span class="f">:</span></a>
+      <ul class="foot-social">
+        <li><a title="Follow decode(politics): on Instagram" href="https://www.instagram.com/decodepolitics.us/" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4.2"></circle><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"></circle></svg>
+          <span style="position:absolute;left:-9999px">Follow decode(politics): on Instagram</span>
+        </a></li>
+      </ul>
+    </div>
+    <div class="foot-cols">
+      <div>
+        <h5>Contact</h5>
+        <ul>
+          <li><a href="mailto:info@decodepolitics.org">info@decodepolitics.org</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Resources</h5>
+        <ul>
+          <li><a href="/austin/">Austin Campaign Finance</a></li>
+          <li><a href="/sanantonio/">San Antonio Finance</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <p class="foot-note">San Antonio Finance Transparency Project · Not affiliated with any campaign</p>
 </footer>
 
 <!-- Partisan lean drill-down panel -->
@@ -2700,6 +2783,19 @@ initProfile();
     setTimeout(tick, 115);
   }
   tick();
+})();
+</script>
+<script>
+(function(){
+  var el = document.querySelector('.siteheader');
+  if (!el) return;
+  var onScroll = function(){
+    var y = window.scrollY || document.documentElement.scrollTop;
+    var half = (document.documentElement.scrollHeight - window.innerHeight) / 2;
+    el.classList.toggle('unpin', y > half);
+    el.classList.toggle('stuck', y > 1 && y <= half);
+  };
+  addEventListener('scroll', onScroll, {passive:true}); onScroll();
 })();
 </script>
 </body>

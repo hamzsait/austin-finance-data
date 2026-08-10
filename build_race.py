@@ -68,14 +68,21 @@ def candidate_stats(cur, recipient: str, cycle_start_year: int):
     if not donors:
         return None
 
+    # Industry attribution matches generate_profile_data.py's interest_groups:
+    # donor-level resolution first, then the donor's employer's industry.
+    # Diverging from that (donor-level only) made race cards disagree with
+    # profile pages on the same candidate's industry totals.
     igs = cur.execute("""
-        SELECT di.resolved_industry,
+        SELECT COALESCE(di.resolved_industry, ei.industry) AS ind,
                ROUND(SUM(COALESCE(cf.balanced_amount, cf.contribution_amount)))
         FROM campaign_finance cf
-        JOIN donor_identities di ON di.donor_id = cf.donor_id
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
         WHERE cf.recipient = ?
           AND cf.contribution_year >= ?
-          AND di.resolved_industry IS NOT NULL
+          AND COALESCE(di.resolved_industry, ei.industry) IS NOT NULL
+          AND COALESCE(di.resolved_industry, ei.industry)
+              NOT IN ('Unknown', 'Unknown / Unclassified')
           AND COALESCE(cf.balanced_amount, cf.contribution_amount) > 0
         GROUP BY 1 ORDER BY 2 DESC LIMIT 4
     """, (recipient, cycle_start_year)).fetchall()
