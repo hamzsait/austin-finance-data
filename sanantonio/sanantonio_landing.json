@@ -44,29 +44,29 @@
    "district": "District 6",
    "race": "Elected June 2025",
    "href": "/sanantonio/galvan/",
-   "raised": "$92K",
-   "donors": "397",
-   "empPct": "67.9%",
+   "raised": "$57K",
+   "donors": "384",
+   "empPct": "69.3%",
    "topGroups": [
     {
-     "label": "Government",
-     "amt": "$14K",
+     "label": "Legal",
+     "amt": "$10K",
      "w": 100
     },
     {
-     "label": "Legal",
-     "amt": "$14K",
-     "w": 97
-    },
-    {
-     "label": "Not Employed",
-     "amt": "$13K",
-     "w": 91
+     "label": "Government",
+     "amt": "$9K",
+     "w": 87
     },
     {
      "label": "Education",
-     "amt": "$13K",
-     "w": 89
+     "amt": "$8K",
+     "w": 83
+    },
+    {
+     "label": "Not Employed",
+     "amt": "$7K",
+     "w": 75
     }
    ],
    "section": "council",
@@ -83,29 +83,29 @@
    "seat": "District 1",
    "status": "current",
    "href": "/sanantonio/kaur/",
-   "raised": "$555K",
-   "donors": "831",
-   "empPct": "71.4%",
+   "raised": "$403K",
+   "donors": "829",
+   "empPct": "71.0%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$77K",
+     "amt": "$53K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$71K",
-     "w": 92
+     "amt": "$50K",
+     "w": 94
     },
     {
      "label": "Legal",
-     "amt": "$59K",
-     "w": 77
+     "amt": "$40K",
+     "w": 76
     },
     {
      "label": "Healthcare",
-     "amt": "$38K",
-     "w": 50
+     "amt": "$30K",
+     "w": 57
     }
    ]
   },
@@ -119,29 +119,29 @@
    "seat": "District 2",
    "status": "current",
    "href": "/sanantonio/mckeerodriguez/",
-   "raised": "$294K",
-   "donors": "2,262",
-   "empPct": "60.1%",
+   "raised": "$225K",
+   "donors": "2,244",
+   "empPct": "58.7%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$56K",
+     "amt": "$41K",
      "w": 100
     },
     {
      "label": "Government",
-     "amt": "$33K",
-     "w": 58
+     "amt": "$25K",
+     "w": 60
     },
     {
      "label": "Education",
-     "amt": "$28K",
-     "w": 50
+     "amt": "$20K",
+     "w": 48
     },
     {
      "label": "Legal",
-     "amt": "$23K",
-     "w": 41
+     "amt": "$18K",
+     "w": 43
     }
    ]
   },
@@ -155,29 +155,29 @@
    "seat": "District 3",
    "status": "current",
    "href": "/sanantonio/viagran/",
-   "raised": "$231K",
+   "raised": "$212K",
    "donors": "361",
-   "empPct": "56.6%",
+   "empPct": "56.1%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$34K",
+     "amt": "$30K",
      "w": 100
     },
     {
      "label": "Not Employed",
-     "amt": "$26K",
-     "w": 76
+     "amt": "$24K",
+     "w": 79
     },
     {
      "label": "Legal",
-     "amt": "$21K",
-     "w": 63
+     "amt": "$20K",
+     "w": 67
     },
     {
      "label": "Self-Employed",
-     "amt": "$21K",
-     "w": 62
+     "amt": "$19K",
+     "w": 64
     }
    ]
   },
@@ -191,29 +191,29 @@
    "seat": "District 4",
    "status": "current",
    "href": "/sanantonio/mungia/",
-   "raised": "$104K",
-   "donors": "310",
-   "empPct": "69.5%",
+   "raised": "$62K",
+   "donors": "307",
+   "empPct": "71.4%",
    "topGroups": [
     {
-     "label": "Not Employed",
-     "amt": "$16K",
+     "label": "Real Estate",
+     "amt": "$9K",
      "w": 100
     },
     {
-     "label": "Real Estate",
-     "amt": "$12K",
-     "w": 78
+     "label": "Not Employed",
+     "amt": "$8K",
+     "w": 98
     },
     {
      "label": "Government",
-     "amt": "$11K",
-     "w": 73
+     "amt": "$6K",
+     "w": 72
     },
     {
      "label": "Consulting / PR",
-     "amt": "$8K",
-     "w": 52
+     "amt": "$5K",
+     "w": 58
     }
    ]
   },
@@ -227,29 +227,29 @@
    "seat": "District 5",
    "status": "current",
    "href": "/sanantonio/castillo/",
-   "raised": "$179K",
-   "donors": "1,324",
-   "empPct": "61.0%",
+   "raised": "$135K",
+   "donors": "1,292",
+   "empPct": "60.2%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$26K",
+     "amt": "$20K",
      "w": 100
     },
     {
      "label": "Education",
-     "amt": "$22K",
-     "w": 85
+     "amt": "$18K",
+     "w": 94
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$18K",
-     "w": 68
+     "amt": "$13K",
+     "w": 65
     },
     {
      "label": "Government",
-     "amt": "$10K",
-     "w": 39
+     "amt": "$8K",
+     "w": 40
     }
    ]
   },
@@ -263,29 +263,29 @@
    "seat": "District 7",
    "status": "current",
    "href": "/sanantonio/gavito/",
-   "raised": "$391K",
+   "raised": "$321K",
    "donors": "647",
-   "empPct": "67.9%",
+   "empPct": "68.4%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$60K",
+     "amt": "$48K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$59K",
-     "w": 99
+     "amt": "$47K",
+     "w": 97
     },
     {
      "label": "Real Estate",
-     "amt": "$33K",
-     "w": 55
+     "amt": "$27K",
+     "w": 57
     },
     {
      "label": "Healthcare",
-     "amt": "$29K",
-     "w": 49
+     "amt": "$24K",
+     "w": 51
     }
    ]
   },
@@ -371,29 +371,29 @@
    "seat": "District 10",
    "status": "current",
    "href": "/sanantonio/whyte/",
-   "raised": "$488K",
+   "raised": "$434K",
    "donors": "810",
-   "empPct": "72.0%",
+   "empPct": "70.9%",
    "topGroups": [
     {
-     "label": "Real Estate",
-     "amt": "$87K",
+     "label": "Legal",
+     "amt": "$77K",
      "w": 100
     },
     {
-     "label": "Legal",
-     "amt": "$86K",
-     "w": 99
-    },
-    {
      "label": "Not Employed",
-     "amt": "$84K",
-     "w": 97
+     "amt": "$77K",
+     "w": 100
     },
     {
-     "label": "Consulting / PR",
-     "amt": "$25K",
-     "w": 29
+     "label": "Real Estate",
+     "amt": "$77K",
+     "w": 100
+    },
+    {
+     "label": "Finance",
+     "amt": "$22K",
+     "w": 28
     }
    ]
   }
