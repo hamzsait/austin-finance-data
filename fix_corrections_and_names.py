@@ -14,16 +14,13 @@ conn = sqlite3.connect("austin_finance.db", timeout=120)
 conn.execute("PRAGMA journal_mode=WAL")
 cur = conn.cursor()
 
-# ── 1. Zero out correction=X balanced_amount ──────────────────────────────────
-cur.execute("""
-    UPDATE campaign_finance
-    SET balanced_amount = 0.0
-    WHERE (correction = 'X' OR correction = 'x')
-      AND (balanced_amount IS NULL OR balanced_amount != 0)
-""")
-zeroed = cur.rowcount
-print(f"Zeroed correction=X rows: {zeroed:,}")
-conn.commit()
+# ── 1. Correction handling moved to mark_restatements.py (2026-08-17) ────────
+# Blanket-zeroing correction='X' rows kept the STALE pre-correction originals
+# live and drifted as incremental fetches added new correction rows. The
+# replacement supersedes the original report's rows and keeps the corrected
+# filing — re-running the old UPDATE here would zero the restored correction
+# rows and undo that, so it is intentionally gone. Run mark_restatements.py.
+print("Correction zeroing now lives in mark_restatements.py (skipped here)")
 
 # ── 2. Find ALL reversed name pairs ──────────────────────────────────────────
 # A name is "reversed" if (A, B) exists AND (B, A) also exists in donor_identities
