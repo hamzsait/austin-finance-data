@@ -207,10 +207,10 @@
   "cycle_start_year": 0
  },
  "alter": {
-  "raised": 163664,
-  "donors": 556,
-  "contributions": 629,
-  "avg": 294.36,
+  "raised": 164114,
+  "donors": 560,
+  "contributions": 634,
+  "avg": 293.06,
   "first_gift": "2023-09-26",
   "last_gift": "2026-06-30",
   "topGroups": [
@@ -331,47 +331,47 @@
   "cycle_start_year": 0
  },
  "bowen": {
-  "raised": 16816,
+  "raised": 8408,
   "donors": 39,
-  "contributions": 82,
-  "avg": 431.18,
+  "contributions": 41,
+  "avg": 215.59,
   "first_gift": "2026-04-01",
   "last_gift": "2026-06-30",
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 3626,
+    "amt": 1813,
     "w": 100
    },
    {
     "label": "Legal",
-    "amt": 3500,
+    "amt": 1750,
     "w": 97
    },
    {
     "label": "Technology",
-    "amt": 2500,
+    "amt": 1250,
     "w": 69
    },
    {
     "label": "Government",
-    "amt": 2100,
+    "amt": 1050,
     "w": 58
    }
   ],
   "cycle_start_year": 2025
  },
  "qadri": {
-  "raised": 258574,
-  "donors": 1072,
+  "raised": 258849,
+  "donors": 1068,
   "contributions": 1483,
-  "avg": 241.21,
+  "avg": 242.37,
   "first_gift": "2024-01-22",
   "last_gift": "2026-06-30",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 58104,
+    "amt": 58379,
     "w": 100
    },
    {
@@ -381,7 +381,7 @@
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 19598,
+    "amt": 19633,
     "w": 34
    },
    {
@@ -455,31 +455,31 @@
   "cycle_start_year": 0
  },
  "thadani": {
-  "raised": 1944,
+  "raised": 972,
   "donors": 20,
-  "contributions": 44,
-  "avg": 97.2,
+  "contributions": 22,
+  "avg": 48.6,
   "first_gift": "2026-02-04",
   "last_gift": "2026-06-30",
   "topGroups": [
    {
     "label": "Government",
-    "amt": 802,
+    "amt": 401,
     "w": 100
    },
    {
     "label": "Not Employed",
-    "amt": 502,
+    "amt": 251,
     "w": 63
    },
    {
     "label": "Retail",
-    "amt": 420,
+    "amt": 210,
     "w": 52
    },
    {
     "label": "Transportation",
-    "amt": 100,
+    "amt": 50,
     "w": 12
    }
   ],

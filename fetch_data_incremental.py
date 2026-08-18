@@ -234,6 +234,13 @@ def main():
 
     conn.close()
 
+    # New rows can include correction-affidavit re-filings and overlapping
+    # report listings; left unmarked they double-count (63 had accumulated by
+    # 2026-08-17). Marking only touches balanced_amount, so the additive-only
+    # contract above still holds for the 17 feed-sourced columns.
+    from mark_restatements import mark
+    mark()
+
 
 if __name__ == "__main__":
     main()

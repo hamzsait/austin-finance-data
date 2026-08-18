@@ -153,6 +153,9 @@ def build_cycle_block(cur, base_where: str, base_params: tuple, slug: str, cycle
         clauses.append("cf.contribution_year <= ?")
         params.append(cycle["end_year"])
 
+    # The > 0 filter drops joint-split remainders AND restatement rows zeroed
+    # by mark_restatements.py — without it, superseded duplicate listings
+    # inflate the donor counts even though they add $0.
     rows = cur.execute(f"""
         SELECT cf.donor_type,
                TRIM(COALESCE(cf.city_state_zip, '')),
@@ -162,6 +165,7 @@ def build_cycle_block(cur, base_where: str, base_params: tuple, slug: str, cycle
         FROM campaign_finance cf
         LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
         WHERE {" AND ".join(clauses)}
+          AND COALESCE(cf.balanced_amount, cf.contribution_amount) > 0
     """, tuple(params)).fetchall()
 
     totals = {"exempt": 0.0, "counted": 0.0, "unknown": 0.0}
