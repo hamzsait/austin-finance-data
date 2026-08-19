@@ -291,6 +291,10 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
     where_parts = [
         "cf.recipient LIKE ?",
         "COALESCE(cf.balanced_amount, cf.contribution_amount) > 0",
+        # Vela's filings include Schedule-F expenditure rows the feed types as
+        # 'Political Expenditures From Political Contribution'; without this
+        # they render as donations from the campaign's own vendors.
+        "COALESCE(cf.contribution_type,'') NOT LIKE '%Expenditure%'",
     ]
     base_params = [f"%{candidate_fragment}%"]
 
@@ -505,7 +509,7 @@ def build_cycle_partisan(cur, where_sql, params, total_donors):
                COALESCE(di.fec_total_other, 0), COALESCE(di.fec_total_donations, 0),
                COALESCE(di.tec_total_dem, 0), COALESCE(di.tec_total_rep, 0),
                COALESCE(di.tec_total_other, 0), COALESCE(di.tec_total_donations, 0),
-               SUM(CAST(cf.contribution_amount AS REAL))
+               SUM(COALESCE(cf.balanced_amount, CAST(cf.contribution_amount AS REAL)))
         FROM donor_identities di
         JOIN campaign_finance cf ON cf.donor_id = di.donor_id
         WHERE {where_sql}
@@ -612,6 +616,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
         cf.recipient LIKE ?
         AND cf.contribution_year >= {min_year}
         AND COALESCE(cf.balanced_amount, cf.contribution_amount) > 0
+        AND COALESCE(cf.contribution_type,'') NOT LIKE '%Expenditure%'
     """
     base_params = (f"%{candidate_fragment}%",)
 
@@ -830,7 +835,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                COALESCE(di.tec_total_rep, 0)   AS tec_rep,
                COALESCE(di.tec_total_other, 0) AS tec_other,
                COALESCE(di.tec_total_donations, 0) AS tec_n,
-               SUM(CAST(cf.contribution_amount AS REAL)) as local_total
+               SUM(COALESCE(cf.balanced_amount, CAST(cf.contribution_amount AS REAL))) as local_total
         FROM donor_identities di
         JOIN campaign_finance cf ON cf.donor_id = di.donor_id
         LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
@@ -1007,7 +1012,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     ip_rows = cur.execute(f"""
         SELECT di.donor_id, di.canonical_name, di.ip_spectrum, di.ip_tier,
                di.ip_total, di.ip_committees,
-               SUM(CAST(cf.contribution_amount AS REAL)) as local_total,
+               SUM(COALESCE(cf.balanced_amount, CAST(cf.contribution_amount AS REAL))) as local_total,
                di.fec_partisan_lean
         FROM donor_identities di
         JOIN campaign_finance cf ON cf.donor_id = di.donor_id
