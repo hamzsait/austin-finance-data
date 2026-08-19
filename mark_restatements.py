@@ -14,7 +14,8 @@ same portal behavior — see san-antonio-finance-data PR #22):
    covers >=50% of an earlier non-correction instance for the same recipient,
    the ORIGINAL report's rows are zeroed and the correction's rows are restored
    — the corrected filing is the authoritative one. Corrections with no
-   matching original in the DB stay live (they are the only listing).
+   matching original in the DB stay live (they are the only listing) — including
+   ones the legacy script had already zeroed, which are restored the same way.
 
 2. Overlapping ordinary reports (pre-election reports re-listed by the next
    semi-annual, double-submitted same-day filings). Among live rows, identical
@@ -27,7 +28,8 @@ Mechanism: the repo-wide convention balanced_amount=0.0 — every consumer
 already reads COALESCE(balanced_amount, contribution_amount) and filters > 0,
 so no query changes are needed. Restores only touch rows whose
 balanced_amount is exactly 0 (joint-split values are non-zero and preserved);
-if a joint row was blanket-zeroed in the past, re-run build_joint_donors.py.
+a blanket-zeroed joint row is restored to its half share, not NULL, so the
+joint split from build_joint_donors.py survives the round-trip.
 
 Idempotent — re-run after every ingest (fetch_data_incremental.py's runbook
 step). --dry-run prints what would change.
@@ -55,7 +57,8 @@ def mark(db_path: str = DB, dry_run: bool = False):
     rows = conn.execute("""
         SELECT rowid, donor, recipient, contribution_amount, contribution_date,
                COALESCE(contribution_type,''), report_filed, transaction_id,
-               balanced_amount, CAST(contribution_amount AS REAL)
+               balanced_amount, CAST(contribution_amount AS REAL),
+               COALESCE(is_joint,0), donor_id_2
         FROM campaign_finance""").fetchall()
 
     inst_rows = defaultdict(list)
@@ -97,6 +100,17 @@ def mark(db_path: str = DB, dry_run: bool = False):
         for r in inst_rows[k]:
             if r[8] == 0:
                 restore_rowids.append(r[0])
+
+    # ── Pass 1b: twin-less corrections the legacy script blanket-zeroed ─────
+    # A correction whose original report was never ingested has no instance to
+    # supersede, so pass 1 never restores it — its zeroed rows are the ONLY
+    # listing and would count $0 forever. Restore them; pass 2 still zeroes any
+    # that turn out to be twins of other live rows.
+    for k in inst_rows:
+        if is_correction(k) and k not in matched_corr:
+            for r in inst_rows[k]:
+                if r[8] == 0:
+                    restore_rowids.append(r[0])
 
     # ── Pass 2: identical twins across ordinary overlapping reports ─────────
     # Evaluate against post-pass-1 liveness.
@@ -142,8 +156,20 @@ def mark(db_path: str = DB, dry_run: bool = False):
     final_restore = set(restore_rowids) - set(twin_rowids)
     cur.executemany("UPDATE campaign_finance SET balanced_amount=0.0 WHERE rowid=?",
                     [(x,) for x in zero_rowids + twin_rowids])
+    # Joint rows (build_joint_donors.py) carry half the gift in balanced_amount;
+    # restoring them to NULL would count them at full value.
+    by_rowid = {r[0]: r for r in rows}
+    plain, halved = [], []
+    for x in final_restore:
+        r = by_rowid[x]
+        if r[10] == 1 and r[11]:
+            halved.append((round((r[9] or 0.0) / 2, 2), x))
+        else:
+            plain.append((x,))
     cur.executemany("UPDATE campaign_finance SET balanced_amount=NULL WHERE rowid=?",
-                    [(x,) for x in final_restore])
+                    plain)
+    cur.executemany("UPDATE campaign_finance SET balanced_amount=? WHERE rowid=?",
+                    halved)
     conn.commit()
     print("[restate] done")
 
