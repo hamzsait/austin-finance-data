@@ -9,12 +9,12 @@
    "race": "2023 Race",
    "href": "/austin/watson/",
    "raised": "$3.2M",
-   "donors": "6,051",
+   "donors": "6,079",
    "empPct": "77.9%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$561K",
+     "amt": "$562K",
      "w": 100
     },
     {
@@ -47,8 +47,8 @@
    "race": "2022 Race",
    "href": "/austin/harpermadison/",
    "raised": "$245K",
-   "donors": "816",
-   "empPct": "87.1%",
+   "donors": "819",
+   "empPct": "87.0%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -87,7 +87,7 @@
    "race": "2024 Race",
    "href": "/austin/fuentes/",
    "raised": "$228K",
-   "donors": "1,052",
+   "donors": "1,053",
    "empPct": "85.6%",
    "topGroups": [
     {
@@ -124,13 +124,13 @@
    "district": "District 3",
    "race": "2022 Race",
    "href": "/austin/velasquez/",
-   "raised": "$263K",
-   "donors": "871",
-   "empPct": "88.0%",
+   "raised": "$265K",
+   "donors": "880",
+   "empPct": "87.7%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$95K",
+     "amt": "$96K",
      "w": 100
     },
     {
@@ -153,8 +153,8 @@
    "seat": "District 3",
    "status": "current",
    "on_ballot": true,
-   "raised_cycle": "$95K",
-   "donors_cycle": "329",
+   "raised_cycle": "$97K",
+   "donors_cycle": "335",
    "show_cycle": true
   },
   {
@@ -164,9 +164,9 @@
    "district": "District 4",
    "race": "2024 Race",
    "href": "/austin/vela/",
-   "raised": "$208K",
-   "donors": "712",
-   "empPct": "89.2%",
+   "raised": "$209K",
+   "donors": "714",
+   "empPct": "89.1%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -202,37 +202,37 @@
    "district": "District 5",
    "race": "2022 Race",
    "href": "/austin/alter/",
-   "raised": "$322K",
-   "donors": "839",
-   "empPct": "88.7%",
+   "raised": "$343K",
+   "donors": "871",
+   "empPct": "88.1%",
    "topGroups": [
     {
      "label": "Real Estate",
-     "amt": "$98K",
+     "amt": "$105K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$20K",
-     "w": 21
+     "amt": "$21K",
+     "w": 20
     },
     {
      "label": "Consulting / PR",
      "amt": "$19K",
-     "w": 20
+     "w": 18
     },
     {
-     "label": "Government",
-     "amt": "$18K",
-     "w": 19
+     "label": "Healthcare",
+     "amt": "$19K",
+     "w": 18
     }
    ],
    "section": "council",
    "seat": "District 5",
    "status": "current",
    "on_ballot": true,
-   "raised_cycle": "$164K",
-   "donors_cycle": "560",
+   "raised_cycle": "$184K",
+   "donors_cycle": "604",
    "show_cycle": true
   },
   {
@@ -243,7 +243,7 @@
    "race": "2024 Race",
    "href": "/austin/laine/",
    "raised": "$123K",
-   "donors": "616",
+   "donors": "617",
    "empPct": "75.0%",
    "topGroups": [
     {
@@ -281,7 +281,7 @@
    "race": "2026 Race",
    "href": "/austin/siegel/",
    "raised": "$281K",
-   "donors": "1,092",
+   "donors": "1,097",
    "empPct": "80.5%",
    "topGroups": [
     {
@@ -291,7 +291,7 @@
     },
     {
      "label": "Not Employed",
-     "amt": "$36K",
+     "amt": "$37K",
      "w": 83
     },
     {
@@ -318,9 +318,9 @@
    "district": "District 8",
    "race": "2022 Race",
    "href": "/austin/ellis/",
-   "raised": "$312K",
-   "donors": "921",
-   "empPct": "86.6%",
+   "raised": "$314K",
+   "donors": "931",
+   "empPct": "86.4%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -334,7 +334,7 @@
     },
     {
      "label": "Nonprofit / Advocacy",
-     "amt": "$26K",
+     "amt": "$25K",
      "w": 27
     },
     {
@@ -347,8 +347,8 @@
    "seat": "District 8",
    "status": "current",
    "on_ballot": true,
-   "raised_cycle": "$112K",
-   "donors_cycle": "420",
+   "raised_cycle": "$113K",
+   "donors_cycle": "430",
    "show_cycle": true
   },
   {
@@ -359,7 +359,7 @@
    "race": "2022 Race",
    "href": "/austin/qadri/",
    "raised": "$444K",
-   "donors": "2,010",
+   "donors": "2,015",
    "empPct": "92.9%",
    "topGroups": [
     {
@@ -370,7 +370,7 @@
     {
      "label": "Technology",
      "amt": "$63K",
-     "w": 87
+     "w": 88
     },
     {
      "label": "Nonprofit / Advocacy",
@@ -388,7 +388,7 @@
    "status": "current",
    "on_ballot": true,
    "raised_cycle": "$259K",
-   "donors_cycle": "1,068",
+   "donors_cycle": "1,072",
    "show_cycle": true
   },
   {
@@ -398,9 +398,9 @@
    "district": "District 10",
    "race": "2024 Race",
    "href": "/austin/duchen/",
-   "raised": "$183K",
-   "donors": "663",
-   "empPct": "69.9%",
+   "raised": "$184K",
+   "donors": "664",
+   "empPct": "69.8%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -410,7 +410,7 @@
     {
      "label": "Real Estate",
      "amt": "$32K",
-     "w": 83
+     "w": 82
     },
     {
      "label": "Self-Employed",
@@ -420,7 +420,7 @@
     {
      "label": "Legal",
      "amt": "$13K",
-     "w": 34
+     "w": 33
     }
    ],
    "section": "council",
@@ -437,8 +437,8 @@
    "race": "Travis County",
    "href": "/austin/brown/",
    "raised": "$1.4M",
-   "donors": "1,284",
-   "empPct": "94.9%",
+   "donors": "1,289",
+   "empPct": "94.8%",
    "topGroups": [
     {
      "label": "Finance",
@@ -465,8 +465,8 @@
    "seat": "County Judge",
    "status": "current",
    "on_ballot": true,
-   "raised_cycle": "$917K",
-   "donors_cycle": "575",
+   "raised_cycle": "$919K",
+   "donors_cycle": "579",
    "show_cycle": true
   },
   {
@@ -592,8 +592,8 @@
    "district": "Commissioner Pct 4",
    "race": "Travis County",
    "href": "/austin/morales/",
-   "raised": "$414K",
-   "donors": "653",
+   "raised": "$415K",
+   "donors": "656",
    "empPct": "87.5%",
    "topGroups": [
     {
@@ -622,8 +622,8 @@
    "status": "current",
    "status_note": "Since June 2026",
    "on_ballot": true,
-   "raised_cycle": "$319K",
-   "donors_cycle": "473",
+   "raised_cycle": "$320K",
+   "donors_cycle": "476",
    "show_cycle": true
   },
   {

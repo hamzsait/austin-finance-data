@@ -54,12 +54,18 @@ def mark(db_path: str = DB, dry_run: bool = False):
     conn = sqlite3.connect(db_path, timeout=120)
     conn.execute("PRAGMA journal_mode=WAL")
 
-    rows = conn.execute("""
+    # Spouse-#2 shadow rows (build_joint_shadows.py) are derived from their
+    # parents and rebuilt after every marking run; seeing them here would make
+    # them look like twins of the rows they were derived from.
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(campaign_finance)")}
+    shadow_filter = ("WHERE COALESCE(is_joint_shadow,0)=0"
+                     if "is_joint_shadow" in cols else "")
+    rows = conn.execute(f"""
         SELECT rowid, donor, recipient, contribution_amount, contribution_date,
                COALESCE(contribution_type,''), report_filed, transaction_id,
                balanced_amount, CAST(contribution_amount AS REAL),
                COALESCE(is_joint,0), donor_id_2
-        FROM campaign_finance""").fetchall()
+        FROM campaign_finance {shadow_filter}""").fetchall()
 
     inst_rows = defaultdict(list)
     for r in rows:

@@ -241,6 +241,11 @@ def main():
     from mark_restatements import mark
     mark()
 
+    # Shadow rows credit spouse #2 of each joint gift; they are derived from
+    # the live parents, so rebuild them after every marking run.
+    from build_joint_shadows import build
+    build()
+
 
 if __name__ == "__main__":
     main()
