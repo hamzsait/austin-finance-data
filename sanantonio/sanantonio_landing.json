@@ -9,18 +9,18 @@
    "race": "Elected June 2025",
    "href": "/sanantonio/jones/",
    "raised": "$631K",
-   "donors": "3,033",
-   "empPct": "58.4%",
+   "donors": "3,029",
+   "empPct": "58.6%",
    "topGroups": [
     {
      "label": "Not Employed",
-     "amt": "$182K",
+     "amt": "$181K",
      "w": 100
     },
     {
      "label": "Legal",
-     "amt": "$71K",
-     "w": 39
+     "amt": "$72K",
+     "w": 40
     },
     {
      "label": "Consulting / PR",
@@ -45,7 +45,7 @@
    "race": "Elected June 2025",
    "href": "/sanantonio/galvan/",
    "raised": "$57K",
-   "donors": "366",
+   "donors": "363",
    "empPct": "82.6%",
    "topGroups": [
     {
@@ -84,7 +84,7 @@
    "status": "current",
    "href": "/sanantonio/kaur/",
    "raised": "$402K",
-   "donors": "826",
+   "donors": "809",
    "empPct": "72.4%",
    "topGroups": [
     {
@@ -104,7 +104,7 @@
     },
     {
      "label": "Healthcare",
-     "amt": "$31K",
+     "amt": "$30K",
      "w": 56
     }
    ]

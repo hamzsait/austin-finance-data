@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://decodepolitics.org/sanantonio/school-money/">
+<title>Charter vs Public-School Money on San Antonio&#x27;s Council — decode(politics):</title>
+<meta name="description" content="Charter-school sector: $11,991 · Public-school advocacy: $1,388 across the mayor and all ten council districts, donor by donor with receipts.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="decode(politics):">
+<meta property="og:title" content="Charter vs Public-School Money on San Antonio&#x27;s Council — decode(politics):">
+<meta property="og:description" content="Charter-school sector: $11,991 · Public-school advocacy: $1,388 across the mayor and all ten council districts, donor by donor with receipts.">
+<meta property="og:url" content="https://decodepolitics.org/sanantonio/school-money/">
+<meta property="og:image" content="https://decodepolitics.org/assets/og/og-home.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Charter vs Public-School Money on San Antonio&#x27;s Council — decode(politics):">
+<meta name="twitter:description" content="Charter-school sector: $11,991 · Public-school advocacy: $1,388 across the mayor and all ten council districts, donor by donor with receipts.">
+<meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-home.png">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ccircle%20cx='50'%20cy='50'%20r='50'%20fill='%2318314f'/%3E%3Cpath%20d='M43%2031%20L36%2031%20Q31%2031%2031%2036%20L31%2064%20Q31%2069%2036%2069%20L43%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Cpath%20d='M57%2031%20L64%2031%20Q69%2031%2069%2036%20L69%2064%20Q69%2069%2064%2069%20L57%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='50'%20cy='42'%20r='5.5'%20fill='%23bf1a13'/%3E%3Ccircle%20cx='50'%20cy='58'%20r='5.5'%20fill='%23bf1a13'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --page:#fff; --ink:#0c1a2c; --muted:#5b6b7a; --navy:#18314f;
+          --line:rgba(24,49,79,.12); --soft:rgba(24,49,79,.045); --fn:#cc1f3c; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--page); color:var(--ink); font-family:'Inter',system-ui,sans-serif; }
+  .wrap { max-width:880px; margin:0 auto; padding:0 20px 80px; }
+  header.top { padding:26px 0 8px; }
+  .wordmark { font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:19px;
+              letter-spacing:-.015em; text-decoration:none; color:var(--navy); }
+  .wordmark .fn { color:var(--fn); }
+  h1 { font-family:'Space Grotesk',sans-serif; font-size:clamp(26px,5vw,38px); color:var(--navy);
+       letter-spacing:-.02em; margin:26px 0 10px; }
+  .sub { color:var(--muted); font-size:16px; line-height:1.55; max-width:64ch; }
+  .context { margin:22px 0 6px; padding:16px 18px; background:var(--soft); border:1px solid var(--line);
+             border-radius:14px; font-size:14.5px; line-height:1.6; color:var(--ink); }
+  .totals { display:flex; gap:14px; flex-wrap:wrap; margin:20px 0 8px; }
+  .tot { flex:1 1 220px; border:1px solid var(--line); border-radius:14px; padding:14px 16px; }
+  .tot .v { font-family:'Space Grotesk',sans-serif; font-size:26px; font-weight:700; }
+  .tot .l { font-size:13px; color:var(--muted); margin-top:2px; }
+  .member { display:flex; gap:14px; padding:20px 0; border-bottom:1px solid var(--line); }
+  .rank { flex:none; width:34px; height:34px; border-radius:50%; background:var(--navy); color:#fff;
+          display:flex; align-items:center; justify-content:center; font-weight:700; font-size:15px;
+          font-family:'Space Grotesk',sans-serif; margin-top:2px; }
+  .body { flex:1; min-width:0; }
+  .who { font-size:17px; font-weight:600; }
+  .who a { color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line); }
+  .who a:hover { color:var(--fn); border-color:var(--fn); }
+  .dist { color:var(--muted); font-weight:500; font-size:13.5px; margin-left:8px; }
+  .bars { margin:10px 0 4px; display:grid; gap:6px; }
+  .barrow { display:grid; grid-template-columns:150px 1fr 84px; gap:10px; align-items:center; }
+  .side-label { font-size:12.5px; font-weight:600; }
+  .track { height:14px; background:var(--soft); border-radius:7px; overflow:hidden; }
+  .fill { height:100%; border-radius:7px; }
+  .amt { font-size:13px; font-weight:600; text-align:right; font-variant-numeric:tabular-nums; }
+  details { margin-top:8px; }
+  summary { cursor:pointer; font-size:13.5px; color:var(--muted); }
+  summary:hover { color:var(--fn); }
+  .side-h { font-size:12.5px; font-weight:700; text-transform:uppercase; letter-spacing:.04em;
+            margin:12px 0 4px; }
+  .donor { border-left:3px solid var(--line); padding:7px 12px; margin:6px 0; background:var(--soft);
+           border-radius:0 10px 10px 0; }
+  .donor-head { display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .donor-name { font-weight:600; font-size:14px; }
+  .donor-amt { font-size:13px; color:var(--muted); font-variant-numeric:tabular-nums; }
+  .orgs { list-style:none; margin-top:3px; }
+  .orgs li { font-size:13px; color:var(--ink); line-height:1.5; }
+  .role { color:var(--muted); }
+  .src { font-size:12px; color:var(--fn); text-decoration:none; white-space:nowrap; }
+  .none { font-size:13.5px; color:var(--muted); margin-top:8px; }
+  .method { margin-top:34px; padding:16px 18px; border:1px solid var(--line); border-radius:14px;
+            font-size:13.5px; line-height:1.65; color:var(--muted); }
+  .method strong { color:var(--ink); }
+  footer { margin-top:26px; font-size:12.5px; color:var(--muted); }
+  footer a { color:var(--muted); }
+  @media (max-width:560px) { .barrow { grid-template-columns:110px 1fr 74px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top"><a class="wordmark" href="/sanantonio/">decode<span class="fn">(</span>politics<span class="fn">)</span>:</a></header>
+  <h1>The School Money Scoreboard</h1>
+  <p class="sub">Mayor and council, ranked by campaign money from the charter-school sector versus teacher unions and public-school advocacy.</p>
+  <div class="context">San Antonio is one of the most charter-saturated cities in Texas, and education money moves through its city races: Futuro San Antonio (whose PAC is funded largely by national school-choice donors), Charter Schools Now PAC (the Texas charter association's committee), and charter-network leadership on one side; the San Antonio Alliance of Teachers and Support Personnel, AFT locals, and public-school advocacy on the other. This page counts only contributions from donors with a <em>documented</em> role on one side or the other — network executives, board members, staff, advocacy organizations, and the PACs themselves where they gave directly.</div>
+  <div class="totals">
+    <div class="tot"><div class="v" style="color:#9333ea">$11,991</div>
+      <div class="l">Charter-school sector — Donors employed by or leading charter networks and school-choice advocacy/funding orgs</div></div>
+    <div class="tot"><div class="v" style="color:#0369a1">$1,388</div>
+      <div class="l">Public-school advocacy — Donors with documented teacher-union or public-school advocacy roles</div></div>
+  </div>
+  
+  <section class="member">
+    <div class="rank">1</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/kaur/">Sukh Kaur</a>
+        <span class="dist">District 1</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:100.0%;background:#9333ea"></div></div>
+          <span class="amt">$5,400</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <details><summary>11 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Lambrecht, Daiana</span><span class="donor-amt">$1,500 · 3 gifts</span></div><ul class="orgs"><li>Freedom Coalition of Charter Schools / Activate STL — <span class="role">Board member (per prior Rocketship bio)</span> <a class="src" href="https://www.charterfolk.org/charterfolk-contributor-daiana-lambrecht-elevating-all-students-in-san-antonio/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Futuro San Antonio — <span class="role">Founding Executive Director</span> <a class="src" href="https://futuro-sa.org/team-member/daiana-lambrecht/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Cotton, Inga</span><span class="donor-amt">$700 · 4 gifts</span></div><ul class="orgs"><li>Futuro San Antonio — <span class="role">Advisory board member</span> <a class="src" href="https://sachartermoms.com/about/inga-cotton-founder-executive-director/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>School Discovery Network / San Antonio Charter Moms — <span class="role">Founder &amp; Executive Director</span> <a class="src" href="https://schooldiscoverynetwork.org/about/inga-cotton/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">York, Evan</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>The Gathering Place — <span class="role">education staff (per candidate schedule filing)</span> <a class="src" href="https://sanantonioreport.org/two-applicants-look-to-open-new-charter-schools-in-san-antonio/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Whitmire, Tyler</span><span class="donor-amt">$500 · 2 gifts</span></div><ul class="orgs"><li>California Charter Schools Association — <span class="role">Founder of community-organizing wing</span> <a class="src" href="https://city-fund.org/about-us/our-team/tyler-whitmire/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Futuro San Antonio — <span class="role">Board member</span> <a class="src" href="https://city-fund.org/about-us/our-team/tyler-whitmire/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Morrissey, Paul</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>Compass Rose Education — <span class="role">Founder &amp; CEO (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Bradley, Katherine</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>KIPP Foundation — <span class="role">Board Chair</span> <a class="src" href="https://www.kipp.org/board-of-director/kathering-bradley-chair/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Bloomberg, Emma</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>KIPP Foundation — <span class="role">Chairwoman / Board Member</span> <a class="src" href="https://www.kipp.org/board-of-director/emma-bloomberg/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Rico, Victoria</span><span class="donor-amt">$400 · 1 gift</span></div><ul class="orgs"><li>Choose to Succeed — <span class="role">Co-founder</span> <a class="src" href="https://www.choosetosucceed.org/our-strategy/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Kindel, Aaron</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>BASIS.ed — <span class="role">Staff (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Jones, Bryant</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>Boston Preparatory Charter School / Montessori Community School of RI / Onward — <span class="role">Board member</span> <a class="src" href="https://www.pahara.org/fellow/bryant-weinberg-jones" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Dani, Ambika</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>Promesa Academy Charter School — <span class="role">Founder / CEO / Superintendent</span> <a class="src" href="https://thinkglobalschool.org/former-tgs-teacher-ambika-dani-discusses-promesa-academy/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Promesa Academy Charter School (San Antonio) — <span class="role">Founder &amp; Superintendent</span> <a class="src" href="https://www.promesaacademy.org/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">2</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/spears/">Misty Spears</a>
+        <span class="dist">District 9</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:43.5%;background:#9333ea"></div></div>
+          <span class="amt">$2,350</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <details><summary>9 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Lambrecht, Daiana</span><span class="donor-amt">$750 · 3 gifts</span></div><ul class="orgs"><li>Freedom Coalition of Charter Schools / Activate STL — <span class="role">Board member (per prior Rocketship bio)</span> <a class="src" href="https://www.charterfolk.org/charterfolk-contributor-daiana-lambrecht-elevating-all-students-in-san-antonio/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Futuro San Antonio — <span class="role">Founding Executive Director</span> <a class="src" href="https://futuro-sa.org/team-member/daiana-lambrecht/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Munsinger Cotton, Inga</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>San Antonio Charter Moms / School Discovery Network — <span class="role">Founder &amp; Executive Director</span> <a class="src" href="https://sachartermoms.com/about/inga-cotton-founder-executive-director/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">fishman, daniel</span><span class="donor-amt">$250 · 1 gift</span></div><ul class="orgs"><li>Choose to Succeed — <span class="role">CEO</span> <a class="src" href="https://blueprintfutures.org/board_members/dan-fishman/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Rico, Victoria</span><span class="donor-amt">$250 · 1 gift</span></div><ul class="orgs"><li>Choose to Succeed — <span class="role">Co-founder</span> <a class="src" href="https://www.choosetosucceed.org/our-strategy/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">PAC, Charter Schools Now</span><span class="donor-amt">$250 · 1 gift</span></div><ul class="orgs"><li>Charter Schools Now PAC — <span class="role">PAC (self); charter-school advocacy</span> <a class="src" href="https://charterschoolsnow.org/about-us/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Chaudoir, Bridie</span><span class="donor-amt">$150 · 1 gift</span></div><ul class="orgs"><li>Great Hearts Texas — <span class="role">College/career counselor, Monte Vista campus</span> <a class="src" href="https://montevista.greatheartsamerica.org/faculty-staff/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Cotton, Inga</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>Futuro San Antonio — <span class="role">Advisory board member</span> <a class="src" href="https://sachartermoms.com/about/inga-cotton-founder-executive-director/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>School Discovery Network / San Antonio Charter Moms — <span class="role">Founder &amp; Executive Director</span> <a class="src" href="https://schooldiscoverynetwork.org/about/inga-cotton/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Sigala, Tomas</span><span class="donor-amt">$50 · 1 gift</span></div><ul class="orgs"><li>School of Science and Technology (SST) — <span class="role">Advocacy and Outreach</span> <a class="src" href="https://www.zoominfo.com/p/Tomas-Sigala/11053706245" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Shemshack, Fawzy</span><span class="donor-amt">$50 · 1 gift</span></div><ul class="orgs"><li>School of Science and Technology (SST) — <span class="role">Superintendent/CEO</span> <a class="src" href="https://www.sstschools.org/our-model/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">3</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/whyte/">Marc Whyte</a>
+        <span class="dist">District 10</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:31.9%;background:#9333ea"></div></div>
+          <span class="amt">$1,725</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <details><summary>4 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Shemshack, Fawzy</span><span class="donor-amt">$900 · 4 gifts</span></div><ul class="orgs"><li>School of Science and Technology (SST) — <span class="role">Superintendent/CEO</span> <a class="src" href="https://www.sstschools.org/our-model/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Lambrecht, Daiana</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>Freedom Coalition of Charter Schools / Activate STL — <span class="role">Board member (per prior Rocketship bio)</span> <a class="src" href="https://www.charterfolk.org/charterfolk-contributor-daiana-lambrecht-elevating-all-students-in-san-antonio/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Futuro San Antonio — <span class="role">Founding Executive Director</span> <a class="src" href="https://futuro-sa.org/team-member/daiana-lambrecht/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Chaudoir, Verena</span><span class="donor-amt">$300 · 2 gifts</span></div><ul class="orgs"><li>Great Hearts Texas — <span class="role">Advocacy Manager (charter-school / school-choice policy advocacy)</span> <a class="src" href="https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002976_20230410_131717.pdf" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Cotton, Inga</span><span class="donor-amt">$25 · 1 gift</span></div><ul class="orgs"><li>Futuro San Antonio — <span class="role">Advisory board member</span> <a class="src" href="https://sachartermoms.com/about/inga-cotton-founder-executive-director/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>School Discovery Network / San Antonio Charter Moms — <span class="role">Founder &amp; Executive Director</span> <a class="src" href="https://schooldiscoverynetwork.org/about/inga-cotton/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">4</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/gavito/">Marina Alderete Gavito</a>
+        <span class="dist">District 7</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:20.8%;background:#9333ea"></div></div>
+          <span class="amt">$1,125</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <details><summary>3 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Lambrecht, Daiana</span><span class="donor-amt">$1,000 · 2 gifts</span></div><ul class="orgs"><li>Freedom Coalition of Charter Schools / Activate STL — <span class="role">Board member (per prior Rocketship bio)</span> <a class="src" href="https://www.charterfolk.org/charterfolk-contributor-daiana-lambrecht-elevating-all-students-in-san-antonio/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Futuro San Antonio — <span class="role">Founding Executive Director</span> <a class="src" href="https://futuro-sa.org/team-member/daiana-lambrecht/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Padron, Ana Lisa</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>IDEA Public Schools — <span class="role">Chief of Staff (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Cotton, Inga</span><span class="donor-amt">$25 · 1 gift</span></div><ul class="orgs"><li>Futuro San Antonio — <span class="role">Advisory board member</span> <a class="src" href="https://sachartermoms.com/about/inga-cotton-founder-executive-director/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>School Discovery Network / San Antonio Charter Moms — <span class="role">Founder &amp; Executive Director</span> <a class="src" href="https://schooldiscoverynetwork.org/about/inga-cotton/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">5</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/mckeerodriguez/">Jalen McKee-Rodriguez</a>
+        <span class="dist">District 2</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:16.4%;background:#9333ea"></div></div>
+          <span class="amt">$885</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.6%;background:#0369a1"></div></div>
+          <span class="amt">$35</span></div>
+      </div>
+      <details><summary>19 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Coleman, Austin</span><span class="donor-amt">$145 · 2 gifts</span></div><ul class="orgs"><li>IDEA Public Schools — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Crayton, Breane</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>KIPP San Antonio — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Carlisle, Geoffrey</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>KIPP Texas Public Schools — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Ellis, Tanisha</span><span class="donor-amt">$90 · 3 gifts</span></div><ul class="orgs"><li>San Antonio Prep Charter School — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Alanis, Jessica</span><span class="donor-amt">$80 · 2 gifts</span></div><ul class="orgs"><li>Brooks Academy — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Mitchell, Kimani</span><span class="donor-amt">$60 · 4 gifts</span></div><ul class="orgs"><li>KIPP Texas — <span class="role">Assistant Principal (filer-reported)</span></li><li>KIPP Texas Public Schools — <span class="role">assistant principal</span> <a class="src" href="https://kipptexas.org/our-schools/san-antonio/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Haughton, Andre</span><span class="donor-amt">$50 · 1 gift</span></div><ul class="orgs"><li>KIPP — <span class="role">Principal (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Waisel, Elizabeth</span><span class="donor-amt">$45 · 1 gift</span></div><ul class="orgs"><li>Excel Academy Charter School — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Ward, Zoey</span><span class="donor-amt">$40 · 2 gifts</span></div><ul class="orgs"><li>IDEA Public Schools — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Bremer, Jeri-Ashley</span><span class="donor-amt">$40 · 1 gift</span></div><ul class="orgs"><li>KIPP Texas Public Schools — <span class="role">Director of Secondary Instruction</span> <a class="src" href="https://www.zoominfo.com/p/Jeri-ashley-Bremer/5975487624" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Gonzales, Lauren</span><span class="donor-amt">$30 · 1 gift</span></div><ul class="orgs"><li>Jubilee Academy — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Chambers, Chae</span><span class="donor-amt">$25 · 1 gift</span></div><ul class="orgs"><li>Compass Rose Public Schools — <span class="role">Educator (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Garcia, Miguel</span><span class="donor-amt">$20 · 1 gift</span></div><ul class="orgs"><li>Jubilee Academies — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Strickland, Senait</span><span class="donor-amt">$15 · 1 gift</span></div><ul class="orgs"><li>BASIS — <span class="role">Educator (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Reed-Ogba, Christian</span><span class="donor-amt">$15 · 1 gift</span></div><ul class="orgs"><li>Compass Rose Public Schools — <span class="role">Board Member</span> <a class="src" href="https://theorg.com/org/compass-rose-public-schools/org-chart/christian-reed-ogba" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Murphy, Andrew</span><span class="donor-amt">$10 · 1 gift</span></div><ul class="orgs"><li>KIPP San Antonio — <span class="role">Development Coordinator (filer-reported)</span></li><li>KIPP Texas-San Antonio — <span class="role">Development Coordinator (fundraising/advancement staff)</span> <a class="src" href="https://en.wikipedia.org/wiki/KIPP_San_Antonio_Public_Schools" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Felan, Amy Rose</span><span class="donor-amt">$10 · 1 gift</span></div><ul class="orgs"><li>Compass Rose Public Schools — <span class="role">Educator (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Breviglia, emily</span><span class="donor-amt">$10 · 1 gift</span></div><ul class="orgs"><li>KIPP Texas — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="side-h" style="color:#0369a1">Public-school advocacy donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Zimmerman, Sarah</span><span class="donor-amt">$35 · 2 gifts</span></div><ul class="orgs"><li>San Antonio Alliance of Teachers and Support Personnel (Local 67) — <span class="role">SAISD teacher publicly aligned with union position</span> <a class="src" href="https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">6</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/jones/">Gina Ortiz Jones</a>
+        <span class="dist">Mayor</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:7.3%;background:#9333ea"></div></div>
+          <span class="amt">$394</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <details><summary>5 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Dillard, Brian</span><span class="donor-amt">$200 · 2 gifts</span></div><ul class="orgs"><li>Futuro San Antonio / SAISD Foundation / Corazon Ministries — <span class="role">Board member</span> <a class="src" href="https://futuro-sa.org/team-member/brian-dillard/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Chavez, Melissa</span><span class="donor-amt">$100 · 1 gift</span></div><ul class="orgs"><li>Compass Rose Public Schools — <span class="role">Assistant Principal (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Serrano, Arlene</span><span class="donor-amt">$50 · 1 gift</span></div><ul class="orgs"><li>Jubilee Academies — <span class="role">Coordinator (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Langston, Robert</span><span class="donor-amt">$25 · 1 gift</span></div><ul class="orgs"><li>BASIS — <span class="role">Teacher (filer-reported)</span></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Hidalgo, Celestina</span><span class="donor-amt">$19 · 2 gifts</span></div><ul class="orgs"><li>Relay Lab Schools / Relay GSE — <span class="role">Instructional Superintendent</span> <a class="src" href="https://www.relay.edu/leadership" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Transcend — <span class="role">Partner</span> <a class="src" href="https://transcendeducation.org/who-we-are/our-team/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">7</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/castillo/">Teri Castillo</a>
+        <span class="dist">District 5</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:1.1%;background:#9333ea"></div></div>
+          <span class="amt">$62</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:3.8%;background:#0369a1"></div></div>
+          <span class="amt">$202</span></div>
+      </div>
+      <details><summary>3 documented donors — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Murphy, Andrew</span><span class="donor-amt">$35 · 2 gifts</span></div><ul class="orgs"><li>KIPP San Antonio — <span class="role">Development Coordinator (filer-reported)</span></li><li>KIPP Texas-San Antonio — <span class="role">Development Coordinator (fundraising/advancement staff)</span> <a class="src" href="https://en.wikipedia.org/wiki/KIPP_San_Antonio_Public_Schools" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">Dani, Ambika</span><span class="donor-amt">$27 · 1 gift</span></div><ul class="orgs"><li>Promesa Academy Charter School — <span class="role">Founder / CEO / Superintendent</span> <a class="src" href="https://thinkglobalschool.org/former-tgs-teacher-ambika-dani-discusses-promesa-academy/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>Promesa Academy Charter School (San Antonio) — <span class="role">Founder &amp; Superintendent</span> <a class="src" href="https://www.promesaacademy.org/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="side-h" style="color:#0369a1">Public-school advocacy donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Zimmerman, Sarah</span><span class="donor-amt">$202 · 8 gifts</span></div><ul class="orgs"><li>San Antonio Alliance of Teachers and Support Personnel (Local 67) — <span class="role">SAISD teacher publicly aligned with union position</span> <a class="src" href="https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">8</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/gonzalez/">Ivalis Meza Gonzalez</a>
+        <span class="dist">District 8</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:0.9%;background:#9333ea"></div></div>
+          <span class="amt">$50</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <details><summary>1 documented donor — receipts</summary><div class="side-h" style="color:#9333ea">Charter-school sector donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Limon, John</span><span class="donor-amt">$50 · 1 gift</span></div><ul class="orgs"><li>IDEA Public Schools — <span class="role">Teacher (filer-reported)</span></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">9</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/galvan/">Ric Galvan</a>
+        <span class="dist">District 6</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#9333ea"></div></div>
+          <span class="amt">$0</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:18.5%;background:#0369a1"></div></div>
+          <span class="amt">$1,000</span></div>
+      </div>
+      <details><summary>2 documented donors — receipts</summary><div class="side-h" style="color:#0369a1">Public-school advocacy donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Local 67, San Antonio Alliance</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>American Federation of Teachers (AFT) / Texas AFT / AFL-CIO — <span class="role">Local affiliate (Local 67 teacher-support-personnel union)</span> <a class="src" href="https://www.sanantonioalliance.org/about" target="_blank" rel="noopener nofollow">source ↗</a></li><li>SAISD anti-charter advocacy — <span class="role">Union advocating against charter expansion</span> <a class="src" href="https://sanantonioreport.org/san-antonio-alliance-seeks-injunction-to-stop-charter-takeover/" target="_blank" rel="noopener nofollow">source ↗</a></li><li>San Antonio Alliance of Teachers and Support Personnel PAC — <span class="role">Registered Texas political committee (the donor entity)</span> <a class="src" href="https://www.transparencyusa.org/tx/committee/san-antonio-alliance-of-teachers-and-support-personnel-pac-16203-gpac" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div><div class="donor"><div class="donor-head"><span class="donor-name">AFT COPE, Northside</span><span class="donor-amt">$500 · 1 gift</span></div><ul class="orgs"><li>Northside AFT (American Federation of Teachers Local #3216) Committee on Political Education — <span class="role">teacher-union political action committee (donor entity itself)</span> <a class="src" href="https://www.northsideaft.org/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">10</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/mungia/">Edward Mungia</a>
+        <span class="dist">District 4</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#9333ea"></div></div>
+          <span class="amt">$0</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:2.8%;background:#0369a1"></div></div>
+          <span class="amt">$150</span></div>
+      </div>
+      <details><summary>1 documented donor — receipts</summary><div class="side-h" style="color:#0369a1">Public-school advocacy donors</div><div class="donor"><div class="donor-head"><span class="donor-name">Osteguin, Angelina</span><span class="donor-amt">$150 · 2 gifts</span></div><ul class="orgs"><li>South San Antonio ISD (traditional public school district) — <span class="role">Former Trustee / Board President, District 1</span> <a class="src" href="https://sanantonioreport.org/november-school-board-races-could-signal-turning-point-for-south-san-edgewood-isds/" target="_blank" rel="noopener nofollow">source ↗</a></li></ul></div></details>
+    </div>
+  </section>
+  <section class="member">
+    <div class="rank">11</div>
+    <div class="body">
+      <div class="who"><a href="/sanantonio/viagran/">Phyllis Viagran</a>
+        <span class="dist">District 3</span></div>
+      <div class="bars">
+        <div class="barrow"><span class="side-label" style="color:#9333ea">Charter-school sector</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#9333ea"></div></div>
+          <span class="amt">$0</span></div>
+        <div class="barrow"><span class="side-label" style="color:#0369a1">Public-school advocacy</span>
+          <div class="track"><div class="fill" style="width:0.0%;background:#0369a1"></div></div>
+          <span class="amt">$0</span></div>
+      </div>
+      <div class="none">No donors with a documented role on either side.</div>
+    </div>
+  </section>
+  <div class="method"><strong>How to read this:</strong> Every dollar above is a contribution to the
+    member's own city campaign from a donor with a <strong>documented organizational role</strong> —
+    ownership, board, leadership, staff, or a PAC giving directly — sourced from public records
+    (filings, org leadership pages, news coverage, or the donor's filer-reported employer). Nothing
+    is inferred from a name, a zip code, or fandom. <strong>Both sides were searched with equal
+    depth</strong> — a $0 side is an absence in the record, not an unsearched category. San Antonio
+    caps contributions per cycle ($1,000 mayor / $500 council), so influence shows up as many capped
+    gifts across a family or firm, not single large checks. Click any member for their full donor
+    profile; expand the receipts to see each donor's documented role and source.</div>
+  <footer>Generated 2026-08-19 from San Antonio campaign-finance filings ·
+    <a href="/sanantonio/">all San Antonio profiles</a></footer>
+</div>
+</body>
+</html>
