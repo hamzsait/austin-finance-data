@@ -1,12 +1,14 @@
 """
 fec_dedup_pass.py
 Repair FEC receipts attributed to more than one donor identity.
+Kept in sync with the SA repo's sa_fec_dedup_pass.py.
 
-The 2026-08-19 identity-fragmentation scan found 3,080 Austin clusters where
-two or more donor_ids share literal fec_sub_id rows in fec_contributions_raw:
-the same federal receipt counted once per fragment, multiplying every
-FEC-derived number (partisan lean, ip/ff/gun spectrum totals) by the fragment
-count — e.g. Robert Epstein's $406,600 AIPAC-spectrum total appeared 4x.
+The 2026-08-19 identity-fragmentation scan found 3,080 Austin clusters
+where two or more donor_ids share literal fec_sub_id rows in
+fec_contributions_raw: the same federal receipt counted once per fragment,
+multiplying every FEC-derived number (partisan lean, ip/ff/gun spectrum
+totals) by the fragment count — e.g. Robert Epstein's AIPAC-spectrum total
+appeared 4x.
 
 A shared sub_id proves double-attribution but NOT that the fragments are one
 person: two different local "Maria Garcia"s can both fuzzy-match the same
@@ -125,6 +127,14 @@ ENRICHED_FIELDS = ("resolved_industry", "resolved_employer_display",
                    "fec_partisan_lean", "fec_matched", "tec_matched",
                    "ip_spectrum", "ff_spectrum", "gun_spectrum")
 
+# Pairs a human has ruled to be DIFFERENT people — never auto-merge them.
+# (None adjudicated for Austin yet; the SA repo carries the Salazar pair.)
+ADJUDICATED_SEPARATE: set = set()
+
+# Sub_ids attributed to 2+ donors, set by plan(); donor_info() excludes them
+# when building trail evidence.
+SHARED_SUBIDS: set = set()
+
 
 def to_ascii(s: str) -> str:
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
@@ -206,6 +216,8 @@ def strong_link(a: dict, b: dict) -> str | None:
     # Joint-donor strings ("Krumme, Robin & Gregg") interact with the joint/
     # shadow-row machinery — never fold them into an individual. Two exact
     # copies of the same joint identity may still merge with each other.
+    if frozenset({a["id"], b["id"]}) in ADJUDICATED_SEPARATE:
+        return None
     a_joint = bool(JOINT_RE.search(a["name"]))
     b_joint = bool(JOINT_RE.search(b["name"]))
     if a_joint or b_joint:
@@ -261,16 +273,19 @@ class DSU:
             self.p[ra] = rb
 
 
-def load_components(cur) -> list[list[str]]:
-    """Connected components of donor_ids linked by shared fec_sub_ids."""
+def load_components(cur) -> tuple[list[list[str]], set[str]]:
+    """Connected components of donor_ids linked by shared fec_sub_ids, plus
+    the set of every shared sub_id (needed to compute exclusive trails)."""
     dsu = DSU()
     linked = set()
+    shared_subids = set()
     for sub_id, ids_csv in cur.execute("""
         SELECT fec_sub_id, GROUP_CONCAT(DISTINCT donor_id)
         FROM fec_contributions_raw
         WHERE fec_sub_id IS NOT NULL AND fec_sub_id != ''
         GROUP BY fec_sub_id HAVING COUNT(DISTINCT donor_id) > 1
     """):
+        shared_subids.add(sub_id)
         ids = ids_csv.split(",")
         linked.update(ids)
         for other in ids[1:]:
@@ -278,7 +293,7 @@ def load_components(cur) -> list[list[str]]:
     comps = defaultdict(list)
     for did in linked:
         comps[dsu.find(did)].append(did)
-    return [sorted(v) for v in comps.values() if len(v) > 1]
+    return [sorted(v) for v in comps.values() if len(v) > 1], shared_subids
 
 
 def donor_info(cur, ids: list[str]) -> dict[str, dict]:
@@ -297,14 +312,19 @@ def donor_info(cur, ids: list[str]) -> dict[str, dict]:
     for did in ids:
         out.setdefault(did, {"id": did, "name": "", "zip5": "", "emp": set(),
                              "records": 0, "nparse": ("", "", [])})
-    # Federal record trail per donor: every zip and employer FEC itself has
-    # on file for this donor's matched rows (used for mover corroboration).
+    # Federal record trail per donor — from rows EXCLUSIVE to that donor
+    # (shared rows are the very duplication in question: two doppelgangers
+    # holding the same mis-matched receipt set would each "corroborate" the
+    # other from it, which is how the adjudicated Salazar pair would falsely
+    # merge). Only receipts nobody else holds count as trail evidence.
     for did in ids:
         out[did]["fzips"] = set()
         out[did]["femps"] = set()
-    for did, fzip, femp in cur.execute(f"""
-        SELECT donor_id, fec_contributor_zip, fec_employer
+    for did, sid, fzip, femp in cur.execute(f"""
+        SELECT donor_id, fec_sub_id, fec_contributor_zip, fec_employer
         FROM fec_contributions_raw WHERE donor_id IN ({ph})""", ids):
+        if sid in SHARED_SUBIDS:
+            continue
         z = zip5(fzip)
         if z:
             out[did]["fzips"].add(z)
@@ -314,7 +334,8 @@ def donor_info(cur, ids: list[str]) -> dict[str, dict]:
 
 def plan(cur):
     """Build the merge groups and the strip/review row plan."""
-    comps = load_components(cur)
+    global SHARED_SUBIDS
+    comps, SHARED_SUBIDS = load_components(cur)
     print(f"[fec-dedup] {len(comps)} shared-receipt components "
           f"({sum(len(c) for c in comps)} donor_ids)")
 
@@ -433,8 +454,28 @@ def apply_merges(cur, merge_groups: list[list[str]]) -> dict[str, str]:
                           if rows[d].get("first_seen")), default="")
         last_seen = max((rows[d].get("last_seen") for d in group
                          if rows[d].get("last_seen")), default="")
+        # Canonical name from the most common raw donor string post-remap:
+        # keeps compound surnames like "Bar Yadin" intact, which the
+        # name-matched civic_affiliations bucket depends on. Ties break on
+        # quality — penalize joint strings, glued leading initials, and
+        # shouting caps — so "Lopez, Steven" beats "Steven Lopez, Steven".
+        def name_quality(n: str) -> tuple:
+            penalty = 0
+            if JOINT_RE.search(n):
+                penalty += 4
+            head = n.split(",")[0].strip()
+            if re.match(r"^[A-Za-z]\.? ", head):
+                penalty += 2
+            if n.isupper():
+                penalty += 1
+            return (-penalty, len(n))
+        names = Counter(r[0] for r in cur.execute(
+            "SELECT donor FROM campaign_finance WHERE donor_id=? AND donor IS NOT NULL",
+            (winner,)))
+        best_name = (max(names.items(), key=lambda kv: (kv[1], *name_quality(kv[0])))[0]
+                     if names else rows[ordered[0]].get("canonical_name"))
         updates = {
-            "canonical_name": rows[ordered[0]].get("canonical_name"),
+            "canonical_name": best_name,
             "canonical_zip": next((rows[d].get("canonical_zip") for d in ordered
                                    if rows[d].get("canonical_zip")), ""),
             "canonical_employer": next((rows[d].get("canonical_employer") for d in ordered
