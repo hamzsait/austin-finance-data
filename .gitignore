@@ -55,3 +55,6 @@ travis_county_filings/pct4_*/
 .DS_Store
 Thumbs.db
 _scratch/
+
+# Local design mockups (63 MB, not part of the site)
+Monica Design Templates/

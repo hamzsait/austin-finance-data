@@ -16,7 +16,8 @@ from pathlib import Path
 
 SITE = "https://decodepolitics.org"
 
-SKIP_DIRS = {".git", "node_modules", "_deprecated", "__pycache__"}
+SKIP_DIRS = {".git", "node_modules", "_deprecated", "__pycache__",
+             "archive", "docs", "_scratch", "Monica Design Templates"}
 
 # Self-canonical pages deliberately kept out of the sitemap.
 EXCLUDE = {
