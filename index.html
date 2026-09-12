@@ -51,112 +51,279 @@
 
   gtag('config', 'G-Q7CGQXXKCN');
 </script>
-  <title>decode(politics): — Launching soon</title>
+  <title>decode(politics): — Follow the money</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ccircle%20cx='50'%20cy='50'%20r='50'%20fill='%2318314f'/%3E%3Cpath%20d='M43%2031%20L36%2031%20Q31%2031%2031%2036%20L31%2064%20Q31%2069%2036%2069%20L43%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Cpath%20d='M57%2031%20L64%2031%20Q69%2031%2069%2036%20L69%2064%20Q69%2069%2064%2069%20L57%2069'%20fill='none'%20stroke='%23cfe3f5'%20stroke-width='7'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='50'%20cy='42'%20r='5.5'%20fill='%23bf1a13'/%3E%3Ccircle%20cx='50'%20cy='58'%20r='5.5'%20fill='%23bf1a13'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&family=Oswald:wght@400;500;600;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <style>
     :root{
-      --page:#ffffff; --ink:#0c1a2c; --muted:#5b6b7a; --line:rgba(24,49,79,.12);
-      --sky:#c8e0f4; --accent:#ba1200; --accent-hover:#8a0d00; --navy:#18314f;
+      color-scheme: light;
+      --ground:#c8e0f4;      /* decode sky blue */
+      --ground-deep:#b6d5ef;
+      --paper:#ffffff;
+      --cream:#eef5fc;
+      --ink:#0c1a2c;         /* decode ink */
+      --muted:#5b6b7a;
+      --label:#8ba3ba;       /* big section-label, muted slate */
+      --hair:rgba(24,49,79,.32);
+      --hair-soft:rgba(24,49,79,.15);
+      --red:#ba1200;         /* decode accent */
+      --red-deep:#8a0d00;
+      --navy:#18314f;
+      --slab:'Bevan',Georgia,'Times New Roman',serif;
+      --goth:'Oswald','Arial Narrow',system-ui,sans-serif;
+      --serif:'PT Serif',Georgia,serif;
     }
     *{box-sizing:border-box;margin:0;padding:0}
-    body{background:var(--page);color:var(--ink);font-family:'Inter',system-ui,sans-serif;min-height:100vh;display:flex;flex-direction:column;}
-    .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
+    html{scroll-behavior:smooth}
+    body{background:var(--ground);color:var(--ink);font-family:var(--serif);
+         -webkit-font-smoothing:antialiased;line-height:1.5;
+         display:flex;flex-direction:column;min-height:100vh}
+    a{color:inherit}
+    .wrap{width:100%;max-width:1180px;margin:0 auto;padding:0 clamp(18px,4vw,40px)}
 
-    .siteheader{display:flex;flex-direction:column;background:var(--page)}
-    .tabstrip{display:flex;align-items:flex-end;gap:13px;padding-top:11px;background:var(--sky)}
-    .traffic{display:flex;align-items:center;gap:8px;padding-bottom:15px}
-    .traffic i{width:11px;height:11px;border-radius:50%;display:block}
-    .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:12px 12px 0 0;max-width:380px;background:#ffffff;text-decoration:none}
-    .browsertab .corner{position:absolute;bottom:0;width:13px;height:13px}
-    .browsertab .corner.l{left:-13px;background:radial-gradient(circle at top left,transparent 13px,#ffffff 13.5px)}
-    .browsertab .corner.r{right:-13px;background:radial-gradient(circle at top right,transparent 13px,#ffffff 13.5px)}
-    .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:19px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
-    .wordmark .fn{color:#cc1f3c}
-    .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:1px;background:#cc1f3c;display:inline-block;opacity:.9;animation:blink 1.05s steps(1) infinite}
-    @keyframes blink{50%{opacity:0}}
-    @media (prefers-reduced-motion:reduce){.wordmark .cur{animation:none}}
-    .tabx{margin-left:auto;color:var(--muted);opacity:.55;display:inline-flex;flex:none}
-    .newtab{width:26px;height:26px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted);opacity:.6;flex:none}
-    .navrow{min-height:52px;display:flex;align-items:center;justify-content:flex-start;background:rgba(255,255,255,.5);border-bottom:1px solid var(--line)}
-    nav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:500}
-    .nlink{color:var(--ink);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
-    .nlink:hover{background:#F5A623;color:#18314f}
-    .nlink.live{border:1px solid var(--accent);color:var(--accent);gap:7px}
-    .nlink.live .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:pulse 1.6s ease infinite}
-    @keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.3);opacity:1}}
-    @media (max-width:680px){.padx{padding-left:20px;padding-right:20px}nav{gap:15px;font-size:13px;flex-wrap:wrap}.siteheader{position:sticky;top:0;z-index:300}}
+    /* ── Masthead ─────────────────────────────────────────── */
+    .mast{border-bottom:1px solid rgba(200,224,244,.18);background:var(--navy);
+          position:sticky;top:0;z-index:200}
+    .mast-row{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;
+              gap:14px 16px;padding:16px 0 14px}
+    .mast-nav{display:flex;gap:9px;flex-wrap:wrap;align-items:center;justify-self:end}
+    .mast .wrap{max-width:none}
+    @media (max-width:680px){
+      .mast-row{grid-template-columns:1fr;justify-items:center}
+      .mast-spacer{display:none}
+      .mast-nav{justify-self:center}
+    }
+    @media (max-width:520px){
+      /* let the big display type shrink and wrap so long lines never clip on a phone
+         (text-wrap needed too: white-space alone does not cancel text-wrap:nowrap in Chrome) */
+      h1.head{white-space:normal !important;text-wrap:wrap !important;font-size:clamp(22px,7.2vw,30px) !important}
+      .about-heading{font-size:clamp(24px,7.2vw,36px) !important}
+    }
+    .obtn{font-family:var(--goth);font-weight:600;font-size:12px;letter-spacing:.12em;
+          text-transform:uppercase;text-decoration:none;color:#ffffff;
+          border:1px solid rgba(200,224,244,.5);background:transparent;
+          padding:8px 13px;display:inline-flex;align-items:center;gap:7px;
+          transition:background .14s ease,color .14s ease,border-color .14s ease}
+    .obtn:hover{background:var(--ground);color:var(--navy);border-color:var(--ground)}
+    @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(191,26,19,.5)}50%{box-shadow:0 0 0 5px rgba(191,26,19,0)}}
 
-    main{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:80px 24px}
-    .eyebrow{font-family:'Oswald',sans-serif;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:14px}
-    .bigcode{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(34px,7vw,64px);letter-spacing:-.03em;line-height:1.05;margin-bottom:16px}
-    .bigcode .f{color:#cc1f3c}.bigcode .p{color:var(--navy)}
-    main p{color:var(--muted);font-size:15.5px;line-height:1.65;max-width:54ch;margin-bottom:30px}
-    .btnrow{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
-    .btn{display:inline-flex;align-items:center;justify-content:center;background:var(--accent);color:#fff;text-decoration:none;padding:13px 26px;border-radius:999px;font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:14.5px;transition:background .15s ease}
-    .btn:hover{background:var(--accent-hover)}
+    .wordmark{font-family:'Space Grotesk',system-ui,sans-serif;font-weight:700;
+              font-size:clamp(23px,3.6vw,36px);line-height:1;letter-spacing:-.015em;
+              text-decoration:none;color:#ffffff;white-space:nowrap}
+    .wordmark .d{color:var(--red)}
+    .wordmark .op{color:var(--ground)}
+    .wordmark .cn{color:var(--red);animation:colonblink 2s steps(1,end) infinite}
+    @keyframes colonblink{0%,55%{opacity:1}56%,100%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.wordmark .cn{animation:none}}
 
-    footer{padding:20px 24px;border-top:1px solid var(--line);background:var(--sky);font-size:12.5px;color:var(--muted);text-align:center}
+    /* ── Hero ─────────────────────────────────────────────── */
+    main{flex:1;background:var(--paper)}
+    .hero{position:relative;padding:clamp(46px,8vw,92px) 0 clamp(40px,6vw,72px)}
+    .hero .wrap{position:relative;z-index:1}
+    .eyebrow{font-family:var(--goth);font-weight:600;font-size:13px;letter-spacing:.24em;
+             text-transform:uppercase;color:var(--red);margin-bottom:20px;
+             display:flex;align-items:center;gap:12px}
+    .eyebrow::after{content:"";height:1px;width:64px;background:var(--red);opacity:.55}
+    h1.head{font-family:var(--slab);font-weight:400;text-transform:uppercase;
+            font-size:clamp(30px,4.6vw,54px);line-height:.98;letter-spacing:.004em;
+            color:#111111;text-wrap:nowrap;max-width:none}
+
+    /* ── City tiles — red duotone overlay, clickable ── */
+    .tiles{display:grid;grid-template-columns:1fr 1fr;gap:clamp(14px,2.2vw,22px);
+      margin-top:clamp(28px,3.5vw,40px)}
+    .tile{position:relative;display:block;aspect-ratio:16/11;overflow:hidden;
+      background:#3d0b06;text-decoration:none;border:1px solid var(--hair);
+      transition:box-shadow .3s ease,transform .3s ease}
+    .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+      filter:grayscale(1) contrast(1.06);transition:transform .6s ease,filter .45s ease}
+    .tile .tint{position:absolute;inset:0;pointer-events:none;background:var(--red);
+      mix-blend-mode:multiply;opacity:.72;transition:opacity .4s ease}
+    .tile .grad{position:absolute;inset:0;pointer-events:none;
+      background:linear-gradient(180deg,transparent 40%,rgba(40,7,3,.72))}
+    .tile:hover{transform:translateY(-3px);box-shadow:0 20px 40px -22px rgba(40,7,3,.7)}
+    .tile:hover img{transform:scale(1.06);filter:grayscale(1) contrast(1.03) brightness(1.08)}
+    .tile:hover .tint{opacity:.6}
+    .tile:focus-visible{outline:3px solid var(--navy);outline-offset:2px}
+    .tlabel{position:absolute;left:clamp(18px,2vw,28px);right:18px;bottom:clamp(16px,2vw,24px);
+      z-index:2;color:#fff}
+    .tlabel .tt{font-family:var(--goth);font-weight:700;text-transform:uppercase;
+      font-size:clamp(15px,2.3vw,27px);line-height:1.05;letter-spacing:.005em;
+      display:inline-flex;align-items:center;gap:.38em;white-space:nowrap}
+    .tlabel .ar{font-family:var(--serif);display:inline-block;transition:transform .3s ease}
+    .tile:hover .ar{transform:translateX(9px)}
+    @media (prefers-reduced-motion:reduce){.tile,.tile img,.tint,.ar{transition:none}}
+    @media (max-width:640px){.tiles{grid-template-columns:1fr}}
+
+    /* ── About band + stats ── */
+    .about{position:relative;overflow:hidden;background:#16283f}
+    .about-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+      object-position:50% 45%;z-index:0;filter:grayscale(1) contrast(1.03)}
+    .about::after{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;
+      background:linear-gradient(270deg,rgba(24,49,79,.32) 4%,rgba(7,13,21,.84) 76%)}
+    .about-inner{position:relative;z-index:2;display:flex;max-width:1180px;margin:0 auto}
+    .about-text{flex:1 1 60%;padding:clamp(38px,5vw,66px) clamp(24px,4vw,48px)}
+    .about-eyebrow{font-family:var(--goth);font-weight:600;font-size:12px;letter-spacing:.24em;
+      text-transform:uppercase;color:var(--ground);margin:0 0 14px}
+    .about-heading{font-family:var(--slab);font-weight:400;text-transform:uppercase;
+      font-size:clamp(36px,5vw,58px);line-height:1;color:#fff;letter-spacing:.005em;margin:0 0 18px}
+    .about-copy{font-family:var(--serif);font-size:16.5px;line-height:1.62;color:#e9f1f9;
+      max-width:52ch;margin:0}
+    .about-copy2{margin-top:14px}
+    .about-copy a{color:#fff;font-weight:700;text-decoration:underline;
+      text-underline-offset:2px;text-decoration-color:var(--ground)}
+    .about-copy a:hover{text-decoration-color:#fff}
+    .about-highlight{flex:0 0 auto;width:340px;max-width:42%;background:var(--red);
+      padding:clamp(38px,4vw,58px) clamp(26px,3vw,38px) clamp(28px,3vw,38px);
+      box-sizing:border-box;display:flex;flex-direction:column}
+    .about-highlight-number{font-family:var(--slab);font-weight:400;font-size:clamp(46px,6vw,64px);
+      line-height:.95;color:#fff;margin:0 0 8px}
+    .about-highlight-label{font-family:var(--goth);font-weight:600;text-transform:uppercase;
+      font-size:16px;letter-spacing:.06em;line-height:1.2;color:#fff;margin:0 0 22px}
+    .cta-arrow-mo{display:inline-flex;align-items:center;gap:9px;font-family:var(--goth);
+      font-weight:600;text-transform:uppercase;letter-spacing:.1em;font-size:13px;color:#fff;
+      text-decoration:none;transition:gap .2s ease}
+    .cta-arrow-mo:hover{gap:14px}
+    .cta-arrow-mo span{font-family:var(--serif)}
+    @media (max-width:760px){.about-inner{flex-direction:column}.about-highlight{width:auto;max-width:none}}
+
+    .stats-bar{background:var(--navy);display:flex;justify-content:center;
+      gap:clamp(26px,5vw,60px);padding:30px clamp(18px,4vw,40px);flex-wrap:wrap}
+    .stat{text-align:center}
+    .stat-nw{display:flex;align-items:baseline;justify-content:center}
+    .stat-number,.stat-suffix{font-family:var(--slab);font-weight:400;
+      font-size:clamp(38px,4vw,48px);line-height:1;color:#fff}
+    .stat-title{font-family:var(--goth);font-weight:600;font-size:11px;letter-spacing:.14em;
+      text-transform:uppercase;color:var(--ground);margin-top:9px}
+
+    /* ── Footer ───────────────────────────────────────────── */
+    footer{background:var(--navy);border-top:1px solid rgba(200,224,244,.18);margin-top:auto}
+    footer .wrap{padding:26px clamp(18px,4vw,40px) 30px;display:flex;flex-wrap:wrap;
+      gap:10px 26px;align-items:baseline;justify-content:space-between}
+    footer .fine{font-family:var(--serif);font-size:13px;color:rgba(255,255,255,.86);line-height:1.5;max-width:62ch}
+    footer .fine a{color:var(--ground);font-weight:700;text-decoration:none;border-bottom:1px solid rgba(200,224,244,.4)}
+    footer .fine a:hover{color:#fff}
+    footer .social{display:inline-flex;align-items:center;gap:9px;text-decoration:none;
+      color:var(--ground);font-family:var(--goth);font-weight:600;font-size:12.5px;
+      letter-spacing:.1em;text-transform:lowercase;white-space:nowrap;transition:color .14s ease}
+    footer .social:hover{color:#fff}
+    footer .social svg{display:block;flex:none}
   </style>
 </head>
 <body>
-<div class="siteheader">
-  <div class="tabstrip padx">
-    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
-    <a class="browsertab" href="/" title="decode(politics):">
-      <span class="corner l"></span><span class="corner r"></span>
-      <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
-      <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
-      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
-    </a>
-    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="mast-row">
+      <span class="mast-spacer" aria-hidden="true"></span>
+      <a class="wordmark" href="/"><span class="d">decode</span><span class="op">(</span>politics<span class="op">)</span><span class="cn">:</span></a>
+      <div class="mast-nav">
+        <a class="obtn" href="/">Home</a>
+        <a class="obtn" href="/austin/">Austin</a>
+        <a class="obtn" href="/sanantonio/">San Antonio</a>
+      </div>
+    </div>
   </div>
-  <div class="navrow padx">
-    <nav>
-      <a class="nlink live" href="/austin/"><span class="dot"></span>Austin Finance</a>
-      <a class="nlink" href="/sanantonio/">San Antonio Finance</a>
-    </nav>
-  </div>
-</div>
+</header>
 
 <main>
-  <div class="eyebrow">Launching soon</div>
-  <div class="bigcode"><span class="f">decode</span><span class="p">(</span>politics<span class="p">)</span><span class="f">:</span></div>
-  <p>Reading the signal under the noise. We pull every filing, match each dollar to the office and donor, and publish clear, sourced scorecards — unbought. The full site is under construction, but the Austin City Council money is already decoded, donor by donor, for all 11 seats.</p>
-  <div class="btnrow">
-    <a class="btn" href="/austin/">Explore Austin campaign finance</a>
-  </div>
+  <section class="about">
+    <img class="about-bg" src="assets/home/about-bg.jpg" alt="" aria-hidden="true">
+    <div class="about-inner">
+      <div class="about-text">
+        <p class="about-eyebrow">About</p>
+        <h2 class="about-heading">A Force for<br>Transparency</h2>
+        <p class="about-copy">decode(politics): is an independent, nonpartisan campaign-finance project. We pull every public filing and match each dollar to its office, its donor, and that donor's employer and industry — then publish it as clear, sourced scorecards. Right now we cover central Texas, and we're expanding. Pick a city, and follow the money.</p>
+        <p class="about-copy about-copy2"><a href="mailto:info@decodepolitics.org">Get in touch</a> to ask for data on your local area, review our methodology, or send us your questions and concerns.</p>
+      </div>
+      <div class="about-highlight">
+        <p class="about-highlight-number">$9.4M</p>
+        <p class="about-highlight-label">Decoded donations</p>
+        <a class="cta-arrow-mo" href="#explore">See the data <span aria-hidden="true">&#10230;</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats-bar">
+    <div class="stat">
+      <div class="stat-nw"><span class="stat-number" data-to-value="17" data-duration="1800">0</span></div>
+      <div class="stat-title">Officials decoded</div>
+    </div>
+    <div class="stat">
+      <div class="stat-nw"><span class="stat-number" data-to-value="19400" data-duration="1800" data-delimiter=",">0</span><span class="stat-suffix">+</span></div>
+      <div class="stat-title">Donors traced</div>
+    </div>
+    <div class="stat">
+      <div class="stat-nw"><span class="stat-number" data-to-value="100" data-duration="1800">0</span><span class="stat-suffix">%</span></div>
+      <div class="stat-title">From public filings</div>
+    </div>
+    <div class="stat">
+      <div class="stat-nw"><span class="stat-number" data-to-value="11" data-duration="1800">0</span></div>
+      <div class="stat-title">Council seats decoded</div>
+    </div>
+  </section>
+
+  <section class="hero" id="explore" style="scroll-margin-top:24px">
+    <div class="wrap">
+      <p class="eyebrow">Campaign finance · Texas</p>
+      <h1 class="head">Central Texas<br>campaign finance,<br>decoded</h1>
+      <div class="tiles">
+        <a class="tile" href="/austin/" aria-label="Explore Austin Finance">
+          <img src="assets/home/tile-austin.jpg" alt="Austin skyline over Lady Bird Lake">
+          <div class="tint"></div>
+          <div class="grad"></div>
+          <div class="tlabel"><span class="tt">Explore Austin Finance <span class="ar">&rarr;</span></span></div>
+        </a>
+        <a class="tile" href="/sanantonio/" aria-label="Explore San Antonio Finance">
+          <img src="assets/home/tile-sanantonio.jpg" alt="Downtown San Antonio skyline">
+          <div class="tint"></div>
+          <div class="grad"></div>
+          <div class="tlabel"><span class="tt">Explore San Antonio Finance <span class="ar">&rarr;</span></span></div>
+        </a>
+      </div>
+    </div>
+  </section>
+
 </main>
 
-<footer>© 2026 decode(politics): — All figures from public filings. No party money, no corporate money. · <a href="mailto:info@decodepolitics.org" style="color:inherit;font-weight:600;text-decoration:none">info@decodepolitics.org</a></footer>
+<footer>
+  <div class="wrap">
+    <p class="fine">© 2026 decode(politics): — All figures from public filings. <a href="mailto:info@decodepolitics.org">info@decodepolitics.org</a></p>
+    <a class="social" href="https://www.instagram.com/decodepolitics.us/" target="_blank" rel="noopener noreferrer" aria-label="decode(politics) on Instagram — @decodepolitics.us">
+      <svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="2.5" y="2.5" width="19" height="19" rx="5.2"></rect>
+        <circle cx="12" cy="12" r="4.3"></circle>
+        <circle cx="17.5" cy="6.5" r="1.15" fill="currentColor" stroke="none"></circle>
+      </svg>
+      <span>@decodepolitics.us</span>
+    </a>
+  </div>
+</footer>
 
 <script>
-(function(){
-  const host = document.getElementById('typedHost');
-  const text = "(politics):";
-  const reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion:reduce)').matches;
-  function paint(n){
-    let html = '';
-    for (let j = 0; j < n; j++){
-      const c = text[j];
-      const col = (c === '(' || c === ')') ? '#18314f' : (c === ':' ? '#cc1f3c' : '#18314f');
-      html += '<span style="color:' + col + '">' + c + '</span>';
+  // Count-up for the stats bar.
+  function animateCounter(el){
+    var toValue=parseFloat(el.getAttribute('data-to-value'));
+    var duration=parseInt(el.getAttribute('data-duration'),10)||2000;
+    var delimiter=el.getAttribute('data-delimiter')||'';
+    var isDecimal=el.getAttribute('data-to-value').indexOf('.')!==-1;
+    if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion:reduce)').matches){
+      el.textContent=isDecimal?toValue.toFixed(1):toValue.toLocaleString('en-US');return;
     }
-    host.innerHTML = html;
+    var start=null;
+    function step(ts){
+      if(!start)start=ts;
+      var p=Math.min((ts-start)/duration,1), cur=p*toValue;
+      var disp=isDecimal?cur.toFixed(1):Math.floor(cur).toString();
+      if(delimiter&&!isDecimal){disp=Math.floor(cur).toLocaleString('en-US');}
+      el.textContent=disp;
+      if(p<1){requestAnimationFrame(step);}
+      else{el.textContent=isDecimal?toValue.toFixed(1):toValue.toLocaleString('en-US');}
+    }
+    requestAnimationFrame(step);
   }
-  if (reduced){ paint(text.length); return; }
-  // type out once, then stop — the cursor keeps blinking via its CSS animation
-  let i = 0;
-  function tick(){
-    paint(i);
-    if (i >= text.length) return;
-    i++;
-    setTimeout(tick, 115);
-  }
-  tick();
-})();
+  document.querySelectorAll('.stat-number').forEach(animateCounter);
 </script>
 </body>
 </html>
