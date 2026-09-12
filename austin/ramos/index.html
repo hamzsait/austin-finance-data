@@ -4,20 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Social link previews (Open Graph + Twitter) — placeholders filled by build_candidate.py -->
-<meta name="description" content="Misael Ramos is running for Austin City Council District 1, an open seat. Raised $24,846 from 232 donors this cycle. Top donor interests: Technology ($3,258) and Not Employed ($3,123). Every dollar decoded, donor by donor.">
+<meta name="description" content="Misael Ramos is running for Austin City Council District 1, an open seat. Raised $24,871 from 230 donors this cycle. Top donor interests: Technology ($3,233) and Not Employed ($3,098). Every dollar decoded, donor by donor.">
 <link rel="canonical" href="https://decodepolitics.org/austin/ramos/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="Misael Ramos — District 1 Candidate — decode(politics):">
-<meta property="og:description" content="Misael Ramos is running for Austin City Council District 1, an open seat. Raised $24,846 from 232 donors this cycle. Top donor interests: Technology ($3,258) and Not Employed ($3,123). Every dollar decoded, donor by donor.">
+<meta property="og:description" content="Misael Ramos is running for Austin City Council District 1, an open seat. Raised $24,871 from 230 donors this cycle. Top donor interests: Technology ($3,233) and Not Employed ($3,098). Every dollar decoded, donor by donor.">
 <meta property="og:url" content="https://decodepolitics.org/austin/ramos/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-ramos.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Misael Ramos (District 1 candidate) — $24,846 raised, 232 donors, decoded by decode(politics):">
+<meta property="og:image:alt" content="Misael Ramos (District 1 candidate) — $24,871 raised, 230 donors, decoded by decode(politics):">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Misael Ramos — District 1 Candidate — decode(politics):">
-<meta name="twitter:description" content="Misael Ramos is running for Austin City Council District 1, an open seat. Raised $24,846 from 232 donors this cycle. Top donor interests: Technology ($3,258) and Not Employed ($3,123). Every dollar decoded, donor by donor.">
+<meta name="twitter:description" content="Misael Ramos is running for Austin City Council District 1, an open seat. Raised $24,871 from 230 donors this cycle. Top donor interests: Technology ($3,233) and Not Employed ($3,098). Every dollar decoded, donor by donor.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-ramos.png">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
@@ -33,6 +33,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bevan&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
   :root {
@@ -80,36 +81,29 @@
   }
 
   /* ── decode(politics): browser-tab site header ── */
-  .padx{padding-left:max(48px,calc((100% - 1480px)/2));padding-right:max(48px,calc((100% - 1480px)/2))}
+  .padx{padding-left:max(48px,calc((100% - 1180px)/2));padding-right:max(48px,calc((100% - 1180px)/2))}
   .siteheader{position:relative;z-index:100;display:flex;flex-direction:column;background:#ffffff}
   .tabstrip{display:flex;align-items:flex-end;gap:13px;padding-top:11px;background:var(--sky)}
   .traffic{display:flex;align-items:center;gap:8px;padding-bottom:15px}
   .traffic i{width:11px;height:11px;border-radius:50%;display:block}
-  .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:12px 12px 0 0;max-width:380px;background:#ffffff;text-decoration:none}
+  .browsertab{position:relative;display:flex;align-items:center;gap:11px;height:45px;padding:0 16px;border-radius:2px;max-width:380px;background:#ffffff;text-decoration:none}
   .browsertab .corner{position:absolute;bottom:0;width:13px;height:13px}
   .browsertab .corner.l{left:-13px;background:radial-gradient(circle at top left,transparent 13px,#ffffff 13.5px)}
   .browsertab .corner.r{right:-13px;background:radial-gradient(circle at top right,transparent 13px,#ffffff 13.5px)}
   .wordmark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:19px;letter-spacing:-.015em;white-space:nowrap;display:inline-flex;align-items:center;line-height:1}
   .wordmark .fn{color:#cc1f3c}
-  .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:1px;background:#cc1f3c;display:inline-block;opacity:.9;animation:wmblink 1.05s steps(1) infinite}
+  .wordmark .cur{width:2px;height:18px;margin-left:3px;border-radius:2px;background:#cc1f3c;display:inline-block;opacity:.9;animation:wmblink 1.05s steps(1) infinite}
   @keyframes wmblink{50%{opacity:0}}
   @media (prefers-reduced-motion:reduce){.wordmark .cur{animation:none}}
   .tabx{margin-left:auto;color:var(--muted);opacity:.55;display:inline-flex;flex:none}
   .newtab{width:26px;height:26px;margin-bottom:8px;display:flex;align-items:center;justify-content:center;color:var(--muted);opacity:.6;flex:none}
   .navrow{min-height:52px;display:flex;align-items:center;justify-content:flex-start;background:rgba(255,255,255,.5)}
   nav.sitenav{display:flex;align-items:center;gap:22px;font-size:14px;font-weight:500}
-  .nlink{color:var(--text);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:999px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
+  .nlink{color:var(--text);text-decoration:none;cursor:pointer;padding:7px 14px;border-radius:2px;display:inline-flex;align-items:center;gap:5px;transition:background .12s ease,color .12s ease}
   .nlink:hover{background:#F5A623;color:#18314f}
   .nlink.live{border:1px solid var(--accent);color:var(--accent);gap:7px}
   .nlink.live .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:navpulse 1.6s ease infinite}
   @keyframes navpulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.3);opacity:1}}
-  .navitem{position:relative;display:inline-flex}
-  .navitem:hover > .nlink{background:#F5A623;color:#18314f}
-  .dropwrap{position:absolute;top:100%;left:0;padding-top:11px;opacity:0;visibility:hidden;transition:opacity .2s ease,visibility .2s ease;z-index:140}
-  .navitem:hover .dropwrap{opacity:1;visibility:visible}
-  .dropcard{min-width:208px;background:#ffffff;border:1px solid var(--border);border-radius:16px;box-shadow:0 18px 40px -22px rgba(24,49,79,.42);padding:8px;display:flex;flex-direction:column;gap:2px}
-  .droplink{padding:9px 12px;border-radius:10px;color:var(--text);text-decoration:none;font-size:13.5px;white-space:nowrap;cursor:pointer;transition:background .12s ease,color .12s ease}
-  .droplink:hover{background:#F5A623;color:#18314f}
   @media (max-width:680px){.padx{padding-left:20px;padding-right:20px}nav.sitenav{gap:15px;font-size:13px;flex-wrap:wrap}.siteheader{position:sticky;top:0;z-index:300}.crumbbar{position:static}}
 
   /* ── Breadcrumb strip ── */
@@ -134,7 +128,19 @@
   .crumbbar #navCandidateName { color: var(--text); font-weight: 600; }
 
   /* ── Layout ── */
-  .page { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; }
+  .page { margin: 0; padding: 32px max(48px,calc((100% - 1180px)/2)) 80px; }
+  .hero-photo{display:block;width:100%;height:120px;object-fit:cover;object-position:50% 28%;filter:grayscale(1) contrast(1.05);border:1px solid var(--border);border-radius:2px;margin-bottom:12px}
+  .psearch{flex-basis:100%;width:100%;margin:11px 0 0;padding-top:11px;border-top:1px solid var(--border)}
+  #cycleNav.no-tabs .psearch{margin-top:0;padding-top:0;border-top:none}
+  .psearch-box{display:flex;align-items:center;gap:9px;background:var(--surface);border:1.5px solid var(--border);border-radius:2px;padding:10px 13px;max-width:520px}
+  .psearch-box:focus-within{border-color:var(--navy)}
+  .psearch-box svg{flex:none;opacity:.5}
+  .psearch-box input{flex:1;border:none;outline:none;background:transparent;font-family:'Inter',system-ui,sans-serif;font-size:14px;color:var(--text)}
+  .psearch-box input::placeholder{color:var(--muted)}
+  .psearch-help{font-family:'Inter',system-ui,sans-serif;font-size:12.5px;color:var(--muted);margin:8px 2px 0}
+  .cycle-label{font-family:'Oswald',system-ui,sans-serif;font-weight:600;letter-spacing:.1em;text-transform:uppercase}
+  .hero-stats .lbl,.sc-lbl{font-family:'Oswald',system-ui,sans-serif;text-transform:uppercase;letter-spacing:.07em}
+
 
   /* ── Loading state ── */
   .loading-overlay {
@@ -158,7 +164,7 @@
   .error-box {
     background: rgba(239,68,68,0.08);
     border: 1px solid rgba(239,68,68,0.3);
-    border-radius: 8px;
+    border-radius: 2px;
     padding: 16px 20px;
     color: #ef4444;
     max-width: 480px;
@@ -181,7 +187,7 @@
     display: inline-block;
     background: var(--surface2);
     border: 1px solid var(--border);
-    border-radius: 4px;
+    border-radius: 2px;
     padding: 2px 9px;
     font-size: 11px;
     font-weight: 600;
@@ -231,7 +237,7 @@
     color: var(--muted);
     background: var(--surface2);
     border: 1px solid var(--border);
-    border-radius: 6px;
+    border-radius: 2px;
     padding: 8px 12px;
     max-width: 220px;
   }
@@ -253,7 +259,7 @@
   .card {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 10px;
+    border-radius: 2px;
     padding: 20px;
   }
   .card-title {
@@ -292,13 +298,13 @@
   .ig-bar-wrap {
     flex: 1;
     background: var(--surface2);
-    border-radius: 3px;
+    border-radius: 2px;
     height: 8px;
     overflow: hidden;
   }
   .ig-bar {
     height: 100%;
-    border-radius: 3px;
+    border-radius: 2px;
     transition: width 0.6s ease;
   }
   .ig-amount {
@@ -357,7 +363,7 @@
   .tag {
     display: inline-block;
     padding: 1px 7px;
-    border-radius: 3px;
+    border-radius: 2px;
     font-size: 11px;
     font-weight: 600;
     margin-right: 4px;
@@ -405,7 +411,7 @@
     background: rgba(79,142,247,0.06);
     border: 1px solid rgba(79,142,247,0.2);
     border-left: 3px solid var(--accent);
-    border-radius: 6px;
+    border-radius: 2px;
     padding: 10px 14px;
     margin-bottom: 16px;
     font-size: 12px;
@@ -422,7 +428,7 @@
   .civic-stat {
     background: var(--surface2);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 2px;
     padding: 10px 12px;
     text-align: center;
   }
@@ -466,7 +472,7 @@
     background: var(--surface2);
     border: 1px solid var(--border);
     border-left: 3px solid var(--accent);
-    border-radius: 6px;
+    border-radius: 2px;
     padding: 12px 14px;
     margin-bottom: 8px;
   }
@@ -535,12 +541,12 @@
   .civic-zero {
     font-size: 12.5px; color: var(--muted); font-style: italic;
     padding: 10px 12px; background: var(--surface);
-    border: 1px dashed var(--border); border-radius: 8px;
+    border: 1px dashed var(--border); border-radius: 2px;
   }
   .civic-more {
     margin-top: 10px; width: 100%; cursor: pointer;
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 8px; padding: 9px 0; color: var(--muted);
+    border-radius: 2px; padding: 9px 0; color: var(--muted);
     font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 11.5px;
     letter-spacing: .06em; text-transform: uppercase;
     transition: background .13s ease, color .13s ease;
@@ -586,7 +592,7 @@
   }
   .year-bar {
     width: 100%;
-    border-radius: 4px 4px 0 0;
+    border-radius: 2px;
     background: var(--accent);
     opacity: 0.7;
     transition: opacity 0.2s;
@@ -604,28 +610,6 @@
     height: 180px;
     margin: 0 auto 16px;
   }
-
-  /* ── Insight callout ── */
-  .insight {
-    background: rgba(245,158,11,0.07);
-    border: 1px solid rgba(245,158,11,0.25);
-    border-left: 3px solid var(--c-realestate);
-    border-radius: 6px;
-    padding: 12px 14px;
-    margin-top: 16px;
-    font-size: 13px;
-    line-height: 1.5;
-  }
-  .insight strong { color: var(--c-realestate); }
-
-  .insight.blue {
-    background: rgba(79,142,247,0.07);
-    border-color: rgba(79,142,247,0.25);
-    border-left-color: var(--c-tech);
-  }
-  .insight.blue strong { color: var(--c-tech); }
-
-  .full-width { grid-column: 1 / -1; }
 
   /* ── Footer ── */
   footer {
@@ -655,7 +639,7 @@
   .summary-card {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 2px;
     padding: 14px 16px;
     cursor: pointer;
     transition: border-color 0.15s, transform 0.15s;
@@ -674,12 +658,12 @@
   }
 
   /* ── Clickable rows ── */
-  .ig-row { cursor: pointer; border-radius: 4px; transition: background 0.12s; }
+  .ig-row { cursor: pointer; border-radius: 2px; transition: background 0.12s; }
   .ig-row:hover { background: var(--surface2); }
   .year-col { cursor: pointer; }
   .year-col:hover .year-bar { filter: brightness(1.15); }
   .firm-row { cursor: pointer; }
-  .firm-row:hover { background: var(--surface2); border-radius: 4px; }
+  .firm-row:hover { background: var(--surface2); border-radius: 2px; }
   tr.clickable-row { cursor: pointer; }
   tr.clickable-row:hover td { background: rgba(79,142,247,0.06) !important; }
 
@@ -714,7 +698,7 @@
   .drawer-sub { font-size: 12px; color: var(--muted); margin-top: 3px; }
   .drawer-close {
     background: none; border: 1px solid var(--border); color: var(--muted);
-    width: 30px; height: 30px; border-radius: 5px; cursor: pointer;
+    width: 30px; height: 30px; border-radius: 2px; cursor: pointer;
     font-size: 18px; line-height: 1; flex-shrink: 0;
     display: flex; align-items: center; justify-content: center;
     transition: color 0.1s, border-color 0.1s;
@@ -727,14 +711,14 @@
   }
   .drawer-search {
     flex: 1; background: var(--surface2); border: 1px solid var(--border);
-    border-radius: 6px; padding: 7px 11px; color: var(--text); font-size: 13px;
+    border-radius: 2px; padding: 7px 11px; color: var(--text); font-size: 13px;
   }
   .drawer-search::placeholder { color: var(--muted); }
   .drawer-search:focus { outline: none; border-color: var(--accent); }
 
   .drawer-sort-sel {
     background: var(--surface2); border: 1px solid var(--border);
-    border-radius: 6px; padding: 7px 10px; color: var(--text);
+    border-radius: 2px; padding: 7px 10px; color: var(--text);
     font-size: 13px; cursor: pointer; min-width: 140px;
   }
   .drawer-sort-sel:focus { outline: none; }
@@ -783,7 +767,7 @@
 
   .sort-bar { display:flex; gap:6px; margin-bottom:10px; }
   .sort-btn {
-    padding:3px 10px; font-size:11px; border-radius:4px; cursor:pointer;
+    padding:3px 10px; font-size:11px; border-radius:2px; cursor:pointer;
     border:1px solid var(--border); background:var(--surface2); color:var(--muted);
     transition:all 0.15s;
   }
@@ -800,7 +784,7 @@
     padding: 12px 16px;
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 2px;
   }
   #cycleNav .cycle-label {
     font-size: 11px;
@@ -813,7 +797,7 @@
   .cycle-tab {
     padding: 4px 13px;
     font-size: 12px;
-    border-radius: 4px;
+    border-radius: 2px;
     cursor: pointer;
     border: 1px solid var(--border);
     background: var(--surface2);
@@ -832,7 +816,7 @@
   .comparison-card {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 10px;
+    border-radius: 2px;
     padding: 20px 24px;
   }
   .comparison-header {
@@ -924,13 +908,13 @@
   .cmp-bar-track {
     flex: 1;
     background: var(--surface2);
-    border-radius: 3px;
+    border-radius: 2px;
     height: 9px;
     overflow: hidden;
   }
   .cmp-bar-fill {
     height: 100%;
-    border-radius: 3px;
+    border-radius: 2px;
     transition: width 0.6s ease;
   }
   .cmp-bar-val {
@@ -948,17 +932,17 @@
     font-size: 12px; color: var(--muted); margin-bottom: 18px;
   }
   .ooa-legend .swatch {
-    display: inline-block; width: 10px; height: 10px; border-radius: 3px;
+    display: inline-block; width: 10px; height: 10px; border-radius: 2px;
     margin-right: 6px; vertical-align: baseline;
   }
   .ooa-entity-note {
     display: flex; gap: 8px; align-items: flex-start;
     font-size: 12px; color: var(--text); line-height: 1.55; max-width: 780px;
     background: rgba(30,138,85,.07); border: 1px solid rgba(30,138,85,.28);
-    border-radius: 6px; padding: 9px 12px; margin: -6px 0 18px;
+    border-radius: 2px; padding: 9px 12px; margin: -6px 0 18px;
   }
   .ooa-entity-note .swatch {
-    flex: none; width: 10px; height: 10px; border-radius: 3px;
+    flex: none; width: 10px; height: 10px; border-radius: 2px;
     background: #1e8a55; margin-top: 3px;
   }
   .ooa-entity-note a { color: var(--navy); font-weight: 600; }
@@ -975,7 +959,7 @@
   .ooa-status {
     display: inline-flex; align-items: center; gap: 5px;
     font-size: 10.5px; font-weight: 700; letter-spacing: .4px; text-transform: uppercase;
-    border-radius: 999px; padding: 2px 9px; white-space: nowrap;
+    border-radius: 2px; padding: 2px 9px; white-space: nowrap;
   }
   .ooa-status-ok    { color: #1a6b45; background: rgba(26,107,69,.08);  border: 1px solid rgba(26,107,69,.3); }
   .ooa-status-near  { color: #9a5a08; background: rgba(194,106,19,.08); border: 1px solid rgba(194,106,19,.35); }
@@ -984,17 +968,17 @@
   .ooa-meter { position: relative; height: 20px; margin: 4px 0 6px; }
   .ooa-track {
     position: absolute; top: 0; bottom: 0; left: 0;
-    background: var(--surface2); border-radius: 4px;
+    background: var(--surface2); border-radius: 2px;
   }
   .ooa-seg { position: absolute; top: 0; bottom: 0; min-width: 2px; }
-  .ooa-seg.first { border-radius: 4px 0 0 4px; }
-  .ooa-seg.last  { border-radius: 0 4px 4px 0; }
-  .ooa-seg.only  { border-radius: 4px; }
+  .ooa-seg.first { border-radius: 2px; }
+  .ooa-seg.last  { border-radius: 2px; }
+  .ooa-seg.only  { border-radius: 2px; }
   .ooa-seg-ind { background: #2a6cb0; }
   .ooa-seg-ent { background: #1e8a55; }
   .ooa-tick {
     position: absolute; top: -3px; bottom: -3px; width: 2px;
-    background: var(--navy); opacity: .55; border-radius: 1px;
+    background: var(--navy); opacity: .55; border-radius: 2px;
   }
   .ooa-sub { font-size: 11.5px; color: var(--muted); line-height: 1.5; }
   .ooa-cycle.ooa-compact {
@@ -1029,7 +1013,7 @@
     font-family: 'Inter', sans-serif; font-size: 9.5px; font-weight: 600;
     letter-spacing: .5px; text-transform: uppercase;
     color: var(--accent); background: rgba(186,18,0,.05);
-    border: 1px solid rgba(186,18,0,.28); border-radius: 999px;
+    border: 1px solid rgba(186,18,0,.28); border-radius: 2px;
     padding: 2px 8px; margin-left: 8px; white-space: nowrap;
     vertical-align: middle;
   }
@@ -1054,25 +1038,45 @@
     font-family: 'Oswald', sans-serif;
   }
 </style>
+<style>
+  .siteheader{display:none!important}
+  body>footer:not(.tfoot){display:none!important}
+  .thead{position:sticky;top:0;z-index:400;background:#18314f;border-bottom:1px solid rgba(200,224,244,.18)}
+  .thead-in{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:14px 16px;padding-top:14px;padding-bottom:12px}
+  .tmark{grid-column:2;justify-self:center;font-family:'Space Grotesk',system-ui,sans-serif;font-weight:700;
+    font-size:clamp(22px,3.4vw,34px);letter-spacing:-.015em;line-height:1;color:#fff;text-decoration:none;white-space:nowrap}
+  .tmark .td{color:#ba1200}.tmark .op{color:#c8e0f4}
+  .tmark .tcn{color:#ba1200;animation:tblink 2s steps(1,end) infinite}
+  @keyframes tblink{0%,55%{opacity:1}56%,100%{opacity:0}}
+  .tnav{grid-column:3;justify-self:end;display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+  .tbtn{font-family:'Oswald',system-ui,sans-serif;font-weight:600;font-size:12px;letter-spacing:.12em;
+    text-transform:uppercase;text-decoration:none;color:#fff;border:1px solid rgba(200,224,244,.5);background:transparent;
+    padding:8px 13px;transition:background .14s ease,color .14s ease,border-color .14s ease}
+  .tbtn:hover{background:#c8e0f4;color:#18314f;border-color:#c8e0f4}
+  .tfoot{background:#18314f;border-top:1px solid rgba(200,224,244,.18)}
+  .tfoot-in{display:flex;flex-wrap:wrap;gap:10px 26px;align-items:baseline;justify-content:space-between;
+    padding-top:24px;padding-bottom:28px}
+  .tfoot-fine{font-family:'PT Serif',Georgia,serif;font-size:13px;color:rgba(255,255,255,.86);line-height:1.5;max-width:66ch;margin:0}
+  .tfoot-fine a{color:#c8e0f4;font-weight:700;text-decoration:none;border-bottom:1px solid rgba(200,224,244,.4)}
+  .tfoot-fine a:hover{color:#fff}
+  .tsocial{display:inline-flex;align-items:center;gap:9px;text-decoration:none;color:#c8e0f4;
+    font-family:'Oswald',system-ui,sans-serif;font-weight:600;font-size:12.5px;letter-spacing:.1em;white-space:nowrap}
+  .tsocial svg{display:block;flex:none}.tsocial:hover{color:#fff}
+  @media (max-width:680px){.thead-in{grid-template-columns:1fr;justify-items:center}
+    .thead-in>span[aria-hidden]{display:none}.tnav{justify-self:center}}
+  @media (prefers-reduced-motion:reduce){.tmark .tcn{animation:none}}
+</style>
 </head>
 <body>
-<div class="siteheader">
-  <div class="tabstrip padx">
-    <div class="traffic"><i style="background:#18314f"></i><i style="background:#ec3a22"></i><i style="background:#f5a623"></i></div>
-    <a class="browsertab" href="/" title="decode(politics): home">
-      <span class="corner l"></span><span class="corner r"></span>
-      <svg viewBox="0 0 100 100" width="23" height="23" style="flex:none;display:block"><circle cx="50" cy="50" r="50" fill="#18314f"></circle><path d="M43 31 L36 31 Q31 31 31 36 L31 64 Q31 69 36 69 L43 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M57 31 L64 31 Q69 31 69 36 L69 64 Q69 69 64 69 L57 69" fill="none" stroke="#cfe3f5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="50" cy="42" r="5.5" fill="#bf1a13"></circle><circle cx="50" cy="58" r="5.5" fill="#bf1a13"></circle></svg>
-      <span class="wordmark"><span class="fn">decode</span><span id="typedHost"></span><span class="cur"></span></span>
-      <span class="tabx"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg></span>
-    </a>
-    <div class="newtab"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"></path></svg></div>
-  </div>
-  <div class="navrow padx">
-    <nav class="sitenav">
-      <a class="nlink live" href="/austin/"><span class="dot"></span>Austin Finance</a>
-    </nav>
-  </div>
-</div>
+<header class="thead"><div class="thead-in padx">
+  <span aria-hidden="true"></span>
+  <a class="tmark" href="/" title="decode(politics): home"><span class="td">decode</span><span class="op">(</span>politics<span class="op">)</span><span class="tcn">:</span></a>
+  <nav class="tnav">
+    <a class="tbtn" href="/">Home</a>
+    <a class="tbtn" href="/austin/">Austin</a>
+    <a class="tbtn" href="/sanantonio/">San Antonio</a>
+  </nav>
+</div></header>
 
 <div class="crumbbar">
   <a href="/austin/">← Austin campaign finance</a>
@@ -1172,7 +1176,7 @@
 
       <!-- Fundraising by year -->
       <div class="card">
-        <div class="card-title"><span>Fundraising Timeline <span class="pop-hint">⤢ click a year</span></span></div>
+        <div class="card-title"><span>Fundraising Timeline <span class="pop-hint">⤢ Click a year to break down that cycle</span></span></div>
         <div class="year-bars" id="yearBars">
           <!-- injected by JS -->
         </div>
@@ -1193,7 +1197,7 @@
     <!-- ── Row 2: Interest group breakdown (full width) ── -->
     <div id="igSection" class="card" style="margin-bottom:20px">
       <div class="card-title">
-        <span>Funding by Category <span class="pop-hint">⤢ click a category</span></span>
+        <span>Funding by Category <span class="pop-hint">⤢ Click a category to see its donor breakdown</span></span>
         <span class="hint" id="igHint">2022 – present</span>
       </div>
       <div class="sort-bar">
@@ -1265,7 +1269,7 @@
 
     <!-- ── Israel/Palestine Donor Spectrum ── -->
     <div id="ipSection" class="card" style="display:none;margin-bottom:20px">
-      <div class="card-title"><span>Israel-Palestine Donor Spectrum <span class="pop-hint">⤢ click a donor</span></span>
+      <div class="card-title"><span>Israel-Palestine Donor Spectrum <span class="pop-hint">⤢ Click a donor to see their giving history</span></span>
         <span class="hint" id="ipHint">based on FEC donations to affiliated committees</span>
       </div>
       <div id="ipContent"></div>
@@ -1301,14 +1305,14 @@
 
     <!-- ── Community & Civic Roles (Phase 5) — collapsed by default ── -->
     <div id="civicRolesSection" class="card" style="display:none;margin-bottom:20px">
-      <button class="civic-collapse" id="civicRolesToggle" aria-expanded="false">
+      <button class="civic-collapse" id="civicRolesToggle" aria-expanded="true">
         <span class="card-title" style="margin:0">Community &amp; Civic Roles
           <span class="hint" id="civicRolesHint"></span>
         </span>
         <svg class="chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor"
              stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>
       </button>
-      <div id="civicRolesBody" class="civic-collapsed">
+      <div id="civicRolesBody" class="civic-expanded">
         <div class="civic-methodology" id="civicRolesMethodology"></div>
         <div id="civicRolesContent"></div>
       </div>
@@ -1316,7 +1320,7 @@
 
     <!-- ── Partisan Lean (FEC data) ── -->
     <div id="partisanSection" class="card" style="display:none;margin-bottom:20px">
-      <div class="card-title"><span>Federal Partisan Lean <span class="pop-hint">⤢ click a segment</span></span>
+      <div class="card-title"><span>Federal Partisan Lean <span class="pop-hint">⤢ Click a segment to see those donors</span></span>
         <span class="hint" id="partisanHint">based on FEC donation history</span>
       </div>
       <div style="display:flex;gap:24px;align-items:flex-start;flex-wrap:wrap">
@@ -1325,7 +1329,7 @@
           <div style="display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-bottom:6px">
             <span>Republican</span><span>Democrat</span>
           </div>
-          <div id="partisanBar" style="height:28px;border-radius:4px;overflow:hidden;display:flex;position:relative;background:var(--surface)"></div>
+          <div id="partisanBar" style="height:28px;border-radius:2px;overflow:hidden;display:flex;position:relative;background:var(--surface)"></div>
           <div id="partisanBarLabels" style="display:flex;justify-content:space-between;font-size:11px;margin-top:4px"></div>
           <div id="partisanWeighted" style="text-align:center;margin-top:10px;font-size:13px;color:var(--muted)"></div>
         </div>
@@ -1349,13 +1353,13 @@
 
       <!-- Notable firms -->
       <div class="card">
-        <div class="card-title"><span>Firms with 3+ Donors <span class="pop-hint">⤢ click a firm</span></span> <span class="hint">coordinated giving signal</span></div>
+        <div class="card-title"><span>Firms with 3+ Donors <span class="pop-hint">⤢ Click a firm to see its donors</span></span> <span class="hint">coordinated giving signal</span></div>
         <div id="firmsList"></div>
       </div>
 
       <!-- Top donors -->
       <div class="card">
-        <div class="card-title"><span>Top Individual Donors <span class="pop-hint">⤢ click a donor</span></span> <span class="hint">all filings</span></div>
+        <div class="card-title"><span>Top Individual Donors <span class="pop-hint">⤢ Click a donor to see their giving history</span></span> <span class="hint">all filings</span></div>
         <table class="donors-table" id="topDonorsTable">
           <thead>
             <tr>
@@ -1388,9 +1392,10 @@
   </div><!-- /#profileContent -->
 </div>
 
-<footer>
-  decode(politics): · Austin Finance Transparency Project · Not affiliated with any campaign · <a href="mailto:info@decodepolitics.org" style="color:inherit;font-weight:600;text-decoration:none">info@decodepolitics.org</a>
-</footer>
+<footer class="tfoot"><div class="tfoot-in padx">
+  <p class="tfoot-fine">&copy; 2026 decode(politics): &mdash; All figures from public filings. <a href="mailto:info@decodepolitics.org">info@decodepolitics.org</a></p>
+  <a class="tsocial" href="https://www.instagram.com/decodepolitics.us/" target="_blank" rel="noopener noreferrer" aria-label="decode(politics) on Instagram"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="2.5" width="19" height="19" rx="5.2"></rect><circle cx="12" cy="12" r="4.3"></circle><circle cx="17.5" cy="6.5" r="1.15" fill="currentColor" stroke="none"></circle></svg><span>@decodepolitics.us</span></a>
+</div></footer>
 
 <!-- Partisan lean drill-down panel -->
 <div id="fecBackdrop" onclick="closeFecPanel()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:1000"></div>
@@ -1412,7 +1417,7 @@
     <button class="drawer-close" onclick="closeDrawer()">&#x2715;</button>
   </div>
   <div class="drawer-controls">
-    <input class="drawer-search" id="drawerSearch" type="text" placeholder="Search donor, employer, city…" />
+    <input class="drawer-search" id="drawerSearch" type="text" placeholder="Search by donor name, employer, or city…" />
     <select class="drawer-sort-sel" id="drawerSortSel">
       <option value="1-desc">Date (newest)</option>
       <option value="1-asc">Date (oldest)</option>
@@ -2051,6 +2056,10 @@ function switchCycle(idx) {
     cyc ? cyc.hero : _FULL_DATA.hero,
     _scopePartisan(cyc),
     ((cyc ? cyc.notable_firms : _FULL_DATA.notable_firms) || []).length);
+
+  // Notify page enhancers (section jump-nav, list collapsers) that a full
+  // render pass finished and section visibility is settled for this scope.
+  document.dispatchEvent(new Event('profile:rendered'));
 }
 
 function updateHeroStats(hero, meta) {
@@ -2188,7 +2197,7 @@ function renderIPSpectrum(ip) {
       </tr></thead><tbody>`;
 
     cat.donor_list.forEach((d, di) => {
-      const tierBadge = d.tier === 1 ? '<span style="background:#ef4444;color:#fff;font-size:9px;padding:1px 5px;border-radius:3px;margin-left:4px">DIRECT</span>' : '';
+      const tierBadge = d.tier === 1 ? '<span style="background:#ef4444;color:#fff;font-size:9px;padding:1px 5px;border-radius:2px;margin-left:4px">DIRECT</span>' : '';
       const leanDot = d.partisan_lean != null
         ? `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${d.partisan_lean >= 0.6 ? '#3b82f6' : (d.partisan_lean <= 0.4 ? '#ef4444' : '#a78bfa')};margin-right:4px" title="Partisan lean: ${(d.partisan_lean*100).toFixed(0)}%"></span>`
         : '';
@@ -2258,7 +2267,7 @@ function openIpDetail(ci, di) {
   const candidate = document.getElementById('navCandidateName').textContent;
 
   document.getElementById('fecTitle').innerHTML =
-    `${esc(d.name)} <span style="font-size:11px;font-weight:600;color:${color};border:1px solid ${color};border-radius:4px;padding:1px 7px;margin-left:6px;vertical-align:middle">${esc(cat.label)}</span>`;
+    `${esc(d.name)} <span style="font-size:11px;font-weight:600;color:${color};border:1px solid ${color};border-radius:2px;padding:1px 7px;margin-left:6px;vertical-align:middle">${esc(cat.label)}</span>`;
 
   // Roll transactions up per committee (totals, gift count, date range)
   const txs = d.transactions || [];
@@ -2272,15 +2281,15 @@ function openIpDetail(ci, di) {
   });
 
   let html = `<div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px">
-    <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:8px 14px">
+    <div style="background:var(--surface2);border:1px solid var(--border);border-radius:2px;padding:8px 14px">
       <div style="font-size:18px;font-weight:800;color:${color}">${money(d.ip_total)}</div>
       <div style="font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)">Federal to I/P committees</div>
     </div>
-    <div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:8px 14px">
+    <div style="background:var(--surface2);border:1px solid var(--border);border-radius:2px;padding:8px 14px">
       <div style="font-size:18px;font-weight:800">${money(d.local_total)}</div>
       <div style="font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)">Local to ${esc(candidate)}</div>
     </div>
-    ${d.partisan_lean != null ? `<div style="background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:8px 14px">
+    ${d.partisan_lean != null ? `<div style="background:var(--surface2);border:1px solid var(--border);border-radius:2px;padding:8px 14px">
       <div style="font-size:18px;font-weight:800;color:${d.partisan_lean >= 0.6 ? '#3b82f6' : (d.partisan_lean <= 0.4 ? '#ef4444' : '#a78bfa')}">${(d.partisan_lean * 100).toFixed(0)}% Dem</div>
       <div style="font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)">Federal partisan lean</div>
     </div>` : ''}
@@ -2335,7 +2344,7 @@ function openIpDetail(ci, di) {
   }
 
   // Methodology
-  html += `<div style="margin-top:18px;background:rgba(29,78,216,0.06);border:1px solid rgba(29,78,216,0.2);border-left:3px solid ${color};border-radius:6px;padding:10px 14px;font-size:12px;line-height:1.6;color:var(--muted)">
+  html += `<div style="margin-top:18px;background:rgba(29,78,216,0.06);border:1px solid rgba(29,78,216,0.2);border-left:3px solid ${color};border-radius:2px;padding:10px 14px;font-size:12px;line-height:1.6;color:var(--muted)">
     <strong style="color:var(--text)">How this federal number was built.</strong>
     This donor's Austin campaign-finance records were matched to FEC itemized individual
     contributions using name, city/ZIP, and employer/occupation signals — only confirmed
@@ -2409,7 +2418,7 @@ const AFFIL_CARD_DEFS = [
     methodologyId: 'businessMethodology',
     contentId: 'businessContent',
     hintNoun: 'donors who own or lead an identifiable business',
-    cap: 25,
+    cap: 10,
     methodology:
       '<strong>How to read this:</strong> Donors who own, founded, or hold executive or board roles at an '
       + 'identifiable business. This is about <strong>ownership and leadership, not employment</strong> &mdash; '
@@ -2427,7 +2436,7 @@ const AFFIL_CARD_DEFS = [
     methodologyId: 'politicalMethodology',
     contentId: 'politicalContent',
     hintNoun: 'donors holding a political or campaign role',
-    cap: 25,
+    cap: 10,
     methodology:
       '<strong>How to read this:</strong> Donors who hold or held a named political role &mdash; party officer, '
       + 'campaign staff or treasurer, finance-committee member, registered lobbyist or lobby client, elected or '
@@ -2448,7 +2457,7 @@ const AFFIL_CARD_DEFS = [
     methodologyId: 'civicRolesMethodology',
     contentId: 'civicRolesContent',
     hintNoun: 'donors with a community or civic role',
-    cap: 20,
+    cap: 10,
     collapsed: true,
     methodology:
       '<strong>How to read this:</strong> Donors with documented board or leadership roles at neighborhood '
@@ -2800,8 +2809,8 @@ function showDonorFEC(donorId, donorName, lean) {
     const fecName = (pl.donor_fec_names || {})[donorId];
     list.forEach(c => {
       const srcTag = c.source === 'TEC'
-        ? '<span style="display:inline-block;background:rgba(251,191,36,0.15);color:#fbbf24;border:1px solid rgba(251,191,36,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">TX STATE</span>'
-        : '<span style="display:inline-block;background:rgba(79,142,247,0.12);color:#4f8ef7;border:1px solid rgba(79,142,247,0.3);font-size:9px;padding:1px 5px;border-radius:3px;margin-right:6px;letter-spacing:0.5px;font-weight:600">FEDERAL</span>';
+        ? '<span style="display:inline-block;background:rgba(251,191,36,0.15);color:#fbbf24;border:1px solid rgba(251,191,36,0.3);font-size:9px;padding:1px 5px;border-radius:2px;margin-right:6px;letter-spacing:0.5px;font-weight:600">TX STATE</span>'
+        : '<span style="display:inline-block;background:rgba(79,142,247,0.12);color:#4f8ef7;border:1px solid rgba(79,142,247,0.3);font-size:9px;padding:1px 5px;border-radius:2px;margin-right:6px;letter-spacing:0.5px;font-weight:600">FEDERAL</span>';
       const link = (c.source === 'FEC' && c.committee_id)
         ? fecLink(fecReceiptsUrl(fecName, c.committee_id, c.first, c.last), 'View')
         : '';
@@ -3022,6 +3031,9 @@ function renderAll(data, allDonations) {
   // Show content, hide loading
   document.getElementById('loadingOverlay').style.display = 'none';
   document.getElementById('profileContent').style.display = '';
+
+  // Content is now visible — let enhancers build against the final layout.
+  document.dispatchEvent(new Event('profile:rendered'));
 }
 
 // ── Bootstrap: fetch data then render ────────────────────────────────────────
@@ -3050,32 +3062,203 @@ async function initProfile() {
 initProfile();
 </script>
 
-<script>
-// decode(politics): typing wordmark in the site header tab
+
+<style>
+  .hero h1{font-family:'Bevan',Georgia,serif!important;font-weight:400!important;text-transform:uppercase;letter-spacing:.004em}
+  .card-title>span:first-child{font-family:'Oswald',system-ui,sans-serif;font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+  .card-title .pop-hint,.card-title .hint{font-family:'Inter',system-ui,sans-serif;text-transform:none;letter-spacing:0;font-weight:500}
+  .drawer-title{font-family:'Oswald',system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase}
+  /* the "Data sourced…" hero note stays in the DOM (county-sub + hero JS hooks) but is not shown */
+  .hero-right .data-note{display:none!important}
+  /* emphasize the View-by-cycle box without a full outline: soft lift + red accent bar */
+  #cycleNav{
+    border:1px solid var(--border)!important;
+    border-left:4px solid var(--accent)!important;
+    box-shadow:0 14px 32px -20px rgba(24,49,79,.45)!important;
+    border-radius:2px!important;
+    background:var(--surface)!important;
+  }
+</style>
+
+<script>/* 2-column + view-more for long lists in the firm list and Policy & Advocacy Ties */
 (function(){
-  const host = document.getElementById('typedHost');
-  const text = "(politics):";
-  const reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion:reduce)').matches;
-  function paint(n){
-    let html = '';
-    for (let j = 0; j < n; j++){
-      const c = text[j];
-      const col = (c === '(' || c === ')') ? '#18314f' : (c === ':' ? '#cc1f3c' : '#18314f');
-      html += '<span style="color:' + col + '">' + c + '</span>';
+  function collapse2col(container, itemSel, limit){
+    if(!container || container.querySelector(':scope > .civic-more')) return;
+    var items=[].slice.call(container.querySelectorAll(':scope > '+itemSel));
+    if(items.length>limit){
+      items.forEach(function(it,i){ if(i>=limit) it.style.display='none'; });
+      var btn=document.createElement('button'); btn.className='civic-more'; btn.type='button';
+      btn.style.marginTop='6px';
+      var more=items.length-limit, exp=false;
+      btn.textContent='View '+more+' more';
+      btn.addEventListener('click',function(){ exp=!exp; items.forEach(function(it,i){ if(i>=limit) it.style.display=exp?'':'none'; }); btn.textContent=exp?'Show less':('View '+more+' more'); });
+      container.appendChild(btn);
     }
-    host.innerHTML = html;
   }
-  if (reduced){ paint(text.length); return; }
-  // type out once, then stop — the cursor keeps blinking via its CSS animation
-  let i = 0;
-  function tick(){
-    paint(i);
-    if (i >= text.length) return;
-    i++;
-    setTimeout(tick, 115);
+  function enhance(){
+    var fr=document.querySelector('.firm-row');
+    if(fr) collapse2col(fr.parentElement, '.firm-row', 10);
+    document.querySelectorAll('#civicSection .civic-cat-block').forEach(function(b){
+      collapse2col(b, '.civic-donor', 10);
+    });
   }
-  tick();
-})();
-</script>
+  function schedule(){ setTimeout(enhance, 0); }
+  document.addEventListener('profile:rendered', schedule);
+  window.addEventListener('load', schedule);
+})();</script>
+<style>
+  .civic-more{background:var(--navy)!important;color:#fff!important;border:1px solid var(--navy)!important;border-radius:2px!important;font-family:'Oswald',system-ui,sans-serif!important;font-weight:600!important;letter-spacing:.06em;text-transform:uppercase}
+  .civic-more:hover{background:#0d2036!important;color:#fff!important;border-color:#0d2036!important}
+</style>
+
+<style>
+  #cycleNav{flex-wrap:wrap}
+  .section-jump{flex-basis:100%;width:100%;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:11px;padding-top:11px;border-top:1px solid var(--border)}
+  .section-jump .sj-label{font-family:'Oswald',system-ui,sans-serif;font-weight:600;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-right:2px}
+  .jumpbtn{font-family:'Oswald',system-ui,sans-serif;font-weight:600;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--navy);background:#fff;border:1px solid var(--border);border-radius:2px;padding:6px 11px;cursor:pointer;transition:background .12s ease,color .12s ease,border-color .12s ease}
+  .jumpbtn:hover{background:var(--navy);color:#fff;border-color:var(--navy)}
+  .jumpbtn.on{background:var(--navy)!important;color:#fff!important;border-color:var(--navy)!important}
+  .sub-jump{flex-basis:100%;width:100%;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:9px;padding-top:9px;border-top:1px dashed var(--border)}
+  .sub-jump .sj2-label{font-family:'Oswald',system-ui,sans-serif;font-weight:600;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-right:2px}
+  .subjumpbtn{font-family:'Oswald',system-ui,sans-serif;font-weight:600;font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:var(--surface2);border:1px solid var(--border);border-radius:2px;padding:5px 9px;cursor:pointer;transition:background .12s ease,color .12s ease,border-color .12s ease}
+  .subjumpbtn:hover{background:var(--navy);color:#fff;border-color:var(--navy)}
+  [id$="Section"]{scroll-margin-top:84px}
+  .civic-cat-block,.card{scroll-margin-top:88px}
+</style>
+<script>/* View-by-cycle box: donor search + jump-to buttons with expandable subsections */
+(function(){
+  var labels={yearBarsSection:'Fundraising',igSection:'By Category',ooaSection:'Out-of-Austin',ipSection:'Israel–Palestine',civicSection:'Advocacy Ties',businessSection:'Business Ties',politicalSection:'Campaign Roles',civicRolesSection:'Civic Roles',partisanSection:'Partisan Lean',firmsSection:'Firms & Donors'};
+  var order=['yearBarsSection','igSection','ooaSection','ipSection','civicSection','businessSection','politicalSection','civicRolesSection','partisanSection','firmsSection'];
+  function contentReady(){
+    var pc=document.getElementById('profileContent');
+    return !!pc && pc.style.display!=='none';
+  }
+  function wire(input){
+    if(!input || input.__wired) return; input.__wired=1;
+    function forward(){
+      var drawer=document.getElementById('drawer');
+      if(drawer && !drawer.classList.contains('open') && typeof openDrawer==='function'){ try{ openDrawer(function(){return true;},'All donations'); }catch(e){} }
+      var d=document.getElementById('drawerSearch'); if(d){ d.value=input.value; d.dispatchEvent(new Event('input',{bubbles:true})); }
+    }
+    input.addEventListener('input',forward);
+    input.addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); forward(); var d=document.getElementById('drawerSearch'); if(d) d.focus(); }});
+  }
+  function cleanLabel(el){ var c=el.cloneNode(true); c.querySelectorAll('.pop-hint,.hint').forEach(function(x){x.remove();}); return (c.textContent||'').trim().replace(/\s+/g,' '); }
+  function getSubs(sec){
+    var out=[];
+    var civ=sec.querySelectorAll('.civic-cat-title');
+    if(civ.length){ civ.forEach(function(t){ out.push({label:cleanLabel(t), target:t.closest('.civic-cat-block')||t}); }); return out; }
+    var cards=sec.querySelectorAll('.card-title');
+    if(cards.length>1){ cards.forEach(function(t){ out.push({label:cleanLabel(t), target:t.closest('.card')||t}); }); }
+    return out;
+  }
+  function build(){
+    if(!contentReady()) return;               // sections render after the async fetch
+    var cn=document.getElementById('cycleNav'); if(!cn) return;
+    var prev=document.getElementById('profileSearch'); var prevVal=prev?prev.value:'';
+    var old=document.getElementById('cycleExtras'); if(old) old.remove();
+    var wrap=document.createElement('div'); wrap.id='cycleExtras'; wrap.style.flexBasis='100%'; wrap.style.width='100%';
+    var ps=document.createElement('div'); ps.className='psearch';
+    ps.innerHTML='<label class="psearch-box"><svg width="17" height="17" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><input id="profileSearch" type="text" placeholder="Search by donor name, employer, or city…" autocomplete="off"></label><p class="psearch-help">Type any <strong>donor name</strong>, <strong>employer</strong>, or <strong>city</strong> — opens the full contribution list and filters every one of this candidate’s gifts as you type.</p>';
+    wrap.appendChild(ps);
+    var row=document.createElement('div'); row.className='section-jump';
+    var lab=document.createElement('span'); lab.className='sj-label'; lab.textContent='Jump to:'; row.appendChild(lab);
+    var subrow=document.createElement('div'); subrow.className='sub-jump'; subrow.style.display='none';
+    var activeId=null;
+    order.forEach(function(id){
+      var el=document.getElementById(id); if(!el||getComputedStyle(el).display==='none') return;
+      var b=document.createElement('button'); b.type='button'; b.className='jumpbtn'; b.textContent=labels[id]||id;
+      b.addEventListener('click',function(){
+        var subs=getSubs(el);
+        if(subs.length < 2){ activeId=null; subrow.style.display='none'; row.querySelectorAll('.jumpbtn').forEach(function(x){x.classList.remove('on');}); el.scrollIntoView({behavior:'smooth',block:'start'}); return; }
+        if(activeId===id){ activeId=null; subrow.style.display='none'; row.querySelectorAll('.jumpbtn').forEach(function(x){x.classList.remove('on');}); return; }
+        activeId=id;
+        row.querySelectorAll('.jumpbtn').forEach(function(x){x.classList.toggle('on', x===b);});
+        subrow.innerHTML='';
+        var l2=document.createElement('span'); l2.className='sj2-label'; l2.textContent=(labels[id]||'')+' ›'; subrow.appendChild(l2);
+        subs.forEach(function(s){ var sb=document.createElement('button'); sb.type='button'; sb.className='subjumpbtn'; sb.textContent=s.label.slice(0,42); sb.addEventListener('click',function(ev){ ev.stopPropagation(); s.target.scrollIntoView({behavior:'smooth',block:'start'}); }); subrow.appendChild(sb); });
+        subrow.style.display='flex';
+      });
+      row.appendChild(b);
+    });
+    wrap.appendChild(row);
+    wrap.appendChild(subrow);
+    cn.appendChild(wrap);
+    // Single-cycle candidates: renderCycleNav() hides #cycleNav entirely, but the
+    // donor search + jump row still applies — show the box without the tab label.
+    if(getComputedStyle(cn).display==='none'){
+      cn.style.display='flex';
+      cn.classList.add('no-tabs');
+      var cl=cn.querySelector('.cycle-label'); if(cl) cl.style.display='none';
+    }
+    var input=document.getElementById('profileSearch'); if(input){ input.value=prevVal; wire(input); }
+  }
+  function schedule(){ setTimeout(build, 0); }
+  // Rebuild whenever a render pass completes (initial load + every cycle switch),
+  // so buttons always match the sections actually visible on this page.
+  document.addEventListener('profile:rendered', schedule);
+  window.addEventListener('load', schedule);
+  var cn=document.getElementById('cycleNav');
+  if(cn && window.MutationObserver){ new MutationObserver(function(){ if(!document.getElementById('cycleExtras')) schedule(); }).observe(cn,{childList:true}); }
+})();</script>
+
+<style>
+/* ── Mobile: stackable drawer + hero photo (appended, wins over earlier rules) ── */
+@media (max-width: 600px){
+  /* full-bleed drawer */
+  .drawer{ width:100vw !important; max-width:100vw !important; border-left:none !important; }
+  .drawer-controls{ flex-wrap:wrap; }
+  .drawer-controls .drawer-search{ flex:1 1 100%; }
+  .drawer-sort-sel{ min-width:0; flex:1 1 100%; }
+  /* donor table -> stacked cards */
+  .dtable thead{ display:none; }
+  .dtable, .dtable tbody{ display:block; width:100%; }
+  .dtable tr{ display:grid; grid-template-columns:1fr auto; column-gap:12px; row-gap:2px;
+    padding:11px 16px; border-bottom:1px solid var(--border); }
+  .dtable tbody tr:hover td{ background:transparent; }
+  .dtable td{ display:block; border:none !important; padding:0; }
+  .dtable td:nth-child(1){ grid-column:1; grid-row:1; }
+  .dtable td:nth-child(2){ grid-column:2; grid-row:1; text-align:right !important; align-self:start; }
+  .dtable td.td-date{ grid-column:1 / -1; }
+  .dtable td.td-loc{ grid-column:1 / -1; max-width:none; white-space:normal; }
+  .dtable td:empty{ display:none; }
+  .dtable .td-amt{ font-size:15px; }
+  .dtable td.td-date::before{ content:'Date · '; color:var(--muted); }
+  .dtable td.td-loc::before{ content:'Location · '; color:var(--muted); }
+  /* hero photo: stack it (don't hide) */
+  .hero-right{ display:block !important; }
+  .hero-right .data-note{ display:none !important; }
+  .hero-right .hero-photo{ position:static !important; transform:none !important;
+    width:170px !important; height:226px !important; object-fit:cover !important;
+    object-position:50% 22% !important; margin:6px 0 0 !important; }
+}
+</style>
+<style>/* drawer overlays the sticky mobile header */ .drawer-backdrop{z-index:400!important} .drawer{z-index:401!important}</style>
+
+<style>
+  #toTop{position:fixed;right:22px;bottom:22px;z-index:150;width:48px;height:48px;
+    display:flex;align-items:center;justify-content:center;padding:0;
+    background:var(--navy,#18314f);color:#fff;border:1px solid var(--navy,#18314f);border-radius:2px;
+    cursor:pointer;box-shadow:0 10px 24px -10px rgba(12,26,44,.6);
+    opacity:0;visibility:hidden;transform:translateY(10px);
+    transition:opacity .2s ease,transform .2s ease,background .15s ease}
+  #toTop.visible{opacity:1;visibility:visible;transform:translateY(0)}
+  #toTop:hover{background:var(--ink,#0c1a2c)}
+  #toTop:focus-visible{outline:2px solid var(--sky,#c8e0f4);outline-offset:2px}
+  #toTop svg{display:block}
+  @media (max-width:600px){#toTop{right:14px;bottom:14px;width:44px;height:44px}}
+</style>
+<script>(function(){
+  var b=document.createElement('button');
+  b.id='toTop'; b.type='button'; b.setAttribute('aria-label','Back to top'); b.title='Back to top';
+  b.innerHTML='<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"></path><path d="M6 11l6-6 6 6"></path></svg>';
+  b.addEventListener('click',function(){ window.scrollTo({top:0,behavior:'smooth'}); });
+  document.body.appendChild(b);
+  function upd(){ b.classList.toggle('visible', window.scrollY>400); }
+  window.addEventListener('scroll',upd,{passive:true});
+  window.addEventListener('resize',upd);
+  upd();
+})();</script>
+
 </body>
 </html>
