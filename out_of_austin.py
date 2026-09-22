@@ -61,13 +61,14 @@ AUSTIN_PO_BOX_ZIPS = {
 #   2020  $38,000 / $25,000  (memo 5/1/2020, edims id 338797)
 #   2022  $44,000 / $30,000  (Austin Monitor 7/2022)
 #   2024  $47,000 / $31,000  (clerk, Nov 2024 election; May 2024 was 46/30)
-#   2026  $48,000 / $32,000  (memo 5/1/2026, 2026 candidate packet)
+#   2026  $50,000 / $33,000  (clerk, Nov 2026 election page, effective on
+#         adoption of the FY2026-27 budget, Aug 2026; May 2026 packet was 48/32)
 LIMITS = {
     2018: {"general": 37000, "runoff": 25000, "runoff_verified": True},
     2020: {"general": 38000, "runoff": 25000, "runoff_verified": True},
     2022: {"general": 44000, "runoff": 30000, "runoff_verified": True},
     2024: {"general": 47000, "runoff": 31000, "runoff_verified": True},
-    2026: {"general": 48000, "runoff": 32000, "runoff_verified": True},
+    2026: {"general": 50000, "runoff": 33000, "runoff_verified": True},
 }
 # Future cycles fall back to the newest published values, flagged provisional
 # (they will be re-adjusted with each budget before that election).
