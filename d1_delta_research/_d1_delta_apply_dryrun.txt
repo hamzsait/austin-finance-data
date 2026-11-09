@@ -1,0 +1,10 @@
+DRY RUN -- no writes  (12 result files)
+donors: 113 resolved, 117 left null (low/no confidence)
+civic_affiliations: 94 added, 0 already present, 0 skipped (no name/org)
+by category:
+   political                          40
+   civic                              38
+   business                           12
+   military_defense                   2
+   oil_gas                            1
+   gun_control                        1

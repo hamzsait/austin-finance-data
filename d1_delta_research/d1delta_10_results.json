@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "tcv-2caea4c5-708b-4531-b414-e57064194b55",
+  "name": "Mahone, Chaka",
+  "resolved_employer": "DAWA (Diversity Awareness and Wellness in Action), founder/director; Austin nonprofit funding BIPOC creatives",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Jonathan 'Chaka' Mahone is the founder of the Austin nonprofit DAWA, a member of hip-hop duo Riders Against the Storm, and has chaired the City of Austin Music Commission. The filing's 'Founder, DAWA' and Austin location match. No federal PAC contributions or TEC lobbyist registration found. Bio read in full at thetruthinthisart.com (SXSW 2025 speaker page returned 404).",
+  "source_url": "https://www.thetruthinthisart.com/people/jonathan-chaka-mahone",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "DAWA (Diversity Awareness and Wellness in Action)", "role": "Founder", "category": "civic",
+    "source_url": "https://www.kut.org/austin/2023-03-13/nonprofit-aims-to-reverse-austins-1928-master-plan-and-get-sxsw-money-to-the-bipoc-community",
+    "snippet": "Mahone recalls DAWA's first fundraiser in 2019: 'We raised $3,000 and that was the beginning of DAWA.'"},
+   {"org": "City of Austin Music Commission", "role": "Chair", "category": "civic",
+    "source_url": "https://www.thetruthinthisart.com/people/jonathan-chaka-mahone",
+    "snippet": "Bio describes him as the current chair of the Austin Music Commission; he pushed for half of the Austin Live Music Fund to go to BIPOC creatives."}
+  ]
+ },
+ {
+  "donor_id": "tcv-33a58a50-e501-4ac6-8fb3-a7d99ab98f38",
+  "name": "Murray, Anthony",
+  "resolved_employer": "Dell (IT), self-reported on the filing",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Classified from the filing's employer (Dell, IT) as an employer fallback. Common name; no public profile found that ties an Anthony Murray to Dell and Austin 78754. No matching FEC contributor or TEC lobbyist record found. No bio page found to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3523d3d7-d5b6-4e33-9182-029d1169fa07",
+  "name": "Ely, Joseph",
+  "resolved_employer": "Icon (engineer), self-reported on the filing; possibly ICON, the Austin 3D-printed construction company, but not confirmed",
+  "industry": "Engineering",
+  "confidence": "low",
+  "evidence": "Classified from the filing's occupation (Engineer) because the employer 'Icon' is ambiguous and no profile links a Joseph Ely to ICON or San Marcos. Searches mostly returned musician Joe Ely, an unrelated person. An aggregator (somaliscan) lists an 'Ely, Joseph' with small FEC donations in 2023-24 but gives no location, so it cannot be matched to this donor. No TEC lobbyist record found. No bio page found to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-35cadb1a-9c5b-48c9-91a7-3416a3b0dd3e",
+  "name": "Fellers, Heath",
+  "resolved_employer": "Reger Holdings (construction manager), self-reported; Reger Holdings is the real estate developer behind the EastVillage mixed-use project in northeast Austin",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "The filing lists him as Construction Manager at Reger Holdings, a real estate development and investment firm whose $1B+ EastVillage project sits in the Tech Ridge area of northeast Austin, consistent with his 78754 zip. No independent public profile of Heath Fellers found. No FEC contributor or TEC lobbyist record found. No personal bio page found to read.",
+  "source_url": "https://rebusinessonline.com/reger-holdings-welcomes-three-new-tenants-to-austin-mixed-use-development/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3b728bdf-9752-46d9-a8c5-4aca8b980024",
+  "name": "Cowles, Lynn",
+  "resolved_employer": "Every Texan (health and food justice director; listed on the filing as Portfolio Director)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "The Every Texan staff page lists Lynn Cowles as Director of Health and Food Justice. A UT Austin grad-career profile, read in full, describes her as Health and Food Justice Programs Manager at Every Texan, with prior health Navigator program management and statewide health-insurance consumer-protection advocacy. Employer matches the filing. No FEC contributor or TEC lobbyist record found.",
+  "source_url": "https://gradcareer.utexas.edu/profiles/LynnCowles",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Every Texan (Texas public-policy advocacy nonprofit)", "role": "Director of Health and Food Justice", "category": "civic",
+    "source_url": "https://everytexan.org/about-us/staff/",
+    "snippet": "Staff page lists Lynn Cowles, Director of Health and Food Justice."}
+  ]
+ },
+ {
+  "donor_id": "tcv-3e108dc1-a589-4d1b-b7dd-dc1b64a667dc",
+  "name": "Wylie, Julie",
+  "resolved_employer": "Educator (self-reported; employer string 'J Wylie', possibly self-employed)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filing lists occupation Educator, employer 'J Wylie', Austin 78723. Web searches found no public profile for a Julie Wylie educator in Austin; industry is an employer/occupation fallback from the filing only. No FEC or TEC lobbyist record found. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-45a7e69e-0dc7-4dbd-bb2a-a6a288738888",
+  "name": "Shah, Darshan",
+  "resolved_employer": "Ascension Medical Group (Seton Neurology) neurologist; Assistant Professor of Neurology, Dell Medical School (likely match)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Darshan N. Shah, MD is a board-certified neurologist with Ascension Medical Group Seton Neurology and Dell Med faculty, matching the filing's 'Physician / Ascension Medical Group'. Medium rather than high because another Darshan Shah (family medicine, Ascension Seton Hays) also practices in the area and the 78732 home zip can't be tied to either. Full Dell Med and Ascension profiles read: no board seats or policy-advocacy memberships listed. A third-party aggregator lists a 'SHAH, DARSHAN' federal donor, but nothing ties it to this person, so it is not recorded. No TEC lobbyist record found.",
+  "source_url": "https://dellmed.utexas.edu/directory/darshan-shah",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4637bae0-c25c-41e1-9128-2cd4e50c377b",
+  "name": "Cuvillier, John",
+  "resolved_employer": "OTG Management (airport concessions operator), barista",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Filing lists Barista at OTG Management, Austin 78748. No public profile found for John Cuvillier in Austin; industry is an employer fallback from the filing (OTG runs airport food/beverage concessions). No FEC or TEC lobbyist record found. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-57510348-9e54-4b8e-a362-faea403276ad",
+  "name": "Maloney, Ariana",
+  "resolved_employer": "Attorney, Johns Hopkins Medicine (self-reported)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Filing lists Attorney at Johns Hopkins Medicine, Chicago IL 60628. Searches found no public profile, bar listing or Hopkins directory entry for Ariana Maloney; industry is an employer/occupation fallback from the filing. No FEC or TEC lobbyist record found. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5ab67dd1-e4ab-4314-8b5b-00bea316bbc2",
+  "name": "Young, Peter",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, Dallas TX 75205. Common name; no public profile tying a Peter Young to this zip was found, so no former career was identified. FEC/OpenSecrets searches returned no attributable record (the search tool partly ran the FEC query without the name, so the FEC check is weak). The TEC lobbyist search found no Peter Young. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-64713115-d683-4733-8407-4e0a5c8b3419",
+  "name": "Fulton, D",
+  "resolved_employer": "Not Employed (self-reported on filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists only first initial 'D', Austin 78702, occupation/employer 'Not Employed'. FEC/aggregator searches returned only other Fultons with no Austin 78702 match; no Texas Ethics Commission lobbyist record surfaced for a Fulton. Identity not corroborated beyond the filing; no bio/profile page existed to read. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-64fae444-af19-4ced-9eae-4294ca422c5c",
+  "name": "Baez, Eduardo",
+  "resolved_employer": "Gartner (Sales) (self-reported on filing)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Filing lists Bronx, NY 10471, Sales at Gartner (IT research/advisory firm). Web searches for 'Eduardo Baez' + Gartner/Bronx and contribution records found only unrelated people (Mexican historian, Nicaraguan editor); no FEC PAC records or TX lobbyist registration surfaced. No bio/profile page found to read. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6c2a3769-a4e8-401b-b9bc-bb744bfdde1a",
+  "name": "Harrison, Charles",
+  "resolved_employer": "Google (Software engineer) (self-reported on filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists Austin 78704, Software engineer at Google. Searches found no public profile for a Charles Harrison at Google Austin. FEC search was weak: the search tool did not return name-specific FEC results, so 'no FEC PAC record' means searched-nothing-found, not confirmed clear. TX Ethics Commission lobbyist web search returned only Tom Harrison (former TEC commissioner, different person); the TEC lobbyist-list PDF could not be parsed. No bio/profile page found to read. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6ca066fe-37c0-46d5-93ab-4c9ae418cc7a",
+  "name": "Patterson, Andre",
+  "resolved_employer": "Cloudera (Cloud Sales Specialist / Sales Exec)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Filing lists Pflugerville 78660, Sales Exec at Cloudera; a ContactOut aggregator profile (search snippet) lists an Andre Patterson as Cloud Sales Specialist at Cloudera based in Pflugerville, TX, corroborating name+employer+city. Full profile page returned HTTP 403 so full bio text could NOT be read. No FEC PAC records or TX lobbyist registration surfaced (other Andre Patterson results are an NFL coach).",
+  "source_url": "https://contactout.com/Andre-Patterson-5083738",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-72bd4dcf-d5a4-48c1-977f-5b1ab90146d3",
+  "name": "Williams, Reginald",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Chicago, IL 60617, Retired, employer None. Very common name; FEC search was weak (returned only generic FEC tooling pages, no name-specific record), so this is searched-nothing-found, not confirmed clear. No TX Ethics Commission lobbyist match in web search; the TEC lobbyist-list PDF could not be parsed. No bio/profile page found to read; former career not identifiable. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7610eb5e-d4dd-4bf2-a58d-5b95b467d6b3",
+  "name": "Kidd, Margie",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Corsicana, TX 75109 donor who listed herself as Not Employed. Web searches for 'Margie Kidd' Corsicana turned up no matching public profile. FEC/OpenSecrets searches found no contributor record under this name, and Texas Ethics Commission lobbyist searches found no registration. No bio page existed to read. Industry comes from the filing's self-reported status only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-764a3b31-b9fd-4758-bce8-1210a23a67ed",
+  "name": "Kitto, Sara",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Corsicana, TX 75109-9740 donor who listed herself as Not Employed. Her zip matches the Margie Kidd donor and both gave on consecutive days, but no public record links the two. Searches for 'Sara Kitto' and 'Kitto' Corsicana returned no matching profile. No FEC/OpenSecrets record and no TEC lobbyist registration were found. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-77951f14-5c94-4f58-8d2b-773af3e56ddb",
+  "name": "Davis, Lawrence",
+  "resolved_employer": "City of Austin (Community Revitalization, per filing)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Austin 78724 donor who self-reported working for the City of Austin in Community Revitalization. Web searches could not corroborate a public profile for this specific Lawrence Davis. The only Lawrence Davis found in municipal work was a Datanyze listing for a City of Montgomery COO, which is not this person. No FEC/OpenSecrets record and no TEC lobbyist registration were found. No bio page existed to read. This is an employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-7d67d6e0-a03f-454e-9333-e30fc649bdc3",
+  "name": "Woodard, Brenda",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Chicago, IL 60649 retiree who gave to Alexandria Anderson. Searches found no public profile matching a Brenda Woodard in Chicago, so her former career is unknown. No FEC/OpenSecrets contributor record was found. There was no Texas Ethics Commission or other lobbyist registry match; the only results were different Woodards, such as Texas lobbyist Shayne Woodard. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-82c96edd-441a-4e0e-b012-d62ed1b82cec",
+  "name": "Garemko III, Michael",
+  "resolved_employer": "Texas HHSC Office of Inspector General (attorney); Justia also lists Office of the Attorney General of Texas",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A Justia lawyer profile for 'Michael Alexander Garemko III' (State Bar of Texas #24083050) lists him as a government attorney at the Office of the Attorney General of Texas, practicing government/administrative law and health care law. That is consistent with the self-reported HHSC-OIG attorney role and the Austin 78749 address, which the profile's Texas state-government employment supports. The full Justia page returned HTTP 403 when fetched, so only the search snippet was reviewed. No FEC/OpenSecrets record and no TEC lobbyist registration were found.",
+  "source_url": "https://lawyers.justia.com/lawyer/michael-alexander-garemko-iii-1568971",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

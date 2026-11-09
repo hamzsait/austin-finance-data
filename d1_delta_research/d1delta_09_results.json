@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "b25a755bc62ff5bb",
+  "name": "King, Stuart",
+  "resolved_employer": "King-Tears Mortuary (funeral director, per filing)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Filing: Funeral Director / King-Tears, Austin 78722. King-Tears Mortuary is a historic East Austin funeral home (1300 E. 12th St.), formed by the 1955 merger of King Funeral Home and Tears Funeral Home. No public source names a Stuart King on staff or among its owners. The industry comes from the filing's employer: funeral services have no taxonomy label, so it is mapped to Retail as a consumer-service business. FEC and TEC checks were web searches only (FEC API rate-limited; TEC file download not permitted in this session). The only FEC-aggregator 'Stuart King' found is affiliated with CSU Chico, a different person. No TEC registration found.",
+  "source_url": "https://atlas.thc.texas.gov/Details/5453012826",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b6ec90cfcd91eb22",
+  "name": "Dziedzic, Brad",
+  "resolved_employer": "Musician; self / Tish and the Mizzbehavin' Band (per filing)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Filing: Musician / 'Tish And The Misbehaving Band', Self; Austin 78701; gave twice to Anderson (Jun and Oct 2026). Tish and the Mizzbehavin' Band is a real Central Texas blues/soul band (Pflugerville-based per Sonicbids), but no public roster names him. Employer-fallback only. FEC/TEC web searches found nothing for this name. The only hit was an unrelated federal lobbyist, Andrew C. Dziedzic, on LegiStorm.",
+  "source_url": "https://www.sonicbids.com/tish-and-the-mizzbehavin-band/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ca9161cf16322e05",
+  "name": "Cruz, David",
+  "resolved_employer": "City of Austin (planner, per filing)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Filing: Planner / City of Austin, Austin 78757. The name is common, and no public City of Austin page or news item names a planner David Cruz. Employer-fallback only. The pipeline's FEC match shows 8 federal donations with lean 1.0. The web-search FEC check surfaced no ideological-PAC giving (Israel/Palestine, oil/gas, guns, defense), and no TEC lobbyist registration was found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cca97db404f951ba",
+  "name": "Harris, Eugenia",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing: Not Employed, Austin 78722. No public profile matched; search results were obituaries for other people. The pipeline's FEC match shows 99 federal donations with lean 1.0, but the web-search FEC check could not itemize recipients and surfaced no ideological-PAC giving. No TEC lobbyist registration found. Employer-fallback only; former career unknown.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ce9551f91bfd8c8b",
+  "name": "Sewell, Parker",
+  "resolved_employer": "Deloitte (consultant, per filing)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Filing: Consultant / Deloitte, Austin 78721. No public Deloitte or other profile matched this name. Employer-fallback only. The pipeline's FEC match shows 20 donations with lean 1.0. The web-search FEC check surfaced no ideological-PAC giving, and no TEC registration was found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf8f1342195bd38b",
+  "name": "D Gore, Sara",
+  "resolved_employer": "University of Texas at Austin - Enterprise Technology (Principal IT Manager)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Probably the same person as donor fff06888b1866a9d (Gore, Sara; same zip 78756, same UT employer, same recipient Ramos). A Texas Public Information Act salary database lists Sara Denise Gore as Principal IT Manager I in UT Austin Enterprise Technology - Enterprise Platforms, hired 2011, which matches the filing's 'IT Manager / University of Texas at Austin'. The salary record is not a bio, and no bio page was found. FEC/TEC web searches found no PAC or lobbyist record.",
+  "source_url": "https://texascollegesalaries.com/institution/the-university-of-texas-at-austin/department/enterprise-technology-enterprise-platforms/employee/sara-denise-gore",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d3dcb5fa0de8027f",
+  "name": "Von Alexander, Julia",
+  "resolved_employer": "ASTHO (Association of State and Territorial Health Officials) - Senior Analyst, Island Support",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Filing: Public Health / ASTHO, Austin 78751. An ASTHO 'Public Health Review' podcast listing names Julia Von Alexander as 'ASTHO Senior Analyst for Island Support'. The rare name plus matching employer makes this a likely match, but the listing does not give a location. No full bio page was found. The pipeline's FEC match shows 147 donations with lean 0.80. The web-search FEC check surfaced no ideological-PAC giving (Israel/Palestine, oil/gas, guns, defense), and no TEC lobbyist registration was found.",
+  "source_url": "https://www.mypodcastdata.com/podcast/show/public-health-review-morning-edition-astho-3oq/episodes",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "df904ee27eb7e08f",
+  "name": "Camarillo, Sylvia",
+  "resolved_employer": "Travis County (assistant, per filing); longtime Texas legislative/gubernatorial staffer",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Texas SR 519 (2021) honors Sylvia Camarillo on retiring as legislative executive assistant to Sen. Royce West. It lists her earlier work for Sens. Rodney Ellis and Gonzalo Barrientos, Govs. George W. Bush and Ann Richards, the Travis County Sheriff's department and Travis County HR, and her service as executive director of the Travis County Democratic Party. The 2018 Austin Chronicle calls political operative Sylvia Camarillo a candidate for TCDP chair. The Travis County employment history matches the filing (Assistant / Travis County, Pflugerville 78660), and so does the pipeline's FEC lean (1.0, 30 donations). Medium rather than high because the resolution describes a 2021 retirement and gives no address. No TEC lobbyist registration found.",
+  "source_url": "https://capitol.texas.gov/tlodocs/87R/billtext/html/SR00519F.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Travis County Democratic Party", "role": "Former executive director", "category": "political", "source_url": "https://capitol.texas.gov/tlodocs/87R/billtext/html/SR00519F.htm", "snippet": "SR 519 lists her service as executive director of the Travis County Democratic Party, along with holding a precinct chair position and attending many county and state conventions."},
+   {"org": "Travis County Democratic Party", "role": "Candidate for party chair (2018 special election; lost to Vincent Harding)", "category": "political", "source_url": "https://www.austinchronicle.com/news/2018-06-15/a-new-era-for-the-travis-county-democratic-party", "snippet": "Political operative Sylvia Camarillo lost the special election for party chair to Vice Chair Vincent Harding after Jan Soifer resigned."},
+   {"org": "Office of State Sen. Royce West (and earlier Sens. Ellis and Barrientos, Govs. Bush and Richards)", "role": "Legislative executive assistant (2016-2021); prior legislative/gubernatorial staff", "category": "political", "source_url": "https://capitol.texas.gov/tlodocs/87R/billtext/html/SR00519F.htm", "snippet": "Sylvia Camarillo joined the staff of Senator West on November 15, 2016, and she is now retiring from her position as the legislative executive assistant in his office."}
+  ]
+ },
+ {
+  "donor_id": "e5c030ef74e0f5ab",
+  "name": "Parker, Annise",
+  "resolved_employer": "Former Mayor of Houston; former President & CEO, LGBTQ+ Victory Fund/Institute (through Feb 2025); 2026 Harris County Judge candidate (lost May 2026 Democratic runoff)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Filing: Retired, Houston 77266. This is a public figure: Houston council member, controller and three-term mayor, then Victory Fund/Institute CEO until Feb 2025. She ran for Harris County Judge in 2026, led the March primary, and lost the May 26 runoff to Letitia Plummer. The pipeline's FEC match (221 donations, lean 1.0) fits her long Democratic political career. Her full Victory Fund bio was read. No TEC lobbyist registration found. No AIPAC/UDP/DMFI/J Street, pro-Palestine, gun-lobby/gun-control or defense ties surfaced in web searches.",
+  "source_url": "https://victoryfund.org/team/annise-parker/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "LGBTQ+ Victory Fund / Victory Institute", "role": "President & CEO (through Feb 2025); former board member", "category": "political", "source_url": "https://victoryfund.org/team/annise-parker/", "snippet": "Bio: first former elected official to lead LGBTQ+ Victory Fund and Victory Institute, serving as President & CEO until February 2025; previously served on the Victory Fund board of directors."},
+   {"org": "Lesbian/Gay Rights Lobby of Texas", "role": "Former co-chair", "category": "political", "source_url": "https://victoryfund.org/team/annise-parker/", "snippet": "Bio lists her among dozens of officer/board roles, including Co-Chair, Lesbian/Gay Rights Lobby of Texas."},
+   {"org": "Lesbian and Gay Democrats of Texas", "role": "Former co-chair", "category": "political", "source_url": "https://victoryfund.org/team/annise-parker/", "snippet": "Bio lists Co-Chair, Lesbian and Gay Democrats of Texas, and President, Houston Gay and Lesbian Political Caucus."},
+   {"org": "Harris County Judge 2026 Democratic primary", "role": "Candidate (led March primary; lost May 26 runoff to Letitia Plummer)", "category": "political", "source_url": "https://www.fox26houston.com/news/texas-2026-primary-election-winners-harris-county-judge-results", "snippet": "Harris County judge Democratic primary headed to a runoff between Annise Parker and Letitia Plummer; Parker later conceded the runoff."},
+   {"org": "Mosbacher Energy Company (oil & gas industry)", "role": "Former employee: 20 years in the oil and gas industry, 18 of them at Mosbacher Energy. The bio does not state her title, and no source shows an executive, board or owner role.", "category": "business", "source_url": "https://victoryfund.org/team/annise-parker/", "snippet": "Bio: spent 20 years in the oil and gas industry, 18 of them with Mosbacher Energy Company."},
+   {"org": "CDP (Climate Disclosure Project)", "role": "Board member", "category": "civic", "source_url": "https://victoryfund.org/team/annise-parker/", "snippet": "Bio lists current board service with Houston Botanic Garden, Houston BARC Foundation, Patient Care Intervention Council, and CDP."}
+  ]
+ },
+ {
+  "donor_id": "f6ca5f5449c6e1e0",
+  "name": "Schwartz, Raphael",
+  "resolved_employer": "U.S. Patent and Trademark Office (patent examiner)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing: Engineer / USPTO, Austin 78745. Examiner-statistics site PatentBots lists USPTO examiner Raphael M. Schwartz (Art Unit 2671, image analysis). The name and employer match, but no source confirms an Austin location (USPTO examiners often work remotely). The pipeline's FEC match shows 8 donations with lean 1.0. Web searches found no ideological-PAC giving and no TEC registration.",
+  "source_url": "https://www.patentbots.com/stats/examiner/2671-SCHWARTZ-RAPHAEL-M",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f7b259ca5b4dbcc1",
+  "name": "Cullum, Bonnie",
+  "resolved_employer": "The VORTEX Repertory Company (co-founder, producing artistic director)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Filing: Theatre Director / The VORTEX, Austin 78723. Bonnie Cullum co-founded The VORTEX (2307 Manor Rd., East Austin) in 1988 and is its producing artistic director. She holds a UT Austin MFA and was named to the Austin Arts Hall of Fame in 2009. The BroadwayWorld interview was read in full. It lists VORTEX organizational memberships (Manor Road Merchants Association, Austin Creative Alliance, TCG, Network of Ensemble Theatres) and no political or advocacy roles for her personally. FEC/TEC web searches found no records.",
+  "source_url": "https://www.broadwayworld.com/austin/article/BWW-Interview-Bonnie-Cullum-and-The-Vortex-20161214",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fcde2b79df30be64",
+  "name": "Karim, Tanzia",
+  "resolved_employer": "Self-employed (per filing)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing: self / 'Tanzia', Austin 78723. No public profile found for this name. Employer-fallback only. FEC/TEC web searches found no records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fff06888b1866a9d",
+  "name": "Gore, Sara",
+  "resolved_employer": "University of Texas at Austin - Enterprise Technology (Principal IT Manager)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Probably the same person as donor cf8f1342195bd38b (D Gore, Sara; same zip 78756, UT employer, recipient Ramos). The filing reads 'software manager / University of Texas'. A salary database lists Sara Denise Gore as Principal IT Manager I, UT Austin Enterprise Technology - Enterprise Platforms, hired 2011. The pipeline's FEC match shows 59 donations with lean 1.0. Web searches found no ideological-PAC giving and no TEC registration.",
+  "source_url": "https://texascollegesalaries.com/institution/the-university-of-texas-at-austin/department/enterprise-technology-enterprise-platforms/employee/sara-denise-gore",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-01c81738-ac4c-43b7-a8f2-e1b53afb284d",
+  "name": "Gershbein, Sabrina",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "The filing gives no usable occupation or employer ('Don't' / 'Matter'); Austin 78702. The only public profile for the name (an aggregator) shows a Sr Strategic Partnerships Manager at Shippo based in New York. A location match with the Austin donor is not established, so no industry is assigned. FEC/TEC web searches found no records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0624a602-dc51-4579-8f07-0add89030418",
+  "name": "Tryon, Philip",
+  "resolved_employer": "Oracle (sales, per filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing: Sales / Oracle, Pflugerville 78660. No public profile found. Employer-fallback only. FEC/TEC web searches found no records. A 'Tryon' hit in a TEC list was a Bank of America address, not a person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0b9810c2-8b68-4a5d-942e-e4758d0b87c5",
+  "name": "Davis, Deborah",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing: Not Employed, Austin 78734. The name is very common, and no public profile could be matched to this donor. Employer-fallback only. FEC/TEC web searches found nothing attributable to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-10341870-8859-4a31-ba56-42b69b06d8e2",
+  "name": "Wild, Alexander",
+  "resolved_employer": "University of Texas at Austin - Curator of Entomology, Biodiversity Center; Lecturer, Integrative Biology",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Filing: Scientist / The University of Texas, Austin 78731. Alexander (Alex) Wild is Curator of Entomology at UT Austin's Biodiversity Center (Lake Austin Center) and a Lecturer in Integrative Biology. He is an ant researcher (UC Davis PhD) and a well-known insect photographer. The UT directory profile was read in full: titles and units only, no boards or advocacy roles. FEC/TEC web searches found no records.",
+  "source_url": "https://bio.cns.utexas.edu/directory/alexander-wild",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-143da211-4362-43d6-8fd8-cf8388369a8a",
+  "name": "McFail, Michael",
+  "resolved_employer": "TEKsystems (cyber security engineer, per filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing: Cyber Security Engineer / TEKSystems, Newport, PA 17074. This is an out-of-state donor with no public profile found. TEKsystems is an IT staffing firm, and no source shows a defense-contractor placement. Employer-fallback only. FEC/TEC web searches found no records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-14c3d355-c0f6-43fa-9795-abca36904fad",
+  "name": "Carson, Billy",
+  "resolved_employer": "Carson Investments (CEO, per filing)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Filing: CEO / Carson Investments, Buda 78610. No public record of a Carson Investments in Buda/Hays County was found. Web results for 'Billy Carson' concern an unrelated Florida media figure (4BiddenKnowledge), who is NOT this donor. Industry is from the filing's employer name only; the firm's actual line of business (finance vs. real estate) is unverified. FEC/TEC web searches found no records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2801cf3c-3d81-4af8-acfe-db611af29720",
+  "name": "Volluz, Laura",
+  "resolved_employer": "Endeavor Real Estate Group (Managing Principal, per filing)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Filing: Managing Principal / Endeavor Real Estate Group, Austin 78732. Endeavor is one of Austin's largest commercial/multifamily developers (raised a $610M fund), so this is a self-reported senior real-estate-development title. No public Endeavor team page, LinkedIn or news item naming 'Laura Volluz' was found; the name may be a married name or a spelling variant. The firm and title are therefore unverified beyond the filing. Industry is from the self-reported employer. FEC/TEC web searches found no records for this name.",
+  "source_url": "https://www.costar.com/article/1689681125/endeavor-real-estate-group-raises-610-million-in-bet-on-these-five-markets",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

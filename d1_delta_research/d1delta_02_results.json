@@ -1,0 +1,234 @@
+[
+ {
+  "donor_id": "tcv-24d4f100-084c-4c98-845c-622e9732389e",
+  "name": "Allen, Christine",
+  "resolved_employer": "UTHealth (Coordinator, self-reported)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. The filing lists her as a Coordinator at UTHealth in Sunset Valley 78745. No public profile turned up that ties a Christine Allen to UTHealth or UT Health Austin; the people found with that name are at OU Health Sciences and the University of Toronto. An aggregator lists a federal donor 'Allen, Christine' with no city, so it can't be matched to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4ac835a3-2021-476f-bad9-1540c6b83d05",
+  "name": "Odom, Chase Allen",
+  "resolved_employer": "Systems Intelligence LLC (Software Engineer, self-reported)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. He lives in Trinity, TX 75862, outside Austin. No public profile found. Built In lists Systems Intelligence as an Austin-based Akima company, which is a government contractor. He is a rank-and-file engineer, not an executive or owner, so no military_defense flag. No FEC or TEC lobbyist record found under his name.",
+  "source_url": "https://builtin.com/company/systems-intelligence-akima-company/jobs",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4daf2bfe-5f03-4abd-b5bf-de1f8b599fec",
+  "name": "Angelone, Lynda",
+  "resolved_employer": "Self-employed CRNA (nurse anesthetist), Austin",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Rare name that matches the federal NPI registry: Lynda A. Angelone, CRNA, NPI 1013990175, TX license 70297, practice address on W. Bee Caves Rd, Austin. Consistent with the self-reported CRNA occupation and her Austin 78703 address. No FEC PAC, nurse-anesthetist PAC, or TEC lobbyist record found under her name.",
+  "source_url": "https://npino.org/npi/angelone-lynda-a-1013990175.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-5106b0c9-eb9e-4c45-baf3-21bb6d71ce1e",
+  "name": "Fuantes, Frank",
+  "resolved_employer": "Self-employed (construction, self-reported)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. No public record found for 'Frank Fuantes', and possibly the name is misspelled. Contractor directories turned up a 'Fuentes Design & Construction' and a 'Fred Fuents', but neither is tied to this name or to 78751, so no link is made. No FEC or TEC record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-59e38174-a55b-4fb6-b28e-3f5b2992bdb7",
+  "name": "Jones, Annette",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Common name; no public profile could be tied to Austin 78703. The 2026 TEC lobbyist list shows an Amber H. Jones but no Annette Jones. No FEC record could be matched.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-74e2fece-8029-4941-9636-fd615a120c1e",
+  "name": "Garcia, Briana",
+  "resolved_employer": "Self-employed actress (self-reported)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. No IMDb, theater, or talent-agency profile found for a Briana Garcia in Austin. The only exact-name hit was a Houston-area realtor, who is not linked to this donor. No FEC or TEC record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-778fc8b9-43e0-459f-b493-9fbc7c76acb8",
+  "name": "Masino, Amanda",
+  "resolved_employer": "Huston-Tillotson University (Chair of Natural Sciences / Assoc. Prof. of Biology on HTU bio; listed as Dean in the filing)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Rare name that matches her HTU faculty bio, read in full: Dr. Amanda M. Masino, at HT since 2011, researches environmental justice. The HTU page lists her as Chair and does not say Dean, so the filing's 'Dean' title may be a recent promotion. Her civic roles are city-commission and housing/environment nonprofit roles. None fall in the Israel/Palestine, oil/gas, gun, or defense categories. No FEC PAC or TEC lobbyist record found.",
+  "source_url": "https://htu.edu/staff/dr-amanda-m-masino/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Austin Zero Waste Commission", "role": "Commissioner", "category": "civic", "source_url": "https://htu.edu/staff/dr-amanda-m-masino/", "snippet": "HTU bio: serves on the City of Austin Zero Waste Commission."},
+   {"org": "Austin Housing Coalition", "role": "Board member", "category": "civic", "source_url": "https://htu.edu/staff/dr-amanda-m-masino/", "snippet": "HTU bio lists board service with the Austin Housing Coalition."},
+   {"org": "Austin Community Data Coalition", "role": "Executive Director", "category": "civic", "source_url": "https://htu.edu/staff/dr-amanda-m-masino/", "snippet": "HTU bio: Executive Director, Austin Community Data Coalition (nonprofit organizing community research collaborations)."},
+   {"org": "Community Resilience Trust", "role": "Board member", "category": "civic", "source_url": "https://htu.edu/staff/dr-amanda-m-masino/", "snippet": "HTU bio lists board service with the Community Resilience Trust."},
+   {"org": "Center for Maximum Potential Building Systems", "role": "Board member", "category": "civic", "source_url": "https://htu.edu/staff/dr-amanda-m-masino/", "snippet": "HTU bio lists board service with the Center for Maximum Potential Building Systems."}
+  ]
+ },
+ {
+  "donor_id": "tcv-77d0f2cb-26c0-47e6-9104-103a661febdf",
+  "name": "Ross, Michael",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Very common name; no public profile could be tied to a retired Michael Ross in 78704. An Austin attorney named James Michael Ross is in 78734 and is not matched to this donor. No FEC or TEC lobbyist record could be matched.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-78f9c6e0-7db1-4363-9cc1-fc1bd7086a02",
+  "name": "Medearis, Charles",
+  "resolved_employer": "Law Office of Charles Medearis (solo practice, Austin)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Rare name that matches the filing's employer exactly. Solo Austin practice at 710 W 14th St: criminal defense, personal injury, entertainment, and civil-rights law. State Bar of Texas no. 24044896, per Justia. No board, commission, lobbyist, or FEC PAC record found.",
+  "source_url": "https://lawyers.justia.com/lawyer/charles-medearis-260200",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-8914421a-fa4a-4c75-8eaf-bdadee50888b",
+  "name": "Jaffe, Amanda",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile found for an Amanda Jaffe in Austin 78735. No FEC individual or PAC record and no TEC lobbyist record could be matched; a law-firm PAC that shares the surname is unrelated. Nothing was inferred from the surname.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a1092d3b-fe32-47de-9c13-3442da449e09",
+  "name": "Woodard, Shatonya",
+  "resolved_employer": "Capital One (HR Consultant, self-reported)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. Chicago 60649, outside Texas. Gave on the same day (2026-08-13) as Sharhonda Woodard, who has the same zip, which suggests a family or household connection to the Anderson campaign; not confirmed. No public profile, FEC record, or lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bc46b92e-5426-470b-b0c5-a50d4f4e558c",
+  "name": "Pruitt, Mickey",
+  "resolved_employer": "Retired (possible match: former NFL linebacker and Chicago Public Schools Director of Sports; unconfirmed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Possible match, not confirmed. A Chicago-native ex-NFL player named Mickey Pruitt later led CPS sports programs, but no source confirms his retirement or a 60623 residence. Industry is left as the 'Retired' self-report rather than guessing Education. No FEC or lobbyist record found.",
+  "source_url": "https://en.wikipedia.org/wiki/Mickey_Pruitt",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-be83144b-3c84-4b48-8280-bdc22394ce74",
+  "name": "Woodard, Sharhonda",
+  "resolved_employer": "Alzheimer's Association (Helpdesk Technician, self-reported)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. Chicago 60649, the same zip as Shatonya Woodard, and both gave on 2026-08-13; likely a household connection, not confirmed. Her helpdesk role is not a policy-advocacy role. No public profile, FEC record, or lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c8521061-635f-4bcf-a07f-ce93613cc6ec",
+  "name": "Davis, Lisa",
+  "resolved_employer": "Illinois House of Representatives (State Rep., HD-32, D; attorney)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "The filing's 'State Representative, State of Illinois' and Chicago 60652 match Rep. Lisa J. Davis (D), HD-32, in office since January 2025, whose district office is on S. Pulaski Rd, Chicago. Giffords (gun-control PAC) endorsed her in the 2024 cycle. Her state-level donors include AFSCME Council 31 PAC and IFT COPE (TransparencyUSA). No AIPAC/UDP/DMFI, J Street, pro-Palestine, NRA, oil/gas, or defense ties found. Not a Texas lobbyist.",
+  "source_url": "https://ilga.gov/House/members/details/3458",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Giffords PAC / G-PAC", "role": "Endorsed candidate (2024 cycle, IL HD-32)", "category": "gun_control", "source_url": "https://giffords.org/candidates/illinois-joint-endorsements-2/", "snippet": "Giffords 'Illinois Joint Endorsements' (2024) lists 'Lisa J. Davis, HD-32' under the Illinois House."},
+   {"org": "Illinois House of Representatives", "role": "State Representative, District 32 (D)", "category": "political", "source_url": "https://ilga.gov/House/members/details/3458", "snippet": "ILGA member page: Lisa Davis (D), Representative, 32nd District, January 2025 to present."}
+  ]
+ },
+ {
+  "donor_id": "tcv-ccae2966-935f-498c-af5c-63e892f11d1f",
+  "name": "Ice, David",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Searches for this name return news about the immigration agency (ICE). No public profile could be tied to a David Ice in 78752. No FEC or TEC lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cfb9c37f-95ac-4ae6-8439-90858c0c60fd",
+  "name": "Price, Lucy",
+  "resolved_employer": "Self-employed (hospitality, self-reported)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. No public record ties a Lucy Price to an Austin hospitality business; the 'Lucy's' restaurants and Camp Lucy have other named owners. No FEC record found. Not found on the TEC lobbyist lists; the City of Austin lobbyist master list was not checked by name.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d588378d-b10b-4b1b-bd86-db18e0ecf404",
+  "name": "Moore, Joseph",
+  "resolved_employer": "Moore Capital LTD (oil & gas, self-reported 'O & G')",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Employer-fallback from the self-reported 'O & G' occupation at 'Moore Capital LTD', Austin 78731. No public record found for an Austin entity by that name; Moore Capital Management, the NY hedge fund, is unrelated. No public source, so no oil_gas affiliation is recorded, but the self-reported occupation should be checked by hand against Railroad Commission operator and Secretary of State records. No FEC or TEC lobbyist record could be matched.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d9291edb-209c-435a-8eaa-f66617a82074",
+  "name": "Armbruster, Shani",
+  "resolved_employer": "Austin Hotel & Lodging Association (Executive Director, self-reported)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. The filing says she is Executive Director of the Austin Hotel & Lodging Association, a hotel-industry trade group active on city HOT and convention-center policy. No public page confirmed her role; the AHLA site returned an error. She does not appear in TEC lobbyist search results; the 2026 registry file could not be read as text. City of Austin lobbyist registration was not checked by name and is worth checking by hand given the role. No FEC record found.",
+  "source_url": "https://austincc.academicworks.com/donors/austin-hotel-lodging-association",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-eaea4a17-9507-469f-8d9d-13d9cb9b0274",
+  "name": "Strain-Seymour, Ian",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile found for this name, despite how distinctive it is. No FEC or TEC lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a611d697-ce36-4c99-a295-200b05a094fc",
+  "name": "Apple, Jeffrey",
+  "resolved_employer": "Cardiothoracic and Vascular Surgeons (CTVS), President; vascular surgeon",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "His CTVS bio, read in full, says he is President of CTVS (the filing's employer string) and a vascular surgeon in Austin since 2009. He is a former US Navy staff surgeon; that is military service, not a defense-contractor role, so no military_defense flag. He holds medical-association policy roles. A partial FEC API pull for Jeffrey Apple in TX returned only other Apple-surname donors (Applegate, Appleton, Applebaum, Applewhite), with no ideological PACs. No TEC lobbyist record found.",
+  "source_url": "https://ctvstexas.com/about-ctvs/our-physicians/vascular-surgeons/jeffrey-m-apple-m-d-f-a-c-s/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Medical Association", "role": "Board of Councilors member", "category": "civic", "source_url": "https://ctvstexas.com/about-ctvs/our-physicians/vascular-surgeons/jeffrey-m-apple-m-d-f-a-c-s/", "snippet": "CTVS bio: serves on the Board of Councilors of the Texas Medical Association."},
+   {"org": "Travis County Medical Society", "role": "Former President", "category": "civic", "source_url": "https://ctvstexas.com/about-ctvs/our-physicians/vascular-surgeons/jeffrey-m-apple-m-d-f-a-c-s/", "snippet": "CTVS bio: former president of the Travis County Medical Society."}
+  ]
+ }
+]

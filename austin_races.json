@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-20",
- "note": "Race metadata for the 2026 Austin City Council cycle. Each entry drives one race view page at /austin/<race_id>/ via race_template.html. Adding a district = add one entry here + run build_race.py --race <race_id>. Candidate stats are on a common 2026-cycle basis (contributions from 2025-01-01 forward) so candidates who have run before are compared on this race only, not lifetime totals.",
+ "updated": "2026-11-09",
+ "note": "Race metadata for the 2026 Austin City Council cycle. Each entry drives one race view page at /austin/<race_id>/ via race_template.html. Adding a district = add one entry here + run build_race.py --race <race_id>. Candidate stats are on a common 2026-cycle basis (contributions from 2025-01-01 forward) so candidates who have run before are compared on this race only, not lifetime totals. Post-election fields (all optional; older entries without them render as before): race.phase = filing | ballot_set | runoff | decided (absent -> ballot_set when ballot_final is true, else filing); race.result_note = one sentence of framing shown in the outcome banner; race.result_source = {outlet, url, date} linked from that banner; race.runoff_early_voting = 'YYYY-MM-DD to YYYY-MM-DD' (runoff phase only); candidate.result = won | runoff | eliminated (absent = still running); candidate.vote_pct = number, omit unless a reported figure is on hand.",
  "races": [
   {
    "race_id": "district1",
@@ -8,15 +8,23 @@
    "title": "Austin City Council District 1",
    "kind": "open",
    "cycle_start_year": 2025,
-   "data_through": "2026-06-30",
+   "data_through": "2026-10-24",
    "election_date": "2026-11-03",
    "runoff_date": "2026-12-12",
+   "runoff_early_voting": "2026-11-30 to 2026-12-08",
    "early_voting": "2026-10-19 to 2026-10-30",
    "filing_opens": "2026-07-20",
    "filing_closes": "2026-08-17",
-   "ballot_final": false,
-   "intro": "District 1 is an open seat. Natasha Harper-Madison, who has represented the district since 2019, is not seeking a third term. Austin's two-term limit permits a third term if a member gathers signatures from 5% of registered voters in the district; Harper-Madison declined to pursue that petition. Her term ends January 6, 2027.",
-   "context_note": "Candidate filing runs July 20 - August 17, 2026. Everyone listed here has declared and appointed a campaign treasurer, but filing has not closed. Expect additions, and expect some listed candidates not to complete filing.",
+   "ballot_final": true,
+   "phase": "runoff",
+   "result_note": "Goodwin and Ramos each took just over a third of the vote on Nov 3 and advance to a Dec 12 runoff; results are unofficial until the canvass.",
+   "result_source": {
+    "outlet": "KUT",
+    "url": "https://www.kut.org/politics/2026-11-03/austin-tx-district-1-city-council-election-results-2026",
+    "date": "2026-11-03"
+   },
+   "intro": "District 1 is an open seat. Natasha Harper-Madison, who has represented the district since 2019, is not seeking a third term. Austin's two-term limit permits a third term if a member gathers signatures from 5% of registered voters in the district; Harper-Madison declined to pursue that petition. Her term ends January 6, 2027. On November 3, 2026, Amber Goodwin and Misael Ramos finished as the top two in a six-candidate field, each with just over a third of the vote; with no one clearing 50 percent, they meet in a December 12 runoff.",
+   "context_note": "Filing closed August 17, 2026 with six candidates on the ballot. Money raised for the December 12 runoff is reported in the same City Clerk filings and is included here as reports post.",
    "outgoing": {
     "slug": "harpermadison",
     "name": "Natasha Harper-Madison",
@@ -33,6 +41,7 @@
      "website": "https://amberforaustin.com",
      "bio": "Assistant district attorney in the Travis County DA's office; founder of the Community Justice Action Fund and former chair of Austin's Gun Violence Prevention Task Force.",
      "status": "declared",
+     "result": "runoff",
      "has_data": true
     },
     {
@@ -43,6 +52,7 @@
      "website": "https://misaelforaustin.com",
      "bio": "Community organizer and affordable-housing development professional; president of the Rogers Washington-Holy Cross Neighborhood Association. Ran for this seat in 2022, finishing second.",
      "status": "declared",
+     "result": "runoff",
      "has_data": true
     },
     {
@@ -53,6 +63,7 @@
      "website": "https://alexandriaforaustin.com",
      "bio": "Small-business owner and certified personal trainer; retired Nike-sponsored sprinter and UT graduate; president of the MLK Neighborhood Association.",
      "status": "declared",
+     "result": "eliminated",
      "has_data": true
     },
     {
@@ -63,6 +74,7 @@
      "website": "https://brownforaustind1.com",
      "bio": "Born and raised in East Austin; clinical specialist for medical-technology firm Medtronic. Formerly a co-chair of the Save Austin Now PAC.",
      "status": "declared",
+     "result": "eliminated",
      "has_data": true
     },
     {
@@ -73,6 +85,7 @@
      "website": null,
      "bio": "Third-generation East Austinite raised near 12th & Airport; background in accounting, finance and administration; finishing an associate's degree at Austin Community College.",
      "status": "declared",
+     "result": "eliminated",
      "has_data": true
     },
     {
@@ -83,16 +96,12 @@
      "website": "https://mike4austin.org",
      "bio": "Computer science and economics background; housing-supply advocate.",
      "status": "declared",
+     "result": "eliminated",
      "has_data": false,
-     "placeholder_note": "Filed to run - no campaign finance data on file yet"
+     "placeholder_note": "Filed every required campaign finance report but has reported no itemized contributions."
     }
    ],
-   "omitted": [
-    {
-     "name": "Kyra Rogers",
-     "reason": "Reported as a candidate by a single outlet we could not independently verify. Will be added once confirmed against the City Clerk's treasurer-appointment list."
-    }
-   ]
+   "omitted": []
   },
   {
    "race_id": "district3",
@@ -100,7 +109,7 @@
    "title": "Austin City Council District 3",
    "kind": "incumbent",
    "cycle_start_year": 2025,
-   "data_through": "2026-06-30",
+   "data_through": "2026-10-24",
    "election_date": "2026-11-03",
    "runoff_date": "2026-12-12",
    "early_voting": "2026-10-19 to 2026-10-30",
@@ -139,7 +148,7 @@
    "title": "Austin City Council District 5",
    "kind": "incumbent",
    "cycle_start_year": 2025,
-   "data_through": "2026-06-30",
+   "data_through": "2026-10-24",
    "election_date": "2026-11-03",
    "runoff_date": "2026-12-12",
    "early_voting": "2026-10-19 to 2026-10-30",
@@ -189,7 +198,7 @@
    "title": "Austin City Council District 8",
    "kind": "incumbent",
    "cycle_start_year": 2025,
-   "data_through": "2026-06-30",
+   "data_through": "2026-10-24",
    "election_date": "2026-11-03",
    "runoff_date": "2026-12-12",
    "early_voting": "2026-10-19 to 2026-10-30",
@@ -249,7 +258,7 @@
    "title": "Austin City Council District 9",
    "kind": "incumbent",
    "cycle_start_year": 2025,
-   "data_through": "2026-06-30",
+   "data_through": "2026-10-24",
    "election_date": "2026-11-03",
    "runoff_date": "2026-12-12",
    "early_voting": "2026-10-19 to 2026-10-30",

@@ -74,11 +74,15 @@ LIMITS = {
 # (they will be re-adjusted with each budget before that election).
 _LATEST_YEAR = max(LIMITS)
 
-# (slug, election_year) pairs whose race went to a December runoff, verified
-# race-by-race against KUT/Austin Monitor/Wikipedia results coverage
-# (audit 2026-07-21). A runoff carries its own separate aggregate allowance
-# on top of the general-election cap, so these cycles get an extended
-# ceiling instead of reading as violations.
+# (slug, election_year) pairs whose race advanced to a December runoff. A
+# runoff carries its own separate aggregate allowance on top of the
+# general-election cap, so these cycles get an extended ceiling instead of
+# reading as violations. Once a race is sent to a runoff the allowance
+# applies to the whole cycle, so a pair is added as soon as the general
+# result is known -- the runoff itself does not have to have happened yet.
+#
+# 2018-2024 pairs verified race-by-race against KUT/Austin Monitor/Wikipedia
+# results coverage (audit 2026-07-21):
 #   Dec 2018: D1 Harper-Madison, D8 Ellis
 #   Dec 2020: D6 Kelly (beat Flannigan)
 #   Dec 2022: Mayor Watson & Israel, D3 Velásquez, D5 Alter,
@@ -88,12 +92,21 @@ _LATEST_YEAR = max(LIMITS)
 # Harper-Madison 2022, Ellis 2022, Watson 2024 (50.004%, cleared by 13
 # votes), Laine/Kelly 2024, Duchen/Ganguly 2024, Llanes 2024, Bowen 2024,
 # Ramos 2022.
+#
+# 2026 pairs reflect the Nov 3, 2026 general: results are UNOFFICIAL until
+# the canvass (KUT, 2026-11-03). Runoff is Dec 12, 2026.
+#   Dec 2026: D1 Goodwin & Ramos (open seat)
+# D3 (Velásquez/Shah) and D5 (Alter/Weinberg) also went to runoffs on Nov 3
+# but are deliberately NOT added yet -- adding a pair raises that candidate's
+# ceiling from $50k to $83k and materially changes their out-of-Austin
+# reading, so each addition is a reviewed decision (see refresh runbook).
 HAD_RUNOFF = {
     ("harpermadison", 2018), ("ellis", 2018),
     ("kelly", 2020),
     ("watson", 2022), ("israel", 2022), ("velasquez", 2022),
     ("alter", 2022), ("qadri", 2022), ("guerrero", 2022),
     ("siegel", 2024),
+    ("goodwin", 2026), ("ramos", 2026),
 }
 
 # Travis County offices — the charter limit does not apply.

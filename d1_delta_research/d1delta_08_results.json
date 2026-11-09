@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "2b444992b836cd1c",
+  "name": "Paulus, Eric",
+  "resolved_employer": "Ecology Action of Texas (Operations Director and Land Manager, Circle Acres Nature Preserve)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ecology Action of Texas's team page lists Eric Paulus as Operations Director and Land Manager at the Circle Acres Nature Preserve in Montopolis. This matches the filing (Restoration Ecologist, Ecology Action of Texas, Austin 78741, $100 to Anderson). His full bio covers his former Regeneration Eco-Farm nursery, a UT Austin BA, and his past participation in the Rhizome Collective's cleanup of Circle Acres. It lists no board seats or policy-advocacy memberships. Pipeline FEC fields: 1 donation, lean 1.0. Web FEC searches found no ideological-PAC records. He is not on the TEC 2026 registered-lobbyist list (printed Nov 8, 2026). Searches on both sides (AIPAC/J Street/JVP, NRA/Moms Demand Action, oil & gas) found nothing.",
+  "source_url": "https://ecology-action.squarespace.com/team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d4e63ced14db5cd",
+  "name": "Wittstruck, Brendan",
+  "resolved_employer": "Dunaway (Studio Lead and Associate, Austin planning & landscape architecture studio)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "A Texas Contractor article on Dunaway's new Austin planning studio names Brendan Wittstruck (PLA, ASLA, LEED AP) as Studio Lead and Associate. It says he has 10+ years of Central Texas landscape architecture and urban design work, with clients including UT Austin, the City of Austin and Foundation Communities. This matches the filing (Landscape Architect, Dunaway, Austin 78751, $100 to Ramos). The same article says he is the District 9 appointee to the City of Austin Design Commission. City Design Commission agendas from 2025-26, seen in search results, list him as a commissioner sponsoring Density Bonus Program and Urban Design Guidelines items. Pipeline FEC fields: 88 donations, lean 1.0. Web FEC searches found no ideological-PAC records. He is not on the TEC 2026 lobbyist list. Searches on both sides of the Israel/Palestine, gun and oil & gas spectrums found nothing.",
+  "source_url": "https://www.acppubs.com/TXC/article/03BD6302-dunaway-expands-central-texas-presence-with-new-pla-studio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Austin Design Commission", "role": "Commissioner (District 9 appointee)", "category": "civic", "source_url": "https://www.acppubs.com/TXC/article/03BD6302-dunaway-expands-central-texas-presence-with-new-pla-studio", "snippet": "Currently, he serves as the District 9 appointee to the City of Austin Design Commission. The commission advises Council and reviews density bonus projects against the Urban Design Guidelines."}
+  ]
+ },
+ {
+  "donor_id": "3196f8078f375269",
+  "name": "Taylor, Kimberly",
+  "resolved_employer": "Self-employed consultant (per filing)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "The only information comes from the filing: Consultant/Self, Austin 78746, $100 to Goodwin. The name is common, and no public profile tied to 78746 or a consulting practice was found, so the industry comes from the filing only. The web search tool declined two name+location person-lookup queries, so alternate queries were used. A SomaliScan 'Taylor Kimberly' aggregator profile (133 donations, 2021-24) has no city listed and cannot be tied to this donor. Pipeline FEC fields: 11 donations, lean 1.0. No ideological-PAC records were found. Not on the TEC 2026 lobbyist list; the only Taylors on it are Christian A., Larry W., Lee F., Shea P. and Zoe. Searches on both sides of the spectrums found nothing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "411907f8fa061187",
+  "name": "Friedman, Jeff",
+  "resolved_employer": "Capra (business owner, per filing). Possibly Capra & Cavelli menswear, 3500 Jefferson St #110, Austin 78731; ownership unconfirmed.",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Filing lists Business Owner, Capra, Austin 78731, $100 to Anderson. The only Austin business found matching 'Capra' is Capra & Cavelli, a men's clothing store at 3500 Jefferson St #110, 78731, the same zip as the donor. No source names Jeff Friedman as its owner, so this link is unconfirmed and the industry is a low-confidence fallback. He is not the late former Austin mayor Jeffrey Friedman (d. 2007). Pipeline FEC fields: 41 donations, lean 0.93. A SomaliScan 'Friedman, Jeff' aggregator profile (self-employed, 35 donations, 2000-2025) has no city and cannot be confirmed as this donor. No ideological-PAC records were found. Not on the TEC 2026 lobbyist list (no Friedman). Searches for AIPAC/J Street/DMFI/ADL and for JVP/IfNotNow/CAIR found no link to this person; the Friedman hits were about ambassador David Friedman. NRA/Moms Demand Action/Everytown, oil & gas and defense searches also found nothing.",
+  "source_url": "https://www.regionaldirectory.us/tx/6300432.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "42f6af4d0524c03a",
+  "name": "Ward, Katherine",
+  "resolved_employer": "Retired (per filing; former career unknown)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "The only information comes from the filing: Retired, Austin 78704, $100 to Anderson. No public profile was found to identify her or her former career. The web search tool declined one name+zip person-lookup query, so alternate queries were used. A SomaliScan 'Ward, Kate' profile (employer Hilltop Artists, gifts incl. to WA candidate T'wina Nobles) appears to be a different person. Pipeline FEC fields: 24 donations, lean 0.18. No ideological-PAC records were found. Not on the TEC 2026 lobbyist list; the only Wards on it are Leslie L., Paul J., Scott and Spencer. Searches on both sides of the spectrums found nothing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b6f299ea47d055b",
+  "name": "Hoang, Kim Ngan",
+  "resolved_employer": "Ngansequitur LLC (self-employed artist and designer)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Filing lists Artist + Designer at Ngansequitur LLC, Austin 78744, $100 to Goodwin. A 2022 GDUSA 'Students to Watch' profile describes Ngan Hoang (she/they) as a designer and artist who moved from Washington DC to Austin for a UT Austin MA in Design (Health) and has worked with Vox Media, Automattic, and The Washington Post. The occupation and the 'Ngan' business name fit, but the profile gives no zip or LLC name, so the match is medium confidence. The full profile lists no boards, memberships, or political roles. Pipeline FEC fields: 35 donations, lean 0.10. Web FEC/OpenSecrets/ProPublica searches found no ideological-PAC records under this name. Not on the TEC 2026 registered-lobbyist list (printed Nov 8, 2026; no Hoang). Searches on both sides of the spectrums found nothing.",
+  "source_url": "https://gdusa.com/ngan-hoang/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "661a70f430863fe3",
+  "name": "Schilt, Paige",
+  "resolved_employer": "Self-employed therapist (per filing); Austin author ('Queer Rock Love', 2015)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Austin Chronicle coverage of 'Dr. Paige Schilt' describes an Austin author of the memoir Queer Rock Love (Transgress Press, 2015), a former Bilerico Project contributor, and calls her an educator/activist. The filing lists Therapist/Self, Austin 78704, $100 to Ramos. No public source found confirms her therapy practice, so the industry comes from the filing. The full article and the G&L Review piece list no organization staff or board roles. Pipeline FEC fields: 9 donations, lean 1.0. Web FEC/OpenSecrets searches found no ideological-PAC records. Searches pairing her name with Israel/Palestine, AIPAC, JVP, gun-rights, and gun-control groups returned nothing. Not on the TEC 2026 registered-lobbyist list (no Schilt).",
+  "source_url": "https://www.austinchronicle.com/arts/eating-the-fudge-12096850/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "66e2d27891c5147c",
+  "name": "Johnson, Justin",
+  "resolved_employer": "Pinger (AI engineer, per filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists AI engineer at Pinger, Austin 78758, $100 to Ramos. The name is very common. The only Pinger match found is a 'Justin J', a Technical Support Specialist on theorg.com, which does not confirm this person, so the industry comes from the filing only. No bio page was found to read. Pipeline FEC fields: 0 donations. Web FEC searches found no records for this name at 78758. Searches pairing the name with AIPAC, Palestine, gun-rights, and gun-control groups returned nothing. Not on the TEC 2026 registered-lobbyist list (Johnsons listed, but no Justin).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a97482db184d225",
+  "name": "Medrano, Iliana",
+  "resolved_employer": "Travis County (social worker, per filing)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Filing lists Social Worker at Travis County, Austin 78751, $100 to Ramos. Searches of the web, Travis County pages, and social-work licensing results found no public profile under this name, so identity is unconfirmed and the industry comes from the filing. No bio page was found to read. Pipeline FEC fields: 0 donations. Web FEC searches found nothing. Searches for spectrum orgs (AIPAC, Palestine, Moms Demand, gun groups) and for boards/commissions returned nothing. Not on the TEC 2026 registered-lobbyist list (no Medrano).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6cca90e27586d189",
+  "name": "Rodriguez, Rojelio",
+  "resolved_employer": "Self-employed photographer (Roj Rodriguez, author of 'Mi Sangre')",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Roj Rodriguez is an Austin-based photographer, author of Mi Sangre (Hatje Cantz, 2023), with work in the MFAH and San Antonio Museum of Art collections. The Bronx Times gives his full name as Rojelio Reyes Rodriguez. This matches the filing: Photographer/Self, Austin 78723, $100 to Ramos. The full bios (Tribeza, UT LatinXperts, Bronx Times) list exhibitions, talks, and a Mississippi Humanities Council photo commission, but no boards, memberships, or political roles. Pipeline FEC fields: 2 donations, lean 1.0. Web FEC searches found no ideological-PAC records. Spectrum-org searches returned nothing. Not on the TEC 2026 registered-lobbyist list (Rodriguezes listed, but no Rojelio).",
+  "source_url": "https://tribeza.com/arts/austin-photographer-roj-rodriguez-book/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "70a447ef43ac257e",
+  "name": "Woody, Roy",
+  "resolved_employer": "AMD (Electronic Technician, per filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists Electronic Tech. at AMD, Austin 78744, $100 to Ramos. No public profile was found that confirms this person, so the industry comes from the filing only. AMD is a semiconductor company with a large Austin campus. The filing shows a technician role, not an executive, board, owner or lobbyist role, so no military_defense flag applies. Pipeline FEC fields: 178 donations, lean 1.0. Web FEC/aggregator searches found no page for 'Woody, Roy' and no ideological-PAC records. Not on the TEC 2026 registered-lobbyist list (no Woody).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77aade6aca0c5cc7",
+  "name": "MacDonald, Yarrow",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, Round Rock 78665, $100 to Ramos (gifts June-Sept 2026). Web searches for 'Yarrow MacDonald' found no public profile in Texas or anywhere else. Pipeline FEC fields: 0 donations. Web FEC searches found nothing. Not on the TEC 2026 registered-lobbyist list; the only MacDonald is Cory D. Macdonald, an Austin attorney-lobbyist with no documented connection to this donor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7a9cff64766fdf5c",
+  "name": "Field, Megan",
+  "resolved_employer": "Independent producer/consultant/activist; Board Chair, Ground Game Texas (filing: Not Employed)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "The Ground Game Texas board page lists Megan Field as an 'Austin-based producer, consultant, and activist'. Her bio credits include two seasons of KLRU's Emmy-nominated 'Special Session' on the Texas Legislature, the 2004 documentary 'Last Man Standing: Politics - Texas Style', and leading the launch of Grandparents for Public Schools. A Ground Game Texas email names her Board Chair. The Austin location and her heavy political giving (Pipeline FEC fields: 590 donations, lean 1.0) fit the filing (Not Employed, Austin 78757, $100 to Goodwin), but the filing carries no employer to cross-check, so confidence is medium. An aggregator search snippet showed a 'field, megan' with about 30 federal donations in 2023-24, including Power the Vote - Texas. That page returned 404 when fetched, so the snippet is unverified. No AIPAC/UDP/J Street/NRA/oil-gas/defense or gun-control PAC records were found. Not on the TEC 2026 registered-lobbyist list (no Field; Fields entries are Ferrell L. and James).",
+  "source_url": "https://groundgametexas.org/our-board",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Ground Game Texas (501(c)(4) progressive political organizing group)", "role": "Board Chair / board member", "category": "political", "source_url": "https://politicalemails.org/messages/2097898/html_body", "snippet": "Ground Game Texas email signed by Exec. Dir. Catina Voellinger: \"We are also grateful that Megan Field will serve as Board Chair.\""},
+   {"org": "Grandparents for Public Schools", "role": "Oversaw launch (organizer)", "category": "political", "source_url": "https://groundgametexas.org/our-board", "snippet": "Board bio: she recently oversaw the launch of Grandparents for Public Schools, a Texas public-education advocacy group."}
+  ]
+ },
+ {
+  "donor_id": "8544a54e4f35e3f9",
+  "name": "Onyango, John",
+  "resolved_employer": "Self-employed analyst (per filing; employer string 'John.O')",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Analyst, Self/John.O, Austin 78744, $100 to Ramos (gifts May-Sept 2026). Web and LinkedIn searches found only unrelated people named Onyango, mostly in Kenya. No profile in Austin or Texas was found. Pipeline FEC fields: 0 donations. Web FEC searches found nothing. Not on the TEC 2026 registered-lobbyist list (no Onyango).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d0d0082fe85fe7d",
+  "name": "Jasso, Amanda",
+  "resolved_employer": "Partners for Public Good (Associate, Procurement Excellence Network team)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "The Partners for Public Good team page lists Amanda Jasso as an Associate on its Procurement Excellence Network team. This matches the filing (Associate, Partners for Public Good, Elgin 78621). PPG is a nonpartisan nonprofit that works with state and local governments on procurement and operations. Her full bio lists earlier roles at the City of Austin Office of Equity & Inclusion, where she managed a $1.3M direct cash assistance program and a $1.25M quality-of-life research initiative, and as a Community Archivist at the Austin History Center. Education: MLIS from the University of Washington and a BA from Penn. The bio lists no board seats or memberships. A different Amanda Jasso, an intake specialist at FVF Law Firm, appears to be unrelated. Pipeline FEC fields: 0 donations. Web FEC searches found nothing. Not on the TEC 2026 registered-lobbyist list (no Jasso).",
+  "source_url": "https://partnersforpublicgood.org/team/amanda-jasso",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Austin, Office of Equity & Inclusion", "role": "Former staff (multiple roles; managed direct cash assistance and quality-of-life research programs)", "category": "civic", "source_url": "https://partnersforpublicgood.org/team/amanda-jasso", "snippet": "PPG bio: held multiple roles at the City of Austin Office of Equity & Inclusion, managing a $1.3M annual direct cash assistance program and a $1.25M quality of life research initiative."}
+  ]
+ },
+ {
+  "donor_id": "959d7f76e0ec5219",
+  "name": "Goodwin, Carol",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Retired/Retired, Austin 78704, $100 to Ramos. Web searches found no public profile for a Carol Goodwin in Austin. The results were other Goodwins: broker J.B. Goodwin, state Rep. Vikki Goodwin, and a 2022 obituary for Kay Goodwin whose Austin daughter is named Carol Fullerton, not Goodwin. No public source documents any family tie to candidate Amber Goodwin, and this donor gave to Ramos, not Goodwin. Pipeline FEC fields: 296 donations, lean 0.76. Web FEC searches (somaliscan and ProPublica aggregators; no OpenSecrets page surfaced) found no ideological-PAC records. Not on the TEC 2026 registered-lobbyist list (no Goodwin); the only 'Goodwin, Carol' lobbyist record found is in Oklahoma's registry and is unrelated. Searches pairing the name with AIPAC, J Street, JVP, NRA, Moms Demand Action and Everytown found nothing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9896e13952590c9b",
+  "name": "Rogers, Tristana",
+  "resolved_employer": "Self-employed massage therapist (likely Tana Rogers Massage Therapy, Austin)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "An ABMP member profile for 'Tana Rogers' lists an Austin, TX 78702 practitioner (TX MT#101668) offering lymphatic drainage and myofascial release at 3810 Medical Parkway, ABMP member since March 2007. The zip and occupation match the filing (Massage therapist/Self, 78702, $100 to Ramos), but no source confirms that 'Tana' is short for 'Tristana'. The full profile lists no memberships other than ABMP. Pipeline FEC fields: 77 donations, lean 1.0. Web FEC searches found no ideological-PAC records under either name. Not on the TEC 2026 registered-lobbyist list (only Rogers is William E.). Searches pairing the name with AIPAC, J Street, JVP, NRA, Moms Demand Action and Everytown found nothing.",
+  "source_url": "https://www.abmpmembers.com/profile/TanaRogers",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a87eac1840510772",
+  "name": "Khademakbari, Jasmine",
+  "resolved_employer": "Tahirih Justice Center (Nonprofit Program Coordinator, per filing)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Filing lists Nonprofit Program Coordinator, Tahirih Justice Center, Houston 77081, $100 to Ramos. Tahirih is a national nonprofit with a Houston office that provides legal services and policy advocacy for immigrant women and girls fleeing gender-based violence. No staff page or other public profile confirming this person was found, so the employer comes from the filing only. Pipeline FEC fields: 6 donations, lean 1.0. Web FEC searches found no individual records. The 'Jasmine For Us' committee results were an unrelated first-name match (Rep. Jasmine Crockett's committee). Not on the TEC 2026 registered-lobbyist list (no Khademakbari). Searches pairing the name with AIPAC, J Street, JVP, CAIR/Palestine, NRA and Moms Demand Action found nothing.",
+  "source_url": "https://en.wikipedia.org/wiki/Tahirih_Justice_Center",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa6811495a492205",
+  "name": "Neslund, Melissa",
+  "resolved_employer": "Stratus Properties (Development Manager)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "The filing has occupation and employer swapped: Development Manager at Stratus Properties, Austin 78735, $100 to Goodwin. A TheOrg profile (unverified aggregator) lists Melissa Neslund as Development Manager on Stratus Properties' real estate development team, with prior land-use and entitlement roles including Armbrust & Brown. Stratus is an Austin-based public real estate developer. 2014 Austin Monitor coverage describes her as a land development planner and senior associate at Bury, a member of the city's Land Development Code Advisory Group (CodeNEXT), and a RECA volunteer. A 2014 city ethics complaint alleging she should have registered as a city lobbyist was dismissed 4-2 by the Ethics Review Commission, and she denied lobbying. No source shows her as a registered lobbyist, and she is not on the TEC 2026 registered-lobbyist list (no Neslund). No FEC records were found (pipeline FEC fields: 0 donations). Searches pairing the name with AIPAC, J Street, JVP, Moms Demand Action, NRA and oil & gas found nothing.",
+  "source_url": "https://theorg.com/org/stratus-properties/org-chart/melissa-neslund",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Stratus Properties", "role": "Development Manager (real estate development team)", "category": "business", "source_url": "https://theorg.com/org/stratus-properties/org-chart/melissa-neslund", "snippet": "Melissa Neslund ... is currently working as a Development Manager at Stratus Properties (TheOrg profile, marked unverified; matches the filing)."},
+   {"org": "City of Austin Land Development Code Advisory Group (CodeNEXT)", "role": "Member, appointed by Council Member Bill Spelman (2014)", "category": "civic", "source_url": "https://austinmonitor.com/stories/2014/08/ethics-review-commission-dismisses-complaint-neslund/", "snippet": "Land Development Code Advisory Group member, appointed by CM Bill Spelman. The Ethics Review Commission voted 4-2 to dismiss a complaint that she should have registered as a lobbyist."},
+   {"org": "Real Estate Council of Austin (RECA)", "role": "Volunteer; technical and policy adviser to council members (as of 2014)", "category": "business", "source_url": "https://austinmonitor.com/stories/2014/08/ethics-review-commission-dismisses-complaint-neslund/", "snippet": "Described as a RECA volunteer advising council members as a technical and policy adviser."}
+  ]
+ },
+ {
+  "donor_id": "b105d8644356520f",
+  "name": "Cuba Lewis, Julia",
+  "resolved_employer": "Cuba Lewis Inc (Consultant, per filing)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Filing lists Consultant, Cuba Lewis Inc, Austin 78702, $100 to Goodwin. Web searches found no public profile, firm website or business listing for Julia Cuba Lewis or Cuba Lewis Inc; the hits were unrelated (De Cubas & Lewis PA, Julia Sweig). The industry comes from the filing only. Pipeline FEC fields: 1 donation, lean 1.0. Web FEC searches found no ideological-PAC records. Not on the TEC 2026 registered-lobbyist list (no Cuba; Lewis entries have other first names, no Julia). Searches pairing the name with AIPAC, J Street, JVP, NRA, Moms Demand Action and Everytown found nothing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

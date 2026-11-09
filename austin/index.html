@@ -163,6 +163,7 @@
     .racetag{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:9.5px;
       border-radius:2px;padding:2px 7px;background:var(--navy);color:#fff;letter-spacing:.02em}
     .racetag.pending{background:#fff3d6;color:#8a6410;border:1px solid #f0d089}
+    .racetag.runoff{background:var(--accent)}
     .racemeta{font-size:12.5px;color:var(--muted);line-height:1.55}
     .racestats{display:flex;gap:8px;margin-top:2px}
     .racestat{flex:1;background:var(--soft);border:1px solid var(--line);border-radius:2px;padding:8px 6px;text-align:center}
@@ -365,11 +366,34 @@ function raceCardHtml(race, stats){
   const donors = withData.reduce((s, c) => s + stats[c.slug].donors, 0);
   const fmtM = n => n >= 1e6 ? '$' + (n/1e6).toFixed(1) + 'M'
                   : n >= 1e3 ? '$' + Math.round(n/1e3) + 'K' : '$' + n;
-  const tag = race.ballot_final
-    ? '<span class="racetag">BALLOT SET</span>'
-    : '<span class="racetag pending">FILING OPEN</span>';
-  const kind = race.kind === 'open' ? 'Open seat'
-    : race.kind === 'incumbent' ? 'Incumbent seeking re-election' : 'Council race';
+  // phase: filing | ballot_set | runoff | decided (older entries derive it from ballot_final)
+  const phase = race.phase || (race.ballot_final ? 'ballot_set' : 'filing');
+  const shortDate = iso => { if (!iso) return ''; const [y,m,d] = iso.split('-').map(Number);
+    return new Date(Date.UTC(y, m-1, d)).toLocaleDateString('en-US', { month:'short', day:'numeric', timeZone:'UTC' }).toUpperCase(); };
+  const tag = phase === 'runoff'  ? '<span class="racetag runoff">RUNOFF ' + esc(shortDate(race.runoff_date)) + '</span>'
+            : phase === 'decided' ? '<span class="racetag">DECIDED</span>'
+            : race.ballot_final   ? '<span class="racetag">BALLOT SET</span>'
+            :                       '<span class="racetag pending">FILING OPEN</span>';
+  const incumbent = race.candidates.find(c => c.status === 'incumbent');
+  const winner = race.candidates.find(c => c.result === 'won');
+  const advancing = race.candidates.filter(c => c.result === 'runoff');
+  const lastName = n => String(n).trim().split(/\s+/).pop();
+  let kind;
+  if (phase === 'decided'){
+    kind = race.kind === 'open' ? 'Open seat · decided'
+      : incumbent && incumbent.result === 'won' ? 'Incumbent re-elected'
+      : incumbent && incumbent.result === 'eliminated' ? 'Incumbent defeated'
+      : 'Decided';
+    if (winner) kind += ' · ' + esc(winner.name) + ' wins';
+  } else if (phase === 'runoff'){
+    kind = race.kind === 'open' ? 'Open seat · runoff'
+      : incumbent && incumbent.result === 'eliminated' ? 'Incumbent eliminated · runoff'
+      : incumbent ? 'Incumbent in runoff' : 'Council race · runoff';
+    if (advancing.length) kind += ' · ' + advancing.map(c => esc(lastName(c.name))).join(' vs. ');
+  } else {
+    kind = race.kind === 'open' ? 'Open seat'
+      : race.kind === 'incumbent' ? 'Incumbent seeking re-election' : 'Council race';
+  }
   const outgoing = race.outgoing ? ' · ' + esc(race.outgoing.name) + ' not seeking re-election' : '';
   return '<a class="racecard" href="/austin/' + esc(race.race_id) + '/">'
     + '<div class="racetop"><span class="raceseat">' + esc(race.seat) + '</span>' + tag + '</div>'

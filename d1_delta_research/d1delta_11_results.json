@@ -1,0 +1,225 @@
+[
+ {
+  "donor_id": "tcv-86c33c27-662e-4186-a4fb-06fecea9062f",
+  "name": "Pohlmeyer, Tara",
+  "resolved_employer": "Texas AFL-CIO (Communications Director); formerly Communications Director for U.S. Rep. Greg Casar",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "A Texas AFL-CIO press release (Dec 2024) names Tara Pohlmeyer as the federation's Communications Director, starting Jan 7, 2025. That matches the filing's occupation and employer exactly. She previously ran communications for Rep. Greg Casar (D-Austin), joining his Austin team in 2020. No FEC PAC contributions turned up for her, and no Texas Ethics Commission lobbyist registration did either. Results for a Michael Pohlmeyer were not attributed to her.",
+  "source_url": "https://texasaflcio.org/news/pohlmeyer-be-next-texas-afl-cio-communications-director-sills-retire-after-31",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas AFL-CIO", "role": "Communications Director", "category": "political", "source_url": "https://texasaflcio.org/news/pohlmeyer-be-next-texas-afl-cio-communications-director-sills-retire-after-31", "snippet": "Tara Pohlmeyer named next Texas AFL-CIO Communications Director, succeeding Ed Sills; begins work Jan. 7."},
+   {"org": "Office of U.S. Rep. Greg Casar (D-Austin)", "role": "Communications Director (former)", "category": "political", "source_url": "https://texasaflcio.org/news/pohlmeyer-be-next-texas-afl-cio-communications-director-sills-retire-after-31", "snippet": "Pohlmeyer, currently the Communications Director for U.S. Rep. Greg Casar (D-Austin), joined Casar's team in Austin in 2020."}
+  ]
+ },
+ {
+  "donor_id": "tcv-92de85ce-5572-4874-b979-466d72cf299e",
+  "name": "Peeples, Robin",
+  "resolved_employer": "Self-employed product manager (per filing)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Classified from the filing only (Product Manager, employer 'Self', Temple, TX 76501). Web searches found no public profile for a Robin Peeples in Temple, no FEC contribution record, and no Texas Ethics Commission lobbyist registration. No bio page could be found, so none was read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-95f085af-b637-4a79-b539-58a5e7ef186d",
+  "name": "Garza, Lori",
+  "resolved_employer": "Pharr-San Juan-Alamo ISD (teacher, per filing)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Classified from the filing only (Teacher, PSJA ISD, Pharr, TX 78577). Searches found no public profile confirming a Lori Garza at PSJA ISD, no FEC contribution record matching Pharr, and no Texas Ethics Commission lobbyist registration. Other Garzas on PSJA staff were not attributed to her. No bio page could be found, so none was read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9a69f8b0-0907-482b-969b-f138aec8c463",
+  "name": "Williams, Carmen",
+  "resolved_employer": "Austin ISD (teacher, per filing)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Classified from the filing only (Teacher, Austin ISD, Austin, TX 78737). Searches found no public profile confirming a Carmen Williams at Austin ISD. The only named match was a Carmen Williams in Massachusetts (Needham Public Schools), who is not this donor. No FEC contribution record or Texas Ethics Commission lobbyist registration was found. No bio page could be found, so none was read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9ab25967-38b5-4684-8ff5-2f195decc224",
+  "name": "Barnebey, Chris",
+  "resolved_employer": "Sweet Chive (chef, per filing)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Classified from the filing only (Chef, Sweet Chive, Austin, TX 78751). A directory listing shows Sweet Chive as a restaurant at 2515 E Cesar Chavez St, Austin, but it names no chef. Searches found no public profile for a Chris Barnebey, no FEC contribution record, and no Texas Ethics Commission lobbyist registration. No bio page could be found, so none was read.",
+  "source_url": "https://frankiapp.com/business/sweet-chive-4498.md",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9f29e1cb-5d6e-4575-897c-58f480697d37",
+  "name": "Nuss, Melynda",
+  "resolved_employer": "Co-owner, Alienated Majesty Books (independent bookstore, 613 W 29th St, Austin)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Austin Chronicle (Nov 2023) and Shelf Awareness (Aug 2023) name Melynda Nuss and José Skinner as co-owners of Alienated Majesty Books, which took over the former Malvern Books space; matches the filed occupation/employer exactly. The Chronicle article was read in full and gives no prior career or board/advocacy roles. No dedicated personal bio page found (Malvern Books interview post returned HTTP 409; Daily Texan profile returned 403). FEC web searches found no records for this name; TEC lobbyist-list search returned no match (2026 TEC lobbyist PDF could not be text-parsed, so not fully verified).",
+  "source_url": "https://www.austinchronicle.com/arts/2023-11-10/a-new-chapter-for-austins-small-bookstores/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a56a3316-1a9b-4f9d-8512-cf63efc388f7",
+  "name": "Sepi, James",
+  "resolved_employer": "Software Engineer, Umbra (self-reported; Umbra is a satellite/space company with an Austin office)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Identity not corroborated in public sources: no profile found linking James Sepi to Umbra or Austin 78751. Umbra job postings confirm the company has Austin-based software roles, consistent with the filing. Industry is an employer fallback based only on the filed employer. FEC web search found no individual records (only an unrelated 'Sepi Shyne For Congress' committee); TEC lobbyist search found no match. No bio page discoverable.",
+  "source_url": "https://spacecrew.com/space-jobs/ly6x8hrx-umbra-senior-software-engineer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a8acf35d-a0bf-4b9e-9199-5f70c00ae9f4",
+  "name": "Bidiwala, Seju",
+  "resolved_employer": "Software Engineer, Backpack Pay (self-reported; likely Backpack Payments, a payments fintech)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "No public profile found for this name; identity not corroborated. A 'Backpack Payments' (backpackpay.com) financial-services/payments company is listed on village.ai, but no link to the donor was found. Industry is an employer fallback from the filed occupation. FEC web search and TEC lobbyist search returned no matches. No bio page discoverable.",
+  "source_url": "https://village.ai/company/backpackpay",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ae794113-e365-46b9-ac6a-3dc9905e95f1",
+  "name": "Nelson, Brandi",
+  "resolved_employer": "Professor, Austin Community College (self-reported; occupation/employer fields swapped in filing)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "No ACC faculty page or other public profile found for a Brandi Nelson; identity not corroborated (a 'Brandy Nelson' at Reading Reimagined via SXSW EDU is a different spelling with no ACC link, not used). Industry is an employer fallback from the filed employer. FEC web search found no matching records; TEC lobbyist search found no match. No bio page discoverable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b0740e76-37c8-4203-86e1-39688a35cdd8",
+  "name": "Pincham, Robert",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Chicago, IL 60619 retiree. Searches surface only R. Eugene (Robert Eugene) Pincham, the Chicago judge who died in 2008, so he cannot be this 2026 donor; no other Robert Pincham profile found, and no family relationship assumed. FEC web search found no individual records for the name (FEC API rate-limited); TEC lobbyist search found no match. No bio page discoverable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b193ec66-85f5-45ee-9083-61f4f8bf9c72",
+  "name": "Brown, Anglett",
+  "resolved_employer": "State of Texas (Construction Accountant IV, per campaign filing)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. Manor, TX 78653 donor; the filing lists Construction Accountant IV, State of Texas. Web searches for 'Anglett Brown' found no profile, news, or other public footprint, so identity is not corroborated beyond the filing. FEC: the API was rate-limited (HTTP 429), and web searches of FEC/aggregator records found no matching contributor. TEC lobbyist: web search of TEC lobby lists found no match. No bio page was discoverable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b87ef780-18ae-487e-95ca-4e1e612aa510",
+  "name": "Perez, Justin",
+  "resolved_employer": "AT&T (Executive Director, Marketing, per campaign filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. Austin, TX 78730 donor; the filing lists Executive Director, Marketing at AT&T (telecom, mapped to Technology). Web searches found no public profile or press mention tying a Justin Perez to an AT&T marketing role in Austin. FEC: the API was rate-limited, and web searches of FEC/aggregator records found no Austin/AT&T Justin Perez. TEC lobbyist: no Justin Perez found among AT&T lobbyists or in the TEC lobby lists surfaced by search. No bio page was discoverable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bc50c64d-ea32-4970-9351-4cd7aded60e2",
+  "name": "Ortiz, Lilly A",
+  "resolved_employer": "Self-employed (actress / small business owner, per campaign filing)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. Austin, TX 78744 donor; the filing lists Actress/Small business owner, self-employed. Searches did not identify her business or an acting profile. An IMDb 'Lilly' bio (nm10202340) appeared in search results but was not read and could not be tied to this donor, so it is not used. FEC: the API was rate-limited, and web searches found no matching Lilly Ortiz contributor record. TEC lobbyist: no match found. No bio page was discoverable for the corroborated person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c0c25a84-8f82-4eb2-90ea-bc8dc063e3b9",
+  "name": "Flores, Yaneth",
+  "resolved_employer": "Avow (Texas abortion-rights advocacy org, formerly NARAL Pro-Choice Texas); Policy analyst, per campaign filing",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. San Antonio, TX 78212 donor; the filing lists Policy analyst at Avow. The Avow about page describes a c4 nonprofit, the Avow Foundation (c3), and Avow PAC, and names no staff, so her employment there is not independently corroborated. No other public footprint was found. FEC: the API was rate-limited, and web searches found no matching contributor. TEC lobbyist: no Yaneth Flores found in the TEC lobby lists surfaced by search. No personal bio page was discoverable; the Avow about page was read but is an org page, not her bio.",
+  "source_url": "https://avowtexas.org/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c83e2539-08c2-4dbb-8cf6-4034c6f6500a",
+  "name": "Brazziell, Cordelia",
+  "resolved_employer": "Not employed (stay-at-home mom, per campaign filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Employer-fallback only. Pflugerville, TX 78660 donor; the filing lists stay-at-home mom with no employer. An exact-name web search returned no results for this person. FEC: the API was rate-limited, and web searches found no Brazziell contributor (the only near match, Ann Brazzel, is a different name with no Pflugerville tie, so it is not used). TEC lobbyist: no match. No bio page was discoverable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c8da7ab9-50fd-4da2-bedb-091352eb71d1",
+  "name": "Custer, Adam",
+  "resolved_employer": "Amazon Web Services (AWS) - Operations (self-reported on filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists Operations at AWS, La Porte, IN 46352 ($100 to Ramos). The web searches found no public profile, LinkedIn or news item for an Adam Custer at AWS or in La Porte, so identity is not independently corroborated. The industry comes from the employer named on the filing. FEC searches (third-party FEC aggregators and ProPublica) returned no records under this name. The FEC API was rate-limited and fec.gov loads its results dynamically, so neither could be queried directly. No Texas Ethics Commission lobbyist match. No bio page was found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c91499aa-89eb-4fd7-93d7-4e34c490ee60",
+  "name": "Chim, Autumn",
+  "resolved_employer": "Self-employed; occupation 'PA' (possibly physician assistant, unconfirmed)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation PA, employer Self, Austin TX 78717 ($100 to Ramos). Searches for 'Autumn Chim' (general, physician assistant, FEC, TEC) returned no matching person, so identity and the meaning of 'PA' are not corroborated. No FEC records found. No TEC lobbyist match. No bio page was found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cb33365e-cb2c-4d25-be26-183487d7ca7b",
+  "name": "Spears-Corbett, Barbara",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists Retired, Austin TX 78702 ($100 to Anderson). Searches for 'Barbara Spears-Corbett' and variants found no public record matching this person, so her former career could not be identified. No FEC records found. No TEC lobbyist match. No bio page was found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cc90fd5f-d8a0-4a89-a3ad-e43cf483bff2",
+  "name": "Grattan, Rosemary",
+  "resolved_employer": "Pastor, Simpson United Methodist Church (Austin)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Filing lists Pastor, Simpson UMC, Austin TX 78723 ($100 to Brown). A West Virginia UMC announcement seen in search results describes Rev. Rosemary Grattan as being from Austin and an elder in the Rio Texas Annual Conference. Her past appointments include Covenant UMC Austin, Manchaca, and FUMC Sinton. She was commissioned in 2018 as a General Board of Global Ministries church and community worker at House of the Carpenter in Wheeling, WV. That fits an Austin UMC pastor, but no source confirmed the Simpson UMC appointment itself. The announcement page now returns 404, so only search snippets were read (bio_full_read false). No FEC records were found under her name; only a different person, Rebecca Grattan, appeared. No TEC lobbyist match. Church and religious roles are not recorded as affiliations under the instructions.",
+  "source_url": "https://www.wvumc.org/tag/church/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-cd5c6e8b-3931-42b2-bbf6-17391219c33e",
+  "name": "Thompson, Cheryl",
+  "resolved_employer": "Austin Community College - Educator (self-reported on filing)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Filing lists Educator, Austin Community College, Austin TX 78752 ($100 to Ramos). A public Texas salary database lists 'Cheryl E Thompson Price', Supervisor of College Prep Programs in ACC's Adult Education department (hired 2008). That is a plausible but unconfirmed match, since the name is not identical. The industry comes from the employer named on the filing. Many people share this name. No FEC records were found for a Cheryl Thompson with an ACC employer. No TEC lobbyist match; archived lists show only other Thompsons. No ACC faculty or staff bio was found.",
+  "source_url": "https://texascollegesalaries.com/institution/austin-community-college/department/adult-education/employee/cheryl-e-thompson-price",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

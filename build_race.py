@@ -136,18 +136,72 @@ def build_stats(races) -> dict:
     return stats
 
 
+_WORDS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
+          "nine", "ten", "eleven", "twelve"]
+
+
+def _count_word(n: int) -> str:
+    return _WORDS[n] if 0 <= n < len(_WORDS) else str(n)
+
+
+def _short_date(iso: str) -> str:
+    """'2026-12-12' -> 'Dec 12'."""
+    import datetime as _dt
+    d = _dt.date.fromisoformat(iso)
+    return f"{d.strftime('%b')} {d.day}"
+
+
+def _last_name(name: str) -> str:
+    return name.strip().split()[-1]
+
+
+def race_phase(race) -> str:
+    """filing | ballot_set | runoff | decided. Entries without `phase` derive it from ballot_final."""
+    return race.get("phase") or ("ballot_set" if race.get("ballot_final") else "filing")
+
+
 def og_meta_for(race, stats) -> dict:
     live = [c for c in race["candidates"] if c.get("slug") and c["slug"] in stats]
     total = sum(stats[c["slug"]]["raised"] for c in live)
     n = len(race["candidates"])
+    seat = f"Austin City Council {race['seat']}"
     seat_context = "an open seat" if race.get("kind") == "open" else "a seat on the November 2026 ballot"
+    phase = race_phase(race)
+    field = f"${total:,} raised across the {_count_word(n)}-candidate field, decoded donor by donor."
+    incumbent = next((c for c in race["candidates"] if c.get("status") == "incumbent"), None)
+
+    if phase == "runoff":
+        adv = [c for c in race["candidates"] if c.get("result") == "runoff"]
+        names = " and ".join(_last_name(c["name"]) for c in adv) or "The top two finishers"
+        if race.get("kind") == "open":
+            ctx = ", an open seat"
+        elif incumbent and incumbent.get("result") == "runoff":
+            ctx = f" after incumbent {_last_name(incumbent['name'])} fell short of a majority"
+        elif incumbent and incumbent.get("result") == "eliminated":
+            ctx = f" after incumbent {_last_name(incumbent['name'])} was eliminated"
+        else:
+            ctx = ""
+        desc = f"{names} head to a {_short_date(race['runoff_date'])} runoff for {seat}{ctx}. {field}"
+    elif phase == "decided":
+        winner = next((c for c in race["candidates"] if c.get("result") == "won"), None)
+        who = f"{winner['name']} won" if winner else "Decided:"
+        if race.get("kind") == "open":
+            ctx = ", an open seat"
+        elif winner and incumbent and winner is incumbent:
+            ctx = ", keeping the seat"
+        elif incumbent:
+            ctx = f", unseating incumbent {_last_name(incumbent['name'])}"
+        else:
+            ctx = ""
+        desc = f"{who} {seat} outright on {_short_date(race['election_date'])}{ctx}. {field}"
+    else:
+        desc = (f"{n} candidates are running for {seat}, {seat_context}. "
+                f"${total:,} raised so far this cycle, decoded donor by donor.")
+
     return {
         "title": f"{race['seat']} 2026 — Austin Campaign Finance — decode(politics):",
-        "desc": (
-            f"{n} candidates are running for Austin City Council {race['seat']}, {seat_context}. "
-            f"${total:,} raised so far this cycle, decoded donor by donor."
-        ),
-        "alt": f"Austin City Council {race['seat']} 2026 candidates — campaign money decoded by decode(politics):",
+        "desc": desc,
+        "alt": f"{seat} 2026 candidates — campaign money decoded by decode(politics):",
     }
 
 
