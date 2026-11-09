@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="4 candidates are running for Austin City Council District 9, a seat on the November 2026 ballot. $295,942 raised so far this cycle, decoded donor by donor.">
+<meta name="description" content="4 candidates are running for Austin City Council District 9, a seat on the November 2026 ballot. $365,490 raised so far this cycle, decoded donor by donor.">
 <link rel="canonical" href="https://decodepolitics.org/austin/district9/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="decode(politics):">
 <meta property="og:title" content="District 9 2026 — Austin Campaign Finance — decode(politics):">
-<meta property="og:description" content="4 candidates are running for Austin City Council District 9, a seat on the November 2026 ballot. $295,942 raised so far this cycle, decoded donor by donor.">
+<meta property="og:description" content="4 candidates are running for Austin City Council District 9, a seat on the November 2026 ballot. $365,490 raised so far this cycle, decoded donor by donor.">
 <meta property="og:url" content="https://decodepolitics.org/austin/district9/">
 <meta property="og:image" content="https://decodepolitics.org/assets/og/og-austin.png">
 <meta property="og:image:width" content="1200">
@@ -16,7 +16,7 @@
 <meta property="og:image:alt" content="Austin City Council District 9 2026 candidates — campaign money decoded by decode(politics):">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="District 9 2026 — Austin Campaign Finance — decode(politics):">
-<meta name="twitter:description" content="4 candidates are running for Austin City Council District 9, a seat on the November 2026 ballot. $295,942 raised so far this cycle, decoded donor by donor.">
+<meta name="twitter:description" content="4 candidates are running for Austin City Council District 9, a seat on the November 2026 ballot. $365,490 raised so far this cycle, decoded donor by donor.">
 <meta name="twitter:image" content="https://decodepolitics.org/assets/og/og-austin.png">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7CGQXXKCN"></script>
 <script>
@@ -92,6 +92,13 @@
     .notice .ic{flex:none;margin-top:1px;color:#b0790d}
     .notice .txt{font-size:13.5px;line-height:1.65;color:#5a4415}
     .notice .txt strong{color:#3d2e0c}
+    /* Post-election outcome variant (phase runoff/decided): same shape, site navy instead of amber */
+    .notice.outcome{background:var(--soft);border-color:var(--line);border-left-color:var(--navy)}
+    .notice.outcome .ic{color:var(--navy)}
+    .notice.outcome .txt{color:#28394a}
+    .notice.outcome .txt strong{color:var(--navy)}
+    .notice.outcome .txt a{color:var(--navy);font-weight:600;text-decoration:none;border-bottom:1px solid rgba(24,49,79,.35);white-space:nowrap}
+    .notice.outcome .txt a:hover{color:var(--accent);border-bottom-color:var(--accent)}
 
     /* ── Race facts strip ── */
     .facts{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
@@ -125,6 +132,17 @@
     .card .cpill .d{width:7px;height:7px;border-radius:50%;background:#ec3a22;display:inline-block}
     .card .cpill b{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:11px;color:#fff}
     .card .cbio{font-family:'Inter',sans-serif;font-size:12px;line-height:1.55;color:#28394a;margin-top:12px;margin-bottom:16px}
+    /* Result badge (phase runoff/decided) — sits over the photo banner */
+    .card .cres{position:absolute;top:10px;left:10px;z-index:2;font-family:'Oswald',sans-serif;font-weight:600;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:4px 8px;border-radius:2px;background:var(--navy);color:#fff}
+    .card .cres.won{background:var(--accent)}
+    .card .cres.out{background:#e3e7ec;color:#28394a}
+    /* Eliminated: muted, but the money data stays — the whole field's money story is the point */
+    .card.out{background:#fbfcfd}
+    .card.out .photoframe img{opacity:.55}
+    .card.out .cname{color:var(--muted)}
+    .card.out .cpill{background:#8b97a6}
+    .card.out .seemore{color:var(--muted);border-color:rgba(24,49,79,.35)}
+    .cmpfill.out{background:#9aa6b5}
     .cind{margin-top:13px;margin-bottom:16px;display:flex;flex-direction:column;gap:8px}
     .cindlbl{font-family:'Oswald',sans-serif;font-weight:700;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
     .ind .indr{display:flex;justify-content:space-between;font-family:'Space Grotesk',sans-serif;font-size:9.5px;font-weight:600;color:#28394a;margin-bottom:4px}
@@ -216,7 +234,7 @@
 </section>
 
 <section class="padx" style="padding-top:4px;padding-bottom:20px">
-  <h2 class="sectlbl">Who's Running</h2>
+  <h2 class="sectlbl" id="candHeading">Who's Running</h2>
   <div class="sortbar">
     <span class="sortlbl">Sort</span>
     <div class="sortbtns" id="sortBtns">
@@ -260,6 +278,39 @@ function prettyDate(iso){
     { month:'long', day:'numeric', year:'numeric', timeZone:'UTC' });
 }
 
+// "YYYY-MM-DD to YYYY-MM-DD" -> "November 30 – December 8, 2026"
+function prettyRange(s){
+  if (!s) return '';
+  const parts = String(s).split(/\s+to\s+/);
+  if (parts.length !== 2) return prettyDate(s) || s;
+  const [a,b] = parts.map(p => p.split('-').map(Number));
+  const fmt = (y,m,d,withYear) => new Date(Date.UTC(y, m-1, d)).toLocaleDateString('en-US',
+    withYear ? { month:'long', day:'numeric', year:'numeric', timeZone:'UTC' } : { month:'long', day:'numeric', timeZone:'UTC' });
+  return fmt(a[0],a[1],a[2], a[0] !== b[0]) + ' – ' + fmt(b[0],b[1],b[2], true);
+}
+
+/* Race phase: filing | ballot_set | runoff | decided.
+   Older entries carry no `phase`; they read as ballot_set when ballot_final is true, else filing. */
+function phaseOf(race){
+  if (race.phase) return race.phase;
+  return race.ballot_final ? 'ballot_set' : 'filing';
+}
+const OUTCOME_PHASES = new Set(['runoff', 'decided']);
+// Sort rank for a candidate's `result`: winner / advancing first, undecided next, eliminated last.
+function resultRank(c){
+  if (c.result === 'won' || c.result === 'runoff') return 0;
+  if (c.result === 'eliminated') return 2;
+  return 1;
+}
+function badgeHtml(c){
+  if (!OUTCOME_PHASES.has(PHASE) || !c.result) return '';
+  const label = c.result === 'won' ? 'Won' : c.result === 'runoff' ? 'Advances to runoff' : c.result === 'eliminated' ? 'Eliminated' : '';
+  if (!label) return '';
+  const cls = c.result === 'won' ? ' won' : c.result === 'eliminated' ? ' out' : '';
+  const pct = (typeof c.vote_pct === 'number') ? ' · ' + c.vote_pct.toFixed(1).replace(/\.0$/, '') + '%' : '';
+  return '<span class="cres' + cls + '">' + esc(label + pct) + '</span>';
+}
+
 function photoHtml(key, name){
   if (key && PHOTOS.has(key)) return '<img src="/assets/photos/' + key + '.webp" alt="' + esc(name) + '" loading="lazy">';
   const initials = String(name).split(/\s+/).map(w => w[0] || '').join('').slice(0,3).toUpperCase();
@@ -281,7 +332,9 @@ function cardHtml(c){
   const cta = live
     ? '<a class="seemore" href="' + href + '">See More' + arrow + '</a>'
     : '';
-  return '<div class="card">'
+  const out = OUTCOME_PHASES.has(PHASE) && c.result === 'eliminated';
+  return '<div class="card' + (out ? ' out' : '') + '">'
+    + badgeHtml(c)
     + '<div class="photoframe">' + photoHtml(c.photo, c.name) + '</div>'
     + '<div class="cname">' + esc(c.name) + '</div>'
     + '<div class="coffice">' + office + '</div>'
@@ -291,7 +344,7 @@ function cardHtml(c){
     + '</div>';
 }
 
-let RACE = null, RACE_SEAT = '', CANDS = [], SORT = 'alpha';
+let RACE = null, RACE_SEAT = '', CANDS = [], SORT = 'alpha', PHASE = 'filing';
 
 const SORTERS = {
   alpha:  (a,b) => lastName(a.name).localeCompare(lastName(b.name)),
@@ -302,7 +355,11 @@ const SORTERS = {
 function lastName(n){ const p = String(n).trim().split(/\s+/); return p[p.length-1] + ' ' + p[0]; }
 
 function renderGrid(){
-  const sorted = CANDS.slice().sort(SORTERS[SORT]);
+  // Once there are results, outcome is the primary key; the chosen sort orders within each group.
+  const cmp = OUTCOME_PHASES.has(PHASE)
+    ? (a,b) => (resultRank(a) - resultRank(b)) || SORTERS[SORT](a,b)
+    : SORTERS[SORT];
+  const sorted = CANDS.slice().sort(cmp);
   document.getElementById('candidateGrid').innerHTML = sorted.map(cardHtml).join('');
 }
 
@@ -313,7 +370,7 @@ function renderComparison(){
   document.getElementById('cmpBody').innerHTML = withData.map(c =>
     '<div class="cmprow">'
     + '<div class="cmpname">' + esc(c.name) + '</div>'
-    + '<div class="cmptrack"><div class="cmpfill" style="width:' + Math.max(1.5, c.stats.raised / max * 100) + '%"></div></div>'
+    + '<div class="cmptrack"><div class="cmpfill' + ((OUTCOME_PHASES.has(PHASE) && c.result === 'eliminated') ? ' out' : '') + '" style="width:' + Math.max(1.5, c.stats.raised / max * 100) + '%"></div></div>'
     + '<div class="cmpval">' + moneyExact(c.stats.raised) + '</div>'
     + '</div>').join('');
 }
@@ -325,24 +382,55 @@ Promise.all([
   RACE = races.races.find(r => r.race_id === RACE_ID);
   if (!RACE) throw new Error('race ' + RACE_ID + ' not found in austin_races.json');
   RACE_SEAT = RACE.seat;
+  PHASE = phaseOf(RACE);
+  const outcome = OUTCOME_PHASES.has(PHASE);
+  const seatKind = RACE.kind === 'open' ? 'Open seat' : 'Council race';
 
   document.getElementById('crumbSeat').textContent = RACE.seat;
-  document.getElementById('raceEyebrow').textContent =
-    (RACE.kind === 'open' ? 'Open seat' : 'Council race') + ' · General ' + prettyDate(RACE.election_date);
+  document.getElementById('raceEyebrow').textContent = seatKind + ' · ' + (
+    PHASE === 'runoff'  ? 'Runoff ' + prettyDate(RACE.runoff_date) :
+    PHASE === 'decided' ? 'Decided ' + prettyDate(RACE.election_date) :
+                          'General ' + prettyDate(RACE.election_date));
   document.getElementById('raceTitle').innerHTML =
     esc(RACE.seat) + ' <span>2026</span>';
   document.getElementById('raceIntro').textContent = RACE.intro;
 
-  if (RACE.ballot_final){ document.getElementById('raceNotice').style.display = 'none'; }
+  // Banner: amber "not final" while filing is open; navy outcome note once there are results; hidden in between.
+  const notice = document.getElementById('raceNotice');
+  if (outcome && RACE.result_note){
+    const lead = PHASE === 'runoff' ? 'Headed to a runoff.' : 'Decided.';
+    const src = RACE.result_source && RACE.result_source.url
+      ? ' <a href="' + esc(RACE.result_source.url) + '" target="_blank" rel="noopener noreferrer">Source: ' + esc(RACE.result_source.outlet || 'results coverage') + '</a>'
+      : '';
+    notice.classList.add('outcome');
+    document.getElementById('raceNoticeTxt').innerHTML = '<strong>' + lead + '</strong> ' + esc(RACE.result_note) + src;
+  } else if (RACE.ballot_final){ notice.style.display = 'none'; }
   else { document.getElementById('raceNoticeTxt').innerHTML = '<strong>The field below is not final.</strong> ' + esc(RACE.context_note); }
 
-  document.getElementById('raceFacts').innerHTML = [
-    ['Filing opens',  prettyDate(RACE.filing_opens)],
-    ['Filing closes', prettyDate(RACE.filing_closes)],
-    ['General',       prettyDate(RACE.election_date)],
-    ['Runoff if needed', prettyDate(RACE.runoff_date)],
-    ['Data through',  prettyDate(RACE.data_through)],
-  ].map(([k,v]) => '<div class="fact"><div class="k">' + esc(k) + '</div><div class="v">' + esc(v) + '</div></div>').join('');
+  const facts = outcome
+    ? [
+        ['General', prettyDate(RACE.election_date)],
+        PHASE === 'runoff' ? ['Runoff', prettyDate(RACE.runoff_date)] : null,
+        PHASE === 'runoff' && RACE.runoff_early_voting ? ['Early voting', prettyRange(RACE.runoff_early_voting)] : null,
+        ['Data through', prettyDate(RACE.data_through)],
+      ]
+    : [
+        ['Filing opens',  prettyDate(RACE.filing_opens)],
+        ['Filing closes', prettyDate(RACE.filing_closes)],
+        ['General',       prettyDate(RACE.election_date)],
+        ['Runoff if needed', prettyDate(RACE.runoff_date)],
+        ['Data through',  prettyDate(RACE.data_through)],
+      ];
+  document.getElementById('raceFacts').innerHTML = facts.filter(Boolean)
+    .map(([k,v]) => '<div class="fact"><div class="k">' + esc(k) + '</div><div class="v">' + esc(v) + '</div></div>').join('');
+
+  document.getElementById('candHeading').textContent =
+    PHASE === 'runoff' ? "Who's in the Runoff" : PHASE === 'decided' ? 'Results' : "Who's Running";
+  if (outcome){
+    // Pre-vote the neutral default is alphabetical; once voters have ranked the field, lead with the money.
+    SORT = 'raised';
+    document.querySelectorAll('.sortbtn').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.sort === SORT)));
+  }
 
   if (RACE.outgoing){
     const o = RACE.outgoing;

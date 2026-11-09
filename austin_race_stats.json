@@ -1,135 +1,135 @@
 {
  "goodwin": {
-  "raised": 91346,
-  "donors": 477,
-  "contributions": 583,
-  "avg": 191.5,
+  "raised": 123010,
+  "donors": 593,
+  "contributions": 741,
+  "avg": 207.44,
   "first_gift": "2026-02-06",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-21",
   "topGroups": [
    {
-    "label": "Legal",
-    "amt": 12522,
+    "label": "Real Estate",
+    "amt": 14370,
     "w": 100
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 12327,
-    "w": 98
+    "amt": 13862,
+    "w": 96
+   },
+   {
+    "label": "Legal",
+    "amt": 13737,
+    "w": 96
    },
    {
     "label": "Government",
-    "amt": 10330,
-    "w": 82
-   },
-   {
-    "label": "Consulting / PR",
-    "amt": 9596,
-    "w": 77
+    "amt": 11630,
+    "w": 81
    }
   ],
   "cycle_start_year": 0
  },
  "ramos": {
-  "raised": 24871,
-  "donors": 230,
-  "contributions": 281,
-  "avg": 108.13,
+  "raised": 64992,
+  "donors": 809,
+  "contributions": 1103,
+  "avg": 80.34,
   "first_gift": "2026-02-23",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Technology",
-    "amt": 3233,
+    "amt": 7122,
     "w": 100
    },
    {
-    "label": "Not Employed",
-    "amt": 3098,
-    "w": 96
-   },
-   {
-    "label": "Government",
-    "amt": 2423,
-    "w": 75
-   },
-   {
     "label": "Education",
-    "amt": 2416,
-    "w": 75
+    "amt": 5214,
+    "w": 73
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 4181,
+    "w": 59
+   },
+   {
+    "label": "Not Employed",
+    "amt": 3911,
+    "w": 55
    }
   ],
   "cycle_start_year": 2023
  },
  "anderson": {
-  "raised": 28367,
-  "donors": 191,
-  "contributions": 200,
-  "avg": 148.52,
+  "raised": 38147,
+  "donors": 251,
+  "contributions": 273,
+  "avg": 151.98,
   "first_gift": "2026-02-09",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-21",
   "topGroups": [
    {
     "label": "Technology",
-    "amt": 3085,
+    "amt": 3760,
     "w": 100
    },
    {
-    "label": "Healthcare",
-    "amt": 3050,
-    "w": 99
+    "label": "Education",
+    "amt": 3495,
+    "w": 93
    },
    {
-    "label": "Education",
-    "amt": 2995,
-    "w": 97
+    "label": "Healthcare",
+    "amt": 3300,
+    "w": 88
    },
    {
     "label": "Real Estate",
-    "amt": 2350,
-    "w": 76
+    "amt": 2450,
+    "w": 65
    }
   ],
   "cycle_start_year": 0
  },
  "stevenbrown": {
-  "raised": 22363,
-  "donors": 98,
-  "contributions": 114,
-  "avg": 228.19,
+  "raised": 38087,
+  "donors": 167,
+  "contributions": 202,
+  "avg": 228.07,
   "first_gift": "2025-11-20",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-20",
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 3308,
+    "amt": 3958,
     "w": 100
    },
    {
     "label": "Healthcare",
-    "amt": 3156,
-    "w": 95
+    "amt": 3661,
+    "w": 92
    },
    {
     "label": "Government",
-    "amt": 2535,
-    "w": 77
+    "amt": 3183,
+    "w": 80
    },
    {
     "label": "Technology",
-    "amt": 1818,
-    "w": 55
+    "amt": 3143,
+    "w": 79
    }
   ],
   "cycle_start_year": 0
  },
  "riggins": {
-  "raised": 800,
-  "donors": 2,
-  "contributions": 2,
-  "avg": 400.0,
+  "raised": 1317,
+  "donors": 7,
+  "contributions": 8,
+  "avg": 188.14,
   "first_gift": "2026-02-21",
-  "last_gift": "2026-03-02",
+  "last_gift": "2026-10-19",
   "topGroups": [
    {
     "label": "Retail",
@@ -145,125 +145,125 @@
   "cycle_start_year": 0
  },
  "velasquez": {
-  "raised": 96989,
-  "donors": 335,
-  "contributions": 351,
-  "avg": 289.52,
+  "raised": 122705,
+  "donors": 421,
+  "contributions": 452,
+  "avg": 291.46,
   "first_gift": "2024-09-24",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 33398,
+    "amt": 34562,
     "w": 100
    },
    {
     "label": "Finance",
-    "amt": 8725,
-    "w": 26
+    "amt": 9489,
+    "w": 27
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 6023,
-    "w": 18
+    "amt": 6674,
+    "w": 19
    },
    {
     "label": "Government",
-    "amt": 5411,
-    "w": 16
+    "amt": 5937,
+    "w": 17
    }
   ],
   "cycle_start_year": 2023
  },
  "shah": {
-  "raised": 10985,
-  "donors": 57,
-  "contributions": 59,
-  "avg": 192.72,
+  "raised": 22379,
+  "donors": 151,
+  "contributions": 180,
+  "avg": 148.21,
   "first_gift": "2026-05-25",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Technology",
-    "amt": 3190,
+    "amt": 4218,
     "w": 100
    },
    {
     "label": "Not Employed",
-    "amt": 1763,
-    "w": 55
+    "amt": 2388,
+    "w": 57
    },
    {
     "label": "Healthcare",
-    "amt": 1316,
-    "w": 41
+    "amt": 1514,
+    "w": 36
    },
    {
     "label": "Self-Employed",
-    "amt": 1186,
-    "w": 37
+    "amt": 1196,
+    "w": 28
    }
   ],
   "cycle_start_year": 0
  },
  "alter": {
-  "raised": 183818,
-  "donors": 599,
-  "contributions": 683,
-  "avg": 306.87,
+  "raised": 202536,
+  "donors": 644,
+  "contributions": 751,
+  "avg": 314.5,
   "first_gift": "2023-09-26",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-22",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 57847,
+    "amt": 59347,
     "w": 100
    },
    {
     "label": "Government",
-    "amt": 10277,
-    "w": 18
-   },
-   {
-    "label": "Legal",
-    "amt": 10135,
+    "amt": 10577,
     "w": 18
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 9971,
+    "amt": 10471,
+    "w": 18
+   },
+   {
+    "label": "Finance",
+    "amt": 10190,
     "w": 17
    }
   ],
   "cycle_start_year": 2023
  },
  "weinberg": {
-  "raised": 16035,
-  "donors": 116,
-  "contributions": 144,
-  "avg": 138.23,
+  "raised": 29554,
+  "donors": 185,
+  "contributions": 237,
+  "avg": 159.75,
   "first_gift": "2025-10-17",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 3260,
+    "amt": 6180,
     "w": 100
    },
    {
     "label": "Self-Employed",
-    "amt": 2810,
-    "w": 86
-   },
-   {
-    "label": "Education",
-    "amt": 1985,
-    "w": 61
+    "amt": 3360,
+    "w": 54
    },
    {
     "label": "Legal",
-    "amt": 1975,
-    "w": 61
+    "amt": 2800,
+    "w": 45
+   },
+   {
+    "label": "Education",
+    "amt": 2720,
+    "w": 44
    }
   ],
   "cycle_start_year": 0
@@ -300,74 +300,74 @@
   "cycle_start_year": 2023
  },
  "xie": {
-  "raised": 105727,
-  "donors": 656,
-  "contributions": 795,
-  "avg": 161.17,
+  "raised": 151056,
+  "donors": 840,
+  "contributions": 1052,
+  "avg": 179.83,
   "first_gift": "2025-06-16",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Healthcare",
-    "amt": 11453,
+    "amt": 13143,
     "w": 100
    },
    {
     "label": "Not Employed",
-    "amt": 10577,
-    "w": 92
+    "amt": 12678,
+    "w": 96
    },
    {
     "label": "Government",
-    "amt": 9269,
-    "w": 81
+    "amt": 12549,
+    "w": 95
    },
    {
     "label": "Technology",
-    "amt": 9253,
-    "w": 81
+    "amt": 10333,
+    "w": 79
    }
   ],
   "cycle_start_year": 0
  },
  "bowen": {
-  "raised": 8408,
-  "donors": 39,
-  "contributions": 41,
-  "avg": 215.59,
+  "raised": 28878,
+  "donors": 130,
+  "contributions": 145,
+  "avg": 222.14,
   "first_gift": "2026-04-01",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-23",
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 1813,
+    "amt": 4258,
     "w": 100
    },
    {
-    "label": "Legal",
-    "amt": 1750,
-    "w": 97
-   },
-   {
     "label": "Technology",
-    "amt": 1250,
-    "w": 69
+    "amt": 3250,
+    "w": 76
    },
    {
     "label": "Government",
-    "amt": 1050,
-    "w": 58
+    "amt": 2700,
+    "w": 63
+   },
+   {
+    "label": "Legal",
+    "amt": 2000,
+    "w": 47
    }
   ],
   "cycle_start_year": 2025
  },
  "qadri": {
-  "raised": 259224,
-  "donors": 1054,
-  "contributions": 1487,
-  "avg": 245.94,
+  "raised": 277660,
+  "donors": 1140,
+  "contributions": 1642,
+  "avg": 243.56,
   "first_gift": "2024-01-22",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Real Estate",
@@ -376,91 +376,91 @@
    },
    {
     "label": "Technology",
-    "amt": 35818,
-    "w": 61
+    "amt": 36894,
+    "w": 63
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 19688,
-    "w": 34
+    "amt": 20963,
+    "w": 36
    },
    {
     "label": "Legal",
-    "amt": 16792,
-    "w": 29
+    "amt": 17332,
+    "w": 30
    }
   ],
   "cycle_start_year": 2023
  },
  "heyman": {
-  "raised": 27391,
-  "donors": 186,
-  "contributions": 203,
-  "avg": 147.26,
+  "raised": 60113,
+  "donors": 366,
+  "contributions": 464,
+  "avg": 164.24,
   "first_gift": "2025-08-08",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-24",
   "topGroups": [
    {
-    "label": "Education",
-    "amt": 5730,
+    "label": "Not Employed",
+    "amt": 10381,
     "w": 100
    },
    {
-    "label": "Not Employed",
-    "amt": 5355,
-    "w": 93
+    "label": "Education",
+    "amt": 7624,
+    "w": 73
    },
    {
-    "label": "Legal",
-    "amt": 2760,
-    "w": 48
+    "label": "Self-Employed",
+    "amt": 4376,
+    "w": 42
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 2225,
-    "w": 39
+    "amt": 4125,
+    "w": 40
    }
   ],
   "cycle_start_year": 0
  },
  "kam": {
-  "raised": 8355,
-  "donors": 51,
-  "contributions": 54,
-  "avg": 163.82,
+  "raised": 26695,
+  "donors": 159,
+  "contributions": 181,
+  "avg": 167.89,
   "first_gift": "2026-03-12",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-10-19",
   "topGroups": [
    {
-    "label": "Technology",
-    "amt": 1600,
+    "label": "Not Employed",
+    "amt": 4050,
     "w": 100
    },
    {
+    "label": "Technology",
+    "amt": 2520,
+    "w": 62
+   },
+   {
+    "label": "Government",
+    "amt": 1725,
+    "w": 43
+   },
+   {
     "label": "Legal",
-    "amt": 1400,
-    "w": 88
-   },
-   {
-    "label": "Education",
-    "amt": 1250,
-    "w": 78
-   },
-   {
-    "label": "Healthcare",
-    "amt": 595,
+    "amt": 1500,
     "w": 37
    }
   ],
   "cycle_start_year": 0
  },
  "thadani": {
-  "raised": 972,
-  "donors": 20,
-  "contributions": 22,
-  "avg": 48.6,
+  "raised": 1022,
+  "donors": 23,
+  "contributions": 25,
+  "avg": 44.43,
   "first_gift": "2026-02-04",
-  "last_gift": "2026-06-30",
+  "last_gift": "2026-07-27",
   "topGroups": [
    {
     "label": "Government",
