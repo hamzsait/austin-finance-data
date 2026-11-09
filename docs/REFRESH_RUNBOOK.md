@@ -377,27 +377,67 @@ SELECT COUNT(*) FROM donor_identities;                                          
 SELECT COUNT(*) FROM campaign_finance WHERE donor_id IN (SELECT merged_donor_id FROM identity_merges);  -- must be 0
 ```
 
-### 5e. Spectrum flags (deferred — decision for the user)
+### 5e. Spectrum flags
 
-`fec_dedup_pass.py` ends with "re-run tec_partisan_aggregate.py, ip_spectrum_flag.py, fossil_fuel_flag.py, gun_lobby_flag.py". Since the Aug 2026 reorg all four live in `archive/scripts/` and none was run in the November refresh. What they do and what skipping them costs:
+`fec_dedup_pass.py` ends with "re-run tec_partisan_aggregate.py, ip_spectrum_flag.py, fossil_fuel_flag.py, gun_lobby_flag.py". Since the Aug 2026 reorg all four live in `archive/scripts/`; they are run **from the repo root in place** (no copies) after every enrichment + dedup pass, because the flags are derived columns that are only as fresh as the last time the scripts ran:
 
-| Script | Writes | Needs re-run because | DB path after reorg |
+| Script | Reads | Writes | Why it must re-run |
 |---|---|---|---|
-| `ip_spectrum_flag.py` | `fec_committee_cache.ip_category`; `donor_identities.ip_spectrum/ip_tier/ip_total/ip_committees` (full reset + recompute from `fec_contributions_raw`) | new FEC receipts to AIPAC/J Street/etc. committees are not flagged; merged fragments keep the winner's old totals. **Read by `generate_profile_data.py`** (IP spectrum panel) | `os.path.dirname(__file__)/austin_finance.db` → resolves to `archive/scripts/austin_finance.db`, which does not exist (sqlite would create an empty file and fail). Copy to the root to run. |
-| `fossil_fuel_flag.py` | `fec_committee_cache.fossil_category`; `donor_identities.ff_*` (same pattern) | same; not read by the current profile generator | same as above |
-| `gun_lobby_flag.py` | `fec_committee_cache.gun_category`; `donor_identities.gun_*` | same; not read by the current profile generator | relative `"austin_finance.db"` → runs from the repo root as is |
-| `tec_partisan_aggregate.py` | `donor_identities.tec_total_dem/rep/other/donations`, `tec_matched` from `texas_contributions_raw` | only if the dedup pass **merged** identities that had TEC rows (the merge COALESCEs, never sums, the `tec_*` columns and remaps `austin_donor_id`); FEC enrichment itself does not touch TEC data. Read by the profile partisan panel | relative `"austin_finance.db"` → runs from the repo root as is |
+| `tec_partisan_aggregate.py` | `texas_contributions_raw` (10 tracked TEC committees) | `donor_identities.tec_total_dem/rep/other/donations`, `tec_matched` | only if the dedup pass **merged** identities that had TEC rows (the merge COALESCEs, never sums, the `tec_*` columns and remaps `austin_donor_id`); FEC enrichment does not touch TEC data. Read by the profile partisan panel. |
+| `gun_lobby_flag.py` | `fec_contributions_raw` (10 committees) | `fec_committee_cache.gun_category`; `donor_identities.gun_spectrum/gun_tier/gun_total/gun_committees` | new FEC receipts; DB-only, not rendered by `generate_profile_data.py` (the profile's gun buckets are research `civic_affiliations`) |
+| `ip_spectrum_flag.py` | `fec_contributions_raw` (**19** committees — 12 hawkish / 4 liberal Zionist / 3 pro-Palestine, the number the profile explainer quotes) | `fec_committee_cache.ip_category`; `donor_identities.ip_spectrum/ip_tier/ip_total/ip_committees` | new FEC receipts to AIPAC / J Street / etc.; merged fragments keep the winner's old totals until recomputed. **Read by `generate_profile_data.py`** (IP spectrum panel) |
+| `fossil_fuel_flag.py` | `fec_contributions_raw` (53 committees) | `fec_committee_cache.fossil_category`; `donor_identities.ff_spectrum/ff_tier/ff_total/ff_committees` | new FEC receipts; DB-only, not rendered |
 
-All four are full-reset-then-recompute, pure SQL over tables already in the DB (no network), print reports to stdout only, and have no `--dry-run`. The `ice_*` columns on `donor_identities` have no writer script in this repo yet (issue #37). Exact commands from the repo root, if the user wants them run (seconds each; then the profiles must be rebuilt again):
+All four are full-reset-then-recompute, pure SQL over tables already in the DB (no network), idempotent, print reports to stdout only, and have no `--dry-run`. They are independent of one another (TEC reads only `texas_contributions_raw`; the three flag scripts read only `fec_contributions_raw`), so the order below is convention, not a dependency. The `ice_*` columns on `donor_identities` have no writer script in this repo yet (issue #37).
+
+**DB path.** `gun_lobby_flag.py` and `tec_partisan_aggregate.py` open the CWD-relative `"austin_finance.db"`, so they must be launched from the repo root. `ip_spectrum_flag.py` and `fossil_fuel_flag.py` used to resolve `dirname(__file__)/austin_finance.db` (= `archive/scripts/austin_finance.db`, which does not exist — sqlite would create an empty file there); since 2026-11-09 both resolve `Path(__file__).resolve().parents[2] / "austin_finance.db"` (the repo root, two levels up from `archive/scripts/`), so they too run in place. Check afterwards that `git status` shows no stray `archive/scripts/austin_finance.db`. All four open the DB with `journal_mode=WAL`, which the DB already uses; other readers (a sibling worktree running `build_*`) are not blocked.
 
 ```bash
-"$PY" archive/scripts/tec_partisan_aggregate.py      > _scratch/tec_agg_$(date +%F).log 2>&1
-"$PY" archive/scripts/gun_lobby_flag.py              > _scratch/gun_flag_$(date +%F).log 2>&1
-cp archive/scripts/ip_spectrum_flag.py . && "$PY" ip_spectrum_flag.py > _scratch/ip_flag_$(date +%F).log 2>&1; rm ip_spectrum_flag.py
-cp archive/scripts/fossil_fuel_flag.py . && "$PY" fossil_fuel_flag.py > _scratch/ff_flag_$(date +%F).log 2>&1; rm fossil_fuel_flag.py
+PY="/c/Users/Hamza Sait/AppData/Local/Microsoft/WindowsApps/python3.13.exe"
+D=$(date +%F)
+"$PY" -I _scratch/spectrum_counts.py austin_finance.db > _scratch/spectrum_${D}_before.txt   # read-only baseline (see below)
+"$PY" -u archive/scripts/tec_partisan_aggregate.py > _scratch/spectrum_${D}_tec_agg.log  2>&1
+"$PY" -u archive/scripts/gun_lobby_flag.py         > _scratch/spectrum_${D}_gun_flag.log 2>&1
+"$PY" -u archive/scripts/ip_spectrum_flag.py       > _scratch/spectrum_${D}_ip_flag.log  2>&1
+"$PY" -u archive/scripts/fossil_fuel_flag.py       > _scratch/spectrum_${D}_ff_flag.log  2>&1
+"$PY" -I _scratch/spectrum_counts.py austin_finance.db > _scratch/spectrum_${D}_after.txt
+diff _scratch/spectrum_${D}_before.txt _scratch/spectrum_${D}_after.txt
 ```
 
-(The copies are needed only because of the `__file__`-relative path; `git status` must not show them afterwards. Alternative: edit both scripts' `DB_PATH` to `Path(__file__).resolve().parents[2] / "austin_finance.db"` and run them in place.)
+Runtime observed 2026-11-09 (46,264 identities, 8,027 cached committees): tec 0.9 s, gun 0.4 s, ip 0.8 s, ff 2.7 s — about 5 s for all four. Then steps 7–9 again (the flags only reach the site through the rebuilt `*_data.json`): `build_race.py --all` → `rebuild_all_ooa.py` (~3.5 min) → both landing scripts → the 17-page `--html-only` re-render loop.
+
+Baseline / verification (read-only; `_scratch/spectrum_counts.py` is a session helper that prints the queries below for the whole table and for one district's donor pool — recreate it or run the SQL by hand):
+
+```sql
+SELECT COUNT(ip_spectrum), COUNT(ff_spectrum), COUNT(gun_spectrum),
+       COUNT(*) FILTER (WHERE tec_matched = 1), ROUND(SUM(ip_total)), ROUND(SUM(ff_total)), ROUND(SUM(gun_total)),
+       ROUND(SUM(tec_total_dem)), ROUND(SUM(tec_total_rep)), ROUND(SUM(tec_total_other))
+  FROM donor_identities;
+SELECT ip_spectrum, COUNT(*) FROM donor_identities WHERE ip_spectrum IS NOT NULL GROUP BY 1;   -- same for ff_, gun_
+SELECT COUNT(ip_category), COUNT(fossil_category), COUNT(gun_category) FROM fec_committee_cache;  -- 14 / 49 / 10 on 2026-11-09
+-- restricted to one district's donors (donor_id and donor_id_2 of the roster recipients)
+SELECT COUNT(ip_spectrum), COUNT(ff_spectrum), COUNT(gun_spectrum), SUM(COALESCE(tec_matched, 0))
+  FROM donor_identities WHERE donor_id IN (SELECT donor_id FROM campaign_finance WHERE recipient IN (<roster>) AND donor_id IS NOT NULL
+                                    UNION SELECT donor_id_2 FROM campaign_finance WHERE recipient IN (<roster>) AND donor_id_2 IS NOT NULL);
+```
+
+Sanity rules: every flagged count must move **up or stay** (a drop means the reset ran and the recompute died — check the log for a traceback and re-run; the scripts are idempotent); no column may go all-NULL; the ip log must list 19 committees in STEP 2 (`Flagged` + `not in cache` lines — the pro-Palestine three and two hawkish PACs have no Austin donors and print `not in cache`, which is correct, not an error); `tec_matched` counts and the D/R/Other sums are unchanged unless the dedup merged TEC-matched identities; `austin_race_stats.json` and the race pages are byte-identical after `build_race.py --all` (flags do not touch money). Per-donor flag **moves** between identities are expected after a dedup: when a new `tcv-` identity fuzzy-matched the same FEC receipts as an existing donor, the dedup gave the shared `sub_id`s to one of them and the flag follows the receipts — log the pair for identity-frag-scan rather than "fixing" it here.
+
+#### Worked example: November 2026 (run 2026-11-09, PR `spectrum-flags-nov-2026`)
+
+Logs `_scratch/spectrum_2026-11-09_{tec_agg,gun_flag,ip_flag,ff_flag}.log`, counts `_scratch/spectrum_2026-11-09_{before,after}.txt`. All four exited 0, no tracebacks, no stray DB file. `donor_identities` flagged, whole table → D1 pool (1,855 donors of Goodwin / Ramos / Anderson / S. Brown / Riggins):
+
+| Column | Before (all) | After (all) | Before (D1) | After (D1) |
+|---|---|---|---|---|
+| `ip_spectrum` | 162 (97 hawkish / 65 liberal Zionist) | **169** (103 / 66) | 7 | **8** |
+| `ff_spectrum` | 542 (361 fossil / 181 climate) | **579** (392 / 187) | 18 | **22** |
+| `gun_spectrum` | 238 (128 rights / 110 control) | **245** (134 / 111) | 7 | 7 |
+| `tec_matched = 1` | 3,608 | 3,608 | 92 | 92 |
+| sums `ip_total` / `ff_total` / `gun_total` | $3,114,160 / $1,959,263 / $240,512 | $3,197,385 / $2,032,473 / $244,275 | | |
+
+TEC D/R/Other sums identical ($2,096,840 / $7,244,506 / $2,222,356): the dedup merged no TEC-matched identities. Committees flagged in `fec_committee_cache`: 14 IP (of 19), 49 fossil/climate (of 53), 10 gun (of 10), unchanged. Per D1 recipient: Goodwin ip 2 → **3** (Claire Selinger, `tcv-` Aug-25 $50 donor, AIPAC PAC $500 → tier 1 hawkish), Ramos ff 5 → **9**, S. Brown ff 3 → 4, Anderson ff 5 → 4. The new D1 flags are all `tcv-` identities created in step 3 (Ascot, Howard, Jones, McMichael, Meek, Selinger). The one drop — Perry Lorenz `68305c3f92668401` (Anderson donor, 40+ recipients since 2016) lost `climate_action` $5,050 — is a move, not a loss: the October `tcv-c5d82611…` "Lorenz, Perry" (Xie / Parks PAC donor, employer "estate real") took 256 of his FEC receipts including the NextGen Climate $5,050 in the dedup; the pair belongs in identity-frag-scan.
+
+Rebuild: `build_race.py --all` 4 s (stats file and 5 race pages byte-identical), `rebuild_all_ooa.py` 211 s (34/34), landing scripts 2 s (`austin_landing.json` unchanged — flags are not on the cards), re-render 6 s. Only the 34 `*_data.json` changed (every one gets a new `meta.generated_at`; no `_all_donations.json` or `index.html` moved). IP panels that changed: **goodwin** 2 → 3 flagged (new "Pro-Israel (AIPAC-aligned)" entry: 1 donor, $500 federal / $50 local, beside the 2 liberal Zionist $26,390 / $600), **alter** 11 → 12 (hawkish 7 → 8, $1,085,952 → $1,087,952), **israel** 20 → 21 (liberal Zionist 14 → 15). Ramos unchanged (1 liberal Zionist: Cyral Miller, $149 / $10). Browser check (chrome-devtools, `http.server 8767`): `/austin/goodwin/` and `/austin/ramos/` load with zero console messages and render those panel counts.
 
 ### 5f. Verify (read-only)
 
@@ -437,7 +477,7 @@ Time-boxed dry run beforehand (`_scratch/fec_2026-11-09_dryrun.log`, 00:47:53–
 
 **504 residue: 139 donors** (`_scratch/fec_2026-11-09_after_enrich.txt`), 58 of them `tcv-` ids minted this refresh, 33 with a glued leading initial. Examples: `s llorens, john` ($1,500), `Murphy` (surname only), `G Baratz, Adam`, `Oertli, T.`, `Richardson, Michael`, `Porter, Michael`, `D Martin, James`, `Davis, Lisa`, `Moore, Joseph`, `JOSEPH JR, JOE L`, `Smith, Jo Lynn`. Left at `fec_matched = 0`; not a retry target. On D1: Ramos 24 (`Smith, Michael`, `Smith, Justin`, `Scott, Karen`, `Roberts, Carl`, `Foley, Mike`, `J Davis, Tom`, `S Butler, Julia`, `S., Mary` …), Anderson 3 (`Brown, Emily`, `Crawford, Michael`, `Davis, Lisa`), Brown 1 (`Moore, Joseph`), Goodwin and Riggins 0.
 
-Dedup: dry run 06:47:47–06:47:59 (12 s), real run 06:48:30–06:53:34 (5 min); logs `_scratch/fec_dedup_2026-11-09_dryrun.log`, `_scratch/fec_dedup_2026-11-09.log`. Enrichment had raised the shared-sub_id count from 28,966 to **53,610** (the new identities fuzzy-matched receipts already held by existing ones). Plan: 1,100 components / 2,315 ids; **merge 104 people from 212 ids** (links: exact 87, compound 7, fec-span-thin-emp 6, nickname 4, fec-span 3, reversed 3, fec-span-thin 1 — mostly a `tcv-` identity from step 3 whose name is byte-identical to an existing one, e.g. `Archuleta, Danielle | Archuleta, Danielle`, plus `Newman, Jake | Newman, Jacob`, `C Garcia, Julio | Garcia Jr, Julio`, `Bell-Sittler, Wolf | sittler, wolf`); strip 1,010 components. Applied: remapped 173 `campaign_finance.donor_id` + 2 `donor_id_2` rows, 6,461 `fec_contributions_raw` rows (5,820 duplicate receipts absorbed), **108 donor_ids merged into 104 people**, **9,590 duplicate receipt rows deleted** (dry run said 9,763; the merge absorbed the difference first), **39,081 sub_ids → review**, aggregates recomputed for 46,125 donors. Integrity: 0 `campaign_finance` rows point at a merged id, 0 merged ids remain in `donor_identities`. `fec_dedup_review.csv` 60,289 → **81,853 lines**; `git diff --stat` = 81,781 insertions / 60,217 deletions (the file is regenerated in component order, so the diff is a near-total rewrite even though the review set only grew by ≈ 10k sub_ids). Spectrum flags (5e) **not run** — decision pending.
+Dedup: dry run 06:47:47–06:47:59 (12 s), real run 06:48:30–06:53:34 (5 min); logs `_scratch/fec_dedup_2026-11-09_dryrun.log`, `_scratch/fec_dedup_2026-11-09.log`. Enrichment had raised the shared-sub_id count from 28,966 to **53,610** (the new identities fuzzy-matched receipts already held by existing ones). Plan: 1,100 components / 2,315 ids; **merge 104 people from 212 ids** (links: exact 87, compound 7, fec-span-thin-emp 6, nickname 4, fec-span 3, reversed 3, fec-span-thin 1 — mostly a `tcv-` identity from step 3 whose name is byte-identical to an existing one, e.g. `Archuleta, Danielle | Archuleta, Danielle`, plus `Newman, Jake | Newman, Jacob`, `C Garcia, Julio | Garcia Jr, Julio`, `Bell-Sittler, Wolf | sittler, wolf`); strip 1,010 components. Applied: remapped 173 `campaign_finance.donor_id` + 2 `donor_id_2` rows, 6,461 `fec_contributions_raw` rows (5,820 duplicate receipts absorbed), **108 donor_ids merged into 104 people**, **9,590 duplicate receipt rows deleted** (dry run said 9,763; the merge absorbed the difference first), **39,081 sub_ids → review**, aggregates recomputed for 46,125 donors. Integrity: 0 `campaign_finance` rows point at a merged id, 0 merged ids remain in `donor_identities`. `fec_dedup_review.csv` 60,289 → **81,853 lines**; `git diff --stat` = 81,781 insertions / 60,217 deletions (the file is regenerated in component order, so the diff is a near-total rewrite even though the review set only grew by ≈ 10k sub_ids). Spectrum flags (5e) were run in a follow-up PR the same day (`spectrum-flags-nov-2026`); see the 5e worked example.
 
 | | Before | After enrichment | After dedup |
 |---|---|---|---|
@@ -862,11 +902,10 @@ Follow-ups surfaced by the delta (not part of this step): 3 pool donors with emp
 
 Data and identities:
 
-- **Spectrum flags not re-run** (step 5e): `ip_spectrum_flag.py`, `fossil_fuel_flag.py`, `gun_lobby_flag.py`, `tec_partisan_aggregate.py`. The IP spectrum panel on every profile still reflects the pre-refresh FEC receipts and the merged fragments' old totals. Decision for the user; seconds to run, then steps 7–9 again.
 - **139 FEC 504 residue** identities left at `fec_matched = 0` (step 5b); script-side fix (zip-first narrowing for common names, strip glued initials), not retries. 24 are Ramos donors.
 - **1,761 `city26-pending` review-queue pairs** (step 3c; +836 this refresh) — potential duplicate donors until a merge pass reads the queue.
 - **438 blank-`canonical_name` identities** DB-wide (joint-shadow halves; step 11 follow-ups), 3 of them in the D1 pool.
-- **11 `tcv-` identity fragments** of already-researched D1 donors named in step 11 (Bledsoe, Phillips ×2, Wendler, Pastor, Gilliland, Cody, Frey, Flahive, Thumlert, Callahan) plus the five in-delta pairs → identity-frag-scan.
+- **11 `tcv-` identity fragments** of already-researched D1 donors named in step 11 (Bledsoe, Phillips ×2, Wendler, Pastor, Gilliland, Cody, Frey, Flahive, Thumlert, Callahan) plus the five in-delta pairs, and Perry Lorenz `68305c3f92668401` / `tcv-c5d82611…` (the dedup moved his FEC receipts and `climate_action` flag to the October fragment; step 5e) → identity-frag-scan.
 - "Trust, Ashley" (Goodwin) misclassified ENTITY by `ENTITY_KEYWORDS` (step 3d).
 
 Editorial and site:
