@@ -799,14 +799,14 @@ cp archive/d1_research/_run_d1_research.js   d1_delta_research/_run_d1_delta_res
 cp archive/d1_research/_apply_d1_results.py  d1_delta_research/_apply_d1_delta_results.py
 ```
 
-Research dirs live at the repo root while active and are committed (inputs, results, usage log, scripts), then move under `archive/` when done. `_scratch/` is ignored; `d1_delta_research/` is not (`git check-ignore -v d1_delta_research/x.json` prints nothing). For the next district, copy from `archive/d1_delta_research/` instead: its scripts already carry every fix below.
+Research dirs live at the repo root while active and are committed (inputs, results, usage log, scripts), then move under `archive/` when done. `_scratch/` is ignored; `d1_delta_research/` is not (`git check-ignore -v d1_delta_research/x.json` prints nothing). For the next district, copy from `archive/d1_delta_research/` or `archive/d3_delta_research/` instead: their scripts already carry every fix below and resolve the repo root from either location (`REPO = ROOT.parent.parent if ROOT.parent.name == "archive" else ROOT.parent`), so the copies run unchanged from the repo root.
 
 ### 11.2 Fixes the copied scripts need (the archived originals point at paths that no longer exist)
 
 | Script | Archived | Delta |
 |---|---|---|
 | DB path (all three) | `ROOT/../austin_finance.db` → `archive/austin_finance.db` (missing) | `Path(__file__).resolve().parent.parent / 'austin_finance.db'` |
-| Coverage globs (prep) | `../travis_research/donorbatch*.json`, `../travis_research/_pilot_covered_ids.json` | `../archive/travis_research/donorbatch*.json`, `../archive/travis_research/_pilot_covered_ids.json`, `../archive/d1_research/d1batch_*.json`, `../archive/d3_research/d3batch_*.json` — every finished `archive/d*_research/d*batch_*.json`, plus the previous delta's `d1delta_*.json` next time |
+| Coverage globs (prep) | `../travis_research/donorbatch*.json`, `../travis_research/_pilot_covered_ids.json` | `../archive/travis_research/donorbatch*.json`, `../archive/travis_research/_pilot_covered_ids.json`, `../archive/d1_research/d1batch_*.json`, `../archive/d3_research/d3batch_*.json`, `../archive/d1_delta_research/d1delta_*.json`, `../archive/d3_delta_research/d3delta_*.json` — every finished `archive/d*_research/d*batch_*.json` and `archive/d*_delta_research/d*delta_*.json` |
 | Batch prefix (prep + driver regex) | `d1batch_NN.json`, `/^d1batch_\d+\.json$/` | `d1delta_NN.json`, `/^d1delta_\d+\.json$/` — a different prefix so the driver can never pick up the finished archive set |
 | Apply glob / gate | `d1batch_*_results.json`; `WHERE resolved_industry IS NULL` | `d1delta_*_results.json`; the widened gate quoted above |
 | Instructions path (driver) | `../travis_research/_research_instructions_v3.md` | local copy in the working dir |
@@ -894,9 +894,38 @@ Apply (both runs in `_d1_delta_apply_log.txt`; dry run `_d1_delta_apply_dryrun.t
 | `civic_affiliations` rows | 2,112 → **2,205** (+93; one within-run duplicate — Sylvia Camarillo's Travis County Democratic Party listed twice — collapsed by the dedup) | unchanged | 2,205 |
 | `PRAGMA quick_check` | ok | ok | |
 
-Rebuild and render: done in the closing pass (steps 7–10 above); the step-10 worked example lists the Texas AFL-CIO / Pohlmeyer / Haney (Goodwin), Commission Shift / Tarleton / Clemmons (Ramos) and Mosbacher (Anderson) entries now in the profile JSON and the fall in `Unknown` industry dollars. Archive move (11.6) not yet done; the directory is at the repo root, uncommitted, with 22 scratch intermediates to delete first.
+Rebuild and render: done in the closing pass (steps 7–10 above); the step-10 worked example lists the Texas AFL-CIO / Pohlmeyer / Haney (Goodwin), Commission Shift / Tarleton / Clemmons (Ramos) and Mosbacher (Anderson) entries now in the profile JSON and the fall in `Unknown` industry dollars. Archive move (11.6) done in PR #40 (2026-11-09): `archive/d1_delta_research/` (the 22 scratch intermediates were deleted before the PR #39 commit).
 
 Follow-ups surfaced by the delta (not part of this step): 3 pool donors with empty `canonical_name` — joint-shadow half-rows (`68b3d570cdf64cad` Askew/Brown $450, `c98134210238c32d` Landry/Brown $431.85, `e13e67200499de64` Howsey/Anderson $250); 438 blank-name identities exist DB-wide; fix the identity and they fall into the next delta. 11 `tcv-` newcomers skipped on the name match are identity fragments of already-researched donors (Bledsoe, Phillips ×2, Wendler, Pastor, Gilliland, Cody, Frey, Flahive, Thumlert, Callahan): affiliations render (keyed on name) but they carry no industry tag until merged. Fragments seen inside the delta itself (harmless to apply, belong in identity-frag-scan): Rachel Kitto (04/05), Sara Gore / "Sara D Gore" (09), Lilly Ann / Lilly A Ortiz (06/11), Brandi Nelson (07/11 — different filed employers, may be two people), Shuronda Robinson / "Shuronda Parks" (06/07, both Adisa Communications).
+
+### Worked example — District 3 delta, November 2026
+
+Second run of this step, 2026-11-09, from `d3_delta_research/` (copied from `d1_delta_research/`, every 11.2 fix carried over; coverage globs also include `../archive/d1_delta_research/d1delta_*.json`). Pool rule unchanged from `archive/d3_research/_prep_d3_batches.py`: ≥ $100 lifetime to the D3 candidates the race page renders with finance data — Velasquez / Shah / Romero / Skinner. Gavino Fernandez (2022 rows only, `has_data: false` on the roster) was left out under that rule; he would add 16 donors.
+
+| | donors |
+|---|---|
+| ≥ $100 D3 donors after the October fetch | 706 |
+| already covered | 617 — `archive/d3_research` live ids 513, `civic_affiliations` name match only 42, `identity_merges` remap 32, `archive/d1_research` 22, `archive/d1_delta_research` 5, travis 2, `llm-research` only 1 |
+| uncovered but blank `canonical_name` (excluded) | 4 (all Velasquez; `e8ed4f575433530a` $526.48, `f0d597e383234980` $342.41, `295f2732331c1f58` $263.31, `d645fe45b980812b` $263.31) |
+| **uncovered → delta pool** | **85** (57 `tcv-` identities); Velasquez 45, Shah 32, Skinner 6, Romero 2 (Maribel Romero + the candidate's own self-contributions) |
+| batches | **5** (4 × 20 + 1 × 5) |
+
+Checks: 0 delta ids in any archived batch after remap; 0 with `llm-research-%`; min `site_total` $100; 5/5 spot-checks reconciled. 11 delta donors had a first gift before the 2026-07-20 D3 scrub: 3 are 2022 Velasquez donors who crossed $100 in 2026, the other 8 gave in June–July 2026 and were first filed after that run.
+
+Run 2026-11-09 13:48Z–13:59Z, launched detached from PowerShell from the start (PID 11268, POOL 3): **5/5 batches, 85/85 donors, $13.24 on `claude-opus-5-5`** ($2.65/batch mean; 01 $2.75 · 02 $3.46 · 03 $3.12 · 04 $2.62 · 05 (5 donors) $1.28; 176–360 s/batch), 0 failed jobs, 0 retries, no reap. `verify_d3_delta.py` (now kept in the research dir) found no structural defects: 85 rows, all ids in their input batches, all industries in taxonomy, every affiliation with org + source_url.
+
+Corpus: confidence high 10 / medium 25 / low 50 (59 % low — Shah's $100–$500 donors and Skinner's `NA`/`NA` donors have almost no public footprint); 72 with an industry; 12 donors / 24 affiliation rows (business 12, political 7, civic 5). Spot-reads (16 donors incl. the one spectrum row): sources consistent with filed occupation/employer/zip throughout; both candidates' self-contributions correctly identified and tagged `political`; the two City of Austin registered lobbyists (Michele Lynch, MWSW; Jeff Howard, McLean & Howard) sourced to the clerk's registry. One category correction in `d3delta_01_results.json`: Adam Ahmad's `oil_gas` row (President, "I am petroleum" → A. M. Petroleum, a fuel wholesaler / JD's Supermarkets operator; company match "most likely", role not independently confirmed) changed to `business` under the Parker precedent — downstream fuel retail with an unconfirmed executive role does not meet the exec/board/owner-of-oil-and-gas definition. Notable cluster: Ahmad, Zinovia Yakis and Vanessa Calixto (AM Petroleum / JD's Market, $500 each to Velásquez Aug–Oct 2026) plus Hassan Ladnany (JD's clerk, $250) gave while JD's Riverside store was in an eminent-domain dispute with Austin Transit Partnership that names Velásquez as a decision-maker.
+
+Apply 2026-11-09 14:00Z (`_d3_delta_apply_log.txt`; dry run `_d3_delta_apply_dryrun.txt` said 35 donors / 24 rows):
+
+| | expected | applied |
+|---|---|---|
+| donor rows updated | 35 (10 high, 25 medium) | **35**; 18 overrode heuristic labels (`employer` 10, `fec-employer` 4, `occupation` 2, `occupation-incr` 2; 8 of the 18 changed the industry, all 8 checked and the research label was right — e.g. Calixto `Legal`/`fec-employer` "Martinez Law Firm" → AM Petroleum risk manager, Puerta `Technology`/Dell → Texas Historical Commission), priors in `_d3_delta_overridden_labels.csv` |
+| `llm-research-%` rows DB-wide | 1,304 → 1,339 | **1,339** (+35) |
+| `civic_affiliations` rows | 2,205 → 2,229 | **2,229** (+24, 0 dups) |
+| `PRAGMA quick_check` | ok | ok |
+
+Research labels on ≥ $100 donors per candidate afterwards: Velasquez 58 of 619 (was 36), Shah 11 of 80 (was 2), Romero 2 of 2, Skinner 2 of 6. The low Velasquez share is not this delta's doing: the original D3 scrub (558 donors) was applied under the old `resolved_industry IS NULL` gate, so only 26 of its 540 live donors carry `llm-research-*` — re-applying `archive/d3_research` (and `archive/d1_research`) under the widened gate is a proposed follow-up, measured read-only on 2026-11-09 (D3: 410 donors would change, 153 with a different industry label; D1: 357 / 138; none give outside D1/D3). Rebuild (steps 7–8, D3 only — the other profiles already carried the step-5e flags from PR #41) and the 11.6 archive move were done in PR #40 (2026-11-09); the corpus is at `archive/d3_delta_research/`.
 
 ## Post-refresh follow-ups (open after the November 2026 refresh)
 
@@ -915,5 +944,4 @@ Editorial and site:
 - **`runoff_early_voting` "2026-11-30 to 2026-12-08"** on D1 is Chronicle-sourced only; confirm against the Clerk / Travis County before Nov 30 or drop the field (step 6c).
 - **Nahas placeholder** (`has_data: false`, no DB rows, eliminated Nov 3): keep as is for now; after the canvass decide whether a zero-money eliminated card stays on the D1 page or moves to `omitted`.
 - **D3 / D5 / D8 / D9 editorial passes** pending: rosters, `phase`, `result`, `vote_pct`, intros per step 6e's per-district recipe; then `build_race.py --all`, the hub's "N races · M candidates" count (19 → 22 with corrected rosters) and the `index.html` hard-coded "45 candidates decoded" / og alt.
-- Research corpus: delete the 22 scratch intermediates in `d1_delta_research/`, commit, then `git mv` to `archive/` and update `archive/README.md` (step 11.6).
 - Post-canvass and post-Dec 12 edits listed at the end of step 6e.

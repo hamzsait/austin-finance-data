@@ -1,0 +1,191 @@
+﻿/* D3 DELTA donor research driver: runs headless `claude -p --model
+ * <MODEL>` donor-research jobs over all pending d3delta_*.json files (the
+ * >=$100 District 3 donors added by the October 2026 filings and the two
+ * new candidates, not covered by the 2026 d3batch_* scrub) with a worker pool, retries, and
+ * usage-limit-aware global backoff. Same pattern and same v3 mandatory/
+ * balanced instructions as archive/d3_research/_run_d3_research.js.
+ *
+ * Differences from the archived driver:
+ *   - globs d3delta_* (not d3batch_*) so it can never pick up the finished
+ *     archive set; still skips any batch that already has a _results twin
+ *   - reads the instructions from the copy in THIS directory
+ *   - MODEL bumped to the current Opus (see constant below)
+ *   - logs to _d3_delta_usage_log.jsonl / _d3_delta_job_errors.log
+ *
+ * Run from this directory: `node _run_d3_delta_research.js`. Requires the
+ * `claude` CLI on PATH (no npm SDK is used).
+ */
+const { spawn } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+
+const ROOT = __dirname;
+const POOL = 3; // was 4; dropped to 3 on 2026-11-09 after memory-pressure reap
+const JOB_TIMEOUT_MS = 20 * 60 * 1000;
+const MAX_TRIES = 3;
+const FAST_FAIL_S = 30;
+// 2026-11-09: was 'claude-opus-4-8' for the July 2026 D1/D3 scrubs
+// ($8.34 and $4.43 per 20-donor batch respectively). Updated to the current
+// Opus; per-batch cost should be re-measured on the first completed batch.
+const MODEL = 'claude-opus-5-5';
+const MAX_BUDGET_USD = '25';
+const USAGE_LOG = path.join(ROOT, '_d3_delta_usage_log.jsonl');
+const ERROR_LOG = path.join(ROOT, '_d3_delta_job_errors.log');
+const INSTRUCTIONS = path.join(ROOT, '_research_instructions_v3.md');
+const BATCH_RE = /^d3delta_\d+\.json$/;
+
+const failures = {};
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+function pendingBatches() {
+  return fs.readdirSync(ROOT)
+    .filter(f => BATCH_RE.test(f))
+    .filter(f => !fs.existsSync(path.join(ROOT, f.replace('.json', '_results.json'))))
+    .filter(f => (failures[f] || 0) < MAX_TRIES)
+    .sort();
+}
+
+function prompt(batchFile) {
+  const out = batchFile.replace('.json', '_results.json');
+  return `Read ${INSTRUCTIONS} and follow it exactly, including the MANDATORY affiliation-search checklist and the balanced-spectrum category set (pro-Israel AND pro-Palestine, oil/gas, gun rights/control, military-defense).
+
+Task: holistic web research on the DONORS in ${path.join(ROOT, batchFile)} (donor batch format; note the dollar field is "site_total" â€” here it means total given across the four 2026 Austin City Council District 3 candidates with finance data: José Velásquez (the incumbent), Neha Shah, Eduardo Romero, and Brock Skinner). These are donors to candidates in a live municipal race with an incumbent; Velásquez's donor base includes his 2022 run. Research each; corroborate identity with zip/location/donation pattern before classifying. For every donor, regardless of amount, run the FEC PAC-contribution search, the Texas lobbyist registry search, and a full bio-page read, then record any affiliations found across the full balanced category set. Use the categorize-by-employer fallback (no forced affiliation guess) when no public profile is discoverable beyond a generic occupation.
+
+These are private individuals donating to a local race, not public figures. Record only affiliations that are documented in public records (FEC filings, lobbyist registries, organizational leadership pages, published bios). Do not infer political or religious affiliation from a name, a zip code, or an employer alone.
+
+Write results to ${path.join(ROOT, out)} (JSON array, donor-batch output format, including the searches_run field per donor).`;
+}
+
+function goodOutput(batchFile) {
+  const inPath = path.join(ROOT, batchFile);
+  const outPath = path.join(ROOT, batchFile.replace('.json', '_results.json'));
+  try {
+    const input = JSON.parse(fs.readFileSync(inPath, 'utf8'));
+    const out = JSON.parse(fs.readFileSync(outPath, 'utf8').replace(/^ï»¿/, ''));
+    if (!Array.isArray(out)) return 'not an array';
+    const ids = new Set(out.map(o => o.donor_id));
+    const missing = input.filter(d => !ids.has(d.donor_id)).length;
+    if (missing > input.length / 2) return `missing ${missing}/${input.length} donor_ids`;
+    return null;
+  } catch (e) { return 'bad json: ' + e.message.slice(0, 80); }
+}
+
+function logUsage(batchFile, envelope, secs) {
+  fs.appendFileSync(USAGE_LOG, JSON.stringify({
+    batch: batchFile,
+    model: MODEL,
+    secs,
+    total_cost_usd: envelope && envelope.total_cost_usd,
+    usage: envelope && envelope.usage,
+    subtype: envelope && envelope.subtype,
+    at: new Date().toISOString(),
+  }) + '\n');
+}
+
+function probe() {
+  return new Promise(resolve => {
+    const child = spawn('claude', ['-p', '--model', 'sonnet'],
+      { shell: true, stdio: ['pipe', 'pipe', 'pipe'] });
+    const t = setTimeout(() => { try { child.kill(); } catch {} resolve(false); }, 120000);
+    let out = '';
+    child.stdout.on('data', d => { out += d; });
+    child.on('close', code => { clearTimeout(t); resolve(code === 0 && /OK/i.test(out)); });
+    child.stdin.write('Say OK and nothing else.');
+    child.stdin.end();
+  });
+}
+
+let pausePromise = null;
+function limitPause() {
+  if (!pausePromise) {
+    pausePromise = (async () => {
+      let ms = 5 * 60 * 1000;
+      while (true) {
+        console.log(`USAGE-LIMIT PAUSE ${Math.round(ms / 60000)}min`);
+        await sleep(ms);
+        if (await probe()) break;
+        ms = Math.min(ms * 2, 60 * 60 * 1000);
+      }
+      console.log('LIMIT LIFTED, resuming');
+      pausePromise = null;
+    })();
+  }
+  return pausePromise;
+}
+
+function runJob(batchFile) {
+  return new Promise(resolve => {
+    const child = spawn('claude',
+      ['-p', '--model', MODEL, '--allowedTools', 'Read,Write,WebSearch,WebFetch,ToolSearch',
+       '--output-format', 'json', '--max-budget-usd', MAX_BUDGET_USD],
+      { shell: true, stdio: ['pipe', 'pipe', 'pipe'] });
+    let stdout = '', stderr = '';
+    const t = setTimeout(() => { try { child.kill(); } catch {} }, JOB_TIMEOUT_MS);
+    child.stdout.on('data', d => { stdout += d; });
+    child.stderr.on('data', d => { stderr += d; });
+    child.on('close', code => {
+      clearTimeout(t);
+      const outPath = path.join(ROOT, batchFile.replace('.json', '_results.json'));
+      let envelope = null;
+      try { envelope = JSON.parse(stdout.trim().split('\n').pop()); } catch {}
+      // On failure, persist the real stderr/stdout tail instead of inferring a cause.
+      if (!fs.existsSync(outPath) || goodOutput(batchFile)) {
+        fs.appendFileSync(ERROR_LOG,
+          `\n===== ${batchFile} exit=${code} at ${new Date().toISOString()} =====\n` +
+          `--- stderr (last 2000) ---\n${stderr.slice(-2000)}\n` +
+          `--- stdout (last 2000) ---\n${stdout.slice(-2000)}\n`);
+      }
+      if (!fs.existsSync(outPath)) { resolve({ bad: `no output (exit ${code})`, envelope }); return; }
+      const bad = goodOutput(batchFile);
+      if (bad) { try { fs.unlinkSync(outPath); } catch {} resolve({ bad, envelope }); return; }
+      resolve({ bad: null, envelope });
+    });
+    child.stdin.write(prompt(batchFile));
+    child.stdin.end();
+  });
+}
+
+async function main() {
+  if (!fs.existsSync(INSTRUCTIONS)) {
+    console.log('DRIVER ERROR: missing ' + INSTRUCTIONS);
+    process.exit(1);
+  }
+  let done = 0, spend = 0;
+  while (true) {
+    const pending = pendingBatches();
+    if (!pending.length) break;
+    console.log(`CYCLE: ${pending.length} batches pending`);
+    let idx = 0;
+    await Promise.all(Array.from({ length: Math.min(POOL, pending.length) }, async () => {
+      while (idx < pending.length) {
+        const b = pending[idx++];
+        let fastFails = 0;
+        while (true) {
+          const t0 = Date.now();
+          const { bad, envelope } = await runJob(b);
+          const secs = Math.round((Date.now() - t0) / 1000);
+          if (!bad) {
+            done++;
+            spend += (envelope && envelope.total_cost_usd) || 0;
+            logUsage(b, envelope, secs);
+            console.log(`OK ${done} ${b} [${secs}s] cost=$${envelope && envelope.total_cost_usd} running=$${spend.toFixed(2)}`);
+            break;
+          }
+          if (secs < FAST_FAIL_S && fastFails < 12) {
+            fastFails++;
+            await limitPause();
+            continue;
+          }
+          failures[b] = (failures[b] || 0) + 1;
+          console.log(`RETRY(${failures[b]}) ${b}: ${bad} [${secs}s]`);
+          break;
+        }
+      }
+    }));
+  }
+  const dead = Object.entries(failures).filter(([b, n]) => n >= MAX_TRIES);
+  console.log(`ALL DONE. completed this run: ${done}. total spend: $${spend.toFixed(2)}. failed: ${dead.length}`);
+  for (const [b] of dead) console.log('FAILED ' + b);
+}
+
+main().catch(e => { console.log('DRIVER ERROR ' + e.message); process.exit(1); });

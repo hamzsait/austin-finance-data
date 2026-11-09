@@ -27,7 +27,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-DB = ROOT.parent / "austin_finance.db"
+# Works from the repo root (active run) or from archive/<dir>/ (archived copy).
+REPO = ROOT.parent.parent if ROOT.parent.name == "archive" else ROOT.parent
+DB = REPO / "austin_finance.db"
 DRY = "--dry-run" in sys.argv
 
 if DRY:

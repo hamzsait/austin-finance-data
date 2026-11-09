@@ -1,0 +1,19 @@
+=== APPLY 2026-11-09T14:00:56Z ===
+APPLIED  (5 result files)
+donors: 35 resolved, 50 left null (low/no confidence)
+civic_affiliations: 24 added, 0 already present, 0 skipped (no name/org)
+by category:
+   business                           12
+   political                          7
+   civic                              5
+quick_check: ok
+llm-research-% rows DB-wide: 1339 (was 1304)
+civic_affiliations rows: 2229 (was 2205)
+delta donors by resolved_confidence now: [(None, 33), ('llm-research-medium', 25), ('llm-research-high', 10), ('fec-employer', 7), ('employer', 4), ('occupation-incr', 3), ('manual', 2), ('occupation', 1)]
+overridden rows now carrying the research label: 18/18
+Ahmad affiliations in DB: [('business', "A. M. Petroleum, Inc. (fuel wholesaler / JD's Supermarkets operator)"), ('business', "MC Means Inc. / 1900 E Anderson Ln Ste 103 (JD's Market property owner address)")]
+new affiliation rows added today: 24
+  Velasquez, Jose      donors>=$100:  619  with llm-research label now: 58  (before: 36)
+  Shah, Neha           donors>=$100:   80  with llm-research label now: 11  (before: 2)
+  Romero, Eduardo      donors>=$100:    2  with llm-research label now: 2  (before: 0)
+  Skinner, Brock D.    donors>=$100:    6  with llm-research label now: 2  (before: 0)

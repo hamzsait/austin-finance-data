@@ -1,0 +1,7 @@
+CYCLE: 5 batches pending
+OK 1 d3delta_03.json [314s] cost=$3.120655099999999 running=$3.12
+OK 2 d3delta_02.json [334s] cost=$3.4577028 running=$6.58
+OK 3 d3delta_01.json [360s] cost=$2.7524740000000008 running=$9.33
+OK 4 d3delta_05.json [176s] cost=$1.2842499999999997 running=$10.62
+OK 5 d3delta_04.json [342s] cost=$2.6208679999999998 running=$13.24
+ALL DONE. completed this run: 5. total spend: $13.24. failed: 0

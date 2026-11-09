@@ -1,0 +1,23 @@
+donors >= $100 across the 4 D3 campaigns: 706
+  (not pooled: Fernandez, Gavino has_data=false, 2022 only -- would add 16 donors >= $100)
+already covered by prior research:              617
+    source                           exclusive   any-match
+    d3 batches                             513   513
+    civic_affiliations name match           42   247
+    identity_merges remap                   32   32
+    d1 batches                              22   22
+    d1 delta batches                         5   5
+    travis batches                           2   2
+    llm-research confidence                  1   38
+blank canonical_name (excluded, fix identity):  4
+    e8ed4f575433530a  $526.48  gave_to=Velasquez, Jose  first=2026-06-16
+    f0d597e383234980  $342.41  gave_to=Velasquez, Jose  first=2022-04-13
+    295f2732331c1f58  $263.31  gave_to=Velasquez, Jose  first=2026-06-05
+    d645fe45b980812b  $263.31  gave_to=Velasquez, Jose  first=2026-06-11
+POOL TO SCRUB:                                  85
+uncovered donors by candidate (a donor can count for several):
+    Velasquez, Jose              45
+    Shah, Neha                   32
+    Romero, Eduardo              2
+    Skinner, Brock D.            6
+wrote 5 batches of 20 to C:\Users\Hamza Sait\Electoral\decode-politics\austin-finance-data\d3_delta_research

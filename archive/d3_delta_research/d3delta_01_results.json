@@ -1,0 +1,377 @@
+[
+ {
+  "donor_id": "tcv-bf4abc49-b2a3-44a2-a6fa-69f638362328",
+  "name": "Romero, Eduardo",
+  "resolved_employer": "Apple (Tech Analyst, self-reported on City of Austin filing); also the D3 candidate himself (Branch voter guide describes him as university staff)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Gave only to his own campaign (Romero, Eduardo; zip 78741, which is in D3). Eduardo 'Lalito' Romero was a 2026 D3 candidate. He also ran for D4 in 2024 (about 3.3%) and in the 2024 TX-37 Democratic primary (about 6%). The employer comes from the City of Austin filing and conflicts with Branch's 'university staff' description. The FEC.gov API was rate-limited (HTTP 429), and the web/aggregator FEC search found no PAC records for this person. No TEC lobbyist registration found.",
+  "source_url": "https://branch.vote/races/2026-texas-general-election-tx-state-city-council-member-tx-austin-city-council-3/candidates/eduardo-romero",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Austin City Council District 3 (2026 election)",
+    "role": "Candidate (self-funding donor)",
+    "category": "political",
+    "source_url": "https://branch.vote/races/2026-texas-general-election-tx-state-city-council-member-tx-austin-city-council-3/candidates/eduardo-romero",
+    "snippet": "Eduardo \"Lalito\" Romero is running for Austin City Council Member, District 3."
+   },
+   {
+    "org": "2024 TX-37 Democratic primary / 2024 Austin D4 race",
+    "role": "Former candidate",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Eduardo_Romero_(Texas_school_board_candidate)",
+    "snippet": "Ran for Austin D4 in 2024 (about 3.3%) and in the 2024 Democratic primary for TX-37 (about 6%)."
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-d1affb8f-86f1-4b4b-b969-1a1c8384accb",
+  "name": "Tung, Garrett",
+  "resolved_employer": "Self-employed online retail (self-reported)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Employer fallback only. Web searches found no public profile for this person in Austin or zip 78742. Nothing found in the FEC web search (internal FEC count is 0) or the TEC lobbyist search. There was no bio page to read.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ebafc1ce21e01d2",
+  "name": "Dietz, Hans Paul",
+  "resolved_employer": "Not employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile found for a Hans (Paul) Dietz in Austin. Results were unrelated Dietzes, such as UT professor Henry Dietz. The internal FEC match shows 36 donations with lean 0.0, but the FEC.gov API was rate-limited (429) and the web FEC search returned no record I could verify, so no PAC affiliation is recorded. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "35f11e2f7d3465d4",
+  "name": "Harrod, Julia",
+  "resolved_employer": "President & CEO, MWM DesignGroup (civil engineering/architecture/surveying/permitting firm)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Julia M. Harrod, P.E., is President/CEO of MWM DesignGroup, which matches the employer on her filing. She is Austin-based with a UT Austin M.S. MWM's clients include the City of Austin and Capital Metro. She is NSPE President for 2025-26, a past TSPE President, and a past president of ASCE's Austin Branch. An aggregator shows state donations mostly to the Political Action Committee for Engineers, plus some to Celia Israel. No TEC lobbyist registration found. No affiliations found in the Israel/Palestine, oil/gas, gun or defense categories.",
+  "source_url": "https://caee.utexas.edu/alumni-profile/julia-m-harrod/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "National Society of Professional Engineers (NSPE)",
+    "role": "President 2025-26 (previously National Treasurer)",
+    "category": "business",
+    "source_url": "https://www.nspe.org/node/500652",
+    "snippet": "Julia M. Harrod, P.E., F.NSPE, President 25-26 ... President & CEO of MWM DesignGroup"
+   },
+   {
+    "org": "Texas Society of Professional Engineers (TSPE)",
+    "role": "Past President; vice-chair, TSPE Legislative and Government Affairs committee",
+    "category": "business",
+    "source_url": "https://www.nspe.org/node/500587",
+    "snippet": "has served as Texas Society of Professional Engineer's (TSPE) President and Texas Engineering Foundation Trustee and is currently vice-chair of the TSPE Legislative and Government Affairs committee"
+   },
+   {
+    "org": "Political Action Committee for Engineers (TSPE-affiliated state PAC)",
+    "role": "Donor (about $5.1K in state-level gifts, 2005-2024, per aggregator; not verified on TEC/FEC directly)",
+    "category": "political",
+    "source_url": "https://www.somaliscan.com/donations/contributor/Harrod%2C%20Julia",
+    "snippet": "Employer MWM Design Group ... most gifts to the Political Action Committee for Engineers, smaller amounts to Celia M. Israel"
+   }
+  ]
+ },
+ {
+  "donor_id": "9d41c849b63eac80",
+  "name": "Atmakuri, Vishal",
+  "resolved_employer": "Integral Ad Science (software; self-reported)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer fallback only. No public profile found that ties the name to Integral Ad Science or to Austin zip 78744. The internal FEC match shows 12 donations with lean 1.0, but the FEC.gov API was rate-limited and the web search found no PAC records I could verify. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-05239bfa-e307-45d6-ad7f-1591ffaf02e2",
+  "name": "Miftah, Souad",
+  "resolved_employer": "Human Resources, 'Enterprise LLC' (self-reported; entity not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile found. 'Enterprise LLC' is too generic to identify. She gave $500 on 2026-08-24, part of the Aug 22-25 cluster of $500 Velásquez gifts that includes several JD's/AM Petroleum employees, but nothing public ties her to that company. Nothing found in the FEC or TEC lobbyist searches.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0770a7c2-b3e9-4072-9d5b-a8a76c64d20f",
+  "name": "Kasey, Tareq",
+  "resolved_employer": "Manager, 'Buda market' (self-reported)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Employer fallback only. No public profile for this name was found, and no Buda business listed under 'Buda market' could be identified. Gave on 2026-08-22, part of the Aug 22-25 Velásquez $500 cluster. Nothing found in the FEC or TEC lobbyist searches.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-13585baa-a0a5-4b46-b9a1-d3bd0f3a674d",
+  "name": "Ragragui, Abdeljalil",
+  "resolved_employer": "Store manager, JD's Market (Austin convenience-store/gas-station chain operated by AM Petroleum; self-reported)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "No personal public profile found. His employer, JD's Market, is an identifiable Austin chain; a D&H United case study says most AM Petroleum sites operate as JD's Supermarkets. Gave on 2026-08-22, part of the Velásquez $500 cluster from JD's/AM Petroleum staff. Nothing found in the FEC or TEC lobbyist searches.",
+  "source_url": "https://jdmarkets.com",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-1d68333b-e149-4197-9324-acad596f0689",
+  "name": "Calixto, Emily",
+  "resolved_employer": "Risk Management, 'AMP' (likely AM Petroleum / JD's Supermarkets; self-reported)",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "'AMP' is probably AM Petroleum. Vanessa Calixto, with the same surname and the same risk-management occupation, lists AM PETROLEUM and gave on the same day (2026-08-22). That connection is not independently documented. No personal profile found. The internal FEC match shows 1 donation; the web FEC search found nothing verifiable. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2e734b0b-6dfc-4183-9ac4-9c5cb8b5bdd8",
+  "name": "Kasey, Ziyad",
+  "resolved_employer": "Self-employed, 'Metals & Memories' (self-reported)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Employer fallback only. No public listing found for 'Metals & Memories' or for this person. Gave on 2026-08-23, part of the Velásquez $500 cluster. Nothing found in the FEC or TEC lobbyist searches.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-37725c0e-6b1a-4359-b6a5-569e9271494f",
+  "name": "Rodriguez, Paola",
+  "resolved_employer": "Marketing, 'Amp' (likely AM Petroleum / JD's Supermarkets; self-reported)",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Hutto, 78634. Gave on the same day (2026-08-22) as Hugo Rodriguez, who lives in the same Hutto zip. 'Amp' is likely AM Petroleum based on the cluster, but that is not independently documented. No personal profile found. The internal FEC match shows 5 donations; the web FEC search found nothing verifiable. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-411f14a1-9ec5-4357-bc6e-d3acd0ddfd9e",
+  "name": "Ahmad, Adam",
+  "resolved_employer": "President, 'I am petroleum' (most likely A. M. Petroleum, Inc., Austin 78752: petroleum products wholesaler that operates JD's Supermarkets; self-reported)",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Lists 'Pres.' of 'I am petroleum' with donor zip 78752. A. M. Petroleum, Inc. is a petroleum-products wholesaler (NAICS 424720) in Austin 78752. A Zabalist listing names an Adam Ahmad as property owner at 1900 E Anderson Ln Ste 103, 78752. TDLR lists that same address for MC Means Inc., owner of JD's Market at 6214 E Riverside Dr in D3. A D&H United case study names Hassan Ladnany, not Ahmad, as AM Petroleum's owner, so his exact role is not independently confirmed. JD's Riverside is in a 2026 eminent-domain dispute with Austin Transit Partnership over light rail. Nothing found in the FEC search (internal count 0) or the TEC lobbyist search.",
+  "source_url": "https://naicslist.com/company-profile/a-m-petroleum-inc-austin-tx-78752",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": [
+   {
+    "org": "A. M. Petroleum, Inc. (fuel wholesaler / JD's Supermarkets operator)",
+    "role": "President (self-reported on City of Austin campaign filing as 'Pres., I am petroleum'; company match based on name and 78752 zip)",
+    "category": "business",
+    "source_url": "https://naicslist.com/company-profile/a-m-petroleum-inc-austin-tx-78752",
+    "snippet": "A. M. PETROLEUM, INC. | Petroleum and Petroleum Products Wholesale in Austin, TX (78752). Note: downstream fuel distribution, not exploration/production. [category changed oil_gas -> business 2026-11-09 by coordinator rule: downstream fuel wholesale/retail with an unconfirmed executive role does not meet the oil_gas (exec/board/owner of oil & gas industry) definition; see D1 Parker precedent]"
+   },
+   {
+    "org": "MC Means Inc. / 1900 E Anderson Ln Ste 103 (JD's Market property owner address)",
+    "role": "Listed property owner at same address (Zabalist aggregator)",
+    "category": "business",
+    "source_url": "https://www.zabalist.com/projects/owner/adam-ahmad",
+    "snippet": "Adam Ahmad listed as property owner at 1900 E. Anderson Lane Suite 103, Austin; TDLR TABS2021014241 lists MC Means Inc., same address, as owner of JD's Market, 6214 E Riverside Dr."
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-45940b32-e9dc-4975-9b26-62041cca34b0",
+  "name": "Ahmad, Adam",
+  "resolved_employer": "Self-employed, wholesale (self-reported)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "A separate donor record (zip 78741, wholesale/self, gave 2026-08-24). This may be the same person as the 78752 'Pres., I am petroleum' Adam Ahmad, possibly filed under a second address, but nothing public confirms it. 'Retail' is used as the closest taxonomy label for wholesale. Nothing found in the FEC or TEC lobbyist searches.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-483ea123-82df-4bd1-9f0b-57966c482e86",
+  "name": "Rodriguez, Hugo",
+  "resolved_employer": "Labor, 'LE LLC' (self-reported; entity not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Hutto, 78634. Gave on the same day as Paola Rodriguez from the same zip, possibly the same household. 'LE LLC' could not be identified. The internal FEC match shows 49 donations with lean 0.76, but the name is common and the FEC.gov API was unavailable, so nothing was verifiable. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4e776986-a68b-462f-a94d-495024176b0f",
+  "name": "Yakis, Zinovia",
+  "resolved_employer": "Project Manager, AMP (AM Petroleum / JD's Supermarkets)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "A distinctive name. TDLR accessibility filings list Zinovia Yakis as owner contact for the JD's Market build-out at 6214 E Riverside Dr, 78741 (owner MC Means Inc., 1900 E Anderson Ln Ste 103; $1.9M; completed 2023) and the JD's Gas Station at 6220 E Riverside (owner SAFA Trading Establishment Inc.). This matches her self-reported role as an AMP project manager. JD's Riverside is the D3 store in the 2026 light-rail eminent-domain dispute. Nothing found in the FEC search (internal count 0) or the TEC lobbyist search.",
+  "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2021014241",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "JD's Market / MC Means Inc. / SAFA Trading Establishment Inc. (AM Petroleum-affiliated property owners)",
+    "role": "Owner contact on TDLR construction registrations for D3 JD's store and gas station",
+    "category": "business",
+    "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2021014241",
+    "snippet": "Project: JD's Market, 6214 East Riverside Dr., Austin TX 78741; Owner: MC Means Inc.; Owner contact: Zinovia Yakis"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-5c52e599-825f-4f9c-a6c6-20326bc411bd",
+  "name": "Ahmad, Lubna",
+  "resolved_employer": "Unemployed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public profile found for this name in Austin or zip 78759. Gave on 2026-08-25, part of the Velásquez $500 cluster. Nothing found in the FEC or TEC lobbyist searches.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-67a1118e-073a-440c-bf4e-117feb76c7be",
+  "name": "Boone, Arthur",
+  "resolved_employer": "Physician (retired; self-reported)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported as a retired doctor in zip 78702. Directories show an Arthur R. Boone, MD (Baylor 1984) practicing in Round Rock as recently as recent listings. I couldn't confirm that is this donor or that he has retired. The internal FEC match shows 4 donations, none verifiable. The first web FEC search query was declined by the search tool; a second, generic query returned nothing relevant. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-77b9eea9-ef6c-4900-94f9-3aeebe7395dc",
+  "name": "Garcia, Gabriela",
+  "resolved_employer": "GAL Roofing (construction; self-reported)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Employer fallback only. No listing found for 'GAL Roofing' in Manor and no profile for this person. The internal FEC match shows 164 donations with lean 0.87, but the name is very common and nothing could be verified, so no PAC affiliation is recorded. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-836ab190-cd1d-42e1-9119-9d632615178c",
+  "name": "CALIXTO, VANESSA",
+  "resolved_employer": "Risk Manager, AM Petroleum / JD's Supermarket",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "The Austin Chronicle (Oct 2026) names Vanessa Calixto as JD's Supermarket's risk manager, matching her filing ('Risk Management, AM PETROLEUM'). She speaks for the store against Austin Transit Partnership's eminent-domain proceeding at the Riverside/Montopolis store in D3. She started the change.org petition 'Save JD's Market | Unidos por JD's' (Aug 7, 2026, about 1,600 signatures), which lists CM José Velásquez (D3) among its decision-makers. She gave to Velásquez on 2026-08-22. The internal FEC match shows 2 donations, not verifiable. No TEC lobbyist registration found.",
+  "source_url": "https://www.austinchronicle.com/news/southeast-supermarket-fears-the-citys-light-rail-project-could-shutter-business/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "JD's Supermarket (AM Petroleum)",
+    "role": "Risk manager; public spokesperson in light-rail eminent-domain dispute",
+    "category": "business",
+    "source_url": "https://www.austinchronicle.com/news/southeast-supermarket-fears-the-citys-light-rail-project-could-shutter-business/",
+    "snippet": "Vanessa Calixto, the store's risk manager ... the gas station connected to the supermarket accounts for about 30% of its sales"
+   },
+   {
+    "org": "'Save JD's Market | Unidos por JD's' petition (change.org)",
+    "role": "Petition starter; petition targets Mayor Watson, CM José Velásquez (D3), ATP",
+    "category": "civic",
+    "source_url": "https://www.change.org/p/save-jd-s-market-unidos-por-jd-s",
+    "snippet": "Started by Vanessa Calixto ... decision makers include José Velásquez (Council District 3)"
+   }
+  ]
+ },
+ {
+  "donor_id": "tcv-998f38be-2fb3-48bd-b368-b1b8c756cfb9",
+  "name": "Rincon, Wendy",
+  "resolved_employer": "Director, 'Marketing' (self-reported; employer field appears to hold the occupation, entity unknown)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile found for a Wendy Rincon in Manor. The employer field is not an identifiable entity. She gave on 2026-08-22 from Manor 78653, the same day and zip as Zinovia Yakis and Gabriela Garcia, but no public record ties her to AM Petroleum. The internal FEC match shows 1 donation, not verifiable. No TEC lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ }
+]

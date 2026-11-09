@@ -1,0 +1,20 @@
+result files: 5/5
+rows: 85; with industry: 72; donors with affiliations: 12; affiliation rows: 24
+confidence: {'medium': 25, 'low': 50, 'high': 10}
+searches_run with any false: 65
+industries: {'Not Employed': 13, 'Technology': 9, 'Retail': 6, 'Energy / Environment': 6, 'Healthcare': 6, 'Engineering': 5, 'Legal': 5, 'Construction': 3, 'Real Estate': 3, 'Nonprofit / Advocacy': 3, 'Architecture': 3, 'Finance': 3, 'Self-Employed': 2, 'Consulting / PR': 2, 'Government': 1, 'Transportation': 1, 'Media': 1}
+affiliation categories: {'business': 11, 'political': 7, 'civic': 5, 'oil_gas': 1}
+spectrum rows (must all be spot-read):
+    ('d3delta_01.json', 'Ahmad, Adam', 'oil_gas', "A. M. Petroleum, Inc. (fuel wholesaler / JD's Supermarkets operator)", "President (self-reported on City of Austin campaign filing as 'Pres., I am petroleum'; company match based on name and 78752 zip)", 'https://naicslist.com/company-profile/a-m-petroleum-inc-austin-tx-78752')
+cost per batch:
+    d3delta_03.json    $  3.12  314s  claude-opus-5-5  2026-11-09T13:53:22.656Z
+    d3delta_02.json    $  3.46  334s  claude-opus-5-5  2026-11-09T13:53:42.396Z
+    d3delta_01.json    $  2.75  360s  claude-opus-5-5  2026-11-09T13:54:07.666Z
+    d3delta_05.json    $  1.28  176s  claude-opus-5-5  2026-11-09T13:56:38.393Z
+    d3delta_04.json    $  2.62  342s  claude-opus-5-5  2026-11-09T13:59:04.447Z
+TOTAL $13.24
+apply expectation: 35 donor rows would be updated (18 override an existing heuristic label -> _d3_delta_overridden_labels.csv; 0 blocked by an earlier llm-research verdict)
+overridden prior confidences: {'employer': 10, 'fec-employer': 4, 'occupation': 2, 'occupation-incr': 2}
+  of which heuristic label already agreed with the LLM verdict: 10
+
+NO PROBLEMS

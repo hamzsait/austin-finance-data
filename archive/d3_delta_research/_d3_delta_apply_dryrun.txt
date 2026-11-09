@@ -1,0 +1,7 @@
+DRY RUN -- no writes  (5 result files)
+donors: 35 resolved, 50 left null (low/no confidence)
+civic_affiliations: 24 added, 0 already present, 0 skipped (no name/org)
+by category:
+   business                           12
+   political                          7
+   civic                              5

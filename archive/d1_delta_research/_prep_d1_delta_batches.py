@@ -37,7 +37,8 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-REPO = ROOT.parent
+# Works from the repo root (active run) or from archive/<dir>/ (archived copy).
+REPO = ROOT.parent.parent if ROOT.parent.name == "archive" else ROOT.parent
 DB = REPO / "austin_finance.db"
 ARCHIVE = REPO / "archive"
 TRAVIS = ARCHIVE / "travis_research"

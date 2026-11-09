@@ -1,0 +1,19 @@
+donor_id,canonical_name,prev_resolved_industry,prev_resolved_employer_display,prev_resolved_confidence,new_resolved_industry,new_resolved_employer_display,new_resolved_confidence,batch
+35f11e2f7d3465d4,"Harrod, Julia",Architecture,MWM DesignGroup,employer,Engineering,"President & CEO, MWM DesignGroup (civil engineering/architecture/surveying/permitting firm)",llm-research-high,d3delta_01.json
+tcv-836ab190-cd1d-42e1-9119-9d632615178c,"CALIXTO, VANESSA",Legal,The Martinez Law Firm Pllc,fec-employer,Energy / Environment,"Risk Manager, AM Petroleum / JD's Supermarket",llm-research-high,d3delta_01.json
+1539cc2219567ffb,"Deegan, Robert",Media,Rialto Studio,employer,Architecture,Rialto Studio (landscape architect),llm-research-medium,d3delta_02.json
+34941d6970580634,"Cortes, Andrew",Construction,MileStone Community Builders,employer,Engineering,KTCivil (Kitchen Table Civil Solutions) (engineer),llm-research-medium,d3delta_02.json
+2a57ac7e9e78aadd,"Alexander, Julie",Legal,Attorney,occupation,Legal,Austin Condo Law / Julie Alexander Law PC (attorney),llm-research-medium,d3delta_02.json
+2ee4e8f0c369b0a6,"Cortes, Marisela",Finance,Texas MUTual Insurance Company,employer,Finance,"Texas Mutual Insurance Company (Sr. Manager, Customer Engagement)",llm-research-medium,d3delta_02.json
+30c2e861c8a0606d,"Trimble, Mike",Engineering,HNTB,employer,Engineering,"HDR (consultant); formerly City of Kyle Director of Transportation & Public Works (2025), HNTB project director (2023), City of Austin Corridor Program Office director",llm-research-medium,d3delta_02.json
+tcv-4e4a1afa-a113-4f88-9842-efe3e87ff1ca,"Puerta, Derek",Technology,Dell,fec-employer,Government,Texas Historical Commission (program assistant),llm-research-medium,d3delta_02.json
+tcv-c8e1d3a9-fb40-48aa-b394-9046a5bf4eec,"Meinzer, Neal",Real Estate,Crea,fec-employer,Legal,"DuBois, Bryant & Campbell LLP (attorney, commercial litigation)",llm-research-high,d3delta_02.json
+80ec25647970ed8d,"Older, Danielle",Nonprofit / Advocacy,RCCP,employer,Real Estate,River City Capital Partners / self (real estate),llm-research-medium,d3delta_02.json
+ff4a7e0a35e5e433,"Harrod, William",Architecture,MWM DesignGroup,employer,Architecture,"MWM DesignGroup (Austin), Associate - Architecture (likely W. Owen Harrod, PhD, AIA, LEED AP BD+C)",llm-research-medium,d3delta_03.json
+4a62a667fd441d2e,"Malhotra, Sahil",Legal,,occupation-incr,Legal,"Principal attorney, Drishti Law, LLC (Chicago IP law firm)",llm-research-high,d3delta_03.json
+3b675eba72251794,"Lynch, Michele",Real Estate,"METCALFE WOLFF STUART & Williams, LLP",employer,Real Estate,"Director of Land Use & Entitlements, Metcalfe Wolff Stuart & Williams LLP; registered City of Austin lobbyist",llm-research-high,d3delta_04.json
+9b032aa1ad1e2cda,"Valentine, Shane",Engineering,HDR Engineering,employer,Engineering,HDR Inc - Office Principal / Transportation Business Development Lead (Austin area),llm-research-medium,d3delta_04.json
+0c956e480eeaccf4,"Howard, Jeffrey",Legal,McLean & Howard,employer,Legal,"Partner, McLean & Howard, L.L.P. (land use & zoning attorney); registered City of Austin lobbyist",llm-research-high,d3delta_04.json
+389f80e8464f8466,"Myska, Cindy",Healthcare,Therapist,occupation,Healthcare,"Physician (Cindy Myska, MD, 5750 Balcones Dr, Austin 78731), per directory listing",llm-research-medium,d3delta_04.json
+47336d84a7e4eb48,"Garemko, Kelly",Legal,,occupation-incr,Legal,"Attorney, Erin Zwiener Law, PLLC (per filing)",llm-research-medium,d3delta_04.json
+tcv-97eda903-dd3f-4543-9785-2367500312dd,"Liu, Lucy",Engineering,Texas Engineering,fec-employer,Finance,"Charles Schwab (attorney, per filing); earlier listed as corporate-governance lawyer at Vinson & Elkins LLP, Dallas",llm-research-medium,d3delta_05.json

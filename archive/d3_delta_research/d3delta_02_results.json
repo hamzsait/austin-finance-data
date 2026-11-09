@@ -1,0 +1,230 @@
+[
+ {
+  "donor_id": "tcv-9d09dba7-3ff7-4b41-992f-37161f994538",
+  "name": "Odeh, Omar",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists 'H/R officer' with employer 'Adam Ahmad' (an individual's name, not an identifiable business), Austin 78753. Web searches for name+Austin, FEC contributions and TEC lobbyist registry turned up no matching public profile; the Odeh results were for other people. Identity could not be corroborated, so no industry is assigned.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a3fa8db3-29f0-4d21-ae99-7a140125f46b",
+  "name": "Reyes, Ana",
+  "resolved_employer": "AMP (unidentified; self-reported 'Manager')",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Cedar Creek TX 78612; filing says Manager at 'AMP'. Could not identify which 'AMP' entity this is or find a public profile tying an Ana Reyes to it (very common name; the search hits were a novelist, a federal judge and a Farmers Branch council member, none of them matching). The FEC and TEC searches found nothing that matches.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ade70afe-8ef4-4f03-9552-68d3fe679aae",
+  "name": "Hulsey, Donna",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Woodway TX 76712 (Waco area), self-reported Not Employed. No public profile found. FEC search returned only other Hulseys; no TEC lobbyist match. Industry label comes only from the filing's own employment status.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c1ce495a-66a2-4d0b-b6e5-bbc2baba3057",
+  "name": "Pradeep, Anantha",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Piedmont CA 94611, self-reported Not Employed. A publicly known Anantha K. (A.K.) Pradeep co-founded NeuroFocus (Berkeley; acquired by Nielsen) and BoardVantage. That fits the Bay Area location, but no source ties that person to this Piedmont address, so the identity is unconfirmed and no career industry is assigned. The FEC search found no records under this name, and there was no TEC match.",
+  "source_url": "https://en.wikipedia.org/wiki/NeuroFocus",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c7d1b665-227e-4721-8448-0102045bc42c",
+  "name": "Martin, Garrett",
+  "resolved_employer": "MileStone Community Builders (co-founder, President & CEO)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Austin 78763 donor, self-described 'Owner, Self Employed'. Garrett Martin is co-founder/CEO of MileStone Community Builders, an Austin homebuilder (founded 2009; BBB lists him as President; Builder 100 #118 in 2024). An FEC-mirror contributor record for 'Martin, Garrett' lists Milestone Community Builders as employer with about 25 federal donations, which fits the batch's 90-donation, R-leaning FEC profile. Suggested interest tags: homebuilders, real-estate-development. No HBA/board roster confirmation found.",
+  "source_url": "https://www.bbb.org/us/tx/austin/profile/home-builders/milestone-community-builders-llc-0825-90112440",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "MileStone Community Builders", "role": "Co-Founder, President & CEO", "category": "business", "source_url": "https://www.builderonline.com/?p=111552", "snippet": "Builder 100 (2024) lists MileStone Community Builders, Austin, CEO Garrett Martin; 2023 closings 410, revenue $246M."}
+  ]
+ },
+ {
+  "donor_id": "tcv-c871ca42-8bd5-4c37-8f7c-6328e62f4757",
+  "name": "Abughazaleh, Firas",
+  "resolved_employer": "Neurophos (electrical engineer)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Austin 78749; filing lists Electrical Engineer at Neurophos, an Austin photonic AI-chip startup ($110M Series A led by Gates Frontier, Jan 2026). No personal public profile found beyond the filing. This is the employer-based fallback. The FEC search found no records for this person; ActBlue pages for candidate Kat Abughazaleh share the surname only, and no relationship is inferred. No TEC lobbyist match.",
+  "source_url": "https://www.theregister.com/2026/01/24/neurophos_hopes_to_revive_moores_law/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d5a05ccf-a3ba-48f5-83af-a8bd2370df6a",
+  "name": "Kilbourne, Brett",
+  "resolved_employer": "Utilities Technology Council (per filing); formerly SVP Policy & General Counsel at UTC, later of counsel, Stevens & Lee Public Affairs Energy & Utility Group",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Rumson NJ; filing lists 'Trade Association, Utilities Technology Council'. Brett Kilbourne was UTC's SVP Policy & General Counsel for about 25 years. A Nov 2023 report says he joined Stevens & Lee Public Affairs as of counsel. The 2026 filing still lists UTC, so his current employer is ambiguous. UTC is the trade association for utility telecom/IT. He advocated before Congress, the FCC, USDA RUS, NTIA and state regulators. That is utility/broadband policy work, not oil & gas production. The FEC search found no records for him, and he is not a TEC-registered Texas lobbyist.",
+  "source_url": "https://www.roi-nj.com/2023/11/02/industry/energy-utilities/brett-kilbourne-joins-stevens-lee-public-affairs-energy-and-utility-group/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Utilities Technology Council", "role": "SVP, Policy & General Counsel (former, ~25 yrs)", "category": "business", "source_url": "https://www.roi-nj.com/2023/11/02/industry/energy-utilities/brett-kilbourne-joins-stevens-lee-public-affairs-energy-and-utility-group/", "snippet": "Advocated before Congress, the FCC, USDA's Rural Utilities Service, NTIA, Treasury and numerous state regulatory agencies for utility telecom interests."}
+  ]
+ },
+ {
+  "donor_id": "039a74bee81a3239",
+  "name": "Romero, Maribel",
+  "resolved_employer": "El Paso Center for Children (youth care worker)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "El Paso TX 79907; filing lists Youth Care Worker at El Paso Center for Children, a nonprofit offering youth treatment, transitional housing and family-support services. No personal public profile found. This is the employer-based fallback. Shares a surname with candidate Eduardo Romero, but no public record documents a relationship, so none is inferred. The FEC search found no records for her; no TEC match.",
+  "source_url": "https://www.charitynavigator.org/ein/741695944",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1539cc2219567ffb",
+  "name": "Deegan, Robert",
+  "resolved_employer": "Rialto Studio (landscape architect)",
+  "industry": "Architecture",
+  "confidence": "medium",
+  "evidence": "Austin 78757; filing lists Landscape Architect at Rialto Studio, a San Antonio/Austin landscape architecture firm (founded 1998) whose clients include cities, universities and private developers. No personal bio found on public pages. This is the employer-based fallback. An FEC-mirror 'Deegan, Robert' record tied to Palomar College (CA) does not match. No TEC match.",
+  "source_url": "https://clutch.co/profile/rialto-studio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-86d3237d-96e1-4843-ab37-0b7a75645b3e",
+  "name": "Ryan, Daniel",
+  "resolved_employer": "LJA Engineering, Inc. (Vice President, civil engineer)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Pacific Grove CA 93950; filing lists Civil Engineer at LJA, Inc. A RocketReach profile lists a Daniel Ryan in Pacific Grove, CA as VP at LJA Engineering (UT civil engineering BS, 1991-95), which matches the city and employer. That is an aggregator source and is not confirmed on LJA's site. LJA is a Houston-based civil engineering firm active in Texas land-development and infrastructure work. No FEC records found for him; no TEC match.",
+  "source_url": "https://rocketreach.co/daniel-ryan-email_99047269",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "34941d6970580634",
+  "name": "Cortes, Andrew",
+  "resolved_employer": "KTCivil (Kitchen Table Civil Solutions) (engineer)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Austin 78752; filing lists Engineer at KTCIVIL, an Austin civil/site engineering firm (Capital of Texas Hwy office) that appears on Austin-area site plans. No personal profile found. This is the employer-based fallback. No FEC records found for him; no TEC match.",
+  "source_url": "https://www.austinchamber.com/directory/kitchen-table-civil-solutions",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2a57ac7e9e78aadd",
+  "name": "Alexander, Julie",
+  "resolved_employer": "Austin Condo Law / Julie Alexander Law PC (attorney)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Austin 78702; filing lists attorney at 'Texas Condo Law'. Julie Ann Alexander (Julie Alexander Law PC, 1700 E 2nd St, Austin 78702) is listed on Avvo/Justia for business and real-estate law. A MapQuest listing for 'Austin Condo Law' at the same address says it was founded by attorney Julie Alexander and specializes in creating condominium regimes and owners' associations for real estate development projects. The zip and practice area match. Justia and Avvo pages were blocked or thin, so no full bio was available. No FEC records found for her (the batch shows a 217-donation, D-leaning FEC history); no TEC lobbyist match.",
+  "source_url": "https://www.avvo.com/attorneys/78702-tx-julie-alexander-57431.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2ee4e8f0c369b0a6",
+  "name": "Cortes, Marisela",
+  "resolved_employer": "Texas Mutual Insurance Company (Sr. Manager, Customer Engagement)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Austin 78724; filing lists Sr Mgr, Customer Engagement at Texas Mutual, an Austin-based workers' compensation insurer (Mueller HQ). No personal profile found. This is the employer-based fallback. An FEC-mirror record for 'Marisela Cortez' (Monarch Engineers) is a different spelling and employer and is not attributed. No TEC match. Shares a surname with donor Andrew Cortes, but no public record documents a relationship.",
+  "source_url": "https://communityimpact.com/local-news/austin/news/2016/05/25/relocations-texas-mutual-insurance-company-2",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "30c2e861c8a0606d",
+  "name": "Trimble, Mike",
+  "resolved_employer": "HDR (consultant); formerly City of Kyle Director of Transportation & Public Works (2025), HNTB project director (2023), City of Austin Corridor Program Office director",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Austin 78744; filing (Oct 2026) lists Consultant at HDR. Mike Trimble spent about 15 years in City of Austin leadership: he headed the Capital Planning Office from 2010, was director of the Corridor Program Office for the 2016 mobility bond, and led I-35 Cap & Stitch. He joined HNTB in Austin in 2023 and became Kyle's transportation/public works director in Jan 2025. No public source yet confirms a move to HDR, but his Austin transportation-consulting career matches the filing. HDR is itself a consultant on Austin's corridor program and Project Connect. No FEC records found for him; no TEC match.",
+  "source_url": "https://haysfreepress.com/2025/01/08/mike-trimble-join-kyle-new-transportation-public-works-director",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Austin Corridor Program Office", "role": "Director (former)", "category": "civic", "source_url": "https://www.americancityandcounty.com/?p=55621", "snippet": "Mike Trimble, Director, City of Austin Corridor Program Office."}
+  ]
+ },
+ {
+  "donor_id": "b024609bd63a2ac9",
+  "name": "Dunaway, Scott",
+  "resolved_employer": "The Monument Group / Monument Group LLC (partner per filing)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "West Lake Hills 78746; filing lists Partner, The Monument Group. A TDLR project record lists Scott Dunaway as contact for Monument Group LLC, 4407 Bee Caves Rd Bldg 5 #520, West Lake Hills 78746 (a 2017 renovation of about $295K), which matches name and zip. The firm's line of business is not documented in public sources found, so no industry is assigned. No unrelated Dunaway engineering firm is linked. No FEC records found for him (the batch shows a 71-donation, R-leaning FEC history); no TEC match.",
+  "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/EABPRJB7808316",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4602846c-feca-444b-a98d-c50353c68ffd",
+  "name": "DeLeon, Adam",
+  "resolved_employer": "Saldaña Public Relations",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Austin 78744; filing lists Public Relations at Saldaña Public Relations, the Austin firm of Paul Saldaña (President & Principal; government affairs and political consulting; former AISD trustee). Adam DeLeon's name does not appear on the indexed firm pages, and no personal profile was found. This is the employer-based fallback. Suggested interest tag: political-consulting (employer). No FEC records found for him; no TEC lobbyist match.",
+  "source_url": "https://business.gahcc.org/list/member/saldaña-public-relations-12324",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-4e4a1afa-a113-4f88-9842-efe3e87ff1ca",
+  "name": "Puerta, Derek",
+  "resolved_employer": "Texas Historical Commission (program assistant)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Austin 78724; filing lists Program Assistant at the Texas Historical Commission (state agency). No personal public profile found. This is the employer-based fallback. No FEC records found for him; no TEC match.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c4b979d9-0c92-4e5e-a275-ecbf0673bebd",
+  "name": "Cook, Laura",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Arlington MA 02474; occupation and employer reported as N/A. A common name with no identifying public profile found; FEC and TEC searches returned nothing that matches. Identity cannot be corroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c8e1d3a9-fb40-48aa-b394-9046a5bf4eec",
+  "name": "Meinzer, Neal",
+  "resolved_employer": "DuBois, Bryant & Campbell LLP (attorney, commercial litigation)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Austin 78701; Bryan Neal 'Neal' Meinzer is listed by Best Lawyers (since 2024) for Commercial Litigation at DuBois Bryant & Campbell LLP, Austin (St. Mary's JD 1996; UT BA 1992 per Martindale). Avvo lists construction/development, consumer protection and litigation practice. Full Best Lawyers profile read: no boards or advocacy roles listed. No FEC records found for him; no TEC lobbyist match.",
+  "source_url": "https://bestlawyers.com/lawyers/bryan-neal-neal-meinzer/242990",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "80ec25647970ed8d",
+  "name": "Older, Danielle",
+  "resolved_employer": "River City Capital Partners / self (real estate)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Austin 78704; filing lists 'Real Estate/mom' at 'River City Capital Partners/self'. River City Capital Partners is an Austin opportunistic real-estate investor/developer. It partnered with the Housing Authority of the City of Austin and LDG on Urban East, a 381-unit multifamily project at 6400 E. Riverside ($55M loan, Oct 2024). A public-records aggregator links a Cory Older, with an Austin Kinney Ave mailing address, to River City Capital Partners LLC and 6400 Riverside LLC. No record found documents Danielle Older's role or any household relationship, so neither is asserted. Suggested interest tags: real-estate-development, multifamily-housing. No FEC records found for her; no TEC match.",
+  "source_url": "https://irei.com/news/battery-global-housing-authority-of-the-city-of-austin-river-city-capital-and-ldg-dev-secure-55m-for-newly-constructed-multifamily-community-in-austin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "River City Capital Partners", "role": "Self-reported employer (real estate)", "category": "business", "source_url": "https://irei.com/news/battery-global-housing-authority-of-the-city-of-austin-river-city-capital-and-ldg-dev-secure-55m-for-newly-constructed-multifamily-community-in-austin", "snippet": "Battery Global Advisors, the Housing Authority of the City of Austin, River City Capital Partners and LDG Development secured a $55 million loan for Urban East, a 381-unit multihousing community in Austin."}
+  ]
+ }
+]
