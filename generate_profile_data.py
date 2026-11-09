@@ -126,6 +126,10 @@ CANDIDATE_CYCLES = {
     'stevenbrown':  [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'riggins':      [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'shah':         [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    # 2026 District 3 challengers (first city filings Jun/Aug 2026). Romero's 2024
+    # D4 run has no rows in the DB, so he gets only the current cycle.
+    'romero':       [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
+    'skinner':      [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'weinberg':     [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'xie':          [{'label': 'This Cycle',  'election_year': 2026, 'start_year': None, 'end_year': None}],
     'bowen':        [{'label': '2024 Mayoral Run', 'election_year': 2024, 'start_year': None, 'end_year': 2024},
@@ -237,6 +241,8 @@ OFFICE_OVERRIDE = {
     'stevenbrown': 'Austin City Council · District 1 Candidate',
     'riggins':     'Austin City Council · District 1 Candidate',
     'shah':        'Austin City Council · District 3 Candidate',
+    'romero':      'Austin City Council · District 3 Candidate',
+    'skinner':     'Austin City Council · District 3 Candidate',
     'weinberg':    'Austin City Council · District 5 Candidate',
     'xie':         'Austin City Council · District 8 Candidate',
     'bowen':       'Austin City Council · District 8 Candidate',
@@ -247,7 +253,7 @@ OFFICE_OVERRIDE = {
 
 CANDIDATE_MIN_YEAR = {
     'brown': 2016, 'travillion': 2016, 'shea': 2016, 'howard': 2016, 'gomez': 2016,
-    'morales': 2016, 'shah': 2026, 'weinberg': 2025, 'xie': 2025, 'bowen': 2024, 'heyman': 2025, 'kam': 2026, 'thadani': 2026,
+    'morales': 2016, 'shah': 2026, 'romero': 2026, 'skinner': 2026, 'weinberg': 2025, 'xie': 2025, 'bowen': 2024, 'heyman': 2025, 'kam': 2026, 'thadani': 2026,
 }
 
 

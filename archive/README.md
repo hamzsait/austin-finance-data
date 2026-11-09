@@ -15,6 +15,11 @@ nothing here is fetched by the site.
   siegel findings).
 - `d1_research/ … d9_research/, travis_research/` — per-district research
   batch corpora from the 2026 race-page expansions.
+- `d1_delta_research/`, `d3_delta_research/` — November 2026 delta scrubs over
+  the donors the October filings added (runbook step 11): D1 12 batches /
+  230 donors / $46.49, D3 5 batches / 85 donors / $13.24, both on
+  `claude-opus-5-5`. Scripts resolve the repo root from here or from a
+  working copy at the repo root, so copy either dir as the next delta's template.
 - `reviews/` — completed manual review CSVs (Travis identity review v1/v2).
   The FEC dedup review CSVs remain at the repo root while that review is open.
 - `logs/` — committed run logs.

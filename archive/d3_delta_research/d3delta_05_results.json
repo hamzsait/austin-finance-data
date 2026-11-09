@@ -1,0 +1,59 @@
+[
+ {
+  "donor_id": "tcv-97eda903-dd3f-4543-9785-2367500312dd",
+  "name": "Liu, Lucy",
+  "resolved_employer": "Charles Schwab (attorney, per filing); earlier listed as corporate-governance lawyer at Vinson & Elkins LLP, Dallas",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "The filing says lawyer at Charles Schwab, Dallas 75214. Schwab is headquartered in North Texas. FindLaw lists a Lucy Liu as a Dallas corporate governance and board representation attorney at Vinson & Elkins (profile updated 01/2026), which is consistent with a Dallas corporate lawyer moving in-house. No Schwab bio page was found to confirm the move. FEC CAVEAT: the batch's pipeline enrichment shows 31 federal donations (lean 0.62). I could not review the committees: api.open.fec.gov returned 429 (DEMO_KEY exhausted), OpenSecrets is blocked to the fetch tool, and web search declined name-specific queries. The PAC check needs a re-run.",
+  "source_url": "https://lawyers.findlaw.com/profile/view/5041520_1",
+  "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9c93ba03-e655-4d65-b758-6e5a932a377b",
+  "name": "Fine, Mary Ellen",
+  "resolved_employer": "Not employed; probably formerly owner of Mary Ellen Fine Massage Therapy, Austin/West Lake Hills (now closed)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "The filing says not employed, Austin 78745. The only Austin public footprint for this name is a closed massage-therapy practice (3939 Bee Cave Rd) listed on Yelp, ZoomInfo and the Wheatsville member-owned business directory. That practice is the likely prior career, but I could not confirm it is the same person, so I did not use the Healthcare (retired) label. The batch's FEC enrichment shows 52 federal donations, all to one party (lean 1.0). A name-specific FEC web search surfaced no itemized committee list, and the API was rate-limited, so I could not review the PAC breakdown. No Texas lobbyist registration was found.",
+  "source_url": "https://www.yelp.com/biz/mary-ellen-fine-massage-therapy-austin-3",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-abbc6089-fc3a-422e-9200-42ffcef2f2aa",
+  "name": "Skinner, Robin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Frisco 75034. The filing gives no occupation or employer, and this is a single $100 gift to candidate Brock Skinner, who was raised in Dallas. The shared surname suggests possible family, but no public source confirms a relationship. People-search aggregators list a Robin M. Skinner in Frisco with conflicting work histories (bank AVP or accounting-firm partner, or COO at 'Tcsi'). These sources are unreliable and uncorroborated, so I assigned no industry. The FEC name search found no records, and federal enrichment shows 1 donation. No TEC lobbyist registration was found.",
+  "source_url": "https://radaris.com/p/Robin/Skinner/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b9cde573-1bf9-4c18-81d4-1715d1ac35ca",
+  "name": "Skinner, Brock",
+  "resolved_employer": "Kings III Emergency Communications (business development); also the candidate himself",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "This is the D3 candidate donating to his own campaign: Austin 78704, business development at Kings III, matching the filing. Per his campaign site, he is 30, a Dallas native, and has lived in Austin about 12 years with a career in sales, marketing and business development. The Austin Bulldog names his employer as Kings III Emergency Communications (an elevator and emergency phone monitoring company) and reports he loaned his campaign $30,000. His full About and home pages list no board seats, memberships or endorsements. The FEC name search found no records. No TEC lobbyist registration was found.",
+  "source_url": "https://vote4brock.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Brock Skinner for Austin City Council, District 3", "role": "Candidate (self-funding donor)", "category": "political", "source_url": "https://communityimpact.com/east-austin/election/meet-the-candidates-running-for-austin-city-council-district-3/", "snippet": "Brock Skinner is an independent candidate for Austin City Council District 3... Occupation: Business development."}
+  ]
+ },
+ {
+  "donor_id": "tcv-c620118c-4f90-4ea3-8a92-b742152565af",
+  "name": "Sheth, Nish",
+  "resolved_employer": "Finvi (Strategic Enterprise Sales Executive)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "The filing says tech sales at Finvi, Dallas 75204. ZoomInfo lists Nish Sheth as Strategic Enterprise Sales Executive at Finvi (finvi.com email). RocketReach places him in Dallas with past roles at Finvi, Billtrust, Qualia and Bloomfire. Finvi is a receivables-management software firm, formerly Ontario Systems. The full profile could not be read (ZoomInfo returned 403), and I found nothing beyond his sales career. The FEC name search found no records, and federal enrichment shows 0 donations. No TEC lobbyist registration was found.",
+  "source_url": "https://www.zoominfo.com/p/Nish-Sheth/-2052856868",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

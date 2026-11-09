@@ -159,7 +159,7 @@
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 34852,
+    "amt": 35352,
     "w": 100
    },
    {
@@ -169,13 +169,13 @@
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 6684,
+    "amt": 6605,
     "w": 19
    },
    {
     "label": "Government",
     "amt": 6463,
-    "w": 19
+    "w": 18
    }
   ],
   "cycle_start_year": 2023
@@ -190,23 +190,70 @@
   "topGroups": [
    {
     "label": "Technology",
-    "amt": 4651,
+    "amt": 4738,
     "w": 100
    },
    {
     "label": "Not Employed",
-    "amt": 2488,
-    "w": 53
+    "amt": 2588,
+    "w": 55
    },
    {
     "label": "Healthcare",
-    "amt": 1567,
-    "w": 34
+    "amt": 1667,
+    "w": 35
    },
    {
     "label": "Education",
     "amt": 1394,
-    "w": 30
+    "w": 29
+   }
+  ],
+  "cycle_start_year": 0
+ },
+ "romero": {
+  "raised": 1040,
+  "donors": 3,
+  "contributions": 13,
+  "avg": 346.67,
+  "first_gift": "2026-06-06",
+  "last_gift": "2026-10-21",
+  "topGroups": [
+   {
+    "label": "Technology",
+    "amt": 538,
+    "w": 100
+   },
+   {
+    "label": "Nonprofit / Advocacy",
+    "amt": 486,
+    "w": 90
+   }
+  ],
+  "cycle_start_year": 0
+ },
+ "skinner": {
+  "raised": 1040,
+  "donors": 12,
+  "contributions": 12,
+  "avg": 86.67,
+  "first_gift": "2026-08-12",
+  "last_gift": "2026-10-22",
+  "topGroups": [
+   {
+    "label": "Technology",
+    "amt": 100,
+    "w": 100
+   },
+   {
+    "label": "Healthcare",
+    "amt": 100,
+    "w": 100
+   },
+   {
+    "label": "Transportation",
+    "amt": 10,
+    "w": 10
    }
   ],
   "cycle_start_year": 0
@@ -221,13 +268,13 @@
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 59347,
+    "amt": 60297,
     "w": 100
    },
    {
     "label": "Legal",
     "amt": 11085,
-    "w": 19
+    "w": 18
    },
    {
     "label": "Government",

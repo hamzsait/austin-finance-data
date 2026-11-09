@@ -23,6 +23,7 @@ import argparse
 import json
 import os
 import re
+from html import escape as html_escape  # local var `html` shadows the module in make_profile_html
 
 # generate_profile_data reconfigures sys.stdout to UTF-8 on import; importing it
 # once here is enough (re-wrapping stdout again closes the shared buffer under GC).
@@ -117,7 +118,7 @@ COUNTY_SLUGS = {"brown", "travillion", "shea", "howard", "gomez", "morales"}
 # template with the officeholder-specific framing swapped out. NOTE: Steven
 # Brown is slug "stevenbrown" because "brown" is already Travis County Judge
 # Andy Brown; passing the exact recipient string keeps the LIKE match clean.
-CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins", "shah", "weinberg", "xie", "bowen", "heyman", "kam", "thadani"}
+CANDIDATE_SLUGS = {"goodwin", "ramos", "anderson", "stevenbrown", "riggins", "shah", "romero", "skinner", "weinberg", "xie", "bowen", "heyman", "kam", "thadani"}
 
 CANDIDATE_TEMPLATE_SUBS = [
     # NOTE: the hero badge is NOT set here -- renderHero() overwrites it from
@@ -172,9 +173,9 @@ def make_profile_html(slug: str) -> str:
     og = og_meta_for(slug)
     new_html = (
         new_html.replace("__OG_SLUG__", slug)
-        .replace("__OG_TITLE__", og["title"])
-        .replace("__OG_DESC__", og["desc"])
-        .replace("__OG_ALT__", og["alt"])
+        .replace("__OG_TITLE__", html_escape(og["title"], quote=True))
+        .replace("__OG_DESC__", html_escape(og["desc"], quote=True))
+        .replace("__OG_ALT__", html_escape(og["alt"], quote=True))
     )
 
     if slug in COUNTY_SLUGS:
