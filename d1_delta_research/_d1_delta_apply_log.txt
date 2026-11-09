@@ -1,0 +1,13 @@
+APPLIED  (12 result files)
+donors: 48 resolved, 117 left null (low/no confidence)
+civic_affiliations: 93 added, 1 already present, 0 skipped (no name/org)
+by category:
+   political                          39
+   civic                              38
+   business                           12
+   military_defense                   2
+   oil_gas                            1
+   gun_control                        1
+APPLIED  (12 result files)
+donors: 65 resolved, 117 left null (low/no confidence)
+civic_affiliations: 0 added, 94 already present, 0 skipped (no name/org)

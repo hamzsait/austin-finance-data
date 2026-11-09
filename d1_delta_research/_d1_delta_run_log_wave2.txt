@@ -1,0 +1,10 @@
+CYCLE: 8 batches pending
+OK 1 d1delta_06.json [334s] cost=$4.5247583 running=$4.52
+OK 2 d1delta_05.json [349s] cost=$2.3214401000000002 running=$6.85
+OK 3 d1delta_07.json [427s] cost=$3.0221204999999998 running=$9.87
+OK 4 d1delta_10.json [199s] cost=$3.5688554000000012 running=$13.44
+OK 5 d1delta_09.json [337s] cost=$2.553829900000001 running=$15.99
+OK 6 d1delta_08.json [372s] cost=$7.2671545 running=$23.26
+OK 7 d1delta_12.json [152s] cost=$1.2658370999999997 running=$24.52
+OK 8 d1delta_11.json [229s] cost=$3.9380991 running=$28.46
+ALL DONE. completed this run: 8. total spend: $28.46. failed: 0

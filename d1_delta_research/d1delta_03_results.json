@@ -1,0 +1,255 @@
+[
+  {
+    "donor_id": "tcv-9e5d5212-db32-4587-bd1f-6224577be064",
+    "name": "Coco, A",
+    "resolved_employer": "Seed the Vote (self-reported; occupation 'Coach')",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "This is an employer fallback only. The filing lists the donor as a 'Coach' at Seed the Vote, Austin 78702, with one gift of $475 to Ramos on 2026-10-15. Seed the Vote is a progressive volunteer canvassing group (its site says 'Paid for by Everyday People'). No public page names this person, so identity is not corroborated beyond the filing itself. FEC search NOT completed: the OpenFEC API returned 504 and then 429 (rate limit), OpenSecrets was blocked, and the web search tool declined the name+zip query. The input also shows 0 FEC matches. TEC: site searches of ethics.state.tx.us lobbyist lists found no 'Coco'. The 2026 registry PDF/XLSX was downloaded but could not be parsed.",
+    "source_url": "https://seedthevote.org/who-we-are",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5580c7011d3c646b",
+    "name": "Page, Christopher",
+    "resolved_employer": "Self-employed (self-reported 'Self')",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "This is an employer fallback only. The filing lists the donor as 'Self', Austin 78702, with $431.70 to Steven Brown on 2026-07-17. An FEC name+Austin search returned only a 'Christopher C Page' at 78754 (Dell Technologies, Solutions Architect/System Engineer; ActBlue earmarks to Talarico for Texas). That zip and employer do NOT match, so the record is not attributed to this donor. A follow-up FEC search on zip 78702 failed (HTTP 429). No PAC giving of interest appeared. No TEC lobbyist registration was found in site searches. No bio or business page was found; the only Austin 'Christopher Page' online is a 19th-century stonemason (Page-Gilbert House).",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?api_key=DEMO_KEY&contributor_name=Page,%20Christopher&contributor_city=Austin&contributor_state=TX&per_page=50&sort=-contribution_receipt_date",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7be3ae04bcc27abf",
+    "name": "faith, michael",
+    "resolved_employer": "Atlassian (Software Engineer / Engineering Manager); formerly General Motors (Software Developer/Architect)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "FEC records for Michael Faith, Austin TX 78754, match both employers in the local filing: General Motors (Software Developer/Architect, 2016-2020) and then Atlassian (Software Engineer/Engineering Manager, 2025-2026). His federal giving is small-dollar ActBlue earmarks to Talarico for Texas, AOC, Bernie 2016/2020, and Mike Siegel. There are no UDP/AIPAC, DMFI, J Street, pro-Palestine, NRA, gun-control, oil/gas, or defense PAC gifts. TEC site searches found no lobbyist registration. No public bio page was found.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?api_key=DEMO_KEY&contributor_name=Faith,%20Michael&contributor_state=TX&per_page=50&sort=-contribution_receipt_date",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "tcv-a36895dd-e754-4d51-95d7-277039a1a585",
+    "name": "White, Benjamin",
+    "resolved_employer": "Expedia Inc (Software Engineer; earlier listed as VRBO, an Expedia brand)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "FEC records for Benjamin White, Manor TX 78653, match the local filing (Expedia, Software Engineer). Federal giving is ActBlue earmarks to candidate committees: monthly $50 to Greg Casar, plus Bernie Sanders, Harris, Donavan McKinney, Hartzell, Rashida Tlaib, Ilhan Omar, and AOC. These are candidate committees only, not advocacy-org affiliations. There are no UDP/AIPAC, DMFI, J Street, pro-Palestine org, NRA, gun-control, oil/gas, or defense PAC gifts in the records read (the last ~12k characters of the FEC response were not read). TEC site searches found no lobbyist registration. No public bio page was found (the web search tool declined the name+employer+town query).",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?api_key=DEMO_KEY&contributor_name=White,%20Benjamin&contributor_city=Manor&contributor_state=TX&per_page=50&sort=-contribution_receipt_date",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ac97ffb1c0ca763f",
+    "name": "Frensley, Nathalie",
+    "resolved_employer": "Retired / Not Employed (former career not identified; self-employed per a 2009 FEC record)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "FEC records for Nathalie Frensley, Austin TX 78756 (Montview St), list her as Not Employed, which matches the local filing's 'Retired/Not Employed' at 78756-1611. Federal giving is small ActBlue earmarks to George Conway for Congress, Biden Victory Fund, and Colin Allred for Senate, about $226 total. There are no UDP/AIPAC, DMFI, J Street, pro-Palestine, NRA, gun-control, oil/gas, or defense PAC gifts. TEC site searches found no lobbyist registration. No bio, obituary, or professional page was found, so her former career is unknown.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?api_key=DEMO_KEY&contributor_name=Frensley,%20Nathalie&per_page=50&sort=-contribution_receipt_date",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "tcv-250f7474-620e-4fd1-9a61-cbbd6dc5e71b",
+    "name": "Weiss, Marina",
+    "resolved_employer": "Clinical psychologist; postdoctoral fellow, CUNY (Center for Innovation in Mental Health, CUNY School of Public Health) / Brooklyn College",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Brooklyn, NY (11238) donor from outside Austin. Her Brooklyn Poets faculty bio describes Marina Weiss (MFA, PhD) as a clinical psychologist and CUNY postdoctoral fellow who lives in Brooklyn. FEC itemized receipts for 'Weiss, Marina' (NY) show the same zip 11238, employer Brooklyn College, and occupation Clinical Psychologist, which matches the local filing. Her federal giving is all ActBlue earmarks: recurring $100/month to Rashida Tlaib for Congress, plus Abdul for U.S. Senate, Claire Valdez, Darializa, Lander, Bronx for Dalourny, Cori for US, Oliver for Congress, Angie for Florida, and recurring $7.69/month to Battleground Texas. These are candidate committees, recorded as giving only, with no affiliation inferred. FEC caveat: only page 1 of 3 (100 of about 203 records, dated 2025-01 to 2026-09) was read before the FEC API rate-limited (HTTP 429). That page showed no AIPAC/UDP, DMFI, J Street, pro-Palestine org, NRA, gun-control, oil & gas, or defense PAC. TEC: site-restricted search of ethics.state.tx.us lobbyist lists found no match, which is expected for a NY resident. The full Brooklyn Poets bio lists no boards, memberships, or advocacy roles. Affiliation searches on both sides of Israel/Palestine, plus gun, oil/gas, and defense, found nothing.",
+    "source_url": "https://brooklynpoets.org/faculty-list/weiss",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Battleground Texas (FEC C00541391)",
+        "role": "Recurring small-dollar donor ($7.69/month via ActBlue, 2025-2026)",
+        "category": "political",
+        "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Weiss%2C+Marina&contributor_state=NY",
+        "snippet": "FEC Schedule A (ActBlue C00401224) memo: 'EARMARKED FOR BATTLEGROUND TEXAS (C00541391)', $7.69 monthly, contributor Marina Weiss, Brooklyn NY, employer City University of New York, occupation Postdoctoral Fellow."
+      }
+    ]
+  },
+  {
+    "donor_id": "0a894ccf52cd99d1",
+    "name": "Jenkins, Katie",
+    "resolved_employer": "Texas Defender Service (Development and Communications Manager)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "The Texas Defender Service staff page lists Katie Jenkins as Development and Communications Manager. She joined in March 2026, is a native Texan and Oklahoma State graduate, and has about 10 years of nonprofit marketing, fundraising, and communications work. Her employer ('Texas Defender Service') and occupation ('Nonprofit') match the filing. The Plano 75025 address could not be independently confirmed, so confidence is medium. The full staff bio lists no boards, memberships, or prior named employers. TEC: site-restricted search of ethics.state.tx.us lobbyist lists found no Katie or Katherine Jenkins. FEC: the direct FEC.gov/OpenFEC check could not be run because the API returned HTTP 429 and OpenSecrets was unreachable. A web search for her FEC contributions returned no matching records. The pipeline's own match shows 5 FEC donations, which should be re-checked against FEC.gov for PAC recipients. Affiliation searches on both sides of Israel/Palestine, plus gun, oil/gas, and defense, found nothing.",
+    "source_url": "https://www.texasdefender.org/staff/",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Defender Service",
+        "role": "Development and Communications Manager (staff, since March 2026)",
+        "category": "civic",
+        "source_url": "https://www.texasdefender.org/staff/",
+        "snippet": "Staff page: Katie Jenkins, Development and Communications Manager, 'joined Texas Defender Service in March 2026'. The organization works on ending mass incarceration and excessive punishment in Texas through representation, policy reform, and public education."
+      }
+    ]
+  },
+  {
+    "donor_id": "tcv-f7f594af-605f-4bc3-b1aa-874f2052524e",
+    "name": "Rice, Claire",
+    "resolved_employer": "Owlchemy Labs (Google-owned VR game studio, Austin), Lead UX/UI Designer (self-reported)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Employer-only fallback. The filing gives Austin 78752, Lead UX/UI Designer, Owlchemy Labs. Owlchemy is an Austin VR game studio that Google acquired in 2017. No public profile, bio, or staff page tying a Claire Rice to Owlchemy was found, so the industry comes from the self-reported employer only. TEC: site-restricted search of ethics.state.tx.us lobbyist lists found no match. FEC: the direct FEC.gov/OpenFEC check could not be run (API HTTP 429, OpenSecrets unreachable), and web searches found no FEC records. The pipeline shows 0 FEC donations. Bio read: no bio, About, or LinkedIn page was found to read. Affiliation searches on both sides of Israel/Palestine, plus gun, oil/gas, and defense, found nothing.",
+    "source_url": "https://blog.google/products/google-vr/welcoming-owlchemy-labs-google/",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9b2928eba7b303e7",
+    "name": "Thompson, Ben",
+    "resolved_employer": "Self-employed attorney (self-reported)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Employer-only fallback. The filing gives Austin 78745, Attorney, Self, with gifts to Ramos and Brown. Directory and Bar-listing searches found other Austin Thompson attorneys (Scott A., Marshall A., Brad, Brian T.) and an Atlanta Ben Thompson, but no attorney record matching Ben Thompson in 78745, so his specific practice is unconfirmed. TEC: site-restricted search of ethics.state.tx.us lobbyist lists returned no Ben or Benjamin Thompson. FEC: the direct FEC.gov/OpenFEC check could not be run (API HTTP 429, OpenSecrets unreachable), and web searches surfaced no matching records. The pipeline's own match shows 215 FEC donations with a partisan lean of about 0.38, which likely mixes several same-name people. This is high priority for a manual FEC.gov re-check of PAC recipients. Bio read: no bio or firm page was found. Affiliation searches on both sides of Israel/Palestine, plus gun, oil/gas, and defense, found nothing tied to this person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "tcv-82497b10-2ac1-43d0-9964-fd0bdfb9eb9d",
+    "name": "Tichy, Nicholas",
+    "resolved_employer": "NOVO Construction (commercial general contractor, Austin office), Superintendent (self-reported)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Employer-only fallback. The filing gives Austin 78702, Superintendent, Novo Construction. NOVO Construction is a commercial general contractor that entered the Austin market in 2012 and posts Austin superintendent roles. No public profile naming Nicholas Tichy was found, so the classification rests on the self-reported employer. TEC: site-restricted search of ethics.state.tx.us lobbyist lists found no Tichy. FEC: the direct FEC.gov/OpenFEC check could not be run (API HTTP 429, OpenSecrets unreachable), and web searches found no records. The pipeline shows 0 FEC donations. Bio read: no bio or LinkedIn page was found. Affiliation searches on both sides of Israel/Palestine, plus gun, oil/gas, and defense, found nothing.",
+    "source_url": "https://novoconstruction.com/texas",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "edabf444f54a509e",
+    "name": "Flack, Scott",
+    "resolved_employer": "Live Oak (Live Oak-Gottesman), Partner & CEO - Austin commercial real estate firm",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "The input occupation and employer fields are swapped ('Live Oak' / 'CEO'). The Live Oak About page lists Scott Flack as Partner & CEO of the Austin commercial real estate developer, acquirer and lessor. Live Oak-Gottesman LLC is listed at Austin TX 78746, which matches the donor's zip. Federal contributor records could not be checked: the FEC API returned HTTP 429 (DEMO_KEY rate limit), OpenSecrets blocked fetching, and the fec.gov page renders client-side. Web searches pairing his name with AIPAC, J Street, NRA, Everytown and oil & gas PACs found nothing. The TEC check was limited to site-restricted web searches because the 2026 registry PDF could not be parsed; no lobbyist registration was found. The full bio was read. No Israel/Palestine, oil/gas, gun or defense ties were found. Interest tags: real-estate-development.",
+    "source_url": "https://www.liveoak.com/our-team/scott-flack",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of Austin (RECA)", "role": "Past Board Chair", "category": "business", "source_url": "https://www.liveoak.com/our-team/scott-flack", "snippet": "Bio lists involvement with the Real Estate Council of Austin (RECA), where he is a past board chair."},
+      {"org": "Austin Community Foundation", "role": "Board and Executive Committee member; Co-Chair, Housing Accelerator", "category": "civic", "source_url": "https://www.liveoak.com/our-team/scott-flack", "snippet": "Board and Executive Committee member, Austin Community Foundation; Co-Chair of the Foundation's Housing Accelerator."},
+      {"org": "Austin Area Research Organization (AARO)", "role": "Member; past chair of Social Equity Committee", "category": "civic", "source_url": "https://www.liveoak.com/our-team/scott-flack", "snippet": "Past chair of AARO's Social Equity Committee and remains a member."}
+    ]
+  },
+  {
+    "donor_id": "tcv-43a227b9-4d69-41a4-816b-47844e61277f",
+    "name": "Addison, Doug",
+    "resolved_employer": "University of Texas at Austin - Senior Software Developer/Analyst (formerly Doug Addison Web Productions)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "His Drupal.org profile describes an Austin-based web developer who has built sites since 1996. It lists his title as Senior Software Developer/Analyst and his organizations as UT McDonald Observatory, UT College of Natural Sciences and UT Austin. This matches the donor's occupation ('web developer / Senior software developer') and employer ('UT Austin'). Federal contributor records could not be checked (FEC API 429, OpenSecrets blocked, fec.gov renders client-side); web searches pairing his name with PAC terms found nothing. The TEC check by site-restricted web search found no lobbyist registration. The full profile was read. No Israel/Palestine, oil/gas, gun or defense ties were found.",
+    "source_url": "https://www.drupal.org/u/daddison",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e7de9055c2592d36",
+    "name": "Upadhya, Rohit",
+    "resolved_employer": "ERCOT (Electric Reliability Council of Texas) - Engineer (self-reported)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "This is the categorize-by-employer fallback. The donor self-reported 'Engineer' at ERCOT, the Texas grid operator, at zip 78751. No public profile linking a Rohit Upadhya to ERCOT or Austin was found. The only same-name web hit (an NLP engineer with a TUM MSc) does not corroborate and was not used. Federal contributor records could not be checked (FEC API 429, OpenSecrets blocked, fec.gov renders client-side); web searches pairing his name with PAC terms found nothing. The TEC check by site-restricted web search found no lobbyist registration. bio_full_read is false because no bio or profile page for this person could be found. No Israel/Palestine, oil/gas, gun or defense ties were found.",
+    "source_url": "https://www.ercot.com/files/docs/2021/12/30/ERCOT_Fact_Sheet.pdf",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "25fd62c5b401233b",
+    "name": "Bunch, William",
+    "resolved_employer": "Save Our Springs (SOS) Alliance - Executive Director and attorney",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "William 'Bill' Bunch co-founded the SOS Alliance in 1992 and has been its Executive Director since 2000. He is an environmental attorney; his Justia profile lists William Gene Bunch with SOS Alliance as his affiliation. This matches the donor's occupation ('Attorney') and employer ('SOS Alliance'). Federal contributor records could not be checked (FEC API 429, OpenSecrets blocked, fec.gov renders client-side); web searches pairing his name with PAC terms found nothing. The TEC check by site-restricted web search found no lobbyist registration. The full bios on Travis Audubon and the SOS About page were read. No Israel/Palestine, oil/gas, gun or defense ties were found.",
+    "source_url": "https://travisaudubon.org/vecal-2025",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Save Our Springs Alliance", "role": "Co-founder (1992); Executive Director (since 2000)", "category": "civic", "source_url": "https://www.sosalliance.org/about-us", "snippet": "SOS Alliance staff list: 'Executive Director: Bill Bunch'. Travis Audubon bio: co-founded SOS in 1992 with Brigid Shea; Executive Director since 2000."}
+    ]
+  },
+  {
+    "donor_id": "53fee07f8b47b1b7",
+    "name": "Ice, Lauren",
+    "resolved_employer": "Perales, Allmon & Ice, P.C. - Partner (environmental law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "The Texas Campaign for the Environment board bio describes Lauren Ice as an environmental attorney and partner at Perales, Allmon and Ice, P.C. in Austin. This matches the donor's employer string exactly. She was formerly a staff attorney at SOS Alliance. Federal contributor records could not be checked (FEC API 429, OpenSecrets blocked, fec.gov renders client-side); web searches pairing her name with AIPAC, J Street, Palestine, NRA, Everytown and Moms Demand found nothing. The TEC check by site-restricted web search found no lobbyist registration. The full bio was read. No Israel/Palestine, oil/gas, gun or defense ties were found.",
+    "source_url": "https://www.texasenvironment.org/lauren-ice",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Campaign for the Environment", "role": "Board Member", "category": "civic", "source_url": "https://www.texasenvironment.org/lauren-ice", "snippet": "Board Member; environmental attorney and partner in Perales, Allmon and Ice, P.C.; started as a TCE canvasser."},
+      {"org": "Save Our Springs Alliance", "role": "Board Member (formerly Staff Attorney)", "category": "civic", "source_url": "https://www.sosalliance.org/about-us", "snippet": "SOS Alliance board members list includes 'Lauren Ice'."}
+    ]
+  },
+  {
+    "donor_id": "5bdccc6a9033cf96",
+    "name": "Stuart, Donald",
+    "resolved_employer": "Metcalfe Wolff Stuart & Williams, LLP (partner; tax and business transactional attorney, CPA)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Donald L. Stuart is a partner at Metcalfe Wolff Stuart & Williams LLP in Austin. The firm says its primary focus is real-estate entitlements and transactions, with a business and tax practice alongside it. His full firm bio says he practices tax and business transactional law, including real-estate transaction planning and like-kind exchanges. He was previously a partner for 19 years at Drenner & Golden Stuart Wolff, L.L.P. and its predecessors, and spent 14 years at Jenkens & Gilchrist. His memberships are the State Comptrollers Liaison Committee and the Austin Bar, State Bar of Texas and ABA tax sections. The bio lists no boards or civic or advocacy organizations. The employer string matches the filing exactly. Observation only, no relationship inferred: Kay Creath (also 78746) gave to Goodwin on the same date, 2026-09-29. FEC check: the FEC API returned HTTP 429 (rate-limited), OpenSecrets refused the fetch, and web searches for his FEC contributions found no matching records. Federal PAC recipients were therefore not reviewed, so fec_pac is false. TX lobbyist check: site searches of ethics.state.tx.us found nothing. The full 2012 TEC lobbyist list (HTML) was read and lists only an unrelated Charles C. Stuart. The 2026 TEC lobbyist PDF could not be parsed (compressed binary). Israel/Palestine (both sides), oil/gas, gun rights/control and defense searches found nothing.",
+    "source_url": "https://mwswtexas.com/our-people/donald-l-stuart/",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "997e0312a7c223c4",
+    "name": "Duke, Amber",
+    "resolved_employer": "Apple (Program Manager, per the contribution filing)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Employer fallback: she self-reported as a Program Manager at Apple, Austin 78722. No public profile (LinkedIn, bio or news) for an Amber Duke at Apple in Austin was found to corroborate identity beyond the filing. Industry comes from the self-reported employer, and no other public footprint was found. FEC check: the FEC API returned HTTP 429, OpenSecrets refused the fetch, and web searches for her FEC contributions found no matching aggregator records. Her 51 FEC donations (from the input) were therefore not itemized by recipient, so fec_pac is false. TX lobbyist check: site searches of ethics.state.tx.us found nothing. The full 2012 TEC lobbyist list was read with no Duke entries. The 2026 TEC lobbyist PDF could not be parsed. Israel/Palestine (both sides), oil/gas, gun and defense searches found nothing. There was no bio page to read.",
+    "source_url": "https://www.themuse.com/jobs/apple/program-manager-worldwide-applecare-engineering-db7d67",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a8f2f841bcd57b1a",
+    "name": "Creath, Kay",
+    "resolved_employer": "Psychologist (Dr. Maxine Kay Creath, PhD; listed at West End Psychological Associates, Austin). The 'Golden Group' employer string is unverified.",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "WebMD lists Dr. Maxine Kay Creath, PhD (psychology) at West End Psychological Associates, 4106 Edwards Mountain Dr, Austin 78731. An NPI listing (NPI 1336345446) gives an Austin address. The name, occupation (psychologist) and Austin location match the filing. No source ties her to the 'Golden Group' employer string, hence medium confidence. A third-party aggregator (somaliscan) shows a 'Creath, Kay' profile with about $58.9K in contributions across 35 donations (about $48.9K federal, 2018-2022). The page returned 404 when fetched, so recipients and location could not be verified. Observation only, no relationship inferred: Donald Stuart (also 78746) gave to Goodwin on the same date. FEC check: the FEC API returned HTTP 429 and OpenSecrets refused the fetch, so PAC recipients of her roughly 40 federal donations were not reviewed and fec_pac is false. TX lobbyist check: site searches found nothing. The full 2012 TEC list was read with no Creath entries. The 2026 TEC PDF could not be parsed. Israel/Palestine (both sides), gun, oil/gas and defense searches found nothing. No full bio page exists; only directory listings were found and read.",
+    "source_url": "https://doctor.webmd.com/practice/west-end-psychological-associates-0a378b26-a3ff-4e72-a96c-b26507012f56",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e1d0e4a140f34080",
+    "name": "Trabulsi, Blake",
+    "resolved_employer": "Zocalo Design (co-founder and Creative Director; Austin graphic design and branding firm)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Zocalo Design's About page names Blake Trabulsi as co-founder and Creative Director of the Austin graphic design and business-communications firm, founded in 2001 (2401 E. Sixth St.). He has over 25 years of design experience and is a musician. This matches the filing (Graphic Designer, Zocalo Design, Austin 78704). The full bio read says he is involved in 'various non-profit and arts organizations' but names none. The 2012 TEC lobbyist list includes a Richard J. Trabulsi Jr., but no public source links him to this donor, so nothing is recorded. FEC check: the FEC API returned HTTP 429, OpenSecrets refused the fetch, and web searches found no FEC records for the name, so fec_pac is false. TX lobbyist check: Blake Trabulsi is not in the 2012 TEC list (read in full), and site searches found nothing. The 2026 TEC PDF could not be parsed. Israel/Palestine (both sides), oil/gas, gun and defense searches found nothing.",
+    "source_url": "https://zocalodesign.com/about-us/",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f3375c339e9af9f1",
+    "name": "Rodgers, Brian",
+    "resolved_employer": "Rodgers & Reichle Inc. (co-founder; real estate investor, mainly older Class C commercial buildings)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Brian Rodgers is a long-time Austin real estate investor and civic activist. An Austin Bulldog profile (via search snippet; the page returned 403 when fetched) says he co-founded Rodgers and Reichle Inc. in 1992 with Kevin Reichle and considered a 2010 council run against Randi Shade. In 2015 he settled an open-records lawsuit against the City of Austin for $5,000. His requests had covered the Downtown Austin Alliance's support for the light-rail measure (FOIFT, Nov 2015). He also sued the city and Endeavor over Domain tax rebates (2004 settlement, per search snippet). The employer string and 78703 match the filing. Real-estate principal, but his public record is as a critic of city subsidies, not a developer lobby. FEC check: the FEC API returned HTTP 429 and OpenSecrets refused the fetch, so PAC recipients of his roughly 218 federal donations (from the input) were not reviewed and fec_pac is false. TX lobbyist check: site searches found nothing. The 2012 TEC list (read in full) has only an unrelated Kelly S. Rodgers. The 2026 TEC PDF could not be parsed. Israel/Palestine (both sides), oil/gas, gun and defense searches found nothing. The bio page (Austin Bulldog) could not be fully read (403), so bio_full_read is false.",
+    "source_url": "https://theaustinbulldog.org/brian-rodgers-for-council/",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {
+        "org": "ChangeAustin",
+        "role": "Co-founder",
+        "category": "political",
+        "source_url": "https://www.austinchronicle.com/news/naked-city-11750325/?nb=1",
+        "snippet": "\"The practice was apparently brought to the Bulldog's attention by ChangeAustin co-founder Brian Rodgers\" (Austin Chronicle, Jan. 28, 2011)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "f4e912952effdc29",
+  "name": "Clark, Colin",
+  "resolved_employer": "Austin ISD (teacher, self-reported)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Self-reported Teacher at Austin ISD, Austin TX 78704. No public profile found for a Colin Clark teaching at Austin ISD (only an unrelated Collin Clark, retired Cameron ISD superintendent, and a British filmmaker). Classified by stated employer. The internal FEC match hint (162 donations) could not be verified: the FEC API was rate-limited and searches found no record matching name+78704. [Search note: no bio profile found after searching; no TEC lobbyist registration under this name.]",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fe44bc777253a9bb",
+  "name": "Salas-Porras, Ana",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Not Employed, Austin TX 78756. A search snippet from an FEC-data aggregator ('Salas-Porras, Ana Luisa') showed ~42 FEC donations in 2024-2025, which fits the high internal FEC count. The page returned 404 when fetched, so the recipient committees and city/zip were not seen. No bio found. [Search note: committee list unreadable (aggregator 404, FEC API rate-limited), so no PAC affiliations recorded; recheck on fec.gov. No TEC lobbyist registration.]",
+  "source_url": "https://www.somaliscan.com/donations/contributor/Salas-Porras%2C%20Ana%20Luisa",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0b31b1b4-5c03-4264-b556-8bda44010094",
+  "name": "Welch, Parker",
+  "resolved_employer": "Austin Board of REALTORS (ABoR), housing policy (self-reported)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Self-reported 'Housing Policy' at ABoR, a realtor trade association that does housing-supply advocacy at City Council, Austin TX 78721. Not listed on the ABoR/Unlock MLS staff-leadership page (the Government Affairs staff listed are Taylor Smith, Bri Carpenter and Sam Gervase). No other public profile found. Classified by stated employer. [Search note: no FEC records and no TEC lobbyist registration found. A policy role at a realtor association is influence-adjacent, so a manual TEC registry check is recommended.]",
+  "source_url": "https://www.unlockmls.com/staff-leadership",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0ccf3055-5b78-48e3-98e1-1b2f5f822f8f",
+  "name": "Gonzales, Sharon",
+  "resolved_employer": "Lower Colorado River Authority (recruiter, self-reported)",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Self-reported Recruiter at LCRA (public water/electric utility), Austin TX 78725. Searches returned only LCRA job postings and no profile for this person. Classified by stated employer; Government is an alternative label because LCRA is public. [Search note: no bio profile found; no FEC records found (the search tool declined part of the name search); no TEC lobbyist registration.]",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-2188ce7c-be7f-4681-8940-a16a335052a0",
+  "name": "Mackey, Mark",
+  "resolved_employer": "NAPA (North American Partners in Anesthesia), CRNA (self-reported)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported CRNA at NAPA (which runs the Austin CRNA practice at St. David's hospitals), Austin TX 78704. The NPI registry lists Mark Field Mackey, CRNA (NPI 1114942695), at a San Antonio practice address. That confirms a Texas CRNA but does not tie him to the Austin/NAPA donor. [Search note: the provider listing was read in full and shows no board or advocacy roles; no FEC records; no TEC lobbyist registration.]",
+  "source_url": "https://medicaredforall.com/physician-1114942695-mark-mackey-cna-austin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-21de0e95-c27a-445d-89b8-d3bf96125306",
+  "name": "Rouder, Bob",
+  "resolved_employer": "Rouder Law (retired attorney; formerly Counsel, Norton Rose Fulbright)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Robert Lawrence Rouder, Texas-licensed attorney (UT Law J.D. 2002). Avvo lists him at Rouder Law, 1410 Waldorf Ave, Austin 78721, matching the donor's zip and stated employer. Martindale lists an earlier role as Counsel at Norton Rose Fulbright (antitrust/commercial litigation). No FEC PAC records and no TEC lobbyist registration found.",
+  "source_url": "https://www.martindale.com/attorney/mr-robert-lawrence-rouder-11765976/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-23aa39ed-35e5-4aa0-8e53-37c00efbccb3",
+  "name": "Ascot, Karin",
+  "resolved_employer": "Self-employed writer/editor/translator (Ascot Translations)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "The only web match for this distinctive name is an Austin, TX aggregator profile listing her as translator/editor at Ascot Translations, which matches the stated occupation. That page returned 403, so it could not be read in full, and no zip-level corroboration was found. Its other claims (Sierra Club political committee chair, SOS Alliance board) were not corroborated and were removed. A 2002 Austin Chronicle item separately names her with the local Sierra Club chapter. No FEC PAC records and no TEC lobbyist registration found.",
+  "source_url": "https://village.ai/person/karin-ascot-MzU5MzYxMzQ",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Sierra Club, Austin Regional Group", "role": "Quoted as local chapter representative (2002)", "category": "civic", "source_url": "https://www.austinchronicle.com/search/keywords:sierra+club/page-7", "snippet": "Austin Chronicle (Apr 26, 2002): 'Even today, Karin Ascot of the local Sierra Club chapter maintains...'"}
+  ]
+ },
+ {
+  "donor_id": "tcv-2879f14a-fe0a-4990-8699-5736ffdacd45",
+  "name": "Kimbrough, Tychanika",
+  "resolved_employer": "Kimbrough Family Law / Kimbrough Legal, PLLC (Founding Attorney & CEO)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "The filing's occupation and employer fields are swapped. Tychanika 'Tycha' Kimbrough is the founding attorney of Kimbrough Family Law (formerly Kimbrough Legal PLLC), an Austin divorce/family law firm; Baylor Law J.D., admitted 2018. The unique name and stated firm match. No FEC PAC records and no TEC lobbyist registration found.",
+  "source_url": "https://kimbroughlegal.com/our-team/tycha-kimbrough/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Austin Black Lawyers Association", "role": "President and inaugural Gala Chair (2025-present); prior officer roles 2019-2024", "category": "civic", "source_url": "https://kimbroughlegal.com/our-team/tycha-kimbrough/", "snippet": "Firm bio lists Austin Black Lawyers Association President and inaugural Gala Chair (2025-present)."},
+   {"org": "CASA of Travis County", "role": "Board of Directors", "category": "civic", "source_url": "https://kimbroughlegal.com/our-team/tycha-kimbrough/", "snippet": "Firm bio lists Board of Directors, CASA (Court Appointed Special Advocates) of Travis County."}
+  ]
+ },
+ {
+  "donor_id": "tcv-598737ec-9c62-4820-be5a-7dd14dfdd8bb",
+  "name": "osherow, william",
+  "resolved_employer": null,
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Self Employed, employer 'Liza Binkley', 78703. No public profile found for a 'William Osherow' in Austin. A possible match is Billy Osherow, Principal (retail leasing) at Endeavor Real Estate Group, but his bio gives no legal first name and the filing's employer does not match, so identity is NOT confirmed and Real Estate is not assigned. No link between 'Liza Binkley' and Osherow was found. Pattern note: gave $250 to Goodwin on 2026-10-07, the same day and amount as Endeavor principal Fernando Urrutia (Endeavor principal Jacob Newman gave $250 to Goodwin on 2026-10-02). This is suggestive of the Endeavor link but does not confirm it. No FEC PAC records and no TEC lobbyist registration found.",
+  "source_url": "https://www.endeavor-re.com/about/team/billy-osherow/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-77bbb423-ba0a-45cd-ac6f-37254b361e9b",
+  "name": "Byas, Renee",
+  "resolved_employer": "Rhode Island School of Design (RISD), General Counsel",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Renee (Smith) Byas has been General Counsel of the Rhode Island School of Design since July 2021. Prior GC roles were at Houston Community College, Lone Star College System, Texas Southern University and Houston Forensic Science Center. 'Attorney / RISD' plus a Spring, TX (Houston-area) address fits her Houston career, but her residence was not directly confirmed. No FEC PAC records and no TEC lobbyist registration found.",
+  "source_url": "https://www.risd.edu/about/leadership/renee-byas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9481a852-8968-43ef-82b3-0ff418d02e7f",
+  "name": "Kitto, Rachel",
+  "resolved_employer": "Talentism (Executive Assistant, per filing)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Filing lists EA at Talentism, Austin 78753. No matching public profile found, so identity is not independently corroborated. Classified by employer only (Talentism appears to be a talent/leadership consultancy; unconfirmed). [Search note: FEC checked by web search only (API rate-limited), with no records found; no TEC lobbyist registration; no bio found.]",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a29c90d1-1d7a-4f29-afeb-e6b14a975e25",
+  "name": "Witkowski, Sarah",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists Retired, Dripping Springs TX 78620. No public profile tied to Dripping Springs/Hays County was found. A Doximity CRNA profile for a 'Sarah E (Bass) Witkowski' shows no location and is not linked to this donor. [Search note: FEC checked by web search only (API rate-limited), with no records found; no TEC lobbyist registration; no confirmable bio.]",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a2fcead1-9dcb-40f3-8b41-8e1185b62943",
+  "name": "An, Alan",
+  "resolved_employer": "H-E-B (Sr Group Product Manager, per filing)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Filing lists Sr Group Product Manager at H-E-B, Austin 78752. H-E-B's digital/product organization is based in Austin/San Antonio, which fits the role, but no personal profile was found. Classified by employer only. [Search note: FEC checked by web search only (API rate-limited), with no records found; no TEC lobbyist registration; no bio found.]",
+  "source_url": "https://careers.heb.com/digital",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ab9de06b-7d64-40cb-9676-1619c38448c1",
+  "name": "Palacios, Virginia",
+  "resolved_employer": "Commission Shift (Executive Director); founder of VP Environmental consulting",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Executive Director of Commission Shift, a Texas nonprofit that watchdogs the Railroad Commission of Texas (oil & gas regulator). Her bio says she lives on her family's ranch in Webb County (Encinal 78019 is in Webb County), matching the filing's employer, title and zip. FEC itemized records under the same name with Encinal 78019 and Commission Shift / Executive Director corroborate further. [Search note: Commission Shift is a watchdog of the oil & gas regulator, not industry, so it is not tagged oil_gas. TEC lobbyist checks were web search only (the 2024 TEC PDF could not be text-extracted) and found no registration. Some FEC entries under this name belong to a different person (Janie Virginia Palacios, Cypress).]",
+  "source_url": "https://commissionshift.org/team/virginia-palacios/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Commission Shift", "role": "Executive Director", "category": "civic", "source_url": "https://commissionshift.org/about", "snippet": "Lists Virginia Palacios as Executive Director; Commission Shift is a Texas-based public advocacy organization formed to hold the Railroad Commission of Texas accountable."},
+   {"org": "Environmental Defense Fund", "role": "Former research analyst, oil and gas team", "category": "civic", "source_url": "https://commissionshift.org/team/virginia-palacios/", "snippet": "Bio: previously research analyst on EDF's oil and gas team; former State & Local Policy Manager at SPEER; founded VP Environmental (2019), whose clients include RGISC, GreenLatinos and EDF."},
+   {"org": "Latino Victory Fund / Forward Blue / Talarico for Texas / Michelle Vallejo for Congress (via ActBlue)", "role": "Federal contributor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?api_key=DEMO_KEY&contributor_name=Palacios,%20Virginia&contributor_state=TX&per_page=50&sort=-contribution_receipt_date", "snippet": "FEC Schedule A, Palacios, Virginia, Encinal TX 78019, Commission Shift/Executive Director: $250 Talarico for Texas (2026-09-02); $125+$125 Latino Victory Fund (2026-02-01); $50 Forward Blue (2025-02-07); earmarks to Michelle Vallejo for Congress (2024). None of the AIPAC/UDP, DMFI, J Street, NRA, oil & gas, defense or Palestine-advocacy PACs appeared in the records reviewed."}
+  ]
+ },
+ {
+  "donor_id": "tcv-b739e6de-63df-4c2b-bde9-f5da4610a0f9",
+  "name": "Jordan, Frances",
+  "resolved_employer": "AECOM (consultant; filing fields swapped)",
+  "industry": "Engineering",
+  "confidence": "low",
+  "evidence": "Filing fields appear swapped: employer AECOM, occupation Consultation, Austin 78756. No public profile links a Frances Jordan to AECOM/Austin. Classified by employer only. Her own role is not documented as defense-related, so military_defense is not recorded. [Search note: an aggregator lists a 'Jordan, Frances' with 47 FEC donations, but with no city or employer and the page returned 404, so it is not attributed. FEC API rate-limited. No TEC lobbyist registration; no bio found.]",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-c8cb8166-728b-4414-ac3e-034e87bf8842",
+  "name": "Koroleski, Bryan",
+  "resolved_employer": "ClickUp (software developer, per filing)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer fallback only: filing lists Software Developer at ClickUp (Austin productivity-software company), Austin 78748. No public profile found; identity not independently corroborated. No FEC records found (internal FEC match: 0; direct FEC API check rate-limited). No TEC lobbyist registration. No bio found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e136cab0-c678-455a-9656-d4a05ca084fb",
+  "name": "Vasquez, Tracey",
+  "resolved_employer": "HCA (cardiac surgical assistant, per filing)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Employer fallback only: filing lists Cardiac Surgical Assistant at HCA (St. David's HealthCare in Austin), Austin 78721. No public profile found; identity not independently corroborated. No FEC records found (internal FEC match: 0). No TEC lobbyist registration. No bio found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f0ca8aad-cc9c-4c73-a677-6d2264e064fa",
+  "name": "Urrutia, Fernando",
+  "resolved_employer": "Endeavor Real Estate Group (Principal, office leasing)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Endeavor's team page lists Fernando Urrutia as a Principal leading office project leasing in Austin, with 20+ years in commercial real estate. He was previously SVP/Austin Market Lead at Kilroy Realty, VP Acquisitions at Lionstone Investments and VP at CB Richard Ellis (NY); UT Austin BA. The filing's employer and occupation match. He shares an employer with co-donors Jacob Newman (and possibly William Osherow); all gave $250 to Goodwin in Oct 2026. The full bio lists no boards or advocacy roles. No FEC records found (internal FEC match: 0). No TEC lobbyist registration.",
+  "source_url": "https://www.endeavor-re.com/about/team/fernando-urrutia/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f2d022f1-06c8-4f44-8516-794766525b59",
+  "name": "Newman, Jacob",
+  "resolved_employer": "Endeavor Real Estate Group (Principal, development & acquisitions)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "An Endeavor press release announces Jake Newman joining as Principal to pursue development and acquisitions nationwide, with 24 years of experience and $4.1B+ / 12,000+ units of student-housing development; he is a US Army National Guard veteran. The filing (Principal, Endeavor Real Estate Group, Cedar Park 78613) matches. He shares an employer with co-donor Fernando Urrutia; both gave $250 to Goodwin in Oct 2026. No FEC records found (internal FEC match: 0). No TEC lobbyist registration (only an unrelated 'Newman, Jeremy' in Lucas, TX).",
+  "source_url": "https://www.endeavor-re.com/news/jake-newman-hired-at-endeavor-real-estate-group/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Multi Housing Council", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/news/jake-newman-hired-at-endeavor-real-estate-group/", "snippet": "Press release lists memberships in the National Multi Housing Council and the Urban Land Institute."},
+   {"org": "Urban Land Institute", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/news/jake-newman-hired-at-endeavor-real-estate-group/", "snippet": "Press release lists memberships in the National Multi Housing Council and the Urban Land Institute."},
+   {"org": "First Tee Greater Austin", "role": "Board member", "category": "civic", "source_url": "https://www.endeavor-re.com/news/jake-newman-hired-at-endeavor-real-estate-group/", "snippet": "Press release says he serves on the board of First Tee Greater Austin."}
+  ]
+ },
+ {
+  "donor_id": "6cf1f9cf312c417f",
+  "name": "Mitchell, Kirk",
+  "resolved_employer": "Self-employed (securities investments)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "FEC Schedule A records list Kirk Mitchell, Rollingwood TX 78746, occupation 'Securities Investment', employer 'Self', matching the filing. The ~200 records reviewed (2024-2026) are small-dollar ActBlue-earmarked gifts to Democratic candidates (Harris, Ocasio-Cortez, Sanders, Jasmine for Texas, Allred, Sherrod Brown, Tester, Casey, Osborn, Vindman, Kunce, etc.) plus Blue to the Future. No AIPAC/UDP, J Street, gun, oil & gas or defense PACs appeared in the records read (not every one of the 164 records was reviewed). No TEC lobbyist registration. No bio/LinkedIn found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Mitchell,%20Kirk&contributor_state=TX&contributor_zip=78746&per_page=100&sort=-contribution_receipt_date",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue / Democratic federal candidates", "role": "Recurring small-dollar donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Mitchell,%20Kirk&contributor_state=TX&contributor_zip=78746&per_page=100&sort=-contribution_receipt_date", "snippet": "FEC receipts, Kirk Mitchell, Rollingwood TX, Securities Investment/Self: ActBlue earmarks to AOC for Congress, Harris for President, Friends of Bernie Sanders, Jasmine for Texas, Colin Allred for Senate, etc. (2024-2026)."}
+  ]
+ }
+]

@@ -1,0 +1,117 @@
+[
+ {
+  "donor_id": "tcv-d779f3d9-4cfa-430b-b3d6-6a960ac3f150",
+  "name": "Campbell, Ronald",
+  "resolved_employer": "City of Austin (part-time, self-reported)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Employer-fallback only: filing lists 'Part timer' at City of Austin, Pflugerville 78660; $100 to Steven Brown. No public profile found linking a Ronald Campbell to Pflugerville or the City of Austin; common name, so identity not externally corroborated. No FEC record tied to Pflugerville; not found in TEC lobbyist lists.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-d7932cf3-9b40-4c3e-b150-c53ba5ab2285",
+  "name": "Porter, Kevin",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, Austin 78704; $100 to Misael Ramos. Common name; web results were dominated by NBA player Kevin Porter Jr. (unrelated). FEC aggregator hits for 'Kevin Porter' have no Austin location and could not be tied to this donor. Not found in TEC lobbyist lists.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-df7b4b5d-e50c-4cfb-a443-6a10cf3b07b5",
+  "name": "Dozier, Anthony",
+  "resolved_employer": "Westinghouse (mechanical, self-reported)",
+  "industry": "Engineering",
+  "confidence": "low",
+  "evidence": "Employer-fallback only: filing lists 'Mechanical' at 'WestingHouse', Syracuse UT 84075 (out of state); $100 to Alexandria Anderson. No public profile found. It is unclear which Westinghouse entity is meant, so no energy/defense tag was applied. No FEC record found for Syracuse UT; not found in TEC lobbyist lists.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e0b3ab3a-507c-4fcd-b9d0-aa50fd9f5017",
+  "name": "Tenison, Ethan",
+  "resolved_employer": "Amira Learning (Data Scientist); formerly RGK Center, UT Austin LBJ School (Project Manager for Data Initiatives)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Rare name in Austin. The RGK Center (UT LBJ School) bio describes an Ethan Tenison who managed data initiatives and data-science projects, holds an LBJ School MGPS in applied statistical modeling, and previously taught bilingual Spanish in Austin ISD. This fits the filing (Data Scientist at ed-tech firm Amira Learning, Austin 78752). Full bio read: no board seats or advocacy roles listed. No FEC or TEC lobbyist records found.",
+  "source_url": "https://rgkcenter.org/team/ethan-tenison",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e75b2e46-744f-45da-849a-3551978dd6f4",
+  "name": "Seyfarth, Kelly",
+  "resolved_employer": "Indeed (Vendor Manager, self-reported)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Employer-fallback only: filing lists Vendor Manager at Indeed, Austin 78745; $100 to Misael Ramos. No public profile found (searches return only the unrelated Seyfarth Shaw law firm). No FEC or TEC lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e984d688-5223-409e-995a-f9d6e240c092",
+  "name": "Heimsath, Ben",
+  "resolved_employer": "Heimsath Architects (Principal/managing partner; filing says retired/consultant)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Ben Heimsath, AIA, is the second-generation principal of Austin firm Heimsath Architects, which focuses on preservation, adaptive reuse, and faith and community projects. A unique name in Austin, consistent with 'Retired/consultant, self' in 78702; $100 to Amber Goodwin. The firm bio (full read) lists him on the City of Austin Historic Landmark Commission, as due to join the Downtown Commission, and as a former planning commissioner. It also lists an I-Act (Interfaith Action of Central Texas) board seat; that is an interfaith service nonprofit with no documented policy-advocacy role, so it is not recorded. The bio is undated, so the commission seats may not be current. No FEC or TEC lobbyist records found. (The CTRMA board member honored in a 2018 Austin Monitor item was Charles Heimsath, a different person.)",
+  "source_url": "https://heimsath.com/?p=107",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Austin Historic Landmark Commission", "role": "Commissioner (per firm bio; undated); also former planning commissioner and named for the Downtown Commission", "category": "civic", "source_url": "https://heimsath.com/?p=107", "snippet": "Currently serves on the City of Austin Historic Landmark Commission and is due to be appointed to the Downtown Commission; former planning commissioner."}
+  ]
+ },
+ {
+  "donor_id": "tcv-f02a2b27-b533-4c4e-8927-97d597d66f78",
+  "name": "Krishnaraj, Sagar",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, Leander 78641; $100 to Misael Ramos. No public web profile found for this exact name (only similarly named people in India and Australia). No FEC or TEC lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f1005f3a-24dc-4a3d-8d2e-7e1fcefacf7f",
+  "name": "Pincham, Sharon",
+  "resolved_employer": "Retired; former district office director for IL State Sen. Elgie Sims, former IL Dept. of Human Services assistant bureau chief, realtor/tax preparer",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Rare name. The Daily Line profiles a Chicago aldermanic candidate (2023) named Sharon Pincham whose career includes district office director for State Sen. Elgie Sims (D-Chicago), assistant bureau chief at IL DHS Rehab Services, and realtor/tax preparer work. This is consistent with a retired Chicago donor (60619, South Side); $100 to Alexandria Anderson. Identity match rests on the rare name plus city, not on an address. No federal FEC record found; not in TEC lobbyist lists (out of state).",
+  "source_url": "https://www.thedailyline.com/sharon-pincham-2023-aldermanic-candidate",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Chicago City Council (aldermanic race)", "role": "Candidate, 2023 Chicago aldermanic election", "category": "political", "source_url": "https://www.thedailyline.com/sharon-pincham-2023-aldermanic-candidate", "snippet": "Sharon Pincham - 2023 Aldermanic Candidate"},
+   {"org": "Office of Illinois State Sen. Elgie Sims", "role": "District office director and constituent services coordinator (former)", "category": "political", "source_url": "https://www.thedailyline.com/sharon-pincham-aldermanic-candidate", "snippet": "Has served as district office director and constituent services coordinator for State Sen. Elgie Sims (D-Chicago)."}
+  ]
+ },
+ {
+  "donor_id": "tcv-f11a8ef8-a771-4211-a82f-44aec434609b",
+  "name": "Lawrence, Martha",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Retired, Lakeway 78734; $100 to Steven Brown. No public profile found for a Martha Lawrence in Lakeway; former career unidentified. No FEC or TEC lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-f259df59-98f5-4651-9651-6f70eb163aa3",
+  "name": "LeBoeuf, Beau",
+  "resolved_employer": "Sherry Matthews Group (advertising, self-reported)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Employer-fallback only: filing lists Advertising at Sherry Matthews Group (an Austin advertising/PR agency), Austin 78704; $100 to Misael Ramos. No public profile found for this name. No FEC or TEC lobbyist records found (only unrelated Dewey & LeBoeuf law-firm PAC hits).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

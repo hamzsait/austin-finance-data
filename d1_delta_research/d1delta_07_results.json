@@ -1,0 +1,232 @@
+[
+ {
+  "donor_id": "tcv-c12fdc45-0583-4092-919d-5e3d3be24953",
+  "name": "Parks, Shuronda",
+  "resolved_employer": "Adisa Communications (Austin PR firm)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Filing lists Public Relations / Adisa Communications, Austin 78721. Adisa Communications (Austin boutique PR firm, founded 1995) is led by President & CEO Shuronda Robinson. The rare first name and the same firm strongly suggest the same person, but no public source ties the surname 'Parks' to her, so the identity link is not confirmed. Industry rests on the filing's own employer. FEC and TEC checks were web searches; no FEC.gov or TEC database query could be run directly.",
+  "source_url": "https://www.naacpaustin.com/blog/archives/04-2022",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-df335e24-3f41-4743-be3c-7e3c16ffbf07",
+  "name": "Trimble, Mike",
+  "resolved_employer": "City of Austin (administrator, per filing)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing: City of Austin / Administrator (fields swapped), Austin 78702. A public Mike Trimble spent 16+ years as a City of Austin executive (Capital Planning Officer; Corridor Program Office director), then worked at HNTB, then became City of Kyle transportation & public works director in Jan 2025. A 2026 City of Austin role for him was not found, so the match is plausible but unconfirmed. No TEC lobbyist registration or FEC PAC record found via web search.",
+  "source_url": "https://communityimpact.com/austin/san-marcos-buda-kyle/government/2025/01/08/city-of-kyle-hires-new-director-of-transportation-and-public-works",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "83724e57d93fe120",
+  "name": "Fowler, Tardrick",
+  "resolved_employer": "Self-employed (per filing)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing: Self Employed, Austin 78722; repeat donor to Steven Brown (Jan-Oct 2026). No public profile found. Employer-fallback only. No TEC lobbyist or FEC PAC record found via web search.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bd94f0de-bc5a-4e16-8256-a0830d4d8e09",
+  "name": "FERRIS, DAVID",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing: Not Employed, Round Rock 78681. No public profile could be matched to this person. Employer-fallback only. No TEC lobbyist record (only an unrelated Erin Ferris in 2010/2014 lists) and no FEC PAC record found via web search.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5500dd21fc882ab0",
+  "name": "Armstrong, Reese",
+  "resolved_employer": "High school student; campaign staff for Arshia for Texas (HD 49)",
+  "industry": "Student",
+  "confidence": "high",
+  "evidence": "Filing: Campaign Manager, Arshia for Texas; Austin 78757. Reese Ricci Armstrong is an Austin high-school student (McCallum, formerly LASA) who ran in the March 2026 Democratic primary for Travis County Commissioner Pct. 2 (4th place). Reported as treasurer of Arshia Papari's HD 49 campaign, which matches the filing's employer. No TEC lobbyist registration found. Pipeline FEC count is 9 with lean 1.0; no ideological-PAC giving (Israel/Palestine, oil/gas, guns, defense) surfaced via web search.",
+  "source_url": "https://lasaliberator.com/7068/uncategorized/mac-student-on-yhe-ballot/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Arshia for Texas (Arshia Papari, TX HD 49 campaign)", "role": "Campaign treasurer / campaign manager (per filing)", "category": "political", "source_url": "https://burntxorange.com/?p=50171", "snippet": "Papari's campaign treasurer, Reese Armstrong, is 17 and running for Travis County commissioner."},
+   {"org": "Travis County Commissioner Pct. 2 (2026 Democratic primary)", "role": "Candidate", "category": "political", "source_url": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-county-commissioner-tx-travis-county-district-2-d/candidates/reese-ricci-armstrong", "snippet": "Reese Ricci Armstrong listed as Democratic candidate for Travis County Commissioner, Precinct 2."},
+   {"org": "LASA Young Democratic Socialists of America (YDSA)", "role": "Former co-chair (resigned on leaving LASA)", "category": "political", "source_url": "https://buttondown.com/lasaydsa/archive/union-social-tomorrow-reese-armstrong-leaves-lasa", "snippet": "\"I must resign as co-chair of LASA YDSA & Students United Local No. 1\""}
+  ]
+ },
+ {
+  "donor_id": "f1182e97c6875ee1",
+  "name": "Durham, Christin",
+  "resolved_employer": "Urban Institute (Principal Research Associate)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Filing: Principal Research Associate, The Urban Institute, Austin 78744. Urban Institute author page confirms the title (Income, Benefits & Poverty; co-directs CCDF Policies Database; TRIM3/ATTIS models). It also lists prior work at Texas HHSC Provider Finance, which fits Austin residence. Bio lists no boards or advocacy roles. No TEC lobbyist or FEC PAC record found via web search.",
+  "source_url": "https://www.urban.org/author/christin-durham",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d62c0275754331e",
+  "name": "Arnold, Joshua",
+  "resolved_employer": "Boeing (support coordinator, per filing)",
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Filing: Support coordinator, Boeing; Edwardsville IL 62025 (out-of-state). No public profile found. Employer-fallback only (aerospace mapped to Transportation). Boeing is a defense contractor, but a support-coordinator role is not an exec, board, owner, or lobbyist role, so military_defense is NOT flagged. No TEC/IL lobbyist or FEC PAC record found via web search.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "be28a3de63523167",
+  "name": "Sethi, Pooja",
+  "resolved_employer": "Law Offices of Pooja Sethi, PLLC (immigration attorney); 2026 Democratic nominee, TX House District 47",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Filing: Not Employed, Austin 78730, which lies inside HD 47 (west Austin). Pooja Sethi is an Austin immigration attorney (Law Offices of Pooja Sethi since 2014; formerly at Catholic Charities), was chief of staff to Rep. Vikki Goodwin (2021-2025), and won the March 2026 HD 47 Democratic primary. She ran for Austin Council D10 in 2020. Pipeline shows 204 FEC donations with lean 1.0; web search surfaced no ideological-PAC giving in the tracked categories. No TEC lobbyist registration found. A web-search summary said she sits on the Planned Parenthood Texas and Indian American Coalition boards, but no primary source was read, so it is not recorded.",
+  "source_url": "https://www.ballotready.org/people/pooja-sethi",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House District 47 (2026)", "role": "Democratic nominee / candidate", "category": "political", "source_url": "https://branch.vote/races/2026-texas-general-election-tx-state-state-representative-tx-state-house-47/candidates/pooja-sethi", "snippet": "Pooja Sethi listed as candidate in the 2026 general election for TX State House 47."},
+   {"org": "Office of State Rep. Vikki Goodwin", "role": "Chief of Staff (2021-2025)", "category": "political", "source_url": "https://www.ballotready.org/people/pooja-sethi", "snippet": "Texas State House of Representatives, Representative Vikki Goodwin, Chief of Staff (2021 - 2025)"},
+   {"org": "South Asian Austin Moms", "role": "Founder (2012-present)", "category": "civic", "source_url": "https://www.ballotready.org/people/pooja-sethi", "snippet": "South Asian Austin Moms, Founder (2012 - Present)"}
+  ]
+ },
+ {
+  "donor_id": "d7c9b4ccd4ea8f23",
+  "name": "Walker, Adrian",
+  "resolved_employer": "ClearBlade (Austin IoT/edge software company), software engineer",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Filing: Software Engineer, ClearBlade, Austin 78748. ClearBlade is an Austin-HQ edge-computing/IoT software firm. No individual profile found. Employer-fallback only. Pipeline FEC count 41 (lean 0.73); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record.",
+  "source_url": "https://www.builtinaustin.com/company/clearblade",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-472d9d53-7608-4099-ad2a-fb5db4feb2e0",
+  "name": "Shumway, Benjamin",
+  "resolved_employer": "Thomson Reuters (systems engineer, per filing)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Filing: Systems engineer, Thomson Reuters; Coon Rapids MN 55433 (out-of-state). No public profile found. Employer-fallback only. No FEC PAC or lobbyist record found via web search.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-94891f44-59fe-4861-9fba-16a5972e6ac8",
+  "name": "Katz, Andrew",
+  "resolved_employer": "Buildforce (Austin construction-labor marketplace), software engineer",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Filing: Software Engineer, Buildforce, Austin 78757. Buildforce is an Austin-HQ tech platform staffing electricians for contractors. No individual profile found. A WA-state donor record for an 'Andrew Katz' (giving to Seattle council candidates) was found but is NOT corroborated as this person and was not used. No TEC lobbyist record found.",
+  "source_url": "https://builtworlds.com/companies/buildforce/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "011f8764907cbc6a",
+  "name": "Nelson, Brandi",
+  "resolved_employer": "Texas Office of Capital and Forensic Writs (executive assistant, per filing)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing: EA, Office of Capital and Forensic Writs (Texas state agency, Austin), Austin 78721. No individual profile found. Employer-fallback only. Pipeline FEC count 33 (lean 1.0); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record found.",
+  "source_url": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.78.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "be1d8735b83a9e39",
+  "name": "Martinez, Catherine",
+  "resolved_employer": "Community college administrative assistant ('ACC', per filing)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filing: Administrative Assistant, ACC / Community College; address Houston 77087 (it conflicts with Austin Community College, so the employer is unclear). Common name; no profile could be matched. Employer-fallback only. No TEC lobbyist or FEC PAC record found via web search.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-87580784-d2f1-4931-a7e4-c35b52925255",
+  "name": "Tarleton, John",
+  "resolved_employer": "The Indypendent (NYC newspaper), editor-in-chief",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Filing: Editor, The Indypendent; Brooklyn NY 11217 (out-of-state). John Tarleton is co-founder and editor-in-chief of The Indypendent, a NYC left-leaning community newspaper, and has overseen its local political coverage since 2017. No FEC PAC or lobbyist record found via web search.",
+  "source_url": "https://theindypendent.substack.com/p/john-tarleton-discusses-mayoral-race/comments",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The Indypendent", "role": "Co-founder; editor-in-chief", "category": "business", "source_url": "https://indypendent.org/2014/09/the-indy-at-200-radical-newspaper-celebrates-a-milestone/", "snippet": "Identifies John Tarleton as a co-founder of The Indypendent and the newspaper's executive editor."}
+  ]
+ },
+ {
+  "donor_id": "34a2aee51deee55a",
+  "name": "Hoffman, Donna",
+  "resolved_employer": "El Buen Samaritano (Field Manager, Displacement Prevention); previously Casa Marianella housing locator; yoga teacher",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Filings: housing locator at Casa Marianella (East Austin immigrant shelter), Field Manager for Displacement Prevention at El Buen Samaritano (City of Austin's Displacement Prevention Navigator partner), and yoga teacher; Austin 78702. No individual profile found. Employer-fallback only. Pipeline FEC count 290 (lean 1.0); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record.",
+  "source_url": "https://www.austintexas.gov/housing/news/navigators-selected-expanded-displacement-prevention-navigator-program",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-b854c46e-83da-4c97-a18a-009bf1c43809",
+  "name": "Hayes, Patrick",
+  "resolved_employer": "Foundation Communities (Financial Case Manager, per filing); now listed Not Employed",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Filings: Financial Case Manager, Foundation Communities (Austin affordable-housing nonprofit), later Not Employed; address Chicago IL 60626 (apparently moved). No individual profile found. An aggregator lists a 'Patrick Hayes' (Andrew Myers, P.C.) with federal giving, but it is NOT corroborated as this person. Employer-fallback only. No lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "01a8ac681782a16e",
+  "name": "Shannon, Rachael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing's occupation/employer fields contain only her own name; Austin 78702-1315. An Austin Chronicle teaser mentions an Austin artist named Rachael Shannon, but no detail is available to corroborate identity or occupation. Pipeline FEC count 34 (lean 1.0); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "098a4a4a21107eac",
+  "name": "Atherton, Lorraine",
+  "resolved_employer": "Self-employed copy editor (L. Atherton)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Filing: copy editor, employer 'L. Atherton' (self), Austin 78704. No public profile found. Employer-fallback only. Pipeline FEC count 31 (lean 1.0); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a03d7e79c13ec1c",
+  "name": "Jobe, Connie",
+  "resolved_employer": "Retired (former career unconfirmed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing: Retired, Austin 78703. A family-law attorney, Connie Kemp Jobe (Law Office of Connie Jobe, Bee Cave Rd / West Lake Hills, SMU Law), appears on an unclaimed Justia listing near 78703. She may be this donor, but that is not confirmed, so no Legal classification is made. Pipeline FEC count 58 (lean 0.0); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record found.",
+  "source_url": "https://lawyers.justia.com/lawyer/connie-kemp-jobe-220569",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25053997b5e31b14",
+  "name": "C. Peterson, Amanda",
+  "resolved_employer": "Tucows Inc. (Chief Marketing Officer)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Filing: Marketing, Tucows, Austin 78704. Tucows leadership page lists Amanda C. Peterson as Chief Marketing Officer, based in Austin, TX (formerly brand/product marketing at Google Fiber; Sony, HP, Logitech). Full bio read: no boards or advocacy roles listed. Pipeline FEC count 9 (lean 1.0); web search surfaced no ideological-PAC giving in tracked categories. No TEC lobbyist record.",
+  "source_url": "https://tucows.com/leadership/amanda-c-peterson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

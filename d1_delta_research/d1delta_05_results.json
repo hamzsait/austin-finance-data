@@ -1,0 +1,248 @@
+[
+ {
+  "donor_id": "02c637571477ef75",
+  "name": "Aronowitz, Jacob",
+  "resolved_employer": "Collective Campaigns (founder; worker-cooperative political consultancy, Austin)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "An Austin Chronicle profile (Sept 2024) names Jacob Aronowitz as the founder (2018) of Collective Campaigns, an Austin political consulting firm organized as a worker cooperative. That matches the filing: occupation 'Organizer', employer 'Collective Campaigns', Austin 78757. The article says he 'identifies as a Bernie Sanders socialist'. Interest tags: political-consulting, progressive-money. Web-indexed FEC/OpenSecrets searches surfaced no ideological-PAC records (FEC API was rate-limited this run; pipeline FEC fields: 34 donations, lean 1.0). No TEC lobbyist registration found.",
+  "source_url": "https://www.austinchronicle.com/news/in-politics-to-win-again-and-again-13284135",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Collective Campaigns", "role": "Founder", "category": "political",
+    "source_url": "https://www.austinchronicle.com/news/in-politics-to-win-again-and-again-13284135",
+    "snippet": "'In 2018, Aronowitz and five colleagues created Collective Campaigns', billed as 'the first political consultancy firm in the country organized as a worker cooperative'; clients include Mike Siegel, Heidi Sloan, Kathie Tovo (mayor)."}
+  ]
+ },
+ {
+  "donor_id": "tcv-9a0f71b6-3a4c-4d08-9e29-6477e59a6166",
+  "name": "Merriweather, Darrell",
+  "resolved_employer": "Austin Community College (higher education counselor, per filing)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Employer fallback. The filing lists 'Higher Education Counselor' at Austin Community College, Austin 78702. Searches found no independent public profile (only a different ACC employee, Katherine Merriweather), no FEC PAC record, and no TEC lobbyist registration. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e4cad0acc5558857",
+  "name": "Kitto, Rachel",
+  "resolved_employer": "Talentism (executive assistant, per filing; Talentism is a Greenwich, CT leadership/organizational-transformation consultancy)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Employer fallback. The filing lists 'Executive Assistant' at Talentism, Corsicana TX 75109. Searches found no independent profile for the donor, no FEC PAC record (pipeline FEC: 1 donation), and no TEC lobbyist registration. No bio page existed to read.",
+  "source_url": "https://www.cbinsights.com/company/talentism",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0534e5a8e8d7b849",
+  "name": "Swallow, Sarah",
+  "resolved_employer": "City of Austin (council-office constituent liaison, per filing and austintexas.gov staff listing); previously Collective Campaigns member/consultant",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "The Austin Chronicle (Sept 2024) calls Sarah Swallow 'a member of Collective Campaigns' who ran Kathie Tovo's mayoral race. A search-indexed austintexas.gov page (node/33845) lists 'Sarah Swallow, Constituent Liaison', but her council office is unconfirmed. Both match the filing employers 'City of Austin, Collective Campaigns'. Interest tag: political-consulting. Web FEC searches surfaced no ideological-PAC records (pipeline FEC fields: 143 donations, lean 1.0). No TEC lobbyist registration found.",
+  "source_url": "https://www.austinchronicle.com/news/in-politics-to-win-again-and-again-13284135",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Collective Campaigns", "role": "Member / campaign manager (Kathie Tovo for Mayor, 2024)", "category": "political",
+    "source_url": "https://www.austinchronicle.com/news/in-politics-to-win-again-and-again-13284135",
+    "snippet": "Swallow is 'a member of Collective Campaigns who's currently running Kathie Tovo's race for mayor'; ran 'two successive races to unseat Texas House Rep. Jeff Leach'."}
+  ]
+ },
+ {
+  "donor_id": "4206a231785c1d68",
+  "name": "Weaver, Cole",
+  "resolved_employer": "Integral Care (peer support specialist, per filing; Travis County local mental health authority)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Employer fallback. The filing lists 'Peer Support Specialist' at Integral Care, Cedar Park TX 78613. Searches found no independent public profile, no FEC PAC record (pipeline FEC: 5 donations), and no TEC lobbyist registration. The only 'Weaver' TEC hit was Weaver LLP, an unrelated Fort Worth firm. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8bc820652ad5d83d",
+  "name": "Benavidez, Valerie",
+  "resolved_employer": "Movement Voter Fund (Interim State Programs Director, per filing); former President & Executive Director, Texas Freedom Network (to Dec 2024)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "The filing lists 'Interim State Programs Director' at Movement Voter Fund, Austin 78757. That fits Val Benavidez, the Austin organizer who led Texas Freedom Network as president/ED from 2020 until she left at the end of 2024, after 18 years there. A TEC list of 2021 lobbyists receiving political-fund reimbursements includes 'Benavidez, Valerie', a nonprofit executive director with an Austin address tied to TFN PAC. No public source names her at Movement Voter Fund, so the match rests on name, city, and career fit. Web FEC searches found no ideological-PAC records (pipeline FEC: 5 donations, lean 1.0).",
+  "source_url": "https://tfn.org/?p=51792",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Freedom Network", "role": "President & Executive Director (2020-2024); earlier Chief Program Officer / Field Director", "category": "political", "source_url": "https://tfn.org/?p=51792", "snippet": "'Val Benavidez Concludes Historic Tenure as Texas Freedom Network's First Latina President'; departure effective Dec 31, 2024, ending an 18-year career with TFN."},
+   {"org": "Texas Ethics Commission lobby registry (TFN / TFN PAC)", "role": "Registered Texas lobbyist (appears on 2021 'Lobbyists Receiving Reimbursement from Political Funds' list)", "category": "political", "source_url": "https://sorm.state.tx.us/data/search/lobby/2021/2021Pol_FundsByLobbyists.pdf", "snippet": "Search-indexed text of the TEC 2021 list shows 'Benavidez, Valerie (Mrs.)', nonprofit executive director, Austin, tied to TFN PAC. The PDF itself could not be decoded this run, so this rests on the indexed snippet."},
+   {"org": "Workers Defense Project / Workers Defense Action Fund", "role": "Board Chair (WDP); board member (Action Fund), per Woodhull Foundation bio", "category": "civic", "source_url": "https://www.woodhullfoundation.org/team/val-benavidez/", "snippet": "'She chairs the Board of Directors of the Workers Defense Project and sits on the board of the Workers Defense Action Fund' (older bio, written when she was TFN Chief Program Officer)."}
+  ]
+ },
+ {
+  "donor_id": "933d9cef4e2dac8e",
+  "name": "Chandler, Anne",
+  "resolved_employer": "University of Texas (professor, per filing; unverified)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filed as 'professor', employer 'Ut', Austin 78745. No UT Austin faculty or adjunct listing was found. An Austin attorney named Anne (Haenel) Chandler does have a 78745 Avvo listing. She is the founding ED of the Texas Immigration Law Council and a former UH Law associate clinical professor (2002-2009), but no source ties her to UT. The zip matches; the employer does not. That identity is therefore not adopted, and industry comes from the filing only. Web FEC searches found no ideological-PAC records (pipeline FEC: 99 donations, lean 1.0). No TEC lobbyist registration found.",
+  "source_url": "https://www.avvo.com/attorneys/78745-tx-anne-chandler-51258.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "edabd040ee884263",
+  "name": "Guzman, Monica",
+  "resolved_employer": "Go Austin/Vamos Austin (GAVA), Policy Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "The filing lists Policy Director at GAVA, Austin 78758. That matches Monica Guzman, who leads GAVA's policy team and has testified at City Council on the LDC, DB90, and Project Connect anti-displacement. She ran for Austin City Council District 4 and finished runner-up to Chito Vela in 2022. Interest tag: health-equity. Searches found no FEC PAC record (pipeline FEC: 2 donations) and no TEC lobbyist registration.",
+  "source_url": "https://theaustinbulldog.org/monica-guzman-campaign/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Go Austin/Vamos Austin (GAVA)", "role": "Policy Director; leads GAVA Policy Team", "category": "civic", "source_url": "https://corp-relations.squarespace.com/policy-priorities", "snippet": "Leads the GAVA Policy Team and stewards GAVA's policy platform; testified that DB90 would bring 'disproportionate impacts to mixed- and lower-income housing communities'."},
+   {"org": "Austin City Council District 4 campaign", "role": "Candidate (2022 runner-up; later candidacy)", "category": "political", "source_url": "https://www.austinmonitor.com/stories/whispers/guzman-enters-the-district-4-race", "snippet": "Longtime community advocate who declared her candidacy for the District 4 City Council seat."}
+  ]
+ },
+ {
+  "donor_id": "tcv-20af2e44-1932-4de5-9b57-27534f589069",
+  "name": "Klose, Joanna",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Austin 78723 donor with occupation and employer both N/A. Web, FEC, and TEC searches found no public profile for a Joanna Klose in Austin, so there was no bio page to read. Identity not established.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-40061a7f-8968-449b-b8d0-0b8385328e10",
+  "name": "Paricio, Todd",
+  "resolved_employer": "Anesthesiologist (NAPA, per filing); Austin practice, affiliated with Heart Hospital of Austin",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Filed as Physician, employer NAPA, Austin 78731. Matches Todd Paricio, MD (NPI 1013981174, TX license J-0858), a board-certified Austin anesthesiologist (UTHealth McGovern 1990). 'NAPA' is probably North American Partners in Anesthesia, but no source names him there. Employer fallback only. No FEC PAC record or TEC lobbyist registration found.",
+  "source_url": "https://www.doximity.com/pub/todd-paricio-md",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-498b1bf1-4c4c-4f2f-8148-c39a3b84afb8",
+  "name": "Henderson, Linda",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation Retired, employer N/A, Austin 78721. Common name; no public source could be tied to this specific person. No FEC PAC record or TEC lobbyist registration found under this name. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-6f0b47f9-28a0-476e-b6f5-10687fd69e45",
+  "name": "Derengowski, Anna",
+  "resolved_employer": "DSA (Technology Director, per filing)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Filing lists Technology Director at DSA, Portland OR 97212. No public web source was found for this name (searches returned only similar-named Polish figures). The DSA role is not independently confirmed, so it is not recorded as an affiliation. No FEC PAC record or TEC lobbyist registration found. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-856ae7cf-c7ce-4cd9-8765-ed8b415c7998",
+  "name": "Lowery, April",
+  "resolved_employer": "QTC (family nurse practitioner working with veterans); also Chicago stage/screen actress",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "A Factory Theater (Chicago) actress bio says she works with veterans as a family nurse practitioner. TVMaze credits April Lowery with a 2024 Chicago Med guest role, and NPI directories list an April D. Lowery, NP in Chicago. Together these match the filing (Actress/Nurse Practitioner, QTC, Chicago IL). The bio lists no policy-advocacy boards. No FEC PAC record or TEC lobbyist registration found.",
+  "source_url": "https://thefactorytheater.com/?p=7945",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-9e374992-6cd7-46c5-a312-cb0a9fb04686",
+  "name": "Segal, Marc",
+  "resolved_employer": "Rekor Systems (Technical Account Management Director, Rekor Command; Austin-based); formerly TxDOT and Yunex",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "A March 25, 2026 Rekor press release names Austin-based Marc Segal as Technical Account Management Director / Director of Rekor Command, the traffic-operations platform, driving its rollout under a TxDOT statewide purchase order. He was previously at TxDOT and a Yunex senior product manager. That matches the filing (Account manager, Rekor, Austin 78724). He is director-level, not an officer or board member. Rekor's work is DOT traffic and vehicle data, so there is no military_defense flag. No FEC PAC record or TEC lobbyist registration found.",
+  "source_url": "https://rallies.ai/news/rekor-systems-appoints-marc-segal-to-accelerate-texas-rollout-centralize-us-operations",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-a2deab82-d12b-4281-9315-fd827b74d953",
+  "name": "Biechler, Mark",
+  "resolved_employer": "Self-employed landscape designer (per filing)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Landscape designer, Self, Austin 78702. No public profile, firm page, or listing found for this name. No FEC PAC record or TEC lobbyist registration found. Employer-fallback classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ba63a7e9-887d-4499-91ca-90918dac54cc",
+  "name": "Tyler, Leslie",
+  "resolved_employer": "Wells Fargo Advisors (financial advisor, San Francisco branch)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "An advisor directory for the Wells Fargo Advisors San Francisco branch (555 California St) lists a Leslie Tyler. That matches the filing's name, employer, occupation, and city (San Francisco 94115). No license-verified or firm bio page was found; a Wells Fargo 'Client Associates' page mentions only an unnamed 'Leslie'. Web FEC searches found no ideological-PAC records. No TEC lobbyist registration found.",
+  "source_url": "https://indyfin.com/financial-firm-branches/wells-fargo-19616/california/san-francisco/advisors/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-bbe1ae0d-7716-4527-9efd-2eff5661926a",
+  "name": "Sigers, Faye",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'None', employer 'Self', Austin 78723. Searches found no public profile, FEC record, or TEC lobbyist registration for this name. Industry rests on the filed occupation 'None' only. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-e8e3d391-3e9b-4bbb-8a7c-1814a7801380",
+  "name": "pfeil, rick",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed / Not Employed, Taylor TX 76574. Searches found no matching public profile, FEC contributor record, or TEC lobbyist registration. Classification rests on the filed occupation only. No bio page existed to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-ecd4b926-1897-4bc3-8a1f-e391bd445cd2",
+  "name": "Crawford, Michael",
+  "resolved_employer": "Illinois House of Representatives, 31st District (State Rep., D; took office Jan 8, 2025); formerly a higher-education administrator",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "The filing says 'Legislator, IL General Assembly', Oak Lawn IL 60453. The only Michael Crawford in the Illinois General Assembly is Rep. Michael Crawford (D, HD-31), whose district includes parts of Oak Lawn. The caucus bio, read in full, lists prior roles at The Chicago School, City Colleges, Chicago State, and NIU, plus memberships in Phi Beta Sigma and 100 Black Men of Chicago. Those are fraternal/service groups, so they are not recorded. His Gun Violence Prevention committee seat is not an advocacy affiliation, so it is not tagged gun_control. No individual FEC PAC records and no TEC lobbyist registration found.",
+  "source_url": "https://ilhousedems.com/project/michael-crawford",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Illinois House of Representatives (Democratic caucus)", "role": "State Representative, 31st District (D)", "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Michael_Crawford_(politician)",
+    "snippet": "Democratic member of the Illinois House of Representatives for the 31st district; took office January 8, 2025 (104th General Assembly)."}
+  ]
+ },
+ {
+  "donor_id": "tcv-f4dd0673-0489-4c00-af88-dcb429365cbe",
+  "name": "Cook, Francesca",
+  "resolved_employer": "REGENXBIO Inc. (Vice President, Global Pricing and Market Access)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "TheOrg and Wiza list Francesca Cook as VP, (Global) Pricing and Market Access at REGENXBIO, based in Silver Spring MD. That matches the filing (Biotech / Regenxbio / Silver Spring 20901). Earlier, as SVP Policy and Government Affairs at PharmAthene (2010 SEC exhibit), she was a registered federal lobbyist. PharmAthene's self-filed LDA reports list DoD among agencies lobbied and FY2011 Defense Appropriations funding for its nerve-agent bioscavenger among issues, and the company held DoD/Army contracts (Protexia). This tie is historical (circa 2010-2013). Searches found no FEC PAC contributions and no TEC lobbyist registration.",
+  "source_url": "https://theorg.com/org/regenxbio/org-chart/francesca-cook",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "PharmAthene, Inc. (biodefense medical countermeasures; DoD/Army contractor)", "role": "Senior Vice President, Policy and Government Affairs (named 2010); registered federal lobbyist for the company", "category": "military_defense",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1326190/000114420410016742/v179348_ex99-1.htm",
+    "snippet": "'Francesca Cook has been named Senior Vice President, Policy and Government Affairs'; she previously worked in the U.S. Senate and HHS. PharmAthene held DoD contracts, including a $5.7M DoD award for its nerve-agent countermeasure program (https://www.biospace.com/b-department-of-defense-b-awards-5-7-million-contract-to-pharmathene-inc-for-nerve-agent-medical-countermeasure-program)."},
+   {"org": "U.S. Senate Lobbying Disclosure (LDA): PharmAthene self-filed registration", "role": "Listed lobbyist; covered position 'Sr. VP, Policy and Government Affairs'", "category": "military_defense",
+    "source_url": "https://lda.senate.gov/api/v1/filings/f402b48d-e809-42f2-a6ff-fa3ac5c268ba/",
+    "snippet": "Search-indexed LDA text lists Francesca Cook as lobbyist (Sr. VP Policy and Government Affairs). PharmAthene issues include 'chemical nerve agent bioscavenger FY2011 Defense Appropriations funding' and anthrax vaccine procurement, with DoD and HHS among agencies lobbied. The filing page returned a 503 this run."}
+  ]
+ }
+]

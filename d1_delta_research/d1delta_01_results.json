@@ -1,0 +1,245 @@
+[
+ {
+  "donor_id": "01123bc82fe8ca97",
+  "name": "Cook, Taylor",
+  "resolved_employer": "UTSA - Assistant Professor of Instruction, Public Administration (College for Health, Community and Policy)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "UTSA's 2026-27 new-faculty page lists Taylor Cook, PhD, as Assistant Professor of Instruction in Public Administration. That matches the filed occupation (Professor) and employer (UTSA). The 78751 Austin address isn't independently corroborated. FEC web search found no itemized record that could be matched to this person, and the TEC and City of Austin lobbyist registries show no Taylor Cook (the city registry has only Neslie Cook).",
+  "source_url": "https://www.utsa.edu/newfaculty/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "045f750ccffc49da",
+  "name": "Jaffe, Doug",
+  "resolved_employer": "Jaffe Group, LLC / Jetran International (CEO; aircraft leasing and consulting); self-described developer",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Douglas Jaffe is CEO of Jetran, a Horseshoe Bay aircraft consultancy (Delta State 2024 donation story). A 2016 General Aviation News story calls 'Doug Jaffe and his son Jordan' pilots from Austin. A family history says he co-ran Jaffe Group with his father Morris Jaffe, a San Antonio builder and developer. Industry follows his filed occupation (Developer); his documented business is mainly aviation. He gave $500 to Brown on 2026-08-04, the same day as Justin Jaffe (likely the same family, but not confirmed). FEC web search found no itemized records. A 2010 Dallas Morning News snippet describing Doug Jaffe as a major Democratic backer could not be read in full and isn't recorded. Not found in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://generalaviationnews.com/2016/09/19/texas-pilots-make-surprise-donation-to-waco-air-museum",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Jetran International", "role": "CEO", "category": "business", "source_url": "https://agairupdate.com/2024/11/15/dsu-commercial-aviation-program-receives-generous-aircraft-donation-from-jetran", "snippet": "Douglas Jaffe, CEO of Jetran, an aircraft manufacturing consultancy based in Horseshoe Bay, Texas, donated an Ag Cat to Delta State University."}
+  ]
+ },
+ {
+  "donor_id": "05d587411a783c6b",
+  "name": "Clemmons, Jeffrey",
+  "resolved_employer": "Texas Senate - Communications Director for State Sen. Sarah Eckhardt (SD-14)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "His LinkedIn lists him as communications director for Sen. Sarah Eckhardt since January 2025, matching the filed occupation and employer. His X bio says he is a Travis County Democratic precinct chair. A 2022 Austin Bulldog article names him campaign manager for Misael Ramos's 2022 council run; Ramos is the candidate he gave to here. The Bulldog and LinkedIn pages returned 403 and weren't read in full. FEC web search found no records. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://www.linkedin.com/in/jeffrey-clemmons/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Travis County Democratic Party", "role": "Precinct chair", "category": "political", "source_url": "https://x.com/JeffreyinATX", "snippet": "X profile describes him as a Travis County Democratic precinct chair."},
+   {"org": "Misael Ramos for Austin City Council (2022)", "role": "Campaign manager", "category": "political", "source_url": "https://theaustinbulldog.org/2022-runner-up-ramos-works-to-win/", "snippet": "Austin Bulldog (2022) identifies Jeffrey Clemmons as campaign manager for Misael Ramos."}
+  ]
+ },
+ {
+  "donor_id": "291a225d271bb04b",
+  "name": "Nevill, Heather",
+  "resolved_employer": "Google Cloud - Head of Security & Compliance Architects, North America",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Her LinkedIn and an event speaker bio describe an Austin-area Heather Nevill who leads cloud security and compliance architecture or sales engineering at Google Cloud. That matches the filed employer (Google) and occupation (Engineering). The bio lists earlier roles at Comcast Business, Purple Crayons Interactive, and Sprint Nextel, and a Baylor degree. No policy-advocacy boards found. FEC web search found no records. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://www.linkedin.com/in/heathernevill/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d3d74c2a546eae8",
+  "name": "Hendler, Scott",
+  "resolved_employer": "Hendler Flores Law, PLLC - CEO & Managing Attorney (personal injury and consumer law)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Scott Martin Hendler founded HendlerLaw in 1993; it is now Hendler Flores Law, co-founded with Lulu Flores. The firm's office is at 901 S. MoPac, Austin 78746, which matches his zip, and he files as a self-employed attorney. Directory profiles list memberships in the Texas Trial Lawyers Association, ATLA, and ABOTA, plus a past seat on the Rothko Chapel board. An aggregator (somaliscan) lists about $61.6K in giving (25 FEC donations totaling $37.7K, 18 state donations totaling $23.9K), but the page returned 404, so recipients couldn't be checked against the PAC list. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://lawyers.oyez.org/lawyer/scott-martin-hendler-287246",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Texas Trial Lawyers Association", "role": "Sustaining member", "category": "business", "source_url": "https://lawyers.oyez.org/lawyer/scott-martin-hendler-287246", "snippet": "Profile lists sustaining membership in the Texas Trial Lawyers Association (a plaintiff-bar trade group active in tort-policy fights)."}
+  ]
+ },
+ {
+  "donor_id": "2f68a9184711f567",
+  "name": "Haney, Casey",
+  "resolved_employer": "Registered Texas state lobbyist / public affairs consultant (Congress Ave, Austin)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "The TEC's 2026 registered-lobbyist list includes 'Haney, Casey (Mr.)', and the 2026 subject-matter list gives a Congress Avenue address in Austin. That fits the 78701 zip and the filed 'Consultant' occupation. He also appears on the 2018, 2019, 2023, and 2025 lists. TransparencyUSA lists clients including Texas Children's Hospital, Texas Association of Health Plans, DHR Health, Motorola Solutions, Light & Wonder, Texas Nurse Practitioners, Conservation Equity Management, and Blakemore & Associates, which he was earlier tied to. None are oil/gas, defense, gun, or Israel/Palestine advocacy clients. TransparencyUSA returned 403, so I couldn't read his page in full, and I couldn't directly verify a 2023 Moak Casey & Associates contract the search surfaced. Not a City of Austin registrant. FEC web search found no records.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Texas Ethics Commission lobbyist registry", "role": "Registered state lobbyist (2026; also 2018, 2019, 2023, 2025)", "category": "political", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf", "snippet": "2026 Lobbyist List ordered by lobbyist name includes 'Haney, Casey (Mr.)'."},
+   {"org": "TransparencyUSA - Casey Haney lobbyist profile", "role": "Public Affairs Consultant; clients include Texas Children's Hospital, Texas Assn. of Health Plans, Motorola Solutions, Light & Wonder", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/casey-haney-80341", "snippet": "Lobbyist page lists clients such as Texas Association of Health Plans, DHR Health, Motorola Solutions Inc, Light & Wonder Inc, Texas Children's Hospital."}
+  ]
+ },
+ {
+  "donor_id": "3ab80c693579c872",
+  "name": "Beliveau, Emmett",
+  "resolved_employer": "C3 Presents (Live Nation) - Chief Operating Officer",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "C3 Presents COO since about 2015. He served seven years in senior Obama White House roles, including Director of Advance and Director of the White House Military Office (a government post, not a defense-contractor tie). He was CEO of the 2009 Presidential Inaugural Committee. Rally Austin, the city-created Austin Economic Development Corp., lists him as a board member; a search snippet says FY26 chair. He lives in Austin, consistent with 78703. One search summary claimed an Austin campaign filing listed him as a lobbyist at Metcalfe Wolff Stuart & Williams. I couldn't read that PDF, and he isn't in the City of Austin lobbyist registry, so that claim isn't recorded. Not found in TEC lists. FEC web search found no itemized records. LittleSis has a profile but blocked access; campaignmoney.com shows $17,500 in 2020-cycle contributions.",
+  "source_url": "https://rallyaustintx.community.diligentoneplatform.com/portal/members.aspx?id=17",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Rally Austin (Austin Economic Development Corporation)", "role": "Board member (Music Commission nominee; reported FY26 chair)", "category": "civic", "source_url": "https://rallyaustintx.community.diligentoneplatform.com/portal/members.aspx?id=17", "snippet": "Board member listing: COO at C3 Presents; seven years in senior Obama White House positions; CEO of 2009 Presidential Inaugural Committee."},
+   {"org": "Health Alliance for Austin Musicians", "role": "Board and Executive Committee member", "category": "civic", "source_url": "https://rallyaustintx.community.diligentoneplatform.com/portal/members.aspx?id=17", "snippet": "Board and Executive Committee member of the Health Alliance for Austin Musicians."},
+   {"org": "Music Moves Austin", "role": "Board member", "category": "civic", "source_url": "https://rallyaustintx.community.diligentoneplatform.com/portal/members.aspx?id=17", "snippet": "Board Member of Music Moves Austin."},
+   {"org": "Obama White House / 2009 Presidential Inaugural Committee", "role": "Director of Advance; CEO of Inaugural Committee", "category": "political", "source_url": "https://www.presidency.ucsb.edu/documents/press-release-the-president-elect-announces-more-key-white-house-staff", "snippet": "President-elect named Emmett Beliveau Director of Advance; he was executive director and CEO of the Presidential Inaugural Committee 2009."}
+  ]
+ },
+ {
+  "donor_id": "467f50d51c77ea9f",
+  "name": "Bland, Joe",
+  "resolved_employer": "Not employed (possible link to Joe Bland Construction, L.P., unconfirmed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filed as Not Employed, Lakeway 78734. Joe Bland Construction, L.P. is an Austin heavy-civil contractor (offices on Dessau Rd and W Parmer Ln). An aggregator lists a 'Bland, Joe' donor tied to that company, giving mostly at state level, including to a Victoria County GOP account, 2000-2019. That page returned 404 and gives no address, so I can't tie it to this 78734 donor. No construction industry assigned. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://levelset.com/contractors/joe-bland-construction-lp",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "576b76cf8aba19f7",
+  "name": "Cocco, Gerry",
+  "resolved_employer": "Astound Broadband (filed as 'Austound') - Programmer",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer fallback. No public profile found for Gerry or Gerald Cocco in Austin. Classified from the filed occupation (Programmer) and employer (Astound, an internet/cable provider). No FEC records found. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e2054ce935a8b30",
+  "name": "Kim, Peter",
+  "resolved_employer": "Austin ISD - Substitute teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Employer fallback. This is a very common name and no public profile could be tied to this 78754 donor. Classified from the filed occupation and employer (Austin ISD substitute teacher). No FEC records matched. No 'Kim, Peter' in TEC lists (only other Kims) or the City of Austin registry.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a17f36b191e066f",
+  "name": "Jones, Rickey",
+  "resolved_employer": "Travis County District Attorney's Office - Director, Youth Justice & Violence Prevention Division (prosecutor)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "The Travis County DA's site has a bio for Rickey Jones, a prosecutor since 2017 and now Director of the Youth Justice & Violence Prevention Division. He previously ran a private criminal defense firm and has degrees from UT Austin, Texas State, and Wisconsin Law. A 2024 DA release calls him Trial Court Senior Director. That matches the filed 'Attorney / Travis County'. The bio page returned 404 on fetch, so it wasn't read in full. No FEC records found. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://districtattorney.traviscountytx.gov/?p=3948",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b443484430a7677",
+  "name": "Richards, Dan",
+  "resolved_employer": "Richards Rodriguez & Skeith LLP - Partner (business, construction, civil-rights and eminent-domain litigation)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Daniel Read Richards is a partner at Richards Rodriguez & Skeith, 611 W 15th St, Austin. He was licensed in 1994, is an American College of Trial Lawyers Fellow since 2023, and belongs to the Austin Bar Association. His practice includes business, construction, civil-rights, and eminent-domain litigation. Gov. Ann and David Richards had a lawyer son named Dan, but no source explicitly confirms this is the same person, so that link isn't recorded. FEC web search found no clearly matched records. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://profiles.superlawyers.com/texas/austin/lawyer/daniel-r-richards/3e180311-8fac-4e28-8666-98e8fce477a5.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "85c8e56a87e5a498",
+  "name": "Bartram, Ashley",
+  "resolved_employer": "Not employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filed as Not Employed, 78746. LinkedIn and a 2019 bankruptcy service list show an Austin-area Ashley (F.) Bartram at the Texas Attorney General's Office, and a JDRF Austin board member by that name. People-search sites list an Ashley N. Bartram in West Lake Hills. I can't confirm which, if any, is this donor, so nothing is attributed. No FEC records found. Not in the TEC lists (only John W. Bartram) or the City of Austin registry.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a6b72c321c64710c",
+  "name": "Brooks, William",
+  "resolved_employer": "Esther's Follies - cast member (actor/comedian)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Esther's Follies' cast page lists 'Billy Brooks': an Austin native trained at the American Academy of Dramatic Arts, with eight years of commercial and TV work in Los Angeles, now doing improv and stand-up. That matches the filed occupation (Actor) and employer. The bio mentions no boards or advocacy. No FEC records found. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://www.esthersfollies.com/cast/billy-brooks",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ce5301eff153deb8",
+  "name": "Harris, Suzanne",
+  "resolved_employer": "Retired; director, Ron and Suzanne Harris Family Foundation (West Lake Hills)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "The Ron and Suzanne Harris Family Foundation (EIN 27-2345853) is a West Lake Hills grantmaker; filings list Suzanne Harris as a director. It gave about $515K to 32 grantees in 2025. West Lake Hills matches the 78746 zip. City-data shows a $1,000 donation from a Suzanne Harris at 78746 to Donald J. Trump for President (2019-11-13). That's an individual campaign gift, not a PAC in the tracked categories. Her former career wasn't found, so industry is Not Employed (retired). Not in the TEC or City of Austin lobbyist registries (the city registry has Dana and Jerry L. Harris only).",
+  "source_url": "https://www.guidestar.org/profile/27-2345853",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Ron and Suzanne Harris Family Foundation", "role": "Director", "category": "civic", "source_url": "https://impala.digital/public/profiles/27-2345853/overview", "snippet": "Private family foundation in West Lake Hills, TX; filings list Suzanne Harris as a director alongside Ron Harris."}
+  ]
+ },
+ {
+  "donor_id": "e76398bed245ff30",
+  "name": "Cobb, Nichelle",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Employer fallback. No public profile found for Nichelle Cobb in Austin or Texas. Classified from the filed occupation (Retired). No FEC records found. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-00943206-ab83-4348-bee3-b0fa73e29e50",
+  "name": "Tabrizi, Saurah",
+  "resolved_employer": "Student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Employer fallback. No public profile found for 'Saurah Tabrizi' (the name may be misspelled in the filing). Richmond, VA 23221 address; filed as Student. No FEC records matched (other Tabrizi donors on aggregators have no Richmond tie). Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-0fb375c4-a286-4545-8078-40f4a467140c",
+  "name": "Jaffe, Justin",
+  "resolved_employer": "Jaffe Energy, LLC - President (per LinkedIn); filed as Oil and Gas / PetroLink; also linked to Jetran International",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "His LinkedIn lists a Justin Jaffe as President of Jaffe Energy. Jaffe Energy, LLC is a Texas oil and gas operator (Horseshoe Bay; Terry County leases), registered in 2017. ZoomInfo ties a Justin Jaffe to a jetraninternational.com email, the family aviation firm run by Doug Jaffe. He filed as 'Oil and Gas', employer 'PetroLink'; I found no Texas oil company by that name (Petrolink is a Houston wellsite-data firm), so the employer string is unexplained. He gave $500 to Brown on the same day as Doug Jaffe. LinkedIn wasn't read in full. No FEC records found. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": "https://www.linkedin.com/in/justin-jaffe-8b88801a4/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Jaffe Energy, LLC", "role": "President", "category": "oil_gas", "source_url": "https://www.linkedin.com/in/justin-jaffe-8b88801a4/", "snippet": "LinkedIn headline: 'Justin Jaffe - President at Jaffe Energy'; Jaffe Energy, LLC is a Texas oil & gas operator with Terry County leases (texas-drilling.com operator 427319)."}
+  ]
+ },
+ {
+  "donor_id": "tcv-18e0ad0e-3efc-46a5-8957-a5e648d752a2",
+  "name": "Jordan, Glynn",
+  "resolved_employer": "LaunchDarkly - Product Specialist",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer fallback. A directory profile lists a Glynn Jordan as a technical consultant at BigCommerce in Austin. That conflicts with the filed Frisco 75033 address and LaunchDarkly employer, so it isn't attributed. Classified from the filed occupation and employer. No FEC records found. Not in the TEC or City of Austin lobbyist registries.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-222df144-5104-47b5-8a1f-6220422e72c8",
+  "name": "Northington, Robert",
+  "resolved_employer": "Endeavor Real Estate Group - Managing Principal (known as Charlie Northington; retail and mixed-use development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "TREC broker license 374763 belongs to Robert Charles Northington, designated broker for Endeavor 2015 Management LLC. Endeavor's team page lists 'Charlie Northington' as Managing Principal and Investment Committee member, focused on retail and mixed-use urban infill. He was at Endeavor since 2005 and a Trammell Crow principal from 1997 to 2001. That matches the filed 'CRE / Endeavor'. His full bio lists memberships in the Real Estate Council of Austin (RECA) and ICSC, and a seat on the Helping Hand Home community advisory board. TEC lists a John W. Northington Jr., a different person. Not a City of Austin registrant. FEC web search found no records.",
+  "source_url": "https://www.endeavor-re.com/?p=870",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Endeavor Real Estate Group", "role": "Managing Principal; Investment Committee", "category": "business", "source_url": "https://www.endeavor-re.com/?p=870", "snippet": "Managing Principal focusing on retail development and mixed-use urban infill development; member of Investment Committee."},
+   {"org": "Real Estate Council of Austin (RECA)", "role": "Member", "category": "business", "source_url": "https://www.endeavor-re.com/?p=870", "snippet": "Professional memberships: The Real Estate Council of Austin and the International Council of Shopping Centers."},
+   {"org": "Helping Hand Home (Austin)", "role": "Community Advisory Board", "category": "civic", "source_url": "https://www.endeavor-re.com/?p=870", "snippet": "Serves on the Community Advisory Board of Helping Hand of Austin; previously chaired a Dell Children's gala."}
+  ]
+ }
+]

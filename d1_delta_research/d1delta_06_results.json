@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "tcv-985d1534-73ea-40f6-9192-917310cb361d",
+  "name": "Vera, Edilio",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "The only information comes from the filing: Houston 77083, 'Not Employed', $195 to Ramos. No public profile found to confirm identity. Web searches of FEC and aggregator records found nothing for this name. Not on the TEC 2026 registered-lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f45815b4194b4e0",
+  "name": "Webb, Marilynn",
+  "resolved_employer": "Self-employed lawyer (per filing)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Filing lists Lawyer/Self, Austin 78722, $175 to Ramos. Searches of Austin and Texas attorney directories found no listing under this spelling, so identity is unconfirmed and the industry comes from the filing only. Pipeline FEC fields: 6 donations, lean 1.0. Web FEC searches found no ideological-PAC records. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5bfca24f1f8318d8",
+  "name": "Sayde, Rox",
+  "resolved_employer": "Equality Texas (Constituent Services and Operations Associate)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Equality Texas's staff page lists 'Rox' as a Constituent Services and Operations Associate who joined as a field intern in Feb 2025 and holds a Boston University MSW. This matches the filing (Social Worker, Equality Texas, Austin 78751). A search snippet gives the full name 'Rox Sayde'. The full bio lists no board seats or other memberships. Sayde is not a registered lobbyist (TEC 2026 list), and no FEC records were found.",
+  "source_url": "https://www.equalitytexas.org/about/our-staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Equality Texas", "role": "Constituent Services and Operations Associate (staff; joined Feb 2025 as field intern)", "category": "political", "source_url": "https://www.equalitytexas.org/about/our-staff/", "snippet": "Rox (they/them) joined Equality Texas as a field intern in February 2025. Equality Texas runs a 501(c)(4) statewide LGBTQ political advocacy arm."}
+  ]
+ },
+ {
+  "donor_id": "ac912db690f0c3f4",
+  "name": "Ortiz, Lilly Ann",
+  "resolved_employer": "Self-employed actress (per filing)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Filing lists Actress/Self employed, Austin 78758, $175 to Goodwin. IMDb and web searches found no matching actor profile, so the industry comes from the filing only. Pipeline FEC fields: 35 donations, lean 1.0. Web FEC searches found no ideological-PAC records under this name. Not on the TEC 2026 lobbyist list; the only Ortiz on it, Megan Ortiz of Houston, is unrelated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-51ccdcc6-a120-437d-9729-4b948010002e",
+  "name": "St. Clair, Chris",
+  "resolved_employer": "CACI International Inc. (Software Engineer)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists Software Engineer at CACI International, Austin 78759, $171.61 to Ramos. CACI is a defense and intelligence contractor with an Austin facility supporting Army, Navy and intelligence-community missions. The filing shows only a rank-and-file engineering role, not an executive, board, owner or lobbyist role, so no military_defense affiliation is recorded. No public profile was found. No FEC records were found for this name. Not on the TEC 2026 lobbyist list; Tyler St. Clair, a Sausalito CA tech-company registrant, is unrelated.",
+  "source_url": "https://investor.caci.com/news/news-details/2019/CACI-Expands-Technology-and-Expertise-Investments-in-Texas-Technology-Corridor",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "132c5bc93e337e77",
+  "name": "Gall, Sue",
+  "resolved_employer": "Austin Energy (IT Application Analyst)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Filing lists IT Application Analyst at Austin Energy, Austin 78702, $155 to Ramos. Austin Energy is the City of Austin's municipally owned utility, so this donor is a City employee. No public profile was found beyond the filing. No FEC records were found. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ae581710609426c",
+  "name": "Abraham, Nisha",
+  "resolved_employer": "Macmillan Learning (Senior Manager / Learning Specialist)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Filing lists Senior Manager and Learning specialist at Macmillan Learning, Austin 78757. A UT Austin podcast bio describes an Austin-based Nisha Abraham who coordinated Supplemental Instruction at the Sanger Learning Center. Other profiles show her later at the edtech firm Engageli. That learning-science career fits the Macmillan Learning role, but no source names the Macmillan job itself. The full bio lists no boards or memberships. No FEC records were found. Not on the TEC 2026 lobbyist list.",
+  "source_url": "https://podcasts.la.utexas.edu/sounds-of-success/speaker/nisha-abraham/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0ede7fb6b220994c",
+  "name": "Carr, Stuart",
+  "resolved_employer": "Texas Home Redevelopment (Manager, per filing)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Filing lists Manager at Texas Home Redevelopment, Austin 78745, $150 to Goodwin. A directory describes Texas Home Redevelopment, LLC as a residential homebuilder with about 65 Texas construction projects, but no public record found names Stuart Carr as a principal. Pipeline FEC fields: 8 donations, lean 0.0. Web FEC searches found no ideological-PAC records. Not on the TEC 2026 lobbyist list. No public record links this donor to a registered lobbyist household.",
+  "source_url": "https://www.zabalist.com/directory/4277de41-b8af-4c43-8d37-e8819fa56f4b/texas-home-redevelopment-llc-main",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26005399489c66b7",
+  "name": "Robinson, Shuronda",
+  "resolved_employer": "Adisa Communications (President & CEO)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "NAACP Austin and ULI profiles identify Shuronda Robinson as founder (1995), President and CEO of Adisa Communications, an Austin PR firm. That matches the filing (Public Relations/Self, Austin 78721). She advises Texas policymakers on public programs and works with City and County leaders on the homelessness response system. Pipeline FEC fields: 40 donations, lean 1.0. Web FEC searches found no ideological-PAC records. Not on the TEC 2026 lobbyist list.",
+  "source_url": "https://www.naacpaustin.com/blog/archives/04-2022",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Adisa Communications", "role": "Founder, President & CEO", "category": "business", "source_url": "https://www.naacpaustin.com/blog/archives/04-2022", "snippet": "President & CEO of Adisa Communications, a boutique PR firm she founded in 1995. Clients include Frost Bank, Lenovo and Wal-Mart. She has advised Texas policymakers on social services, transportation and infrastructure programs."},
+   {"org": "City of Austin / Travis County homelessness response system", "role": "Consultant working with City, County and community leaders", "category": "civic", "source_url": "https://www.naacpaustin.com/blog/archives/04-2022", "snippet": "Works with City, County and community leaders on transforming the homelessness response system."},
+   {"org": "The Adisa Foundation", "role": "Founder (2021)", "category": "civic", "source_url": "https://www.naacpaustin.com/blog/archives/04-2022", "snippet": "Launched The Adisa Foundation in 2021 to provide leadership development, training and grants."},
+   {"org": "Black Austin Democrats", "role": "Emerging Leader Award recipient (2014)", "category": "political", "source_url": "https://www.naacpaustin.com/blog/archives/04-2022", "snippet": "Emerging Leader Award, Black Austin Democrats (2014)."}
+  ]
+ },
+ {
+  "donor_id": "52b212bdb09e4046",
+  "name": "Thompson, Rita",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, Austin 78748, $150 to Ramos. No public profile was found for this name and zip. Pipeline FEC fields: 13 donations, lean 1.0. Web FEC searches found no ideological-PAC records. Not on the TEC 2026 lobbyist list; the three Thompson registrants are unrelated men.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e3066a993326a84",
+  "name": "Schoenfield, Miriam",
+  "resolved_employer": "University of Texas at Austin (Associate Professor of Philosophy)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Daily Nous reports that Miriam Schoenfield moved from MIT to UT Austin as associate professor of philosophy in January 2020. Her fields are epistemology, metaethics, philosophy of race and gender, and applied ethics. This matches the filing (Professor, UT Austin, 78722). The full bio and an advocacy and open-letter search found no policy-advocacy affiliations. Pipeline FEC fields: 58 donations, lean 1.0. Web FEC searches found no ideological-PAC records. Not on the TEC 2026 lobbyist list.",
+  "source_url": "https://dailynous.com/2019/10/02/schoenfield-mit-ut-austin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "86e83170c8d0c73b",
+  "name": "Klindt, Tamara",
+  "resolved_employer": "Self-employed disaster manager (per filing)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Disaster Manager/self, Austin 78723, $150 to Ramos. No public profile was found in emergency-management or general searches. Pipeline FEC fields: 104 donations, lean 1.0. Web FEC and aggregator searches found nothing under this name, and the direct FEC API lookup was rate-limited. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b33e81d416154ca8",
+  "name": "Musselman, KT",
+  "resolved_employer": "Williamson County (Justice of the Peace, Precinct 1)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "KT Musselman, a Democrat, has served as Williamson County JP Precinct 1 since 2019 and is unopposed in 2026. That matches the filing (Justice of the Peace, Williamson County, Austin 78717). Their Run for Something bio describes a progressive organizer, former publisher of Burnt Orange Report, original ActBlue employee, Imagine Austin task-force member and Austin Charter Review Commission member. Pipeline FEC fields: 200 donations, lean 1.0. No ideological-PAC records were found. Not on the TEC 2026 lobbyist list.",
+  "source_url": "https://directory.runforsomething.net/candidate/w5761/musselman-kt/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Williamson County Justice of the Peace, Precinct 1", "role": "Elected Justice of the Peace (Democrat), since 2019", "category": "political", "source_url": "https://www.wilcotx.gov/jp1", "snippet": "Has served as Justice of the Peace for Precinct 1 since 2019 (county site; Ballotpedia lists the term ending 2026)."},
+   {"org": "Run for Something", "role": "2018 endorsed candidate", "category": "political", "source_url": "https://directory.runforsomething.net/candidate/w5761/musselman-kt/", "snippet": "Listed as a 2018 Run for Something endorsement, with a bio describing a progressive organizer."},
+   {"org": "ActBlue", "role": "Original employee (former)", "category": "political", "source_url": "https://directory.runforsomething.net/candidate/w5761/musselman-kt/", "snippet": "Was an original employee at ActBlue."},
+   {"org": "Burnt Orange Report", "role": "Former publisher", "category": "political", "source_url": "https://directory.runforsomething.net/candidate/w5761/musselman-kt/", "snippet": "Former publisher of Burnt Orange Report."},
+   {"org": "City of Austin Charter Review Commission", "role": "Commissioner (as of 2018 bio)", "category": "civic", "source_url": "https://directory.runforsomething.net/candidate/w5761/musselman-kt/", "snippet": "Currently sits on the Austin Charter Review Commission; previously served on the Imagine Austin Comprehensive Plan Task Force."}
+  ]
+ },
+ {
+  "donor_id": "e837be33b4982097",
+  "name": "Comfort, Eula",
+  "resolved_employer": "PISD (Teacher, per filing)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filing lists TEACHER at 'PISD', Houston 77062, $150 to Brown. 'PISD' near 77062 could mean Pasadena ISD or Pearland ISD, and no public profile confirms which. The industry comes from the filing only. Pipeline FEC fields: 4 donations, lean 1.0. Web FEC searches found no records. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ef18abdf7e12ee09",
+  "name": "Jackson, Ralph",
+  "resolved_employer": "U.S. Department of Veterans Affairs (Mental Health / Substance Use Disorder)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Filing lists Mental Health/Substance Disorder at the Department of Veterans Affairs, Glendale AZ 85303, $150 to Anderson. This is an out-of-state donor. No public profile was found to confirm the VA role. Pipeline FEC fields: 123 donations, lean 0.02. Web searches of FEC and aggregator records could not match a Glendale-AZ Ralph Jackson, and the direct FEC API lookup was rate-limited, so the PAC breakdown is unverified. Not on the TEC 2026 lobbyist list; the Jackson registrants there are unrelated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f1ba5ac1ea51009c",
+  "name": "Smith, Arden",
+  "resolved_employer": "Not Employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, Austin 78731, $150 to Ramos. No public profile or obituary was found for this name. Pipeline FEC fields: 5 donations, lean 1.0. Web FEC searches found no records. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3c1bad10-15db-4bff-980d-496c8d585b6f",
+  "name": "perl, aaron",
+  "resolved_employer": "Sales (no employer given)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists only 'Sales' as both occupation and employer, Austin 78722, $150 to Ramos on 2026-10-20. No public profile was found, and 'Sales' alone does not map to a taxonomy industry. Web FEC searches found no records. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-3ed05ab8-d2e8-4e07-be1c-8310829ee2c5",
+  "name": "Ellison, Kimberly",
+  "resolved_employer": "Ascension Texas / Seton (Nurse Practitioner)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "MediFind lists a Kimberly Ellison with a Texas nurse-practitioner license at Seton Family of Doctors (Ascension) in Austin. That matches the filing (Nurse Practitioner, Ascension Texas, Austin 78745). A search summary of a TheOrg profile mentioned a housing-nonprofit board seat, but the page returned 404 and could not be verified, so it is not recorded. No FEC records were found. Not on the TEC 2026 lobbyist list.",
+  "source_url": "https://www.medifind.com/doctors/kimberly-ellison/9687017",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-68af71f8-cec5-499d-9d7c-06457f74cede",
+  "name": "STRAINE, ANTHONY",
+  "resolved_employer": "Thales (Data Scientist)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filing lists Data Scientist at Thales, Austin 78724, $150 to Ramos. Thales Group is a French aerospace, defence and digital-security company. The filing shows a staff data-science role, not an executive, board, owner or lobbyist role, so no military_defense affiliation is recorded. No public profile was found. No FEC records were found. Not on the TEC 2026 lobbyist list.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "tcv-846f24c5-ff23-4432-855e-1b427fe6ec91",
+  "name": "McMichael, Douglas",
+  "resolved_employer": "Westlake Anesthesia Group, PA (Anesthesiologist)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Provider directories, including a CMS-based group listing, show anesthesiologist Douglas (Hale) McMichael at Westlake Anesthesia Group PA in West Lake Hills TX. That matches the filing (Anesthesiologist, Westlake Anesthesia Group, Austin 78757). Some directories also list Dallas-area locations. No board or advocacy roles were found. No FEC records were found. Not on the TEC 2026 lobbyist list.",
+  "source_url": "https://www.marithealth.com/e/westlake-anesthesia-group-aj83b",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

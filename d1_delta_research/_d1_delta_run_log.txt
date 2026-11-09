@@ -1,0 +1,7 @@
+CYCLE: 12 batches pending
+(node:6820) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+OK 1 d1delta_04.json [329s] cost=$4.219284899999998 running=$4.22
+OK 2 d1delta_02.json [423s] cost=$3.263813700000001 running=$7.48
+OK 3 d1delta_03.json [450s] cost=$6.3772389 running=$13.86
+OK 4 d1delta_01.json [478s] cost=$4.1717368 running=$18.03

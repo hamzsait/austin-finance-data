@@ -298,7 +298,173 @@ Shadows 1,084 → 1,107 (+23 = step 3's `joint: 23`; all 23 new parents have `do
 
 ## Step 5 — FEC enrichment + dedup
 
-<!-- TODO: filled by the agent that runs this step -->
+Give every donor identity that step 3 left at `fec_matched = 0` a federal giving history: `fec_enrich.py` queries the FEC `schedule_a` endpoint by name (+ state TX, + zip when the result set is large), keeps the rows whose name/zip composite scores ≥ 75, classifies each receiving committee Dem/Rep/Other (`fec_committee_cache`), and writes `fec_partisan_lean` (= Dem $ / (Dem $ + Rep $)), `fec_total_dem/rep/other/donations`, `fec_matched = 1`, `fec_matched_at` to `donor_identities`, plus the confirmed receipts to `fec_contributions_raw`. It ends with `resolve_from_fec_employers()`, which fills `resolved_industry` from the FEC employer string for donors still unresolved (`resolved_confidence = 'fec-employer'`). Then `fec_dedup_pass.py` repairs receipts the fuzzy match attributed to more than one identity. Nothing on the site reads `fec_matched`; the profile partisan panel reads `fec_partisan_lean` / `fec_total_*` (and the TEC columns), so this step is what makes the new donors' lean dots appear.
+
+### 5a. Sizing and the `--limit` rule
+
+```sql
+SELECT COUNT(*) FROM donor_identities WHERE fec_matched = 0 OR fec_matched IS NULL;   -- step 3 printed this as "donors awaiting FEC"
+```
+
+The script selects `fec_matched = 0 OR NULL` ordered by `total_donated DESC` and stops at `--limit` (default 2000). The old backlog (identities never enriched, 3,142 before this run) competes with the newly minted ones for those slots, and big new donors sort ahead of small old ones, so a `--limit` below the count above leaves an unpredictable mix behind. **Always set `--limit` ≥ the count** (5000 for the November run). There is no `--since`/targeted mode; the only selector is the flag. `--reset` zeroes every flag and re-processes all 46k identities — never use it in a refresh.
+
+### 5b. Rate limit, wall-clock, and what `--dry-run` really does
+
+- Keys: `.env` holds `FEC_API_KEY_1..3` (check with `grep -cE '^FEC_API_KEY_[1-9]=.+' .env`). The in-process limiter allows `800 × keys` calls per 10 min (2,400 with three keys); on a 429 the key goes into cooldown for `Retry-After + 5` s and the next key is used. 500/503 back off and retry; **504 and connection errors are not retried past the request layer**: the donor is logged `[ERROR] <name>: 504 Server Error …`, counted in `errors=`, and **left at `fec_matched = 0`**, so a second identical run picks exactly those up. Run a second pass; names that 504 again are the persistent residue described below, not a retry target.
+- Calls per donor: 1 schedule_a page, +1 if the name has > 300 TX hits (zip narrowing), +1 per additional 100-row page, +1 per committee not yet in `fec_committee_cache` (7,899 cached before this run, so almost none). Heavy donors at the top of the ordering cost 5–10 s each; the long tail of one-hit/no-hit donors costs ~1 s. Budget by the observed figures in the worked example, not by the limiter.
+- `--dry-run` skips the `donor_identities` / `fec_contributions_raw` writes but **makes every API call** (and still inserts into `fec_committee_cache`). A full dry run therefore costs the same hours as the real run. Use it time-boxed (`timeout 300 …`) to confirm the `Processing N donors` line and that results come back, then run for real.
+- Output is block-buffered: only the `[i/N] Processing: …` line every 50 donors, `[rate limit]`/`[429 …]` and `[ERROR]` lines flush immediately. A log that has not grown for 30 min while the process is alive means a stuck HTTP call (60 s timeout × 8 retries worst case per call); report rather than restart blindly.
+- **The `[ERROR]` lines print the full request URL including `api_key=`.** Keep the logs in `_scratch/` (gitignored) and redact before pasting anywhere: `sed -i -E 's/api_key=[A-Za-z0-9]+/api_key=REDACTED/g' _scratch/fec_*.log`.
+
+```bash
+PY="/c/Users/Hamza Sait/AppData/Local/Microsoft/WindowsApps/python3.13.exe"
+timeout 300 "$PY" fec_enrich.py --dry-run --limit 5000 > _scratch/fec_$(date +%F)_dryrun.log 2>&1   # time-boxed sanity check
+"$PY" fec_enrich.py --limit 5000 > _scratch/fec_$(date +%F).log 2>&1; echo "EXIT=$?" >> _scratch/fec_$(date +%F).log   # background it; hours
+"$PY" fec_enrich.py --limit 500  > _scratch/fec_$(date +%F)_pass2.log 2>&1   # pass 2: only the errors= leftovers remain fec_matched=0; expect the same 504s to repeat
+```
+
+Nothing else may hold the DB for writing while it runs (it commits after every donor). Read-only inspection is fine (WAL).
+
+**Run the real pass as a detached Windows process (recommended on this machine).** A background shell started from a Claude Code session is a child of the session: the harness kills background shells when the machine runs low on memory ("stopped because the system is running low on memory" — it happened at 237/4,674 on 2026-11-09, 13 minutes in, with nothing wrong in the script), and the Bash tool's foreground timeout caps at 10 minutes. `Start-Process` from PowerShell puts the interpreter outside the session's process tree, so neither applies. Redirect both streams and set the working directory explicitly, because the script opens `austin_finance.db` relative to CWD and loads `.env` relative to its own path:
+
+```powershell
+# PowerShell 5.1, from anywhere
+$repo = "C:\Users\Hamza Sait\Electoral\decode-politics\austin-finance-data"
+$py   = "C:\Users\Hamza Sait\AppData\Local\Microsoft\WindowsApps\python3.13.exe"
+$d    = Get-Date -Format yyyy-MM-dd
+Start-Process -FilePath $py -ArgumentList "fec_enrich.py --limit 5000" -WorkingDirectory $repo `
+  -RedirectStandardOutput "$repo\_scratch\fec_${d}_resume.log" -RedirectStandardError "$repo\_scratch\fec_${d}_resume.err" `
+  -WindowStyle Hidden -PassThru | Select-Object Id, StartTime
+# progress: the log grows one "[i/N] Processing: …" line per 50 donors
+Get-Content "$repo\_scratch\fec_${d}_resume.log" -Tail 3
+# finished when the process is gone and the log ends with "DB summary:" … "Rep-leaning (<=0.4): N"
+Get-Process python3.13 -ErrorAction SilentlyContinue
+```
+
+Resuming after any interruption (harness reap, reboot, Ctrl-C) is the same command: every donor is committed individually and only `fec_matched = 0` rows are selected, so it continues where it stopped and also retries the `[ERROR]` donors. Redact the key from the logs when the run is done (`.err` is normally empty; `requests` warnings would land there).
+
+**504 residue.** A subset of names 504s on every attempt: the API cannot serve the first page of `schedule_a` for them within its gateway timeout because the TX result set is enormous — very common surname + first name pairs (`Smith, Michael`, `Davis, Lisa`, `Moore, Joseph`, `Richardson, Michael`) and names with a stray leading initial glued to the surname (`S Llorens, John`, `G Baratz, Adam`, `D Martin, James`; the lone-letter token matches nearly everything in FEC's name search). The zip narrowing never engages because it needs that first page. Treat them as a persistent residue, not a retry target: after the second pass reports the same `errors=` count, stop. They stay `fec_matched = 0` (no lean, no receipts) and the site renders them as donors without federal history, which is the correct conservative outcome. A future fix is script-side (narrow by zip up front when the surname is in a common-name list, or strip glued initials in `_parse_name`), not more retries.
+
+### 5c. What a miss looks like
+
+Every processed donor ends with `fec_matched = 1` and a timestamp in `fec_matched_at`, including the misses: no FEC rows for the name, or rows that fail the ≥ 75 composite, give `fec_total_donations = 0`, `fec_partisan_lean NULL`, totals 0 and no `fec_contributions_raw` rows. Hits with only Other-classified committees get `fec_total_donations > 0` but `fec_partisan_lean NULL` (the profile panel shows them as federal donors without a lean). Names that do not parse to a surname are stamped matched without a query. So `fec_matched = 0` after the run means exactly "errored (504 residue) or never reached", nothing else.
+
+```sql
+SELECT fec_matched, fec_total_donations > 0 AS hit, fec_partisan_lean IS NOT NULL AS lean, COUNT(*)
+  FROM donor_identities WHERE fec_matched_at >= '<run date>' GROUP BY 1,2,3;
+SELECT COUNT(*) FROM donor_identities WHERE fec_matched = 0 OR fec_matched IS NULL;   -- = the 504 residue (139 in Nov 2026)
+```
+
+### 5d. Dedup pass
+
+`fec_dedup_pass.py` (stdlib only; `--db`, `--dry-run`) finds `fec_sub_id`s held by two or more `donor_id`s in `fec_contributions_raw` — the same federal receipt counted once per local fragment, which inflates every FEC-derived number by the fragment count — and resolves each shared-receipt component three ways: **MERGE** fragments that are near-certainly one person (compatible names plus same zip5 / employer-token overlap / FEC address trail, or a distinctive spacing/compound/reversed-name pattern; remaps `campaign_finance.donor_id/_2`, `fec_contributions_raw`, `texas_contributions_raw.austin_donor_id`, `joint_donations`, folds the identity rows, records `identity_merges`, deletes the losers); **STRIP** receipts between fragments that stay separate people (owner by FEC-row zip, then employer token, then trail, then a confirm-score margin ≥ 10; the other copies are deleted); **REVIEW** the undecidable rest, left in place and written to `fec_dedup_review.csv` (tracked in git; one row per donor per sub_id, so the line count moves with the review remainder, not just this run's new donors). It then recomputes `fec_total_*` / `fec_partisan_lean` from the deduped raw table for every `fec_matched = 1` donor. Idempotent; the dry run rewrites the tracked review CSV too (so `git diff --stat fec_dedup_review.csv` after a dry run already shows the delta, and `git checkout fec_dedup_review.csv` restores it if you decide not to apply). The real run takes minutes (the merge remaps `campaign_finance` and the recompute scans the whole raw table); the dry run seconds.
+
+```bash
+"$PY" fec_dedup_pass.py --dry-run > _scratch/fec_dedup_$(date +%F)_dryrun.log 2>&1
+"$PY" fec_dedup_pass.py           > _scratch/fec_dedup_$(date +%F).log 2>&1
+git diff --stat fec_dedup_review.csv
+```
+
+Read the dry run's `MERGE:` lines before applying: every merge deletes a `donor_id`, which changes `COUNT(DISTINCT donor_id)` in the race stats and profiles (that is the point — fragments of one person were two "donors"). Merged ids that appear in `review_queue` or `identity_merges` stay recorded there.
+
+Verification:
+
+```sql
+SELECT COUNT(*) FROM (SELECT fec_sub_id FROM fec_contributions_raw WHERE fec_sub_id IS NOT NULL AND fec_sub_id != ''
+                       GROUP BY fec_sub_id HAVING COUNT(DISTINCT donor_id) > 1);        -- remaining = review remainder only
+SELECT COUNT(*) FROM identity_merges WHERE person_key = 'fec-dedup-shared-subid' AND merged_at >= '<run date>';
+SELECT COUNT(*) FROM donor_identities;                                                   -- down by the merge count
+SELECT COUNT(*) FROM campaign_finance WHERE donor_id IN (SELECT merged_donor_id FROM identity_merges);  -- must be 0
+```
+
+### 5e. Spectrum flags (deferred — decision for the user)
+
+`fec_dedup_pass.py` ends with "re-run tec_partisan_aggregate.py, ip_spectrum_flag.py, fossil_fuel_flag.py, gun_lobby_flag.py". Since the Aug 2026 reorg all four live in `archive/scripts/` and none was run in the November refresh. What they do and what skipping them costs:
+
+| Script | Writes | Needs re-run because | DB path after reorg |
+|---|---|---|---|
+| `ip_spectrum_flag.py` | `fec_committee_cache.ip_category`; `donor_identities.ip_spectrum/ip_tier/ip_total/ip_committees` (full reset + recompute from `fec_contributions_raw`) | new FEC receipts to AIPAC/J Street/etc. committees are not flagged; merged fragments keep the winner's old totals. **Read by `generate_profile_data.py`** (IP spectrum panel) | `os.path.dirname(__file__)/austin_finance.db` → resolves to `archive/scripts/austin_finance.db`, which does not exist (sqlite would create an empty file and fail). Copy to the root to run. |
+| `fossil_fuel_flag.py` | `fec_committee_cache.fossil_category`; `donor_identities.ff_*` (same pattern) | same; not read by the current profile generator | same as above |
+| `gun_lobby_flag.py` | `fec_committee_cache.gun_category`; `donor_identities.gun_*` | same; not read by the current profile generator | relative `"austin_finance.db"` → runs from the repo root as is |
+| `tec_partisan_aggregate.py` | `donor_identities.tec_total_dem/rep/other/donations`, `tec_matched` from `texas_contributions_raw` | only if the dedup pass **merged** identities that had TEC rows (the merge COALESCEs, never sums, the `tec_*` columns and remaps `austin_donor_id`); FEC enrichment itself does not touch TEC data. Read by the profile partisan panel | relative `"austin_finance.db"` → runs from the repo root as is |
+
+All four are full-reset-then-recompute, pure SQL over tables already in the DB (no network), print reports to stdout only, and have no `--dry-run`. The `ice_*` columns on `donor_identities` have no writer script in this repo yet (issue #37). Exact commands from the repo root, if the user wants them run (seconds each; then the profiles must be rebuilt again):
+
+```bash
+"$PY" archive/scripts/tec_partisan_aggregate.py      > _scratch/tec_agg_$(date +%F).log 2>&1
+"$PY" archive/scripts/gun_lobby_flag.py              > _scratch/gun_flag_$(date +%F).log 2>&1
+cp archive/scripts/ip_spectrum_flag.py . && "$PY" ip_spectrum_flag.py > _scratch/ip_flag_$(date +%F).log 2>&1; rm ip_spectrum_flag.py
+cp archive/scripts/fossil_fuel_flag.py . && "$PY" fossil_fuel_flag.py > _scratch/ff_flag_$(date +%F).log 2>&1; rm fossil_fuel_flag.py
+```
+
+(The copies are needed only because of the `__file__`-relative path; `git status` must not show them afterwards. Alternative: edit both scripts' `DB_PATH` to `Path(__file__).resolve().parents[2] / "austin_finance.db"` and run them in place.)
+
+### 5f. Verify (read-only)
+
+```sql
+-- coverage, whole table and restricted to donors on the new rows
+SELECT COUNT(*) FILTER (WHERE fec_matched = 1) processed,
+       COUNT(*) FILTER (WHERE fec_total_donations > 0) fec_hit,
+       COUNT(*) FILTER (WHERE fec_partisan_lean IS NOT NULL) has_lean,
+       COUNT(*) FILTER (WHERE fec_matched = 0 OR fec_matched IS NULL) pending
+  FROM donor_identities;
+SELECT COUNT(*) FILTER (WHERE di.fec_matched = 1), COUNT(*) FILTER (WHERE di.fec_total_donations > 0),
+       COUNT(*) FILTER (WHERE di.fec_partisan_lean IS NOT NULL), COUNT(*)
+  FROM (SELECT DISTINCT donor_id FROM campaign_finance WHERE date_reported > '<since>'
+         AND transaction_id NOT LIKE 'TRAVIS%' AND is_joint_shadow IS NOT 1 AND donor_id IS NOT NULL) n
+  JOIN donor_identities di USING (donor_id);
+-- per candidate, cycle window = CANDIDATE_CYCLES start year (Ramos 2023, first-time filers all rows), incl. donor_id_2
+SELECT COUNT(*) donors, COUNT(*) FILTER (WHERE fec_total_donations > 0) fec_hit,
+       COUNT(*) FILTER (WHERE fec_partisan_lean IS NOT NULL) lean, COUNT(*) FILTER (WHERE fec_matched = 0) pending
+  FROM (SELECT donor_id FROM campaign_finance WHERE recipient = '<recipient>' AND contribution_year >= '<start>'
+         AND transaction_id NOT LIKE 'TRAVIS%' AND is_joint_shadow IS NOT 1 AND donor_id IS NOT NULL
+        UNION SELECT donor_id_2 FROM campaign_finance WHERE recipient = '<recipient>' AND contribution_year >= '<start>'
+         AND transaction_id NOT LIKE 'TRAVIS%' AND is_joint_shadow IS NOT 1 AND donor_id_2 IS NOT NULL) d
+  JOIN donor_identities di USING (donor_id);
+```
+
+### Worked example: November 2026
+
+Run 2026-11-09 (times CST = UTC−6; `fec_matched_at` stamps are UTC). Three keys in `.env`. Baseline (`_scratch/fec_2026-11-09_baseline.txt`): `fec_matched = 0` **4,674** = 3,142 old backlog + 1,532 minted in step 3.
+
+Enrichment took three runs and **≈ 5.4 h of API time** in total:
+
+1. `fec_enrich.py --limit 5000` from a Claude Code background shell, 00:53:37–01:06:27: 237 donors (≈ 3.2 s each at the heavy top of the ordering), 4 × 504, then **killed by the harness under system memory pressure** (`_scratch/fec_2026-11-09.log`). DB left consistent.
+2. Same command relaunched detached via `Start-Process` (procedure in 5b) at ≈ 01:30, finished 05:44 (**≈ 4 h 14 min** for 4,437 donors, ≈ 3.4 s/donor average — the API was slow and 504-ing intermittently): `matched=2115 no_history=1773 errors=162`, 6 × 429 key rotations, no limiter sleeps; employer pass 4,891 candidates → **339 resolved**. `_scratch/fec_2026-11-09_resume.log` (`.err` empty).
+3. Pass 2 (`--limit 500`), finished 06:42 after ≈ 58 min for 162 donors: `matched=8 no_history=15 errors=139`, employer pass +2. Nearly all of that hour was the 139 repeat-504s at ≈ 25 s each. `_scratch/fec_2026-11-09_pass2.log`.
+
+Time-boxed dry run beforehand (`_scratch/fec_2026-11-09_dryrun.log`, 00:47:53–00:52:53): `Processing 4674 donors (dry_run=True)`, 34 donors with results, 8 × 504, stopped by `timeout 300` on purpose (exit 124 noted in the log).
+
+**504 residue: 139 donors** (`_scratch/fec_2026-11-09_after_enrich.txt`), 58 of them `tcv-` ids minted this refresh, 33 with a glued leading initial. Examples: `s llorens, john` ($1,500), `Murphy` (surname only), `G Baratz, Adam`, `Oertli, T.`, `Richardson, Michael`, `Porter, Michael`, `D Martin, James`, `Davis, Lisa`, `Moore, Joseph`, `JOSEPH JR, JOE L`, `Smith, Jo Lynn`. Left at `fec_matched = 0`; not a retry target. On D1: Ramos 24 (`Smith, Michael`, `Smith, Justin`, `Scott, Karen`, `Roberts, Carl`, `Foley, Mike`, `J Davis, Tom`, `S Butler, Julia`, `S., Mary` …), Anderson 3 (`Brown, Emily`, `Crawford, Michael`, `Davis, Lisa`), Brown 1 (`Moore, Joseph`), Goodwin and Riggins 0.
+
+Dedup: dry run 06:47:47–06:47:59 (12 s), real run 06:48:30–06:53:34 (5 min); logs `_scratch/fec_dedup_2026-11-09_dryrun.log`, `_scratch/fec_dedup_2026-11-09.log`. Enrichment had raised the shared-sub_id count from 28,966 to **53,610** (the new identities fuzzy-matched receipts already held by existing ones). Plan: 1,100 components / 2,315 ids; **merge 104 people from 212 ids** (links: exact 87, compound 7, fec-span-thin-emp 6, nickname 4, fec-span 3, reversed 3, fec-span-thin 1 — mostly a `tcv-` identity from step 3 whose name is byte-identical to an existing one, e.g. `Archuleta, Danielle | Archuleta, Danielle`, plus `Newman, Jake | Newman, Jacob`, `C Garcia, Julio | Garcia Jr, Julio`, `Bell-Sittler, Wolf | sittler, wolf`); strip 1,010 components. Applied: remapped 173 `campaign_finance.donor_id` + 2 `donor_id_2` rows, 6,461 `fec_contributions_raw` rows (5,820 duplicate receipts absorbed), **108 donor_ids merged into 104 people**, **9,590 duplicate receipt rows deleted** (dry run said 9,763; the merge absorbed the difference first), **39,081 sub_ids → review**, aggregates recomputed for 46,125 donors. Integrity: 0 `campaign_finance` rows point at a merged id, 0 merged ids remain in `donor_identities`. `fec_dedup_review.csv` 60,289 → **81,853 lines**; `git diff --stat` = 81,781 insertions / 60,217 deletions (the file is regenerated in component order, so the diff is a near-total rewrite even though the review set only grew by ≈ 10k sub_ids). Spectrum flags (5e) **not run** — decision pending.
+
+| | Before | After enrichment | After dedup |
+|---|---|---|---|
+| `donor_identities` | 46,372 | 46,372 | **46,264** (−108 merged) |
+| `fec_matched = 0` | 4,674 | **139** | 139 |
+| `fec_matched = 1` | 41,698 | 46,233 | 46,125 |
+| with FEC receipts (`fec_total_donations > 0`) | 26,580 | 28,810 | **28,633** (+2,053) |
+| with `fec_partisan_lean` | 26,069 | 28,253 | **28,081** (+2,012) |
+| Dem ≥ 0.6 / Rep ≤ 0.4 | 17,120 / 8,032 | 18,573 / 8,676 | 18,456 / 8,630 |
+| `resolved_confidence = 'fec-employer'` | 2,896 | 3,219 | 3,179 |
+| `fec_contributions_raw` rows | 2,301,733 | 2,476,847 | 2,461,437 |
+| `fec_committee_cache` | 7,899 | 8,027 | 8,027 |
+| `identity_merges` | 2,550 | 2,550 | 2,658 |
+| shared sub_ids (2+ donors) | 28,966 | 53,610 | 39,081 |
+| donors on the new rows: total / `fec_matched=0` / receipts / lean | 4,865 / 2,371 / 1,654 / 1,626 | 4,865 / 66 / 2,893 / 2,831 | 4,842 / 66 / 2,831 / 2,771 |
+
+D1 (profile cycle windows: Ramos `contribution_year >= 2023`, the other four all filings; distinct donors incl. `donor_id_2`, shadows excluded). Donor counts fall where the dedup merged a `tcv-` duplicate into an existing identity (Goodwin 1, Ramos 4); receipt counts fall slightly after dedup because stripped duplicates belonged to the other fragment:
+
+| Candidate | Donors before → after | `fec_matched=0` before → after | FEC receipts before → after enrich → after dedup | Partisan lean before → after enrich → after dedup |
+|---|---|---|---|---|
+| Goodwin, Amber K. | 593 → 592 | 50 → 0 | 359 → 402 → **391** (66%) | 355 → 396 → **385** (65%) |
+| Ramos, Misael D. | 809 → 805 | 494 → 24 | 216 → 507 → **497** (62%) | 214 → 501 → **491** (61%) |
+| Anderson, Alexandria M. | 251 → 251 | 49 → 3 | 129 → 152 → **150** (60%) | 128 → 151 → **149** (59%) |
+| Brown, Steven A. | 167 → 167 | 40 → 1 | 78 → 101 → **100** (60%) | 77 → 100 → **99** (59%) |
+| Riggins, Portia T. | 7 → 7 | 4 → 0 | 2 → 3 → **3** | 2 → 3 → **3** |
+
+Because the merges changed `COUNT(DISTINCT donor_id)` for Goodwin and Ramos, steps 7–8 must be re-run after this step (the 2026-11-09 00:35 race stats and D1 profiles predated it; the closing pass in steps 9–10 rebuilt everything from the final DB). Count files: `_scratch/fec_2026-11-09_baseline.txt`, `_scratch/fec_2026-11-09_after_enrich.txt`, `_scratch/fec_2026-11-09_after_dedup.txt`.
 
 ## Step 6 — Edit `austin_races.json`
 
@@ -390,7 +556,7 @@ Why 2026-10-24: the 8th-day-before-election report (filed 10-26) covers 09/25–
 
 ## Step 7 — Rebuild profiles
 
-`build_candidate.py` runs `generate_profile_data.generate()` against the DB and writes three files per slug: `<slug>_data.json`, `<slug>_all_donations.json`, `austin/<slug>/index.html` (from `profile_template.html`, with the OG tags baked). Run it once per candidate whose rows changed.
+`build_candidate.py` runs `generate_profile_data.generate()` against the DB and writes three files per slug: `<slug>_data.json`, `<slug>_all_donations.json`, `austin/<slug>/index.html` (from `profile_template.html`, with the OG tags baked). Run it once per candidate whose rows changed — which, after a citywide fetch plus identity/FEC changes, is every profile: use `rebuild_all_ooa.py` (step 9) for the full set and the per-slug commands below only for a new candidate's first build or a targeted re-run.
 
 **Order:** for 2026 race candidates (`CANDIDATE_SLUGS`), `build_candidate.og_meta_for` bakes the profile's OG description ("Raised $X from N donors this cycle…") from the shared `austin_race_stats.json`. Run step 8's `build_race.py --all` **before** this step so the stats file is fresh, or the profile OG tags carry the previous round's totals (fix after the fact with `build_candidate.py --html-only --slug <slug>`, which re-renders HTML without re-exporting JSON).
 
@@ -469,12 +635,246 @@ Browser check (chrome-devtools, cache bypassed): eyebrow "OPEN SEAT · RUNOFF DE
 
 ## Step 9 — Landing refresh
 
-<!-- TODO: filled by the agent that runs this step -->
+`austin_landing.json` is the data behind the officeholder cards on the `/austin/` hub (`austin/index.html` renders it client-side) **and** the source of the OG description on every officeholder profile (`build_candidate.og_meta_for` reads the card's `raised` / `donors` / `topGroups` for the 17 roster slugs; 2026 challengers in `CANDIDATE_SLUGS` read `austin_race_stats.json` instead). Two scripts, neither takes flags; run them in this order.
+
+- `refresh_landing_cards.py [slug ...]` (no args = every card). For each card whose `<slug>_data.json` exists and that is not marked `soon`, it copies `hero.total_raised` → `raised` (`$3.2M` / `$361K` style), `hero.unique_donors` → `donors`, `hero.employer_affiliated_pct` → `empPct`, and the top four `interest_groups` excluding `Unknown` → `topGroups` (label, formatted amount, bar width). Nothing else on the card is touched; `soon` cards are never flipped. It reads the **built JSON**, not the DB, so it can only be as fresh as step 7.
+- `update_landing_cycles.py`. Stamps `on_ballot` on every card from `CANDIDATE_CYCLES` (`generate_profile_data.py`): true when the slug's last cycle has `election_year == datetime.now().year` and its label is not `Final Term`. For on-ballot cards it queries the DB (`SUM(COALESCE(balanced_amount, contribution_amount))`, `COUNT(DISTINCT donor_id)` over `contribution_year >= start_year`, positive rows only) and writes `raised_cycle` / `donors_cycle`, with `show_cycle = bool(raised)`; off-ballot cards lose those two keys and get `show_cycle: false`. The hub shows `show_cycle` cards as "raised this cycle" and the rest as "raised overall", the same split the profile pages use. Because it keys on the **current calendar year**, running it in January after an election flips every card back to "overall" — intended for a post-election refresh, but remember it if the December-runoff filings are ingested after New Year.
+
+**Rebuild everything first.** A DB refresh is citywide: the new rows, the identity merges, the FEC employer fills and the research scrub move every profile's totals, donor counts, FEC-lean share, OOA card and industry mix, not just the refreshed district's. `refresh_landing_cards.py` reads every `<slug>_data.json`, so a partial step 7 leaves cards that disagree with their own profile pages (the drift that produced 14 stale cards by 2026-08-17). For a data refresh, step 7 is therefore `rebuild_all_ooa.py`, not a per-district list:
+
+```bash
+PY="/c/Users/Hamza Sait/AppData/Local/Microsoft/WindowsApps/python3.13.exe"
+"$PY" -u build_race.py --all              > _scratch/build_race_$(date +%F).log  2>&1   # step 8 first: fresh stats for the challenger OG tags
+"$PY" -u rebuild_all_ooa.py               > _scratch/rebuild_all_$(date +%F).log 2>&1   # every *_data.json in the root → JSON + HTML
+"$PY" -u refresh_landing_cards.py         > _scratch/landing_$(date +%F).log     2>&1
+"$PY" -u update_landing_cycles.py        >> _scratch/landing_$(date +%F).log     2>&1
+# officeholder OG tags were baked from the OLD landing file above; re-render the 17 roster pages (HTML only, 5 s)
+for slug in $("$PY" -c "import json;print(' '.join(c['slug'] for c in json.load(open('austin_landing.json',encoding='utf-8'))['candidates']))" | tr -d '\r'); do
+  rec=$("$PY" -c "import json;print(json.load(open('${slug}_data.json',encoding='utf-8'))['meta']['candidate_name'])" | tr -d '\r')
+  "$PY" -u build_candidate.py --html-only --recipient "$rec" --slug "$slug" >> _scratch/rerender_landing_$(date +%F).log 2>&1
+done
+```
+
+`rebuild_all_ooa.py` has no flags: it globs `*_data.json` in the repo root (34 files on 2026-11-09: the 12 race candidates in `CANDIDATE_SLUGS`, the 6 Travis County officeholders, and 16 current or former council members and the mayor), takes each recipient string from its own `meta.candidate_name`, and runs `generate_profile_data.generate()` plus `build_candidate.make_profile_html()` per slug, collecting failures instead of stopping (`Done. N/34 rebuilt. FAILED: [...]` on the last line). A profile with no `_data.json` yet (a new candidate) is not in the glob and must be built once with `build_candidate.py --recipient … --slug …` first (step 7 rules). Nobody else may hold the DB open while it runs.
+
+Why the re-render loop: the dependency is circular — the landing file is built from the profile JSON, and officeholder profile HTML bakes its OG text from the landing file. `rebuild_all_ooa.py` therefore renders the officeholder pages against the previous landing snapshot (Alter's page read "raised $343K from 850 donors" while the refreshed card said $361K / 894). `--html-only` re-renders from the template without re-exporting JSON; `--recipient` is required by the CLI but unused on the HTML-only path, so the slug's own `meta.candidate_name` is the safe value (`--slug` alone works for the 12 `ROSTER` slugs; `fuentes`, `harpermadison`, `siegel`, `velasquez`, `qadri` need `--recipient`). The `tr -d '\r'` matters: Python's `print` emits CRLF when piped in Git Bash, and a trailing `\r` in `$slug` breaks the path.
+
+**Ellis caveat.** `CANDIDATE_CYCLES['ellis']` still ends in a 2026 cycle, so `update_landing_cycles.py` stamps her `on_ballot: true`, `show_cycle: true`, "$113K this cycle (424 donors)", although she missed the ballot (petition shortfall) and is not running. Left as is in the November 2026 refresh because her card copy, `austin_races.json` D8 entry and race-page bio are all part of the pending D8 editorial pass (step 6e); fix there, either by closing her 2026 cycle in `CANDIDATE_CYCLES` or by adding an explicit not-on-ballot override set to `update_landing_cycles.py`. `harpermadison` (`on_ballot: true`, `show_cycle: false`, $0 this cycle) is the designed zero-cycle fallback and needs nothing.
+
+Verify: `git diff austin_landing.json` must touch only `raised` / `donors` / `empPct` / `topGroups` / `on_ballot` / `show_cycle` / `raised_cycle` / `donors_cycle` (equal insertions and deletions, no whole-file CRLF churn — `refresh_landing_cards.py` writes `\n`, `update_landing_cycles.py` writes the platform default, which has not caused churn on this machine). Every `raised` / `donors` on a card must equal the hero of its `<slug>_data.json`; every `raised_cycle` must equal the slug's row in `austin_race_stats.json` where one exists (same query, same window). Then check the hub in the browser (step 10).
+
+### Worked example: November 2026
+
+Run 2026-11-09 after `build_race.py --all` (4 s) and `rebuild_all_ooa.py` (**196 s**, 34/34 rebuilt, no failures; log `_scratch/rebuild_all_2026-11-09.log`). Both landing scripts together took 2 s (`_scratch/landing_2026-11-09.log`); the 17-page re-render 5 s (`_scratch/rerender_landing_slugs_2026-11-09.log`). `git diff --stat austin_landing.json`: 62 insertions / 62 deletions. `update_landing_cycles.py` reported `8/17 on this November's ballot` (harpermadison, velasquez, alter, ellis, qadri, brown, shea, morales), identical to the previous stamp — no `on_ballot` flips.
+
+| Card | What moved |
+|---|---|
+| velasquez | $265K → **$291K**, 845 → 913 donors, empPct 87.8 → 85.5, cycle $97K/335 → **$123K/418**, topGroups 4th Legal → Education |
+| alter | $343K → **$361K**, 850 → 894, empPct 88.1 → 86.6, cycle $184K/599 → **$203K/644** |
+| qadri | $444K → **$463K**, 1,867 → 1,941, empPct 92.9 → 91.6, cycle $259K/1,054 → **$278K/1,139** |
+| watson, fuentes, ellis, duchen, shea, morales | `topGroups` amounts ± $1K (industry re-resolution); duchen 4th Technology → Legal |
+| laine, siegel, brown, duchen, shea, morales | `empPct` ± 0.1–0.7 |
+| harpermadison, travillion, howard, gomez | unchanged |
+
+The three big moves are the October filings for D3/D5/D9 incumbents, which no earlier step had rebuilt (the first D1 pass rebuilt only the five D1 profiles) — exactly the inconsistency the "rebuild everything" rule prevents. Ellis stayed `on_ballot: true` (see caveat).
 
 ## Step 10 — Sitemap + verify
 
-<!-- TODO: filled by the agent that runs this step -->
+### 10a. Sitemap
 
-## Step 11 — Delta affiliation scrub
+```bash
+"$PY" generate_sitemap.py          # → sitemap.xml written: N URLs (M pages skipped)
+git diff --stat sitemap.xml        # expect no change unless a page was added or removed
+```
 
-<!-- TODO: filled by the agent that runs this step -->
+No flags. It walks every `index.html` under the repo root (skipping `.git`, `archive/`, `docs/`, `_scratch/`, `_deprecated/`, templates), keeps the pages whose `<link rel="canonical">` points at their own URL and that are not `http-equiv="refresh"` stubs, drops the `EXCLUDE` set (`/coming-soon/`), and rewrites `sitemap.xml`. Regenerated profile and race pages keep their canonical, so a refresh normally produces **no diff**; a new candidate directory under `austin/` appears automatically once its page is built. If the diff shows a page disappearing, its canonical was lost in a template change — fix the template, not the sitemap. November 2026: 57 URLs, 1 skipped (`/coming-soon/`), `sitemap.xml` identical to HEAD.
+
+### 10b. Verification checklist
+
+Run every item; the worked example records what each produced on 2026-11-09.
+
+1. **Race stats vs the pre-rebuild snapshot.** Copy `austin_race_stats.json` to `_scratch/race_stats_before_final.json` before step 8 and diff per slug afterwards. After steps 2–4 the deltas must equal the new-row sums (step 8 checklist); after step 5 alone, `raised` must be unchanged and `donors` may fall only by that candidate's merge count; `topGroups` move freely (FEC-employer fills and the research scrub re-label donors). Any `raised` change at this point is a sign something wrote to `campaign_finance` after step 4.
+2. **Profile JSON before/after** for the refreshed district (keep copies of the previous `<slug>_data.json` in `_scratch/`): `hero.{total_raised, unique_donors, employer_affiliated_pct}`; `partisan_lean.{matched_donors, total_donors, dem_donors, rep_donors, weighted_lean}` (the FEC pass must raise `matched_donors / total_donors`); `out_of_austin.cycles[].{ceiling, counted_total, pct_of_ceiling}` (unchanged by step 5 — the OOA count is zip-based; `ceiling` reflects `HAD_RUNOFF`); `civic_affiliations.total_donors_with_affiliations` and the `Unknown` entry in `interest_groups` (both move when step 11 was applied). Grep the JSON for two or three organisations the research pass added to confirm they rendered.
+3. **OG tags.** `grep -o 'og:description" content="[^"]*' austin/<slug>/index.html` for one challenger (numbers must match `austin_race_stats.json`) and one officeholder whose landing card changed (numbers must match the refreshed `austin_landing.json`). A stale officeholder value means the step 9 re-render loop did not run.
+4. **Headless render.** `"$PY" -m http.server 8766 --bind 127.0.0.1` from the repo root in a background shell; chrome-devtools `new_page` on `http://127.0.0.1:8766/austin/<race_id>/`, `/austin/<slug>/` for the two or three most-changed profiles, and `/austin/` (hub). **Reload each with `ignoreCache: true` before reading anything**: the browser serves last session's `austin_race_stats.json` / `<slug>_data.json` / `austin_landing.json` from cache and every number on the page will look stale when the files on disk are right. Then `list_console_messages` (expect none) and `evaluate_script` on `document.body.innerText` for the values. Race page: eyebrow/banner/heading per `phase`, money bars = `raised` per slug (the race page shows **no donor counts**), badges per `result`, placeholder note, footer "Data through". Profile: hero numbers — a repeat candidate's profile (Ramos) opens on the **This Cycle** view, so the hero shows the cycle figures that match the race stats, not the lifetime `hero.total_raised`; `.ooa-cycle` card text (ceiling, %, cap wording); the Federal Partisan Lean panel's Dem/Rep counts. Hub: the `N races · M candidates` line, the per-race tag (`RUNOFF DEC 12` …) and kind line (`Open seat · runoff · A vs. B`), card totals. Save full-page screenshots for the PR, close the pages, and stop the server (`Get-NetTCPConnection -LocalPort 8766 -State Listen | % { Stop-Process -Id $_.OwningProcess -Force }`; killing it makes the background task report "failed", which is expected).
+5. **Sitemap** (10a).
+6. **Commit hygiene.** `git status --short`, grouped:
+   - *Tracked, commit:* `austin_race_stats.json`, `austin_races.json`, `austin_landing.json`, `austin/district*/index.html`, every `<slug>_data.json` / `<slug>_all_donations.json` / `austin/<slug>/index.html` the rebuild touched, `fec_dedup_review.csv` (step 5d), `docs/REFRESH_RUNBOOK.md`.
+   - *Untracked, commit:* the research corpus directory for this refresh (`d1_delta_research/` in Nov 2026) **after** deleting its scratch files — chunked/merged intermediates (`_tmp_*`, `_part_*`, `_d05_part*`, `_d08_part*`, `_d1delta_11_part*`, `_merge_*.py`) are driver debris, not corpus; keep the batch inputs, `*_results.json`, the three scripts, `_research_instructions_v3.md`, `_scripts/`, the usage/apply/run logs and `_d1_delta_overridden_labels.csv` (`__pycache__/` is ignored). Step 11 §6 moves it under `archive/` later.
+   - *Never commit:* `*.db` (ignored), `fetch_incremental_new_txns.txt` (untracked by design, archived in step 2b of the next refresh), `_scratch/` (ignored), FEC logs containing `api_key=`. Stray root files that predate the refresh (`watson-out-of-austin.html`, `watson_2022_out_of_austin.csv`, `travis_real_estate_totals.csv`, `assets/*-skyline.jpg`, `assets/texas.jpg`, `instagram_posts/TRAVIS_CAROUSEL_CORRECTIONS.md`) stay out unless the user says otherwise.
+
+### Worked example: November 2026 (closing pass, 2026-11-09)
+
+Runtimes: `build_race.py --all` 4 s · `rebuild_all_ooa.py` 196 s (34/34) · landing scripts 2 s · 17-page re-render 5 s · `generate_sitemap.py` < 1 s. Git: 104 tracked files modified (34 `_data.json`, 33 `_all_donations.json` — Gómez's was byte-identical —, 33 `austin/<slug>/index.html` — Riggins's OG text did not change —, the two JSON files, the landing file, the review CSV, this runbook); the five race pages came out identical to HEAD because no field total changed since the first pass.
+
+Race stats vs `_scratch/race_stats_before_final.json`: `raised` unchanged on all 16; `donors` down only by the step-5 merges — goodwin 593 → 592, ramos 809 → 805, velasquez 421 → 418, weinberg 185 → 184, qadri 1,140 → 1,139, heyman 366 → 364; `topGroups` changed on 15 of 16 (Goodwin Real Estate $14,370 → $18,745, Ramos Technology $7,122 → $9,579).
+
+Final D1 table (`austin_race_stats.json`):
+
+| Slug | Raised | Donors | Contribs | last_gift |
+|---|---|---|---|---|
+| goodwin | $123,010 | 592 | 741 | 2026-10-21 |
+| ramos | $64,992 | 805 | 1,103 | 2026-10-24 |
+| anderson | $38,147 | 251 | 273 | 2026-10-21 |
+| stevenbrown | $38,087 | 167 | 202 | 2026-10-20 |
+| riggins | $1,317 | 7 | 8 | 2026-10-19 |
+
+Profile JSON, first D1 pass (00:35) → final:
+
+| | Goodwin | Ramos | Anderson |
+|---|---|---|---|
+| hero donors / empl.-affil. | 593 → 592 / 87.3 → **89.1%** | 875 → 870 / 60.1 → **67.1%** | 251 / 68.4 → **72.9%** |
+| `partisan_lean` matched / total (share) | 357/593 (60.2%) → **387/592 (65.4%)** | 266/875 (30.4%) → **543/870 (62.4%)** | 128/251 (51.0%) → **149/251 (59.4%)** |
+| Dem / Rep / mixed donors | 309/38/10 → 332/43/12 | 236/24/6 → 467/62/14 | 117/10/1 → 133/14/2 |
+| `weighted_lean` | 0.846 → 0.835 | 0.861 → 0.868 | 0.931 → 0.896 |
+| OOA 2026: ceiling / counted / % | $83,000 / $49,648 / 59.8% (unchanged) | $83,000 / $19,039 / 22.9% (unchanged; 2022 cycle $1,935 → $1,955, 9 → 7 unknown zips) | $50,000 / $9,965 / 19.9% (unchanged) |
+| donors with affiliations | 225 → 240 | 49 → 67 | 34 → 39 |
+| `Unknown` industry $ | 9,387 → 7,102 | 22,609 → 16,756 | 8,531 → 6,681 |
+
+Step-11 entries now in the JSON: Goodwin — "Texas AFL-CIO" 7 → 10 mentions, Tara Pohlmeyer 0 → 8, Casey Haney 2 → 7; Ramos — "Commission Shift" 1 → 8, John Tarleton 0 → 5, Justin Clemmons 3 → 5; Anderson — Mosbacher (Annise Parker, `business`) 0 → 2.
+
+Browser (cache bypassed, no console messages on any page): `/austin/district1/` eyebrow "OPEN SEAT · RUNOFF DECEMBER 12, 2026", heading "Who's in the Runoff", bars $123,010 / $64,992 / $38,147 / $38,087 / $1,317, 2 × ADVANCES TO RUNOFF + 4 × ELIMINATED, Nahas placeholder note, footer "Data through October 24, 2026". `/austin/goodwin/`: 592 unique donors; OOA "$49,648 counted of $83,000 allowed (60%) · Cap: $50,000 general + $33,000 runoff allowance (race advanced to a December runoff)"; Federal Partisan Lean 332 Dem-leaning (85.8%) / 43 Rep-leaning (11.1%). `/austin/ramos/` (opens on This Cycle): $65K / 805 unique donors / 1,103 contributions; OOA "$19,039 counted of $83,000 allowed (23%)" plus the 2022 card "$1,955 of $44,000 (4%)"; partisan panel 424 Dem (86.4%) / 56 Rep (11.4%) for the cycle's donors; Tarleton affiliation chip present. `/austin/`: "5 races · 19 candidates"; D1 tag RUNOFF DEC 12, "Open seat · runoff · Goodwin vs. Ramos · Natasha Harper-Madison not seeking re-election"; D3/D5/D8/D9 still FILING OPEN (pending step 6e). Screenshots (session temp): `C:\Users\HAMZAS~1\AppData\Local\Temp\claude\20bd6791b06d3fee\4644b339-8bd5-4849-807f-9efe1d98613d\scratchpad\final_d1.jpeg`, `final_goodwin.jpeg`, `final_hub.jpeg`.
+
+## Step 11 — Delta affiliation scrub (LLM donor research on newly filed donors)
+
+Re-run the Opus donor-research pass over the donors a new filing round added to a race pool that was already scrubbed once. Written for the District 1 delta (Nov 2026); the same shape works for any `dX`.
+
+**Cost gate.** This step spends real money (≈ $4 per 20-donor batch on `claude-opus-5-5`, ≈ $8 on `opus-4-8`). Prep is free and read-only; nothing calls an LLM until `node _run_*.js`. Always stop after prep and show the user the batch count and estimate before running, and never restart automatically after an interruption — get a go.
+
+**Order relative to step 5.** The apply originally wrote industry labels only `WHERE resolved_industry IS NULL`. In November 2026 the FEC-enrichment employer pass (step 5, `fec-employer`) ran concurrently and stamped heuristic labels on 18 of the delta donors first; of the 65 delta donors blocked by the gate, the heuristic label disagreed with the sourced LLM verdict on 26 (40 %), and every one checked was wrong (Casey Haney `Technology` → registered lobbyist, Consulting / PR; Tara Pohlmeyer `Nonprofit / Advocacy` → Texas AFL-CIO, Labor; John Tarleton `Engineering` → newspaper editor, Media; Donald Stuart `Real Estate` → law-firm partner, Legal; Doug Jaffe `Hospitality / Events` → developer, Real Estate). The gate in `_apply_d1_delta_results.py` is now `WHERE donor_id = ? AND (resolved_industry IS NULL OR resolved_confidence IS NULL OR resolved_confidence NOT LIKE 'llm-research-%')`: a sourced high/medium research verdict overrides keyword heuristics (`employer`, `fec-employer`, `occupation`, `*-incr`, `cross-identity`) but never an earlier `llm-research-*` verdict, so re-applying stays idempotent and two research corpora cannot fight. Keyword heuristics seed a classification; they should not pin it. With that gate the step can run before or after step 5; running it after is simpler because the FEC lean then rides along in the batch input.
+
+### 11.0 What the scrub does
+
+Each 20-donor batch goes to `claude -p` (headless Claude Code CLI, `--max-budget-usd 25` per job, 3–4 parallel workers) with `_research_instructions_v3.md`. The model researches each donor on the web and writes `<batch>_results.json`. The apply step writes `donor_identities.resolved_industry` / `resolved_employer_display` / `resolved_confidence = 'llm-research-<high|medium>'` under the gate above (low-confidence verdicts are kept in the corpus but never applied) and inserts `civic_affiliations` rows keyed on `canonical_name`, deduped on `(canonical_name, organization)`. After the profile rebuild (steps 7–9) the new donors show industry/employer tags and affiliation chips on the race and candidate pages.
+
+Batch input row (one per donor; field names are fixed, the instructions key on `site_total`): `donor_id, name, zip, site_total, gave_to, occupations, employer_strings, locations, first_gift, last_gift, fec_partisan_lean, fec_donation_count`. Result row the apply expects: `donor_id, name, resolved_employer, industry, confidence (high|medium|low), evidence, source_url, searches_run{fec_pac, tx_lobbyist, bio_full_read}, affiliations[{org, role, category, source_url, snippet}]`.
+
+### 11.1 Working dir (repo root, not inside `archive/`)
+
+```bash
+mkdir d1_delta_research
+cp archive/travis_research/_research_instructions_v3.md d1_delta_research/
+cp archive/d1_research/_prep_d1_batches.py   d1_delta_research/_prep_d1_delta_batches.py
+cp archive/d1_research/_run_d1_research.js   d1_delta_research/_run_d1_delta_research.js
+cp archive/d1_research/_apply_d1_results.py  d1_delta_research/_apply_d1_delta_results.py
+```
+
+Research dirs live at the repo root while active and are committed (inputs, results, usage log, scripts), then move under `archive/` when done. `_scratch/` is ignored; `d1_delta_research/` is not (`git check-ignore -v d1_delta_research/x.json` prints nothing). For the next district, copy from `archive/d1_delta_research/` instead: its scripts already carry every fix below.
+
+### 11.2 Fixes the copied scripts need (the archived originals point at paths that no longer exist)
+
+| Script | Archived | Delta |
+|---|---|---|
+| DB path (all three) | `ROOT/../austin_finance.db` → `archive/austin_finance.db` (missing) | `Path(__file__).resolve().parent.parent / 'austin_finance.db'` |
+| Coverage globs (prep) | `../travis_research/donorbatch*.json`, `../travis_research/_pilot_covered_ids.json` | `../archive/travis_research/donorbatch*.json`, `../archive/travis_research/_pilot_covered_ids.json`, `../archive/d1_research/d1batch_*.json`, `../archive/d3_research/d3batch_*.json` — every finished `archive/d*_research/d*batch_*.json`, plus the previous delta's `d1delta_*.json` next time |
+| Batch prefix (prep + driver regex) | `d1batch_NN.json`, `/^d1batch_\d+\.json$/` | `d1delta_NN.json`, `/^d1delta_\d+\.json$/` — a different prefix so the driver can never pick up the finished archive set |
+| Apply glob / gate | `d1batch_*_results.json`; `WHERE resolved_industry IS NULL` | `d1delta_*_results.json`; the widened gate quoted above |
+| Instructions path (driver) | `../travis_research/_research_instructions_v3.md` | local copy in the working dir |
+| Logs (driver) | `_d1_usage_log.jsonl`, `_d1_job_errors.log` | `_d1_delta_usage_log.jsonl`, `_d1_delta_job_errors.log` |
+| Model / workers (driver) | `claude-opus-4-8`, `POOL = 4` | current Opus (`claude-opus-5-5` as of 2026-11; leave the old value in a comment), `POOL = 3` (see 11.4) |
+
+Two coverage rules the original prep lacked — **both required, or already-scrubbed donors are re-billed**:
+
+1. **`identity_merges` remap.** Every FEC dedup (step 5d; also 2026-08-19) merges donor ids (`merged_donor_id → into_donor_id`), and the archived batch files hold the old ids. Covered set = batch ids ∪ their merge targets, followed transitively (`while id in merge_map: id = merge_map[id]`). For D1, 21 of 606 archived ids were dead; all 21 remapped.
+2. **`resolved_confidence LIKE 'llm-research-%'` skip.** Only an apply step writes that value, so it is a direct "already researched" flag that survives id churn.
+
+Keep the pool rule unchanged: donors to the race's candidates (exact `recipient` strings) with `SUM(COALESCE(balanced_amount, contribution_amount)) >= 100`, positive rows only, lifetime (no cycle window), grouped by `donor_id`, no individual/entity filter, no joint special-casing, plus the lowercased `canonical_name` match against `civic_affiliations`. Open the DB read-only in the prep and in the apply's `--dry-run` (`sqlite3.connect('file:…?mode=ro', uri=True)`); other steps may be writing (WAL).
+
+### 11.3 Prep → review → go/no-go
+
+```bash
+cd d1_delta_research && "$PY" _prep_d1_delta_batches.py
+```
+
+It prints pool / covered-by-source / uncovered / per-candidate split and writes `d1delta_NN.json`. Before spending, check: no delta `donor_id` appears in any archived batch after remap; the "already covered" breakdown is plausible (travis/pilot ids pre-date the July migration and are mostly dead, so their coverage shows up under the name match / `llm-research` rows, not under "travis"); uncovered donors whose first gift predates the last scrub are few (threshold crossers plus the handful the last run missed); ~5 random delta donors reconcile to their `campaign_finance` rows (zero-`balanced_amount` restatement rows excluded).
+
+Cost estimate = batches × observed $/batch; wall clock ≈ ceil(batches / POOL) × minutes/batch. Present it and **stop for a go/no-go**.
+
+| Run | Model | $/batch (20 donors) | min/batch |
+|---|---|---|---|
+| D1 Jul 2026 (606 donors) | opus-4-8 | $8.34 | 6–15 (median ~8) |
+| D3 2026 | opus-4-8 | $4.43 | 5–8 |
+| D1 delta Nov 2026 (230 donors) | opus-5-5 | **$3.87** ($1.27–7.27) | 2.5–8 (median 5.8) |
+
+Cost scales with how many donors have a public footprint, not with donor count: the $500-tier batches averaged $4.51, the $100-tier batches $3.72. Use ≈ $4 and ≈ 6 min per batch for the next estimate on opus-5-5.
+
+### 11.4 Run (costs money)
+
+```bash
+cd d1_delta_research && node _run_d1_delta_research.js > _d1_delta_run_log.txt 2>&1   # needs `claude` CLI on PATH; no npm SDK
+```
+
+Resumable: a re-run only picks up batches without a `_results` twin, and workers write the results file only at the end, so an interrupted run leaves no partial files. Watch `_d1_delta_job_errors.log`; a batch that fails 3× is reported FAILED at the end and re-runs by invoking the driver again. Check the first finished batch's `total_cost_usd` in `_d1_delta_usage_log.jsonl` against the estimate.
+
+**Memory reap and relaunch.** Each `claude -p` worker is a full headless Claude Code process (~400 MB plus node children). On 2026-11-09, with `POOL = 4` plus a browser and Discord, the 16 GB laptop went critically low on memory one minute into wave 2 and Claude Code's background-shell reaper killed the driver (same mechanism as the step-5 FEC kill; `_d1_delta_job_errors.log` stayed empty — not a driver or CLI error). Fix that worked: relaunch the driver **detached from Claude Code** (PowerShell `Start-Process node -ArgumentList _run_d1_delta_research.js -WorkingDirectory <dir> -RedirectStandardOutput _d1_delta_run_log_wave2.txt -RedirectStandardError _d1_delta_run_err_wave2.txt -WindowStyle Hidden -PassThru`, as in step 5b) with `POOL = 3`, and wait on it from the session with a single background `until` loop that exits when all results files exist **or** the PID disappears. Alternative: start Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1`. Never restart automatically after a reap.
+
+### 11.5 Verify the corpus, then apply → rebuild
+
+Mandatory before the apply (a small script next to the driver — `verify_d1_delta.py` was written ad hoc in Nov 2026; copy it into the research dir next time): every results file parses; row count = input count; **every result `donor_id` is in its input batch**; every `industry` is a taxonomy label; every affiliation has `org` + `source_url`. The driver's `goodOutput` only fails a batch when > 50 % of ids are missing, so a single mistyped id passes it silently and the apply's `WHERE donor_id = ?` matches nothing (Nov 2026: one UUID group mistyped in batch 01, fixed by string replacement in the results JSON). Spot-read 10–20 donors across candidates, including every `oil_gas` / `military_defense` / `gun_*` row, against the category definitions; **category corrections are made in the results JSON, not in the DB after the fact** — the JSON is the source of truth and the apply is idempotent.
+
+```bash
+"$PY" _apply_d1_delta_results.py --dry-run    # read-only; upper bound — it does not evaluate the gate
+"$PY" _apply_d1_delta_results.py              # writes donor_identities + civic_affiliations; log the output
+```
+
+Before applying with the widened gate, dump the affected donors' previous `(donor_id, canonical_name, resolved_industry, resolved_employer_display, resolved_confidence)` plus the incoming label to a CSV in the research dir (`_d1_delta_overridden_labels.csv`, 65 rows in Nov 2026) so the override is reversible with one UPDATE per row. Then rebuild: steps 7–9 as above (`build_race.py --all`, `rebuild_all_ooa.py`, landing), and eyeball a few newly tagged donors and affiliation chips on the race page and profiles (step 10 records what rendered in Nov 2026). If the apply ran against a worktree copy of the DB, re-run it against the canonical DB after merge.
+
+### 11.6 Archive
+
+```bash
+git mv d1_delta_research archive/d1_delta_research
+```
+
+First delete the driver debris (step 10b item 6), then commit inputs, results, usage log, apply/run logs, the overridden-labels CSV and the scripts together (how `archive/d1_research` etc. got there — one commit at reorg time). Add a line to `archive/README.md` under the per-district research corpora and a one-line entry (batches, $ total, model) to the refresh log for that month. The usage log stays with its corpus; do not merge it into `_d1_usage_log.jsonl`.
+
+### Worked example — District 1 delta, November 2026
+
+Prep 2026-11-09 (read-only). Pool rule: ≥ $100 to Goodwin / Ramos / Anderson / Brown / Riggins.
+
+| | donors |
+|---|---|
+| ≥ $100 D1 donors after the October fetch | 890 |
+| already covered | 657 — `archive/d1_research` live ids 585, `archive/d3_research` 32, via `identity_merges` remap 16, `civic_affiliations` name match only 24, travis/pilot 0 (ids pre-date the July migration) |
+| uncovered but blank `canonical_name` (excluded) | 3 |
+| **uncovered → delta pool** | **230** (130 are `tcv-` identities minted in step 3); Ramos 123, Goodwin 39, Brown 39, Anderson 33, Riggins 1 (a donor can count for several) |
+| batches | **12** (11 × 20 + 1 × 10) |
+
+Checks: 0 delta ids in any archived batch after remap; 0 with `llm-research-%`; min `site_total` $100; 5/5 spot-checks reconciled. Of the 232 October newcomers ≥ $100, 183 were in the delta; 32 were covered by the D3 scrub (Shah/Velásquez real-estate donors who also gave $500 to D1) and 17 were same-name matches to already-researched people. 50 delta donors had a first gift before July: 46 threshold crossers or July gifts first filed in October, ~4 genuine misses from the July run. Estimate presented: 12 × $8.34 = $100 (D1 rate) / 12 × $4.43 = $53 (D3 rate), 20–45 min.
+
+Run 2026-11-09 06:57Z–07:24Z: **12/12 batches, 230/230 donors, $46.49 on `claude-opus-5-5`** ($3.87/batch mean, median 349 s/batch), 0 failed jobs, 0 retries. Wave 1 (batches 01–04, POOL 4) $18.03, finished 07:05Z; **07:06Z reaped** under memory pressure; waves 2–3 (05–12, POOL 3, detached, PID 7604) $28.46, finished 07:23Z. Per batch: 01 $4.17 · 02 $3.26 · 03 $6.38 · 04 $4.22 · 05 $2.32 · 06 $4.52 · 07 $3.02 · 08 $7.27 · 09 $2.55 · 10 $3.57 · 11 $3.94 · 12 (10 donors) $1.27.
+
+Corpus: 230 rows; confidence high 56 / medium 57 / low 117 (51 % low vs July's 22 % — this delta is dominated by $100–$250 Ramos small donors with no public footprint, and opus-5-5 reports LinkedIn / TransparencyUSA 403s and FEC 429s candidly in `searches_run`, 115/230 with a `false`; the apply ignores that field); 223 with an industry; 45 donors / 94 affiliation rows (political 40, civic 38, business 12, military_defense 2, oil_gas 1, gun_control 1 after one edit). Defect fixed before apply: Glynn Jordan's `donor_id` mistyped in batch 01. Spot-reads (17 donors incl. every oil_gas / military_defense / gun row): every call backed by its source and consistent with the filed occupation/employer/zip; same-name people separated explicitly; out-of-state donors that look odd (an Illinois state representative, a Brooklyn editor, a Maryland biotech VP) are what the filings say. One judgment call: Annise Parker (Anderson, $100), `oil_gas` for "20 years in oil and gas, 18 at Mosbacher Energy" without an executive/board/owner role — changed to `business` in `d1delta_09_results.json` (coordinator decision); Francesca Cook's two `military_defense` rows kept (SVP + registered federal lobbyist meets the definition).
+
+Apply (both runs in `_d1_delta_apply_log.txt`; dry run `_d1_delta_apply_dryrun.txt` said 113 donors / 94 rows):
+
+| | first apply (original gate) | second apply (widened gate) | cumulative |
+|---|---|---|---|
+| donor rows updated | 48 (21 high, 27 medium); 65 blocked by existing heuristic labels (`employer` 34, `fec-employer` 18, `occupation` 6, `*-incr` 6, `cross-identity` 1) | **65** (all previously blocked; priors saved to `_d1_delta_overridden_labels.csv`) | **113** `llm-research-*`, 117 left at low confidence |
+| `llm-research-%` rows DB-wide | 1,198 → 1,246 | → **1,311** | |
+| `civic_affiliations` rows | 2,112 → **2,205** (+93; one within-run duplicate — Sylvia Camarillo's Travis County Democratic Party listed twice — collapsed by the dedup) | unchanged | 2,205 |
+| `PRAGMA quick_check` | ok | ok | |
+
+Rebuild and render: done in the closing pass (steps 7–10 above); the step-10 worked example lists the Texas AFL-CIO / Pohlmeyer / Haney (Goodwin), Commission Shift / Tarleton / Clemmons (Ramos) and Mosbacher (Anderson) entries now in the profile JSON and the fall in `Unknown` industry dollars. Archive move (11.6) not yet done; the directory is at the repo root, uncommitted, with 22 scratch intermediates to delete first.
+
+Follow-ups surfaced by the delta (not part of this step): 3 pool donors with empty `canonical_name` — joint-shadow half-rows (`68b3d570cdf64cad` Askew/Brown $450, `c98134210238c32d` Landry/Brown $431.85, `e13e67200499de64` Howsey/Anderson $250); 438 blank-name identities exist DB-wide; fix the identity and they fall into the next delta. 11 `tcv-` newcomers skipped on the name match are identity fragments of already-researched donors (Bledsoe, Phillips ×2, Wendler, Pastor, Gilliland, Cody, Frey, Flahive, Thumlert, Callahan): affiliations render (keyed on name) but they carry no industry tag until merged. Fragments seen inside the delta itself (harmless to apply, belong in identity-frag-scan): Rachel Kitto (04/05), Sara Gore / "Sara D Gore" (09), Lilly Ann / Lilly A Ortiz (06/11), Brandi Nelson (07/11 — different filed employers, may be two people), Shuronda Robinson / "Shuronda Parks" (06/07, both Adisa Communications).
+
+## Post-refresh follow-ups (open after the November 2026 refresh)
+
+Data and identities:
+
+- **Spectrum flags not re-run** (step 5e): `ip_spectrum_flag.py`, `fossil_fuel_flag.py`, `gun_lobby_flag.py`, `tec_partisan_aggregate.py`. The IP spectrum panel on every profile still reflects the pre-refresh FEC receipts and the merged fragments' old totals. Decision for the user; seconds to run, then steps 7–9 again.
+- **139 FEC 504 residue** identities left at `fec_matched = 0` (step 5b); script-side fix (zip-first narrowing for common names, strip glued initials), not retries. 24 are Ramos donors.
+- **1,761 `city26-pending` review-queue pairs** (step 3c; +836 this refresh) — potential duplicate donors until a merge pass reads the queue.
+- **438 blank-`canonical_name` identities** DB-wide (joint-shadow halves; step 11 follow-ups), 3 of them in the D1 pool.
+- **11 `tcv-` identity fragments** of already-researched D1 donors named in step 11 (Bledsoe, Phillips ×2, Wendler, Pastor, Gilliland, Cody, Frey, Flahive, Thumlert, Callahan) plus the five in-delta pairs → identity-frag-scan.
+- "Trust, Ashley" (Goodwin) misclassified ENTITY by `ENTITY_KEYWORDS` (step 3d).
+
+Editorial and site:
+
+- **Ellis `on_ballot`** (step 9): stamped true / "this cycle" although she missed the ballot; fix in the D8 pass (close her 2026 cycle in `CANDIDATE_CYCLES` or add an override to `update_landing_cycles.py`).
+- **D3 / D5 `HAD_RUNOFF` pairs withheld** (`velasquez`, `shah`, `alter`, `weinberg`; step 6c item 3) pending sign-off; until added, those four OOA cards read against $50k instead of $83k.
+- **`runoff_early_voting` "2026-11-30 to 2026-12-08"** on D1 is Chronicle-sourced only; confirm against the Clerk / Travis County before Nov 30 or drop the field (step 6c).
+- **Nahas placeholder** (`has_data: false`, no DB rows, eliminated Nov 3): keep as is for now; after the canvass decide whether a zero-money eliminated card stays on the D1 page or moves to `omitted`.
+- **D3 / D5 / D8 / D9 editorial passes** pending: rosters, `phase`, `result`, `vote_pct`, intros per step 6e's per-district recipe; then `build_race.py --all`, the hub's "N races · M candidates" count (19 → 22 with corrected rosters) and the `index.html` hard-coded "45 candidates decoded" / og alt.
+- Research corpus: delete the 22 scratch intermediates in `d1_delta_research/`, commit, then `git mv` to `archive/` and update `archive/README.md` (step 11.6).
+- Post-canvass and post-Dec 12 edits listed at the end of step 6e.

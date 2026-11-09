@@ -2899,9 +2899,9 @@ function _ooaCycleHTML(c, compact = false, idx = -1) {
     // Cap description line
     let capDesc;
     if (c.had_runoff && c.runoff_limit) {
-      capDesc = `Cap: ${fmtExact(c.limit)} general + ${fmtExact(c.runoff_limit)} runoff allowance (race went to a December runoff)`;
+      capDesc = `Cap: ${fmtExact(c.limit)} general + ${fmtExact(c.runoff_limit)} runoff allowance (race advanced to a December runoff)`;
     } else if (c.had_runoff && !c.runoff_limit) {
-      capDesc = `Cap: ${fmtExact(c.limit)} general &mdash; this race also went to a December runoff, whose separate ` +
+      capDesc = `Cap: ${fmtExact(c.limit)} general &mdash; this race also advanced to a December runoff, whose separate ` +
                 `allowance for ${c.election_year} was never published and is not included`;
     } else {
       capDesc = `Cap: ${fmtExact(c.limit)} per election`;

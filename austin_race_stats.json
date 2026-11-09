@@ -1,62 +1,62 @@
 {
  "goodwin": {
   "raised": 123010,
-  "donors": 593,
+  "donors": 592,
   "contributions": 741,
-  "avg": 207.44,
+  "avg": 207.79,
   "first_gift": "2026-02-06",
   "last_gift": "2026-10-21",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 14370,
+    "amt": 18745,
     "w": 100
    },
    {
-    "label": "Nonprofit / Advocacy",
-    "amt": 13862,
-    "w": 96
+    "label": "Legal",
+    "amt": 14412,
+    "w": 77
    },
    {
-    "label": "Legal",
-    "amt": 13737,
-    "w": 96
+    "label": "Nonprofit / Advocacy",
+    "amt": 13747,
+    "w": 73
    },
    {
     "label": "Government",
-    "amt": 11630,
-    "w": 81
+    "amt": 12350,
+    "w": 66
    }
   ],
   "cycle_start_year": 0
  },
  "ramos": {
   "raised": 64992,
-  "donors": 809,
+  "donors": 805,
   "contributions": 1103,
-  "avg": 80.34,
+  "avg": 80.74,
   "first_gift": "2026-02-23",
   "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Technology",
-    "amt": 7122,
+    "amt": 9579,
     "w": 100
    },
    {
     "label": "Education",
-    "amt": 5214,
-    "w": 73
+    "amt": 6126,
+    "w": 64
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 4181,
-    "w": 59
+    "amt": 5403,
+    "w": 56
    },
    {
-    "label": "Not Employed",
-    "amt": 3911,
-    "w": 55
+    "label": "Government",
+    "amt": 4772,
+    "w": 50
    }
   ],
   "cycle_start_year": 2023
@@ -70,24 +70,24 @@
   "last_gift": "2026-10-21",
   "topGroups": [
    {
-    "label": "Technology",
-    "amt": 3760,
+    "label": "Education",
+    "amt": 4095,
     "w": 100
    },
    {
-    "label": "Education",
-    "amt": 3495,
-    "w": 93
+    "label": "Technology",
+    "amt": 4010,
+    "w": 98
    },
    {
     "label": "Healthcare",
-    "amt": 3300,
-    "w": 88
+    "amt": 3500,
+    "w": 85
    },
    {
-    "label": "Real Estate",
-    "amt": 2450,
-    "w": 65
+    "label": "Government",
+    "amt": 3445,
+    "w": 84
    }
   ],
   "cycle_start_year": 0
@@ -101,24 +101,24 @@
   "last_gift": "2026-10-20",
   "topGroups": [
    {
-    "label": "Not Employed",
-    "amt": 3958,
+    "label": "Healthcare",
+    "amt": 5166,
     "w": 100
    },
    {
-    "label": "Healthcare",
-    "amt": 3661,
-    "w": 92
-   },
-   {
-    "label": "Government",
-    "amt": 3183,
+    "label": "Not Employed",
+    "amt": 4151,
     "w": 80
    },
    {
+    "label": "Government",
+    "amt": 3340,
+    "w": 65
+   },
+   {
     "label": "Technology",
-    "amt": 3143,
-    "w": 79
+    "amt": 2949,
+    "w": 57
    }
   ],
   "cycle_start_year": 0
@@ -140,21 +140,26 @@
     "label": "Legal",
     "amt": 300,
     "w": 60
+   },
+   {
+    "label": "Education",
+    "amt": 220,
+    "w": 44
    }
   ],
   "cycle_start_year": 0
  },
  "velasquez": {
   "raised": 122705,
-  "donors": 421,
+  "donors": 418,
   "contributions": 452,
-  "avg": 291.46,
+  "avg": 293.55,
   "first_gift": "2024-09-24",
   "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 34562,
+    "amt": 34852,
     "w": 100
    },
    {
@@ -164,13 +169,13 @@
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 6674,
+    "amt": 6684,
     "w": 19
    },
    {
     "label": "Government",
-    "amt": 5937,
-    "w": 17
+    "amt": 6463,
+    "w": 19
    }
   ],
   "cycle_start_year": 2023
@@ -185,23 +190,23 @@
   "topGroups": [
    {
     "label": "Technology",
-    "amt": 4218,
+    "amt": 4651,
     "w": 100
    },
    {
     "label": "Not Employed",
-    "amt": 2388,
-    "w": 57
+    "amt": 2488,
+    "w": 53
    },
    {
     "label": "Healthcare",
-    "amt": 1514,
-    "w": 36
+    "amt": 1567,
+    "w": 34
    },
    {
-    "label": "Self-Employed",
-    "amt": 1196,
-    "w": 28
+    "label": "Education",
+    "amt": 1394,
+    "w": 30
    }
   ],
   "cycle_start_year": 0
@@ -220,18 +225,18 @@
     "w": 100
    },
    {
+    "label": "Legal",
+    "amt": 11085,
+    "w": 19
+   },
+   {
     "label": "Government",
-    "amt": 10577,
+    "amt": 10902,
     "w": 18
    },
    {
-    "label": "Nonprofit / Advocacy",
-    "amt": 10471,
-    "w": 18
-   },
-   {
-    "label": "Finance",
-    "amt": 10190,
+    "label": "Healthcare",
+    "amt": 10300,
     "w": 17
    }
   ],
@@ -239,15 +244,15 @@
  },
  "weinberg": {
   "raised": 29554,
-  "donors": 185,
+  "donors": 184,
   "contributions": 237,
-  "avg": 159.75,
+  "avg": 160.62,
   "first_gift": "2025-10-17",
   "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 6180,
+    "amt": 6230,
     "w": 100
    },
    {
@@ -256,14 +261,14 @@
     "w": 54
    },
    {
-    "label": "Legal",
-    "amt": 2800,
-    "w": 45
+    "label": "Government",
+    "amt": 3004,
+    "w": 48
    },
    {
     "label": "Education",
-    "amt": 2720,
-    "w": 44
+    "amt": 2820,
+    "w": 45
    }
   ],
   "cycle_start_year": 0
@@ -278,13 +283,13 @@
   "topGroups": [
    {
     "label": "Real Estate",
-    "amt": 34959,
+    "amt": 34695,
     "w": 100
    },
    {
     "label": "Consulting / PR",
     "amt": 8189,
-    "w": 23
+    "w": 24
    },
    {
     "label": "Nonprofit / Advocacy",
@@ -308,24 +313,24 @@
   "last_gift": "2026-10-24",
   "topGroups": [
    {
-    "label": "Healthcare",
-    "amt": 13143,
+    "label": "Government",
+    "amt": 13604,
     "w": 100
+   },
+   {
+    "label": "Healthcare",
+    "amt": 13493,
+    "w": 99
    },
    {
     "label": "Not Employed",
     "amt": 12678,
-    "w": 96
+    "w": 93
    },
    {
-    "label": "Government",
-    "amt": 12549,
-    "w": 95
-   },
-   {
-    "label": "Technology",
-    "amt": 10333,
-    "w": 79
+    "label": "Real Estate",
+    "amt": 11400,
+    "w": 84
    }
   ],
   "cycle_start_year": 0
@@ -340,32 +345,32 @@
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 4258,
+    "amt": 4508,
     "w": 100
    },
    {
-    "label": "Technology",
-    "amt": 3250,
-    "w": 76
+    "label": "Government",
+    "amt": 3050,
+    "w": 68
    },
    {
-    "label": "Government",
-    "amt": 2700,
-    "w": 63
+    "label": "Technology",
+    "amt": 3000,
+    "w": 67
    },
    {
     "label": "Legal",
-    "amt": 2000,
-    "w": 47
+    "amt": 2250,
+    "w": 50
    }
   ],
   "cycle_start_year": 2025
  },
  "qadri": {
   "raised": 277660,
-  "donors": 1140,
+  "donors": 1139,
   "contributions": 1642,
-  "avg": 243.56,
+  "avg": 243.78,
   "first_gift": "2024-01-22",
   "last_gift": "2026-10-24",
   "topGroups": [
@@ -376,17 +381,17 @@
    },
    {
     "label": "Technology",
-    "amt": 36894,
+    "amt": 36619,
     "w": 63
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 20963,
-    "w": 36
+    "amt": 20179,
+    "w": 35
    },
    {
     "label": "Legal",
-    "amt": 17332,
+    "amt": 17782,
     "w": 30
    }
   ],
@@ -394,30 +399,30 @@
  },
  "heyman": {
   "raised": 60113,
-  "donors": 366,
+  "donors": 364,
   "contributions": 464,
-  "avg": 164.24,
+  "avg": 165.15,
   "first_gift": "2025-08-08",
   "last_gift": "2026-10-24",
   "topGroups": [
    {
     "label": "Not Employed",
-    "amt": 10381,
+    "amt": 10606,
     "w": 100
    },
    {
     "label": "Education",
-    "amt": 7624,
-    "w": 73
+    "amt": 8374,
+    "w": 79
    },
    {
     "label": "Self-Employed",
-    "amt": 4376,
-    "w": 42
+    "amt": 4776,
+    "w": 45
    },
    {
     "label": "Nonprofit / Advocacy",
-    "amt": 4125,
+    "amt": 4275,
     "w": 40
    }
   ],
@@ -438,13 +443,13 @@
    },
    {
     "label": "Technology",
-    "amt": 2520,
-    "w": 62
+    "amt": 2570,
+    "w": 63
    },
    {
     "label": "Government",
-    "amt": 1725,
-    "w": 43
+    "amt": 1825,
+    "w": 45
    },
    {
     "label": "Legal",
