@@ -12,8 +12,11 @@ Outputs a scored donor_identities table and detailed reports.
 
 import sqlite3
 import os
+from pathlib import Path
 
-DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "austin_finance.db")
+# The DB lives at the repo root; this script lives in archive/scripts/ (two levels down),
+# so resolve it from the file location rather than the CWD (see docs/REFRESH_RUNBOOK.md step 5e).
+DB_PATH = str(Path(__file__).resolve().parents[2] / "austin_finance.db")
 
 # ── Committee Definitions ────────────────────────────────────────────────
 
