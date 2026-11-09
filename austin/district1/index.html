@@ -313,7 +313,9 @@ function badgeHtml(c){
 
 function photoHtml(key, name){
   if (key && PHOTOS.has(key)) return '<img src="/assets/photos/' + key + '.webp" alt="' + esc(name) + '" loading="lazy">';
-  const initials = String(name).split(/\s+/).map(w => w[0] || '').join('').slice(0,3).toUpperCase();
+  // Drop a quoted nickname (Eduardo "Lalito" Romero -> Eduardo Romero) and take each word's first letter.
+  const initials = String(name).replace(/["“”][^"“”]*["“”]/g, '').split(/\s+/)
+    .map(w => (w.match(/\p{L}/u) || [''])[0]).join('').slice(0,3).toUpperCase();
   return '<div class="noimg">' + esc(initials) + '</div>';
 }
 

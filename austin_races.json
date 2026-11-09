@@ -112,12 +112,20 @@
    "data_through": "2026-10-24",
    "election_date": "2026-11-03",
    "runoff_date": "2026-12-12",
+   "runoff_early_voting": "2026-11-30 to 2026-12-08",
    "early_voting": "2026-10-19 to 2026-10-30",
    "filing_opens": "2026-07-20",
    "filing_closes": "2026-08-17",
-   "ballot_final": false,
-   "intro": "José Velásquez, who has represented District 3 since 2023, is seeking a second term. He won the seat in December 2022, defeating Daniela Silva in a runoff with 53% of the vote. The district covers Central-East and East Austin.",
-   "context_note": "Candidate filing runs July 20 - August 17, 2026. Everyone listed here has declared and appointed a campaign treasurer, but filing has not closed. Expect additions, and expect some listed candidates not to complete filing.",
+   "ballot_final": true,
+   "phase": "runoff",
+   "result_note": "Incumbent Velásquez led with 47.3 percent on Nov 3 but fell short of a majority and faces Shah, who took 24.7 percent, in a Dec 12 runoff; results are unofficial until the canvass.",
+   "result_source": {
+    "outlet": "KUT",
+    "url": "https://www.kut.org/politics/2026-11-03/austin-tx-district-3-city-council-election-results-2026",
+    "date": "2026-11-03"
+   },
+   "intro": "José Velásquez, who has represented District 3 since 2023, is seeking a second term. He won the seat in December 2022, defeating Daniela Silva in a runoff with 53% of the vote. The district covers Central-East and East Austin. On November 3, 2026, Velásquez led a five-candidate field with 47.3 percent of the vote, short of the majority needed to win outright; he meets second-place finisher Neha Shah, who took 24.7 percent, in a December 12 runoff.",
+   "context_note": "Filing closed August 17, 2026 with five candidates on the ballot. Money raised for the December 12 runoff is reported in the same City Clerk filings and is included here as reports post.",
    "candidates": [
     {
      "slug": "velasquez",
@@ -125,8 +133,10 @@
      "recipient": "Velasquez, Jose",
      "photo": "au3",
      "website": null,
-     "bio": "East Austin native and marketing strategist; elected to this seat in 2022, defeating Daniela Silva in a December runoff. Seeking a second term.",
+     "bio": "East Austin native and marketing strategist; elected to this seat in 2022, defeating Daniela Silva in a December runoff. Led the November 3, 2026 general but fell short of a majority; faces Neha Shah in a December runoff for a second term.",
      "status": "incumbent",
+     "result": "runoff",
+     "vote_pct": 47.3,
      "has_data": true
     },
     {
@@ -137,7 +147,43 @@
      "website": "https://www.nehaforatx.com",
      "bio": "Software technology developer, startup entrepreneur and bilingual children's book author; District 3 resident since 2016. First run for office.",
      "status": "declared",
+     "result": "runoff",
+     "vote_pct": 24.7,
      "has_data": true
+    },
+    {
+     "slug": "romero",
+     "name": "Eduardo \"Lalito\" Romero",
+     "recipient": "Romero, Eduardo",
+     "website": null,
+     "bio": "University staff member; ran in the March 2024 Democratic primary for Texas' 37th Congressional District and for Austin City Council District 4 in November 2024.",
+     "status": "declared",
+     "result": "eliminated",
+     "vote_pct": 12.1,
+     "has_data": true
+    },
+    {
+     "slug": "skinner",
+     "name": "Brock Skinner",
+     "recipient": "Skinner, Brock D.",
+     "website": null,
+     "bio": "Background in sales, marketing and business development; studied at the University of Texas at Austin. Campaigned on his lack of City Hall experience and on cutting city spending.",
+     "status": "declared",
+     "result": "eliminated",
+     "vote_pct": 9.6,
+     "has_data": true
+    },
+    {
+     "slug": null,
+     "name": "Gavino Fernandez Jr.",
+     "recipient": "Fernandez, Gavino",
+     "website": null,
+     "bio": "Longtime East Austin activist from the Holly neighborhood; retired, formerly chief of staff to Travis County Commissioner Marcos De Leon and a LULAC district director. Ran for this seat in 2022, finishing fifth.",
+     "status": "declared",
+     "result": "eliminated",
+     "vote_pct": 6.3,
+     "has_data": false,
+     "placeholder_note": "Ran for this seat in 2022 ($5,303 raised then) but has reported no itemized contributions in the 2026 cycle."
     }
    ],
    "omitted": []

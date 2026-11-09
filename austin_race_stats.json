@@ -211,6 +211,37 @@
   ],
   "cycle_start_year": 0
  },
+ "romero": {
+  "raised": 1040,
+  "donors": 3,
+  "contributions": 13,
+  "avg": 346.67,
+  "first_gift": "2026-06-06",
+  "last_gift": "2026-10-21",
+  "topGroups": [],
+  "cycle_start_year": 0
+ },
+ "skinner": {
+  "raised": 1040,
+  "donors": 12,
+  "contributions": 12,
+  "avg": 86.67,
+  "first_gift": "2026-08-12",
+  "last_gift": "2026-10-22",
+  "topGroups": [
+   {
+    "label": "Healthcare",
+    "amt": 100,
+    "w": 100
+   },
+   {
+    "label": "Transportation",
+    "amt": 10,
+    "w": 10
+   }
+  ],
+  "cycle_start_year": 0
+ },
  "alter": {
   "raised": 202536,
   "donors": 644,
